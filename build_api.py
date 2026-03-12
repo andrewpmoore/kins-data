@@ -253,28 +253,57 @@ def load_historical_csv(filepath):
                 }
     return history
 
+def load_existing_database():
+    """Recursively scans the output directory and loads JSON data to avoid full re-builds."""
+    db = {}
+    if not os.path.exists(OUTPUT_DIR):
+        return db
+        
+    print(f"🔄 Loading existing database from {OUTPUT_DIR}...")
+    for country in os.listdir(OUTPUT_DIR):
+        country_path = os.path.join(OUTPUT_DIR, country)
+        if os.path.isdir(country_path):
+            for year_file in os.listdir(country_path):
+                if year_file.endswith('.json'):
+                    year = year_file.replace('.json', '')
+                    with open(os.path.join(country_path, year_file), 'r', encoding='utf-8') as f:
+                        try:
+                            db.setdefault(country, {})[year] = json.load(f)
+                        except: pass
+    return db
+
 # --- MAIN GENERATOR ---
 def process_data():
-    database = {}
+    database = load_existing_database()
     today = datetime.utcnow()
     
-    # 1. PROCESS US DATA FIRST (Serves as the Global Fallback)
-    print("📚 Scanning for historical US/Global data...")
-    us_history = load_historical_csv('data/music.csv')
-    
-    for y, days in us_history.items():
-        for day_key, data_obj in days.items():
-            database.setdefault('us', {}).setdefault(y, {}).setdefault(day_key, {})
-            database['us'][y][day_key]['music'] = data_obj
-            database['us'][y][day_key]['global_music'] = data_obj
+    # 1. PROCESS US DATA ONLY IF MISSING
+    if not database.get('us'):
+        print("📚 Scanning for historical US/Global data...")
+        us_history = load_historical_csv('data/music.csv')
+        
+        for y, days in us_history.items():
+            for day_key, data_obj in days.items():
+                database.setdefault('us', {}).setdefault(y, {}).setdefault(day_key, {})
+                database['us'][y][day_key]['music'] = data_obj
+                database['us'][y][day_key]['global_music'] = data_obj
+    else:
+        print("✅ US historical data already loaded from JSON. Skipping CSV.")
+        # We still need us_history for the global fallback logic below
+        us_history = {} # In incremental mode, we assume JSON already has fallbacks or we use live ones
 
     # 2. DYNAMICALLY PROCESS ALL OTHER REGIONAL CSVs
     print("📚 Scanning for other regional historical CSVs...")
     for folder in COUNTRIES.keys():
         if folder == 'us': continue # Handled above
         
-        # Look for files formatted like data/music_uk.csv, data/music_de.csv, etc.
-        csv_path = f'data/music_{folder}.csv'
+        # Skip if this country is already populated from JSON
+        if database.get(folder):
+            print(f"✅ {folder.upper()} data already loaded from JSON. Skipping CSV.")
+            continue
+            
+        # Look for files formatted like data/music/music_uk.csv, etc.
+        csv_path = f'data/music/music_{folder}.csv'
         if os.path.exists(csv_path):
             print(f"   -> Found data for {folder.upper()}!")
             regional_history = load_historical_csv(csv_path)

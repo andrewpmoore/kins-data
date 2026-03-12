@@ -2,7 +2,7 @@ name: Generate Daily Static API
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs at 00:00 every Sunday
+    - cron: '0 0 * * *' # Runs at 00:00 every day
   workflow_dispatch:
 
 jobs:
@@ -12,8 +12,15 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repository (Main)
         uses: actions/checkout@v4
+
+      - name: Checkout Existing API Data Branch
+        continue-on-error: true # Might fail if first time run
+        uses: actions/checkout@v4
+        with:
+          ref: api-data
+          path: api
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,18 +29,11 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install kaggle pandas requests
+          pip install pandas requests
           mkdir -p data
+          mkdir -p api
 
-      - name: Download Historical Datasets
-        env:
-          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
-          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
-        run: |
-          kaggle datasets download -d dhruvildave/billboard-the-hot-100-songs -p data --unzip
-          mv data/charts.csv data/music.csv || true 
-
-      - name: Run Hybrid API Generator Script
+      - name: Run Hybrid API Generator Script (Incremental)
         env:
           TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
