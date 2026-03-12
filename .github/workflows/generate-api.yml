@@ -1,0 +1,51 @@
+name: Generate Daily Static API
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs at 00:00 every Sunday
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install kaggle pandas requests
+          mkdir -p data
+
+      - name: Download Historical Datasets
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          kaggle datasets download -d dhruvildave/billboard-the-hot-100-songs -p data --unzip
+          mv data/charts.csv data/music.csv || true 
+
+      - name: Run Hybrid API Generator Script
+        env:
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+          LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
+        run: python build_api.py
+
+      - name: Force Push to Dedicated Data Branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git checkout -B api-data
+          git add api/ -f
+          
+          git commit -m "chore: automated hybrid API data generation (Last.fm)" || true
+          git push --force origin api-data

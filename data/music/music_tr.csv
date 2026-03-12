@@ -1,0 +1,623 @@
+date,rank,song,artist
+2006-03-13,1,Belki Üstümüzden Bir Kuş Geçer,Yüksek Sadakat
+2006-03-20,1,Belki Üstümüzden Bir Kuş Geçer,Yüksek Sadakat
+2006-03-27,1,Keşke,Yalın
+2006-04-03,1,Nerdesin,Gece Yolcuları
+2006-04-10,1,Nerdesin,Gece Yolcuları
+2006-04-17,1,Yurtta Aşk Cihanda Aşk,Gülşen
+2006-04-24,1,Yurtta Aşk Cihanda Aşk,Gülşen
+2006-05-01,1,Yurtta Aşk Cihanda Aşk,Gülşen
+2006-05-08,1,Aşkın Ateşi,Hande Yener
+2006-05-15,1,Sarı Laleler,MFÖ
+2006-05-22,1,Sarı Laleler,MFÖ
+2006-05-29,1,Sarı Laleler,MFÖ
+2006-06-05,1,Sor,Serdar Ortaç
+2006-06-12,1,Sor,Serdar Ortaç
+2006-06-19,1,Sarı Laleler,MFÖ
+2006-06-26,1,Afedersin,Demet Akalın
+2006-07-03,1,Afedersin,Demet Akalın
+2006-07-10,1,Afedersin,Demet Akalın
+2006-07-17,1,Afedersin,Demet Akalın
+2006-07-24,1,Afedersin,Demet Akalın
+2006-07-31,1,Afedersin,Demet Akalın
+2006-08-07,1,Afedersin,Demet Akalın
+2006-08-14,1,Çakkıdı,Kenan Doğulu
+2006-08-21,1,Çakkıdı,Kenan Doğulu
+2006-08-28,1,Çakkıdı,Kenan Doğulu
+2006-09-04,1,Çakkıdı,Kenan Doğulu
+2006-09-11,1,Çakkıdı,Kenan Doğulu
+2006-09-18,1,Çakkıdı,Kenan Doğulu
+2006-09-25,1,Herkes Hak Ettiği Gibi Yaşıyor,Demet Akalın
+2006-10-02,1,Gitme,Serdar Ortaç
+2006-10-09,1,Gitme,Serdar Ortaç
+2006-10-16,1,Afili Yalnızlık,Emre Aydın
+2006-10-23,1,Afili Yalnızlık,Emre Aydın
+2006-10-30,1,Afili Yalnızlık,Emre Aydın
+2006-11-06,1,Afili Yalnızlık,Emre Aydın
+2006-11-13,1,Afili Yalnızlık,Emre Aydın
+2006-11-20,1,Afili Yalnızlık,Emre Aydın
+2006-11-27,1,Aşkım Baksana Bana,Nazan Öncel
+2006-12-04,1,Aşkım Baksana Bana,Nazan Öncel
+2006-12-11,1,Afili Yalnızlık,Emre Aydın
+2006-12-18,1,Aşkım Baksana Bana,Nazan Öncel
+2006-12-25,1,Hayırdır İnşallah,Yaşar
+2007-01-01,1,Hayırdır İnşallah,Yaşar
+2007-01-08,1,Hayırdır İnşallah,Yaşar
+2007-01-15,1,Hayırdır İnşallah,Yaşar
+2007-01-22,1,Hayırdır İnşallah,Yaşar
+2007-01-29,1,Hayırdır İnşallah,Yaşar
+2007-02-05,1,Hayırdır İnşallah,Yaşar
+2007-02-12,1,Hayırdır İnşallah,Yaşar
+2007-02-19,1,Hayırdır İnşallah,Yaşar
+2007-02-26,1,Aşk Bitti,Keremcem
+2007-03-05,1,Aşk Bitti,Keremcem
+2007-03-12,1,Aşk Bitti,Keremcem
+2007-03-19,1,Aşk Bitti,Keremcem
+2007-03-26,1,Cennet,Ferhat Göçer
+2007-04-02,1,Cennet,Ferhat Göçer
+2007-04-09,1,Cennet,Ferhat Göçer
+2007-04-16,1,Böyle Kahpedir Dünya,Gripin
+2007-04-23,1,Böyle Kahpedir Dünya,Gripin
+2007-04-30,1,Bu Mudur?,Nil Karaibrahimgil
+2007-05-07,1,Bu Mudur?,Nil Karaibrahimgil
+2007-05-14,1,Bu Mudur?,Nil Karaibrahimgil
+2007-05-21,1,Bu Mudur?,Nil Karaibrahimgil
+2007-05-28,1,Bu Mudur?,Nil Karaibrahimgil
+2007-06-04,1,Bu Mudur?,Nil Karaibrahimgil
+2007-06-11,1,Komple,Burak Kut
+2007-06-18,1,Komple,Burak Kut
+2007-06-25,1,Komple,Burak Kut
+2007-07-02,1,Kibir,Hande Yener
+2007-07-09,1,İndir,Mustafa Sandal
+2007-07-16,1,İndir,Mustafa Sandal
+2007-07-23,1,İndir,Mustafa Sandal
+2007-07-30,1,İndir,Mustafa Sandal
+2007-08-06,1,İndir,Mustafa Sandal
+2007-08-13,1,İndir,Mustafa Sandal
+2007-08-20,1,İndir,Mustafa Sandal
+2007-08-27,1,İndir,Mustafa Sandal
+2007-09-03,1,İndir,Mustafa Sandal
+2007-09-10,1,Romeo,Hande Yener
+2007-09-17,1,Romeo,Hande Yener
+2007-09-24,1,Romeo,Hande Yener
+2007-10-01,1,Tövbeliyim,Gökhan Özen
+2007-10-08,1,Tövbeliyim,Gökhan Özen
+2007-10-15,1,Sükut-u Hayal,Nev
+2007-10-22,1,Sükut-u Hayal,Nev
+2007-10-29,1,Sükut-u Hayal,Nev
+2007-11-05,1,...Dan Sonra,Sıla & Kenan Doğulu
+2007-11-12,1,...Dan Sonra,Sıla & Kenan Doğulu
+2007-11-19,1,...Dan Sonra,Sıla & Kenan Doğulu
+2007-11-26,1,...Dan Sonra,Sıla & Kenan Doğulu
+2007-12-01,1,...Dan Sonra,Sıla & Kenan Doğulu
+2007-12-08,1,...Dan Sonra,Sıla & Kenan Doğulu
+2007-12-15,1,...Dan Sonra,Sıla & Kenan Doğulu
+2007-12-22,1,...Dan Sonra,Sıla & Kenan Doğulu
+2007-12-29,1,...Dan Sonra,Sıla & Kenan Doğulu
+2008-01-05,1,...Dan Sonra,Sıla & Kenan Doğulu
+2009-01-05,1,Aşk-ı Virane,Rafet El Roman & Yusuf Güney
+2010-01-04,1,Hastalıkta Sağlıkta,Mustafa Ceceli
+2010-01-11,1,Hastalıkta Sağlıkta,Mustafa Ceceli
+2010-01-18,1,Hastalıkta Sağlıkta,Mustafa Ceceli
+2010-01-25,1,Bi' An Gel,Gülşen
+2010-02-01,1,Bi' An Gel,Gülşen
+2010-02-08,1,Bi' An Gel,Gülşen
+2010-02-15,1,Çok Özlüyorum Seni,Gökhan Tepe
+2010-02-22,1,Rüya,Ziynet Sali
+2010-03-01,1,Rüya,Ziynet Sali
+2010-03-08,1,Rüya,Ziynet Sali
+2010-03-15,1,Rüya,Ziynet Sali
+2010-03-22,1,Rüya,Ziynet Sali
+2010-03-29,1,Bu Yağmurlar,Emre Aydın
+2010-04-05,1,Bu Yağmurlar,Emre Aydın
+2010-04-12,1,Bu Yağmurlar,Emre Aydın
+2010-04-19,1,Bu Yağmurlar,Emre Aydın
+2010-04-26,1,Bu Yağmurlar,Emre Aydın
+2010-05-03,1,Bu Yağmurlar,Emre Aydın
+2010-05-10,1,Bu Yağmurlar,Emre Aydın
+2010-05-17,1,Durma Yağmur Durma,Gripin
+2010-05-24,1,Üzüm,Ferhat Göçer
+2010-05-31,1,Üzüm,Ferhat Göçer
+2010-06-07,1,Üzüm,Ferhat Göçer
+2010-06-14,1,Üzüm,Ferhat Göçer
+2010-06-21,1,Üzüm,Ferhat Göçer
+2010-06-28,1,Üzüm,Ferhat Göçer
+2010-07-05,1,Üzüm,Ferhat Göçer
+2010-07-08,1,Bodrum,Hande Yener
+2010-07-15,1,Alain Delon,Ozan Doğulu & Sıla
+2010-07-22,1,Alain Delon,Ozan Doğulu & Sıla
+2010-07-29,1,Alain Delon,Ozan Doğulu & Sıla
+2010-08-05,1,Alain Delon,Ozan Doğulu & Sıla
+2010-08-12,1,Alain Delon,Ozan Doğulu & Sıla
+2010-08-19,1,Alain Delon,Ozan Doğulu & Sıla
+2010-08-26,1,Alain Delon,Ozan Doğulu & Sıla
+2010-09-02,1,Alain Delon,Ozan Doğulu & Sıla
+2010-09-09,1,Rengârenk,Sertab Erener
+2010-09-16,1,Rengârenk,Sertab Erener
+2010-09-23,1,Adımı Kalbine Yaz,Tarkan
+2010-09-30,1,Rengârenk,Sertab Erener
+2010-10-07,1,Rengârenk,Sertab Erener
+2010-10-14,1,Öp,Tarkan
+2010-10-21,1,Öp,Tarkan
+2010-10-28,1,Öp,Tarkan
+2010-11-04,1,Öp,Tarkan
+2010-11-11,1,Öp,Tarkan
+2010-11-18,1,Hoşçakal,Emre Aydın
+2010-11-25,1,Hoşçakal,Emre Aydın
+2010-12-02,1,Acısa da Öldürmez,Sıla
+2010-12-09,1,Acısa da Öldürmez,Sıla
+2010-12-16,1,Acısa da Öldürmez,Sıla
+2010-12-23,1,Acısa da Öldürmez,Sıla
+2010-12-30,1,Acısa da Öldürmez,Sıla
+2011-01-06,1,Acısa da Öldürmez,Sıla
+2011-01-13,1,Acısa da Öldürmez,Sıla
+2011-01-20,1,Acısa da Öldürmez,Sıla
+2011-01-27,1,Eksik,Mustafa Ceceli and Elvan Günaydın
+2011-02-03,1,Eksik,Mustafa Ceceli and Elvan Günaydın
+2011-02-10,1,Eksik,Mustafa Ceceli and Elvan Günaydın
+2011-02-17,1,Eksik,Mustafa Ceceli and Elvan Günaydın
+2011-02-24,1,Sen ve Ben,Funda Arar
+2011-03-03,1,Sen ve Ben,Funda Arar
+2011-03-10,1,Sen ve Ben,Funda Arar
+2011-03-17,1,Sen ve Ben,Funda Arar
+2011-03-24,1,Sen ve Ben,Funda Arar
+2011-03-31,1,Sen ve Ben,Funda Arar
+2011-04-07,1,Sen ve Ben,Funda Arar
+2011-04-14,1,Sen ve Ben,Funda Arar
+2011-04-21,1,Budur,Atiye
+2011-04-28,1,Budur,Atiye
+2011-05-05,1,Budur,Atiye
+2011-05-12,1,Budur,Atiye
+2011-05-19,1,Budur,Atiye
+2011-05-26,1,Yeni Biri,Gülşen
+2011-06-02,1,Direniyorum,Rafet El Roman
+2011-06-09,1,Direniyorum,Rafet El Roman
+2011-06-16,1,Direniyorum,Rafet El Roman
+2011-06-23,1,Direniyorum,Rafet El Roman
+2011-06-30,1,Kafa,Sıla
+2011-07-07,1,Kafa,Sıla
+2011-07-14,1,Kafa,Sıla
+2011-07-21,1,Direniyorum,Rafet El Roman
+2011-07-28,1,Şıkır Şıkır,Gülben Ergen and Mustafa Sandal
+2011-08-04,1,Şıkır Şıkır,Gülben Ergen and Mustafa Sandal
+2011-08-11,1,Şıkır Şıkır,Gülben Ergen and Mustafa Sandal
+2011-08-18,1,Tuttu Fırlattı,Gökçe
+2011-08-25,1,Tuttu Fırlattı,Gökçe
+2011-09-01,1,Tuttu Fırlattı,Gökçe
+2011-09-08,1,Tuttu Fırlattı,Gökçe
+2011-09-15,1,Tuttu Fırlattı,Gökçe
+2011-09-22,1,Sözde Ayrılık,Gülşen
+2011-09-29,1,Sözde Ayrılık,Gülşen
+2011-10-06,1,Sözde Ayrılık,Gülşen
+2011-10-13,1,Sözde Ayrılık,Gülşen
+2011-10-20,1,Hep Yaşın 19,MFÖ
+2011-10-27,1,Boş Yere,Sıla
+2011-11-03,1,Hep Yaşın 19,MFÖ
+2011-11-10,1,Geri Dönüş Olsa,Murat Boz
+2011-11-17,1,Boş Yere,Sıla
+2011-11-24,1,Boş Yere,Sıla
+2011-12-01,1,Boş Yere,Sıla
+2011-12-08,1,Oflaya Oflaya,Burcu Güneş
+2011-12-15,1,Oflaya Oflaya,Burcu Güneş
+2011-12-22,1,Oflaya Oflaya,Burcu Güneş
+2011-12-29,1,Oflaya Oflaya,Burcu Güneş
+2012-01-05,1,Oflaya Oflaya,Burcu Güneş
+2012-01-12,1,Oflaya Oflaya,Burcu Güneş
+2012-01-19,1,Oflaya Oflaya,Burcu Güneş
+2012-01-26,1,Oflaya Oflaya,Burcu Güneş
+2012-02-02,1,Oflaya Oflaya,Burcu Güneş
+2012-02-09,1,Oflaya Oflaya,Burcu Güneş
+2012-02-16,1,Kalamam Arkadaş,Murat Boz
+2012-02-23,1,Oflaya Oflaya,Burcu Güneş
+2012-03-01,1,Boş Bardak,Fettah Can
+2012-03-08,1,Boş Bardak,Fettah Can
+2012-03-15,1,Boş Bardak,Fettah Can
+2012-03-22,1,Boş Bardak,Fettah Can
+2012-03-29,1,Senden Sonra,Rafet El Roman
+2012-04-05,1,Senden Sonra,Rafet El Roman
+2012-04-12,1,Senden Sonra,Rafet El Roman
+2012-04-19,1,Senden Sonra,Rafet El Roman
+2012-04-26,1,Es,Mustafa Ceceli
+2012-05-03,1,Senden Sonra,Rafet El Roman
+2012-05-10,1,Soğuk Odalar,Emre Aydın and Gülden Mutlu
+2012-05-17,1,Soğuk Odalar,Emre Aydın and Gülden Mutlu
+2012-05-24,1,Soğuk Odalar,Emre Aydın and Gülden Mutlu
+2012-05-31,1,Soğuk Odalar,Emre Aydın and Gülden Mutlu
+2012-06-07,1,Sudan Sebep,Emir
+2012-06-14,1,Soğuk Odalar,Emre Aydın and Gülden Mutlu
+2012-06-21,1,Soğuk Odalar,Emre Aydın and Gülden Mutlu
+2012-06-28,1,Soğuk Odalar,Emre Aydın and Gülden Mutlu
+2012-07-05,1,Bir Güzellik Yap,Murat Dalkılıç
+2012-07-12,1,Bir Güzellik Yap,Murat Dalkılıç
+2012-07-19,1,Bir Güzellik Yap,Murat Dalkılıç
+2012-07-26,1,Aşk Gitti Bizden,Ozan Çolakoğlu and Tarkan
+2012-08-02,1,Aşk Gitti Bizden,Ozan Çolakoğlu and Tarkan
+2012-08-09,1,Aşk Gitti Bizden,Ozan Çolakoğlu and Tarkan
+2012-08-16,1,Bitmesin,Gökhan Türkmen
+2012-08-23,1,Bitmesin,Gökhan Türkmen
+2012-08-30,1,Bitmesin,Gökhan Türkmen
+2012-09-06,1,Bitmesin,Gökhan Türkmen
+2012-09-13,1,Bitmesin,Gökhan Türkmen
+2012-09-20,1,Bitmesin,Gökhan Türkmen
+2012-09-27,1,Bitmesin,Gökhan Türkmen
+2012-10-04,1,Bitmesin,Gökhan Türkmen
+2012-10-11,1,Bitmesin,Gökhan Türkmen
+2012-10-18,1,Bitmesin,Gökhan Türkmen
+2012-10-25,1,Dağılmak İstiyorum,Ozan Doğulu and Model
+2012-11-01,1,Dağılmak İstiyorum,Ozan Doğulu and Model
+2012-11-08,1,Dağılmak İstiyorum,Ozan Doğulu and Model
+2012-11-15,1,Dağılmak İstiyorum,Ozan Doğulu and Model
+2012-11-22,1,Dağılmak İstiyorum,Ozan Doğulu and Model
+2012-11-29,1,Beni Biraz Böyle Hatırla,Emre Aydın
+2012-12-06,1,Beni Biraz Böyle Hatırla,Emre Aydın
+2012-12-13,1,Dağılmak İstiyorum,Ozan Doğulu and Model
+2012-12-20,1,Dağılmak İstiyorum,Ozan Doğulu and Model
+2012-12-27,1,Lüzümsuz Savaş,Murat Dalkılıç
+2015-01-02,1,İyisin Tabi,Deniz Seki
+2015-01-08,1,İyisin Tabi,Deniz Seki
+2015-01-15,1,Gelsen De Anlatsam,Gökhan Tepe
+2015-01-22,1,Gelsen De Anlatsam,Gökhan Tepe
+2015-01-29,1,Gelsen De Anlatsam,Gökhan Tepe
+2015-02-05,1,Gelsen De Anlatsam,Gökhan Tepe
+2015-02-12,1,Sen İstanbul'sun,Gökhan Türkmen
+2015-02-19,1,Sen İstanbul'sun,Gökhan Türkmen
+2015-02-26,1,Sen İstanbul'sun,Gökhan Türkmen
+2015-03-05,1,Sen İstanbul'sun,Gökhan Türkmen
+2015-03-12,1,Gelsen De Anlatsam,Gökhan Tepe
+2015-03-19,1,Gelsen De Anlatsam,Gökhan Tepe
+2015-03-26,1,Gelsen De Anlatsam,Gökhan Tepe
+2015-04-02,1,Sebastian,Hande Yener
+2015-04-09,1,Sebastian,Hande Yener
+2015-04-16,1,Sebastian,Hande Yener
+2015-04-24,1,Hediye,Sıla
+2015-04-30,1,Hediye,Sıla
+2015-05-07,1,Bangır Bangır,Gülşen
+2015-05-14,1,Bangır Bangır,Gülşen
+2015-05-21,1,Bangır Bangır,Gülşen
+2015-05-28,1,Bangır Bangır,Gülşen
+2015-06-04,1,Bangır Bangır,Gülşen
+2015-06-11,1,Bangır Bangır,Gülşen
+2015-06-18,1,Bangır Bangır,Gülşen
+2015-06-25,1,Bangır Bangır,Gülşen
+2015-07-02,1,Bangır Bangır,Gülşen
+2015-07-10,1,Bangır Bangır,Gülşen
+2015-07-21,1,Bangır Bangır,Gülşen
+2015-07-24,1,Yaz Günü,Hadise
+2015-07-31,1,Bangır Bangır,Gülşen
+2015-08-07,1,Bangır Bangır,Gülşen
+2015-08-14,1,Miş Miş,Simge
+2015-08-21,1,Miş Miş,Simge
+2015-08-31,1,Miş Miş,Simge
+2015-09-04,1,Miş Miş,Simge
+2015-09-11,1,Sarışın,Mabel Matiz
+2015-09-18,1,Sarışın,Mabel Matiz
+2015-09-26,1,Sarışın,Mabel Matiz
+2015-10-02,1,Sarışın,Mabel Matiz
+2015-10-09,1,Sana N'olmuş,Betül Demir
+2015-10-16,1,Sarışın,Mabel Matiz
+2015-10-23,1,İstersen,Buray
+2015-10-30,1,İstersen,Buray
+2015-11-06,1,İstersen,Buray
+2015-11-13,1,İstersen,Buray
+2015-11-20,1,İstersen,Buray
+2015-11-27,1,Yapboz,Emre Kaya
+2015-12-04,1,Yapboz,Emre Kaya
+2015-12-11,1,Yapboz,Emre Kaya
+2015-12-18,1,Yapboz,Emre Kaya
+2015-12-25,1,Yapboz,Emre Kaya
+2016-01-04,1,Yapboz,Emre Kaya
+2016-01-08,1,Yapboz,Emre Kaya
+2016-01-15,1,Yapboz,Emre Kaya
+2016-01-22,1,Bir Hadise Var,Mabel Matiz
+2016-01-29,1,Bir Hadise Var,Mabel Matiz
+2016-02-05,1,Bir Hadise Var,Mabel Matiz
+2016-02-12,1,Sen Sevda Mısın,Buray
+2016-02-19,1,Sen Sevda Mısın,Buray
+2016-02-26,1,Sen Sevda Mısın,Buray
+2016-03-04,1,Muhtemel Aşk,27
+2016-03-11,1,Muhtemel Aşk,27
+2016-03-18,1,Muhtemel Aşk,27
+2016-03-25,1,Muhtemel Aşk,27
+2016-04-01,1,Muhtemel Aşk,27
+2016-04-08,1,Dantel,İrem Derici
+2016-04-15,1,Dantel,İrem Derici
+2016-04-22,1,Dantel,İrem Derici
+2016-04-29,1,Dantel,İrem Derici
+2016-05-06,1,Janti,Murat Boz
+2016-05-13,1,Bağdat,Ayla Çelik feat. Beyazıt Öztürk
+2016-05-20,1,Janti,Murat Boz
+2016-05-27,1,Bağdat,Ayla Çelik
+2016-06-03,1,Bağdat,Ayla Çelik
+2016-06-10,1,Bağdat,Ayla Çelik
+2016-06-17,1,Bağdat,Ayla Çelik
+2016-06-24,1,Bağdat,Ayla Çelik
+2016-07-01,1,Bağdat,Ayla Çelik
+2016-07-08,1,Janti,Murat Boz
+2016-07-15,1,Mor,Hande Yener
+2016-07-22,1,Mor,Hande Yener
+2016-07-29,1,Mor,Hande Yener
+2016-08-05,1,Okyanus,Derya Uluğ
+2016-08-12,1,Okyanus,Derya Uluğ
+2016-08-19,1,Okyanus,Derya Uluğ
+2016-08-26,1,Adeyyo,Ece Seçkin
+2016-09-02,1,Adeyyo,Ece Seçkin
+2016-09-09,1,Adeyyo,Ece Seçkin
+2016-09-16,1,Adeyyo,Ece Seçkin
+2016-09-23,1,Adeyyo,Ece Seçkin
+2016-09-30,1,Adeyyo,Ece Seçkin
+2016-10-07,1,Adeyyo,Ece Seçkin
+2016-10-14,1,Adeyyo,Ece Seçkin
+2016-10-21,1,Adeyyo,Ece Seçkin
+2016-10-28,1,Hacıyatmaz,Emirhan Cengiz
+2016-11-04,1,Hacıyatmaz,Emirhan Cengiz
+2016-11-11,1,Hacıyatmaz,Emirhan Cengiz
+2016-11-18,1,Dın Dın,Emre Kaya
+2016-11-25,1,Hayalet,Demet Akalın
+2016-12-02,1,Hayalet,Demet Akalın
+2016-12-09,1,Hayalet,Demet Akalın
+2016-12-16,1,Hayalet,Demet Akalın
+2016-12-23,1,Hayalet,Demet Akalın
+2016-12-30,1,Aşk mı Lazım,Buray
+2017-01-06,1,Aşk mı Lazım,Buray
+2017-01-13,1,Aşk mı Lazım,Buray
+2017-01-20,1,Aşk mı Lazım,Buray
+2017-01-27,1,Aşk mı Lazım,Buray
+2017-02-03,1,Aşk mı Lazım,Buray
+2017-02-10,1,Canavar,Derya Uluğ
+2017-02-17,1,Canavar,Derya Uluğ
+2017-02-24,1,Canavar,Derya Uluğ
+2017-03-03,1,Canavar,Derya Uluğ
+2017-03-10,1,Aşkın Mevsimi Olmaz Ki,Ferhat Göçer
+2017-03-17,1,Aşkın Mevsimi Olmaz Ki,Ferhat Göçer
+2017-03-24,1,Aşkın Mevsimi Olmaz Ki,Ferhat Göçer
+2017-03-31,1,Aşkın Mevsimi Olmaz Ki,Ferhat Göçer
+2017-04-07,1,Canavar,Derya Uluğ
+2017-04-14,1,Canavar,Derya Uluğ
+2017-04-21,1,Canavar,Derya Uluğ
+2017-04-28,1,İhanetten Geri Kalan,Sezen Aksu
+2017-05-05,1,İhanetten Geri Kalan,Sezen Aksu
+2017-05-12,1,İhanetten Geri Kalan,Sezen Aksu
+2017-05-19,1,İhanetten Geri Kalan,Sezen Aksu
+2017-05-26,1,İhanetten Geri Kalan,Sezen Aksu
+2017-06-02,1,Küsme Aşka,Oğuzhan Koç
+2017-06-09,1,Tekamül,Soner Sarıkabadayı
+2017-06-16,1,Canavar,Derya Uluğ
+2017-06-23,1,Yolla,Tarkan
+2017-06-30,1,Yolla,Tarkan
+2017-07-07,1,Yolla,Tarkan
+2017-07-14,1,Yolla,Tarkan
+2017-07-21,1,Yolla,Tarkan
+2017-07-28,1,Yolla,Tarkan
+2017-08-04,1,Yolla,Tarkan
+2017-08-11,1,Yolla,Tarkan
+2017-08-18,1,Yolla,Tarkan
+2017-08-25,1,Yolla,Tarkan
+2017-09-01,1,Yolla,Tarkan
+2017-09-08,1,Yolla,Tarkan
+2017-09-15,1,Yolla,Tarkan
+2017-09-22,1,Sen Olsan Bari,Aleyna Tilki
+2017-09-29,1,Sen Olsan Bari,Aleyna Tilki
+2017-10-06,1,Aşinayız,Murat Dalkılıç ft. Oğuzhan Koç
+2017-10-13,1,Aşinayız,Murat Dalkılıç ft. Oğuzhan Koç
+2017-10-20,1,Aşinayız,Murat Dalkılıç ft. Oğuzhan Koç
+2017-10-27,1,Aşinayız,Murat Dalkılıç ft. Oğuzhan Koç
+2017-11-03,1,İnceden İnceden,Tuğba Yurt
+2017-11-10,1,İnceden İnceden,Tuğba Yurt
+2017-11-17,1,İnceden İnceden,Tuğba Yurt
+2017-11-24,1,Sıfır Tolerans,Hadise
+2017-12-01,1,Sıfır Tolerans,Hadise
+2017-12-08,1,Günah,Ferhat Göçer feat. Volga Tamöz
+2017-12-15,1,Günah,Ferhat Göçer feat. Volga Tamöz
+2017-12-22,1,Beni Çok Sev,Tarkan
+2017-12-29,1,Sinsirella,Aylin Coşkun
+2018-01-05,1,Beni Çok Sev,Tarkan
+2018-01-12,1,Beni Çok Sev,Tarkan
+2018-01-19,1,Beni Çok Sev,Tarkan
+2018-01-26,1,Sinsirella,Aylin Coşkun
+2018-02-02,1,Sinsirella,Aylin Coşkun
+2018-02-09,1,Sinsirella,Aylin Coşkun
+2018-02-16,1,Sinsirella,Aylin Coşkun
+2018-02-23,1,Sinsirella,Aylin Coşkun
+2018-03-02,1,Sinsirella,Aylin Coşkun
+2018-03-09,1,Sinsirella,Aylin Coşkun
+2018-03-16,1,Öyle Kolaysa,Mabel Matiz
+2018-03-23,1,Öyle Kolaysa,Mabel Matiz
+2018-03-30,1,Öyle Kolaysa,Mabel Matiz
+2018-04-06,1,Öyle Kolaysa,Mabel Matiz
+2018-04-13,1,Öyle Kolaysa,Mabel Matiz
+2018-04-20,1,Öyle Kolaysa,Mabel Matiz
+2018-04-27,1,Öyle Kolaysa,Mabel Matiz
+2018-05-04,1,Roman,Edis
+2018-05-11,1,Roman,Edis
+2018-05-18,1,Roman,Edis
+2018-05-25,1,Roman,Edis
+2018-06-01,1,Ne Münasebet,Derya Uluğ
+2018-06-08,1,Manzara,Aylin Coşkun feat. Hande Yener
+2018-06-22,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-06-29,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-07-06,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-07-13,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-07-20,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-07-27,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-08-03,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-08-10,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-08-17,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-08-24,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-08-31,1,Yalnız Çiçek,Emrah Karaduman feat. Aleyna Tilki
+2018-09-07,1,Sensiz Ben Ne Olayım,Yalın
+2018-09-14,1,Reset,Mustafa Sandal feat. Eypio
+2018-09-21,1,Reset,Mustafa Sandal feat. Eypio
+2018-09-28,1,Reset,Mustafa Sandal feat. Eypio
+2018-10-05,1,Vuracak,Merve Özbey
+2018-10-12,1,Vuracak,Merve Özbey
+2018-10-19,1,Yine Sev Yine,Tuğba Yurt
+2018-10-26,1,Vuracak,Merve Özbey
+2018-11-02,1,Sürgün Aşkımız,Emrah Karaduman feat. Derya Uluğ
+2018-11-09,1,Sürgün Aşkımız,Emrah Karaduman feat. Derya Uluğ
+2018-11-16,1,Sürgün Aşkımız,Emrah Karaduman feat. Derya Uluğ
+2018-11-23,1,Sürgün Aşkımız,Emrah Karaduman feat. Derya Uluğ
+2018-11-30,1,Seni Seve Seve,Emrah Kaya
+2018-12-07,1,Sürgün Aşkımız,Emrah Karaduman feat. Derya Uluğ
+2018-12-14,1,Aşk Bitsin,Buray
+2018-12-21,1,Seni Sever miydim,Hande Ünsal
+2018-12-28,1,Öpücem,Simge
+2019-01-04,1,Bir İhtimal Biliyorum,Gülşen
+2019-01-11,1,Bir İhtimal Biliyorum,Gülşen
+2019-01-18,1,Bir İhtimal Biliyorum,Gülşen
+2019-01-25,1,Bir İhtimal Biliyorum,Gülşen
+2019-02-01,1,Bir İhtimal Biliyorum,Gülşen
+2019-02-08,1,Bir İhtimal Biliyorum,Gülşen
+2019-02-15,1,Bir İhtimal Biliyorum,Gülşen
+2019-02-22,1,Bir İhtimal Biliyorum,Gülşen
+2019-03-01,1,Bir İhtimal Biliyorum,Gülşen
+2019-03-08,1,Bir İhtimal Biliyorum,Gülşen
+2019-03-15,1,Bir İhtimal Biliyorum,Gülşen
+2019-03-22,1,Bir İhtimal Biliyorum,Gülşen
+2019-03-29,1,Bir İhtimal Biliyorum,Gülşen
+2019-04-05,1,Bu da Geçecek,Göksel
+2019-04-12,1,Bana da Söyle,Ziynet Sali
+2019-04-19,1,Bana da Söyle,Ziynet Sali
+2019-04-26,1,Bana da Söyle,Ziynet Sali
+2019-05-03,1,Bana da Söyle,Ziynet Sali
+2019-05-10,1,Bana da Söyle,Ziynet Sali
+2019-05-17,1,Bize Deva Sevişler,Yalın
+2019-05-24,1,Nasıl Diye Sorma,Emre Kaya
+2019-05-31,1,Nasıl Diye Sorma,Emre Kaya
+2019-06-07,1,Devlerin Aşkı Büyük Olur,Betül Demir
+2019-06-14,1,Devlerin Aşkı Büyük Olur,Betül Demir
+2019-06-21,1,Devlerin Aşkı Büyük Olur,Betül Demir
+2019-06-28,1,Nasıl Diye Sorma,Emre Kaya
+2019-07-05,1,Devlerin Aşkı Büyük Olur,Betül Demir
+2019-07-19,1,Devlerin Aşkı Büyük Olur,Betül Demir
+2019-07-26,1,Nerdesin?,Hande Ünsal
+2019-08-02,1,Nerdesin?,Hande Ünsal
+2019-08-16,1,Nerdesin?,Hande Ünsal
+2019-08-23,1,Nerdesin?,Hande Ünsal
+2019-09-06,1,Nerdesin?,Hande Ünsal
+2019-09-13,1,Hiç Yok,Göksel
+2019-09-20,1,Hiç Yok,Göksel
+2019-09-27,1,Nerdesin?,Hande Ünsal
+2019-10-04,1,Nerdesin?,Hande Ünsal
+2019-10-11,1,Hiç Yok,Göksel
+2019-10-18,1,Nerdesin?,Hande Ünsal
+2019-11-01,1,Daha Bi' Aşık,Ayla Çelik
+2019-11-08,1,Daha Bi' Aşık,Ayla Çelik
+2019-11-15,1,Bedel,Mustafa Ceceli
+2019-11-22,1,Yaramızda Kalsın,Merve Özbey
+2019-11-29,1,Mod,Mustafa Sandal and Zeynep Bastık
+2019-12-06,1,Mod,Mustafa Sandal and Zeynep Bastık
+2019-12-13,1,Mod,Mustafa Sandal and Zeynep Bastık
+2019-12-20,1,Mod,Mustafa Sandal and Zeynep Bastık
+2019-12-27,1,Mod,Mustafa Sandal and Zeynep Bastık
+2020-01-03,1,Mod,Zeynep Bastık and Mustafa Sandal
+2020-01-10,1,Mod,Zeynep Bastık and Mustafa Sandal
+2020-01-17,1,Vur Kaç,Tuğba Yurt
+2020-01-24,1,Daha İyi,Hande Ünsal
+2020-01-31,1,Mod,Zeynep Bastık and Mustafa Sandal
+2020-02-07,1,Daha İyi,Hande Ünsal
+2020-02-14,1,Daha İyi,Hande Ünsal
+2020-02-21,1,Daha İyi,Hande Ünsal
+2020-03-06,1,Daha İyi,Hande Ünsal
+2020-03-13,1,Daha İyi,Hande Ünsal
+2020-03-20,1,Daha İyi,Hande Ünsal
+2020-03-28,1,Daha İyi,Hande Ünsal
+2020-04-03,1,Daha İyi,Hande Ünsal
+2020-04-10,1,İki Hece,Berkay
+2020-04-17,1,Firardayım,Gökhan Özen
+2020-04-24,1,Firardayım,Gökhan Özen
+2020-04-30,1,Firardayım,Gökhan Özen
+2020-05-08,1,Mahzen,Özgün
+2020-05-15,1,Mahzen,Özgün
+2020-05-22,1,Ya Sabır,Yalın
+2020-05-29,1,Ya Sabır,Yalın
+2020-06-05,1,Ya Sabır,Yalın
+2020-06-12,1,Her Mevsim Yazım,Zeynep Bastık
+2020-06-19,1,Her Mevsim Yazım,Zeynep Bastık
+2020-06-26,1,Her Mevsim Yazım,Zeynep Bastık
+2020-07-03,1,Kendime Sardım,Oğuzhan Koç
+2020-07-10,1,Kendime Sardım,Oğuzhan Koç
+2020-07-17,1,Kendime Sardım,Oğuzhan Koç
+2020-07-24,1,Kendime Sardım,Oğuzhan Koç
+2020-07-31,1,Kendime Sardım,Oğuzhan Koç
+2020-08-07,1,Kendime Sardım,Oğuzhan Koç
+2020-08-14,1,Kendime Sardım,Oğuzhan Koç
+2020-08-21,1,Kendime Sardım,Oğuzhan Koç
+2020-08-28,1,Cennetten Çiçek,Zehra
+2020-09-04,1,Bir Daha,Zeynep Bastık
+2020-09-11,1,Kalbim Tatilde,Ziynet Sali
+2020-09-18,1,Kalbim Tatilde,Ziynet Sali
+2020-09-25,1,Kalbim Tatilde,Ziynet Sali
+2020-10-02,1,Kalbim Tatilde,Ziynet Sali
+2020-10-09,1,Kalbim Tatilde,Ziynet Sali
+2020-10-16,1,Heyecandan,Oğuzhan Koç
+2020-10-23,1,Heyecandan,Oğuzhan Koç
+2020-10-30,1,Damar,Mustafa Sandal
+2020-11-06,1,Damar,Mustafa Sandal
+2020-11-13,1,Kalbim Tatilde,Ziynet Sali
+2020-11-20,1,Damar,Mustafa Sandal
+2020-11-27,1,Damar,Mustafa Sandal
+2020-12-04,1,Toy,Mabel Matiz
+2020-12-11,1,Damar,Mustafa Sandal
+2020-12-18,1,Toy,Mabel Matiz
+2020-12-25,1,Bir Sebebi Var,İkilem
+2021-01-01,1,Bir Sebebi Var,İkilem
+2021-01-08,1,Toy,Mabel Matiz
+2021-01-15,1,Toy,Mabel Matiz
+2021-01-22,1,Bir Sebebi Var,İkilem
+2021-01-29,1,Bir Sebebi Var,İkilem
+2021-02-05,1,Sözüm Söz,Hande Ünsal
+2021-02-12,1,Hepsi Geçiyor,Oğuzhan Koç
+2021-02-19,1,Senin Yüzünden,Buray feat. Arem Özgüç & Arman Aydın
+2021-02-26,1,Senin Yüzünden,Buray feat. Arem Özgüç & Arman Aydın
+2021-03-05,1,Hepsi Geçiyor,Oğuzhan Koç
+2021-03-12,1,Hepsi Geçiyor,Oğuzhan Koç
+2021-03-19,1,Hepsi Geçiyor,Oğuzhan Koç
+2021-03-26,1,Hepsi Geçiyor,Oğuzhan Koç
+2021-04-02,1,Hepsi Geçiyor,Oğuzhan Koç
+2021-04-09,1,Hepsi Geçiyor,Oğuzhan Koç
+2021-04-16,1,Seni Soruyorlar,Ersay Üner
+2021-04-23,1,Martılar,Edis
+2021-04-30,1,Martılar,Edis
+2021-05-07,1,Martılar,Edis
+2021-05-13,1,Martılar,Edis
+2021-05-21,1,Martılar,Edis
+2021-05-28,1,Martılar,Edis
+2021-06-04,1,Benim O,Tuğba Yurt
+2021-06-11,1,Martılar,Edis
+2021-06-18,1,Benim O,Tuğba Yurt
+2021-06-25,1,Benim O,Tuğba Yurt
+2021-07-02,1,Benim O,Tuğba Yurt
+2021-07-09,1,Kanunlar Gibi,Derya Uluğ
+2021-07-16,1,Kanunlar Gibi,Derya Uluğ
+2021-07-23,1,Kanunlar Gibi,Derya Uluğ
+2021-07-30,1,Kanunlar Gibi,Derya Uluğ
+2021-08-06,1,Kanunlar Gibi,Derya Uluğ
+2021-08-13,1,Kanunlar Gibi,Derya Uluğ
+2021-08-20,1,Kanunlar Gibi,Derya Uluğ
+2021-08-27,1,Kanunlar Gibi,Derya Uluğ
+2021-09-03,1,Kanunlar Gibi,Derya Uluğ
+2021-09-10,1,Kanunlar Gibi,Derya Uluğ
+2021-09-17,1,Kanunlar Gibi,Derya Uluğ
+2021-09-24,1,Hay Hay,Hadise
+2021-10-01,1,Yoksa Yasak,Oğuzhan Koç feat. Arem Özgüç & Arman Aydın
+2021-10-08,1,Yoksa Yasak,Oğuzhan Koç feat. Arem Özgüç & Arman Aydın
+2021-10-15,1,Affet Beni Sevgilim,Ege Balkız feat. Burry Soprano
+2021-10-22,1,Hayatım Kaymış,Melek Mosso
+2021-10-29,1,Hayatım Kaymış,Melek Mosso
+2021-11-05,1,Hayatım Kaymış,Melek Mosso
+2021-11-12,1,Hayatım Kaymış,Melek Mosso
+2021-11-19,1,Hayatım Kaymış,Melek Mosso
+2021-11-26,1,Arıyorum,Edis
+2021-12-03,1,Hayatım Kaymış,Melek Mosso
+2021-12-10,1,Hayatım Kaymış,Melek Mosso
+2021-12-17,1,Hayatım Kaymış,Melek Mosso
+2021-12-24,1,Arıyorum,Edis
+2022-01-03,1,Arıyorum,Edis
+2022-01-07,1,Arıyorum,Edis
+2022-01-14,1,Arıyorum,Edis
+2022-01-21,1,Arıyorum,Edis
+2022-01-28,1,Arıyorum,Edis
+2022-02-04,1,Arıyorum,Edis
+2022-02-11,1,Bu Saatten Sonra,İkilem
+2022-02-18,1,Bu Saatten Sonra,İkilem
+2022-02-25,1,Bu Saatten Sonra,İkilem
