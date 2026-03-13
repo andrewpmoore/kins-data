@@ -253,6 +253,38 @@ def load_historical_csv(filepath):
                 }
     return history
 
+def load_historical_movies_csv(filepath):
+    """Parses historical movie CSV files safely."""
+    history = {}
+    if not os.path.exists(filepath):
+        return history
+        
+    with open(filepath, mode='r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            rank = str(row.get('rank', row.get('position', row.get('Rank', '1'))))
+            if rank not in ('1', '01'): continue
+            
+            date_str = row.get('date', row.get('Date', row.get('week', '')))
+            try:
+                dt = datetime.strptime(date_str, '%Y-%m-%d')
+            except:
+                continue
+                
+            title = row.get('film', row.get('movie', row.get('title', row.get('Title', 'Unknown'))))
+            
+            # Movies are usually weekly, so we fill 7 days
+            for i in range(7):
+                curr = dt + timedelta(days=i)
+                y, m, d = curr.strftime('%Y'), curr.strftime('%m'), curr.strftime('%d')
+                day_key = f"{m}-{d}"
+                
+                history.setdefault(y, {})[day_key] = {
+                    'title': title, 
+                    'image_url': None
+                }
+    return history
+
 def load_existing_database():
     """Recursively scans the output directory and loads JSON data to avoid full re-builds."""
     db = {}
@@ -280,17 +312,25 @@ def process_data():
     # 1. PROCESS US DATA ONLY IF MISSING
     if not database.get('us'):
         print("📚 Scanning for historical US/Global data...")
-        us_history = load_historical_csv('data/music.csv')
+        us_history = load_historical_csv('data/music/music_us.csv')
+        us_movies = load_historical_movies_csv('data/movies/movies_us.csv')
         
         for y, days in us_history.items():
             for day_key, data_obj in days.items():
                 database.setdefault('us', {}).setdefault(y, {}).setdefault(day_key, {})
                 database['us'][y][day_key]['music'] = data_obj
                 database['us'][y][day_key]['global_music'] = data_obj
+                
+        for y, days in us_movies.items():
+            for day_key, data_obj in days.items():
+                database.setdefault('us', {}).setdefault(y, {}).setdefault(day_key, {})
+                database['us'][y][day_key]['movie'] = data_obj
+                database['us'][y][day_key]['global_movie'] = data_obj
     else:
         print("✅ US historical data already loaded from JSON. Skipping CSV.")
         # We still need us_history for the global fallback logic below
         us_history = {} # In incremental mode, we assume JSON already has fallbacks or we use live ones
+        us_movies = {}
 
     # 2. DYNAMICALLY PROCESS ALL OTHER REGIONAL CSVs
     print("📚 Scanning for other regional historical CSVs...")
@@ -302,20 +342,39 @@ def process_data():
             print(f"✅ {folder.upper()} data already loaded from JSON. Skipping CSV.")
             continue
             
-        # Look for files formatted like data/music/music_uk.csv, etc.
-        csv_path = f'data/music/music_{folder}.csv'
-        if os.path.exists(csv_path):
-            print(f"   -> Found data for {folder.upper()}!")
-            regional_history = load_historical_csv(csv_path)
-            
-            for y, days in regional_history.items():
+        # Look for music files formatted like data/music/music_uk.csv, etc.
+        music_csv = f'data/music/music_{folder}.csv'
+        if os.path.exists(music_csv):
+            print(f"   -> Found music data for {folder.upper()}!")
+            regional_music = load_historical_csv(music_csv)
+            for y, days in regional_music.items():
                 for day_key, data_obj in days.items():
                     database.setdefault(folder, {}).setdefault(y, {}).setdefault(day_key, {})
                     database[folder][y][day_key]['music'] = data_obj
-                    
-                    # Always inject the US global fallback if it exists for this day
                     if y in us_history and day_key in us_history[y]:
                         database[folder][y][day_key]['global_music'] = us_history[y][day_key]
+
+        # Look for movie files formatted like data/movies/movies_uk.csv, etc.
+        movie_csv = f'data/movies/movies_{folder}.csv'
+        if os.path.exists(movie_csv):
+            print(f"   -> Found movie data for {folder.upper()}!")
+            regional_movies = load_historical_movies_csv(movie_csv)
+            for y, days in regional_movies.items():
+                for day_key, data_obj in days.items():
+                    database.setdefault(folder, {}).setdefault(y, {}).setdefault(day_key, {})
+                    database[folder][y][day_key]['movie'] = data_obj
+                    if y in us_movies and day_key in us_movies[y]:
+                        database[folder][y][day_key]['global_movie'] = us_movies[y][day_key]
+
+    # 2.5 INTERMEDIATE SAVE
+    print("📁 Saving historical CSV data before live API fetching...")
+    for country, years in database.items():
+        path = os.path.join(OUTPUT_DIR, country)
+        os.makedirs(path, exist_ok=True)
+        for year, days in years.items():
+            file_path = os.path.join(path, f"{year}.json")
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(days, f, indent=2, sort_keys=True)
 
     # 3. PRE-FETCH WEEKLY ENTERTAINMENT
     print("🌍 Fetching Live Global Fallbacks with Images...")
@@ -336,8 +395,25 @@ def process_data():
         dt = today - timedelta(days=i)
         y, m, d = dt.strftime('%Y'), dt.strftime('%m'), dt.strftime('%d')
         day_key = f"{m}-{d}"
+        print(f"   -> Processing {day_key}...")
         
-        global_fact = fetch_historical_fact('en', m, d)
+        # Pre-fetch for all unique languages needed
+        langs_needed = set(COUNTRIES.values())
+        lang_facts = {}
+        lang_births = {}
+        
+        for lang in langs_needed:
+            lang_facts[lang] = fetch_historical_fact(lang, m, d)
+            # For births, we still want to consider the demonyms of EACH folder, 
+            # BUT we can fetch the base births list once per language.
+            # My current fetch_smart_births ALREADY caches wiki_network_cache[net_key].
+            # So calling fetch_smart_births(folder, lang_code, ...) multiple times with the same lang_code
+            # only hits the network once for the births list.
+            # However, get_pageviews is still called for each folder's candidates.
+            # Since candidates are the same for the same lang_code, get_pageviews 
+            # results will be cached in pageviews_cache.
+        
+        global_fact = lang_facts.get('en')
         global_births = fetch_smart_births('us', 'en', m, d) 
         
         for folder, lang_code in COUNTRIES.items():
@@ -349,11 +425,13 @@ def process_data():
             day_data['moon_phase'] = get_moon_phase(y, m, d)
             
             # --- Regional APIs ---
-            reg_fact = fetch_historical_fact(lang_code, m, d)
+            reg_fact = lang_facts.get(lang_code)
             reg_births = fetch_smart_births(folder, lang_code, m, d)
             
-            if regional_music_cache[folder]: day_data['music'] = regional_music_cache[folder]
-            if regional_movie_cache[folder]: day_data['movie'] = regional_movie_cache[folder]
+            if folder in regional_music_cache and regional_music_cache[folder]: 
+                day_data['music'] = regional_music_cache[folder]
+            if folder in regional_movie_cache and regional_movie_cache[folder]: 
+                day_data['movie'] = regional_movie_cache[folder]
             if reg_fact: day_data['history_fact'] = reg_fact
             if reg_births: day_data['shared_birthdays'] = reg_births
             
@@ -369,8 +447,10 @@ def process_data():
         path = os.path.join(OUTPUT_DIR, country)
         os.makedirs(path, exist_ok=True)
         for year, days in years.items():
-            with open(os.path.join(path, f"{year}.json"), 'w', encoding='utf-8') as f:
+            file_path = os.path.join(path, f"{year}.json")
+            with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(days, f, indent=2, sort_keys=True)
+            print(f"   -> Wrote {file_path}")
     
     print("✅ Build Finished. Your dynamic time capsule is ready!")
 

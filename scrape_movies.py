@@ -149,8 +149,8 @@ def scrape_country(country_code, hub_title):
         final_df = pd.concat(all_data, ignore_index=True)
         final_df = final_df.drop_duplicates(subset=['date', 'film'])
         final_df = final_df.sort_values(by='date')
-        os.makedirs('data_movies', exist_ok=True)
-        filename = f'data_movies/movies_{country_code}.csv'
+        os.makedirs('data/movies', exist_ok=True)
+        filename = f'data/movies/movies_{country_code}.csv'
         final_df.to_csv(filename, index=False)
         print(f"✅ DONE: {country_code.upper()} -> {len(final_df)} entries saved to {filename}")
     else: print(f"❌ No data found for {country_code}")

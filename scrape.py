@@ -204,8 +204,8 @@ def scrape_country(country_code, hub_title):
         final_df = pd.concat(all_data, ignore_index=True)
         final_df = final_df.drop_duplicates(subset=['date', 'song'])
         final_df = final_df.sort_values(by='date')
-        os.makedirs('data', exist_ok=True)
-        filename = f'data/music_{country_code}.csv'
+        os.makedirs('data/music', exist_ok=True)
+        filename = f'data/music/music_{country_code}.csv'
         final_df.to_csv(filename, index=False)
         print(f"✅ DONE: {country_code.upper()} -> {len(final_df)} entries saved to {filename}")
     else:
