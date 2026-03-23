@@ -1,0 +1,48 @@
+name: NYT Daily Headlines Scraper
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout Repository
+        # fetch-depth: 0 is required so Git knows the history to amend it properly
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Daily NYT Scraper
+        env:
+          NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
+        run: python daily_new_scraper.py
+
+      - name: Commit and Force Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add headlines.json
+          
+          # Check if there are changes to commit
+          if ! git diff --staged --quiet; then
+            # Amend the previous commit to prevent history buildup, or create a new one if amend fails
+            git commit --amend -m "Automated daily NYT headlines update" || git commit -m "Automated daily NYT headlines update"
+            
+            # Force push the amended commit to the repository
+            git push --force
+          fi
