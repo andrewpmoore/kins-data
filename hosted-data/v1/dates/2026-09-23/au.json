@@ -1,0 +1,304 @@
+{
+  "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "aba-buying-group-2026-09-12",
+      "items": [
+        {
+          "creator": "Richard Osman",
+          "rank": 1,
+          "title": "We Chase Shadows",
+          "url": "https://loveyourbookshop.org.au/bestsellers/we-chase-shadows"
+        },
+        {
+          "creator": "Dr Norman Swan",
+          "rank": 2,
+          "title": "The Brain Cliff",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-brain-cliff"
+        },
+        {
+          "creator": "Liane Moriarty",
+          "rank": 3,
+          "title": "Big Little Truths",
+          "url": "https://loveyourbookshop.org.au/bestsellers/big-little-truths"
+        },
+        {
+          "creator": "Yotam Ottolenghi",
+          "rank": 4,
+          "title": "Ottolenghi SIMPLE TOO",
+          "url": "https://loveyourbookshop.org.au/bestsellers/ottolenghi-simple-too"
+        },
+        {
+          "creator": "Holly Ringland",
+          "rank": 5,
+          "title": "The World Beneath Her Feet",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-world-beneath-her-feet"
+        },
+        {
+          "creator": "Elizabeth Strout",
+          "rank": 6,
+          "title": "The Things We Never Say",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
+        },
+        {
+          "creator": "Virginia Evans",
+          "rank": 7,
+          "title": "The Correspondent",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-correspondent"
+        },
+        {
+          "creator": "Waleed Aly",
+          "rank": 8,
+          "title": "Time of Monsters",
+          "url": "https://loveyourbookshop.org.au/bestsellers/time-of-monsters"
+        },
+        {
+          "creator": "Caro Claire Burke",
+          "rank": 9,
+          "title": "Yesteryear",
+          "url": "https://loveyourbookshop.org.au/bestsellers/yesteryear"
+        },
+        {
+          "creator": "Marlon James",
+          "rank": 10,
+          "title": "The Disappearers",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-disappearers"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "bestsellers in ABA Buying Group stores",
+        "observedAt": "2026-09-12",
+        "provider": "Australian Booksellers Association / NielsenIQ BookScan",
+        "territory": "AU",
+        "url": "https://loveyourbookshop.org.au/aba-top-10/"
+      },
+      "title": "ABA Buying Group Top 10"
+    },
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "movies": {
+      "id": "box-office-mojo-au-2026-09-20",
+      "items": [
+        {
+          "distributor": "Sony Pictures Releasing",
+          "rank": 1,
+          "title": "Resident Evil",
+          "url": "https://www.boxofficemojo.com/release/rl2505277697/?ref_=bo_we_table_1",
+          "weekendGross": "$2,629,327",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Warner Bros.",
+          "rank": 2,
+          "title": "Practical Magic 2",
+          "url": "https://www.boxofficemojo.com/release/rl2857599233/?ref_=bo_we_table_2",
+          "weekendGross": "$941,855",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Big Bull Productions",
+          "rank": 3,
+          "title": "The Songs of John Farnham: A Living Legend - The Celebration Concert",
+          "url": "https://www.boxofficemojo.com/release/rl3444801793/?ref_=bo_we_table_3",
+          "weekendGross": "$823,865",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 4,
+          "title": "The Odyssey",
+          "url": "https://www.boxofficemojo.com/release/rl2487320833/?ref_=bo_we_table_4",
+          "weekendGross": "$576,921",
+          "weeksOnRelease": "10"
+        },
+        {
+          "distributor": "Pinnacle Films",
+          "rank": 5,
+          "title": "Coyote vs. Acme",
+          "url": "https://www.boxofficemojo.com/release/rl3461579009/?ref_=bo_we_table_5",
+          "weekendGross": "$569,357",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Sony Pictures Releasing",
+          "rank": 6,
+          "title": "Spider-Man: Brand New Day",
+          "url": "https://www.boxofficemojo.com/release/rl1011187969/?ref_=bo_we_table_6",
+          "weekendGross": "$551,391",
+          "weeksOnRelease": "8"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 7,
+          "title": "Forgotten Island",
+          "url": "https://www.boxofficemojo.com/release/rl2270396673/?ref_=bo_we_table_7",
+          "weekendGross": "$516,786",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Paramount Pictures International",
+          "rank": 8,
+          "title": "PAW Patrol: The Dino Movie",
+          "url": "https://www.boxofficemojo.com/release/rl358187009/?ref_=bo_we_table_8",
+          "weekendGross": "$463,985",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Tolly Movies",
+          "rank": 9,
+          "title": "Hanuman Ansh",
+          "url": "https://www.boxofficemojo.com/release/rl3478356225/?ref_=bo_we_table_9",
+          "weekendGross": "$390,609",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Madman Entertainment",
+          "rank": 10,
+          "title": "The Transformers: The Movie",
+          "url": "https://www.boxofficemojo.com/release/rl3500310529/?ref_=bo_we_table_10",
+          "weekendGross": "$276,095",
+          "weeksOnRelease": "23"
+        }
+      ],
+      "reportPeriod": "September 17-20, 2026",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W38/?area=AU&ref_=bo_wey_table_1",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "country weekend theatrical gross in local currency",
+        "observedAt": "2026-09-20",
+        "provider": "Box Office Mojo",
+        "territory": "AU",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=AU"
+      },
+      "title": "AU weekend theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 1,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/au/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 2,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 3,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 4,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 5,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Alex Warren",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/100x100bb.jpg",
+          "id": "1793663645",
+          "rank": 6,
+          "releaseDate": "2024-09-26",
+          "title": "Ordinary",
+          "url": "https://music.apple.com/au/album/ordinary/1793663382?i=1793663645"
+        },
+        {
+          "artist": "STELLA LEFTY",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
+          "id": "1884403093",
+          "rank": 7,
+          "releaseDate": "2026-03-27",
+          "title": "Boston",
+          "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 8,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/au/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "The Killers",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/100x100bb.jpg",
+          "id": "1526194192",
+          "rank": 9,
+          "releaseDate": "2003-09-29",
+          "title": "Mr. Brightside",
+          "url": "https://music.apple.com/au/album/mr-brightside/1526194184?i=1526194192"
+        },
+        {
+          "artist": "Benson Boone",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/100x100bb.jpg",
+          "id": "1724488124",
+          "rank": 10,
+          "releaseDate": "2024-01-18",
+          "title": "Beautiful Things",
+          "url": "https://music.apple.com/au/album/beautiful-things/1724488123?i=1724488124"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Wed, 23 Sep 2026 13:28:34 +0000",
+        "provider": "Apple Music",
+        "territory": "AU",
+        "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    }
+  },
+  "contentHash": "a930b4f591f71cd656a65a003c960b18130d5a6f685c75c1e251b0aa151fec84",
+  "country": "AU",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T13:28:29Z",
+  "schemaVersion": 1
+}

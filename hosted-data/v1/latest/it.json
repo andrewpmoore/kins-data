@@ -1,0 +1,413 @@
+{
+  "charts": {
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "movies": {
+      "id": "cinetel-national-week-2026-09-20",
+      "items": [
+        {
+          "admissions": 170472,
+          "countryOfOrigin": "USA",
+          "distributor": "EAGLE PICTURES",
+          "rank": 1,
+          "releaseDate": "2026-09-17",
+          "title": "RESIDENT EVIL",
+          "weekendGrossEUR": 1445189.36
+        },
+        {
+          "admissions": 102849,
+          "countryOfOrigin": "USA",
+          "distributor": "WALT DISNEY S.M.P. ITALIA",
+          "rank": 2,
+          "releaseDate": "2026-09-17",
+          "title": "CARS: MOTORI RUGGENTI - 20 ANNI",
+          "weekendGrossEUR": 837325.26
+        },
+        {
+          "admissions": 101106,
+          "countryOfOrigin": "GBR",
+          "distributor": "LUCKY RED DISTRIBUZIONE",
+          "rank": 3,
+          "releaseDate": "2026-09-02",
+          "title": "COYOTE VS ACME",
+          "weekendGrossEUR": 752109.79
+        },
+        {
+          "admissions": 81941,
+          "countryOfOrigin": "GBR",
+          "distributor": "UNIVERSAL",
+          "rank": 4,
+          "releaseDate": "2026-07-16",
+          "title": "ODISSEA",
+          "weekendGrossEUR": 723228.91
+        },
+        {
+          "admissions": 85183,
+          "countryOfOrigin": "USA",
+          "distributor": "I WONDER PICTURES",
+          "rank": 5,
+          "releaseDate": "2026-09-16",
+          "title": "THE INVITE – IL PIACERE È TUTTO NOSTRO",
+          "weekendGrossEUR": 622991.18
+        },
+        {
+          "admissions": 64402,
+          "countryOfOrigin": "CAN",
+          "distributor": "EAGLE PICTURES",
+          "rank": 6,
+          "releaseDate": "2026-09-09",
+          "title": "PAW PATROL : MISSIONE DINOSAURI",
+          "weekendGrossEUR": 460108.61
+        },
+        {
+          "admissions": 42012,
+          "countryOfOrigin": "USA",
+          "distributor": "WALT DISNEY S.M.P. ITALIA",
+          "rank": 7,
+          "releaseDate": "2026-08-19",
+          "title": "OCEANIA (MOANA)",
+          "weekendGrossEUR": 312144.22
+        },
+        {
+          "admissions": 38465,
+          "countryOfOrigin": "GBR",
+          "distributor": "WARNER BROS. ITALIA",
+          "rank": 8,
+          "releaseDate": "2026-09-10",
+          "title": "AMORI & INCANTESIMI 2 (PRACTICAL MAGIC 2)",
+          "weekendGrossEUR": 280969.62
+        },
+        {
+          "admissions": 29228,
+          "countryOfOrigin": "USA",
+          "distributor": "EAGLE PICTURES",
+          "rank": 9,
+          "releaseDate": "2026-07-29",
+          "title": "SPIDER-MAN: BRAND NEW DAY",
+          "weekendGrossEUR": 237439.33
+        },
+        {
+          "admissions": 33149,
+          "countryOfOrigin": "ITA",
+          "distributor": "BE WATER FILM",
+          "rank": 10,
+          "releaseDate": "2026-09-10",
+          "title": "SERPENTI",
+          "weekendGrossEUR": 215948.88
+        }
+      ],
+      "reportPeriod": "2026-09-14/2026-09-20",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "national weekly theatrical gross in euros",
+        "observedAt": "2026-09-20",
+        "provider": "Cinetel",
+        "territory": "IT",
+        "url": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D"
+      },
+      "title": "Italy national weekly theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c0/d3/94c0d342-d77e-7cb4-d03d-a1ef144f660c/26UM1IM21073.rgb.jpg/100x100bb.jpg",
+          "id": "6813811430",
+          "rank": 1,
+          "releaseDate": "2026-09-21",
+          "title": "Lontano",
+          "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
+          "id": "6807790374",
+          "rank": 2,
+          "releaseDate": "2026-09-11",
+          "title": "PER NOI (feat. Achille Lauro)",
+          "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
+        },
+        {
+          "artist": "BLANCO",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/a9/ca/6fa9ca38-b1b6-43c6-73f4-0ee37c2ff0a2/26UM1IM15159.rgb.jpg/100x100bb.jpg",
+          "id": "6809473099",
+          "rank": 3,
+          "releaseDate": "2026-09-07",
+          "title": "SOTTOGONNA",
+          "url": "https://music.apple.com/it/album/sottogonna/6809473096?i=6809473099"
+        },
+        {
+          "artist": "Carla Morrison",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f6/ce/71f6ce36-fdee-c95b-ced5-2b54ab8b14f9/787790255666.jpg/100x100bb.jpg",
+          "id": "1862968116",
+          "rank": 4,
+          "releaseDate": "2012-03-27",
+          "title": "Disfruto",
+          "url": "https://music.apple.com/it/album/disfruto/1862967956?i=1862968116"
+        },
+        {
+          "artist": "Ultimo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/25/29/85252999-5f73-511f-41d2-4634cde44f3d/cover.jpg/100x100bb.jpg",
+          "id": "6810748246",
+          "rank": 5,
+          "releaseDate": "2026-09-18",
+          "title": "TUTTO",
+          "url": "https://music.apple.com/it/album/tutto/6810748106?i=6810748246"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451990",
+          "rank": 6,
+          "releaseDate": "2026-01-16",
+          "title": "CANZONE D'AMORE",
+          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
+        },
+        {
+          "artist": "Bresh",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/4a/27/314a2727-7139-e359-e23e-b064d5e413cd/196874375266.jpg/100x100bb.jpg",
+          "id": "6766894796",
+          "rank": 7,
+          "releaseDate": "2026-05-14",
+          "title": "Da Dio",
+          "url": "https://music.apple.com/it/album/da-dio/6766894794?i=6766894796"
+        },
+        {
+          "artist": "22simba & Promessa",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/26/6a/21266a93-2974-0dfe-f200-3849b16b08d2/26UMGIM95747.rgb.jpg/100x100bb.jpg",
+          "id": "6812404055",
+          "rank": 8,
+          "releaseDate": "2026-09-17",
+          "title": "Sipario",
+          "url": "https://music.apple.com/it/album/sipario/6812404048?i=6812404055"
+        },
+        {
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
+          "rank": 9,
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/it/album/movin-to-the-sun/6769069923?i=6769070199"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451640",
+          "rank": 10,
+          "releaseDate": "2026-01-16",
+          "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
+          "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Wed, 23 Sep 2026 13:29:24 +0000",
+        "provider": "Apple Music",
+        "territory": "IT",
+        "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
+      },
+      "title": "Top brani"
+    },
+    "names": {
+      "id": "istat-italy-baby-names",
+      "items": [
+        {
+          "category": "boy",
+          "count": 6580,
+          "name": "Leonardo",
+          "rank": 1,
+          "rankGroup": "boy",
+          "sharePercent": 3.4749
+        },
+        {
+          "category": "boy",
+          "count": 5819,
+          "name": "Edoardo",
+          "rank": 2,
+          "rankGroup": "boy",
+          "sharePercent": 3.073
+        },
+        {
+          "category": "boy",
+          "count": 4389,
+          "name": "Tommaso",
+          "rank": 3,
+          "rankGroup": "boy",
+          "sharePercent": 2.3178
+        },
+        {
+          "category": "boy",
+          "count": 4233,
+          "name": "Mattia",
+          "rank": 4,
+          "rankGroup": "boy",
+          "sharePercent": 2.2354
+        },
+        {
+          "category": "boy",
+          "count": 4201,
+          "name": "Alessandro",
+          "rank": 5,
+          "rankGroup": "boy",
+          "sharePercent": 2.2185
+        },
+        {
+          "category": "boy",
+          "count": 4199,
+          "name": "Francesco",
+          "rank": 6,
+          "rankGroup": "boy",
+          "sharePercent": 2.2175
+        },
+        {
+          "category": "boy",
+          "count": 3851,
+          "name": "Lorenzo",
+          "rank": 7,
+          "rankGroup": "boy",
+          "sharePercent": 2.0337
+        },
+        {
+          "category": "boy",
+          "count": 3805,
+          "name": "Gabriele",
+          "rank": 8,
+          "rankGroup": "boy",
+          "sharePercent": 2.0094
+        },
+        {
+          "category": "boy",
+          "count": 3505,
+          "name": "Riccardo",
+          "rank": 9,
+          "rankGroup": "boy",
+          "sharePercent": 1.851
+        },
+        {
+          "category": "boy",
+          "count": 3143,
+          "name": "Andrea",
+          "rank": 10,
+          "rankGroup": "boy",
+          "sharePercent": 1.6598
+        },
+        {
+          "category": "girl",
+          "count": 4636,
+          "name": "Sofia",
+          "rank": 1,
+          "rankGroup": "girl",
+          "sharePercent": 2.5875
+        },
+        {
+          "category": "girl",
+          "count": 4265,
+          "name": "Aurora",
+          "rank": 2,
+          "rankGroup": "girl",
+          "sharePercent": 2.3804
+        },
+        {
+          "category": "girl",
+          "count": 4153,
+          "name": "Ginevra",
+          "rank": 3,
+          "rankGroup": "girl",
+          "sharePercent": 2.3179
+        },
+        {
+          "category": "girl",
+          "count": 3893,
+          "name": "Vittoria",
+          "rank": 4,
+          "rankGroup": "girl",
+          "sharePercent": 2.1728
+        },
+        {
+          "category": "girl",
+          "count": 3397,
+          "name": "Giulia",
+          "rank": 5,
+          "rankGroup": "girl",
+          "sharePercent": 1.896
+        },
+        {
+          "category": "girl",
+          "count": 3316,
+          "name": "Beatrice",
+          "rank": 6,
+          "rankGroup": "girl",
+          "sharePercent": 1.8508
+        },
+        {
+          "category": "girl",
+          "count": 3064,
+          "name": "Ludovica",
+          "rank": 7,
+          "rankGroup": "girl",
+          "sharePercent": 1.7101
+        },
+        {
+          "category": "girl",
+          "count": 2959,
+          "name": "Matilde",
+          "rank": 8,
+          "rankGroup": "girl",
+          "sharePercent": 1.6515
+        },
+        {
+          "category": "girl",
+          "count": 2901,
+          "name": "Alice",
+          "rank": 9,
+          "rankGroup": "girl",
+          "sharePercent": 1.6191
+        },
+        {
+          "category": "girl",
+          "count": 2539,
+          "name": "Emma",
+          "rank": 10,
+          "rankGroup": "girl",
+          "sharePercent": 1.4171
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national registered baby-name rank, count and sex share",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Istat",
+        "territory": "IT",
+        "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
+      },
+      "title": "Popular baby names for 2024 births",
+      "year": 2024
+    }
+  },
+  "contentHash": "e27f8090faa2cc13b43229f81c20d139bd27a14da7e0cb8460bcda3971407b7b",
+  "country": "IT",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T13:28:29Z",
+  "schemaVersion": 1
+}

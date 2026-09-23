@@ -1,0 +1,333 @@
+{
+  "charts": {
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "movies": {
+      "id": "media-control-germany-2026-08-30",
+      "items": [
+        {
+          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/unveraendert.png",
+          "genre": "Actionfilm",
+          "rank": 1,
+          "title": "Spider-Man: Brand New Day"
+        },
+        {
+          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/gestiegen.png",
+          "genre": "Actionfilm",
+          "rank": 2,
+          "title": "Die Odyssee"
+        },
+        {
+          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/gefallen.png",
+          "genre": "Komödie",
+          "rank": 3,
+          "title": "Steckerlfischfiasko"
+        },
+        {
+          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/unveraendert.png",
+          "genre": "Kinderfilm",
+          "rank": 4,
+          "title": "PAW Patrol: Der Dino Film"
+        },
+        {
+          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/unveraendert.png",
+          "genre": "Horrorfilm",
+          "rank": 5,
+          "title": "Insidious: Out of the Further"
+        }
+      ],
+      "reportPeriod": "2026-08-27/2026-08-30",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "official national weekly cinema chart based on representative admissions",
+        "observedAt": "2026-08-30",
+        "provider": "Media Control",
+        "territory": "DE",
+        "url": "https://mc-charts-de-stage.azurewebsites.net/kino-charts/"
+      },
+      "title": "Official German cinema chart"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
+          "rank": 1,
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199"
+        },
+        {
+          "artist": "Wir sind Helden",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/66/fc/4a66fc5a-3230-84e8-e43d-e6d59cdf2714/13UACIM70246.rgb.jpg/100x100bb.jpg",
+          "id": "723380341",
+          "rank": 2,
+          "releaseDate": "2005-01-01",
+          "title": "Von hier an blind",
+          "url": "https://music.apple.com/de/album/von-hier-an-blind/723379901?i=723380341"
+        },
+        {
+          "artist": "Shakira & Burna Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
+          "id": "6768469976",
+          "rank": 3,
+          "releaseDate": "2026-05-14",
+          "title": "Dai Dai",
+          "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
+        },
+        {
+          "artist": "Sido",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/95/ae/d695ae05-8bf2-1106-b3b1-5c6ae308caa3/26UM1IM04650.rgb.jpg/100x100bb.jpg",
+          "id": "6801468864",
+          "rank": 4,
+          "releaseDate": "2026-08-20",
+          "title": "ISSA",
+          "url": "https://music.apple.com/de/album/issa/6801468850?i=6801468864"
+        },
+        {
+          "artist": "The Killers",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/100x100bb.jpg",
+          "id": "1526194192",
+          "rank": 5,
+          "releaseDate": "2003-09-29",
+          "title": "Mr. Brightside",
+          "url": "https://music.apple.com/de/album/mr-brightside/1526194184?i=1526194192"
+        },
+        {
+          "artist": "Temper City",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/100x100bb.jpg",
+          "id": "1877803360",
+          "rank": 6,
+          "releaseDate": "2026-02-15",
+          "title": "Self Aware",
+          "url": "https://music.apple.com/de/album/self-aware/1877803357?i=1877803360"
+        },
+        {
+          "artist": "Summer Cem & Shirin David",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/34/f1/4734f183-6963-6cc7-06a2-bbec4e2991e7/5026854691664.jpg/100x100bb.jpg",
+          "id": "1876509430",
+          "rank": 7,
+          "releaseDate": "2026-08-14",
+          "title": "MO' MONEY MO' HATERS",
+          "url": "https://music.apple.com/de/album/mo-money-mo-haters/1876509416?i=1876509430"
+        },
+        {
+          "artist": "Justin Bieber",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/100x100bb.jpg",
+          "id": "1440650961",
+          "rank": 8,
+          "releaseDate": "2012-06-15",
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "url": "https://music.apple.com/de/album/beauty-and-a-beat-feat-nicki-minaj/1440650852?i=1440650961"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884101",
+          "rank": 9,
+          "releaseDate": "2026-07-23",
+          "title": "Ain't In LA",
+          "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
+        },
+        {
+          "artist": "Katy Perry",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/3a/a3/cf3aa3ef-731b-6b77-1277-eaa9975ee27e/13UABIM57790.rgb.jpg/100x100bb.jpg",
+          "id": "716341216",
+          "rank": 10,
+          "releaseDate": "2010-08-24",
+          "title": "The One That Got Away",
+          "url": "https://music.apple.com/de/album/the-one-that-got-away/716340563?i=716341216"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Wed, 23 Sep 2026 13:28:52 +0000",
+        "provider": "Apple Music",
+        "territory": "DE",
+        "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
+      },
+      "title": "Top-Titel"
+    },
+    "names": {
+      "id": "gfds-germany-first-names",
+      "items": [
+        {
+          "category": "boy",
+          "name": "Noah",
+          "rank": 1,
+          "rankGroup": "boy",
+          "sharePercent": 1.48
+        },
+        {
+          "category": "boy",
+          "name": "Mat(h)eo/Matt(h)eo",
+          "rank": 2,
+          "rankGroup": "boy",
+          "sharePercent": 1.32
+        },
+        {
+          "category": "boy",
+          "name": "Theo",
+          "rank": 3,
+          "rankGroup": "boy",
+          "sharePercent": 1.08
+        },
+        {
+          "category": "boy",
+          "name": "Leo",
+          "rank": 4,
+          "rankGroup": "boy",
+          "sharePercent": 1.08
+        },
+        {
+          "category": "boy",
+          "name": "Emil",
+          "rank": 5,
+          "rankGroup": "boy",
+          "sharePercent": 1.05
+        },
+        {
+          "category": "boy",
+          "name": "Leon",
+          "rank": 6,
+          "rankGroup": "boy",
+          "sharePercent": 1.03
+        },
+        {
+          "category": "boy",
+          "name": "Elias",
+          "rank": 7,
+          "rankGroup": "boy",
+          "sharePercent": 1.03
+        },
+        {
+          "category": "boy",
+          "name": "Paul",
+          "rank": 8,
+          "rankGroup": "boy",
+          "sharePercent": 1.02
+        },
+        {
+          "category": "boy",
+          "name": "Luca/Luka",
+          "rank": 9,
+          "rankGroup": "boy",
+          "sharePercent": 1.02
+        },
+        {
+          "category": "boy",
+          "name": "Henry/Henri",
+          "rank": 10,
+          "rankGroup": "boy",
+          "sharePercent": 1.0
+        },
+        {
+          "category": "girl",
+          "name": "Sophia/Sofia",
+          "rank": 1,
+          "rankGroup": "girl",
+          "sharePercent": 1.33
+        },
+        {
+          "category": "girl",
+          "name": "Emma",
+          "rank": 2,
+          "rankGroup": "girl",
+          "sharePercent": 1.25
+        },
+        {
+          "category": "girl",
+          "name": "Emilia",
+          "rank": 3,
+          "rankGroup": "girl",
+          "sharePercent": 1.25
+        },
+        {
+          "category": "girl",
+          "name": "Mia",
+          "rank": 4,
+          "rankGroup": "girl",
+          "sharePercent": 1.01
+        },
+        {
+          "category": "girl",
+          "name": "Lina",
+          "rank": 5,
+          "rankGroup": "girl",
+          "sharePercent": 1.0
+        },
+        {
+          "category": "girl",
+          "name": "Ella",
+          "rank": 6,
+          "rankGroup": "girl",
+          "sharePercent": 0.94
+        },
+        {
+          "category": "girl",
+          "name": "Hanna/Hannah",
+          "rank": 7,
+          "rankGroup": "girl",
+          "sharePercent": 0.92
+        },
+        {
+          "category": "girl",
+          "name": "Klara/Clara",
+          "rank": 8,
+          "rankGroup": "girl",
+          "sharePercent": 0.92
+        },
+        {
+          "category": "girl",
+          "name": "Mila",
+          "rank": 9,
+          "rankGroup": "girl",
+          "sharePercent": 0.89
+        },
+        {
+          "category": "girl",
+          "name": "Lia/Liah",
+          "rank": 10,
+          "rankGroup": "girl",
+          "sharePercent": 0.86
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Gesellschaft für deutsche Sprache",
+        "territory": "DE",
+        "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "1638570bca4280bbff8aee19c8e007858b793e5b0c2298280b8dd68e6e4603a1",
+  "country": "DE",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T13:28:29Z",
+  "schemaVersion": 1
+}

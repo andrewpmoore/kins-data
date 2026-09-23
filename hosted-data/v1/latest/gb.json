@@ -1,0 +1,424 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "niq-uk-adult-books-2026-to-05-30",
+      "items": [
+        {
+          "creator": "Freida McFadden",
+          "isbn13": "9780349132884",
+          "rank": 1,
+          "title": "The Housemaid"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print unit sales to 30 May 2026; £1 World Book Day editions excluded",
+        "observedAt": "2026-05-30",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2026/independent-bookshop-week-2026/"
+      },
+      "title": "UK print no. 1 · to 30 May 2026"
+    },
+    "childrensBooks": {
+      "id": "niq-uk-childrens-books-2026-to-05-30",
+      "items": [
+        {
+          "creator": "Coco Wyo",
+          "isbn13": "9780241764220",
+          "rank": 1,
+          "title": "Cozy Corner"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's & YA print unit sales to 30 May 2026; £1 World Book Day editions excluded",
+        "observedAt": "2026-05-30",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2026/independent-bookshop-week-2026/"
+      },
+      "title": "UK children's & YA no. 1 · to 30 May 2026"
+    },
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "movies": {
+      "id": "bfi-weekend-box-office-2026-09-20",
+      "items": [
+        {
+          "countryOfOrigin": "USA/Germany/France",
+          "distributor": "Sony Pictures",
+          "rank": 1,
+          "title": "Resident Evil",
+          "weekendGross": "£4,211,819",
+          "weeksOnRelease": "1"
+        },
+        {
+          "countryOfOrigin": "USA",
+          "distributor": "Warner Bros",
+          "rank": 2,
+          "title": "Practical Magic 2",
+          "weekendGross": "£1,502,114",
+          "weeksOnRelease": "2"
+        },
+        {
+          "countryOfOrigin": "UK",
+          "distributor": "StudioCanal",
+          "rank": 3,
+          "title": "Shaun The Sheep: The Beast Of Mossy Bottom",
+          "weekendGross": "£1,494,260",
+          "weeksOnRelease": "1"
+        },
+        {
+          "countryOfOrigin": "UK/France",
+          "distributor": "StudioCanal",
+          "rank": 4,
+          "title": "Pressure",
+          "weekendGross": "£1,076,106",
+          "weeksOnRelease": "2"
+        },
+        {
+          "countryOfOrigin": "UK/USA",
+          "distributor": "Universal",
+          "rank": 5,
+          "title": "The Odyssey",
+          "weekendGross": "£587,430",
+          "weeksOnRelease": "10"
+        },
+        {
+          "countryOfOrigin": "UK/USA",
+          "distributor": "Sony Pictures",
+          "rank": 6,
+          "title": "Spider-Man: Brand New Day",
+          "weekendGross": "£571,325",
+          "weeksOnRelease": "8"
+        },
+        {
+          "countryOfOrigin": "UK/USA",
+          "distributor": "Disney",
+          "rank": 7,
+          "title": "Oasis: Don’t Look Back In Anger",
+          "weekendGross": "£487,748",
+          "weeksOnRelease": "2"
+        },
+        {
+          "countryOfOrigin": "UK",
+          "distributor": "Paramount",
+          "rank": 8,
+          "title": "Bad Apples",
+          "weekendGross": "£486,690",
+          "weeksOnRelease": "1"
+        },
+        {
+          "countryOfOrigin": "USA",
+          "distributor": "Fathom Events",
+          "rank": 9,
+          "title": "Transformers 40th Anniversary",
+          "weekendGross": "£432,893",
+          "weeksOnRelease": "1"
+        },
+        {
+          "countryOfOrigin": "USA",
+          "distributor": "Sony Pictures",
+          "rank": 10,
+          "title": "Insidious: Out Of The Further",
+          "weekendGross": "£194,667",
+          "weeksOnRelease": "5"
+        }
+      ],
+      "reportTitle": "Weekend box office report: 18 to 20 September 2026",
+      "reportURL": "https://core-cms.bfi.org.uk/media/45505/download",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "British Film Institute",
+        "territory": "GB",
+        "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
+      },
+      "title": "UK weekend theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
+          "rank": 1,
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 2,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 3,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 4,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "SIENNA SPIRO",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
+          "id": "6769552411",
+          "rank": 5,
+          "releaseDate": "2026-07-02",
+          "title": "Great Expectation",
+          "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 6,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "STELLA LEFTY",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
+          "id": "1884403093",
+          "rank": 7,
+          "releaseDate": "2026-03-27",
+          "title": "Boston",
+          "url": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 8,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/gb/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 9,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/gb/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Shakira & Burna Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
+          "id": "6768469976",
+          "rank": 10,
+          "releaseDate": "2026-05-14",
+          "title": "Dai Dai",
+          "url": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Wed, 23 Sep 2026 13:28:30 +0000",
+        "provider": "Apple Music",
+        "territory": "GB",
+        "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "ons-baby-names-england-wales",
+      "items": [
+        {
+          "category": "boy",
+          "count": 5957,
+          "name": "Muhammad",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 4075,
+          "name": "Noah",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3278,
+          "name": "Leo",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3266,
+          "name": "Luca",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3211,
+          "name": "Arthur",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3154,
+          "name": "Oliver",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3082,
+          "name": "George",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2798,
+          "name": "Oscar",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2638,
+          "name": "Theodore",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2526,
+          "name": "Freddie",
+          "rank": 10,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "girl",
+          "count": 2386,
+          "name": "Olivia",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2249,
+          "name": "Lily",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2153,
+          "name": "Amelia",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1959,
+          "name": "Isla",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1924,
+          "name": "Florence",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1802,
+          "name": "Freya",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1789,
+          "name": "Poppy",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1700,
+          "name": "Elsie",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1698,
+          "name": "Ivy",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1690,
+          "name": "Isabella",
+          "rank": 10,
+          "rankGroup": "girl"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Office for National Statistics",
+        "territory": "GB",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "ad7e3bc9234e748f659bda9474a4221bd6ed87596cea57964af74e9a9f6c50ca",
+  "country": "GB",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T13:28:29Z",
+  "schemaVersion": 1
+}

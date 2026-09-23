@@ -1,0 +1,308 @@
+{
+  "charts": {
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 1,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/ie/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 2,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/ie/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 3,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/ie/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 4,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/ie/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
+          "rank": 5,
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/ie/album/movin-to-the-sun/6769069923?i=6769070199"
+        },
+        {
+          "artist": "Kingfishr",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/a7/0b71a77c-c647-8c58-ed0a-21beadc44a4d/075679579034.jpg/100x100bb.jpg",
+          "id": "6768830564",
+          "rank": 6,
+          "releaseDate": "2026-05-26",
+          "title": "The Sun Will Never Settle",
+          "url": "https://music.apple.com/ie/album/the-sun-will-never-settle/6768830561?i=6768830564"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 7,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/ie/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884101",
+          "rank": 8,
+          "releaseDate": "2026-07-23",
+          "title": "Ain't In LA",
+          "url": "https://music.apple.com/ie/album/aint-in-la/6792883860?i=6792884101"
+        },
+        {
+          "artist": "SIENNA SPIRO",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
+          "id": "6769552411",
+          "rank": 9,
+          "releaseDate": "2026-07-02",
+          "title": "Great Expectation",
+          "url": "https://music.apple.com/ie/album/great-expectation/6769552402?i=6769552411"
+        },
+        {
+          "artist": "Amble",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/3e/f2/1c3ef25b-aacf-ef0b-d443-8ed705d43c84/054391213907.jpg/100x100bb.jpg",
+          "id": "6779853229",
+          "rank": 10,
+          "releaseDate": "2026-06-26",
+          "title": "The Swell",
+          "url": "https://music.apple.com/ie/album/the-swell/6779853047?i=6779853229"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Wed, 23 Sep 2026 13:28:35 +0000",
+        "provider": "Apple Music",
+        "territory": "IE",
+        "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "cso-ireland-baby-names",
+      "items": [
+        {
+          "category": "boy",
+          "count": 490,
+          "name": "Rían",
+          "rank": 1,
+          "rankGroup": "boy",
+          "sourceRank": 1
+        },
+        {
+          "category": "boy",
+          "count": 475,
+          "name": "Jack",
+          "rank": 2,
+          "rankGroup": "boy",
+          "sourceRank": 2
+        },
+        {
+          "category": "boy",
+          "count": 436,
+          "name": "Noah",
+          "rank": 3,
+          "rankGroup": "boy",
+          "sourceRank": 3
+        },
+        {
+          "category": "boy",
+          "count": 359,
+          "name": "James",
+          "rank": 4,
+          "rankGroup": "boy",
+          "sourceRank": 4
+        },
+        {
+          "category": "boy",
+          "count": 331,
+          "name": "Oisín",
+          "rank": 5,
+          "rankGroup": "boy",
+          "sourceRank": 5
+        },
+        {
+          "category": "boy",
+          "count": 321,
+          "name": "Fionn",
+          "rank": 6,
+          "rankGroup": "boy",
+          "sourceRank": 6
+        },
+        {
+          "category": "boy",
+          "count": 313,
+          "name": "Liam",
+          "rank": 7,
+          "rankGroup": "boy",
+          "sourceRank": 7
+        },
+        {
+          "category": "boy",
+          "count": 286,
+          "name": "Tadhg",
+          "rank": 8,
+          "rankGroup": "boy",
+          "sourceRank": 8
+        },
+        {
+          "category": "boy",
+          "count": 271,
+          "name": "Cillian",
+          "rank": 9,
+          "rankGroup": "boy",
+          "sourceRank": 9
+        },
+        {
+          "category": "boy",
+          "count": 261,
+          "name": "Leo",
+          "rank": 10,
+          "rankGroup": "boy",
+          "sourceRank": 10
+        },
+        {
+          "category": "girl",
+          "count": 302,
+          "name": "Lily",
+          "rank": 1,
+          "rankGroup": "girl",
+          "sourceRank": 1
+        },
+        {
+          "category": "girl",
+          "count": 294,
+          "name": "Éabha",
+          "rank": 2,
+          "rankGroup": "girl",
+          "sourceRank": 2
+        },
+        {
+          "category": "girl",
+          "count": 273,
+          "name": "Fiadh",
+          "rank": 3,
+          "rankGroup": "girl",
+          "sourceRank": 3
+        },
+        {
+          "category": "girl",
+          "count": 265,
+          "name": "Grace",
+          "rank": 4,
+          "rankGroup": "girl",
+          "sourceRank": 4
+        },
+        {
+          "category": "girl",
+          "count": 258,
+          "name": "Sadie",
+          "rank": 5,
+          "rankGroup": "girl",
+          "sourceRank": 5
+        },
+        {
+          "category": "girl",
+          "count": 246,
+          "name": "Emily",
+          "rank": 6,
+          "rankGroup": "girl",
+          "sourceRank": 6
+        },
+        {
+          "category": "girl",
+          "count": 246,
+          "name": "Sophie",
+          "rank": 7,
+          "rankGroup": "girl",
+          "sourceRank": 6
+        },
+        {
+          "category": "girl",
+          "count": 224,
+          "name": "Olivia",
+          "rank": 8,
+          "rankGroup": "girl",
+          "sourceRank": 8
+        },
+        {
+          "category": "girl",
+          "count": 211,
+          "name": "Croía",
+          "rank": 9,
+          "rankGroup": "girl",
+          "sourceRank": 9
+        },
+        {
+          "category": "girl",
+          "count": 209,
+          "name": "Éala",
+          "rank": 10,
+          "rankGroup": "girl",
+          "sourceRank": 10
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Central Statistics Office Ireland",
+        "territory": "IE",
+        "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "0e458669265df7531cae91e267cdbf8f73624064a3afeaed0f8c45cf61d8bb0e",
+  "country": "IE",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T13:28:29Z",
+  "schemaVersion": 1
+}

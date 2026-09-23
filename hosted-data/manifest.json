@@ -1,0 +1,159 @@
+{
+  "countries": [
+    "AU",
+    "CA",
+    "DE",
+    "ES",
+    "FR",
+    "GB",
+    "IE",
+    "IT",
+    "NZ",
+    "US"
+  ],
+  "endpoints": {
+    "byDate": "v1/dates/{yyyy-mm-dd}/{country}.json",
+    "latest": "v1/latest/{country}.json",
+    "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
+    "nameMeanings": "v1/editorial/name-meanings.json"
+  },
+  "generatedAt": "2026-09-23T13:28:29Z",
+  "latestDate": "2026-09-23",
+  "runStatus": [
+    {
+      "source": "appleMusic/GB",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/US",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/CA",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/AU",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/IE",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/DE",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/FR",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/ES",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/IT",
+      "status": "ok"
+    },
+    {
+      "source": "gameOfYear/WORLD",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/GB",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/IT",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/AU",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/DE",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/US",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/adultBooks/US",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/childrensBooks/US",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/adultBooks/AU",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/adultBooks/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/childrensBooks/NZ",
+      "status": "ok"
+    },
+    {
+      "detail": "Unable to fetch https://www.ssa.gov/oact/babynames/names.zip: HTTP Error 403: Forbidden",
+      "source": "ssaNames/US",
+      "status": "error"
+    },
+    {
+      "source": "governmentNames/GB",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/CA",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/FR",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/IE",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/DE",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/ES",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/IT",
+      "status": "ok"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/US",
+      "status": "carried"
+    },
+    {
+      "source": "annual/GB",
+      "status": "ok"
+    }
+  ],
+  "schemaVersion": 1
+}

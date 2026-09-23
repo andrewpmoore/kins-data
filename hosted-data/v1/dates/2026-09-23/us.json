@@ -1,0 +1,510 @@
+{
+  "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "publishers-weekly-adult-2026-09-21",
+      "items": [
+        {
+          "creator": "Allen Levi",
+          "isbn13": "9781668236512",
+          "rank": 1,
+          "title": "Theo of Golden"
+        },
+        {
+          "creator": "Penn Cole",
+          "isbn13": "9781668200223",
+          "rank": 2,
+          "title": "Burn of the Everflame"
+        },
+        {
+          "creator": "Kathryn Stockett",
+          "isbn13": "9781954118812",
+          "rank": 3,
+          "title": "The Calamity Club",
+          "url": "https://www.publishersweekly.com/9781954118812"
+        },
+        {
+          "creator": "J D Robb",
+          "isbn13": "9781250414564",
+          "rank": 4,
+          "title": "Fury in Death"
+        },
+        {
+          "creator": "Amir Tsarfati, Tolik Piflaks",
+          "isbn13": "9780736993937",
+          "rank": 5,
+          "title": "The Elijah Mandate: A Call to Courageous Faith in a Hostile World"
+        },
+        {
+          "creator": "Rachel Gillig",
+          "isbn13": "9780316601849",
+          "rank": 6,
+          "title": "The Knave and the Moon"
+        },
+        {
+          "creator": "Victor Davis Hanson",
+          "isbn13": "9781541607828",
+          "rank": 7,
+          "title": "The Counterrevolution: The Fall and Rise of Donald Trump and the Maga Movement"
+        },
+        {
+          "creator": "R F Kuang",
+          "isbn13": "9780063473744",
+          "rank": 8,
+          "title": "Taipei Story (Deluxe Limited Edition)",
+          "url": "https://www.publishersweekly.com/9780063473744"
+        },
+        {
+          "creator": "Eli McCann",
+          "isbn13": "9798890920461",
+          "rank": 9,
+          "title": "Stitched"
+        },
+        {
+          "creator": "Jonathan Cahn",
+          "isbn13": "9781636416151",
+          "rank": 10,
+          "title": "The Altar of Pergamon: The Mystery of the Dark Angel and the Future of the World"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Top 10 Overall",
+        "observedAt": "2026-09-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
+      },
+      "title": "Circana BookScan Top 10 Overall"
+    },
+    "childrensBooks": {
+      "audience": "children",
+      "id": "publishers-weekly-children-2026-09-21",
+      "items": [
+        {
+          "creator": "Suzanne Collins",
+          "isbn13": "9781546171461",
+          "rank": 1,
+          "title": "Sunrise on the Reaping (the Hunger Games)",
+          "url": "https://www.publishersweekly.com/9781546171461"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "isbn13": "9781419788109",
+          "rank": 2,
+          "title": "Rowley Jefferson's Awesome Friendly Spooky Stories 2: From the Creator of Diary of a Wimpy Kid"
+        },
+        {
+          "creator": "Hervé Commère",
+          "isbn13": "9798347119615",
+          "rank": 3,
+          "title": "21 Days of Fear: One Day, One Letter"
+        },
+        {
+          "creator": "Sammy Savos, Gibson Twist",
+          "isbn13": "9780063450882",
+          "rank": 4,
+          "title": "Warriors Graphic Novel: The New Prophecy #1"
+        },
+        {
+          "creator": "Lynn Painter",
+          "isbn13": "9781665921268",
+          "rank": 5,
+          "title": "Fake Skating (Reprint)",
+          "url": "https://www.publishersweekly.com/9781665921268"
+        },
+        {
+          "creator": "Don Martin",
+          "isbn13": "9798890032706",
+          "rank": 6,
+          "title": "Verity Vox and the Curse of Foxfire",
+          "url": "https://www.publishersweekly.com/9798890032706"
+        },
+        {
+          "creator": "Suzanne Collins",
+          "isbn13": "9798225044473",
+          "rank": 7,
+          "title": "Sunrise on the Reaping (a Hunger Games Novel): Movie Tie-In Edition"
+        },
+        {
+          "creator": "Katherine Rundell, Ashley MacKenzie",
+          "isbn13": "9780593809945",
+          "rank": 8,
+          "title": "The Neverfear"
+        },
+        {
+          "creator": "Aubrey Hartman",
+          "isbn13": "9780316575720",
+          "rank": 9,
+          "title": "The Undead Fox of Deadwood Forest (Newbery Honor Award Winner)",
+          "url": "https://www.publishersweekly.com/9780316575720"
+        },
+        {
+          "creator": "Dav Pilkey, Dav Pilkey",
+          "isbn13": "9781546176183",
+          "rank": 10,
+          "title": "Dog Man: Big Jim Believes: A Graphic Novel (Dog Man #14): From the Creator of Captain Underpants"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Children's Frontlist Fiction",
+        "observedAt": "2026-09-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
+      },
+      "title": "Circana BookScan Children's Frontlist Fiction"
+    },
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-09-23T13:28:29Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "movies": {
+      "id": "the-numbers-us-2026-09-18",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Resident Evil",
+          "totalGross": "$60,152,878",
+          "url": "https://www.the-numbers.com/movie/Resident-Evil-(2026)",
+          "weekendGross": "$60,152,878"
+        },
+        {
+          "rank": 2,
+          "title": "Practical Magic 2",
+          "totalGross": "$50,035,443",
+          "url": "https://www.the-numbers.com/movie/Practical-Magic-2-(2026)",
+          "weekendGross": "$12,158,856"
+        },
+        {
+          "rank": 3,
+          "title": "Spider-Man: Brand New Day",
+          "totalGross": "$944,417,445",
+          "url": "https://www.the-numbers.com/movie/Spider-Man-Brand-New-Day-(2026)",
+          "weekendGross": "$6,415,159"
+        },
+        {
+          "rank": 4,
+          "title": "The Odyssey",
+          "totalGross": "$609,811,695",
+          "url": "https://www.the-numbers.com/movie/Odyssey-The-(2026)",
+          "weekendGross": "$4,953,955"
+        },
+        {
+          "rank": 5,
+          "title": "Coyote vs. Acme",
+          "totalGross": "$54,714,484",
+          "url": "https://www.the-numbers.com/movie/Coyote-v-Acme-(2026)",
+          "weekendGross": "$4,410,418"
+        },
+        {
+          "rank": 6,
+          "title": "Daniel and the Fiery Furnace",
+          "totalGross": "$3,303,548",
+          "url": "https://www.the-numbers.com/movie/Daniel-and-the-Fiery-Furnace-(2026)",
+          "weekendGross": "$3,303,548"
+        },
+        {
+          "rank": 7,
+          "title": "The Transformers: The Movie",
+          "totalGross": "$4,156,531",
+          "url": "https://www.the-numbers.com/movie/Transformers-The-Movie-The-(1986)",
+          "weekendGross": "$3,103,922"
+        },
+        {
+          "rank": 8,
+          "title": "Runner",
+          "totalGross": "$11,814,476",
+          "url": "https://www.the-numbers.com/movie/Runner-(2026-Dir-Scott-Waugh)",
+          "weekendGross": "$3,007,648"
+        },
+        {
+          "rank": 9,
+          "title": "The Weight",
+          "totalGross": "$2,301,059",
+          "url": "https://www.the-numbers.com/movie/Weight-The-(2026)",
+          "weekendGross": "$2,301,059"
+        },
+        {
+          "rank": 10,
+          "title": "Buddy",
+          "totalGross": "$24,855,411",
+          "url": "https://www.the-numbers.com/movie/Buddy-(2026)",
+          "weekendGross": "$1,951,447"
+        }
+      ],
+      "reportPeriod": "2026-09-18/2026-09-20",
+      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/09/18",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "US theatrical weekend gross",
+        "observedAt": "2026-09-20",
+        "provider": "The Numbers",
+        "territory": "US",
+        "url": "https://www.the-numbers.com/box-office"
+      },
+      "title": "US weekend theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/ab/6b/a2ab6b7e-7da3-e05f-b53a-885a4f64b0e1/075679559340.jpg/100x100bb.jpg",
+          "id": "6812477131",
+          "rank": 1,
+          "releaseDate": "2026-09-19",
+          "title": "Last Thing You Need (from GTAVI: The Album)",
+          "url": "https://music.apple.com/us/album/last-thing-you-need-from-gtavi-the-album/6812477129?i=6812477131"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 2,
+          "releaseDate": "2026-08-07",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 3,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
+          "rank": 4,
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 5,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+          "id": "6792676860",
+          "rank": 6,
+          "releaseDate": "2026-07-24",
+          "title": "Been By Now",
+          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/100x100bb.jpg",
+          "id": "6790569133",
+          "rank": 7,
+          "releaseDate": "2026-07-17",
+          "title": "Dead Fresh",
+          "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+        },
+        {
+          "artist": "Jhené Aiko",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/51/9f/5f519f49-44c1-6aeb-f289-5b14c677abb1/26UM1IM17017.rgb.jpg/100x100bb.jpg",
+          "id": "6810716062",
+          "rank": 8,
+          "releaseDate": "2026-09-11",
+          "title": "So Good (feat. Kendrick Lamar)",
+          "url": "https://music.apple.com/us/album/so-good-feat-kendrick-lamar/6810715695?i=6810716062"
+        },
+        {
+          "artist": "Ella Langley & Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/100x100bb.jpg",
+          "id": "6763091996",
+          "rank": 9,
+          "releaseDate": "2026-04-24",
+          "title": "I Can't Love You Anymore",
+          "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
+        },
+        {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
+          "id": "1648587330",
+          "rank": 10,
+          "releaseDate": "2022-04-08",
+          "title": "In A Minute",
+          "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Wed, 23 Sep 2026 13:28:32 +0000",
+        "provider": "Apple Music",
+        "territory": "US",
+        "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "ssa-national-baby-names-2025-seed",
+      "items": [
+        {
+          "category": "girl",
+          "name": "Olivia",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Emma",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Amelia",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Charlotte",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Mia",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sophia",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Isabella",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Evelyn",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Ava",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sofia",
+          "rank": 10,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "boy",
+          "name": "Liam",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Noah",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Oliver",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Theodore",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "James",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Henry",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Mateo",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Elijah",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Lucas",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "William",
+          "rank": 10,
+          "rankGroup": "boy"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national birth-name rank by sex; published top ten; exact spelling",
+        "observedAt": "2026-05-08",
+        "provider": "U.S. Social Security Administration",
+        "territory": "US",
+        "url": "https://www.ssa.gov/oact/babynames/"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "f9b3c2ca900fc3eb8d2494ac4fc14e0cb0c2358b0a9d49672cf6eb4f30e3773d",
+  "country": "US",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T13:28:29Z",
+  "schemaVersion": 1
+}

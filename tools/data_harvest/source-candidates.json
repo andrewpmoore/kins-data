@@ -1,0 +1,310 @@
+{
+  "reviewedAt": "2026-09-23",
+  "statusDefinitions": {
+    "active": "Harvested now; output keeps the source territory and metric.",
+    "candidate": "Public and promising; parser or redistribution review still required.",
+    "limited": "Public, but not a full national chart or not the requested cadence.",
+    "stale": "Public archive exists but is not being kept current.",
+    "unavailable": "No reliable public national page was identified."
+  },
+  "countries": {
+    "US": {
+      "movies": [
+        {
+          "status": "active",
+          "provider": "The Numbers",
+          "url": "https://www.the-numbers.com/box-office",
+          "metric": "US theatrical weekend gross",
+          "cadence": "weekly"
+        }
+      ],
+      "books": [
+        {
+          "status": "active",
+          "provider": "Publishers Weekly / Circana BookScan",
+          "url": "https://www.publishersweekly.com/pw/nielsen/top100.html",
+          "metric": "public Circana BookScan overall top ten",
+          "cadence": "weekly",
+          "notes": "Adult and children's public rankings are harvested with rank, title, author, ISBN and week only."
+        }
+      ]
+    },
+    "CA": {
+      "movies": [
+        {
+          "status": "candidate",
+          "provider": "Box Office Mojo",
+          "url": "https://www.boxofficemojo.com/weekend/by-year/?area=CA",
+          "metric": "Canada-only theatrical weekend gross",
+          "cadence": "weekly",
+          "notes": "The country page is live but its current 2026 rows are empty; monitor rather than publish blanks."
+        }
+      ],
+      "books": [
+        {
+          "status": "limited",
+          "provider": "BookNet Canada SalesData",
+          "url": "https://booknetcanada.ca/salesdata-librarydata/",
+          "metric": "national print sales measurement",
+          "cadence": "weekly",
+          "notes": "The underlying national service is not open to the general public; a licensed feed is required."
+        },
+        {
+          "status": "candidate",
+          "provider": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/arts/books/bestsellers/",
+          "metric": "Canadian bestseller lists",
+          "cadence": "weekly",
+          "notes": "Public-facing candidate, but automated access is fragile and must not bypass controls."
+        }
+      ]
+    },
+    "GB": {
+      "movies": [
+        {
+          "status": "active",
+          "provider": "British Film Institute",
+          "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures",
+          "metric": "official Friday-to-Sunday theatrical gross",
+          "cadence": "weekly"
+        }
+      ],
+      "books": [
+        {
+          "status": "active",
+          "provider": "NIQ BookData / Nielsen BookScan",
+          "url": "https://nielseniq.com/global/en/insights/",
+          "metric": "national print unit sales records",
+          "cadence": "annual and periodic",
+          "notes": "The current record and a reviewed historical archive are hosted."
+        },
+        {
+          "status": "candidate",
+          "provider": "The Bookseller",
+          "url": "https://www.thebookseller.com/bestsellers",
+          "metric": "UK bestseller charts",
+          "cadence": "weekly",
+          "notes": "Some chart detail is subscription-only; do not bypass it."
+        }
+      ]
+    },
+    "AU": {
+      "movies": [
+        {
+          "status": "active",
+          "provider": "Box Office Mojo",
+          "url": "https://www.boxofficemojo.com/weekend/by-year/?area=AU",
+          "metric": "Australia-only theatrical weekend gross",
+          "cadence": "weekly"
+        },
+        {
+          "status": "candidate",
+          "provider": "Screen Australia / Numero",
+          "url": "https://www.screenaustralia.gov.au/insights-and-trends/research-widget/",
+          "metric": "Australian theatrical performance",
+          "cadence": "weekly and historical",
+          "notes": "Authoritative presentation, with underlying data credited to Numero."
+        }
+      ],
+      "books": [
+        {
+          "status": "active",
+          "provider": "Australian Booksellers Association / NielsenIQ BookScan",
+          "url": "https://loveyourbookshop.org.au/aba-top-10/",
+          "metric": "top ten in ABA Buying Group stores",
+          "cadence": "weekly",
+          "notes": "Public and useful, but narrower than the full national market."
+        }
+      ]
+    },
+    "IE": {
+      "movies": [
+        {
+          "status": "stale",
+          "provider": "Screen Ireland",
+          "url": "https://www.screenireland.ie/films/box-office",
+          "metric": "Irish theatrical box office",
+          "cadence": "historical",
+          "notes": "The public page currently stops in 2021."
+        }
+      ],
+      "books": [
+        {
+          "status": "limited",
+          "provider": "NIQ BookData",
+          "url": "https://nielseniq.com/global/en/insights/commentary/2026/651227/",
+          "metric": "Irish print sales market report and leading titles",
+          "cadence": "half-year and annual",
+          "notes": "Useful national measured facts, but not a stable weekly list."
+        }
+      ]
+    },
+    "NZ": {
+      "movies": [
+        {
+          "status": "active",
+          "provider": "Box Office Mojo",
+          "url": "https://www.boxofficemojo.com/weekend/by-year/?area=NZ",
+          "metric": "New Zealand-only theatrical weekend gross",
+          "cadence": "weekly"
+        },
+        {
+          "status": "candidate",
+          "provider": "Flicks / Numero",
+          "url": "https://www.flicks.co.nz/features/nz-box-office-report/",
+          "metric": "New Zealand theatrical weekend gross",
+          "cadence": "weekly"
+        }
+      ],
+      "books": [
+        {
+          "status": "active",
+          "provider": "BookHub / Booksellers Aotearoa / Nielsen BookScan",
+          "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10",
+          "metric": "weekly sales through participating independent booksellers",
+          "cadence": "weekly",
+          "notes": "Harvested with its independent-bookseller scope retained."
+        },
+        {
+          "status": "active",
+          "provider": "Booksellers Aotearoa / Nielsen BookScan",
+          "url": "https://www.booksellers.co.nz/news/nielsen-bookscan",
+          "metric": "national measured book sales split into New Zealand and international adult and children categories",
+          "cadence": "weekly",
+          "notes": "The NZ Children and Teens category is harvested without relabelling it as an overall market chart."
+        }
+      ]
+    },
+    "DE": {
+      "movies": [
+        {
+          "status": "active",
+          "provider": "Media Control",
+          "url": "https://mc-charts-de-stage.azurewebsites.net/kino-charts/",
+          "metric": "official national cinema chart based on representative admissions from about 4,600 screens",
+          "cadence": "weekly"
+        }
+      ],
+      "books": [
+        {
+          "status": "candidate",
+          "provider": "Media Control / DER SPIEGEL",
+          "url": "https://www.media-control.de/spiegel-bestseller.html",
+          "metric": "German bestseller rankings measured across about 9,000 outlets",
+          "cadence": "weekly adult; monthly children",
+          "notes": "Strong public downloadable candidate; reuse terms need review."
+        }
+      ]
+    },
+    "FR": {
+      "movies": [
+        {
+          "status": "candidate",
+          "provider": "AlloCine",
+          "url": "https://www.allocine.fr/boxoffice/france/",
+          "metric": "France theatrical admissions",
+          "cadence": "weekly"
+        },
+        {
+          "status": "candidate",
+          "provider": "CNC",
+          "url": "https://www.cnc.fr/professionnels/etudes-et-rapports/statistiques",
+          "metric": "official French cinema statistics",
+          "cadence": "periodic",
+          "notes": "Authoritative aggregate source; no stable public weekly all-film table identified."
+        }
+      ],
+      "books": [
+        {
+          "status": "candidate",
+          "provider": "Livres Hebdo / NielsenIQ-GfK",
+          "url": "https://www.livreshebdo.fr/meilleuresVentes",
+          "metric": "French book-sales top 20",
+          "cadence": "weekly",
+          "notes": "Public landing page; chart access and reuse restrictions need checking."
+        }
+      ]
+    },
+    "ES": {
+      "movies": [
+        {
+          "status": "candidate",
+          "provider": "Spanish Ministry of Culture / ICAA",
+          "url": "https://www.cultura.gob.es/cultura/areas/cine/datos/taquilla-espectadores.html",
+          "metric": "weekly Top 25 theatrical gross and admissions",
+          "cadence": "weekly",
+          "notes": "The ministry states the Rentrak figures are not official ICAA statistics; redistribution review required."
+        }
+      ],
+      "books": [
+        {
+          "status": "limited",
+          "provider": "TodosTusLibros / CEGAL",
+          "url": "https://www.todostuslibros.com/mas-vendidos",
+          "metric": "bookseller-network popular titles",
+          "cadence": "current",
+          "notes": "Not yet verified as a national audited unit-sales chart."
+        }
+      ]
+    },
+    "IT": {
+      "movies": [
+        {
+          "status": "active",
+          "provider": "Cinetel",
+          "url": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D",
+          "metric": "national weekly theatrical gross and admissions",
+          "cadence": "weekly"
+        }
+      ],
+      "books": [
+        {
+          "status": "candidate",
+          "provider": "Giornale della Libreria / NielsenIQ BookData",
+          "url": "https://www.giornaledellalibreria.it/categorie/le-classifiche-19.html",
+          "metric": "Italian general and children top 100 by measured sales index",
+          "cadence": "monthly",
+          "notes": "Strong public category pages; parser and reuse review still required."
+        }
+      ]
+    }
+  },
+  "games": {
+    "WORLD": [
+      {
+        "status": "active",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "url": "https://www.interactive.org/awards/",
+        "metric": "D.I.C.E. Game of the Year winner",
+        "cadence": "annual"
+      }
+    ],
+    "GB": [
+      {
+        "status": "candidate",
+        "provider": "BAFTA",
+        "url": "https://www.bafta.org/awards/games/best-game/",
+        "metric": "Best Game winner and nominees",
+        "cadence": "annual"
+      }
+    ],
+    "AU": [
+      {
+        "status": "candidate",
+        "provider": "Australian Game Developer Awards",
+        "url": "https://agdas.com.au/",
+        "metric": "Australian-developed Game of the Year winner",
+        "cadence": "annual"
+      }
+    ],
+    "DE": [
+      {
+        "status": "candidate",
+        "provider": "Deutscher Computerspielpreis",
+        "url": "https://deutscher-computerspielpreis.de/der-preis/kategorien/",
+        "metric": "Best German Game winner and nominees",
+        "cadence": "annual"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+name: Harvest hosted app data
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/harvest-hosted-data.yml"
+      - "tools/data_harvest/**"
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hosted-app-data
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh attributed Wiktionary name etymologies
+        run: |
+          if [ "$(date -u +%d)" != "01" ]; then exit 0; fi
+          curl --fail --location --retry 3 --output "${RUNNER_TEMP}/kaikki-names.jsonl" \
+            https://kaikki.org/dictionary/English/pos-name/kaikki.org-dictionary-English-by-pos-name.jsonl
+          python tools/data_harvest/import_wiktionary_names.py \
+            --input "${RUNNER_TEMP}/kaikki-names.jsonl" --max-entries 10000
+      - name: Test importers and editorial data
+        run: python -m unittest tools/data_harvest/test_harvest.py
+      - name: Harvest today's snapshots
+        env:
+          NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
+        run: python tools/data_harvest/harvest.py
+      - name: Commit refreshed public data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add hosted-data tools/data_harvest/wiktionary-name-meanings.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "data: harvest $(date -u +%F)"
+          git push

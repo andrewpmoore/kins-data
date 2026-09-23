@@ -1,0 +1,46 @@
+{
+  "2026": {
+    "GB": {
+      "adultBooks": {
+        "id": "niq-uk-adult-books-2026-to-05-30",
+        "title": "UK print no. 1 · to 30 May 2026",
+        "source": {
+          "provider": "NIQ BookData",
+          "url": "https://nielseniq.com/global/en/insights/commentary/2026/independent-bookshop-week-2026/",
+          "territory": "GB",
+          "metric": "UK print unit sales to 30 May 2026; £1 World Book Day editions excluded",
+          "kind": "nationalBookSales",
+          "observedAt": "2026-05-30"
+        },
+        "items": [
+          {
+            "rank": 1,
+            "title": "The Housemaid",
+            "creator": "Freida McFadden",
+            "isbn13": "9780349132884"
+          }
+        ]
+      },
+      "childrensBooks": {
+        "id": "niq-uk-childrens-books-2026-to-05-30",
+        "title": "UK children's & YA no. 1 · to 30 May 2026",
+        "source": {
+          "provider": "NIQ BookData",
+          "url": "https://nielseniq.com/global/en/insights/commentary/2026/independent-bookshop-week-2026/",
+          "territory": "GB",
+          "metric": "UK children's & YA print unit sales to 30 May 2026; £1 World Book Day editions excluded",
+          "kind": "nationalBookSales",
+          "observedAt": "2026-05-30"
+        },
+        "items": [
+          {
+            "rank": 1,
+            "title": "Cozy Corner",
+            "creator": "Coco Wyo",
+            "isbn13": "9780241764220"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "countries": ["GB", "US", "CA", "AU", "IE", "NZ", "DE", "FR", "ES", "IT"],
+  "appleMusic": {
+    "enabled": true,
+    "limit": 10
+  },
+  "appleStore": {
+    "enabled": false,
+    "limit": 10,
+    "charts": ["movies", "adultBooks", "childrensBooks", "games"]
+  },
+  "theatricalBoxOffice": {
+    "enabled": true,
+    "bfiPage": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures",
+    "cinetelPage": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D",
+    "mediaControlGermanyPage": "https://mc-charts-de-stage.azurewebsites.net/kino-charts/",
+    "theNumbersUSPage": "https://www.the-numbers.com/box-office",
+    "boxOfficeMojoCountries": {
+      "AU": "https://www.boxofficemojo.com/weekend/by-year/?area=AU",
+      "NZ": "https://www.boxofficemojo.com/weekend/by-year/?area=NZ"
+    },
+    "limit": 10
+  },
+  "publicBookCharts": {
+    "enabled": true,
+    "limit": 10,
+    "charts": [
+      {
+        "type": "publishersWeekly",
+        "country": "US",
+        "outputKey": "adultBooks",
+        "audience": "adult",
+        "title": "Circana BookScan Top 10 Overall",
+        "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
+      },
+      {
+        "type": "publishersWeekly",
+        "country": "US",
+        "outputKey": "childrensBooks",
+        "audience": "children",
+        "title": "Circana BookScan Children's Frontlist Fiction",
+        "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
+      },
+      {
+        "type": "abaAustralia",
+        "country": "AU",
+        "outputKey": "adultBooks",
+        "audience": "adult",
+        "url": "https://loveyourbookshop.org.au/aba-top-10/"
+      },
+      {
+        "type": "bookhubNZ",
+        "country": "NZ",
+        "outputKey": "adultBooks",
+        "audience": "adult",
+        "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
+      },
+      {
+        "type": "booksellersNZCategory",
+        "country": "NZ",
+        "outputKey": "childrensBooks",
+        "audience": "children",
+        "heading": "NZ Children and Teens",
+        "title": "NZ Children and Teens",
+        "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
+      }
+    ]
+  },
+  "gameOfYear": {
+    "enabled": true,
+    "pageTemplate": "https://www.interactive.org/awards/award_category_details.asp?idAward={year}&idGameAwardType=65"
+  },
+  "nytBooks": {
+    "enabled": false,
+    "apiKeyEnvironment": "NYT_API_KEY",
+    "lists": [
+      {
+        "name": "combined-print-and-e-book-fiction",
+        "outputKey": "adultBooks",
+        "audience": "adult"
+      },
+      {
+        "name": "childrens-middle-grade-hardcover",
+        "outputKey": "childrensBooks",
+        "audience": "children"
+      }
+    ]
+  },
+  "ssaNames": {
+    "enabled": true,
+    "limit": 10,
+    "refreshDays": 30
+  },
+  "governmentNames": [
+    {
+      "enabled": true,
+      "country": "GB",
+      "type": "ons",
+      "id": "ons-baby-names-england-wales",
+      "provider": "Office for National Statistics",
+      "sourcePage": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996",
+      "url": "https://www.ons.gov.uk/file?uri=%2Fpeoplepopulationandcommunity%2Fbirthsdeathsandmarriages%2Flivebirths%2Fdatasets%2Fbabynamesinenglandandwalesfrom1996%2F1996to2025%2Fbabynames1996to2025.xlsx",
+      "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
+      "limit": 10,
+      "refreshDays": 30
+    },
+    {
+      "enabled": true,
+      "country": "CA",
+      "type": "statcan",
+      "id": "statcan-17100147",
+      "provider": "Statistics Canada",
+      "sourcePage": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701",
+      "url": "https://www150.statcan.gc.ca/n1/en/tbl/csv/17100147-eng.zip",
+      "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
+      "limit": 10,
+      "refreshDays": 30
+    },
+    {
+      "enabled": true,
+      "country": "FR",
+      "type": "insee",
+      "id": "insee-prenoms-national",
+      "provider": "INSEE",
+      "sourcePage": "https://www.insee.fr/fr/statistiques/8595130",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/8595130/prenoms-2025-nat_csv.zip",
+      "metric": "national birth-name rank by sex; counts rounded to nearest five",
+      "limit": 10,
+      "refreshDays": 30
+    },
+    {
+      "enabled": true,
+      "country": "IE",
+      "type": "csoIreland",
+      "id": "cso-ireland-baby-names",
+      "provider": "Central Statistics Office Ireland",
+      "sourcePage": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/",
+      "boysURL": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/VSA50/JSON-stat/2.0/en",
+      "girlsURL": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/VSA60/JSON-stat/2.0/en",
+      "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
+      "limit": 10,
+      "refreshDays": 30
+    },
+    {
+      "enabled": true,
+      "country": "NZ",
+      "type": "smartstartNZ",
+      "id": "dia-new-zealand-baby-names",
+      "provider": "New Zealand Department of Internal Affairs",
+      "sourcePage": "https://smartstart.services.govt.nz/news/baby-names",
+      "metric": "national registered baby-name count by sex",
+      "limit": 10,
+      "refreshDays": 30
+    },
+    {
+      "enabled": true,
+      "country": "DE",
+      "type": "gfdsGermany",
+      "id": "gfds-germany-first-names",
+      "provider": "Gesellschaft für deutsche Sprache",
+      "sourcePage": "https://gfds.de/vornamen/beliebteste-vornamen/",
+      "pageTemplate": "https://gfds.de/die-beliebtesten-vornamen-{year}/",
+      "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
+      "limit": 10,
+      "refreshDays": 30
+    },
+    {
+      "enabled": true,
+      "country": "ES",
+      "type": "ineSpain",
+      "id": "ine-spain-newborn-names",
+      "provider": "Instituto Nacional de Estadística",
+      "sourcePage": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados",
+      "metric": "national newborn-name rank and count by sex",
+      "limit": 10,
+      "refreshDays": 30
+    },
+    {
+      "enabled": true,
+      "country": "IT",
+      "type": "istatItaly",
+      "id": "istat-italy-baby-names",
+      "provider": "Istat",
+      "sourcePage": "https://www.istat.it/en/data/interactive-contents/baby-names/",
+      "url": "https://www.istat.it/wp-content/themes/EGPbs5-child/contanomi/nati/index2022.php",
+      "metric": "national registered baby-name rank, count and sex share",
+      "limit": 10,
+      "refreshDays": 30
+    }
+  ],
+  "annualData": "annual.json",
+  "manualData": "manual.json",
+  "seedData": "seed-names.json",
+  "nameMeanings": "name-meanings.json",
+  "bulkNameMeanings": "wiktionary-name-meanings.json"
+}

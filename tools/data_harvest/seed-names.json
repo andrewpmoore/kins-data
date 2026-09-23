@@ -1,0 +1,37 @@
+{
+  "US": {
+    "id": "ssa-national-baby-names-2025-seed",
+    "title": "Popular baby names for 2025 births",
+    "year": 2025,
+    "source": {
+      "provider": "U.S. Social Security Administration",
+      "url": "https://www.ssa.gov/oact/babynames/",
+      "territory": "US",
+      "metric": "national birth-name rank by sex; published top ten; exact spelling",
+      "kind": "nameRanking",
+      "observedAt": "2026-05-08"
+    },
+    "items": [
+      {"rank": 1, "name": "Olivia", "category": "girl", "rankGroup": "girl"},
+      {"rank": 2, "name": "Emma", "category": "girl", "rankGroup": "girl"},
+      {"rank": 3, "name": "Amelia", "category": "girl", "rankGroup": "girl"},
+      {"rank": 4, "name": "Charlotte", "category": "girl", "rankGroup": "girl"},
+      {"rank": 5, "name": "Mia", "category": "girl", "rankGroup": "girl"},
+      {"rank": 6, "name": "Sophia", "category": "girl", "rankGroup": "girl"},
+      {"rank": 7, "name": "Isabella", "category": "girl", "rankGroup": "girl"},
+      {"rank": 8, "name": "Evelyn", "category": "girl", "rankGroup": "girl"},
+      {"rank": 9, "name": "Ava", "category": "girl", "rankGroup": "girl"},
+      {"rank": 10, "name": "Sofia", "category": "girl", "rankGroup": "girl"},
+      {"rank": 1, "name": "Liam", "category": "boy", "rankGroup": "boy"},
+      {"rank": 2, "name": "Noah", "category": "boy", "rankGroup": "boy"},
+      {"rank": 3, "name": "Oliver", "category": "boy", "rankGroup": "boy"},
+      {"rank": 4, "name": "Theodore", "category": "boy", "rankGroup": "boy"},
+      {"rank": 5, "name": "James", "category": "boy", "rankGroup": "boy"},
+      {"rank": 6, "name": "Henry", "category": "boy", "rankGroup": "boy"},
+      {"rank": 7, "name": "Mateo", "category": "boy", "rankGroup": "boy"},
+      {"rank": 8, "name": "Elijah", "category": "boy", "rankGroup": "boy"},
+      {"rank": 9, "name": "Lucas", "category": "boy", "rankGroup": "boy"},
+      {"rank": 10, "name": "William", "category": "boy", "rankGroup": "boy"}
+    ]
+  }
+}
