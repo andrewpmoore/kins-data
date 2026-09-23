@@ -27,8 +27,37 @@ legacy = importlib.util.module_from_spec(LEGACY_SPEC)
 assert LEGACY_SPEC.loader
 LEGACY_SPEC.loader.exec_module(legacy)
 
+FAILURE_PATH = Path(__file__).with_name("check_new_feed_failures.py")
+FAILURE_SPEC = importlib.util.spec_from_file_location("kins_feed_failures", FAILURE_PATH)
+feed_failures = importlib.util.module_from_spec(FAILURE_SPEC)
+assert FAILURE_SPEC.loader
+FAILURE_SPEC.loader.exec_module(feed_failures)
+
 
 class HarvestTests(unittest.TestCase):
+    def test_feed_failure_alerts_only_on_error_transition(self):
+        previous = {
+            "runStatus": [
+                {"source": "alreadyBroken", "status": "error", "detail": "old"},
+                {"source": "newlyBroken", "status": "ok"},
+                {"source": "healthy", "status": "ok"},
+            ]
+        }
+        current = {
+            "runStatus": [
+                {"source": "alreadyBroken", "status": "error", "detail": "still broken"},
+                {"source": "newlyBroken", "status": "error", "detail": "new failure"},
+                {"source": "healthy", "status": "ok"},
+            ]
+        }
+        result = feed_failures.newly_failing(previous, current)
+        self.assertEqual(result, [{"source": "newlyBroken", "detail": "new failure"}])
+
+    def test_recovered_feed_can_alert_if_it_fails_again(self):
+        previous = {"runStatus": [{"source": "feed", "status": "ok"}]}
+        current = {"runStatus": [{"source": "feed", "status": "error"}]}
+        self.assertEqual(feed_failures.newly_failing(previous, current)[0]["source"], "feed")
+
     def test_legacy_music_omits_conflicts_and_caps_weekly_periods(self):
         with tempfile.TemporaryDirectory() as folder:
             path = Path(folder) / "music.csv"

@@ -1,0 +1,29 @@
+name: Keep scheduled data workflows active
+
+on:
+  schedule:
+    - cron: "43 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hosted-data-keepalive
+  cancel-in-progress: false
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Record weekly repository activity
+        run: |
+          date -u +'%Y-%m-%dT%H:%M:%SZ' > .github/data-workflow-keepalive
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/data-workflow-keepalive
+          git commit -m "chore: keep scheduled data workflows active"
+          git push

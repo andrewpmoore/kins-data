@@ -33,6 +33,13 @@ and commits the new static snapshot to this public repository. The app reads it 
 `https://raw.githubusercontent.com/andrewpmoore/kins-data/main/hosted-data/`, so no
 paid hosting plan or cross-repository write token is required.
 
+The weekly `keep-scheduled-workflows-active.yml` job records repository activity so
+GitHub does not disable schedules after 60 inactive days. The daily harvest compares
+each feed with the prior committed manifest. A newly failing feed creates an issue
+assigned to the repository owner and then fails the run, triggering GitHub's scheduled
+workflow notification email. A feed that remains down does not send repeated alerts;
+after recovery, a later failure is considered new again.
+
 The app first asks for an exact date snapshot, then checks the compact country/year
 history for an exact containing period. It caches valid responses and falls back to
 bundled facts if the host or schema is wrong. It never substitutes the current chart
