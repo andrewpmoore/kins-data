@@ -132,7 +132,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-09-23T15:15:11Z",
+        "observedAt": "2026-09-23T15:40:25Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -317,7 +317,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 23 Sep 2026 15:16:58 +0000",
+        "observedAt": "Wed, 23 Sep 2026 15:40:31 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -471,7 +471,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-09-23T15:15:11Z",
+        "observedAt": "2026-09-23T15:40:25Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -480,9 +480,9 @@
       "year": 2025
     }
   },
-  "contentHash": "8711f6f8f3c95a095c7e27da34afdc25b614b6cbbe9b8fd577e5b2a602cfb0fb",
+  "contentHash": "16b8dc9c688f1b245fff6c4dcab15527d5cda52c04bdddf9056e83f80e2c1c11",
   "country": "NZ",
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T15:15:11Z",
+  "generatedAt": "2026-09-23T15:40:25Z",
   "schemaVersion": 1
 }
