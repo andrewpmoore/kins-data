@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2006-01-13",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Don't Forget About Us"
+            }
+          ],
+          "startDate": "2006-01-01"
+        },
+        {
+          "endDate": "2006-01-20",
+          "items": [
+            {
+              "artist": "D4L",
+              "rank": 1,
+              "title": "Laffy Taffy"
+            }
+          ],
+          "startDate": "2006-01-14"
+        },
+        {
+          "endDate": "2006-02-03",
+          "items": [
+            {
+              "artist": "Nelly featuring Paul Wall, Ali & Gipp",
+              "rank": 1,
+              "title": "Grillz"
+            }
+          ],
+          "startDate": "2006-01-21"
+        },
+        {
+          "endDate": "2006-03-10",
+          "items": [
+            {
+              "artist": "Beyoncé featuring Slim Thug",
+              "rank": 1,
+              "title": "Check on It"
+            }
+          ],
+          "startDate": "2006-02-04"
+        },
+        {
+          "endDate": "2006-03-17",
+          "items": [
+            {
+              "artist": "James Blunt",
+              "rank": 1,
+              "title": "You're Beautiful"
+            }
+          ],
+          "startDate": "2006-03-11"
+        },
+        {
+          "endDate": "2006-03-31",
+          "items": [
+            {
+              "artist": "Ne-Yo",
+              "rank": 1,
+              "title": "So Sick"
+            }
+          ],
+          "startDate": "2006-03-18"
+        },
+        {
+          "endDate": "2006-04-07",
+          "items": [
+            {
+              "artist": "Sean Paul",
+              "rank": 1,
+              "title": "Temperature"
+            }
+          ],
+          "startDate": "2006-04-01"
+        },
+        {
+          "endDate": "2006-05-12",
+          "items": [
+            {
+              "artist": "Daniel Powter",
+              "rank": 1,
+              "title": "Bad Day\"♪"
+            }
+          ],
+          "startDate": "2006-04-08"
+        },
+        {
+          "endDate": "2006-06-02",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "SOS"
+            }
+          ],
+          "startDate": "2006-05-13"
+        },
+        {
+          "endDate": "2006-06-16",
+          "items": [
+            {
+              "artist": "Chamillionaire featuring Krayzie Bone",
+              "rank": 1,
+              "title": "Ridin'"
+            }
+          ],
+          "startDate": "2006-06-03"
+        },
+        {
+          "endDate": "2006-06-30",
+          "items": [
+            {
+              "artist": "Shakira featuring Wyclef Jean",
+              "rank": 1,
+              "title": "Hips Don't Lie"
+            }
+          ],
+          "startDate": "2006-06-17"
+        },
+        {
+          "endDate": "2006-07-07",
+          "items": [
+            {
+              "artist": "Taylor Hicks",
+              "rank": 1,
+              "title": "Do I Make You Proud"
+            }
+          ],
+          "startDate": "2006-07-01"
+        },
+        {
+          "endDate": "2006-08-18",
+          "items": [
+            {
+              "artist": "Nelly Furtado featuring Timbaland",
+              "rank": 1,
+              "title": "Promiscuous"
+            }
+          ],
+          "startDate": "2006-07-08"
+        },
+        {
+          "endDate": "2006-09-08",
+          "items": [
+            {
+              "artist": "Fergie",
+              "rank": 1,
+              "title": "London Bridge"
+            }
+          ],
+          "startDate": "2006-08-19"
+        },
+        {
+          "endDate": "2006-10-27",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "SexyBack"
+            }
+          ],
+          "startDate": "2006-09-09"
+        },
+        {
+          "endDate": "2006-11-10",
+          "items": [
+            {
+              "artist": "Ludacris featuring Pharrell",
+              "rank": 1,
+              "title": "Money Maker"
+            }
+          ],
+          "startDate": "2006-10-28"
+        },
+        {
+          "endDate": "2006-12-01",
+          "items": [
+            {
+              "artist": "Justin Timberlake featuring T.I.",
+              "rank": 1,
+              "title": "My Love"
+            }
+          ],
+          "startDate": "2006-11-11"
+        },
+        {
+          "endDate": "2006-12-15",
+          "items": [
+            {
+              "artist": "Akon featuring Snoop Dogg",
+              "rank": 1,
+              "title": "I Wanna Love You"
+            }
+          ],
+          "startDate": "2006-12-02"
+        },
+        {
+          "endDate": "2006-12-31",
+          "items": [
+            {
+              "artist": "Beyoncé",
+              "rank": 1,
+              "title": "Irreplaceable\"♪"
+            }
+          ],
+          "startDate": "2006-12-16"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "4443d85255c033a3528cbcfe298e59973e5d2baa0ae6c7be874d6f33752b2e4a",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2006
+}

@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1984-01-20",
+          "items": [
+            {
+              "artist": "Paul McCartney and Michael Jackson",
+              "rank": 1,
+              "title": "Say, Say, Say"
+            }
+          ],
+          "startDate": "1984-01-01"
+        },
+        {
+          "endDate": "1984-02-03",
+          "items": [
+            {
+              "artist": "Yes",
+              "rank": 1,
+              "title": "Owner of a Lonely Heart"
+            }
+          ],
+          "startDate": "1984-01-21"
+        },
+        {
+          "endDate": "1984-02-24",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Karma Chameleon"
+            }
+          ],
+          "startDate": "1984-02-04"
+        },
+        {
+          "endDate": "1984-03-30",
+          "items": [
+            {
+              "artist": "Van Halen",
+              "rank": 1,
+              "title": "Jump"
+            }
+          ],
+          "startDate": "1984-02-25"
+        },
+        {
+          "endDate": "1984-04-20",
+          "items": [
+            {
+              "artist": "Kenny Loggins",
+              "rank": 1,
+              "title": "Footloose"
+            }
+          ],
+          "startDate": "1984-03-31"
+        },
+        {
+          "endDate": "1984-05-11",
+          "items": [
+            {
+              "artist": "Phil Collins",
+              "rank": 1,
+              "title": "Against All Odds"
+            }
+          ],
+          "startDate": "1984-04-21"
+        },
+        {
+          "endDate": "1984-05-25",
+          "items": [
+            {
+              "artist": "Lionel Richie",
+              "rank": 1,
+              "title": "Hello"
+            }
+          ],
+          "startDate": "1984-05-12"
+        },
+        {
+          "endDate": "1984-06-08",
+          "items": [
+            {
+              "artist": "Deniece Williams",
+              "rank": 1,
+              "title": "Let's Hear It for the Boy"
+            }
+          ],
+          "startDate": "1984-05-26"
+        },
+        {
+          "endDate": "1984-06-22",
+          "items": [
+            {
+              "artist": "Cyndi Lauper",
+              "rank": 1,
+              "title": "Time After Time"
+            }
+          ],
+          "startDate": "1984-06-09"
+        },
+        {
+          "endDate": "1984-07-06",
+          "items": [
+            {
+              "artist": "Duran Duran",
+              "rank": 1,
+              "title": "The Reflex"
+            }
+          ],
+          "startDate": "1984-06-23"
+        },
+        {
+          "endDate": "1984-08-10",
+          "items": [
+            {
+              "artist": "Prince",
+              "rank": 1,
+              "title": "When Doves Cry\"♪"
+            }
+          ],
+          "startDate": "1984-07-07"
+        },
+        {
+          "endDate": "1984-08-31",
+          "items": [
+            {
+              "artist": "Ray Parker Jr.",
+              "rank": 1,
+              "title": "Ghostbusters"
+            }
+          ],
+          "startDate": "1984-08-11"
+        },
+        {
+          "endDate": "1984-09-21",
+          "items": [
+            {
+              "artist": "Tina Turner",
+              "rank": 1,
+              "title": "What's Love Got to Do with It"
+            }
+          ],
+          "startDate": "1984-09-01"
+        },
+        {
+          "endDate": "1984-09-28",
+          "items": [
+            {
+              "artist": "John Waite",
+              "rank": 1,
+              "title": "Missing You"
+            }
+          ],
+          "startDate": "1984-09-22"
+        },
+        {
+          "endDate": "1984-10-12",
+          "items": [
+            {
+              "artist": "Prince and The Revolution",
+              "rank": 1,
+              "title": "Let's Go Crazy"
+            }
+          ],
+          "startDate": "1984-09-29"
+        },
+        {
+          "endDate": "1984-11-02",
+          "items": [
+            {
+              "artist": "Stevie Wonder",
+              "rank": 1,
+              "title": "I Just Called to Say I Love You"
+            }
+          ],
+          "startDate": "1984-10-13"
+        },
+        {
+          "endDate": "1984-11-16",
+          "items": [
+            {
+              "artist": "Billy Ocean",
+              "rank": 1,
+              "title": "Caribbean Queen"
+            }
+          ],
+          "startDate": "1984-11-03"
+        },
+        {
+          "endDate": "1984-12-07",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Wake Me Up Before You Go-Go"
+            }
+          ],
+          "startDate": "1984-11-17"
+        },
+        {
+          "endDate": "1984-12-21",
+          "items": [
+            {
+              "artist": "Daryl Hall and John Oates",
+              "rank": 1,
+              "title": "Out of Touch"
+            }
+          ],
+          "startDate": "1984-12-08"
+        },
+        {
+          "endDate": "1984-12-31",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Like a Virgin"
+            }
+          ],
+          "startDate": "1984-12-22"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "ed8270f71ccf4ae9b4533a610f5e993540dcb94f0c8ad6a540936eed543e6910",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1984
+}

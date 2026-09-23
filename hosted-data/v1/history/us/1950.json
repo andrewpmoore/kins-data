@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1950-01-06",
+          "items": [
+            {
+              "artist": "Frankie Laine",
+              "rank": 1,
+              "title": "Mule Train"
+            }
+          ],
+          "startDate": "1950-01-01"
+        },
+        {
+          "endDate": "1950-01-13",
+          "items": [
+            {
+              "artist": "Gene Autry",
+              "rank": 1,
+              "title": "Rudolph, The Red-nosed Reindeer"
+            }
+          ],
+          "startDate": "1950-01-07"
+        },
+        {
+          "endDate": "1950-02-10",
+          "items": [
+            {
+              "artist": "The Andrews Sisters",
+              "rank": 1,
+              "title": "I Can Dream, Can't I"
+            }
+          ],
+          "startDate": "1950-01-14"
+        },
+        {
+          "endDate": "1950-02-17",
+          "items": [
+            {
+              "artist": "The Ames Brothers",
+              "rank": 1,
+              "title": "Rag Mop"
+            }
+          ],
+          "startDate": "1950-02-11"
+        },
+        {
+          "endDate": "1950-03-17",
+          "items": [
+            {
+              "artist": "Red Foley",
+              "rank": 1,
+              "title": "Chattanoogie Shoe Shine Boy"
+            }
+          ],
+          "startDate": "1950-02-18"
+        },
+        {
+          "endDate": "1950-04-14",
+          "items": [
+            {
+              "artist": "Teresa Brewer",
+              "rank": 1,
+              "title": "Music! Music! Music!"
+            }
+          ],
+          "startDate": "1950-03-18"
+        },
+        {
+          "endDate": "1950-04-28",
+          "items": [
+            {
+              "artist": "Eileen Barton",
+              "rank": 1,
+              "title": "If I Knew You Were Comin' I'd've Baked a Cake"
+            }
+          ],
+          "startDate": "1950-04-15"
+        },
+        {
+          "endDate": "1950-07-14",
+          "items": [
+            {
+              "artist": "Anton Karas",
+              "rank": 1,
+              "title": "The Third Man Theme"
+            }
+          ],
+          "startDate": "1950-04-29"
+        },
+        {
+          "endDate": "1950-08-18",
+          "items": [
+            {
+              "artist": "Nat King Cole",
+              "rank": 1,
+              "title": "Mona Lisa"
+            }
+          ],
+          "startDate": "1950-07-15"
+        },
+        {
+          "endDate": "1950-11-17",
+          "items": [
+            {
+              "artist": "Gordon Jenkins and The Weavers",
+              "rank": 1,
+              "title": "Goodnight Irene\"♪"
+            }
+          ],
+          "startDate": "1950-08-19"
+        },
+        {
+          "endDate": "1950-12-01",
+          "items": [
+            {
+              "artist": "Sammy Kaye",
+              "rank": 1,
+              "title": "Harbor Lights"
+            }
+          ],
+          "startDate": "1950-11-18"
+        },
+        {
+          "endDate": "1950-12-29",
+          "items": [
+            {
+              "artist": "Phil Harris",
+              "rank": 1,
+              "title": "The Thing"
+            }
+          ],
+          "startDate": "1950-12-02"
+        },
+        {
+          "endDate": "1950-12-31",
+          "items": [
+            {
+              "artist": "Patti Page",
+              "rank": 1,
+              "title": "The Tennessee Waltz"
+            }
+          ],
+          "startDate": "1950-12-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3b5cbd379d6fcd674bf956ae6cfaccc4d8294488f5ccadd30c1bdd97be2802c9",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1950
+}

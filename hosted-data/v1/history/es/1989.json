@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1989-01-01",
+          "items": [
+            {
+              "artist": "Glenn Medeiros",
+              "rank": 1,
+              "title": "Nothing's Gonna Change My Love For You"
+            }
+          ],
+          "startDate": "1989-01-01"
+        },
+        {
+          "endDate": "1989-01-08",
+          "items": [
+            {
+              "artist": "Glenn Medeiros",
+              "rank": 1,
+              "title": "Nothing's Gonna Change My Love for You"
+            }
+          ],
+          "startDate": "1989-01-02"
+        },
+        {
+          "endDate": "1989-02-12",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Smooth Criminal"
+            }
+          ],
+          "startDate": "1989-01-09"
+        },
+        {
+          "endDate": "1989-02-19",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Kiss"
+            }
+          ],
+          "startDate": "1989-02-13"
+        },
+        {
+          "endDate": "1989-03-12",
+          "items": [
+            {
+              "artist": "Deacon Blue",
+              "rank": 1,
+              "title": "Real Gone Kid"
+            }
+          ],
+          "startDate": "1989-02-20"
+        },
+        {
+          "endDate": "1989-05-14",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Like a Prayer"
+            }
+          ],
+          "startDate": "1989-03-13"
+        },
+        {
+          "endDate": "1989-05-21",
+          "items": [
+            {
+              "artist": "Fine Young Cannibals",
+              "rank": 1,
+              "title": "She Drives Me Crazy"
+            }
+          ],
+          "startDate": "1989-05-15"
+        },
+        {
+          "endDate": "1989-06-04",
+          "items": [
+            {
+              "artist": "Amnesia",
+              "rank": 1,
+              "title": "Ibiza"
+            }
+          ],
+          "startDate": "1989-05-22"
+        },
+        {
+          "endDate": "1989-06-11",
+          "items": [
+            {
+              "artist": "La Unión",
+              "rank": 1,
+              "title": "Mas y mas"
+            }
+          ],
+          "startDate": "1989-06-05"
+        },
+        {
+          "endDate": "1989-06-25",
+          "items": [
+            {
+              "artist": "Amnesia",
+              "rank": 1,
+              "title": "Ibiza"
+            }
+          ],
+          "startDate": "1989-06-12"
+        },
+        {
+          "endDate": "1989-08-20",
+          "items": [
+            {
+              "artist": "Roxette",
+              "rank": 1,
+              "title": "The Look"
+            }
+          ],
+          "startDate": "1989-06-26"
+        },
+        {
+          "endDate": "1989-11-19",
+          "items": [
+            {
+              "artist": "Kaoma",
+              "rank": 1,
+              "title": "Lambada"
+            }
+          ],
+          "startDate": "1989-08-21"
+        },
+        {
+          "endDate": "1989-12-03",
+          "items": [
+            {
+              "artist": "Jive Bunny and the Mastermixers",
+              "rank": 1,
+              "title": "Swing the Mood"
+            }
+          ],
+          "startDate": "1989-11-20"
+        },
+        {
+          "endDate": "1989-12-10",
+          "items": [
+            {
+              "artist": "Jive Bunny and the Mastermixers",
+              "rank": 1,
+              "title": "That's What I Like"
+            }
+          ],
+          "startDate": "1989-12-04"
+        },
+        {
+          "endDate": "1989-12-31",
+          "items": [
+            {
+              "artist": "Technotronic",
+              "rank": 1,
+              "title": "Pump Up the Jam"
+            }
+          ],
+          "startDate": "1989-12-11"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "89d3c48d14a8cd5e0959d55075d0f0b0f440d769d57a21c5a4aa68dd0efb46b3",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1989
+}

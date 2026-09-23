@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1960-01-01",
+          "items": [
+            {
+              "artist": "Freddy Quinn",
+              "rank": 1,
+              "title": "Unter fremden Sternen"
+            }
+          ],
+          "startDate": "1960-01-01"
+        },
+        {
+          "endDate": "1960-03-04",
+          "items": [
+            {
+              "artist": "Rocco Granata",
+              "rank": 1,
+              "title": "Marina"
+            }
+          ],
+          "startDate": "1960-01-02"
+        },
+        {
+          "endDate": "1960-05-13",
+          "items": [
+            {
+              "artist": "Jan & Kjeld",
+              "rank": 1,
+              "title": "Banjo Boy"
+            }
+          ],
+          "startDate": "1960-03-05"
+        },
+        {
+          "endDate": "1960-07-01",
+          "items": [
+            {
+              "artist": "Heidi Brühl",
+              "rank": 1,
+              "title": "Wir wollen niemals auseinandergehn"
+            }
+          ],
+          "startDate": "1960-05-14"
+        },
+        {
+          "endDate": "1960-09-02",
+          "items": [
+            {
+              "artist": "Dalida",
+              "rank": 1,
+              "title": "Milord"
+            }
+          ],
+          "startDate": "1960-07-02"
+        },
+        {
+          "endDate": "1960-09-16",
+          "items": [
+            {
+              "artist": "Vico Torriani",
+              "rank": 1,
+              "title": "Kalkutta liegt am Ganges"
+            }
+          ],
+          "startDate": "1960-09-03"
+        },
+        {
+          "endDate": "1960-10-07",
+          "items": [
+            {
+              "artist": "Club Honolulu",
+              "rank": 1,
+              "title": "Itsy Bitsy Teenie Weenie Honolulu-Strand-Bikini"
+            }
+          ],
+          "startDate": "1960-09-17"
+        },
+        {
+          "endDate": "1960-10-21",
+          "items": [
+            {
+              "artist": "Connie Francis",
+              "rank": 1,
+              "title": "Die Liebe ist ein seltsames Spiel"
+            }
+          ],
+          "startDate": "1960-10-08"
+        },
+        {
+          "endDate": "1960-12-30",
+          "items": [
+            {
+              "artist": "Lale Andersen",
+              "rank": 1,
+              "title": "Ein Schiff wird kommen"
+            }
+          ],
+          "startDate": "1960-10-22"
+        },
+        {
+          "endDate": "1960-12-31",
+          "items": [
+            {
+              "artist": "Blue Diamonds",
+              "rank": 1,
+              "title": "Ramona"
+            }
+          ],
+          "startDate": "1960-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "4deae995249909c5ad7aceb06a5b719e1911161a2f1da84829f3e900c160674b",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1960
+}

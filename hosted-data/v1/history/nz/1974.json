@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1974-01-24",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1974-01-01"
+        },
+        {
+          "endDate": "1974-02-14",
+          "items": [
+            {
+              "artist": "David Bowie",
+              "rank": 1,
+              "title": "Sorrow"
+            }
+          ],
+          "startDate": "1974-01-25"
+        },
+        {
+          "endDate": "1974-02-21",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Goodbye Yellow Brick Road"
+            }
+          ],
+          "startDate": "1974-02-15"
+        },
+        {
+          "endDate": "1974-03-07",
+          "items": [
+            {
+              "artist": "Ringo Starr",
+              "rank": 1,
+              "title": "You're Sixteen"
+            }
+          ],
+          "startDate": "1974-02-22"
+        },
+        {
+          "endDate": "1974-04-09",
+          "items": [
+            {
+              "artist": "George Baker Selection",
+              "rank": 1,
+              "title": "Baby Blue"
+            }
+          ],
+          "startDate": "1974-03-08"
+        },
+        {
+          "endDate": "1974-05-23",
+          "items": [
+            {
+              "artist": "The Hollies",
+              "rank": 1,
+              "title": "The Air That I Breathe"
+            }
+          ],
+          "startDate": "1974-04-12"
+        },
+        {
+          "endDate": "1974-06-13",
+          "items": [
+            {
+              "artist": "Terry Jacks",
+              "rank": 1,
+              "title": "Seasons In The Sun"
+            }
+          ],
+          "startDate": "1974-05-24"
+        },
+        {
+          "endDate": "1974-07-25",
+          "items": [
+            {
+              "artist": "Ray Stevens",
+              "rank": 1,
+              "title": "The Streak"
+            }
+          ],
+          "startDate": "1974-06-14"
+        },
+        {
+          "endDate": "1974-08-01",
+          "items": [
+            {
+              "artist": "Paul McCartney & Wings",
+              "rank": 1,
+              "title": "Band On The Run"
+            }
+          ],
+          "startDate": "1974-07-26"
+        },
+        {
+          "endDate": "1974-08-22",
+          "items": [
+            {
+              "artist": "Paul McCartney & Wings",
+              "rank": 1,
+              "title": "Band On The Run"
+            }
+          ],
+          "startDate": "1974-08-03"
+        },
+        {
+          "endDate": "1974-09-26",
+          "items": [
+            {
+              "artist": "Paper Lace",
+              "rank": 1,
+              "title": "The Night Chicago Died"
+            }
+          ],
+          "startDate": "1974-08-23"
+        },
+        {
+          "endDate": "1974-10-17",
+          "items": [
+            {
+              "artist": "The Drifters",
+              "rank": 1,
+              "title": "Kissin' in the Back Row of the Movies"
+            }
+          ],
+          "startDate": "1974-09-27"
+        },
+        {
+          "endDate": "1974-10-31",
+          "items": [
+            {
+              "artist": "Eric Clapton",
+              "rank": 1,
+              "title": "I Shot the Sheriff"
+            }
+          ],
+          "startDate": "1974-10-18"
+        },
+        {
+          "endDate": "1974-11-07",
+          "items": [
+            {
+              "artist": "The Drifters",
+              "rank": 1,
+              "title": "Kissin' in the Back Row of the Movies"
+            }
+          ],
+          "startDate": "1974-11-01"
+        },
+        {
+          "endDate": "1974-11-21",
+          "items": [
+            {
+              "artist": "Space Waltz",
+              "rank": 1,
+              "title": "Out on the Street\"‡"
+            }
+          ],
+          "startDate": "1974-11-08"
+        },
+        {
+          "endDate": "1974-12-19",
+          "items": [
+            {
+              "artist": "Carl Douglas",
+              "rank": 1,
+              "title": "Kung Fu Fighting"
+            }
+          ],
+          "startDate": "1974-11-22"
+        },
+        {
+          "endDate": "1974-12-26",
+          "items": [
+            {
+              "artist": "Bachman–Turner Overdrive",
+              "rank": 1,
+              "title": "You Ain't Seen Nothing Yet"
+            }
+          ],
+          "startDate": "1974-12-20"
+        },
+        {
+          "endDate": "1974-12-31",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1974-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "ae0ceeb02dd24e311c9f1fa7009bf7136e69abae12d4112b17634d0472f4d731",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1974
+}

@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1974-01-04",
+          "items": [
+            {
+              "artist": "Charlie Rich",
+              "rank": 1,
+              "title": "The Most Beautiful Girl in the World"
+            }
+          ],
+          "startDate": "1974-01-01"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "e4003a62231baef26b2e8bd315bc333be72d637328f19734ed4c0b06bce992f4",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1974
+}

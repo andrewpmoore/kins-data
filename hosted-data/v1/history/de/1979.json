@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1979-01-07",
+          "items": [
+            {
+              "artist": "Village People",
+              "rank": 1,
+              "title": "Y.M.C.A."
+            }
+          ],
+          "startDate": "1979-01-01"
+        },
+        {
+          "endDate": "1979-01-14",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Mary's Boy Child"
+            }
+          ],
+          "startDate": "1979-01-08"
+        },
+        {
+          "endDate": "1979-03-04",
+          "items": [
+            {
+              "artist": "Village People",
+              "rank": 1,
+              "title": "Y.M.C.A."
+            }
+          ],
+          "startDate": "1979-01-15"
+        },
+        {
+          "endDate": "1979-04-15",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "Heart of Glass"
+            }
+          ],
+          "startDate": "1979-03-05"
+        },
+        {
+          "endDate": "1979-05-13",
+          "items": [
+            {
+              "artist": "Dschinghis Khan",
+              "rank": 1,
+              "title": "Dschinghis Khan"
+            }
+          ],
+          "startDate": "1979-04-16"
+        },
+        {
+          "endDate": "1979-06-17",
+          "items": [
+            {
+              "artist": "Patrick Hernandez",
+              "rank": 1,
+              "title": "Born to Be Alive"
+            }
+          ],
+          "startDate": "1979-05-14"
+        },
+        {
+          "endDate": "1979-07-29",
+          "items": [
+            {
+              "artist": "M",
+              "rank": 1,
+              "title": "Pop Muzik"
+            }
+          ],
+          "startDate": "1979-06-18"
+        },
+        {
+          "endDate": "1979-08-19",
+          "items": [
+            {
+              "artist": "Peter Maffay",
+              "rank": 1,
+              "title": "So Bist Du"
+            }
+          ],
+          "startDate": "1979-07-30"
+        },
+        {
+          "endDate": "1979-10-14",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "El Lute"
+            }
+          ],
+          "startDate": "1979-08-20"
+        },
+        {
+          "endDate": "1979-11-18",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "We Don't Talk Anymore"
+            }
+          ],
+          "startDate": "1979-10-15"
+        },
+        {
+          "endDate": "1979-12-31",
+          "items": [
+            {
+              "artist": "Thom Pace",
+              "rank": 1,
+              "title": "Maybe"
+            }
+          ],
+          "startDate": "1979-11-19"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3e776fc92de676872508795e6f564e6d55d5c6cfc268af076881e216c6c88360",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1979
+}

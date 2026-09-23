@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1969-01-19",
+          "items": [
+            {
+              "artist": "Mary Hopkin",
+              "rank": 1,
+              "title": "Those Were The Days"
+            }
+          ],
+          "startDate": "1969-01-01"
+        },
+        {
+          "endDate": "1969-03-16",
+          "items": [
+            {
+              "artist": "Barry Ryan",
+              "rank": 1,
+              "title": "Eloise"
+            }
+          ],
+          "startDate": "1969-01-20"
+        },
+        {
+          "endDate": "1969-04-27",
+          "items": [
+            {
+              "artist": "Karina",
+              "rank": 1,
+              "title": "Las Flechas Del Amor"
+            }
+          ],
+          "startDate": "1969-03-17"
+        },
+        {
+          "endDate": "1969-05-11",
+          "items": [
+            {
+              "artist": "Georgie Dann",
+              "rank": 1,
+              "title": "Casatschock"
+            }
+          ],
+          "startDate": "1969-04-28"
+        },
+        {
+          "endDate": "1969-05-18",
+          "items": [
+            {
+              "artist": "Jean Jacques",
+              "rank": 1,
+              "title": "Mama"
+            }
+          ],
+          "startDate": "1969-05-12"
+        },
+        {
+          "endDate": "1969-05-25",
+          "items": [
+            {
+              "artist": "Fórmula V",
+              "rank": 1,
+              "title": "Cuéntame"
+            }
+          ],
+          "startDate": "1969-05-19"
+        },
+        {
+          "endDate": "1969-06-22",
+          "items": [
+            {
+              "artist": "Jean Jacques",
+              "rank": 1,
+              "title": "Mama"
+            }
+          ],
+          "startDate": "1969-05-26"
+        },
+        {
+          "endDate": "1969-06-29",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Get Back"
+            }
+          ],
+          "startDate": "1969-06-23"
+        },
+        {
+          "endDate": "1969-07-06",
+          "items": [
+            {
+              "artist": "Jean Jacques",
+              "rank": 1,
+              "title": "Mama"
+            }
+          ],
+          "startDate": "1969-06-30"
+        },
+        {
+          "endDate": "1969-07-13",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Get Back"
+            }
+          ],
+          "startDate": "1969-07-07"
+        },
+        {
+          "endDate": "1969-07-20",
+          "items": [
+            {
+              "artist": "Henry Stephen",
+              "rank": 1,
+              "title": "O quizá Simplemente Le Regale Una Rosa"
+            }
+          ],
+          "startDate": "1969-07-14"
+        },
+        {
+          "endDate": "1969-08-24",
+          "items": [
+            {
+              "artist": "Los Payos",
+              "rank": 1,
+              "title": "María Isabel"
+            }
+          ],
+          "startDate": "1969-07-21"
+        },
+        {
+          "endDate": "1969-09-07",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "The Ballad of John and Yoko"
+            }
+          ],
+          "startDate": "1969-08-25"
+        },
+        {
+          "endDate": "1969-10-05",
+          "items": [
+            {
+              "artist": "Los Payos",
+              "rank": 1,
+              "title": "María Isabel"
+            }
+          ],
+          "startDate": "1969-09-08"
+        },
+        {
+          "endDate": "1969-10-26",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "In the Ghetto"
+            }
+          ],
+          "startDate": "1969-10-06"
+        },
+        {
+          "endDate": "1969-11-02",
+          "items": [
+            {
+              "artist": "Juan Pardo",
+              "rank": 1,
+              "title": "La Charanga"
+            }
+          ],
+          "startDate": "1969-10-27"
+        },
+        {
+          "endDate": "1969-11-16",
+          "items": [
+            {
+              "artist": "Zager & Evans",
+              "rank": 1,
+              "title": "In the Year 2525"
+            }
+          ],
+          "startDate": "1969-11-03"
+        },
+        {
+          "endDate": "1969-12-31",
+          "items": [
+            {
+              "artist": "The Archies",
+              "rank": 1,
+              "title": "Sugar, Sugar"
+            }
+          ],
+          "startDate": "1969-11-17"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f49fc5a71bd4ee023aa7ceeb90ecd9ce1bd21d985b6e084e5c8b0e4e0d31d88b",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1969
+}

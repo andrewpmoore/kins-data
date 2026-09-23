@@ -21,8 +21,48 @@ wiktionary = importlib.util.module_from_spec(IMPORTER_SPEC)
 assert IMPORTER_SPEC.loader
 IMPORTER_SPEC.loader.exec_module(wiktionary)
 
+LEGACY_PATH = Path(__file__).with_name("import_legacy_data.py")
+LEGACY_SPEC = importlib.util.spec_from_file_location("kins_legacy_import", LEGACY_PATH)
+legacy = importlib.util.module_from_spec(LEGACY_SPEC)
+assert LEGACY_SPEC.loader
+LEGACY_SPEC.loader.exec_module(legacy)
+
 
 class HarvestTests(unittest.TestCase):
+    def test_legacy_music_omits_conflicts_and_caps_weekly_periods(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "music.csv"
+            path.write_text(
+                "date,rank,song,artist\n"
+                "2020-01-01,1,Song A,Artist A\n"
+                "2020-01-01,1,Song B,Artist B\n"
+                "2020-01-08,1,Song C,Artist C\n"
+                "2020-02-01,2,Not number one,Artist D\n",
+                encoding="utf-8",
+            )
+            rows, ambiguous = legacy.read_rank_one_rows(path)
+            periods = legacy.chart_periods(rows)
+            self.assertEqual(ambiguous, 1)
+            self.assertEqual(len(periods), 1)
+            self.assertEqual(periods[0]["startDate"], "2020-01-08")
+            self.assertEqual(periods[0]["endDate"], "2020-01-14")
+
+    def test_legacy_birthday_import_is_text_only(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            value = {key: {} for key in legacy.MONTH_KEYS}
+            value["january_birthdays"] = {
+                "01": [{"name": "Example Person", "birth_year": 1980, "occupation": "Writer", "image": "unlicensed.jpg"}]
+            }
+            source = root / "birthdays.json"
+            source.write_text(json.dumps(value), encoding="utf-8")
+            self.assertEqual(legacy.import_birthdays(source, root / "output"), 1)
+            result = json.loads((root / "output/v1/editorial/birthday-twins/01.json").read_text())
+            person = result["days"]["01"][0]
+            self.assertEqual(person["bornYear"], 1980)
+            self.assertNotIn("image", person)
+            self.assertNotIn("imageURL", person)
+
     def test_ssa_names_are_ranked_by_count_then_spelling(self):
         value = io.BytesIO()
         with zipfile.ZipFile(value, "w") as archive:

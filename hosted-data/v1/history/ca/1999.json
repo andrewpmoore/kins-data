@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1999-01-10",
+          "items": [
+            {
+              "artist": "Alanis Morissette",
+              "rank": 1,
+              "title": "Thank U"
+            }
+          ],
+          "startDate": "1999-01-01"
+        },
+        {
+          "endDate": "1999-01-24",
+          "items": [
+            {
+              "artist": "Barenaked Ladies",
+              "rank": 1,
+              "title": "It's All Been Done"
+            }
+          ],
+          "startDate": "1999-01-11"
+        },
+        {
+          "endDate": "1999-01-31",
+          "items": [
+            {
+              "artist": "Jewel",
+              "rank": 1,
+              "title": "Hands"
+            }
+          ],
+          "startDate": "1999-01-25"
+        },
+        {
+          "endDate": "1999-02-07",
+          "items": [
+            {
+              "artist": "New Radicals",
+              "rank": 1,
+              "title": "You Get What You Give"
+            }
+          ],
+          "startDate": "1999-02-01"
+        },
+        {
+          "endDate": "1999-02-14",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "...Baby One More Time"
+            }
+          ],
+          "startDate": "1999-02-08"
+        },
+        {
+          "endDate": "1999-03-07",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1999-02-15"
+        },
+        {
+          "endDate": "1999-04-11",
+          "items": [
+            {
+              "artist": "Sugar Ray",
+              "rank": 1,
+              "title": "Every Morning"
+            }
+          ],
+          "startDate": "1999-03-08"
+        },
+        {
+          "endDate": "1999-04-25",
+          "items": [
+            {
+              "artist": "Sky",
+              "rank": 1,
+              "title": "Love Song"
+            }
+          ],
+          "startDate": "1999-04-12"
+        },
+        {
+          "endDate": "1999-05-09",
+          "items": [
+            {
+              "artist": "TLC",
+              "rank": 1,
+              "title": "No Scrubs"
+            }
+          ],
+          "startDate": "1999-04-26"
+        },
+        {
+          "endDate": "1999-05-30",
+          "items": [
+            {
+              "artist": "Sixpence None the Richer",
+              "rank": 1,
+              "title": "Kiss Me"
+            }
+          ],
+          "startDate": "1999-05-10"
+        },
+        {
+          "endDate": "1999-07-25",
+          "items": [
+            {
+              "artist": "Ricky Martin",
+              "rank": 1,
+              "title": "Livin' la Vida Loca\"†"
+            }
+          ],
+          "startDate": "1999-05-31"
+        },
+        {
+          "endDate": "1999-08-08",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Beautiful Stranger"
+            }
+          ],
+          "startDate": "1999-07-26"
+        },
+        {
+          "endDate": "1999-09-19",
+          "items": [
+            {
+              "artist": "Jennifer Lopez",
+              "rank": 1,
+              "title": "If You Had My Love"
+            }
+          ],
+          "startDate": "1999-08-09"
+        },
+        {
+          "endDate": "1999-12-05",
+          "items": [
+            {
+              "artist": "Lou Bega",
+              "rank": 1,
+              "title": "Mambo No. 5"
+            }
+          ],
+          "startDate": "1999-09-20"
+        },
+        {
+          "endDate": "1999-12-12",
+          "items": [
+            {
+              "artist": "Santana featuring Rob Thomas",
+              "rank": 1,
+              "title": "Smooth"
+            }
+          ],
+          "startDate": "1999-12-06"
+        },
+        {
+          "endDate": "1999-12-31",
+          "items": [
+            {
+              "artist": "Eiffel 65",
+              "rank": 1,
+              "title": "Blue"
+            }
+          ],
+          "startDate": "1999-12-13"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "214f5c3823b8e6956a77e1a6383046a9ca4fca1a0e45a9c256196310656ffb0b",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1999
+}

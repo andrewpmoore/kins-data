@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1980-01-15",
+          "items": [
+            {
+              "artist": "Pink Floyd",
+              "rank": 1,
+              "title": "Another Brick in the Wall"
+            }
+          ],
+          "startDate": "1980-01-01"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "78a39e2c546fd2446fed0646b84b796d045017091b5a62693a8540dc46ac35f3",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1980
+}

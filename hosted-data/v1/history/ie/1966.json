@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1966-01-01",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Day Tripper\"/\"We Can Work It Out"
+            }
+          ],
+          "startDate": "1966-01-01"
+        },
+        {
+          "endDate": "1966-01-23",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Day Tripper"
+            }
+          ],
+          "startDate": "1966-01-03"
+        },
+        {
+          "endDate": "1966-02-06",
+          "items": [
+            {
+              "artist": "Larry Cunningham",
+              "rank": 1,
+              "title": "Lovely Leitrim"
+            }
+          ],
+          "startDate": "1966-01-24"
+        },
+        {
+          "endDate": "1966-02-20",
+          "items": [
+            {
+              "artist": "Doc Carroll and the Royal Blues",
+              "rank": 1,
+              "title": "Old Man Trouble"
+            }
+          ],
+          "startDate": "1966-02-07"
+        },
+        {
+          "endDate": "1966-02-27",
+          "items": [
+            {
+              "artist": "Nancy Sinatra",
+              "rank": 1,
+              "title": "These Boots Are Made for Walkin'"
+            }
+          ],
+          "startDate": "1966-02-21"
+        },
+        {
+          "endDate": "1966-03-27",
+          "items": [
+            {
+              "artist": "Dickie Rock",
+              "rank": 1,
+              "title": "Come Back To Stay"
+            }
+          ],
+          "startDate": "1966-02-28"
+        },
+        {
+          "endDate": "1966-04-24",
+          "items": [
+            {
+              "artist": "The Ludlows",
+              "rank": 1,
+              "title": "The Sea Around Us"
+            }
+          ],
+          "startDate": "1966-03-28"
+        },
+        {
+          "endDate": "1966-05-08",
+          "items": [
+            {
+              "artist": "The Johnny Flynn Showband with Pat Smith",
+              "rank": 1,
+              "title": "Black and Tan Gun"
+            }
+          ],
+          "startDate": "1966-04-25"
+        },
+        {
+          "endDate": "1966-06-05",
+          "items": [
+            {
+              "artist": "Manfred Mann",
+              "rank": 1,
+              "title": "Pretty Flamingo"
+            }
+          ],
+          "startDate": "1966-05-09"
+        },
+        {
+          "endDate": "1966-06-19",
+          "items": [
+            {
+              "artist": "Frank Sinatra",
+              "rank": 1,
+              "title": "Strangers in the Night"
+            }
+          ],
+          "startDate": "1966-06-06"
+        },
+        {
+          "endDate": "1966-07-17",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Paperback Writer"
+            }
+          ],
+          "startDate": "1966-06-20"
+        },
+        {
+          "endDate": "1966-07-24",
+          "items": [
+            {
+              "artist": "The Kinks",
+              "rank": 1,
+              "title": "Sunny Afternoon"
+            }
+          ],
+          "startDate": "1966-07-18"
+        },
+        {
+          "endDate": "1966-08-14",
+          "items": [
+            {
+              "artist": "Gregory and the Cadets",
+              "rank": 1,
+              "title": "More Than Yesterday"
+            }
+          ],
+          "startDate": "1966-07-25"
+        },
+        {
+          "endDate": "1966-08-21",
+          "items": [
+            {
+              "artist": "The Johnstons",
+              "rank": 1,
+              "title": "The Travelling People"
+            }
+          ],
+          "startDate": "1966-08-15"
+        },
+        {
+          "endDate": "1966-09-04",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Yellow Submarine"
+            }
+          ],
+          "startDate": "1966-08-22"
+        },
+        {
+          "endDate": "1966-09-25",
+          "items": [
+            {
+              "artist": "Joe Dolan",
+              "rank": 1,
+              "title": "Pretty Brown Eyes"
+            }
+          ],
+          "startDate": "1966-09-05"
+        },
+        {
+          "endDate": "1966-11-06",
+          "items": [
+            {
+              "artist": "Dermot O'Brien",
+              "rank": 1,
+              "title": "The Merry Ploughboy"
+            }
+          ],
+          "startDate": "1966-09-26"
+        },
+        {
+          "endDate": "1966-11-13",
+          "items": [
+            {
+              "artist": "Charlie Matthews & the Royal Showband",
+              "rank": 1,
+              "title": "Somewhere My Love"
+            }
+          ],
+          "startDate": "1966-11-07"
+        },
+        {
+          "endDate": "1966-12-04",
+          "items": [
+            {
+              "artist": "Johnny McEvoy",
+              "rank": 1,
+              "title": "Mursheen Durkin"
+            }
+          ],
+          "startDate": "1966-11-14"
+        },
+        {
+          "endDate": "1966-12-31",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Green, Green Grass of Home"
+            }
+          ],
+          "startDate": "1966-12-05"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f49263500a3c8738e0afa799dc9318da012a9d8878324915998e4628e1c8d0e3",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1966
+}

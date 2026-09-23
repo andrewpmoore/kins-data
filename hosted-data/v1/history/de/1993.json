@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1993-01-03",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1993-01-01"
+        },
+        {
+          "endDate": "1993-01-17",
+          "items": [
+            {
+              "artist": "Captain Hollywood Project",
+              "rank": 1,
+              "title": "More and More"
+            }
+          ],
+          "startDate": "1993-01-04"
+        },
+        {
+          "endDate": "1993-01-24",
+          "items": [
+            {
+              "artist": "Charles & Eddie",
+              "rank": 1,
+              "title": "Would I Lie to You?"
+            }
+          ],
+          "startDate": "1993-01-18"
+        },
+        {
+          "endDate": "1993-03-07",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You"
+            }
+          ],
+          "startDate": "1993-01-25"
+        },
+        {
+          "endDate": "1993-05-02",
+          "items": [
+            {
+              "artist": "Ace of Base",
+              "rank": 1,
+              "title": "All That She Wants\"†"
+            }
+          ],
+          "startDate": "1993-03-08"
+        },
+        {
+          "endDate": "1993-06-20",
+          "items": [
+            {
+              "artist": "Snow",
+              "rank": 1,
+              "title": "Informer"
+            }
+          ],
+          "startDate": "1993-05-03"
+        },
+        {
+          "endDate": "1993-08-22",
+          "items": [
+            {
+              "artist": "Culture Beat",
+              "rank": 1,
+              "title": "Mr. Vain"
+            }
+          ],
+          "startDate": "1993-06-21"
+        },
+        {
+          "endDate": "1993-10-31",
+          "items": [
+            {
+              "artist": "4 Non Blondes",
+              "rank": 1,
+              "title": "What's Up"
+            }
+          ],
+          "startDate": "1993-08-23"
+        },
+        {
+          "endDate": "1993-11-21",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "Go West"
+            }
+          ],
+          "startDate": "1993-11-01"
+        },
+        {
+          "endDate": "1993-12-26",
+          "items": [
+            {
+              "artist": "Meat Loaf",
+              "rank": 1,
+              "title": "I'd Do Anything for Love"
+            }
+          ],
+          "startDate": "1993-11-22"
+        },
+        {
+          "endDate": "1993-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1993-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "938e7e0b234171f455dfec797fca243eefc6fab89e7f08b087283d70ecf62f3e",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1993
+}

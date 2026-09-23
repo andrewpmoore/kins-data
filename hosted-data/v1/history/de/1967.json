@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1967-01-20",
+          "items": [
+            {
+              "artist": "The Kinks",
+              "rank": 1,
+              "title": "Dandy"
+            }
+          ],
+          "startDate": "1967-01-01"
+        },
+        {
+          "endDate": "1967-01-31",
+          "items": [
+            {
+              "artist": "Roy Black",
+              "rank": 1,
+              "title": "Good Night My Love"
+            }
+          ],
+          "startDate": "1967-01-21"
+        },
+        {
+          "endDate": "1967-02-28",
+          "items": [
+            {
+              "artist": "The Monkees",
+              "rank": 1,
+              "title": "I'm a Believer"
+            }
+          ],
+          "startDate": "1967-02-01"
+        },
+        {
+          "endDate": "1967-03-03",
+          "items": [
+            {
+              "artist": "David Garrick",
+              "rank": 1,
+              "title": "Dear Mrs. Applebee"
+            }
+          ],
+          "startDate": "1967-03-01"
+        },
+        {
+          "endDate": "1967-03-17",
+          "items": [
+            {
+              "artist": "The Monkees",
+              "rank": 1,
+              "title": "I'm a Believer"
+            }
+          ],
+          "startDate": "1967-03-04"
+        },
+        {
+          "endDate": "1967-03-31",
+          "items": [
+            {
+              "artist": "David Garrick",
+              "rank": 1,
+              "title": "Dear Mrs. Applebee"
+            }
+          ],
+          "startDate": "1967-03-18"
+        },
+        {
+          "endDate": "1967-04-30",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Let's Spend the Night Together"
+            }
+          ],
+          "startDate": "1967-04-01"
+        },
+        {
+          "endDate": "1967-05-14",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Penny Lane"
+            }
+          ],
+          "startDate": "1967-05-01"
+        },
+        {
+          "endDate": "1967-07-14",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "Puppet on a String"
+            }
+          ],
+          "startDate": "1967-05-15"
+        },
+        {
+          "endDate": "1967-07-28",
+          "items": [
+            {
+              "artist": "Manfred Mann",
+              "rank": 1,
+              "title": "Ha! Ha! Said the Clown"
+            }
+          ],
+          "startDate": "1967-07-15"
+        },
+        {
+          "endDate": "1967-07-31",
+          "items": [
+            {
+              "artist": "Roy Black",
+              "rank": 1,
+              "title": "Meine Liebe zu dir"
+            }
+          ],
+          "startDate": "1967-07-29"
+        },
+        {
+          "endDate": "1967-08-14",
+          "items": [
+            {
+              "artist": "Procol Harum",
+              "rank": 1,
+              "title": "A Whiter Shade of Pale"
+            }
+          ],
+          "startDate": "1967-08-01"
+        },
+        {
+          "endDate": "1967-08-18",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "All You Need Is Love"
+            }
+          ],
+          "startDate": "1967-08-15"
+        },
+        {
+          "endDate": "1967-09-29",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "All You Need is Love"
+            }
+          ],
+          "startDate": "1967-08-19"
+        },
+        {
+          "endDate": "1967-09-30",
+          "items": [
+            {
+              "artist": "Peter Alexander",
+              "rank": 1,
+              "title": "Verbotene Träume"
+            }
+          ],
+          "startDate": "1967-09-30"
+        },
+        {
+          "endDate": "1967-11-17",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco"
+            }
+          ],
+          "startDate": "1967-10-01"
+        },
+        {
+          "endDate": "1967-11-24",
+          "items": [
+            {
+              "artist": "Peggy March",
+              "rank": 1,
+              "title": "Romeo und Julia"
+            }
+          ],
+          "startDate": "1967-11-18"
+        },
+        {
+          "endDate": "1967-12-31",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Massachusetts"
+            }
+          ],
+          "startDate": "1967-11-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "ebee1210999359b54ea7b58d90605835727ffb67c995cda2edc6bd078c33f3f1",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1967
+}

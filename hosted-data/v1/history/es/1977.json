@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1977-01-09",
+          "items": [
+            {
+              "artist": "Jarcha",
+              "rank": 1,
+              "title": "Libertad Sin Ira"
+            }
+          ],
+          "startDate": "1977-01-01"
+        },
+        {
+          "endDate": "1977-01-30",
+          "items": [
+            {
+              "artist": "Oliver Onions",
+              "rank": 1,
+              "title": "Sandokan"
+            }
+          ],
+          "startDate": "1977-01-10"
+        },
+        {
+          "endDate": "1977-02-13",
+          "items": [
+            {
+              "artist": "Elton John & Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1977-01-31"
+        },
+        {
+          "endDate": "1977-02-20",
+          "items": [
+            {
+              "artist": "Ritchie Family",
+              "rank": 1,
+              "title": "The Best Disco in Town"
+            }
+          ],
+          "startDate": "1977-02-14"
+        },
+        {
+          "endDate": "1977-04-10",
+          "items": [
+            {
+              "artist": "Boney M",
+              "rank": 1,
+              "title": "Daddy Cool"
+            }
+          ],
+          "startDate": "1977-02-21"
+        },
+        {
+          "endDate": "1977-04-24",
+          "items": [
+            {
+              "artist": "Chicago",
+              "rank": 1,
+              "title": "If You Leave Me Now"
+            }
+          ],
+          "startDate": "1977-04-11"
+        },
+        {
+          "endDate": "1977-06-12",
+          "items": [
+            {
+              "artist": "Pablo Abraira",
+              "rank": 1,
+              "title": "Gavilán o Paloma"
+            }
+          ],
+          "startDate": "1977-04-25"
+        },
+        {
+          "endDate": "1977-07-24",
+          "items": [
+            {
+              "artist": "Miguel Bosé",
+              "rank": 1,
+              "title": "Linda"
+            }
+          ],
+          "startDate": "1977-06-13"
+        },
+        {
+          "endDate": "1977-08-07",
+          "items": [
+            {
+              "artist": "Raffaella Carrá",
+              "rank": 1,
+              "title": "Fiesta"
+            }
+          ],
+          "startDate": "1977-07-25"
+        },
+        {
+          "endDate": "1977-08-14",
+          "items": [
+            {
+              "artist": "Miguel Bosé",
+              "rank": 1,
+              "title": "Linda"
+            }
+          ],
+          "startDate": "1977-08-08"
+        },
+        {
+          "endDate": "1977-09-18",
+          "items": [
+            {
+              "artist": "Manhattan Transfer",
+              "rank": 1,
+              "title": "Speak Up Mambo"
+            }
+          ],
+          "startDate": "1977-08-15"
+        },
+        {
+          "endDate": "1977-10-02",
+          "items": [
+            {
+              "artist": "Carlos Mejía Godoy y los de Palacagüina",
+              "rank": 1,
+              "title": "Son Tus Perjúmenes, Mujer"
+            }
+          ],
+          "startDate": "1977-09-19"
+        },
+        {
+          "endDate": "1977-10-09",
+          "items": [
+            {
+              "artist": "Laurent Voulzy",
+              "rank": 1,
+              "title": "Rockollection"
+            }
+          ],
+          "startDate": "1977-10-03"
+        },
+        {
+          "endDate": "1977-10-16",
+          "items": [
+            {
+              "artist": "Carlos Mejía Godoy y los de Palacagüina",
+              "rank": 1,
+              "title": "Son Tus Perjúmenes, Mujer"
+            }
+          ],
+          "startDate": "1977-10-10"
+        },
+        {
+          "endDate": "1977-12-11",
+          "items": [
+            {
+              "artist": "Laurent Voulzy",
+              "rank": 1,
+              "title": "Rockollection"
+            }
+          ],
+          "startDate": "1977-10-17"
+        },
+        {
+          "endDate": "1977-12-18",
+          "items": [
+            {
+              "artist": "Jean Michel Jarre",
+              "rank": 1,
+              "title": "Oxygène"
+            }
+          ],
+          "startDate": "1977-12-12"
+        },
+        {
+          "endDate": "1977-12-25",
+          "items": [
+            {
+              "artist": "Boney M",
+              "rank": 1,
+              "title": "Ma Baker"
+            }
+          ],
+          "startDate": "1977-12-19"
+        },
+        {
+          "endDate": "1977-12-31",
+          "items": [
+            {
+              "artist": "Jean Michel Jarre",
+              "rank": 1,
+              "title": "Oxygène"
+            }
+          ],
+          "startDate": "1977-12-26"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "83bedcb2f8b427259a839fde1b8d39dcc79fb931d50528f5531b5fbe48ed1d29",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1977
+}

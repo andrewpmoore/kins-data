@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1961-01-08",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Are You Lonesome Tonight?"
+            }
+          ],
+          "startDate": "1961-01-01"
+        },
+        {
+          "endDate": "1961-01-29",
+          "items": [
+            {
+              "artist": "Bert Kaempfert",
+              "rank": 1,
+              "title": "Wonderland by Night"
+            }
+          ],
+          "startDate": "1961-01-09"
+        },
+        {
+          "endDate": "1961-02-12",
+          "items": [
+            {
+              "artist": "The Shirelles",
+              "rank": 1,
+              "title": "Will You Love Me Tomorrow"
+            }
+          ],
+          "startDate": "1961-01-30"
+        },
+        {
+          "endDate": "1961-02-26",
+          "items": [
+            {
+              "artist": "Lawrence Welk",
+              "rank": 1,
+              "title": "Calcutta"
+            }
+          ],
+          "startDate": "1961-02-13"
+        },
+        {
+          "endDate": "1961-03-19",
+          "items": [
+            {
+              "artist": "Chubby Checker",
+              "rank": 1,
+              "title": "Pony Time"
+            }
+          ],
+          "startDate": "1961-02-27"
+        },
+        {
+          "endDate": "1961-04-02",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Surrender"
+            }
+          ],
+          "startDate": "1961-03-20"
+        },
+        {
+          "endDate": "1961-04-23",
+          "items": [
+            {
+              "artist": "The Marcels",
+              "rank": 1,
+              "title": "Blue Moon"
+            }
+          ],
+          "startDate": "1961-04-03"
+        },
+        {
+          "endDate": "1961-05-21",
+          "items": [
+            {
+              "artist": "Del Shannon",
+              "rank": 1,
+              "title": "Runaway"
+            }
+          ],
+          "startDate": "1961-04-24"
+        },
+        {
+          "endDate": "1961-05-28",
+          "items": [
+            {
+              "artist": "Ernie K-Doe",
+              "rank": 1,
+              "title": "Mother-in-Law"
+            }
+          ],
+          "startDate": "1961-05-22"
+        },
+        {
+          "endDate": "1961-06-04",
+          "items": [
+            {
+              "artist": "Ricky Nelson",
+              "rank": 1,
+              "title": "Travelin' Man"
+            }
+          ],
+          "startDate": "1961-05-29"
+        },
+        {
+          "endDate": "1961-06-25",
+          "items": [
+            {
+              "artist": "Pat Boone",
+              "rank": 1,
+              "title": "Moody River"
+            }
+          ],
+          "startDate": "1961-06-19"
+        },
+        {
+          "endDate": "1961-07-09",
+          "items": [
+            {
+              "artist": "Gary U.S. Bonds",
+              "rank": 1,
+              "title": "Quarter to Three"
+            }
+          ],
+          "startDate": "1961-06-26"
+        },
+        {
+          "endDate": "1961-08-27",
+          "items": [
+            {
+              "artist": "Bobby Lewis",
+              "rank": 1,
+              "title": "Tossin' and Turnin'\"♪"
+            }
+          ],
+          "startDate": "1961-07-10"
+        },
+        {
+          "endDate": "1961-09-03",
+          "items": [
+            {
+              "artist": "Joe Dowell",
+              "rank": 1,
+              "title": "Wooden Heart"
+            }
+          ],
+          "startDate": "1961-08-28"
+        },
+        {
+          "endDate": "1961-09-17",
+          "items": [
+            {
+              "artist": "The Highwaymen",
+              "rank": 1,
+              "title": "Michael"
+            }
+          ],
+          "startDate": "1961-09-04"
+        },
+        {
+          "endDate": "1961-10-08",
+          "items": [
+            {
+              "artist": "Bobby Vee",
+              "rank": 1,
+              "title": "Take Good Care of My Baby"
+            }
+          ],
+          "startDate": "1961-09-18"
+        },
+        {
+          "endDate": "1961-10-22",
+          "items": [
+            {
+              "artist": "Ray Charles",
+              "rank": 1,
+              "title": "Hit the Road Jack"
+            }
+          ],
+          "startDate": "1961-10-09"
+        },
+        {
+          "endDate": "1961-11-05",
+          "items": [
+            {
+              "artist": "Dion",
+              "rank": 1,
+              "title": "Runaround Sue"
+            }
+          ],
+          "startDate": "1961-10-23"
+        },
+        {
+          "endDate": "1961-12-10",
+          "items": [
+            {
+              "artist": "Jimmy Dean",
+              "rank": 1,
+              "title": "Big Bad John"
+            }
+          ],
+          "startDate": "1961-11-06"
+        },
+        {
+          "endDate": "1961-12-17",
+          "items": [
+            {
+              "artist": "The Marvelettes",
+              "rank": 1,
+              "title": "Please Mr. Postman"
+            }
+          ],
+          "startDate": "1961-12-11"
+        },
+        {
+          "endDate": "1961-12-31",
+          "items": [
+            {
+              "artist": "The Tokens",
+              "rank": 1,
+              "title": "The Lion Sleeps Tonight"
+            }
+          ],
+          "startDate": "1961-12-18"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "2d3b3ff904cf3f6357f0b84436692a1ed6c337979427ab9d0d99a1c1bee3d901",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1961
+}

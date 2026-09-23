@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2007-02-23",
+          "items": [
+            {
+              "artist": "Beyoncé",
+              "rank": 1,
+              "title": "Irreplaceable\"♪"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-03-02",
+          "items": [
+            {
+              "artist": "Nelly Furtado",
+              "rank": 1,
+              "title": "Say It Right"
+            }
+          ],
+          "startDate": "2007-02-24"
+        },
+        {
+          "endDate": "2007-03-09",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "What Goes Around... Comes Around"
+            }
+          ],
+          "startDate": "2007-03-03"
+        },
+        {
+          "endDate": "2007-03-23",
+          "items": [
+            {
+              "artist": "Mims",
+              "rank": 1,
+              "title": "This Is Why I'm Hot"
+            }
+          ],
+          "startDate": "2007-03-10"
+        },
+        {
+          "endDate": "2007-04-06",
+          "items": [
+            {
+              "artist": "Fergie featuring Ludacris",
+              "rank": 1,
+              "title": "Glamorous"
+            }
+          ],
+          "startDate": "2007-03-24"
+        },
+        {
+          "endDate": "2007-04-20",
+          "items": [
+            {
+              "artist": "Akon",
+              "rank": 1,
+              "title": "Don't Matter"
+            }
+          ],
+          "startDate": "2007-04-07"
+        },
+        {
+          "endDate": "2007-05-04",
+          "items": [
+            {
+              "artist": "Timbaland featuring Nelly Furtado and Justin Timberlake",
+              "rank": 1,
+              "title": "Give It To Me"
+            }
+          ],
+          "startDate": "2007-04-21"
+        },
+        {
+          "endDate": "2007-05-11",
+          "items": [
+            {
+              "artist": "Avril Lavigne",
+              "rank": 1,
+              "title": "Girlfriend"
+            }
+          ],
+          "startDate": "2007-05-05"
+        },
+        {
+          "endDate": "2007-05-25",
+          "items": [
+            {
+              "artist": "Maroon 5",
+              "rank": 1,
+              "title": "Makes Me Wonder"
+            }
+          ],
+          "startDate": "2007-05-12"
+        },
+        {
+          "endDate": "2007-07-27",
+          "items": [
+            {
+              "artist": "Rihanna featuring Jay-Z",
+              "rank": 1,
+              "title": "Umbrella"
+            }
+          ],
+          "startDate": "2007-06-09"
+        },
+        {
+          "endDate": "2007-08-10",
+          "items": [
+            {
+              "artist": "Plain White T's",
+              "rank": 1,
+              "title": "Hey There Delilah"
+            }
+          ],
+          "startDate": "2007-07-28"
+        },
+        {
+          "endDate": "2007-09-07",
+          "items": [
+            {
+              "artist": "Sean Kingston",
+              "rank": 1,
+              "title": "Beautiful Girls"
+            }
+          ],
+          "startDate": "2007-08-11"
+        },
+        {
+          "endDate": "2007-09-14",
+          "items": [
+            {
+              "artist": "Fergie",
+              "rank": 1,
+              "title": "Big Girls Don't Cry"
+            }
+          ],
+          "startDate": "2007-09-08"
+        },
+        {
+          "endDate": "2007-09-28",
+          "items": [
+            {
+              "artist": "Soulja Boy",
+              "rank": 1,
+              "title": "Crank That"
+            }
+          ],
+          "startDate": "2007-09-15"
+        },
+        {
+          "endDate": "2007-11-02",
+          "items": [
+            {
+              "artist": "Soulja Boy",
+              "rank": 1,
+              "title": "Crank That"
+            }
+          ],
+          "startDate": "2007-10-06"
+        },
+        {
+          "endDate": "2007-11-30",
+          "items": [
+            {
+              "artist": "Chris Brown featuring T-Pain",
+              "rank": 1,
+              "title": "Kiss Kiss"
+            }
+          ],
+          "startDate": "2007-11-10"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "artist": "Alicia Keys",
+              "rank": 1,
+              "title": "No One"
+            }
+          ],
+          "startDate": "2007-12-01"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "c3d76e5616113e25c409b946067ac18df2c4a86a0141e393329a4045d3547885",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2007
+}

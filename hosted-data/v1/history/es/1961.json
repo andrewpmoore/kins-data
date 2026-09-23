@@ -1,0 +1,176 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1961-02-12",
+          "items": [
+            {
+              "artist": "The Brothers Four",
+              "rank": 1,
+              "title": "Greenfields"
+            }
+          ],
+          "startDate": "1961-01-01"
+        },
+        {
+          "endDate": "1961-02-26",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Are You Lonesome Tonight?"
+            }
+          ],
+          "startDate": "1961-02-13"
+        },
+        {
+          "endDate": "1961-03-12",
+          "items": [
+            {
+              "artist": "The Brothers Four",
+              "rank": 1,
+              "title": "The Green Leaves of Summer"
+            }
+          ],
+          "startDate": "1961-02-27"
+        },
+        {
+          "endDate": "1961-04-09",
+          "items": [
+            {
+              "artist": "Dúo Dinámico",
+              "rank": 1,
+              "title": "Quince Años Tiene Mi Amor"
+            }
+          ],
+          "startDate": "1961-03-13"
+        },
+        {
+          "endDate": "1961-04-16",
+          "items": [
+            {
+              "artist": "Adriano Celentano",
+              "rank": 1,
+              "title": "24.000 baci"
+            }
+          ],
+          "startDate": "1961-04-10"
+        },
+        {
+          "endDate": "1961-06-04",
+          "items": [
+            {
+              "artist": "Dúo Dinámico",
+              "rank": 1,
+              "title": "Quince Años Tiene Mi Amor"
+            }
+          ],
+          "startDate": "1961-04-17"
+        },
+        {
+          "endDate": "1961-07-02",
+          "items": [
+            {
+              "artist": "Dúo Dinámico",
+              "rank": 1,
+              "title": "Poesía En Movimiento"
+            }
+          ],
+          "startDate": "1961-06-05"
+        },
+        {
+          "endDate": "1961-07-16",
+          "items": [
+            {
+              "artist": "Antonio Prieto",
+              "rank": 1,
+              "title": "La Novia"
+            }
+          ],
+          "startDate": "1961-07-03"
+        },
+        {
+          "endDate": "1961-07-30",
+          "items": [
+            {
+              "artist": "Dúo Dinámico",
+              "rank": 1,
+              "title": "Exodus"
+            }
+          ],
+          "startDate": "1961-07-17"
+        },
+        {
+          "endDate": "1961-08-30",
+          "items": [
+            {
+              "artist": "Paul Anka",
+              "rank": 1,
+              "title": "Tonight My Love, Tonight"
+            }
+          ],
+          "startDate": "1961-08-07"
+        },
+        {
+          "endDate": "1961-09-03",
+          "items": [
+            {
+              "artist": "Dúo Dinámico",
+              "rank": 1,
+              "title": "Estando Contigo"
+            }
+          ],
+          "startDate": "1961-08-31"
+        },
+        {
+          "endDate": "1961-09-17",
+          "items": [
+            {
+              "artist": "José Guardiola",
+              "rank": 1,
+              "title": "Enamorada"
+            }
+          ],
+          "startDate": "1961-09-04"
+        },
+        {
+          "endDate": "1961-11-19",
+          "items": [
+            {
+              "artist": "Dúo Dinámico",
+              "rank": 1,
+              "title": "Quisiera Ser"
+            }
+          ],
+          "startDate": "1961-09-18"
+        },
+        {
+          "endDate": "1961-12-31",
+          "items": [
+            {
+              "artist": "Lucho Gatica",
+              "rank": 1,
+              "title": "Moliendo Café"
+            }
+          ],
+          "startDate": "1961-11-20"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3d9cdbc763d2604835bb25f796222d7a7a74c8d4a8bb446e20450a08b46491be",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1961
+}

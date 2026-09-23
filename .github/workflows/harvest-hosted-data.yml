@@ -35,6 +35,8 @@ jobs:
             --input "${RUNNER_TEMP}/kaikki-names.jsonl" --max-entries 10000
       - name: Test importers and editorial data
         run: python -m unittest tools/data_harvest/test_harvest.py
+      - name: Rebuild reviewed legacy archive
+        run: python tools/data_harvest/import_legacy_data.py
       - name: Harvest today's snapshots
         env:
           NYT_API_KEY: ${{ secrets.NYT_API_KEY }}

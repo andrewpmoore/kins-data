@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2006-01-21",
+          "items": [
+            {
+              "artist": "Lee Harding",
+              "rank": 1,
+              "title": "Wasabi\"/\"Eye of the Tiger"
+            }
+          ],
+          "startDate": "2006-01-01"
+        },
+        {
+          "endDate": "2006-01-28",
+          "items": [
+            {
+              "artist": "Chris Brown featuring Juelz Santana",
+              "rank": 1,
+              "title": "Run It!"
+            }
+          ],
+          "startDate": "2006-01-22"
+        },
+        {
+          "endDate": "2006-02-04",
+          "items": [
+            {
+              "artist": "Eminem",
+              "rank": 1,
+              "title": "When I'm Gone"
+            }
+          ],
+          "startDate": "2006-01-29"
+        },
+        {
+          "endDate": "2006-02-18",
+          "items": [
+            {
+              "artist": "Chris Brown featuring Juelz Santana",
+              "rank": 1,
+              "title": "Run It!"
+            }
+          ],
+          "startDate": "2006-02-05"
+        },
+        {
+          "endDate": "2006-03-04",
+          "items": [
+            {
+              "artist": "Bob Sinclar presents Goleo VI featuring Gary \"Nesta\" Pine",
+              "rank": 1,
+              "title": "Love Generation"
+            }
+          ],
+          "startDate": "2006-02-19"
+        },
+        {
+          "endDate": "2006-04-01",
+          "items": [
+            {
+              "artist": "TV Rock featuring Seany B",
+              "rank": 1,
+              "title": "Flaunt It"
+            }
+          ],
+          "startDate": "2006-03-05"
+        },
+        {
+          "endDate": "2006-04-08",
+          "items": [
+            {
+              "artist": "Youth Group",
+              "rank": 1,
+              "title": "Forever Young"
+            }
+          ],
+          "startDate": "2006-04-02"
+        },
+        {
+          "endDate": "2006-04-15",
+          "items": [
+            {
+              "artist": "TV Rock featuring Seany B",
+              "rank": 1,
+              "title": "Flaunt It"
+            }
+          ],
+          "startDate": "2006-04-09"
+        },
+        {
+          "endDate": "2006-04-22",
+          "items": [
+            {
+              "artist": "Youth Group",
+              "rank": 1,
+              "title": "Forever Young"
+            }
+          ],
+          "startDate": "2006-04-16"
+        },
+        {
+          "endDate": "2006-06-17",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "SOS"
+            }
+          ],
+          "startDate": "2006-04-23"
+        },
+        {
+          "endDate": "2006-08-19",
+          "items": [
+            {
+              "artist": "Shakira featuring Wyclef Jean",
+              "rank": 1,
+              "title": "Hips Don't Lie"
+            }
+          ],
+          "startDate": "2006-06-18"
+        },
+        {
+          "endDate": "2006-09-02",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "SexyBack"
+            }
+          ],
+          "startDate": "2006-08-20"
+        },
+        {
+          "endDate": "2006-11-11",
+          "items": [
+            {
+              "artist": "Sandi Thom",
+              "rank": 1,
+              "title": "I Wish I Was a Punk Rocker"
+            }
+          ],
+          "startDate": "2006-09-03"
+        },
+        {
+          "endDate": "2006-11-18",
+          "items": [
+            {
+              "artist": "U2 and Green Day",
+              "rank": 1,
+              "title": "The Saints Are Coming"
+            }
+          ],
+          "startDate": "2006-11-12"
+        },
+        {
+          "endDate": "2006-12-02",
+          "items": [
+            {
+              "artist": "Scissor Sisters",
+              "rank": 1,
+              "title": "I Don't Feel Like Dancin'"
+            }
+          ],
+          "startDate": "2006-11-19"
+        },
+        {
+          "endDate": "2006-12-30",
+          "items": [
+            {
+              "artist": "Damien Leith",
+              "rank": 1,
+              "title": "Night of My Life"
+            }
+          ],
+          "startDate": "2006-12-03"
+        },
+        {
+          "endDate": "2006-12-31",
+          "items": [
+            {
+              "artist": "Beyoncé",
+              "rank": 1,
+              "title": "Irreplaceable"
+            }
+          ],
+          "startDate": "2006-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2012-05-30",
+        "provider": "Wikipedia contributors",
+        "territory": "AU",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Australia"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "64616a93f1c40b6c2efdcf238b5212ec4dc6ec8b114fb08d2d8f4653169e5254",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 2006
+}

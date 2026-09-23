@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2020-01-17",
+          "items": [
+            {
+              "artist": "Major Lazer featuring J Balvin and El Alfa",
+              "rank": 1,
+              "title": "Que Calor"
+            }
+          ],
+          "startDate": "2020-01-11"
+        },
+        {
+          "endDate": "2020-01-31",
+          "items": [
+            {
+              "artist": "Alicia Keys",
+              "rank": 1,
+              "title": "Underdog"
+            }
+          ],
+          "startDate": "2020-01-25"
+        },
+        {
+          "endDate": "2020-02-21",
+          "items": [
+            {
+              "artist": "Billie Eilish and Khalid",
+              "rank": 1,
+              "title": "Lovely"
+            }
+          ],
+          "startDate": "2020-02-15"
+        },
+        {
+          "endDate": "2020-03-13",
+          "items": [
+            {
+              "artist": "BTS",
+              "rank": 1,
+              "title": "On"
+            }
+          ],
+          "startDate": "2020-03-07"
+        },
+        {
+          "endDate": "2020-03-20",
+          "items": [
+            {
+              "artist": "Lady Gaga",
+              "rank": 1,
+              "title": "Stupid Love"
+            }
+          ],
+          "startDate": "2020-03-14"
+        },
+        {
+          "endDate": "2020-04-17",
+          "items": [
+            {
+              "artist": "Kygo, Zara Larsson and Tyga",
+              "rank": 1,
+              "title": "Like It Is"
+            }
+          ],
+          "startDate": "2020-04-11"
+        },
+        {
+          "endDate": "2020-07-17",
+          "items": [
+            {
+              "artist": "Julien Doré",
+              "rank": 1,
+              "title": "La fièvre"
+            }
+          ],
+          "startDate": "2020-07-11"
+        },
+        {
+          "endDate": "2020-07-24",
+          "items": [
+            {
+              "artist": "Louane",
+              "rank": 1,
+              "title": "Donne-moi ton coeur"
+            }
+          ],
+          "startDate": "2020-07-18"
+        },
+        {
+          "endDate": "2020-08-14",
+          "items": [
+            {
+              "artist": "Jawsh 685 and Jason Derulo",
+              "rank": 1,
+              "title": "Savage Love"
+            }
+          ],
+          "startDate": "2020-08-08"
+        },
+        {
+          "endDate": "2020-08-21",
+          "items": [
+            {
+              "artist": "Wes and Robin Schulz",
+              "rank": 1,
+              "title": "Alane"
+            }
+          ],
+          "startDate": "2020-08-15"
+        },
+        {
+          "endDate": "2020-09-04",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Midnight Sky"
+            }
+          ],
+          "startDate": "2020-08-29"
+        },
+        {
+          "endDate": "2020-09-11",
+          "items": [
+            {
+              "artist": "BTS",
+              "rank": 1,
+              "title": "Dynamite"
+            }
+          ],
+          "startDate": "2020-09-05"
+        },
+        {
+          "endDate": "2020-10-02",
+          "items": [
+            {
+              "artist": "David Guetta and Sia",
+              "rank": 1,
+              "title": "Let's Love"
+            }
+          ],
+          "startDate": "2020-09-26"
+        },
+        {
+          "endDate": "2020-10-09",
+          "items": [
+            {
+              "artist": "Mylène Farmer",
+              "rank": 1,
+              "title": "L'âme dans l'eau"
+            }
+          ],
+          "startDate": "2020-10-03"
+        },
+        {
+          "endDate": "2020-11-06",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "One"
+            }
+          ],
+          "startDate": "2020-10-31"
+        },
+        {
+          "endDate": "2020-11-13",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "Positions"
+            }
+          ],
+          "startDate": "2020-11-07"
+        },
+        {
+          "endDate": "2020-11-27",
+          "items": [
+            {
+              "artist": "Booba",
+              "rank": 1,
+              "title": "5G"
+            }
+          ],
+          "startDate": "2020-11-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-01",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "0e29a34d9b808e601523e8c82cc9ee0a9f9c03ce291b50f25d7a98ade2ba5096",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2020
+}

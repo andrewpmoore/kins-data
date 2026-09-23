@@ -1,0 +1,121 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1963-02-22",
+          "items": [
+            {
+              "artist": "Jet Harris and Tony Meehan",
+              "rank": 1,
+              "title": "Diamonds"
+            }
+          ],
+          "startDate": "1963-02-02"
+        },
+        {
+          "endDate": "1963-04-26",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "How Do You Do It?"
+            }
+          ],
+          "startDate": "1963-04-13"
+        },
+        {
+          "endDate": "1963-05-31",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "From Me to You"
+            }
+          ],
+          "startDate": "1963-05-04"
+        },
+        {
+          "endDate": "1963-08-23",
+          "items": [
+            {
+              "artist": "The Searchers",
+              "rank": 1,
+              "title": "Sweets for My Sweet"
+            }
+          ],
+          "startDate": "1963-08-10"
+        },
+        {
+          "endDate": "1963-09-06",
+          "items": [
+            {
+              "artist": "Billy J. Kramer & The Dakotas",
+              "rank": 1,
+              "title": "Bad to Me"
+            }
+          ],
+          "startDate": "1963-08-24"
+        },
+        {
+          "endDate": "1963-10-04",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "She Loves You"
+            }
+          ],
+          "startDate": "1963-09-07"
+        },
+        {
+          "endDate": "1963-11-22",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1963-10-26"
+        },
+        {
+          "endDate": "1963-12-06",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "She Loves You"
+            }
+          ],
+          "startDate": "1963-11-23"
+        },
+        {
+          "endDate": "1963-12-31",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Want to Hold Your Hand"
+            }
+          ],
+          "startDate": "1963-12-07"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "ad98ee05f961983e1d66a2f451be73fb68da5c10ffdb16091fbbabbcdddcbfbe",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1963
+}

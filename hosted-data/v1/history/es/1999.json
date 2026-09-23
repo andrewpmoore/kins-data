@@ -1,0 +1,264 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1999-01-01",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1999-01-01"
+        },
+        {
+          "endDate": "1999-01-08",
+          "items": [
+            {
+              "artist": "Des'ree",
+              "rank": 1,
+              "title": "What's Your Sign?"
+            }
+          ],
+          "startDate": "1999-01-02"
+        },
+        {
+          "endDate": "1999-01-15",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1999-01-09"
+        },
+        {
+          "endDate": "1999-01-22",
+          "items": [
+            {
+              "artist": "Des'ree",
+              "rank": 1,
+              "title": "What's Your Sign?"
+            }
+          ],
+          "startDate": "1999-01-16"
+        },
+        {
+          "endDate": "1999-01-29",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1999-01-23"
+        },
+        {
+          "endDate": "1999-02-12",
+          "items": [
+            {
+              "artist": "Emilia",
+              "rank": 1,
+              "title": "Big Big World"
+            }
+          ],
+          "startDate": "1999-01-30"
+        },
+        {
+          "endDate": "1999-02-19",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1999-02-13"
+        },
+        {
+          "endDate": "1999-02-26",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "Maria"
+            }
+          ],
+          "startDate": "1999-02-20"
+        },
+        {
+          "endDate": "1999-03-12",
+          "items": [
+            {
+              "artist": "Des'ree",
+              "rank": 1,
+              "title": "You Gotta Be"
+            }
+          ],
+          "startDate": "1999-02-27"
+        },
+        {
+          "endDate": "1999-04-02",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Nothing Really Matters"
+            }
+          ],
+          "startDate": "1999-03-13"
+        },
+        {
+          "endDate": "1999-04-09",
+          "items": [
+            {
+              "artist": "The Cranberries",
+              "rank": 1,
+              "title": "Promises"
+            }
+          ],
+          "startDate": "1999-04-03"
+        },
+        {
+          "endDate": "1999-04-16",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "It's Not Right but It's Okay"
+            }
+          ],
+          "startDate": "1999-04-10"
+        },
+        {
+          "endDate": "1999-04-23",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "Maria"
+            }
+          ],
+          "startDate": "1999-04-17"
+        },
+        {
+          "endDate": "1999-05-07",
+          "items": [
+            {
+              "artist": "Chayanne",
+              "rank": 1,
+              "title": "Salomé"
+            }
+          ],
+          "startDate": "1999-04-24"
+        },
+        {
+          "endDate": "1999-05-28",
+          "items": [
+            {
+              "artist": "Backstreet Boys",
+              "rank": 1,
+              "title": "I Want It That Way"
+            }
+          ],
+          "startDate": "1999-05-08"
+        },
+        {
+          "endDate": "1999-06-25",
+          "items": [
+            {
+              "artist": "Enrique Iglesias",
+              "rank": 1,
+              "title": "Bailamos"
+            }
+          ],
+          "startDate": "1999-05-29"
+        },
+        {
+          "endDate": "1999-07-02",
+          "items": [
+            {
+              "artist": "Dover",
+              "rank": 1,
+              "title": "DJ"
+            }
+          ],
+          "startDate": "1999-06-26"
+        },
+        {
+          "endDate": "1999-09-24",
+          "items": [
+            {
+              "artist": "Lou Bega",
+              "rank": 1,
+              "title": "Mambo No. 5"
+            }
+          ],
+          "startDate": "1999-07-03"
+        },
+        {
+          "endDate": "1999-10-01",
+          "items": [
+            {
+              "artist": "Enrique Iglesias",
+              "rank": 1,
+              "title": "Bailamos"
+            }
+          ],
+          "startDate": "1999-09-25"
+        },
+        {
+          "endDate": "1999-10-15",
+          "items": [
+            {
+              "artist": "Bunbury",
+              "rank": 1,
+              "title": "El Extranjero"
+            }
+          ],
+          "startDate": "1999-10-02"
+        },
+        {
+          "endDate": "1999-11-26",
+          "items": [
+            {
+              "artist": "Christina Aguilera",
+              "rank": 1,
+              "title": "Genie in a Bottle"
+            }
+          ],
+          "startDate": "1999-10-16"
+        },
+        {
+          "endDate": "1999-12-31",
+          "items": [
+            {
+              "artist": "Enrique Iglesias",
+              "rank": 1,
+              "title": "Rhythm Divine"
+            }
+          ],
+          "startDate": "1999-11-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "91dfd222113cd1e2c657dd4a280837d9d33425dddff316c251e7ee17a4d2c643",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1999
+}

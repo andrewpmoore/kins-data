@@ -1,0 +1,44 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1989-08-24",
+          "items": [
+            {
+              "artist": "Black Box",
+              "rank": 1,
+              "title": "Ride On Time"
+            }
+          ],
+          "startDate": "1989-08-18"
+        },
+        {
+          "endDate": "1989-12-17",
+          "items": [
+            {
+              "artist": "Band Aid II",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "1989-12-11"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "cbb2e37d7523ee5d8f8c056963e8c14ab41b88188e8e7ed6190a306741ba06b2",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1989
+}

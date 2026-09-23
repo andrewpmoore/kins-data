@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2005-01-05",
+          "items": [
+            {
+              "artist": "Band Aid 20",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "2005-01-01"
+        },
+        {
+          "endDate": "2005-02-02",
+          "items": [
+            {
+              "artist": "Linkin Park and Jay-Z",
+              "rank": 1,
+              "title": "Numb/Encore"
+            }
+          ],
+          "startDate": "2005-01-06"
+        },
+        {
+          "endDate": "2005-02-09",
+          "items": [
+            {
+              "artist": "Zoo",
+              "rank": 1,
+              "title": "Poison/I Believe"
+            }
+          ],
+          "startDate": "2005-02-03"
+        },
+        {
+          "endDate": "2005-02-16",
+          "items": [
+            {
+              "artist": "Brian McFadden and Delta Goodrem",
+              "rank": 1,
+              "title": "Almost Here"
+            }
+          ],
+          "startDate": "2005-02-10"
+        },
+        {
+          "endDate": "2005-02-23",
+          "items": [
+            {
+              "artist": "Jennifer Lopez",
+              "rank": 1,
+              "title": "Get Right"
+            }
+          ],
+          "startDate": "2005-02-17"
+        },
+        {
+          "endDate": "2005-03-16",
+          "items": [
+            {
+              "artist": "Nelly featuring Tim McGraw",
+              "rank": 1,
+              "title": "Over and Over"
+            }
+          ],
+          "startDate": "2005-02-24"
+        },
+        {
+          "endDate": "2005-03-30",
+          "items": [
+            {
+              "artist": "McFly",
+              "rank": 1,
+              "title": "All About You / You've Got a Friend"
+            }
+          ],
+          "startDate": "2005-03-17"
+        },
+        {
+          "endDate": "2005-05-04",
+          "items": [
+            {
+              "artist": "Tony Christie featuring Peter Kay",
+              "rank": 1,
+              "title": "Amarillo"
+            }
+          ],
+          "startDate": "2005-03-31"
+        },
+        {
+          "endDate": "2005-06-01",
+          "items": [
+            {
+              "artist": "Akon",
+              "rank": 1,
+              "title": "Lonely"
+            }
+          ],
+          "startDate": "2005-05-05"
+        },
+        {
+          "endDate": "2005-06-29",
+          "items": [
+            {
+              "artist": "Crazy Frog",
+              "rank": 1,
+              "title": "Axel F"
+            }
+          ],
+          "startDate": "2005-06-02"
+        },
+        {
+          "endDate": "2005-07-20",
+          "items": [
+            {
+              "artist": "2Pac",
+              "rank": 1,
+              "title": "Ghetto Gospel"
+            }
+          ],
+          "startDate": "2005-06-30"
+        },
+        {
+          "endDate": "2005-08-17",
+          "items": [
+            {
+              "artist": "James Blunt",
+              "rank": 1,
+              "title": "You're Beautiful"
+            }
+          ],
+          "startDate": "2005-07-21"
+        },
+        {
+          "endDate": "2005-09-07",
+          "items": [
+            {
+              "artist": "Daniel Powter",
+              "rank": 1,
+              "title": "Bad Day"
+            }
+          ],
+          "startDate": "2005-08-18"
+        },
+        {
+          "endDate": "2005-10-05",
+          "items": [
+            {
+              "artist": "Pussycat Dolls",
+              "rank": 1,
+              "title": "Don't Cha"
+            }
+          ],
+          "startDate": "2005-09-08"
+        },
+        {
+          "endDate": "2005-10-26",
+          "items": [
+            {
+              "artist": "Sugababes",
+              "rank": 1,
+              "title": "Push the Button"
+            }
+          ],
+          "startDate": "2005-10-06"
+        },
+        {
+          "endDate": "2005-12-07",
+          "items": [
+            {
+              "artist": "Westlife",
+              "rank": 1,
+              "title": "You Raise Me Up"
+            }
+          ],
+          "startDate": "2005-10-27"
+        },
+        {
+          "endDate": "2005-12-14",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas",
+              "rank": 1,
+              "title": "My Humps"
+            }
+          ],
+          "startDate": "2005-12-08"
+        },
+        {
+          "endDate": "2005-12-21",
+          "items": [
+            {
+              "artist": "Nizlopi",
+              "rank": 1,
+              "title": "JCB Song"
+            }
+          ],
+          "startDate": "2005-12-15"
+        },
+        {
+          "endDate": "2005-12-28",
+          "items": [
+            {
+              "artist": "Mario Rosenstock",
+              "rank": 1,
+              "title": "Leave Right Now"
+            }
+          ],
+          "startDate": "2005-12-22"
+        },
+        {
+          "endDate": "2005-12-31",
+          "items": [
+            {
+              "artist": "Nizlopi",
+              "rank": 1,
+              "title": "JCB Song"
+            }
+          ],
+          "startDate": "2005-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9dd5bae34beec57a90ba8f842a0df5424ab4f880b8bd6db8e2b839447829b269",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2005
+}

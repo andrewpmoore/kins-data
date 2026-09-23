@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1975-01-16",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1975-01-01"
+        },
+        {
+          "endDate": "1975-02-06",
+          "items": [
+            {
+              "artist": "John Hanlon",
+              "rank": 1,
+              "title": "Lovely Lady\"‡"
+            }
+          ],
+          "startDate": "1975-01-17"
+        },
+        {
+          "endDate": "1975-03-06",
+          "items": [
+            {
+              "artist": "Billy Swan",
+              "rank": 1,
+              "title": "I Can Help"
+            }
+          ],
+          "startDate": "1975-02-07"
+        },
+        {
+          "endDate": "1975-03-27",
+          "items": [
+            {
+              "artist": "The Carpenters",
+              "rank": 1,
+              "title": "Please Mr. Postman"
+            }
+          ],
+          "startDate": "1975-03-07"
+        },
+        {
+          "endDate": "1975-04-10",
+          "items": [
+            {
+              "artist": "David Bowie",
+              "rank": 1,
+              "title": "Young Americans"
+            }
+          ],
+          "startDate": "1975-03-28"
+        },
+        {
+          "endDate": "1975-05-08",
+          "items": [
+            {
+              "artist": "Helen Reddy",
+              "rank": 1,
+              "title": "Free & Easy"
+            }
+          ],
+          "startDate": "1975-04-11"
+        },
+        {
+          "endDate": "1975-06-05",
+          "items": [
+            {
+              "artist": "Frankie Valli",
+              "rank": 1,
+              "title": "My Eyes Adored You"
+            }
+          ],
+          "startDate": "1975-05-09"
+        },
+        {
+          "endDate": "1975-06-26",
+          "items": [
+            {
+              "artist": "Bob Hudson",
+              "rank": 1,
+              "title": "The Newcastle Song"
+            }
+          ],
+          "startDate": "1975-06-06"
+        },
+        {
+          "endDate": "1975-07-03",
+          "items": [
+            {
+              "artist": "Mark Williams",
+              "rank": 1,
+              "title": "Yesterday Was Just the Beginning of My Life\"‡"
+            }
+          ],
+          "startDate": "1975-06-27"
+        },
+        {
+          "endDate": "1975-07-10",
+          "items": [
+            {
+              "artist": "Bob Hudson",
+              "rank": 1,
+              "title": "The Newcastle Song"
+            }
+          ],
+          "startDate": "1975-07-04"
+        },
+        {
+          "endDate": "1975-07-24",
+          "items": [
+            {
+              "artist": "Mark Williams",
+              "rank": 1,
+              "title": "Yesterday Was Just the Beginning of My Life\"‡"
+            }
+          ],
+          "startDate": "1975-07-11"
+        },
+        {
+          "endDate": "1975-07-31",
+          "items": [
+            {
+              "artist": "Bob Hudson",
+              "rank": 1,
+              "title": "The Newcastle Song"
+            }
+          ],
+          "startDate": "1975-07-25"
+        },
+        {
+          "endDate": "1975-08-07",
+          "items": [
+            {
+              "artist": "George Baker Selection",
+              "rank": 1,
+              "title": "Paloma Blanca"
+            }
+          ],
+          "startDate": "1975-08-01"
+        },
+        {
+          "endDate": "1975-08-14",
+          "items": [
+            {
+              "artist": "Bob Hudson",
+              "rank": 1,
+              "title": "The Newcastle Song"
+            }
+          ],
+          "startDate": "1975-08-08"
+        },
+        {
+          "endDate": "1975-08-28",
+          "items": [
+            {
+              "artist": "George Baker Selection",
+              "rank": 1,
+              "title": "Paloma Blanca"
+            }
+          ],
+          "startDate": "1975-08-15"
+        },
+        {
+          "endDate": "1975-09-04",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "I Do, I Do, I Do, I Do, I Do"
+            }
+          ],
+          "startDate": "1975-08-29"
+        },
+        {
+          "endDate": "1975-09-18",
+          "items": [
+            {
+              "artist": "George Baker Selection",
+              "rank": 1,
+              "title": "Paloma Blanca"
+            }
+          ],
+          "startDate": "1975-09-05"
+        },
+        {
+          "endDate": "1975-11-20",
+          "items": [
+            {
+              "artist": "Freddy Fender",
+              "rank": 1,
+              "title": "Wasted Days & Wasted Nights"
+            }
+          ],
+          "startDate": "1975-09-19"
+        },
+        {
+          "endDate": "1975-12-04",
+          "items": [
+            {
+              "artist": "Johnny Nash",
+              "rank": 1,
+              "title": "Tears On My Pillow"
+            }
+          ],
+          "startDate": "1975-11-21"
+        },
+        {
+          "endDate": "1975-12-25",
+          "items": [
+            {
+              "artist": "Freddy Fender",
+              "rank": 1,
+              "title": "Wasted Days and Wasted Nights"
+            }
+          ],
+          "startDate": "1975-12-05"
+        },
+        {
+          "endDate": "1975-12-31",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1975-12-26"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "dadc7e5f445081f48e56bc1401257fbf99c46b553f4e6f30008b35803f0d0b3a",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1975
+}

@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1996-01-11",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "Father and Son"
+            }
+          ],
+          "startDate": "1996-01-01"
+        },
+        {
+          "endDate": "1996-01-18",
+          "items": [
+            {
+              "artist": "George Michael",
+              "rank": 1,
+              "title": "Jesus to a Child"
+            }
+          ],
+          "startDate": "1996-01-12"
+        },
+        {
+          "endDate": "1996-02-22",
+          "items": [
+            {
+              "artist": "Babylon Zoo",
+              "rank": 1,
+              "title": "Spaceman"
+            }
+          ],
+          "startDate": "1996-01-19"
+        },
+        {
+          "endDate": "1996-02-29",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "Don't Look Back in Anger"
+            }
+          ],
+          "startDate": "1996-02-23"
+        },
+        {
+          "endDate": "1996-03-21",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "How Deep Is Your Love"
+            }
+          ],
+          "startDate": "1996-03-01"
+        },
+        {
+          "endDate": "1996-05-09",
+          "items": [
+            {
+              "artist": "Richie Kavanagh",
+              "rank": 1,
+              "title": "Aon Focal Eile"
+            }
+          ],
+          "startDate": "1996-03-22"
+        },
+        {
+          "endDate": "1996-06-06",
+          "items": [
+            {
+              "artist": "Men Utd",
+              "rank": 1,
+              "title": "Man Utd Man"
+            }
+          ],
+          "startDate": "1996-05-10"
+        },
+        {
+          "endDate": "1996-06-13",
+          "items": [
+            {
+              "artist": "The Tony Rich Project",
+              "rank": 1,
+              "title": "Nobody Knows"
+            }
+          ],
+          "startDate": "1996-06-07"
+        },
+        {
+          "endDate": "1996-08-01",
+          "items": [
+            {
+              "artist": "The Fugees",
+              "rank": 1,
+              "title": "Killing Me Softly"
+            }
+          ],
+          "startDate": "1996-06-14"
+        },
+        {
+          "endDate": "1996-08-08",
+          "items": [
+            {
+              "artist": "Fool's Garden",
+              "rank": 1,
+              "title": "Lemon Tree"
+            }
+          ],
+          "startDate": "1996-08-02"
+        },
+        {
+          "endDate": "1996-09-05",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Wannabe"
+            }
+          ],
+          "startDate": "1996-08-09"
+        },
+        {
+          "endDate": "1996-09-19",
+          "items": [
+            {
+              "artist": "The Wild Swans",
+              "rank": 1,
+              "title": "The Hurling Songs"
+            }
+          ],
+          "startDate": "1996-09-06"
+        },
+        {
+          "endDate": "1996-10-10",
+          "items": [
+            {
+              "artist": "OMC",
+              "rank": 1,
+              "title": "How Bizarre"
+            }
+          ],
+          "startDate": "1996-09-20"
+        },
+        {
+          "endDate": "1996-11-14",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "Words"
+            }
+          ],
+          "startDate": "1996-10-11"
+        },
+        {
+          "endDate": "1996-12-05",
+          "items": [
+            {
+              "artist": "Dustin & Bob Geldof",
+              "rank": 1,
+              "title": "Rat Trap"
+            }
+          ],
+          "startDate": "1996-11-15"
+        },
+        {
+          "endDate": "1996-12-19",
+          "items": [
+            {
+              "artist": "The Prodigy",
+              "rank": 1,
+              "title": "Breathe"
+            }
+          ],
+          "startDate": "1996-12-06"
+        },
+        {
+          "endDate": "1996-12-31",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "2 Become 1"
+            }
+          ],
+          "startDate": "1996-12-20"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f01794e04033d898487ad9a5f5a7eccc1890389ab94abddbc547b429fc73bd05",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1996
+}

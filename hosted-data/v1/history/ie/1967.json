@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1967-01-22",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Green, Green Grass of Home"
+            }
+          ],
+          "startDate": "1967-01-01"
+        },
+        {
+          "endDate": "1967-02-19",
+          "items": [
+            {
+              "artist": "The Monkees",
+              "rank": 1,
+              "title": "I'm a Believer"
+            }
+          ],
+          "startDate": "1967-01-23"
+        },
+        {
+          "endDate": "1967-02-26",
+          "items": [
+            {
+              "artist": "Joe Dolan",
+              "rank": 1,
+              "title": "The House With the Whitewashed Gable"
+            }
+          ],
+          "startDate": "1967-02-20"
+        },
+        {
+          "endDate": "1967-03-24",
+          "items": [
+            {
+              "artist": "Petula Clark",
+              "rank": 1,
+              "title": "This Is My Song"
+            }
+          ],
+          "startDate": "1967-02-27"
+        },
+        {
+          "endDate": "1967-04-14",
+          "items": [
+            {
+              "artist": "Engelbert Humperdinck",
+              "rank": 1,
+              "title": "Release Me"
+            }
+          ],
+          "startDate": "1967-03-25"
+        },
+        {
+          "endDate": "1967-04-21",
+          "items": [
+            {
+              "artist": "Frank Sinatra & Nancy Sinatra",
+              "rank": 1,
+              "title": "Somethin' Stupid"
+            }
+          ],
+          "startDate": "1967-04-15"
+        },
+        {
+          "endDate": "1967-05-12",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "Puppet on a String"
+            }
+          ],
+          "startDate": "1967-04-22"
+        },
+        {
+          "endDate": "1967-05-17",
+          "items": [
+            {
+              "artist": "The Dubliners",
+              "rank": 1,
+              "title": "Seven Drunken Nights"
+            }
+          ],
+          "startDate": "1967-05-13"
+        },
+        {
+          "endDate": "1967-06-07",
+          "items": [
+            {
+              "artist": "Johnny McEvoy",
+              "rank": 1,
+              "title": "The Boston Burglar"
+            }
+          ],
+          "startDate": "1967-05-18"
+        },
+        {
+          "endDate": "1967-06-14",
+          "items": [
+            {
+              "artist": "The Tremeloes",
+              "rank": 1,
+              "title": "Silence is Golden"
+            }
+          ],
+          "startDate": "1967-06-08"
+        },
+        {
+          "endDate": "1967-06-21",
+          "items": [
+            {
+              "artist": "Johnny Kelly & The Capitol Showband",
+              "rank": 1,
+              "title": "The Black Velvet Band"
+            }
+          ],
+          "startDate": "1967-06-15"
+        },
+        {
+          "endDate": "1967-07-19",
+          "items": [
+            {
+              "artist": "Procol Harum",
+              "rank": 1,
+              "title": "A Whiter Shade of Pale"
+            }
+          ],
+          "startDate": "1967-06-22"
+        },
+        {
+          "endDate": "1967-08-02",
+          "items": [
+            {
+              "artist": "Johnny Kelly & The Capitol Showband",
+              "rank": 1,
+              "title": "Black Velvet Band"
+            }
+          ],
+          "startDate": "1967-07-20"
+        },
+        {
+          "endDate": "1967-08-16",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "All You Need Is Love"
+            }
+          ],
+          "startDate": "1967-08-03"
+        },
+        {
+          "endDate": "1967-09-13",
+          "items": [
+            {
+              "artist": "Johnny Kelly & The Capitol Showband",
+              "rank": 1,
+              "title": "Black Velvet Band"
+            }
+          ],
+          "startDate": "1967-08-17"
+        },
+        {
+          "endDate": "1967-09-20",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco"
+            }
+          ],
+          "startDate": "1967-09-14"
+        },
+        {
+          "endDate": "1967-10-25",
+          "items": [
+            {
+              "artist": "Engelbert Humperdinck",
+              "rank": 1,
+              "title": "The Last Waltz"
+            }
+          ],
+          "startDate": "1967-09-21"
+        },
+        {
+          "endDate": "1967-12-15",
+          "items": [
+            {
+              "artist": "Danny Doyle",
+              "rank": 1,
+              "title": "Whiskey on a Sunday"
+            }
+          ],
+          "startDate": "1967-10-28"
+        },
+        {
+          "endDate": "1967-12-31",
+          "items": [
+            {
+              "artist": "Pat Lynch",
+              "rank": 1,
+              "title": "Treat Me Daughter Kindly"
+            }
+          ],
+          "startDate": "1967-12-16"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "6479b0749f10ce5acfc7f29f827ffd1d7a10af9a2ad97219305881344d098fa4",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1967
+}

@@ -1,0 +1,66 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1990-01-14",
+          "items": [
+            {
+              "artist": "Sinéad O'Connor",
+              "rank": 1,
+              "title": "Nothing Compares 2 U"
+            }
+          ],
+          "startDate": "1990-01-08"
+        },
+        {
+          "endDate": "1990-05-07",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Sacrifice"
+            }
+          ],
+          "startDate": "1990-05-01"
+        },
+        {
+          "endDate": "1990-10-21",
+          "items": [
+            {
+              "artist": "The Righteous Brothers",
+              "rank": 1,
+              "title": "Unchained Melody"
+            }
+          ],
+          "startDate": "1990-10-15"
+        },
+        {
+          "endDate": "1990-11-04",
+          "items": [
+            {
+              "artist": "Vanilla Ice",
+              "rank": 1,
+              "title": "Ice Ice Baby"
+            }
+          ],
+          "startDate": "1990-10-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "13dcfe32041e122c567804158d918720d8ac3ca456b9cdfc7be5f408f04501be",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1990
+}

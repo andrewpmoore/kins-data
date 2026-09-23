@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1997-01-23",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "2 Become 1"
+            }
+          ],
+          "startDate": "1997-01-01"
+        },
+        {
+          "endDate": "1997-01-30",
+          "items": [
+            {
+              "artist": "No Mercy",
+              "rank": 1,
+              "title": "Where Do You Go"
+            }
+          ],
+          "startDate": "1997-01-24"
+        },
+        {
+          "endDate": "1997-02-06",
+          "items": [
+            {
+              "artist": "Barbra Streisand and Bryan Adams",
+              "rank": 1,
+              "title": "I Finally Found Someone"
+            }
+          ],
+          "startDate": "1997-01-31"
+        },
+        {
+          "endDate": "1997-02-20",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Discothèque"
+            }
+          ],
+          "startDate": "1997-02-07"
+        },
+        {
+          "endDate": "1997-03-13",
+          "items": [
+            {
+              "artist": "No Doubt",
+              "rank": 1,
+              "title": "Don't Speak"
+            }
+          ],
+          "startDate": "1997-02-21"
+        },
+        {
+          "endDate": "1997-04-10",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Mama\"/\"Who Do You Think You Are"
+            }
+          ],
+          "startDate": "1997-03-14"
+        },
+        {
+          "endDate": "1997-04-17",
+          "items": [
+            {
+              "artist": "Sash!",
+              "rank": 1,
+              "title": "Encore une fois"
+            }
+          ],
+          "startDate": "1997-04-11"
+        },
+        {
+          "endDate": "1997-05-22",
+          "items": [
+            {
+              "artist": "R. Kelly",
+              "rank": 1,
+              "title": "I Believe I Can Fly"
+            }
+          ],
+          "startDate": "1997-04-18"
+        },
+        {
+          "endDate": "1997-06-12",
+          "items": [
+            {
+              "artist": "Sarah Brightman and Andrea Bocelli",
+              "rank": 1,
+              "title": "Con Te Partiro"
+            }
+          ],
+          "startDate": "1997-05-23"
+        },
+        {
+          "endDate": "1997-07-03",
+          "items": [
+            {
+              "artist": "Hanson",
+              "rank": 1,
+              "title": "MMMBop"
+            }
+          ],
+          "startDate": "1997-06-13"
+        },
+        {
+          "endDate": "1997-07-10",
+          "items": [
+            {
+              "artist": "Puff Daddy and Faith Evans feat. 112",
+              "rank": 1,
+              "title": "I'll Be Missing You"
+            }
+          ],
+          "startDate": "1997-07-04"
+        },
+        {
+          "endDate": "1997-07-24",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "D'You Know What I Mean?"
+            }
+          ],
+          "startDate": "1997-07-11"
+        },
+        {
+          "endDate": "1997-08-21",
+          "items": [
+            {
+              "artist": "Puff Daddy and Faith Evans feat. 112",
+              "rank": 1,
+              "title": "I'll Be Missing You"
+            }
+          ],
+          "startDate": "1997-07-25"
+        },
+        {
+          "endDate": "1997-09-11",
+          "items": [
+            {
+              "artist": "Will Smith",
+              "rank": 1,
+              "title": "Men In Black"
+            }
+          ],
+          "startDate": "1997-08-22"
+        },
+        {
+          "endDate": "1997-09-18",
+          "items": [
+            {
+              "artist": "Chumbawamba",
+              "rank": 1,
+              "title": "Tubthumping"
+            }
+          ],
+          "startDate": "1997-09-12"
+        },
+        {
+          "endDate": "1997-10-23",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Candle in the Wind 1997\"/\"Something About The Way You Look Tonight"
+            }
+          ],
+          "startDate": "1997-09-19"
+        },
+        {
+          "endDate": "1997-11-20",
+          "items": [
+            {
+              "artist": "Aqua",
+              "rank": 1,
+              "title": "Barbie Girl"
+            }
+          ],
+          "startDate": "1997-10-24"
+        },
+        {
+          "endDate": "1997-11-27",
+          "items": [
+            {
+              "artist": "Dustin and Joe Dolan",
+              "rank": 1,
+              "title": "Good Looking Woman"
+            }
+          ],
+          "startDate": "1997-11-21"
+        },
+        {
+          "endDate": "1997-12-31",
+          "items": [
+            {
+              "artist": "Various Artists",
+              "rank": 1,
+              "title": "Perfect Day"
+            }
+          ],
+          "startDate": "1997-11-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3c9000ae9f508be620801643bb199444035f32547e7c85feeca252d184a31875",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1997
+}

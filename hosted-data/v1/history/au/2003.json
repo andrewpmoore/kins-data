@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2003-03-01",
+          "items": [
+            {
+              "artist": "Eminem",
+              "rank": 1,
+              "title": "Lose Yourself"
+            }
+          ],
+          "startDate": "2003-01-01"
+        },
+        {
+          "endDate": "2003-03-08",
+          "items": [
+            {
+              "artist": "Christina Aguilera",
+              "rank": 1,
+              "title": "Beautiful"
+            }
+          ],
+          "startDate": "2003-03-02"
+        },
+        {
+          "endDate": "2003-03-15",
+          "items": [
+            {
+              "artist": "Delta Goodrem",
+              "rank": 1,
+              "title": "Lost Without You"
+            }
+          ],
+          "startDate": "2003-03-09"
+        },
+        {
+          "endDate": "2003-03-22",
+          "items": [
+            {
+              "artist": "t.A.T.u.",
+              "rank": 1,
+              "title": "All the Things She Said"
+            }
+          ],
+          "startDate": "2003-03-16"
+        },
+        {
+          "endDate": "2003-03-29",
+          "items": [
+            {
+              "artist": "Delta Goodrem",
+              "rank": 1,
+              "title": "Lost Without You"
+            }
+          ],
+          "startDate": "2003-03-23"
+        },
+        {
+          "endDate": "2003-04-05",
+          "items": [
+            {
+              "artist": "t.A.T.u.",
+              "rank": 1,
+              "title": "All the Things She Said"
+            }
+          ],
+          "startDate": "2003-03-30"
+        },
+        {
+          "endDate": "2003-05-10",
+          "items": [
+            {
+              "artist": "50 Cent",
+              "rank": 1,
+              "title": "In da Club"
+            }
+          ],
+          "startDate": "2003-04-06"
+        },
+        {
+          "endDate": "2003-05-17",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "Rock Your Body"
+            }
+          ],
+          "startDate": "2003-05-11"
+        },
+        {
+          "endDate": "2003-06-28",
+          "items": [
+            {
+              "artist": "Evanescence featuring Paul McCoy",
+              "rank": 1,
+              "title": "Bring Me to Life"
+            }
+          ],
+          "startDate": "2003-05-18"
+        },
+        {
+          "endDate": "2003-07-12",
+          "items": [
+            {
+              "artist": "Delta Goodrem",
+              "rank": 1,
+              "title": "Innocent Eyes"
+            }
+          ],
+          "startDate": "2003-06-29"
+        },
+        {
+          "endDate": "2003-08-23",
+          "items": [
+            {
+              "artist": "R. Kelly",
+              "rank": 1,
+              "title": "Ignition"
+            }
+          ],
+          "startDate": "2003-07-13"
+        },
+        {
+          "endDate": "2003-09-20",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas featuring Justin Timberlake",
+              "rank": 1,
+              "title": "Where Is the Love?"
+            }
+          ],
+          "startDate": "2003-08-24"
+        },
+        {
+          "endDate": "2003-09-27",
+          "items": [
+            {
+              "artist": "Dido",
+              "rank": 1,
+              "title": "White Flag"
+            }
+          ],
+          "startDate": "2003-09-21"
+        },
+        {
+          "endDate": "2003-10-04",
+          "items": [
+            {
+              "artist": "Delta Goodrem",
+              "rank": 1,
+              "title": "Not Me, Not I"
+            }
+          ],
+          "startDate": "2003-09-28"
+        },
+        {
+          "endDate": "2003-10-18",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas featuring Justin Timberlake",
+              "rank": 1,
+              "title": "Where Is the Love?"
+            }
+          ],
+          "startDate": "2003-10-05"
+        },
+        {
+          "endDate": "2003-11-08",
+          "items": [
+            {
+              "artist": "Australian Idol Final 12",
+              "rank": 1,
+              "title": "Rise Up"
+            }
+          ],
+          "startDate": "2003-10-19"
+        },
+        {
+          "endDate": "2003-11-15",
+          "items": [
+            {
+              "artist": "Kylie Minogue",
+              "rank": 1,
+              "title": "Slow"
+            }
+          ],
+          "startDate": "2003-11-09"
+        },
+        {
+          "endDate": "2003-11-29",
+          "items": [
+            {
+              "artist": "Britney Spears featuring Madonna",
+              "rank": 1,
+              "title": "Me Against the Music"
+            }
+          ],
+          "startDate": "2003-11-16"
+        },
+        {
+          "endDate": "2003-12-20",
+          "items": [
+            {
+              "artist": "Guy Sebastian",
+              "rank": 1,
+              "title": "Angels Brought Me Here"
+            }
+          ],
+          "startDate": "2003-11-30"
+        },
+        {
+          "endDate": "2003-12-27",
+          "items": [
+            {
+              "artist": "Delta Goodrem",
+              "rank": 1,
+              "title": "Predictable"
+            }
+          ],
+          "startDate": "2003-12-21"
+        },
+        {
+          "endDate": "2003-12-31",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas",
+              "rank": 1,
+              "title": "Shut Up"
+            }
+          ],
+          "startDate": "2003-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2012-05-30",
+        "provider": "Wikipedia contributors",
+        "territory": "AU",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Australia"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7cef1861ce14ec1587bff245c65e54bd2c90676401aeefe2fdcc45fe871729f8",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 2003
+}

@@ -1,0 +1,176 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2008-01-04",
+          "items": [
+            {
+              "artist": "Alicia Keys",
+              "rank": 1,
+              "title": "No One"
+            }
+          ],
+          "startDate": "2008-01-01"
+        },
+        {
+          "endDate": "2008-03-14",
+          "items": [
+            {
+              "artist": "Flo Rida featuring T-Pain",
+              "rank": 1,
+              "title": "Low\"♪"
+            }
+          ],
+          "startDate": "2008-01-05"
+        },
+        {
+          "endDate": "2008-04-04",
+          "items": [
+            {
+              "artist": "Usher featuring Young Jeezy",
+              "rank": 1,
+              "title": "Love in This Club"
+            }
+          ],
+          "startDate": "2008-03-15"
+        },
+        {
+          "endDate": "2008-04-11",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "Bleeding Love"
+            }
+          ],
+          "startDate": "2008-04-05"
+        },
+        {
+          "endDate": "2008-05-02",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "Bleeding Love"
+            }
+          ],
+          "startDate": "2008-04-26"
+        },
+        {
+          "endDate": "2008-05-23",
+          "items": [
+            {
+              "artist": "Lil Wayne featuring Static Major",
+              "rank": 1,
+              "title": "Lollipop"
+            }
+          ],
+          "startDate": "2008-05-03"
+        },
+        {
+          "endDate": "2008-06-06",
+          "items": [
+            {
+              "artist": "Lil Wayne featuring Static Major",
+              "rank": 1,
+              "title": "Lollipop"
+            }
+          ],
+          "startDate": "2008-05-31"
+        },
+        {
+          "endDate": "2008-07-04",
+          "items": [
+            {
+              "artist": "Coldplay",
+              "rank": 1,
+              "title": "Viva la Vida"
+            }
+          ],
+          "startDate": "2008-06-28"
+        },
+        {
+          "endDate": "2008-08-22",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "I Kissed a Girl"
+            }
+          ],
+          "startDate": "2008-07-05"
+        },
+        {
+          "endDate": "2008-09-05",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Disturbia"
+            }
+          ],
+          "startDate": "2008-08-23"
+        },
+        {
+          "endDate": "2008-09-26",
+          "items": [
+            {
+              "artist": "T.I.",
+              "rank": 1,
+              "title": "Whatever You Like"
+            }
+          ],
+          "startDate": "2008-09-06"
+        },
+        {
+          "endDate": "2008-10-17",
+          "items": [
+            {
+              "artist": "T.I.",
+              "rank": 1,
+              "title": "Whatever You Like"
+            }
+          ],
+          "startDate": "2008-10-04"
+        },
+        {
+          "endDate": "2008-11-28",
+          "items": [
+            {
+              "artist": "T.I. featuring Rihanna",
+              "rank": 1,
+              "title": "Live Your Life"
+            }
+          ],
+          "startDate": "2008-11-01"
+        },
+        {
+          "endDate": "2008-12-31",
+          "items": [
+            {
+              "artist": "Beyoncé",
+              "rank": 1,
+              "title": "Single Ladies"
+            }
+          ],
+          "startDate": "2008-12-13"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "d408c28b9e20cd674a79171e6b2db9874e63eeaf91ac7837a523b44ab1611e59",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2008
+}

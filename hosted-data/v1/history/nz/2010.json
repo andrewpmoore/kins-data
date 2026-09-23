@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2010-02-14",
+          "items": [
+            {
+              "artist": "Stan Walker",
+              "rank": 1,
+              "title": "Black Box\"†"
+            }
+          ],
+          "startDate": "2010-01-18"
+        },
+        {
+          "endDate": "2010-03-14",
+          "items": [
+            {
+              "artist": "Timbaland featuring Katy Perry",
+              "rank": 1,
+              "title": "If We Ever Meet Again"
+            }
+          ],
+          "startDate": "2010-02-15"
+        },
+        {
+          "endDate": "2010-04-11",
+          "items": [
+            {
+              "artist": "J.Williams featuring Scribe",
+              "rank": 1,
+              "title": "You Got Me\"‡"
+            }
+          ],
+          "startDate": "2010-03-15"
+        },
+        {
+          "endDate": "2010-05-09",
+          "items": [
+            {
+              "artist": "Usher featuring will.i.am",
+              "rank": 1,
+              "title": "OMG"
+            }
+          ],
+          "startDate": "2010-04-12"
+        },
+        {
+          "endDate": "2010-06-13",
+          "items": [
+            {
+              "artist": "B.o.B featuring Hayley Williams",
+              "rank": 1,
+              "title": "Airplanes"
+            }
+          ],
+          "startDate": "2010-05-10"
+        },
+        {
+          "endDate": "2010-06-27",
+          "items": [
+            {
+              "artist": "The Naked and Famous",
+              "rank": 1,
+              "title": "Young Blood\"†"
+            }
+          ],
+          "startDate": "2010-06-14"
+        },
+        {
+          "endDate": "2010-07-18",
+          "items": [
+            {
+              "artist": "Katy Perry featuring Snoop Dogg",
+              "rank": 1,
+              "title": "California Gurls"
+            }
+          ],
+          "startDate": "2010-06-28"
+        },
+        {
+          "endDate": "2010-08-15",
+          "items": [
+            {
+              "artist": "Eminem featuring Rihanna",
+              "rank": 1,
+              "title": "Love the Way You Lie"
+            }
+          ],
+          "startDate": "2010-07-19"
+        },
+        {
+          "endDate": "2010-08-29",
+          "items": [
+            {
+              "artist": "Taio Cruz",
+              "rank": 1,
+              "title": "Dynamite"
+            }
+          ],
+          "startDate": "2010-08-16"
+        },
+        {
+          "endDate": "2010-09-26",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Teenage Dream"
+            }
+          ],
+          "startDate": "2010-08-30"
+        },
+        {
+          "endDate": "2010-10-03",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Only Girl"
+            }
+          ],
+          "startDate": "2010-09-27"
+        },
+        {
+          "endDate": "2010-10-17",
+          "items": [
+            {
+              "artist": "Bruno Mars",
+              "rank": 1,
+              "title": "Just the Way You Are"
+            }
+          ],
+          "startDate": "2010-10-04"
+        },
+        {
+          "endDate": "2010-10-24",
+          "items": [
+            {
+              "artist": "Brooke Fraser",
+              "rank": 1,
+              "title": "Something in the Water\"†"
+            }
+          ],
+          "startDate": "2010-10-18"
+        },
+        {
+          "endDate": "2010-11-13",
+          "items": [
+            {
+              "artist": "Far East Movement featuring The Cataracs and Dev",
+              "rank": 1,
+              "title": "Like a G6"
+            }
+          ],
+          "startDate": "2010-10-25"
+        },
+        {
+          "endDate": "2010-12-04",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Firework"
+            }
+          ],
+          "startDate": "2010-11-14"
+        },
+        {
+          "endDate": "2010-12-19",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas",
+              "rank": 1,
+              "title": "The Time"
+            }
+          ],
+          "startDate": "2010-12-06"
+        },
+        {
+          "endDate": "2010-12-31",
+          "items": [
+            {
+              "artist": "Bruno Mars",
+              "rank": 1,
+              "title": "Grenade"
+            }
+          ],
+          "startDate": "2010-12-20"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3be92e64cbad002f708647004c31efbca95ea0e3e3187981f56d0636bddd474a",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 2010
+}

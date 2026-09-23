@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1966-01-14",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Day Tripper\" / \"We Can Work It Out"
+            }
+          ],
+          "startDate": "1966-01-01"
+        },
+        {
+          "endDate": "1966-01-28",
+          "items": [
+            {
+              "artist": "The Spencer Davis Group",
+              "rank": 1,
+              "title": "Keep On Running"
+            }
+          ],
+          "startDate": "1966-01-15"
+        },
+        {
+          "endDate": "1966-02-11",
+          "items": [
+            {
+              "artist": "The Overlanders",
+              "rank": 1,
+              "title": "Michelle"
+            }
+          ],
+          "startDate": "1966-02-05"
+        },
+        {
+          "endDate": "1966-02-18",
+          "items": [
+            {
+              "artist": "Nancy Sinatra",
+              "rank": 1,
+              "title": "These Boots Are Made for Walkin'"
+            }
+          ],
+          "startDate": "1966-02-12"
+        },
+        {
+          "endDate": "1966-03-11",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "19th Nervous Breakdown\" †"
+            }
+          ],
+          "startDate": "1966-02-19"
+        },
+        {
+          "endDate": "1966-05-27",
+          "items": [
+            {
+              "artist": "Manfred Mann",
+              "rank": 1,
+              "title": "Pretty Flamingo"
+            }
+          ],
+          "startDate": "1966-05-14"
+        },
+        {
+          "endDate": "1966-06-17",
+          "items": [
+            {
+              "artist": "Frank Sinatra",
+              "rank": 1,
+              "title": "Strangers in the Night"
+            }
+          ],
+          "startDate": "1966-06-04"
+        },
+        {
+          "endDate": "1966-07-08",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Paperback Writer"
+            }
+          ],
+          "startDate": "1966-06-25"
+        },
+        {
+          "endDate": "1966-08-05",
+          "items": [
+            {
+              "artist": "Chris Farlowe",
+              "rank": 1,
+              "title": "Out of Time"
+            }
+          ],
+          "startDate": "1966-07-30"
+        },
+        {
+          "endDate": "1966-08-19",
+          "items": [
+            {
+              "artist": "The Troggs",
+              "rank": 1,
+              "title": "With a Girl Like You"
+            }
+          ],
+          "startDate": "1966-08-06"
+        },
+        {
+          "endDate": "1966-09-09",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Yellow Submarine\" / \"Eleanor Rigby"
+            }
+          ],
+          "startDate": "1966-08-20"
+        },
+        {
+          "endDate": "1966-09-23",
+          "items": [
+            {
+              "artist": "Small Faces",
+              "rank": 1,
+              "title": "All or Nothing"
+            }
+          ],
+          "startDate": "1966-09-17"
+        },
+        {
+          "endDate": "1966-10-07",
+          "items": [
+            {
+              "artist": "Jim Reeves",
+              "rank": 1,
+              "title": "Distant Drums"
+            }
+          ],
+          "startDate": "1966-09-24"
+        },
+        {
+          "endDate": "1966-11-11",
+          "items": [
+            {
+              "artist": "Four Tops",
+              "rank": 1,
+              "title": "Reach Out I'll Be There"
+            }
+          ],
+          "startDate": "1966-10-29"
+        },
+        {
+          "endDate": "1966-12-02",
+          "items": [
+            {
+              "artist": "The Beach Boys",
+              "rank": 1,
+              "title": "Good Vibrations"
+            }
+          ],
+          "startDate": "1966-11-19"
+        },
+        {
+          "endDate": "1966-12-31",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Green, Green Grass of Home"
+            }
+          ],
+          "startDate": "1966-12-03"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5852f102d9d3fadec7948f50d59fecaa27fb049c4b45a1ba4bf7d1292e42e6fe",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1966
+}

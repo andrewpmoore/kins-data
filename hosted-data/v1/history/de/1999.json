@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1999-01-03",
+          "items": [
+            {
+              "artist": "Loona",
+              "rank": 1,
+              "title": "Hijo de la Luna"
+            }
+          ],
+          "startDate": "1999-01-01"
+        },
+        {
+          "endDate": "1999-01-10",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1999-01-04"
+        },
+        {
+          "endDate": "1999-01-17",
+          "items": [
+            {
+              "artist": "Loona",
+              "rank": 1,
+              "title": "Hijo de la Luna"
+            }
+          ],
+          "startDate": "1999-01-11"
+        },
+        {
+          "endDate": "1999-03-07",
+          "items": [
+            {
+              "artist": "Emilia",
+              "rank": 1,
+              "title": "Big Big World"
+            }
+          ],
+          "startDate": "1999-01-18"
+        },
+        {
+          "endDate": "1999-04-18",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "...Baby One More Time"
+            }
+          ],
+          "startDate": "1999-03-08"
+        },
+        {
+          "endDate": "1999-05-16",
+          "items": [
+            {
+              "artist": "Mr. Oizo",
+              "rank": 1,
+              "title": "Flat Beat"
+            }
+          ],
+          "startDate": "1999-04-19"
+        },
+        {
+          "endDate": "1999-05-30",
+          "items": [
+            {
+              "artist": "Backstreet Boys",
+              "rank": 1,
+              "title": "I Want It That Way"
+            }
+          ],
+          "startDate": "1999-05-17"
+        },
+        {
+          "endDate": "1999-08-15",
+          "items": [
+            {
+              "artist": "Lou Bega",
+              "rank": 1,
+              "title": "Mambo Nº 5\" †"
+            }
+          ],
+          "startDate": "1999-05-31"
+        },
+        {
+          "endDate": "1999-10-17",
+          "items": [
+            {
+              "artist": "Eiffel 65",
+              "rank": 1,
+              "title": "Blue"
+            }
+          ],
+          "startDate": "1999-08-16"
+        },
+        {
+          "endDate": "1999-10-24",
+          "items": [
+            {
+              "artist": "Bloodhound Gang",
+              "rank": 1,
+              "title": "The Bad Touch"
+            }
+          ],
+          "startDate": "1999-10-18"
+        },
+        {
+          "endDate": "1999-11-28",
+          "items": [
+            {
+              "artist": "Oli.P",
+              "rank": 1,
+              "title": "So Bist Du"
+            }
+          ],
+          "startDate": "1999-10-25"
+        },
+        {
+          "endDate": "1999-12-31",
+          "items": [
+            {
+              "artist": "Stefan Raab",
+              "rank": 1,
+              "title": "Maschen-Draht-Zaun"
+            }
+          ],
+          "startDate": "1999-11-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "dda5401beb19eaa8a9557a919702608c63979fb339244f28193bbfdc29efd347",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1999
+}

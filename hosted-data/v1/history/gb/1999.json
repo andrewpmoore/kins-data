@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1999-01-08",
+          "items": [
+            {
+              "artist": "Chef",
+              "rank": 1,
+              "title": "Chocolate Salty Balls"
+            }
+          ],
+          "startDate": "1999-01-02"
+        },
+        {
+          "endDate": "1999-02-21",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "Baby One More Time"
+            }
+          ],
+          "startDate": "1999-02-15"
+        },
+        {
+          "endDate": "1999-03-07",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "When the Going Gets Tough"
+            }
+          ],
+          "startDate": "1999-03-01"
+        },
+        {
+          "endDate": "1999-03-28",
+          "items": [
+            {
+              "artist": "Mr. Oizo",
+              "rank": 1,
+              "title": "Flat Beat"
+            }
+          ],
+          "startDate": "1999-03-22"
+        },
+        {
+          "endDate": "1999-04-11",
+          "items": [
+            {
+              "artist": "Martine McCutcheon",
+              "rank": 1,
+              "title": "Perfect Moment"
+            }
+          ],
+          "startDate": "1999-04-05"
+        },
+        {
+          "endDate": "1999-05-16",
+          "items": [
+            {
+              "artist": "Shania Twain",
+              "rank": 1,
+              "title": "That Don't Impress Me Much"
+            }
+          ],
+          "startDate": "1999-05-10"
+        },
+        {
+          "endDate": "1999-05-23",
+          "items": [
+            {
+              "artist": "Shanks & Bigfoot",
+              "rank": 1,
+              "title": "Sweet like Chocolate"
+            }
+          ],
+          "startDate": "1999-05-17"
+        },
+        {
+          "endDate": "1999-06-13",
+          "items": [
+            {
+              "artist": "S Club 7",
+              "rank": 1,
+              "title": "Bring It All Back"
+            }
+          ],
+          "startDate": "1999-06-07"
+        },
+        {
+          "endDate": "1999-06-27",
+          "items": [
+            {
+              "artist": "ATB",
+              "rank": 1,
+              "title": "9pm"
+            }
+          ],
+          "startDate": "1999-06-21"
+        },
+        {
+          "endDate": "1999-07-07",
+          "items": [
+            {
+              "artist": "Ricky Martin",
+              "rank": 1,
+              "title": "Livin' la Vida Loca"
+            }
+          ],
+          "startDate": "1999-07-01"
+        },
+        {
+          "endDate": "1999-07-18",
+          "items": [
+            {
+              "artist": "Ricky Martin",
+              "rank": 1,
+              "title": "Livin' la Vida Loca"
+            }
+          ],
+          "startDate": "1999-07-17"
+        },
+        {
+          "endDate": "1999-07-25",
+          "items": [
+            {
+              "artist": "Alice DeeJay",
+              "rank": 1,
+              "title": "Better off Alone"
+            }
+          ],
+          "startDate": "1999-07-19"
+        },
+        {
+          "endDate": "1999-08-07",
+          "items": [
+            {
+              "artist": "Lou Bega",
+              "rank": 1,
+              "title": "Mambo No.5"
+            }
+          ],
+          "startDate": "1999-08-01"
+        },
+        {
+          "endDate": "1999-09-19",
+          "items": [
+            {
+              "artist": "Eiffel 65",
+              "rank": 1,
+              "title": "Blue"
+            }
+          ],
+          "startDate": "1999-09-13"
+        },
+        {
+          "endDate": "1999-10-24",
+          "items": [
+            {
+              "artist": "R. Kelly",
+              "rank": 1,
+              "title": "If I Could Turn Back the Hands of Time"
+            }
+          ],
+          "startDate": "1999-10-18"
+        },
+        {
+          "endDate": "1999-11-21",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Millennium Prayer"
+            }
+          ],
+          "startDate": "1999-11-15"
+        },
+        {
+          "endDate": "1999-12-05",
+          "items": [
+            {
+              "artist": "Artful Dodger",
+              "rank": 1,
+              "title": "Re-Rewind"
+            }
+          ],
+          "startDate": "1999-11-29"
+        },
+        {
+          "endDate": "1999-12-19",
+          "items": [
+            {
+              "artist": "Westlife",
+              "rank": 1,
+              "title": "I Have a Dream\" / \"Seasons in the Sun"
+            }
+          ],
+          "startDate": "1999-12-13"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "b3ea725a33bb1b2d1e1b2aabf2693f24824acc548dfc358fd9aefbde42bad1f1",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1999
+}

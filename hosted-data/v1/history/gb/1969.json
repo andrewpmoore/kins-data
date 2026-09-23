@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1969-01-10",
+          "items": [
+            {
+              "artist": "The Scaffold",
+              "rank": 1,
+              "title": "Lily the Pink"
+            }
+          ],
+          "startDate": "1969-01-01"
+        },
+        {
+          "endDate": "1969-01-24",
+          "items": [
+            {
+              "artist": "Marmalade",
+              "rank": 1,
+              "title": "Ob-La-Di, Ob-La-Da"
+            }
+          ],
+          "startDate": "1969-01-11"
+        },
+        {
+          "endDate": "1969-02-14",
+          "items": [
+            {
+              "artist": "Fleetwood Mac",
+              "rank": 1,
+              "title": "Albatross"
+            }
+          ],
+          "startDate": "1969-02-01"
+        },
+        {
+          "endDate": "1969-02-21",
+          "items": [
+            {
+              "artist": "The Move",
+              "rank": 1,
+              "title": "Blackberry Way"
+            }
+          ],
+          "startDate": "1969-02-15"
+        },
+        {
+          "endDate": "1969-02-28",
+          "items": [
+            {
+              "artist": "Amen Corner",
+              "rank": 1,
+              "title": "Half as Nice"
+            }
+          ],
+          "startDate": "1969-02-22"
+        },
+        {
+          "endDate": "1969-03-28",
+          "items": [
+            {
+              "artist": "Peter Sarstedt",
+              "rank": 1,
+              "title": "Where Do You Go To ?"
+            }
+          ],
+          "startDate": "1969-03-08"
+        },
+        {
+          "endDate": "1969-04-18",
+          "items": [
+            {
+              "artist": "Marvin Gaye",
+              "rank": 1,
+              "title": "I Heard It Through the Grapevine"
+            }
+          ],
+          "startDate": "1969-04-05"
+        },
+        {
+          "endDate": "1969-05-02",
+          "items": [
+            {
+              "artist": "Desmond Dekker & The Aces",
+              "rank": 1,
+              "title": "Israelites"
+            }
+          ],
+          "startDate": "1969-04-26"
+        },
+        {
+          "endDate": "1969-06-06",
+          "items": [
+            {
+              "artist": "The Beatles with Billy Preston",
+              "rank": 1,
+              "title": "Get Back"
+            }
+          ],
+          "startDate": "1969-05-03"
+        },
+        {
+          "endDate": "1969-06-20",
+          "items": [
+            {
+              "artist": "Tommy Roe",
+              "rank": 1,
+              "title": "Dizzy"
+            }
+          ],
+          "startDate": "1969-06-07"
+        },
+        {
+          "endDate": "1969-07-04",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "The Ballad of John and Yoko"
+            }
+          ],
+          "startDate": "1969-06-21"
+        },
+        {
+          "endDate": "1969-07-18",
+          "items": [
+            {
+              "artist": "Thunderclap Newman",
+              "rank": 1,
+              "title": "Something in the Air"
+            }
+          ],
+          "startDate": "1969-07-12"
+        },
+        {
+          "endDate": "1969-07-25",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "In the Ghetto\" ‡"
+            }
+          ],
+          "startDate": "1969-07-19"
+        },
+        {
+          "endDate": "1969-08-01",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Honky Tonk Women"
+            }
+          ],
+          "startDate": "1969-07-26"
+        },
+        {
+          "endDate": "1969-08-23",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Honky Tonk Women"
+            }
+          ],
+          "startDate": "1969-08-13"
+        },
+        {
+          "endDate": "1969-09-13",
+          "items": [
+            {
+              "artist": "Zager and Evans",
+              "rank": 1,
+              "title": "In the Year 2525"
+            }
+          ],
+          "startDate": "1969-08-24"
+        },
+        {
+          "endDate": "1969-10-04",
+          "items": [
+            {
+              "artist": "Creedence Clearwater Revival",
+              "rank": 1,
+              "title": "Bad Moon Rising"
+            }
+          ],
+          "startDate": "1969-09-14"
+        },
+        {
+          "endDate": "1969-10-11",
+          "items": [
+            {
+              "artist": "Jane Birkin and Serge Gainsbourg",
+              "rank": 1,
+              "title": "Je t'aime... moi non plus"
+            }
+          ],
+          "startDate": "1969-10-05"
+        },
+        {
+          "endDate": "1969-10-18",
+          "items": [
+            {
+              "artist": "Bobbie Gentry",
+              "rank": 1,
+              "title": "I'll Never Fall in Love Again"
+            }
+          ],
+          "startDate": "1969-10-12"
+        },
+        {
+          "endDate": "1969-12-13",
+          "items": [
+            {
+              "artist": "The Archies",
+              "rank": 1,
+              "title": "Sugar, Sugar\" †"
+            }
+          ],
+          "startDate": "1969-10-19"
+        },
+        {
+          "endDate": "1969-12-31",
+          "items": [
+            {
+              "artist": "Rolf Harris",
+              "rank": 1,
+              "title": "Two Little Boys"
+            }
+          ],
+          "startDate": "1969-12-14"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "42b98b00074e6fe2d59905b4072c783e22ad26eb77d74049bdf003a9edf247fc",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1969
+}

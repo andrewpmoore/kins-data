@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1971-01-26",
+          "items": [
+            {
+              "artist": "Clive Dunn",
+              "rank": 1,
+              "title": "Grandad"
+            }
+          ],
+          "startDate": "1971-01-01"
+        },
+        {
+          "endDate": "1971-03-09",
+          "items": [
+            {
+              "artist": "George Harrison",
+              "rank": 1,
+              "title": "My Sweet Lord"
+            }
+          ],
+          "startDate": "1971-01-27"
+        },
+        {
+          "endDate": "1971-03-16",
+          "items": [
+            {
+              "artist": "Mungo Jerry",
+              "rank": 1,
+              "title": "Baby Jump"
+            }
+          ],
+          "startDate": "1971-03-10"
+        },
+        {
+          "endDate": "1971-03-23",
+          "items": [
+            {
+              "artist": "Paul McCartney",
+              "rank": 1,
+              "title": "Another Day\" ‡"
+            }
+          ],
+          "startDate": "1971-03-17"
+        },
+        {
+          "endDate": "1971-04-27",
+          "items": [
+            {
+              "artist": "T. Rex",
+              "rank": 1,
+              "title": "Hot Love"
+            }
+          ],
+          "startDate": "1971-03-24"
+        },
+        {
+          "endDate": "1971-05-11",
+          "items": [
+            {
+              "artist": "Dave and Ansel Collins",
+              "rank": 1,
+              "title": "Double Barrel"
+            }
+          ],
+          "startDate": "1971-04-28"
+        },
+        {
+          "endDate": "1971-05-18",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Brown Sugar\" ‡"
+            }
+          ],
+          "startDate": "1971-05-12"
+        },
+        {
+          "endDate": "1971-06-08",
+          "items": [
+            {
+              "artist": "Dawn",
+              "rank": 1,
+              "title": "Knock Three Times"
+            }
+          ],
+          "startDate": "1971-05-19"
+        },
+        {
+          "endDate": "1971-06-15",
+          "items": [
+            {
+              "artist": "Free",
+              "rank": 1,
+              "title": "My Brother Jake\" ‡"
+            }
+          ],
+          "startDate": "1971-06-09"
+        },
+        {
+          "endDate": "1971-06-22",
+          "items": [
+            {
+              "artist": "Tony Christie",
+              "rank": 1,
+              "title": "I Did What I Did for Maria\" ‡"
+            }
+          ],
+          "startDate": "1971-06-16"
+        },
+        {
+          "endDate": "1971-07-27",
+          "items": [
+            {
+              "artist": "Middle of the Road",
+              "rank": 1,
+              "title": "Chirpy Chirpy Cheep Cheep"
+            }
+          ],
+          "startDate": "1971-06-23"
+        },
+        {
+          "endDate": "1971-08-17",
+          "items": [
+            {
+              "artist": "T. Rex",
+              "rank": 1,
+              "title": "Get It On"
+            }
+          ],
+          "startDate": "1971-07-28"
+        },
+        {
+          "endDate": "1971-08-24",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "Never Ending Song of Love\" ‡"
+            }
+          ],
+          "startDate": "1971-08-18"
+        },
+        {
+          "endDate": "1971-09-14",
+          "items": [
+            {
+              "artist": "Diana Ross",
+              "rank": 1,
+              "title": "I'm Still Waiting"
+            }
+          ],
+          "startDate": "1971-08-25"
+        },
+        {
+          "endDate": "1971-09-28",
+          "items": [
+            {
+              "artist": "The Tams",
+              "rank": 1,
+              "title": "Hey Girl Don't Bother Me"
+            }
+          ],
+          "startDate": "1971-09-15"
+        },
+        {
+          "endDate": "1971-11-09",
+          "items": [
+            {
+              "artist": "Rod Stewart",
+              "rank": 1,
+              "title": "Maggie May"
+            }
+          ],
+          "startDate": "1971-09-29"
+        },
+        {
+          "endDate": "1971-11-30",
+          "items": [
+            {
+              "artist": "Slade",
+              "rank": 1,
+              "title": "Coz I Luv You"
+            }
+          ],
+          "startDate": "1971-11-10"
+        },
+        {
+          "endDate": "1971-12-31",
+          "items": [
+            {
+              "artist": "Benny Hill",
+              "rank": 1,
+              "title": "Ernie"
+            }
+          ],
+          "startDate": "1971-12-01"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "2a4d6020186e77a00c7e742a3a16d7b50d5bab0244af4809b1c644b06bb62162",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1971
+}

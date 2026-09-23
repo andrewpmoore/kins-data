@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2004-06-29",
+          "items": [
+            {
+              "artist": "Pixies",
+              "rank": 1,
+              "title": "Bam Thwok"
+            }
+          ],
+          "startDate": "2004-06-23"
+        },
+        {
+          "endDate": "2004-07-06",
+          "items": [
+            {
+              "artist": "Maroon 5",
+              "rank": 1,
+              "title": "This Love"
+            }
+          ],
+          "startDate": "2004-06-30"
+        },
+        {
+          "endDate": "2004-08-10",
+          "items": [
+            {
+              "artist": "The Streets",
+              "rank": 1,
+              "title": "Dry Your Eyes"
+            }
+          ],
+          "startDate": "2004-07-07"
+        },
+        {
+          "endDate": "2004-08-31",
+          "items": [
+            {
+              "artist": "Shapeshifters",
+              "rank": 1,
+              "title": "Lola's Theme"
+            }
+          ],
+          "startDate": "2004-08-11"
+        },
+        {
+          "endDate": "2004-09-07",
+          "items": [
+            {
+              "artist": "Westlife",
+              "rank": 1,
+              "title": "Flying Without Wings"
+            }
+          ],
+          "startDate": "2004-09-01"
+        },
+        {
+          "endDate": "2004-10-05",
+          "items": [
+            {
+              "artist": "Natasha Bedingfield",
+              "rank": 1,
+              "title": "These Words"
+            }
+          ],
+          "startDate": "2004-09-08"
+        },
+        {
+          "endDate": "2004-10-26",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Vertigo"
+            }
+          ],
+          "startDate": "2004-10-06"
+        },
+        {
+          "endDate": "2004-11-02",
+          "items": [
+            {
+              "artist": "Mouldy Lookin' Stain",
+              "rank": 1,
+              "title": "Dogz Don't Kill People Wabbits Do"
+            }
+          ],
+          "startDate": "2004-10-27"
+        },
+        {
+          "endDate": "2004-12-07",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Vertigo"
+            }
+          ],
+          "startDate": "2004-11-03"
+        },
+        {
+          "endDate": "2004-12-31",
+          "items": [
+            {
+              "artist": "Band Aid 20",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "2004-12-08"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3b1e0f0f10cc5abbadff56d6a8ee973540be491af5a61038a73b3ce6256b656a",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2004
+}

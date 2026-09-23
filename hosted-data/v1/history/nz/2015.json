@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2015-02-22",
+          "items": [
+            {
+              "artist": "Mark Ronson featuring Bruno Mars",
+              "rank": 1,
+              "title": "Uptown Funk"
+            }
+          ],
+          "startDate": "2015-01-01"
+        },
+        {
+          "endDate": "2015-03-08",
+          "items": [
+            {
+              "artist": "Ellie Goulding",
+              "rank": 1,
+              "title": "Love Me Like You Do"
+            }
+          ],
+          "startDate": "2015-02-23"
+        },
+        {
+          "endDate": "2015-04-12",
+          "items": [
+            {
+              "artist": "Rihanna, Kanye West and Paul McCartney",
+              "rank": 1,
+              "title": "FourFiveSeconds"
+            }
+          ],
+          "startDate": "2015-03-09"
+        },
+        {
+          "endDate": "2015-05-31",
+          "items": [
+            {
+              "artist": "Wiz Khalifa featuring Charlie Puth",
+              "rank": 1,
+              "title": "See You Again"
+            }
+          ],
+          "startDate": "2015-04-13"
+        },
+        {
+          "endDate": "2015-06-14",
+          "items": [
+            {
+              "artist": "Wiz Khalifa featuring Charlie Puth",
+              "rank": 1,
+              "title": "See You Again"
+            }
+          ],
+          "startDate": "2015-06-08"
+        },
+        {
+          "endDate": "2015-06-21",
+          "items": [
+            {
+              "artist": "Charlie Puth featuring Meghan Trainor",
+              "rank": 1,
+              "title": "Marvin Gaye"
+            }
+          ],
+          "startDate": "2015-06-15"
+        },
+        {
+          "endDate": "2015-06-28",
+          "items": [
+            {
+              "artist": "Major Lazer featuring MØ and DJ Snake",
+              "rank": 1,
+              "title": "Lean On"
+            }
+          ],
+          "startDate": "2015-06-22"
+        },
+        {
+          "endDate": "2015-07-05",
+          "items": [
+            {
+              "artist": "Charlie Puth featuring Meghan Trainor",
+              "rank": 1,
+              "title": "Marvin Gaye"
+            }
+          ],
+          "startDate": "2015-06-29"
+        },
+        {
+          "endDate": "2015-07-12",
+          "items": [
+            {
+              "artist": "Major Lazer featuring MØ and DJ Snake",
+              "rank": 1,
+              "title": "Lean On"
+            }
+          ],
+          "startDate": "2015-07-06"
+        },
+        {
+          "endDate": "2015-07-19",
+          "items": [
+            {
+              "artist": "Avalanche City",
+              "rank": 1,
+              "title": "Inside Out\"†"
+            }
+          ],
+          "startDate": "2015-07-13"
+        },
+        {
+          "endDate": "2015-08-09",
+          "items": [
+            {
+              "artist": "Meghan Trainor featuring John Legend",
+              "rank": 1,
+              "title": "Like I'm Gonna Lose You"
+            }
+          ],
+          "startDate": "2015-07-20"
+        },
+        {
+          "endDate": "2015-08-16",
+          "items": [
+            {
+              "artist": "One Direction",
+              "rank": 1,
+              "title": "Drag Me Down"
+            }
+          ],
+          "startDate": "2015-08-10"
+        },
+        {
+          "endDate": "2015-09-06",
+          "items": [
+            {
+              "artist": "The Weeknd",
+              "rank": 1,
+              "title": "Can't Feel My Face"
+            }
+          ],
+          "startDate": "2015-08-17"
+        },
+        {
+          "endDate": "2015-11-01",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "What Do You Mean?"
+            }
+          ],
+          "startDate": "2015-09-07"
+        },
+        {
+          "endDate": "2015-11-22",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Hello"
+            }
+          ],
+          "startDate": "2015-11-02"
+        },
+        {
+          "endDate": "2015-12-06",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Sorry"
+            }
+          ],
+          "startDate": "2015-11-23"
+        },
+        {
+          "endDate": "2015-12-31",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Love Yourself"
+            }
+          ],
+          "startDate": "2015-12-07"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "152265968badf1e4afdbe416357caa9171b0380a1888d976fb2c88a6b71ec570",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 2015
+}

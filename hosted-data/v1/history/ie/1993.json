@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1993-01-23",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You"
+            }
+          ],
+          "startDate": "1993-01-01"
+        },
+        {
+          "endDate": "1993-02-27",
+          "items": [
+            {
+              "artist": "Chris Moore",
+              "rank": 1,
+              "title": "This Time\" / \"Life Without You"
+            }
+          ],
+          "startDate": "1993-01-24"
+        },
+        {
+          "endDate": "1993-04-03",
+          "items": [
+            {
+              "artist": "2 Unlimited",
+              "rank": 1,
+              "title": "No Limit"
+            }
+          ],
+          "startDate": "1993-02-28"
+        },
+        {
+          "endDate": "1993-04-10",
+          "items": [
+            {
+              "artist": "Shaggy",
+              "rank": 1,
+              "title": "Oh Carolina"
+            }
+          ],
+          "startDate": "1993-04-04"
+        },
+        {
+          "endDate": "1993-04-24",
+          "items": [
+            {
+              "artist": "The Bluebells",
+              "rank": 1,
+              "title": "Young at Heart"
+            }
+          ],
+          "startDate": "1993-04-11"
+        },
+        {
+          "endDate": "1993-05-01",
+          "items": [
+            {
+              "artist": "Snow",
+              "rank": 1,
+              "title": "Informer"
+            }
+          ],
+          "startDate": "1993-04-25"
+        },
+        {
+          "endDate": "1993-05-22",
+          "items": [
+            {
+              "artist": "George Michael & Queen with Lisa Stansfield",
+              "rank": 1,
+              "title": "Five Live"
+            }
+          ],
+          "startDate": "1993-05-02"
+        },
+        {
+          "endDate": "1993-06-26",
+          "items": [
+            {
+              "artist": "Niamh Kavanagh",
+              "rank": 1,
+              "title": "In Your Eyes"
+            }
+          ],
+          "startDate": "1993-05-23"
+        },
+        {
+          "endDate": "1993-07-17",
+          "items": [
+            {
+              "artist": "Haddaway",
+              "rank": 1,
+              "title": "What Is Love"
+            }
+          ],
+          "startDate": "1993-06-27"
+        },
+        {
+          "endDate": "1993-08-21",
+          "items": [
+            {
+              "artist": "4 Non Blondes",
+              "rank": 1,
+              "title": "What's Up?"
+            }
+          ],
+          "startDate": "1993-07-18"
+        },
+        {
+          "endDate": "1993-08-28",
+          "items": [
+            {
+              "artist": "Freddie Mercury",
+              "rank": 1,
+              "title": "Living on My Own"
+            }
+          ],
+          "startDate": "1993-08-22"
+        },
+        {
+          "endDate": "1993-10-02",
+          "items": [
+            {
+              "artist": "Culture Beat",
+              "rank": 1,
+              "title": "Mr. Vain"
+            }
+          ],
+          "startDate": "1993-08-29"
+        },
+        {
+          "endDate": "1993-10-09",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "Go West"
+            }
+          ],
+          "startDate": "1993-10-03"
+        },
+        {
+          "endDate": "1993-10-16",
+          "items": [
+            {
+              "artist": "DJ Jazzy Jeff & the Fresh Prince",
+              "rank": 1,
+              "title": "Boom! Shake the Room"
+            }
+          ],
+          "startDate": "1993-10-10"
+        },
+        {
+          "endDate": "1993-11-27",
+          "items": [
+            {
+              "artist": "Meat Loaf",
+              "rank": 1,
+              "title": "I'd Do Anything for Love"
+            }
+          ],
+          "startDate": "1993-10-17"
+        },
+        {
+          "endDate": "1993-12-04",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "Please Forgive Me"
+            }
+          ],
+          "startDate": "1993-11-28"
+        },
+        {
+          "endDate": "1993-12-18",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Stay"
+            }
+          ],
+          "startDate": "1993-12-05"
+        },
+        {
+          "endDate": "1993-12-31",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Babe"
+            }
+          ],
+          "startDate": "1993-12-19"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "a115d553e0247d9e4a9a1519971010c2eb04acc4cc24499e65ab92b5e58d0aba",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1993
+}

@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2004-01-28",
+          "items": [
+            {
+              "artist": "Will Young",
+              "rank": 1,
+              "title": "Leave Right Now"
+            }
+          ],
+          "startDate": "2004-01-01"
+        },
+        {
+          "endDate": "2004-03-03",
+          "items": [
+            {
+              "artist": "Kelis",
+              "rank": 1,
+              "title": "Milkshake"
+            }
+          ],
+          "startDate": "2004-01-29"
+        },
+        {
+          "endDate": "2004-03-31",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "Toxic"
+            }
+          ],
+          "startDate": "2004-03-04"
+        },
+        {
+          "endDate": "2004-04-14",
+          "items": [
+            {
+              "artist": "Usher featuring Lil Jon and Ludacris",
+              "rank": 1,
+              "title": "Yeah!"
+            }
+          ],
+          "startDate": "2004-04-01"
+        },
+        {
+          "endDate": "2004-04-28",
+          "items": [
+            {
+              "artist": "Eamon",
+              "rank": 1,
+              "title": "Fuck It"
+            }
+          ],
+          "startDate": "2004-04-15"
+        },
+        {
+          "endDate": "2004-05-12",
+          "items": [
+            {
+              "artist": "Chris Doran",
+              "rank": 1,
+              "title": "If My World Stopped Turning"
+            }
+          ],
+          "startDate": "2004-04-29"
+        },
+        {
+          "endDate": "2004-05-19",
+          "items": [
+            {
+              "artist": "Eamon",
+              "rank": 1,
+              "title": "Fuck It"
+            }
+          ],
+          "startDate": "2004-05-13"
+        },
+        {
+          "endDate": "2004-06-16",
+          "items": [
+            {
+              "artist": "Tim O'Riordan and Natural Gas",
+              "rank": 1,
+              "title": "The Langer"
+            }
+          ],
+          "startDate": "2004-05-20"
+        },
+        {
+          "endDate": "2004-07-21",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "Everytime"
+            }
+          ],
+          "startDate": "2004-06-17"
+        },
+        {
+          "endDate": "2004-08-11",
+          "items": [
+            {
+              "artist": "The Streets",
+              "rank": 1,
+              "title": "Dry Your Eyes"
+            }
+          ],
+          "startDate": "2004-07-22"
+        },
+        {
+          "endDate": "2004-08-18",
+          "items": [
+            {
+              "artist": "O-Zone",
+              "rank": 1,
+              "title": "Dragostea din tei"
+            }
+          ],
+          "startDate": "2004-08-12"
+        },
+        {
+          "endDate": "2004-09-08",
+          "items": [
+            {
+              "artist": "Natasha Bedingfield",
+              "rank": 1,
+              "title": "These Words"
+            }
+          ],
+          "startDate": "2004-08-19"
+        },
+        {
+          "endDate": "2004-10-06",
+          "items": [
+            {
+              "artist": "Brian McFadden",
+              "rank": 1,
+              "title": "Real to Me"
+            }
+          ],
+          "startDate": "2004-09-09"
+        },
+        {
+          "endDate": "2004-11-03",
+          "items": [
+            {
+              "artist": "Eric Prydz",
+              "rank": 1,
+              "title": "Call on Me"
+            }
+          ],
+          "startDate": "2004-10-07"
+        },
+        {
+          "endDate": "2004-11-10",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "My Prerogative"
+            }
+          ],
+          "startDate": "2004-11-04"
+        },
+        {
+          "endDate": "2004-11-17",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Vertigo"
+            }
+          ],
+          "startDate": "2004-11-11"
+        },
+        {
+          "endDate": "2004-12-01",
+          "items": [
+            {
+              "artist": "Destiny's Child",
+              "rank": 1,
+              "title": "Lose My Breath"
+            }
+          ],
+          "startDate": "2004-11-18"
+        },
+        {
+          "endDate": "2004-12-31",
+          "items": [
+            {
+              "artist": "Band Aid 20",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "2004-12-02"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "6521f946c6c8297fc6ce7cd276ae0ea71e1378987ed6012954a1c52acb25fdc2",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2004
+}

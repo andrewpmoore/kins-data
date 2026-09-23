@@ -1,0 +1,121 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1996-03-22",
+          "items": [
+            {
+              "artist": "Mariah Carey & Boyz II Men",
+              "rank": 1,
+              "title": "One Sweet Day"
+            }
+          ],
+          "startDate": "1996-01-01"
+        },
+        {
+          "endDate": "1996-05-03",
+          "items": [
+            {
+              "artist": "Céline Dion",
+              "rank": 1,
+              "title": "Because You Loved Me"
+            }
+          ],
+          "startDate": "1996-03-23"
+        },
+        {
+          "endDate": "1996-05-17",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Always Be My Baby"
+            }
+          ],
+          "startDate": "1996-05-04"
+        },
+        {
+          "endDate": "1996-07-12",
+          "items": [
+            {
+              "artist": "Bone Thugs-N-Harmony",
+              "rank": 1,
+              "title": "Tha Crossroads"
+            }
+          ],
+          "startDate": "1996-05-18"
+        },
+        {
+          "endDate": "1996-07-26",
+          "items": [
+            {
+              "artist": "2Pac featuring K-Ci & JoJo / Dr. Dre and Roger Troutman",
+              "rank": 1,
+              "title": "How Do U Want It\" / \"California Love"
+            }
+          ],
+          "startDate": "1996-07-13"
+        },
+        {
+          "endDate": "1996-08-02",
+          "items": [
+            {
+              "artist": "Toni Braxton",
+              "rank": 1,
+              "title": "You're Makin' Me High\" / \"Let It Flow"
+            }
+          ],
+          "startDate": "1996-07-27"
+        },
+        {
+          "endDate": "1996-11-08",
+          "items": [
+            {
+              "artist": "Los Del Rio",
+              "rank": 1,
+              "title": "Macarena \"♪"
+            }
+          ],
+          "startDate": "1996-08-03"
+        },
+        {
+          "endDate": "1996-12-06",
+          "items": [
+            {
+              "artist": "Blackstreet featuring Dr. Dre",
+              "rank": 1,
+              "title": "No Diggity"
+            }
+          ],
+          "startDate": "1996-11-09"
+        },
+        {
+          "endDate": "1996-12-31",
+          "items": [
+            {
+              "artist": "Toni Braxton",
+              "rank": 1,
+              "title": "Un-Break My Heart"
+            }
+          ],
+          "startDate": "1996-12-07"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9612de30b2e5925da1b5426f4cdb81708ca7b6d902d77b4e5edb7e39491906a8",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1996
+}

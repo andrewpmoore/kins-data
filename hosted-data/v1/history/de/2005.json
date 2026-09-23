@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2005-01-02",
+          "items": [
+            {
+              "artist": "Nu Pagadi",
+              "rank": 1,
+              "title": "Sweetest Poison"
+            }
+          ],
+          "startDate": "2005-01-01"
+        },
+        {
+          "endDate": "2005-03-13",
+          "items": [
+            {
+              "artist": "Schnappi",
+              "rank": 1,
+              "title": "Schnappi, das Kleine Krokodil\"†"
+            }
+          ],
+          "startDate": "2005-01-03"
+        },
+        {
+          "endDate": "2005-03-20",
+          "items": [
+            {
+              "artist": "Nena",
+              "rank": 1,
+              "title": "Liebe ist"
+            }
+          ],
+          "startDate": "2005-03-14"
+        },
+        {
+          "endDate": "2005-03-27",
+          "items": [
+            {
+              "artist": "Sarah Connor",
+              "rank": 1,
+              "title": "From Zero to Hero"
+            }
+          ],
+          "startDate": "2005-03-21"
+        },
+        {
+          "endDate": "2005-04-03",
+          "items": [
+            {
+              "artist": "Nena",
+              "rank": 1,
+              "title": "Liebe ist"
+            }
+          ],
+          "startDate": "2005-03-28"
+        },
+        {
+          "endDate": "2005-04-17",
+          "items": [
+            {
+              "artist": "Sarah Connor",
+              "rank": 1,
+              "title": "From Zero to Hero"
+            }
+          ],
+          "startDate": "2005-04-04"
+        },
+        {
+          "endDate": "2005-04-24",
+          "items": [
+            {
+              "artist": "Mario",
+              "rank": 1,
+              "title": "Let Me Love You"
+            }
+          ],
+          "startDate": "2005-04-18"
+        },
+        {
+          "endDate": "2005-05-15",
+          "items": [
+            {
+              "artist": "50 Cent featuring Olivia",
+              "rank": 1,
+              "title": "Candy Shop"
+            }
+          ],
+          "startDate": "2005-04-25"
+        },
+        {
+          "endDate": "2005-05-29",
+          "items": [
+            {
+              "artist": "Ch!pz",
+              "rank": 1,
+              "title": "Cowboy"
+            }
+          ],
+          "startDate": "2005-05-16"
+        },
+        {
+          "endDate": "2005-07-24",
+          "items": [
+            {
+              "artist": "Akon",
+              "rank": 1,
+              "title": "Lonely"
+            }
+          ],
+          "startDate": "2005-05-30"
+        },
+        {
+          "endDate": "2005-08-21",
+          "items": [
+            {
+              "artist": "US5",
+              "rank": 1,
+              "title": "Maria"
+            }
+          ],
+          "startDate": "2005-07-25"
+        },
+        {
+          "endDate": "2005-08-28",
+          "items": [
+            {
+              "artist": "Juanes",
+              "rank": 1,
+              "title": "La Camisa Negra"
+            }
+          ],
+          "startDate": "2005-08-22"
+        },
+        {
+          "endDate": "2005-10-02",
+          "items": [
+            {
+              "artist": "Tokio Hotel",
+              "rank": 1,
+              "title": "Durch den Monsun"
+            }
+          ],
+          "startDate": "2005-08-29"
+        },
+        {
+          "endDate": "2005-10-16",
+          "items": [
+            {
+              "artist": "Pussycat Dolls featuring Busta Rhymes",
+              "rank": 1,
+              "title": "Don't Cha"
+            }
+          ],
+          "startDate": "2005-10-03"
+        },
+        {
+          "endDate": "2005-11-03",
+          "items": [
+            {
+              "artist": "Robbie Williams",
+              "rank": 1,
+              "title": "Tripping"
+            }
+          ],
+          "startDate": "2005-10-17"
+        },
+        {
+          "endDate": "2005-11-17",
+          "items": [
+            {
+              "artist": "Melanie C",
+              "rank": 1,
+              "title": "First Day of My Life"
+            }
+          ],
+          "startDate": "2005-11-04"
+        },
+        {
+          "endDate": "2005-12-31",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Hung Up"
+            }
+          ],
+          "startDate": "2005-11-18"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f7527a91f50fcd9811ef928732bd2e0a1a2978c6567eb50a32de8245445ec307",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2005
+}

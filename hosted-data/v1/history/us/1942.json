@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1942-02-06",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "Chattanooga Choo Choo"
+            }
+          ],
+          "startDate": "1942-01-01"
+        },
+        {
+          "endDate": "1942-02-13",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "A String of Pearls"
+            }
+          ],
+          "startDate": "1942-02-07"
+        },
+        {
+          "endDate": "1942-02-20",
+          "items": [
+            {
+              "artist": "Woody Herman",
+              "rank": 1,
+              "title": "Blues in the Night"
+            }
+          ],
+          "startDate": "1942-02-14"
+        },
+        {
+          "endDate": "1942-02-27",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "A String of Pearls"
+            }
+          ],
+          "startDate": "1942-02-21"
+        },
+        {
+          "endDate": "1942-05-08",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "Moonlight Cocktail"
+            }
+          ],
+          "startDate": "1942-02-28"
+        },
+        {
+          "endDate": "1942-06-19",
+          "items": [
+            {
+              "artist": "Jimmy Dorsey",
+              "rank": 1,
+              "title": "Tangerine"
+            }
+          ],
+          "startDate": "1942-05-09"
+        },
+        {
+          "endDate": "1942-07-17",
+          "items": [
+            {
+              "artist": "Harry James",
+              "rank": 1,
+              "title": "Sleepy Lagoon"
+            }
+          ],
+          "startDate": "1942-06-20"
+        },
+        {
+          "endDate": "1942-09-11",
+          "items": [
+            {
+              "artist": "Kay Kyser",
+              "rank": 1,
+              "title": "Jingle Jangle Jingle"
+            }
+          ],
+          "startDate": "1942-07-18"
+        },
+        {
+          "endDate": "1942-10-30",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "Kalamazoo"
+            }
+          ],
+          "startDate": "1942-09-12"
+        },
+        {
+          "endDate": "1942-12-31",
+          "items": [
+            {
+              "artist": "Bing Crosby",
+              "rank": 1,
+              "title": "White Christmas"
+            }
+          ],
+          "startDate": "1942-10-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7f2dafe601fd05ff8d5ae508bccda699419c7973e74b40a535b0ad63b3760336",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1942
+}

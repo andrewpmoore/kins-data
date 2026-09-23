@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1998-01-04",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1998-01-01"
+        },
+        {
+          "endDate": "1998-02-01",
+          "items": [
+            {
+              "artist": "Run-D.M.C. vs. Jason Nevins",
+              "rank": 1,
+              "title": "It's Like That"
+            }
+          ],
+          "startDate": "1998-01-05"
+        },
+        {
+          "endDate": "1998-05-03",
+          "items": [
+            {
+              "artist": "Céline Dion",
+              "rank": 1,
+              "title": "My Heart Will Go On\" †"
+            }
+          ],
+          "startDate": "1998-02-02"
+        },
+        {
+          "endDate": "1998-06-28",
+          "items": [
+            {
+              "artist": "Die Ärzte",
+              "rank": 1,
+              "title": "Männer sind Schweine"
+            }
+          ],
+          "startDate": "1998-05-04"
+        },
+        {
+          "endDate": "1998-07-26",
+          "items": [
+            {
+              "artist": "Ricky Martin",
+              "rank": 1,
+              "title": "The Cup of Life / La Copa de la Vida"
+            }
+          ],
+          "startDate": "1998-06-29"
+        },
+        {
+          "endDate": "1998-08-02",
+          "items": [
+            {
+              "artist": "Pras featuring Ol' Dirty Bastard and Mýa",
+              "rank": 1,
+              "title": "Ghetto Supastar"
+            }
+          ],
+          "startDate": "1998-07-27"
+        },
+        {
+          "endDate": "1998-09-13",
+          "items": [
+            {
+              "artist": "Loona",
+              "rank": 1,
+              "title": "Bailando"
+            }
+          ],
+          "startDate": "1998-08-03"
+        },
+        {
+          "endDate": "1998-10-11",
+          "items": [
+            {
+              "artist": "Aerosmith",
+              "rank": 1,
+              "title": "I Don't Want to Miss a Thing"
+            }
+          ],
+          "startDate": "1998-09-14"
+        },
+        {
+          "endDate": "1998-11-29",
+          "items": [
+            {
+              "artist": "Oli.P",
+              "rank": 1,
+              "title": "Flugzeuge im Bauch"
+            }
+          ],
+          "startDate": "1998-10-12"
+        },
+        {
+          "endDate": "1998-12-27",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1998-11-30"
+        },
+        {
+          "endDate": "1998-12-31",
+          "items": [
+            {
+              "artist": "Loona",
+              "rank": 1,
+              "title": "Hijo de la Luna"
+            }
+          ],
+          "startDate": "1998-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "369da1da1a7250d5dd837e602612aa77b746b3984f98e3ce63799e113d058f4a",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1998
+}

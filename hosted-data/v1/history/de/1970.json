@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1970-01-02",
+          "items": [
+            {
+              "artist": "The Archies",
+              "rank": 1,
+              "title": "Sugar, Sugar"
+            }
+          ],
+          "startDate": "1970-01-01"
+        },
+        {
+          "endDate": "1970-03-06",
+          "items": [
+            {
+              "artist": "Roy Black",
+              "rank": 1,
+              "title": "Dein schönstes Geschenk"
+            }
+          ],
+          "startDate": "1970-01-03"
+        },
+        {
+          "endDate": "1970-04-24",
+          "items": [
+            {
+              "artist": "Led Zeppelin",
+              "rank": 1,
+              "title": "Whole Lotta Love"
+            }
+          ],
+          "startDate": "1970-03-07"
+        },
+        {
+          "endDate": "1970-05-15",
+          "items": [
+            {
+              "artist": "The Soulful Dynamics",
+              "rank": 1,
+              "title": "Mademoiselle Ninette"
+            }
+          ],
+          "startDate": "1970-04-25"
+        },
+        {
+          "endDate": "1970-05-29",
+          "items": [
+            {
+              "artist": "Frijid Pink",
+              "rank": 1,
+              "title": "House of the Rising Sun"
+            }
+          ],
+          "startDate": "1970-05-16"
+        },
+        {
+          "endDate": "1970-06-12",
+          "items": [
+            {
+              "artist": "Peter Maffay",
+              "rank": 1,
+              "title": "Du"
+            }
+          ],
+          "startDate": "1970-05-30"
+        },
+        {
+          "endDate": "1970-06-26",
+          "items": [
+            {
+              "artist": "Norman Greenbaum",
+              "rank": 1,
+              "title": "Spirit in the Sky"
+            }
+          ],
+          "startDate": "1970-06-13"
+        },
+        {
+          "endDate": "1970-08-14",
+          "items": [
+            {
+              "artist": "Simon and Garfunkel",
+              "rank": 1,
+              "title": "El Condor Pasa"
+            }
+          ],
+          "startDate": "1970-06-27"
+        },
+        {
+          "endDate": "1970-10-02",
+          "items": [
+            {
+              "artist": "Mungo Jerry",
+              "rank": 1,
+              "title": "In the Summertime"
+            }
+          ],
+          "startDate": "1970-08-15"
+        },
+        {
+          "endDate": "1970-12-18",
+          "items": [
+            {
+              "artist": "Miguel Ríos",
+              "rank": 1,
+              "title": "A Song of Joy"
+            }
+          ],
+          "startDate": "1970-10-03"
+        },
+        {
+          "endDate": "1970-12-31",
+          "items": [
+            {
+              "artist": "Black Sabbath",
+              "rank": 1,
+              "title": "Paranoid"
+            }
+          ],
+          "startDate": "1970-12-19"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "eec9138d3fbc07186ffc06a24d5a7f445fee4dd297dbbbd4862947476f0312d7",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1970
+}

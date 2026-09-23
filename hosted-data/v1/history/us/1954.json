@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1954-01-01",
+          "items": [
+            {
+              "artist": "Tony Bennett",
+              "rank": 1,
+              "title": "Rags To Riches"
+            }
+          ],
+          "startDate": "1954-01-01"
+        },
+        {
+          "endDate": "1954-02-26",
+          "items": [
+            {
+              "artist": "Eddie Fisher",
+              "rank": 1,
+              "title": "Oh! My Pa-pa"
+            }
+          ],
+          "startDate": "1954-01-02"
+        },
+        {
+          "endDate": "1954-03-12",
+          "items": [
+            {
+              "artist": "Doris Day",
+              "rank": 1,
+              "title": "Secret Love"
+            }
+          ],
+          "startDate": "1954-02-27"
+        },
+        {
+          "endDate": "1954-04-02",
+          "items": [
+            {
+              "artist": "Jo Stafford",
+              "rank": 1,
+              "title": "Make Love To Me!"
+            }
+          ],
+          "startDate": "1954-03-20"
+        },
+        {
+          "endDate": "1954-06-04",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Wanted"
+            }
+          ],
+          "startDate": "1954-04-10"
+        },
+        {
+          "endDate": "1954-08-06",
+          "items": [
+            {
+              "artist": "Kitty Kallen",
+              "rank": 1,
+              "title": "Little Things Mean A Lot\"♪"
+            }
+          ],
+          "startDate": "1954-06-05"
+        },
+        {
+          "endDate": "1954-09-24",
+          "items": [
+            {
+              "artist": "The Crew Cuts",
+              "rank": 1,
+              "title": "Sh-Boom"
+            }
+          ],
+          "startDate": "1954-08-07"
+        },
+        {
+          "endDate": "1954-11-05",
+          "items": [
+            {
+              "artist": "Rosemary Clooney",
+              "rank": 1,
+              "title": "Hey There"
+            }
+          ],
+          "startDate": "1954-09-25"
+        },
+        {
+          "endDate": "1954-11-12",
+          "items": [
+            {
+              "artist": "Rosemary Clooney",
+              "rank": 1,
+              "title": "This Ole House"
+            }
+          ],
+          "startDate": "1954-11-06"
+        },
+        {
+          "endDate": "1954-12-03",
+          "items": [
+            {
+              "artist": "Eddie Fisher",
+              "rank": 1,
+              "title": "I Need You Now"
+            }
+          ],
+          "startDate": "1954-11-13"
+        },
+        {
+          "endDate": "1954-12-31",
+          "items": [
+            {
+              "artist": "The Chordettes",
+              "rank": 1,
+              "title": "Mr. Sandman"
+            }
+          ],
+          "startDate": "1954-12-04"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "dc980eeb7d1004809a39688cdc0e269de3ddf9a0111d8214a0a32dd9d7e0ecd2",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1954
+}

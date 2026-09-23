@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1995-01-08",
+          "items": [
+            {
+              "artist": "Bon Jovi",
+              "rank": 1,
+              "title": "Always"
+            }
+          ],
+          "startDate": "1995-01-01"
+        },
+        {
+          "endDate": "1995-01-29",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "On Bended Knee"
+            }
+          ],
+          "startDate": "1995-01-09"
+        },
+        {
+          "endDate": "1995-02-19",
+          "items": [
+            {
+              "artist": "Jann Arden",
+              "rank": 1,
+              "title": "Insensitive"
+            }
+          ],
+          "startDate": "1995-01-30"
+        },
+        {
+          "endDate": "1995-03-05",
+          "items": [
+            {
+              "artist": "R.E.M.",
+              "rank": 1,
+              "title": "Bang and Blame"
+            }
+          ],
+          "startDate": "1995-02-20"
+        },
+        {
+          "endDate": "1995-03-19",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Take a Bow"
+            }
+          ],
+          "startDate": "1995-03-06"
+        },
+        {
+          "endDate": "1995-04-09",
+          "items": [
+            {
+              "artist": "Sheryl Crow",
+              "rank": 1,
+              "title": "Strong Enough"
+            }
+          ],
+          "startDate": "1995-03-20"
+        },
+        {
+          "endDate": "1995-04-16",
+          "items": [
+            {
+              "artist": "Dionne Farris",
+              "rank": 1,
+              "title": "I Know"
+            }
+          ],
+          "startDate": "1995-04-10"
+        },
+        {
+          "endDate": "1995-05-14",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1995-04-17"
+        },
+        {
+          "endDate": "1995-05-28",
+          "items": [
+            {
+              "artist": "Annie Lennox",
+              "rank": 1,
+              "title": "No More 'I Love You's"
+            }
+          ],
+          "startDate": "1995-05-15"
+        },
+        {
+          "endDate": "1995-06-10",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "Have You Ever Really Loved a Woman?"
+            }
+          ],
+          "startDate": "1995-05-29"
+        },
+        {
+          "endDate": "1995-06-11",
+          "items": [
+            {
+              "artist": "White Zombie",
+              "rank": 1,
+              "title": "More Human than Human"
+            }
+          ],
+          "startDate": "1995-06-11"
+        },
+        {
+          "endDate": "1995-06-18",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "Have You Ever Really Loved a Woman?"
+            }
+          ],
+          "startDate": "1995-06-12"
+        },
+        {
+          "endDate": "1995-12-31",
+          "items": [
+            {
+              "artist": "Alanis Morissette",
+              "rank": 1,
+              "title": "Hand in My Pocket"
+            }
+          ],
+          "startDate": "1995-12-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "6a7444bf1ef15ae5f397a73fa509194e7712e8affaced0acd229b28d1fed1fab",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1995
+}

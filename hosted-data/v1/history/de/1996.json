@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1996-01-07",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1996-01-01"
+        },
+        {
+          "endDate": "1996-01-21",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Earth Song"
+            }
+          ],
+          "startDate": "1996-01-08"
+        },
+        {
+          "endDate": "1996-02-04",
+          "items": [
+            {
+              "artist": "Coolio featuring L.V.",
+              "rank": 1,
+              "title": "Gangsta's Paradise"
+            }
+          ],
+          "startDate": "1996-01-22"
+        },
+        {
+          "endDate": "1996-02-18",
+          "items": [
+            {
+              "artist": "Everything but the Girl",
+              "rank": 1,
+              "title": "Missing"
+            }
+          ],
+          "startDate": "1996-02-05"
+        },
+        {
+          "endDate": "1996-02-25",
+          "items": [
+            {
+              "artist": "Babylon Zoo",
+              "rank": 1,
+              "title": "Spaceman"
+            }
+          ],
+          "startDate": "1996-02-19"
+        },
+        {
+          "endDate": "1996-03-24",
+          "items": [
+            {
+              "artist": "Fools Garden",
+              "rank": 1,
+              "title": "Lemon Tree"
+            }
+          ],
+          "startDate": "1996-02-26"
+        },
+        {
+          "endDate": "1996-05-12",
+          "items": [
+            {
+              "artist": "Robert Miles",
+              "rank": 1,
+              "title": "Children"
+            }
+          ],
+          "startDate": "1996-03-25"
+        },
+        {
+          "endDate": "1996-06-02",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "They Don't Care About Us"
+            }
+          ],
+          "startDate": "1996-05-13"
+        },
+        {
+          "endDate": "1996-06-30",
+          "items": [
+            {
+              "artist": "Los del Rio",
+              "rank": 1,
+              "title": "Macarena"
+            }
+          ],
+          "startDate": "1996-06-03"
+        },
+        {
+          "endDate": "1996-08-25",
+          "items": [
+            {
+              "artist": "The Fugees",
+              "rank": 1,
+              "title": "Killing Me Softly\" †"
+            }
+          ],
+          "startDate": "1996-07-01"
+        },
+        {
+          "endDate": "1996-09-01",
+          "items": [
+            {
+              "artist": "The Kelly Family",
+              "rank": 1,
+              "title": "I Can't Help Myself"
+            }
+          ],
+          "startDate": "1996-08-26"
+        },
+        {
+          "endDate": "1996-09-08",
+          "items": [
+            {
+              "artist": "The Fugees",
+              "rank": 1,
+              "title": "Killing Me Softly\" †"
+            }
+          ],
+          "startDate": "1996-09-02"
+        },
+        {
+          "endDate": "1996-09-15",
+          "items": [
+            {
+              "artist": "The Kelly Family",
+              "rank": 1,
+              "title": "I Can't Help Myself"
+            }
+          ],
+          "startDate": "1996-09-09"
+        },
+        {
+          "endDate": "1996-10-13",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Wannabe"
+            }
+          ],
+          "startDate": "1996-09-16"
+        },
+        {
+          "endDate": "1996-11-10",
+          "items": [
+            {
+              "artist": "Die Toten Hosen",
+              "rank": 1,
+              "title": "Zehn kleine Jägermeister"
+            }
+          ],
+          "startDate": "1996-10-14"
+        },
+        {
+          "endDate": "1996-12-08",
+          "items": [
+            {
+              "artist": "Backstreet Boys",
+              "rank": 1,
+              "title": "Quit Playing Games"
+            }
+          ],
+          "startDate": "1996-11-11"
+        },
+        {
+          "endDate": "1996-12-15",
+          "items": [
+            {
+              "artist": "Tic Tac Toe",
+              "rank": 1,
+              "title": "Verpiss' dich"
+            }
+          ],
+          "startDate": "1996-12-09"
+        },
+        {
+          "endDate": "1996-12-29",
+          "items": [
+            {
+              "artist": "Andrea Bocelli and Sarah Brightman",
+              "rank": 1,
+              "title": "Time to Say Goodbye"
+            }
+          ],
+          "startDate": "1996-12-16"
+        },
+        {
+          "endDate": "1996-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1996-12-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "68bc123561d70b428baa4de1aa09ba8053a5584f2b00ea165aa44e5f16875dc1",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1996
+}

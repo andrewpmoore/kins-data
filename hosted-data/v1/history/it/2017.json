@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2017-01-05",
+          "items": [
+            {
+              "artist": "Clean Bandit featuring Sean Paul and Anne-Marie",
+              "rank": 1,
+              "title": "Rockabye"
+            }
+          ],
+          "startDate": "2017-01-01"
+        },
+        {
+          "endDate": "2017-02-09",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "Shape of You"
+            }
+          ],
+          "startDate": "2017-01-06"
+        },
+        {
+          "endDate": "2017-03-02",
+          "items": [
+            {
+              "artist": "Francesco Gabbani",
+              "rank": 1,
+              "title": "Occidentali's Karma"
+            }
+          ],
+          "startDate": "2017-02-10"
+        },
+        {
+          "endDate": "2017-03-16",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "Shape of You"
+            }
+          ],
+          "startDate": "2017-03-03"
+        },
+        {
+          "endDate": "2017-06-08",
+          "items": [
+            {
+              "artist": "Luis Fonsi featuring Daddy Yankee",
+              "rank": 1,
+              "title": "Despacito"
+            }
+          ],
+          "startDate": "2017-03-17"
+        },
+        {
+          "endDate": "2017-06-15",
+          "items": [
+            {
+              "artist": "Sfera Ebbasta",
+              "rank": 1,
+              "title": "Tran tran"
+            }
+          ],
+          "startDate": "2017-06-09"
+        },
+        {
+          "endDate": "2017-06-29",
+          "items": [
+            {
+              "artist": "Luis Fonsi featuring Daddy Yankee",
+              "rank": 1,
+              "title": "Despacito"
+            }
+          ],
+          "startDate": "2017-06-16"
+        },
+        {
+          "endDate": "2017-08-03",
+          "items": [
+            {
+              "artist": "J-Ax and Fedez featuring T-Pain",
+              "rank": 1,
+              "title": "Senza pagare"
+            }
+          ],
+          "startDate": "2017-06-30"
+        },
+        {
+          "endDate": "2017-08-10",
+          "items": [
+            {
+              "artist": "Thegiornalisti",
+              "rank": 1,
+              "title": "Riccione"
+            }
+          ],
+          "startDate": "2017-08-04"
+        },
+        {
+          "endDate": "2017-09-14",
+          "items": [
+            {
+              "artist": "J-Ax and Fedez featuring T-Pain",
+              "rank": 1,
+              "title": "Senza pagare"
+            }
+          ],
+          "startDate": "2017-08-11"
+        },
+        {
+          "endDate": "2017-09-21",
+          "items": [
+            {
+              "artist": "J Balvin and Willy William",
+              "rank": 1,
+              "title": "Mi Gente"
+            }
+          ],
+          "startDate": "2017-09-15"
+        },
+        {
+          "endDate": "2017-09-28",
+          "items": [
+            {
+              "artist": "Guè Pequeno featuring Sfera Ebbasta",
+              "rank": 1,
+              "title": "Lamborghini"
+            }
+          ],
+          "startDate": "2017-09-22"
+        },
+        {
+          "endDate": "2017-11-23",
+          "items": [
+            {
+              "artist": "Coez",
+              "rank": 1,
+              "title": "La musica non c'è"
+            }
+          ],
+          "startDate": "2017-09-29"
+        },
+        {
+          "endDate": "2017-11-30",
+          "items": [
+            {
+              "artist": "Salmo",
+              "rank": 1,
+              "title": "Perdonami"
+            }
+          ],
+          "startDate": "2017-11-24"
+        },
+        {
+          "endDate": "2017-12-31",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "Perfect"
+            }
+          ],
+          "startDate": "2017-12-01"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2021-12-24",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "0b8535433a50552ec9071310bd3431324ebd15aa4ed62858df85a369c9aaddb0",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2017
+}

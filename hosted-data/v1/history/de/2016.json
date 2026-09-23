@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2016-01-14",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Hello"
+            }
+          ],
+          "startDate": "2016-01-01"
+        },
+        {
+          "endDate": "2016-01-21",
+          "items": [
+            {
+              "artist": "Matt Simons",
+              "rank": 1,
+              "title": "Catch & Release"
+            }
+          ],
+          "startDate": "2016-01-15"
+        },
+        {
+          "endDate": "2016-02-11",
+          "items": [
+            {
+              "artist": "EFF",
+              "rank": 1,
+              "title": "Stimme"
+            }
+          ],
+          "startDate": "2016-01-22"
+        },
+        {
+          "endDate": "2016-04-21",
+          "items": [
+            {
+              "artist": "Alan Walker",
+              "rank": 1,
+              "title": "Faded\" †"
+            }
+          ],
+          "startDate": "2016-02-12"
+        },
+        {
+          "endDate": "2016-05-05",
+          "items": [
+            {
+              "artist": "Sia featuring Sean Paul",
+              "rank": 1,
+              "title": "Cheap Thrills"
+            }
+          ],
+          "startDate": "2016-04-22"
+        },
+        {
+          "endDate": "2016-05-12",
+          "items": [
+            {
+              "artist": "Drake featuring Wizkid & Kyla",
+              "rank": 1,
+              "title": "One Dance"
+            }
+          ],
+          "startDate": "2016-05-06"
+        },
+        {
+          "endDate": "2016-05-19",
+          "items": [
+            {
+              "artist": "Prince Damien",
+              "rank": 1,
+              "title": "Glücksmoment"
+            }
+          ],
+          "startDate": "2016-05-13"
+        },
+        {
+          "endDate": "2016-06-09",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "Can't Stop the Feeling!"
+            }
+          ],
+          "startDate": "2016-05-20"
+        },
+        {
+          "endDate": "2016-06-16",
+          "items": [
+            {
+              "artist": "Kungs vs. Cookin' on 3 Burners",
+              "rank": 1,
+              "title": "This Girl"
+            }
+          ],
+          "startDate": "2016-06-10"
+        },
+        {
+          "endDate": "2016-06-23",
+          "items": [
+            {
+              "artist": "David Guetta featuring Zara Larsson",
+              "rank": 1,
+              "title": "This One's for You"
+            }
+          ],
+          "startDate": "2016-06-17"
+        },
+        {
+          "endDate": "2016-07-07",
+          "items": [
+            {
+              "artist": "Kungs vs. Cookin' on 3 Burners",
+              "rank": 1,
+              "title": "This Girl"
+            }
+          ],
+          "startDate": "2016-06-24"
+        },
+        {
+          "endDate": "2016-09-15",
+          "items": [
+            {
+              "artist": "Imany",
+              "rank": 1,
+              "title": "Don't Be So Shy"
+            }
+          ],
+          "startDate": "2016-07-08"
+        },
+        {
+          "endDate": "2016-09-29",
+          "items": [
+            {
+              "artist": "DJ Snake featuring Justin Bieber",
+              "rank": 1,
+              "title": "Let Me Love You"
+            }
+          ],
+          "startDate": "2016-09-16"
+        },
+        {
+          "endDate": "2016-12-15",
+          "items": [
+            {
+              "artist": "Rag'n'Bone Man",
+              "rank": 1,
+              "title": "Human"
+            }
+          ],
+          "startDate": "2016-09-30"
+        },
+        {
+          "endDate": "2016-12-22",
+          "items": [
+            {
+              "artist": "Clean Bandit featuring Sean Paul & Anne-Marie",
+              "rank": 1,
+              "title": "Rockabye"
+            }
+          ],
+          "startDate": "2016-12-16"
+        },
+        {
+          "endDate": "2016-12-29",
+          "items": [
+            {
+              "artist": "Rag'n'Bone Man",
+              "rank": 1,
+              "title": "Human"
+            }
+          ],
+          "startDate": "2016-12-23"
+        },
+        {
+          "endDate": "2016-12-31",
+          "items": [
+            {
+              "artist": "Clean Bandit featuring Sean Paul & Anne-Marie",
+              "rank": 1,
+              "title": "Rockabye"
+            }
+          ],
+          "startDate": "2016-12-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "dd41b4191853f492dcdbc64abde4b7b1a9bb4b46cfbba8813440f364bc424bf4",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2016
+}

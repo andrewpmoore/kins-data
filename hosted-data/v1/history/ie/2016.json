@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2016-01-06",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Love Yourself"
+            }
+          ],
+          "startDate": "2016-01-01"
+        },
+        {
+          "endDate": "2016-03-23",
+          "items": [
+            {
+              "artist": "Lukas Graham",
+              "rank": 1,
+              "title": "7 Years"
+            }
+          ],
+          "startDate": "2016-02-18"
+        },
+        {
+          "endDate": "2016-03-30",
+          "items": [
+            {
+              "artist": "Mike Posner",
+              "rank": 1,
+              "title": "I Took a Pill in Ibiza"
+            }
+          ],
+          "startDate": "2016-03-24"
+        },
+        {
+          "endDate": "2016-05-04",
+          "items": [
+            {
+              "artist": "Sia featuring Sean Paul",
+              "rank": 1,
+              "title": "Cheap Thrills"
+            }
+          ],
+          "startDate": "2016-03-31"
+        },
+        {
+          "endDate": "2016-05-11",
+          "items": [
+            {
+              "artist": "Drake featuring Wizkid and Kyla",
+              "rank": 1,
+              "title": "One Dance"
+            }
+          ],
+          "startDate": "2016-05-05"
+        },
+        {
+          "endDate": "2016-05-18",
+          "items": [
+            {
+              "artist": "Calvin Harris featuring Rihanna",
+              "rank": 1,
+              "title": "This Is What You Came For"
+            }
+          ],
+          "startDate": "2016-05-12"
+        },
+        {
+          "endDate": "2016-07-27",
+          "items": [
+            {
+              "artist": "Drake featuring Wizkid and Kyla",
+              "rank": 1,
+              "title": "One Dance"
+            }
+          ],
+          "startDate": "2016-05-19"
+        },
+        {
+          "endDate": "2016-08-31",
+          "items": [
+            {
+              "artist": "Major Lazer featuring Justin Bieber and MØ",
+              "rank": 1,
+              "title": "Cold Water"
+            }
+          ],
+          "startDate": "2016-07-28"
+        },
+        {
+          "endDate": "2016-10-12",
+          "items": [
+            {
+              "artist": "The Chainsmokers featuring Halsey",
+              "rank": 1,
+              "title": "Closer"
+            }
+          ],
+          "startDate": "2016-09-01"
+        },
+        {
+          "endDate": "2016-10-26",
+          "items": [
+            {
+              "artist": "James Arthur",
+              "rank": 1,
+              "title": "Say You Won't Let Go"
+            }
+          ],
+          "startDate": "2016-10-13"
+        },
+        {
+          "endDate": "2016-11-02",
+          "items": [
+            {
+              "artist": "Little Mix",
+              "rank": 1,
+              "title": "Shout Out to My Ex"
+            }
+          ],
+          "startDate": "2016-10-27"
+        },
+        {
+          "endDate": "2016-11-16",
+          "items": [
+            {
+              "artist": "James Arthur",
+              "rank": 1,
+              "title": "Say You Won't Let Go"
+            }
+          ],
+          "startDate": "2016-11-03"
+        },
+        {
+          "endDate": "2016-12-31",
+          "items": [
+            {
+              "artist": "Clean Bandit featuring Sean Paul and Anne-Marie",
+              "rank": 1,
+              "title": "Rockabye"
+            }
+          ],
+          "startDate": "2016-11-17"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5662aceb0013384d28151772b3c822cc97befb62a8bfc8d969347c9ae1ffc5b4",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2016
+}

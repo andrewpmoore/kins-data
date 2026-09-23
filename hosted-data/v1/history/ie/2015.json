@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2015-02-04",
+          "items": [
+            {
+              "artist": "Mark Ronson featuring Bruno Mars",
+              "rank": 1,
+              "title": "Uptown Funk"
+            }
+          ],
+          "startDate": "2015-01-01"
+        },
+        {
+          "endDate": "2015-03-18",
+          "items": [
+            {
+              "artist": "Ellie Goulding",
+              "rank": 1,
+              "title": "Love Me like You Do"
+            }
+          ],
+          "startDate": "2015-02-05"
+        },
+        {
+          "endDate": "2015-03-25",
+          "items": [
+            {
+              "artist": "Rihanna, Kanye West and Paul McCartney",
+              "rank": 1,
+              "title": "FourFiveSeconds"
+            }
+          ],
+          "startDate": "2015-03-19"
+        },
+        {
+          "endDate": "2015-04-01",
+          "items": [
+            {
+              "artist": "James Bay",
+              "rank": 1,
+              "title": "Hold Back the River"
+            }
+          ],
+          "startDate": "2015-03-26"
+        },
+        {
+          "endDate": "2015-04-08",
+          "items": [
+            {
+              "artist": "Hometown",
+              "rank": 1,
+              "title": "Cry for Help"
+            }
+          ],
+          "startDate": "2015-04-02"
+        },
+        {
+          "endDate": "2015-04-15",
+          "items": [
+            {
+              "artist": "OMI",
+              "rank": 1,
+              "title": "Cheerleader"
+            }
+          ],
+          "startDate": "2015-04-09"
+        },
+        {
+          "endDate": "2015-05-13",
+          "items": [
+            {
+              "artist": "Wiz Khalifa featuring Charlie Puth",
+              "rank": 1,
+              "title": "See You Again"
+            }
+          ],
+          "startDate": "2015-04-16"
+        },
+        {
+          "endDate": "2015-06-10",
+          "items": [
+            {
+              "artist": "OMI",
+              "rank": 1,
+              "title": "Cheerleader"
+            }
+          ],
+          "startDate": "2015-05-14"
+        },
+        {
+          "endDate": "2015-07-08",
+          "items": [
+            {
+              "artist": "Major Lazer and DJ Snake featuring MØ",
+              "rank": 1,
+              "title": "Lean On"
+            }
+          ],
+          "startDate": "2015-06-11"
+        },
+        {
+          "endDate": "2015-08-05",
+          "items": [
+            {
+              "artist": "Lost Frequencies",
+              "rank": 1,
+              "title": "Are You with Me"
+            }
+          ],
+          "startDate": "2015-07-09"
+        },
+        {
+          "endDate": "2015-08-12",
+          "items": [
+            {
+              "artist": "One Direction",
+              "rank": 1,
+              "title": "Drag Me Down"
+            }
+          ],
+          "startDate": "2015-08-06"
+        },
+        {
+          "endDate": "2015-08-19",
+          "items": [
+            {
+              "artist": "Charlie Puth featuring Meghan Trainor",
+              "rank": 1,
+              "title": "Marvin Gaye"
+            }
+          ],
+          "startDate": "2015-08-13"
+        },
+        {
+          "endDate": "2015-09-02",
+          "items": [
+            {
+              "artist": "The Weeknd",
+              "rank": 1,
+              "title": "Can't Feel My Face"
+            }
+          ],
+          "startDate": "2015-08-20"
+        },
+        {
+          "endDate": "2015-10-21",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "What Do You Mean?"
+            }
+          ],
+          "startDate": "2015-09-03"
+        },
+        {
+          "endDate": "2015-10-28",
+          "items": [
+            {
+              "artist": "One Direction",
+              "rank": 1,
+              "title": "Perfect"
+            }
+          ],
+          "startDate": "2015-10-22"
+        },
+        {
+          "endDate": "2015-11-25",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Hello"
+            }
+          ],
+          "startDate": "2015-10-29"
+        },
+        {
+          "endDate": "2015-12-09",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Sorry"
+            }
+          ],
+          "startDate": "2015-11-26"
+        },
+        {
+          "endDate": "2015-12-31",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Love Yourself"
+            }
+          ],
+          "startDate": "2015-12-10"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "815734c4295b36a3b4607bbdd840fce718a2c3d290dae26a277a0e938b050f49",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2015
+}

@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2019-01-04",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "Thank U, Next"
+            }
+          ],
+          "startDate": "2019-01-01"
+        },
+        {
+          "endDate": "2019-01-18",
+          "items": [
+            {
+              "artist": "Halsey",
+              "rank": 1,
+              "title": "Without Me"
+            }
+          ],
+          "startDate": "2019-01-12"
+        },
+        {
+          "endDate": "2019-03-08",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "7 Rings"
+            }
+          ],
+          "startDate": "2019-02-02"
+        },
+        {
+          "endDate": "2019-03-29",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "7 Rings"
+            }
+          ],
+          "startDate": "2019-03-23"
+        },
+        {
+          "endDate": "2019-08-23",
+          "items": [
+            {
+              "artist": "Lil Nas X / Lil Nas X featuring Billy Ray Cyrus2",
+              "rank": 1,
+              "title": "Old Town Road\" ♪"
+            }
+          ],
+          "startDate": "2019-04-13"
+        },
+        {
+          "endDate": "2019-08-30",
+          "items": [
+            {
+              "artist": "Billie Eilish",
+              "rank": 1,
+              "title": "Bad Guy"
+            }
+          ],
+          "startDate": "2019-08-24"
+        },
+        {
+          "endDate": "2019-09-06",
+          "items": [
+            {
+              "artist": "Shawn Mendes and Camila Cabello",
+              "rank": 1,
+              "title": "Señorita"
+            }
+          ],
+          "startDate": "2019-08-31"
+        },
+        {
+          "endDate": "2019-10-18",
+          "items": [
+            {
+              "artist": "Lizzo",
+              "rank": 1,
+              "title": "Truth Hurts"
+            }
+          ],
+          "startDate": "2019-09-07"
+        },
+        {
+          "endDate": "2019-11-08",
+          "items": [
+            {
+              "artist": "Lewis Capaldi",
+              "rank": 1,
+              "title": "Someone You Loved"
+            }
+          ],
+          "startDate": "2019-11-02"
+        },
+        {
+          "endDate": "2019-11-22",
+          "items": [
+            {
+              "artist": "Lewis Capaldi",
+              "rank": 1,
+              "title": "Someone You Loved"
+            }
+          ],
+          "startDate": "2019-11-16"
+        },
+        {
+          "endDate": "2019-12-13",
+          "items": [
+            {
+              "artist": "Post Malone",
+              "rank": 1,
+              "title": "Circles"
+            }
+          ],
+          "startDate": "2019-11-30"
+        },
+        {
+          "endDate": "2019-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2019-12-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "eee1a4f0427cb803202936c66b10842a6adedfb6da0adde72474193c6918b36a",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2019
+}

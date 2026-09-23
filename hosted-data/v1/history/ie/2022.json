@@ -1,0 +1,88 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2022-02-03",
+          "items": [
+            {
+              "artist": "Gayle",
+              "rank": 1,
+              "title": "ABCDEFU"
+            }
+          ],
+          "startDate": "2022-01-21"
+        },
+        {
+          "endDate": "2022-07-14",
+          "items": [
+            {
+              "artist": "Kate Bush",
+              "rank": 1,
+              "title": "Running Up That Hill"
+            }
+          ],
+          "startDate": "2022-07-08"
+        },
+        {
+          "endDate": "2022-08-11",
+          "items": [
+            {
+              "artist": "Beyoncé",
+              "rank": 1,
+              "title": "Break My Soul"
+            }
+          ],
+          "startDate": "2022-08-05"
+        },
+        {
+          "endDate": "2022-09-01",
+          "items": [
+            {
+              "artist": "Eliza Rose and Interplanetary Criminal",
+              "rank": 1,
+              "title": "B.O.T.A."
+            }
+          ],
+          "startDate": "2022-08-26"
+        },
+        {
+          "endDate": "2022-09-29",
+          "items": [
+            {
+              "artist": "Eliza Rose and Interplanetary Criminal",
+              "rank": 1,
+              "title": "B.O.T.A."
+            }
+          ],
+          "startDate": "2022-09-23"
+        },
+        {
+          "endDate": "2022-12-29",
+          "items": [
+            {
+              "artist": "Raye featuring 070 Shake",
+              "rank": 1,
+              "title": "Escapism"
+            }
+          ],
+          "startDate": "2022-12-23"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f8f072237a8e6071269f385850238c9240d413cf1813e6c9c7cad38865b1e421",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2022
+}

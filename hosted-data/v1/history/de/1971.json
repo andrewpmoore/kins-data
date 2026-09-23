@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1971-01-28",
+          "items": [
+            {
+              "artist": "Miguel Ríos",
+              "rank": 1,
+              "title": "A Song of Joy"
+            }
+          ],
+          "startDate": "1971-01-01"
+        },
+        {
+          "endDate": "1971-04-07",
+          "items": [
+            {
+              "artist": "George Harrison",
+              "rank": 1,
+              "title": "My Sweet Lord"
+            }
+          ],
+          "startDate": "1971-01-29"
+        },
+        {
+          "endDate": "1971-04-15",
+          "items": [
+            {
+              "artist": "Lynn Anderson",
+              "rank": 1,
+              "title": "Rose Garden"
+            }
+          ],
+          "startDate": "1971-04-09"
+        },
+        {
+          "endDate": "1971-04-22",
+          "items": [
+            {
+              "artist": "Creedence Clearwater Revival",
+              "rank": 1,
+              "title": "Hey Tonight"
+            }
+          ],
+          "startDate": "1971-04-16"
+        },
+        {
+          "endDate": "1971-05-20",
+          "items": [
+            {
+              "artist": "Lynn Anderson",
+              "rank": 1,
+              "title": "Rose Garden"
+            }
+          ],
+          "startDate": "1971-04-23"
+        },
+        {
+          "endDate": "1971-08-26",
+          "items": [
+            {
+              "artist": "Danyel Gérard",
+              "rank": 1,
+              "title": "Butterfly"
+            }
+          ],
+          "startDate": "1971-05-21"
+        },
+        {
+          "endDate": "1971-10-07",
+          "items": [
+            {
+              "artist": "The Sweet",
+              "rank": 1,
+              "title": "Co-Co"
+            }
+          ],
+          "startDate": "1971-08-27"
+        },
+        {
+          "endDate": "1971-10-14",
+          "items": [
+            {
+              "artist": "Danyel Gérard",
+              "rank": 1,
+              "title": "Butterfly"
+            }
+          ],
+          "startDate": "1971-10-08"
+        },
+        {
+          "endDate": "1971-10-21",
+          "items": [
+            {
+              "artist": "The Sweet",
+              "rank": 1,
+              "title": "Co-Co"
+            }
+          ],
+          "startDate": "1971-10-15"
+        },
+        {
+          "endDate": "1971-11-04",
+          "items": [
+            {
+              "artist": "Peret",
+              "rank": 1,
+              "title": "Borriquito"
+            }
+          ],
+          "startDate": "1971-10-22"
+        },
+        {
+          "endDate": "1971-12-31",
+          "items": [
+            {
+              "artist": "Pop Tops",
+              "rank": 1,
+              "title": "Mamy Blue"
+            }
+          ],
+          "startDate": "1971-11-05"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "303246a5171d80877f4c53fa55ca227e286b74e9c21afe0a4554d71eadca86cd",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1971
+}

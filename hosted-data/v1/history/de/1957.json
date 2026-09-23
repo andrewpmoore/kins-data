@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1957-01-18",
+          "items": [
+            {
+              "artist": "Die Sieben Raben",
+              "rank": 1,
+              "title": "Smoky"
+            }
+          ],
+          "startDate": "1957-01-01"
+        },
+        {
+          "endDate": "1957-02-01",
+          "items": [
+            {
+              "artist": "Club Argentina",
+              "rank": 1,
+              "title": "Oh Billy Boy"
+            }
+          ],
+          "startDate": "1957-01-19"
+        },
+        {
+          "endDate": "1957-02-15",
+          "items": [
+            {
+              "artist": "Lukas-Trio",
+              "rank": 1,
+              "title": "Sei zufrieden"
+            }
+          ],
+          "startDate": "1957-02-02"
+        },
+        {
+          "endDate": "1957-03-08",
+          "items": [
+            {
+              "artist": "Peter Alexander",
+              "rank": 1,
+              "title": "Ich weiß was dir fehlt"
+            }
+          ],
+          "startDate": "1957-02-16"
+        },
+        {
+          "endDate": "1957-03-29",
+          "items": [
+            {
+              "artist": "Wolfgang Sauer",
+              "rank": 1,
+              "title": "Cindy, Oh Cindy"
+            }
+          ],
+          "startDate": "1957-03-09"
+        },
+        {
+          "endDate": "1957-06-07",
+          "items": [
+            {
+              "artist": "Margot Eskens",
+              "rank": 1,
+              "title": "Cindy, Oh Cindy"
+            }
+          ],
+          "startDate": "1957-03-30"
+        },
+        {
+          "endDate": "1957-07-12",
+          "items": [
+            {
+              "artist": "Freddy Quinn",
+              "rank": 1,
+              "title": "Heimatlos"
+            }
+          ],
+          "startDate": "1957-06-08"
+        },
+        {
+          "endDate": "1957-10-11",
+          "items": [
+            {
+              "artist": "Harry Belafonte",
+              "rank": 1,
+              "title": "Banana Boat Song"
+            }
+          ],
+          "startDate": "1957-07-13"
+        },
+        {
+          "endDate": "1957-11-15",
+          "items": [
+            {
+              "artist": "Die Heimatsänger",
+              "rank": 1,
+              "title": "Köhlerliesel"
+            }
+          ],
+          "startDate": "1957-10-12"
+        },
+        {
+          "endDate": "1957-12-20",
+          "items": [
+            {
+              "artist": "Vico Torriani",
+              "rank": 1,
+              "title": "Siebenmal in der Woche"
+            }
+          ],
+          "startDate": "1957-11-16"
+        },
+        {
+          "endDate": "1957-12-31",
+          "items": [
+            {
+              "artist": "Caterina Valente",
+              "rank": 1,
+              "title": "Wo meine Sonne scheint"
+            }
+          ],
+          "startDate": "1957-12-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "50c194403a0ab678825e14f5c4825e6b3d777b17e6ee7add850be89168b1e5dc",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1957
+}

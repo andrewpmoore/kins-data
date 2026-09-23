@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2006-01-10",
+          "items": [
+            {
+              "artist": "Shayne Ward",
+              "rank": 1,
+              "title": "That's My Goal"
+            }
+          ],
+          "startDate": "2006-01-01"
+        },
+        {
+          "endDate": "2006-01-24",
+          "items": [
+            {
+              "artist": "Nizlopi",
+              "rank": 1,
+              "title": "JCB"
+            }
+          ],
+          "startDate": "2006-01-11"
+        },
+        {
+          "endDate": "2006-02-07",
+          "items": [
+            {
+              "artist": "The Notorious B.I.G. featuring Diddy, Nelly, Jagged Edge and Avery Storm",
+              "rank": 1,
+              "title": "Nasty Girl"
+            }
+          ],
+          "startDate": "2006-01-25"
+        },
+        {
+          "endDate": "2006-02-14",
+          "items": [
+            {
+              "artist": "The Ordinary Boys",
+              "rank": 1,
+              "title": "Boys Will Be Boys"
+            }
+          ],
+          "startDate": "2006-02-08"
+        },
+        {
+          "endDate": "2006-02-28",
+          "items": [
+            {
+              "artist": "Meck featuring Leo Sayer",
+              "rank": 1,
+              "title": "Thunder in My Heart Again"
+            }
+          ],
+          "startDate": "2006-02-15"
+        },
+        {
+          "endDate": "2006-03-14",
+          "items": [
+            {
+              "artist": "Corinne Bailey Rae",
+              "rank": 1,
+              "title": "Put Your Records On"
+            }
+          ],
+          "startDate": "2006-03-01"
+        },
+        {
+          "endDate": "2006-03-21",
+          "items": [
+            {
+              "artist": "Orson",
+              "rank": 1,
+              "title": "No Tomorrow"
+            }
+          ],
+          "startDate": "2006-03-15"
+        },
+        {
+          "endDate": "2006-06-06",
+          "items": [
+            {
+              "artist": "Gnarls Barkley",
+              "rank": 1,
+              "title": "Crazy"
+            }
+          ],
+          "startDate": "2006-03-22"
+        },
+        {
+          "endDate": "2006-06-13",
+          "items": [
+            {
+              "artist": "Sandi Thom",
+              "rank": 1,
+              "title": "I Wish I Was a Punk Rocker"
+            }
+          ],
+          "startDate": "2006-06-07"
+        },
+        {
+          "endDate": "2006-07-11",
+          "items": [
+            {
+              "artist": "Nelly Furtado",
+              "rank": 1,
+              "title": "Maneater"
+            }
+          ],
+          "startDate": "2006-06-14"
+        },
+        {
+          "endDate": "2006-08-08",
+          "items": [
+            {
+              "artist": "Shakira featuring Wyclef Jean",
+              "rank": 1,
+              "title": "Hips Don't Lie"
+            }
+          ],
+          "startDate": "2006-07-12"
+        },
+        {
+          "endDate": "2006-08-15",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "SexyBack"
+            }
+          ],
+          "startDate": "2006-08-09"
+        },
+        {
+          "endDate": "2006-08-22",
+          "items": [
+            {
+              "artist": "Shakira featuring Wyclef Jean",
+              "rank": 1,
+              "title": "Hips Don't Lie"
+            }
+          ],
+          "startDate": "2006-08-16"
+        },
+        {
+          "endDate": "2006-10-10",
+          "items": [
+            {
+              "artist": "Scissor Sisters",
+              "rank": 1,
+              "title": "I Don't Feel Like Dancin'"
+            }
+          ],
+          "startDate": "2006-08-23"
+        },
+        {
+          "endDate": "2006-10-31",
+          "items": [
+            {
+              "artist": "Razorlight",
+              "rank": 1,
+              "title": "America"
+            }
+          ],
+          "startDate": "2006-10-11"
+        },
+        {
+          "endDate": "2006-11-07",
+          "items": [
+            {
+              "artist": "McFly",
+              "rank": 1,
+              "title": "Star Girl"
+            }
+          ],
+          "startDate": "2006-11-01"
+        },
+        {
+          "endDate": "2006-11-14",
+          "items": [
+            {
+              "artist": "Fedde le Grand",
+              "rank": 1,
+              "title": "Put Your Hands Up 4 Detroit"
+            }
+          ],
+          "startDate": "2006-11-08"
+        },
+        {
+          "endDate": "2006-11-21",
+          "items": [
+            {
+              "artist": "All Saints",
+              "rank": 1,
+              "title": "Rock Steady"
+            }
+          ],
+          "startDate": "2006-11-15"
+        },
+        {
+          "endDate": "2006-12-26",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Patience"
+            }
+          ],
+          "startDate": "2006-11-22"
+        },
+        {
+          "endDate": "2006-12-31",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "A Moment Like This"
+            }
+          ],
+          "startDate": "2006-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "6a1bde9183b7a89b72dd67fc4fcd9022b96c2c5722e76d8288bb3e9136ae30c6",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2006
+}

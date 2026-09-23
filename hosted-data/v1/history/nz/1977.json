@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1977-02-03",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1977-01-01"
+        },
+        {
+          "endDate": "1977-02-12",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1977-02-06"
+        },
+        {
+          "endDate": "1977-02-26",
+          "items": [
+            {
+              "artist": "Leo Sayer",
+              "rank": 1,
+              "title": "You Make Me Feel Like Dancing"
+            }
+          ],
+          "startDate": "1977-02-13"
+        },
+        {
+          "endDate": "1977-03-05",
+          "items": [
+            {
+              "artist": "Engelbert Humperdinck",
+              "rank": 1,
+              "title": "After the Lovin'"
+            }
+          ],
+          "startDate": "1977-02-27"
+        },
+        {
+          "endDate": "1977-03-12",
+          "items": [
+            {
+              "artist": "J.J. Cale",
+              "rank": 1,
+              "title": "Cocaine"
+            }
+          ],
+          "startDate": "1977-03-06"
+        },
+        {
+          "endDate": "1977-03-19",
+          "items": [
+            {
+              "artist": "Engelbert Humperdinck",
+              "rank": 1,
+              "title": "After the Lovin'"
+            }
+          ],
+          "startDate": "1977-03-13"
+        },
+        {
+          "endDate": "1977-04-16",
+          "items": [
+            {
+              "artist": "David Soul",
+              "rank": 1,
+              "title": "Don't Give Up on Us"
+            }
+          ],
+          "startDate": "1977-03-20"
+        },
+        {
+          "endDate": "1977-04-23",
+          "items": [
+            {
+              "artist": "Easter holiday - no chart",
+              "rank": 1,
+              "title": "Easter holiday - no chart"
+            }
+          ],
+          "startDate": "1977-04-17"
+        },
+        {
+          "endDate": "1977-04-30",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Say You'll Stay Until Tomorrow"
+            }
+          ],
+          "startDate": "1977-04-24"
+        },
+        {
+          "endDate": "1977-05-07",
+          "items": [
+            {
+              "artist": "David Soul",
+              "rank": 1,
+              "title": "Don't Give Up on Us"
+            }
+          ],
+          "startDate": "1977-05-01"
+        },
+        {
+          "endDate": "1977-06-04",
+          "items": [
+            {
+              "artist": "Julie Covington",
+              "rank": 1,
+              "title": "Don't Cry For Me Argentina"
+            }
+          ],
+          "startDate": "1977-05-08"
+        },
+        {
+          "endDate": "1977-07-02",
+          "items": [
+            {
+              "artist": "Mark Williams",
+              "rank": 1,
+              "title": "It Doesn't Matter Anymore\"‡"
+            }
+          ],
+          "startDate": "1977-06-05"
+        },
+        {
+          "endDate": "1977-08-06",
+          "items": [
+            {
+              "artist": "Pussycat",
+              "rank": 1,
+              "title": "My Broken Souvenirs"
+            }
+          ],
+          "startDate": "1977-07-03"
+        },
+        {
+          "endDate": "1977-09-24",
+          "items": [
+            {
+              "artist": "Heatwave",
+              "rank": 1,
+              "title": "Boogie Nights"
+            }
+          ],
+          "startDate": "1977-08-07"
+        },
+        {
+          "endDate": "1977-10-29",
+          "items": [
+            {
+              "artist": "Electric Light Orchestra",
+              "rank": 1,
+              "title": "Telephone Line"
+            }
+          ],
+          "startDate": "1977-09-25"
+        },
+        {
+          "endDate": "1977-11-05",
+          "items": [
+            {
+              "artist": "Paul Nicholas",
+              "rank": 1,
+              "title": "Heaven on the 7th Floor"
+            }
+          ],
+          "startDate": "1977-10-30"
+        },
+        {
+          "endDate": "1977-11-12",
+          "items": [
+            {
+              "artist": "Electric Light Orchestra",
+              "rank": 1,
+              "title": "Telephone Line"
+            }
+          ],
+          "startDate": "1977-11-06"
+        },
+        {
+          "endDate": "1977-12-24",
+          "items": [
+            {
+              "artist": "The Floaters",
+              "rank": 1,
+              "title": "Float On"
+            }
+          ],
+          "startDate": "1977-11-13"
+        },
+        {
+          "endDate": "1977-12-31",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1977-12-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "8e408f9633106c5610cc3c1ba86d85769893f1cd7cb71ad4941668ab42c6b4ce",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1977
+}

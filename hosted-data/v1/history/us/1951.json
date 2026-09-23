@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1951-03-02",
+          "items": [
+            {
+              "artist": "Patti Page",
+              "rank": 1,
+              "title": "The Tennessee Waltz"
+            }
+          ],
+          "startDate": "1951-01-01"
+        },
+        {
+          "endDate": "1951-03-09",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "If"
+            }
+          ],
+          "startDate": "1951-03-03"
+        },
+        {
+          "endDate": "1951-04-13",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "If"
+            }
+          ],
+          "startDate": "1951-03-17"
+        },
+        {
+          "endDate": "1951-06-22",
+          "items": [
+            {
+              "artist": "Les Paul and Mary Ford",
+              "rank": 1,
+              "title": "How High The Moon"
+            }
+          ],
+          "startDate": "1951-04-21"
+        },
+        {
+          "endDate": "1951-07-27",
+          "items": [
+            {
+              "artist": "Nat King Cole",
+              "rank": 1,
+              "title": "Too Young\"♪"
+            }
+          ],
+          "startDate": "1951-06-23"
+        },
+        {
+          "endDate": "1951-09-07",
+          "items": [
+            {
+              "artist": "Rosemary Clooney",
+              "rank": 1,
+              "title": "Come On-a My House"
+            }
+          ],
+          "startDate": "1951-07-28"
+        },
+        {
+          "endDate": "1951-11-02",
+          "items": [
+            {
+              "artist": "Tony Bennett",
+              "rank": 1,
+              "title": "Because Of You"
+            }
+          ],
+          "startDate": "1951-09-08"
+        },
+        {
+          "endDate": "1951-12-14",
+          "items": [
+            {
+              "artist": "Tony Bennett",
+              "rank": 1,
+              "title": "Cold, Cold Heart"
+            }
+          ],
+          "startDate": "1951-11-03"
+        },
+        {
+          "endDate": "1951-12-28",
+          "items": [
+            {
+              "artist": "Eddy Howard",
+              "rank": 1,
+              "title": "Sin"
+            }
+          ],
+          "startDate": "1951-12-15"
+        },
+        {
+          "endDate": "1951-12-31",
+          "items": [
+            {
+              "artist": "Johnnie Ray and The Four Lads",
+              "rank": 1,
+              "title": "Cry"
+            }
+          ],
+          "startDate": "1951-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "72a488c22a40f389b9ef059b2ba15b07428af90bdbefef4b935f9b6d1c2107ee",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1951
+}

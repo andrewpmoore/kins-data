@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2010-01-10",
+          "items": [
+            {
+              "artist": "Lady Gaga",
+              "rank": 1,
+              "title": "Bad Romance"
+            }
+          ],
+          "startDate": "2010-01-01"
+        },
+        {
+          "endDate": "2010-02-14",
+          "items": [
+            {
+              "artist": "Jovanotti",
+              "rank": 1,
+              "title": "Baciami ancora"
+            }
+          ],
+          "startDate": "2010-01-11"
+        },
+        {
+          "endDate": "2010-02-21",
+          "items": [
+            {
+              "artist": "Noemi",
+              "rank": 1,
+              "title": "Per tutta la vita"
+            }
+          ],
+          "startDate": "2010-02-15"
+        },
+        {
+          "endDate": "2010-02-28",
+          "items": [
+            {
+              "artist": "Valerio Scanu",
+              "rank": 1,
+              "title": "Per tutte le volte che..."
+            }
+          ],
+          "startDate": "2010-02-22"
+        },
+        {
+          "endDate": "2010-03-07",
+          "items": [
+            {
+              "artist": "Jovanotti",
+              "rank": 1,
+              "title": "Baciami ancora"
+            }
+          ],
+          "startDate": "2010-03-01"
+        },
+        {
+          "endDate": "2010-03-14",
+          "items": [
+            {
+              "artist": "Noemi",
+              "rank": 1,
+              "title": "Per tutta la vita"
+            }
+          ],
+          "startDate": "2010-03-08"
+        },
+        {
+          "endDate": "2010-03-21",
+          "items": [
+            {
+              "artist": "Mary J. Blige featuring Tiziano Ferro",
+              "rank": 1,
+              "title": "Each Tear"
+            }
+          ],
+          "startDate": "2010-03-15"
+        },
+        {
+          "endDate": "2010-03-28",
+          "items": [
+            {
+              "artist": "Pierdavide Carone",
+              "rank": 1,
+              "title": "Di notte"
+            }
+          ],
+          "startDate": "2010-03-22"
+        },
+        {
+          "endDate": "2010-04-11",
+          "items": [
+            {
+              "artist": "Emma Marrone",
+              "rank": 1,
+              "title": "Calore"
+            }
+          ],
+          "startDate": "2010-03-29"
+        },
+        {
+          "endDate": "2010-05-02",
+          "items": [
+            {
+              "artist": "Ligabue",
+              "rank": 1,
+              "title": "Un colpo all'anima"
+            }
+          ],
+          "startDate": "2010-04-12"
+        },
+        {
+          "endDate": "2010-05-09",
+          "items": [
+            {
+              "artist": "Stromae",
+              "rank": 1,
+              "title": "Alors on danse"
+            }
+          ],
+          "startDate": "2010-05-03"
+        },
+        {
+          "endDate": "2010-05-16",
+          "items": [
+            {
+              "artist": "Marco Carta",
+              "rank": 1,
+              "title": "Quello che dai"
+            }
+          ],
+          "startDate": "2010-05-10"
+        },
+        {
+          "endDate": "2010-09-05",
+          "items": [
+            {
+              "artist": "Shakira featuring Freshlyground",
+              "rank": 1,
+              "title": "Waka Waka"
+            }
+          ],
+          "startDate": "2010-05-17"
+        },
+        {
+          "endDate": "2010-09-12",
+          "items": [
+            {
+              "artist": "Eminem featuring Rihanna",
+              "rank": 1,
+              "title": "Love the Way You Lie"
+            }
+          ],
+          "startDate": "2010-09-06"
+        },
+        {
+          "endDate": "2010-09-19",
+          "items": [
+            {
+              "artist": "Jamiroquai",
+              "rank": 1,
+              "title": "White Knuckle Ride"
+            }
+          ],
+          "startDate": "2010-09-13"
+        },
+        {
+          "endDate": "2010-09-26",
+          "items": [
+            {
+              "artist": "Eminem featuring Rihanna",
+              "rank": 1,
+              "title": "Love the Way You Lie"
+            }
+          ],
+          "startDate": "2010-09-20"
+        },
+        {
+          "endDate": "2010-11-07",
+          "items": [
+            {
+              "artist": "Shakira featuring Dizzee Rascal",
+              "rank": 1,
+              "title": "Loca"
+            }
+          ],
+          "startDate": "2010-09-27"
+        },
+        {
+          "endDate": "2010-11-14",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Only Girl"
+            }
+          ],
+          "startDate": "2010-11-08"
+        },
+        {
+          "endDate": "2010-11-21",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas",
+              "rank": 1,
+              "title": "The Time"
+            }
+          ],
+          "startDate": "2010-11-15"
+        },
+        {
+          "endDate": "2010-11-28",
+          "items": [
+            {
+              "artist": "Nathalie",
+              "rank": 1,
+              "title": "In punta di piedi"
+            }
+          ],
+          "startDate": "2010-11-22"
+        },
+        {
+          "endDate": "2010-12-31",
+          "items": [
+            {
+              "artist": "Jovanotti",
+              "rank": 1,
+              "title": "Tutto l'amore che ho"
+            }
+          ],
+          "startDate": "2010-11-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2021-12-24",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5134450b67f8b01796cb4f78910b784580cd752d8eb10cd55690138978eab1a8",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2010
+}

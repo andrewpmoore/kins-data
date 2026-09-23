@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2022-01-14",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2022-01-08"
+        },
+        {
+          "endDate": "2022-03-11",
+          "items": [
+            {
+              "artist": "Carolina Gaitán, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz and the Encanto cast",
+              "rank": 1,
+              "title": "We Don't Talk About Bruno"
+            }
+          ],
+          "startDate": "2022-02-05"
+        },
+        {
+          "endDate": "2022-04-15",
+          "items": [
+            {
+              "artist": "Glass Animals",
+              "rank": 1,
+              "title": "Heat Waves\" ♪"
+            }
+          ],
+          "startDate": "2022-03-12"
+        },
+        {
+          "endDate": "2022-04-22",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "As It Was"
+            }
+          ],
+          "startDate": "2022-04-16"
+        },
+        {
+          "endDate": "2022-07-01",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "As It Was"
+            }
+          ],
+          "startDate": "2022-05-21"
+        },
+        {
+          "endDate": "2022-07-29",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "As It Was"
+            }
+          ],
+          "startDate": "2022-07-09"
+        },
+        {
+          "endDate": "2022-08-12",
+          "items": [
+            {
+              "artist": "Lizzo",
+              "rank": 1,
+              "title": "About Damn Time"
+            }
+          ],
+          "startDate": "2022-07-30"
+        },
+        {
+          "endDate": "2022-08-26",
+          "items": [
+            {
+              "artist": "Beyoncé",
+              "rank": 1,
+              "title": "Break My Soul"
+            }
+          ],
+          "startDate": "2022-08-13"
+        },
+        {
+          "endDate": "2022-09-02",
+          "items": [
+            {
+              "artist": "Nicki Minaj",
+              "rank": 1,
+              "title": "Super Freaky Girl"
+            }
+          ],
+          "startDate": "2022-08-27"
+        },
+        {
+          "endDate": "2022-10-28",
+          "items": [
+            {
+              "artist": "Steve Lacy",
+              "rank": 1,
+              "title": "Bad Habit"
+            }
+          ],
+          "startDate": "2022-10-08"
+        },
+        {
+          "endDate": "2022-11-04",
+          "items": [
+            {
+              "artist": "Sam Smith and Kim Petras",
+              "rank": 1,
+              "title": "Unholy"
+            }
+          ],
+          "startDate": "2022-10-29"
+        },
+        {
+          "endDate": "2022-12-16",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Anti-Hero"
+            }
+          ],
+          "startDate": "2022-11-05"
+        },
+        {
+          "endDate": "2022-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2022-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "e9a2b9a52e973c5594ee83315654bba8f191493dff0cc6d8b7f52198ae728ea2",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2022
+}

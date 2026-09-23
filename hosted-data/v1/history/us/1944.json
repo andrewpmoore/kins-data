@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1944-01-28",
+          "items": [
+            {
+              "artist": "Mills Brothers",
+              "rank": 1,
+              "title": "Paper Doll"
+            }
+          ],
+          "startDate": "1944-01-01"
+        },
+        {
+          "endDate": "1944-03-03",
+          "items": [
+            {
+              "artist": "Glen Gray",
+              "rank": 1,
+              "title": "My Heart Tells Me"
+            }
+          ],
+          "startDate": "1944-01-29"
+        },
+        {
+          "endDate": "1944-04-21",
+          "items": [
+            {
+              "artist": "Jimmy Dorsey",
+              "rank": 1,
+              "title": "Besame Mucho"
+            }
+          ],
+          "startDate": "1944-03-04"
+        },
+        {
+          "endDate": "1944-05-05",
+          "items": [
+            {
+              "artist": "Guy Lombardo",
+              "rank": 1,
+              "title": "It's Love-Love-Love"
+            }
+          ],
+          "startDate": "1944-04-22"
+        },
+        {
+          "endDate": "1944-06-09",
+          "items": [
+            {
+              "artist": "Bing Crosby",
+              "rank": 1,
+              "title": "I Love You"
+            }
+          ],
+          "startDate": "1944-05-06"
+        },
+        {
+          "endDate": "1944-06-30",
+          "items": [
+            {
+              "artist": "Harry James",
+              "rank": 1,
+              "title": "I'll Get By"
+            }
+          ],
+          "startDate": "1944-06-10"
+        },
+        {
+          "endDate": "1944-07-07",
+          "items": [
+            {
+              "artist": "Bing Crosby",
+              "rank": 1,
+              "title": "I'll Be Seeing You"
+            }
+          ],
+          "startDate": "1944-07-01"
+        },
+        {
+          "endDate": "1944-07-14",
+          "items": [
+            {
+              "artist": "Harry James",
+              "rank": 1,
+              "title": "I'll Get By"
+            }
+          ],
+          "startDate": "1944-07-08"
+        },
+        {
+          "endDate": "1944-08-04",
+          "items": [
+            {
+              "artist": "Bing Crosby",
+              "rank": 1,
+              "title": "I'll Be Seeing You"
+            }
+          ],
+          "startDate": "1944-07-15"
+        },
+        {
+          "endDate": "1944-10-06",
+          "items": [
+            {
+              "artist": "Bing Crosby",
+              "rank": 1,
+              "title": "Swinging On A Star"
+            }
+          ],
+          "startDate": "1944-08-05"
+        },
+        {
+          "endDate": "1944-10-13",
+          "items": [
+            {
+              "artist": "Mills Brothers",
+              "rank": 1,
+              "title": "You Always Hurt The One You Love"
+            }
+          ],
+          "startDate": "1944-10-07"
+        },
+        {
+          "endDate": "1944-10-20",
+          "items": [
+            {
+              "artist": "Dinah Shore",
+              "rank": 1,
+              "title": "I'll Walk Alone"
+            }
+          ],
+          "startDate": "1944-10-14"
+        },
+        {
+          "endDate": "1944-11-03",
+          "items": [
+            {
+              "artist": "Mills Brothers",
+              "rank": 1,
+              "title": "You Always Hurt The One You Love"
+            }
+          ],
+          "startDate": "1944-10-21"
+        },
+        {
+          "endDate": "1944-11-24",
+          "items": [
+            {
+              "artist": "Dinah Shore",
+              "rank": 1,
+              "title": "I'll Walk Alone"
+            }
+          ],
+          "startDate": "1944-11-04"
+        },
+        {
+          "endDate": "1944-12-08",
+          "items": [
+            {
+              "artist": "Mills Brothers",
+              "rank": 1,
+              "title": "You Always Hurt The One You Love"
+            }
+          ],
+          "startDate": "1944-11-25"
+        },
+        {
+          "endDate": "1944-12-22",
+          "items": [
+            {
+              "artist": "The Ink Spots and Ella Fitzgerald",
+              "rank": 1,
+              "title": "I'm Making Believe"
+            }
+          ],
+          "startDate": "1944-12-09"
+        },
+        {
+          "endDate": "1944-12-31",
+          "items": [
+            {
+              "artist": "Bing Crosby and The Andrews Sisters",
+              "rank": 1,
+              "title": "Don't Fence Me In"
+            }
+          ],
+          "startDate": "1944-12-23"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "699619d27a3097c0855d3912289abdd99a92396063da24779ecb60a76d96e50a",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1944
+}

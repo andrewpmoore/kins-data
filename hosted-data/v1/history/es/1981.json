@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1981-01-25",
+          "items": [
+            {
+              "artist": "Barbra Streisand",
+              "rank": 1,
+              "title": "Woman in Love"
+            }
+          ],
+          "startDate": "1981-01-01"
+        },
+        {
+          "endDate": "1981-02-01",
+          "items": [
+            {
+              "artist": "Camilo Sesto",
+              "rank": 1,
+              "title": "Perdóname"
+            }
+          ],
+          "startDate": "1981-01-26"
+        },
+        {
+          "endDate": "1981-02-15",
+          "items": [
+            {
+              "artist": "John Lennon",
+              "rank": 1,
+              "title": "Starting Over"
+            }
+          ],
+          "startDate": "1981-02-02"
+        },
+        {
+          "endDate": "1981-03-15",
+          "items": [
+            {
+              "artist": "Gilbert O'Sullivan",
+              "rank": 1,
+              "title": "What's In A Kiss"
+            }
+          ],
+          "startDate": "1981-02-16"
+        },
+        {
+          "endDate": "1981-03-22",
+          "items": [
+            {
+              "artist": "Ana Belén",
+              "rank": 1,
+              "title": "Qué Será"
+            }
+          ],
+          "startDate": "1981-03-16"
+        },
+        {
+          "endDate": "1981-03-29",
+          "items": [
+            {
+              "artist": "Queen",
+              "rank": 1,
+              "title": "Another One Bites the Dust"
+            }
+          ],
+          "startDate": "1981-03-23"
+        },
+        {
+          "endDate": "1981-05-03",
+          "items": [
+            {
+              "artist": "Robert Palmer",
+              "rank": 1,
+              "title": "Johnny & Mary"
+            }
+          ],
+          "startDate": "1981-03-30"
+        },
+        {
+          "endDate": "1981-05-24",
+          "items": [
+            {
+              "artist": "The Korgis",
+              "rank": 1,
+              "title": "Everybody's Got to Learn Sometime"
+            }
+          ],
+          "startDate": "1981-05-04"
+        },
+        {
+          "endDate": "1981-05-31",
+          "items": [
+            {
+              "artist": "Iván",
+              "rank": 1,
+              "title": "Te Quiero Tanto"
+            }
+          ],
+          "startDate": "1981-05-25"
+        },
+        {
+          "endDate": "1981-06-14",
+          "items": [
+            {
+              "artist": "José Luis Perales",
+              "rank": 1,
+              "title": "Te Quiero"
+            }
+          ],
+          "startDate": "1981-06-01"
+        },
+        {
+          "endDate": "1981-07-26",
+          "items": [
+            {
+              "artist": "Stars On 45",
+              "rank": 1,
+              "title": "Stars On 45"
+            }
+          ],
+          "startDate": "1981-06-15"
+        },
+        {
+          "endDate": "1981-08-09",
+          "items": [
+            {
+              "artist": "Víctor Manuel",
+              "rank": 1,
+              "title": "Ay, Amor"
+            }
+          ],
+          "startDate": "1981-07-27"
+        },
+        {
+          "endDate": "1981-08-23",
+          "items": [
+            {
+              "artist": "Orchestral Manoeuvres in the Dark",
+              "rank": 1,
+              "title": "Enola Gay"
+            }
+          ],
+          "startDate": "1981-08-10"
+        },
+        {
+          "endDate": "1981-09-06",
+          "items": [
+            {
+              "artist": "Julio Iglesias",
+              "rank": 1,
+              "title": "De niña a Mujer"
+            }
+          ],
+          "startDate": "1981-08-24"
+        },
+        {
+          "endDate": "1981-09-13",
+          "items": [
+            {
+              "artist": "Ottawan",
+              "rank": 1,
+              "title": "Hands Up"
+            }
+          ],
+          "startDate": "1981-09-07"
+        },
+        {
+          "endDate": "1981-09-20",
+          "items": [
+            {
+              "artist": "María Jesús y su Acordeón",
+              "rank": 1,
+              "title": "El Baile de los Pajaritos"
+            }
+          ],
+          "startDate": "1981-09-14"
+        },
+        {
+          "endDate": "1981-10-04",
+          "items": [
+            {
+              "artist": "Pino D'Angiò",
+              "rank": 1,
+              "title": "Ma quale idea"
+            }
+          ],
+          "startDate": "1981-09-21"
+        },
+        {
+          "endDate": "1981-10-11",
+          "items": [
+            {
+              "artist": "Kim Carnes",
+              "rank": 1,
+              "title": "Bette Davis Eyes"
+            }
+          ],
+          "startDate": "1981-10-05"
+        },
+        {
+          "endDate": "1981-12-31",
+          "items": [
+            {
+              "artist": "Pino D'Angiò",
+              "rank": 1,
+              "title": "Ma Quale Idea"
+            }
+          ],
+          "startDate": "1981-10-12"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5f70ed160ac7e1bcf687bc7151971223fc01263baee0e1c99aa1ad2c40d7ff65",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1981
+}

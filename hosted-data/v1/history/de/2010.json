@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2010-01-07",
+          "items": [
+            {
+              "artist": "Aura Dione",
+              "rank": 1,
+              "title": "I Will Love You Monday"
+            }
+          ],
+          "startDate": "2010-01-01"
+        },
+        {
+          "endDate": "2010-01-14",
+          "items": [
+            {
+              "artist": "Keri Hilson",
+              "rank": 1,
+              "title": "I Like"
+            }
+          ],
+          "startDate": "2010-01-08"
+        },
+        {
+          "endDate": "2010-01-21",
+          "items": [
+            {
+              "artist": "Lady Gaga",
+              "rank": 1,
+              "title": "Bad Romance"
+            }
+          ],
+          "startDate": "2010-01-15"
+        },
+        {
+          "endDate": "2010-01-28",
+          "items": [
+            {
+              "artist": "Keri Hilson",
+              "rank": 1,
+              "title": "I Like"
+            }
+          ],
+          "startDate": "2010-01-22"
+        },
+        {
+          "endDate": "2010-03-11",
+          "items": [
+            {
+              "artist": "Ke$ha",
+              "rank": 1,
+              "title": "Tik Tok"
+            }
+          ],
+          "startDate": "2010-01-29"
+        },
+        {
+          "endDate": "2010-03-25",
+          "items": [
+            {
+              "artist": "Stromae",
+              "rank": 1,
+              "title": "Alors on danse"
+            }
+          ],
+          "startDate": "2010-03-12"
+        },
+        {
+          "endDate": "2010-04-29",
+          "items": [
+            {
+              "artist": "Lena",
+              "rank": 1,
+              "title": "Satellite"
+            }
+          ],
+          "startDate": "2010-03-26"
+        },
+        {
+          "endDate": "2010-05-27",
+          "items": [
+            {
+              "artist": "Mehrzad Marashi",
+              "rank": 1,
+              "title": "Don't Believe"
+            }
+          ],
+          "startDate": "2010-04-30"
+        },
+        {
+          "endDate": "2010-06-10",
+          "items": [
+            {
+              "artist": "K'naan",
+              "rank": 1,
+              "title": "Wavin' Flag"
+            }
+          ],
+          "startDate": "2010-05-28"
+        },
+        {
+          "endDate": "2010-06-17",
+          "items": [
+            {
+              "artist": "Lena",
+              "rank": 1,
+              "title": "Satellite"
+            }
+          ],
+          "startDate": "2010-06-11"
+        },
+        {
+          "endDate": "2010-06-24",
+          "items": [
+            {
+              "artist": "K'naan",
+              "rank": 1,
+              "title": "Wavin' Flag"
+            }
+          ],
+          "startDate": "2010-06-18"
+        },
+        {
+          "endDate": "2010-08-05",
+          "items": [
+            {
+              "artist": "Shakira featuring Freshlyground",
+              "rank": 1,
+              "title": "Waka Waka"
+            }
+          ],
+          "startDate": "2010-06-25"
+        },
+        {
+          "endDate": "2010-09-23",
+          "items": [
+            {
+              "artist": "Yolanda Be Cool & DCUP",
+              "rank": 1,
+              "title": "We No Speak Americano"
+            }
+          ],
+          "startDate": "2010-08-06"
+        },
+        {
+          "endDate": "2010-10-07",
+          "items": [
+            {
+              "artist": "Eminem featuring Rihanna",
+              "rank": 1,
+              "title": "Love the Way You Lie"
+            }
+          ],
+          "startDate": "2010-09-24"
+        },
+        {
+          "endDate": "2010-12-09",
+          "items": [
+            {
+              "artist": "Israel \"IZ\" Kamakawiwoʻole",
+              "rank": 1,
+              "title": "Somewhere Over the Rainbow/What a Wonderful World\" †"
+            }
+          ],
+          "startDate": "2010-10-08"
+        },
+        {
+          "endDate": "2010-12-16",
+          "items": [
+            {
+              "artist": "Empire of the Sun",
+              "rank": 1,
+              "title": "We Are the People"
+            }
+          ],
+          "startDate": "2010-12-10"
+        },
+        {
+          "endDate": "2010-12-31",
+          "items": [
+            {
+              "artist": "Israel \"IZ\" Kamakawiwoʻole",
+              "rank": 1,
+              "title": "Somewhere Over the Rainbow/What a Wonderful World\" †"
+            }
+          ],
+          "startDate": "2010-12-17"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "e23d282a9e268cfad6135a5fadd2629929c3e8190dcf2ddf3ae2262856c13261",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2010
+}

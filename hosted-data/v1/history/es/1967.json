@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1967-01-29",
+          "items": [
+            {
+              "artist": "Los Bravos",
+              "rank": 1,
+              "title": "Black Is Black"
+            }
+          ],
+          "startDate": "1967-01-01"
+        },
+        {
+          "endDate": "1967-02-05",
+          "items": [
+            {
+              "artist": "Los Pekenikes",
+              "rank": 1,
+              "title": "Lady Pepa"
+            }
+          ],
+          "startDate": "1967-01-30"
+        },
+        {
+          "endDate": "1967-03-05",
+          "items": [
+            {
+              "artist": "The Four Tops",
+              "rank": 1,
+              "title": "Reach Out I'll Be There"
+            }
+          ],
+          "startDate": "1967-02-06"
+        },
+        {
+          "endDate": "1967-03-12",
+          "items": [
+            {
+              "artist": "The New Vaudeville Band",
+              "rank": 1,
+              "title": "Winchester Cathedral"
+            }
+          ],
+          "startDate": "1967-03-06"
+        },
+        {
+          "endDate": "1967-03-26",
+          "items": [
+            {
+              "artist": "The Four Tops",
+              "rank": 1,
+              "title": "Reach Out I'll Be There"
+            }
+          ],
+          "startDate": "1967-03-13"
+        },
+        {
+          "endDate": "1967-04-23",
+          "items": [
+            {
+              "artist": "The Beach Boys",
+              "rank": 1,
+              "title": "Good Vibrations"
+            }
+          ],
+          "startDate": "1967-03-27"
+        },
+        {
+          "endDate": "1967-05-14",
+          "items": [
+            {
+              "artist": "Raphael",
+              "rank": 1,
+              "title": "Hablemos del amor"
+            }
+          ],
+          "startDate": "1967-04-24"
+        },
+        {
+          "endDate": "1967-07-16",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "Marionetas en la cuerda"
+            }
+          ],
+          "startDate": "1967-05-15"
+        },
+        {
+          "endDate": "1967-08-13",
+          "items": [
+            {
+              "artist": "Juan y Junior",
+              "rank": 1,
+              "title": "La caza"
+            }
+          ],
+          "startDate": "1967-07-17"
+        },
+        {
+          "endDate": "1967-09-03",
+          "items": [
+            {
+              "artist": "Los Brincos",
+              "rank": 1,
+              "title": "Lola"
+            }
+          ],
+          "startDate": "1967-08-14"
+        },
+        {
+          "endDate": "1967-09-10",
+          "items": [
+            {
+              "artist": "Procol Harum",
+              "rank": 1,
+              "title": "A Whiter Shade Of Pale"
+            }
+          ],
+          "startDate": "1967-09-04"
+        },
+        {
+          "endDate": "1967-09-17",
+          "items": [
+            {
+              "artist": "Juan y Junior",
+              "rank": 1,
+              "title": "Nos falta fe"
+            }
+          ],
+          "startDate": "1967-09-11"
+        },
+        {
+          "endDate": "1967-09-24",
+          "items": [
+            {
+              "artist": "Los Brincos",
+              "rank": 1,
+              "title": "Lola"
+            }
+          ],
+          "startDate": "1967-09-18"
+        },
+        {
+          "endDate": "1967-10-01",
+          "items": [
+            {
+              "artist": "Procol Harum",
+              "rank": 1,
+              "title": "A Whiter Shade Of Pale"
+            }
+          ],
+          "startDate": "1967-09-25"
+        },
+        {
+          "endDate": "1967-10-22",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "All You Need Is Love"
+            }
+          ],
+          "startDate": "1967-10-02"
+        },
+        {
+          "endDate": "1967-10-29",
+          "items": [
+            {
+              "artist": "Los Bravos",
+              "rank": 1,
+              "title": "Los chicos con las chicas"
+            }
+          ],
+          "startDate": "1967-10-23"
+        },
+        {
+          "endDate": "1967-11-05",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco"
+            }
+          ],
+          "startDate": "1967-10-30"
+        },
+        {
+          "endDate": "1967-12-03",
+          "items": [
+            {
+              "artist": "Los Bravos",
+              "rank": 1,
+              "title": "Los chicos con las chicas"
+            }
+          ],
+          "startDate": "1967-11-06"
+        },
+        {
+          "endDate": "1967-12-31",
+          "items": [
+            {
+              "artist": "Richard Anthony",
+              "rank": 1,
+              "title": "En Aranjuez con tu amor"
+            }
+          ],
+          "startDate": "1967-12-04"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "8029b8591a0686d596d500e41435e58736c37e598fd6f1cecbe5a583b8d18712",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1967
+}

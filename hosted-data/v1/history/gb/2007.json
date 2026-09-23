@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2007-01-09",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "A Moment Like This"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-01-16",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Patience"
+            }
+          ],
+          "startDate": "2007-01-10"
+        },
+        {
+          "endDate": "2007-02-27",
+          "items": [
+            {
+              "artist": "Mika",
+              "rank": 1,
+              "title": "Grace Kelly"
+            }
+          ],
+          "startDate": "2007-01-17"
+        },
+        {
+          "endDate": "2007-03-20",
+          "items": [
+            {
+              "artist": "Kaiser Chiefs",
+              "rank": 1,
+              "title": "Ruby"
+            }
+          ],
+          "startDate": "2007-02-28"
+        },
+        {
+          "endDate": "2007-04-10",
+          "items": [
+            {
+              "artist": "The Proclaimers featuring Brian Potter and Andy Pipkin",
+              "rank": 1,
+              "title": "I'm Gonna Be"
+            }
+          ],
+          "startDate": "2007-03-21"
+        },
+        {
+          "endDate": "2007-04-17",
+          "items": [
+            {
+              "artist": "Avril Lavigne",
+              "rank": 1,
+              "title": "Girlfriend"
+            }
+          ],
+          "startDate": "2007-04-11"
+        },
+        {
+          "endDate": "2007-04-24",
+          "items": [
+            {
+              "artist": "Mark Ronson featuring Daniel Merriweather",
+              "rank": 1,
+              "title": "Stop Me"
+            }
+          ],
+          "startDate": "2007-04-18"
+        },
+        {
+          "endDate": "2007-05-15",
+          "items": [
+            {
+              "artist": "Beyoncé and Shakira",
+              "rank": 1,
+              "title": "Beautiful Liar"
+            }
+          ],
+          "startDate": "2007-04-25"
+        },
+        {
+          "endDate": "2007-05-22",
+          "items": [
+            {
+              "artist": "Gym Class Heroes",
+              "rank": 1,
+              "title": "Cupid's Chokehold"
+            }
+          ],
+          "startDate": "2007-05-16"
+        },
+        {
+          "endDate": "2007-07-17",
+          "items": [
+            {
+              "artist": "Rihanna featuring Jay-Z",
+              "rank": 1,
+              "title": "Umbrella"
+            }
+          ],
+          "startDate": "2007-05-23"
+        },
+        {
+          "endDate": "2007-07-24",
+          "items": [
+            {
+              "artist": "Timbaland featuring Keri Hilson and D.O.E.",
+              "rank": 1,
+              "title": "The Way I Are"
+            }
+          ],
+          "startDate": "2007-07-18"
+        },
+        {
+          "endDate": "2007-08-07",
+          "items": [
+            {
+              "artist": "Kate Nash",
+              "rank": 1,
+              "title": "Foundations"
+            }
+          ],
+          "startDate": "2007-08-01"
+        },
+        {
+          "endDate": "2007-08-28",
+          "items": [
+            {
+              "artist": "Kanye West",
+              "rank": 1,
+              "title": "Stronger"
+            }
+          ],
+          "startDate": "2007-08-15"
+        },
+        {
+          "endDate": "2007-09-11",
+          "items": [
+            {
+              "artist": "Sean Kingston",
+              "rank": 1,
+              "title": "Beautiful Girls"
+            }
+          ],
+          "startDate": "2007-08-29"
+        },
+        {
+          "endDate": "2007-09-21",
+          "items": [
+            {
+              "artist": "Plain White T's",
+              "rank": 1,
+              "title": "Hey There Delilah"
+            }
+          ],
+          "startDate": "2007-09-12"
+        },
+        {
+          "endDate": "2007-09-25",
+          "items": [
+            {
+              "artist": "Sean Kingston",
+              "rank": 1,
+              "title": "Beautiful Girls"
+            }
+          ],
+          "startDate": "2007-09-22"
+        },
+        {
+          "endDate": "2007-10-02",
+          "items": [
+            {
+              "artist": "Plain White T's",
+              "rank": 1,
+              "title": "Hey There Delilah"
+            }
+          ],
+          "startDate": "2007-09-26"
+        },
+        {
+          "endDate": "2007-10-30",
+          "items": [
+            {
+              "artist": "Sugababes",
+              "rank": 1,
+              "title": "About You Now"
+            }
+          ],
+          "startDate": "2007-10-03"
+        },
+        {
+          "endDate": "2007-12-18",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "Bleeding Love"
+            }
+          ],
+          "startDate": "2007-10-31"
+        },
+        {
+          "endDate": "2007-12-25",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2007-12-19"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "artist": "Leon Jackson",
+              "rank": 1,
+              "title": "When You Believe"
+            }
+          ],
+          "startDate": "2007-12-26"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "0370693587b9244c86486177927e95adf2c9011aca3cf6cca873d11ba37dcc31",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2007
+}

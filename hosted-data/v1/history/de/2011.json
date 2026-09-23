@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2011-01-06",
+          "items": [
+            {
+              "artist": "Israel \"IZ\" Kamakawiwoʻole",
+              "rank": 1,
+              "title": "Somewhere Over the Rainbow/What a Wonderful World\" †"
+            }
+          ],
+          "startDate": "2011-01-01"
+        },
+        {
+          "endDate": "2011-02-03",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas",
+              "rank": 1,
+              "title": "The Time"
+            }
+          ],
+          "startDate": "2011-01-07"
+        },
+        {
+          "endDate": "2011-02-17",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Rolling in the Deep"
+            }
+          ],
+          "startDate": "2011-02-04"
+        },
+        {
+          "endDate": "2011-03-17",
+          "items": [
+            {
+              "artist": "Bruno Mars",
+              "rank": 1,
+              "title": "Grenade"
+            }
+          ],
+          "startDate": "2011-02-18"
+        },
+        {
+          "endDate": "2011-03-31",
+          "items": [
+            {
+              "artist": "Lady Gaga",
+              "rank": 1,
+              "title": "Born This Way"
+            }
+          ],
+          "startDate": "2011-03-18"
+        },
+        {
+          "endDate": "2011-04-14",
+          "items": [
+            {
+              "artist": "Bruno Mars",
+              "rank": 1,
+              "title": "Grenade"
+            }
+          ],
+          "startDate": "2011-04-01"
+        },
+        {
+          "endDate": "2011-05-19",
+          "items": [
+            {
+              "artist": "Jennifer Lopez",
+              "rank": 1,
+              "title": "On the Floor\"†"
+            }
+          ],
+          "startDate": "2011-04-15"
+        },
+        {
+          "endDate": "2011-06-16",
+          "items": [
+            {
+              "artist": "Pietro Lombardi",
+              "rank": 1,
+              "title": "Call My Name"
+            }
+          ],
+          "startDate": "2011-05-20"
+        },
+        {
+          "endDate": "2011-06-30",
+          "items": [
+            {
+              "artist": "LMFAO",
+              "rank": 1,
+              "title": "Party Rock Anthem"
+            }
+          ],
+          "startDate": "2011-06-17"
+        },
+        {
+          "endDate": "2011-07-07",
+          "items": [
+            {
+              "artist": "Jennifer Lopez",
+              "rank": 1,
+              "title": "On the Floor\" †"
+            }
+          ],
+          "startDate": "2011-07-01"
+        },
+        {
+          "endDate": "2011-08-25",
+          "items": [
+            {
+              "artist": "Alexandra Stan",
+              "rank": 1,
+              "title": "Mr. Saxobeat"
+            }
+          ],
+          "startDate": "2011-07-08"
+        },
+        {
+          "endDate": "2011-09-01",
+          "items": [
+            {
+              "artist": "Lucenzo",
+              "rank": 1,
+              "title": "Danza Kuduro"
+            }
+          ],
+          "startDate": "2011-08-26"
+        },
+        {
+          "endDate": "2011-10-27",
+          "items": [
+            {
+              "artist": "Marlon Roudette",
+              "rank": 1,
+              "title": "New Age"
+            }
+          ],
+          "startDate": "2011-09-02"
+        },
+        {
+          "endDate": "2011-11-03",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "We Found Love"
+            }
+          ],
+          "startDate": "2011-10-28"
+        },
+        {
+          "endDate": "2011-11-10",
+          "items": [
+            {
+              "artist": "Aura Dione",
+              "rank": 1,
+              "title": "Geronimo"
+            }
+          ],
+          "startDate": "2011-11-04"
+        },
+        {
+          "endDate": "2011-11-24",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "We Found Love"
+            }
+          ],
+          "startDate": "2011-11-11"
+        },
+        {
+          "endDate": "2011-12-01",
+          "items": [
+            {
+              "artist": "Flo Rida",
+              "rank": 1,
+              "title": "Good Feeling"
+            }
+          ],
+          "startDate": "2011-11-25"
+        },
+        {
+          "endDate": "2011-12-08",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "We Found Love"
+            }
+          ],
+          "startDate": "2011-12-02"
+        },
+        {
+          "endDate": "2011-12-29",
+          "items": [
+            {
+              "artist": "Lana Del Rey",
+              "rank": 1,
+              "title": "Video Games"
+            }
+          ],
+          "startDate": "2011-12-09"
+        },
+        {
+          "endDate": "2011-12-31",
+          "items": [
+            {
+              "artist": "Gotye",
+              "rank": 1,
+              "title": "Somebody That I Used to Know"
+            }
+          ],
+          "startDate": "2011-12-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "10b774b609e417d274fe2c9e689ccdf66a921326807553a1ca21ffe8832674e4",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2011
+}

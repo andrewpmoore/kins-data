@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1941-03-14",
+          "items": [
+            {
+              "artist": "Artie Shaw",
+              "rank": 1,
+              "title": "Frenesi"
+            }
+          ],
+          "startDate": "1941-01-01"
+        },
+        {
+          "endDate": "1941-03-21",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "Song of the Volga Boatmen"
+            }
+          ],
+          "startDate": "1941-03-15"
+        },
+        {
+          "endDate": "1941-03-28",
+          "items": [
+            {
+              "artist": "Artie Shaw",
+              "rank": 1,
+              "title": "Frenesi"
+            }
+          ],
+          "startDate": "1941-03-22"
+        },
+        {
+          "endDate": "1941-06-06",
+          "items": [
+            {
+              "artist": "Jimmy Dorsey",
+              "rank": 1,
+              "title": "Amapola"
+            }
+          ],
+          "startDate": "1941-03-29"
+        },
+        {
+          "endDate": "1941-06-13",
+          "items": [
+            {
+              "artist": "Jimmy Dorsey",
+              "rank": 1,
+              "title": "My Sister and I"
+            }
+          ],
+          "startDate": "1941-06-07"
+        },
+        {
+          "endDate": "1941-06-20",
+          "items": [
+            {
+              "artist": "Jimmy Dorsey",
+              "rank": 1,
+              "title": "Maria Elena"
+            }
+          ],
+          "startDate": "1941-06-14"
+        },
+        {
+          "endDate": "1941-06-27",
+          "items": [
+            {
+              "artist": "Sammy Kaye",
+              "rank": 1,
+              "title": "Daddy"
+            }
+          ],
+          "startDate": "1941-06-21"
+        },
+        {
+          "endDate": "1941-07-04",
+          "items": [
+            {
+              "artist": "Jimmy Dorsey",
+              "rank": 1,
+              "title": "My Sister and I"
+            }
+          ],
+          "startDate": "1941-06-28"
+        },
+        {
+          "endDate": "1941-07-11",
+          "items": [
+            {
+              "artist": "Jimmy Dorsey",
+              "rank": 1,
+              "title": "Maria Elena"
+            }
+          ],
+          "startDate": "1941-07-05"
+        },
+        {
+          "endDate": "1941-08-29",
+          "items": [
+            {
+              "artist": "Sammy Kaye",
+              "rank": 1,
+              "title": "Daddy"
+            }
+          ],
+          "startDate": "1941-07-12"
+        },
+        {
+          "endDate": "1941-09-26",
+          "items": [
+            {
+              "artist": "Jimmy Dorsey",
+              "rank": 1,
+              "title": "Green Eyes"
+            }
+          ],
+          "startDate": "1941-08-30"
+        },
+        {
+          "endDate": "1941-10-03",
+          "items": [
+            {
+              "artist": "Jimmy Dorsey",
+              "rank": 1,
+              "title": "Blue Champagne"
+            }
+          ],
+          "startDate": "1941-09-27"
+        },
+        {
+          "endDate": "1941-11-28",
+          "items": [
+            {
+              "artist": "Freddy Martin",
+              "rank": 1,
+              "title": "Piano Concerto in B Flat"
+            }
+          ],
+          "startDate": "1941-10-04"
+        },
+        {
+          "endDate": "1941-12-19",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "Chattanooga Choo Choo"
+            }
+          ],
+          "startDate": "1941-11-29"
+        },
+        {
+          "endDate": "1941-12-26",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "Elmer's Tune"
+            }
+          ],
+          "startDate": "1941-12-20"
+        },
+        {
+          "endDate": "1941-12-31",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "Chattanooga Choo Choo"
+            }
+          ],
+          "startDate": "1941-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "c8373f5ab693b43a44416280ca86867fd62cc8a84e4ba18a5f68315fc6017c61",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1941
+}

@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2025-01-02",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2025-01-01"
+        },
+        {
+          "endDate": "2025-02-06",
+          "items": [
+            {
+              "artist": "Rosé and Bruno Mars",
+              "rank": 1,
+              "title": "APT."
+            }
+          ],
+          "startDate": "2025-01-03"
+        },
+        {
+          "endDate": "2025-02-13",
+          "items": [
+            {
+              "artist": "Zartmann",
+              "rank": 1,
+              "title": "Tau mich auf"
+            }
+          ],
+          "startDate": "2025-02-07"
+        },
+        {
+          "endDate": "2025-04-03",
+          "items": [
+            {
+              "artist": "Oimara",
+              "rank": 1,
+              "title": "Wackelkontakt\"†"
+            }
+          ],
+          "startDate": "2025-02-14"
+        },
+        {
+          "endDate": "2025-04-10",
+          "items": [
+            {
+              "artist": "Zartmann",
+              "rank": 1,
+              "title": "Tau mich auf"
+            }
+          ],
+          "startDate": "2025-04-04"
+        },
+        {
+          "endDate": "2025-05-08",
+          "items": [
+            {
+              "artist": "Jazeek",
+              "rank": 1,
+              "title": "Akon"
+            }
+          ],
+          "startDate": "2025-04-11"
+        },
+        {
+          "endDate": "2025-06-05",
+          "items": [
+            {
+              "artist": "Pashanim featuring Ceren",
+              "rank": 1,
+              "title": "Shababs im VIP"
+            }
+          ],
+          "startDate": "2025-05-09"
+        },
+        {
+          "endDate": "2025-07-31",
+          "items": [
+            {
+              "artist": "Alex Warren",
+              "rank": 1,
+              "title": "Ordinary"
+            }
+          ],
+          "startDate": "2025-06-06"
+        },
+        {
+          "endDate": "2025-08-07",
+          "items": [
+            {
+              "artist": "Aymen & Sira",
+              "rank": 1,
+              "title": "30 mal am Tag"
+            }
+          ],
+          "startDate": "2025-08-01"
+        },
+        {
+          "endDate": "2025-10-09",
+          "items": [
+            {
+              "artist": "Huntrix",
+              "rank": 1,
+              "title": "Golden"
+            }
+          ],
+          "startDate": "2025-08-08"
+        },
+        {
+          "endDate": "2025-12-04",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "The Fate of Ophelia"
+            }
+          ],
+          "startDate": "2025-10-10"
+        },
+        {
+          "endDate": "2025-12-11",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2025-12-05"
+        },
+        {
+          "endDate": "2025-12-31",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Last Christmas"
+            }
+          ],
+          "startDate": "2025-12-12"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5dc10bd9c3e291217866ab55e66dc5bdbfc5d946a97c12f583f8a73fc0b639e0",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2025
+}

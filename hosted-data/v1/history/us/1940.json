@@ -1,0 +1,55 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1940-10-18",
+          "items": [
+            {
+              "artist": "Tommy Dorsey",
+              "rank": 1,
+              "title": "I'll Never Smile Again"
+            }
+          ],
+          "startDate": "1940-07-27"
+        },
+        {
+          "endDate": "1940-12-20",
+          "items": [
+            {
+              "artist": "Bing Crosby",
+              "rank": 1,
+              "title": "Only Forever"
+            }
+          ],
+          "startDate": "1940-10-19"
+        },
+        {
+          "endDate": "1940-12-31",
+          "items": [
+            {
+              "artist": "Artie Shaw",
+              "rank": 1,
+              "title": "Frenesi"
+            }
+          ],
+          "startDate": "1940-12-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "dbb3e30d7d816377c4f026072e0cfcfaea717b84978059e3e58428ac33c7a618",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1940
+}

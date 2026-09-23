@@ -1,0 +1,66 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1984-01-07",
+          "items": [
+            {
+              "artist": "Frankie Goes to Hollywood",
+              "rank": 1,
+              "title": "Relax"
+            }
+          ],
+          "startDate": "1984-01-01"
+        },
+        {
+          "endDate": "1984-07-29",
+          "items": [
+            {
+              "artist": "George Michael",
+              "rank": 1,
+              "title": "Careless Whisper"
+            }
+          ],
+          "startDate": "1984-07-23"
+        },
+        {
+          "endDate": "1984-12-02",
+          "items": [
+            {
+              "artist": "Band Aid",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "1984-11-28"
+        },
+        {
+          "endDate": "1984-12-09",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Last Christmas\" / \"Everything She Wants"
+            }
+          ],
+          "startDate": "1984-12-03"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "8ba38d401753e6ae85f76376c10cf1096d37123e24bcf33b49bac3a032f2162a",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1984
+}

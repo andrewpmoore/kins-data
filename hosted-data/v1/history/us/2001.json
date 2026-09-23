@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2001-02-02",
+          "items": [
+            {
+              "artist": "Destiny's Child",
+              "rank": 1,
+              "title": "Independent Women"
+            }
+          ],
+          "startDate": "2001-01-01"
+        },
+        {
+          "endDate": "2001-02-16",
+          "items": [
+            {
+              "artist": "Shaggy featuring Ricardo 'Rikrok' Ducent",
+              "rank": 1,
+              "title": "It Wasn't Me"
+            }
+          ],
+          "startDate": "2001-02-03"
+        },
+        {
+          "endDate": "2001-02-23",
+          "items": [
+            {
+              "artist": "Outkast",
+              "rank": 1,
+              "title": "Ms. Jackson"
+            }
+          ],
+          "startDate": "2001-02-17"
+        },
+        {
+          "endDate": "2001-03-23",
+          "items": [
+            {
+              "artist": "Joe featuring Mystikal",
+              "rank": 1,
+              "title": "Stutter"
+            }
+          ],
+          "startDate": "2001-02-24"
+        },
+        {
+          "endDate": "2001-03-30",
+          "items": [
+            {
+              "artist": "Crazy Town",
+              "rank": 1,
+              "title": "Butterfly"
+            }
+          ],
+          "startDate": "2001-03-24"
+        },
+        {
+          "endDate": "2001-06-01",
+          "items": [
+            {
+              "artist": "Janet",
+              "rank": 1,
+              "title": "All For You"
+            }
+          ],
+          "startDate": "2001-04-14"
+        },
+        {
+          "endDate": "2001-07-06",
+          "items": [
+            {
+              "artist": "Christina Aguilera, Lil' Kim, Mýa and Pink",
+              "rank": 1,
+              "title": "Lady Marmalade"
+            }
+          ],
+          "startDate": "2001-06-02"
+        },
+        {
+          "endDate": "2001-08-03",
+          "items": [
+            {
+              "artist": "Usher",
+              "rank": 1,
+              "title": "U Remind Me"
+            }
+          ],
+          "startDate": "2001-07-07"
+        },
+        {
+          "endDate": "2001-08-17",
+          "items": [
+            {
+              "artist": "Destiny's Child",
+              "rank": 1,
+              "title": "Bootylicious"
+            }
+          ],
+          "startDate": "2001-08-04"
+        },
+        {
+          "endDate": "2001-09-07",
+          "items": [
+            {
+              "artist": "Alicia Keys",
+              "rank": 1,
+              "title": "Fallin'"
+            }
+          ],
+          "startDate": "2001-08-18"
+        },
+        {
+          "endDate": "2001-10-12",
+          "items": [
+            {
+              "artist": "Jennifer Lopez featuring Ja Rule",
+              "rank": 1,
+              "title": "I'm Real"
+            }
+          ],
+          "startDate": "2001-09-29"
+        },
+        {
+          "endDate": "2001-12-14",
+          "items": [
+            {
+              "artist": "Mary J. Blige",
+              "rank": 1,
+              "title": "Family Affair"
+            }
+          ],
+          "startDate": "2001-11-03"
+        },
+        {
+          "endDate": "2001-12-21",
+          "items": [
+            {
+              "artist": "Usher",
+              "rank": 1,
+              "title": "U Got It Bad"
+            }
+          ],
+          "startDate": "2001-12-15"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "104392b8b9893d313219f4c902eff923db7018b3a70259da6611effb580bbde5",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2001
+}

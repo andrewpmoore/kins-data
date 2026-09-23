@@ -10,6 +10,7 @@ its provider URL, territory, metric, semantic kind, observation time and ranks.
 ```sh
 python3 -m unittest tools/data_harvest/test_harvest.py
 python3 tools/data_harvest/generate_name_meanings_swift.py --check
+python3 tools/data_harvest/import_legacy_data.py
 python3 tools/data_harvest/harvest.py
 ```
 
@@ -32,9 +33,10 @@ and commits the new static snapshot to this public repository. The app reads it 
 `https://raw.githubusercontent.com/andrewpmoore/kins-data/main/hosted-data/`, so no
 paid hosting plan or cross-repository write token is required.
 
-The app asks only for an exact date snapshot. It caches a valid response and falls
-back to bundled facts if the host, schema or date is wrong. It never substitutes the
-current chart for an older birthday. Hosted name meanings extend the bundled
+The app first asks for an exact date snapshot, then checks the compact country/year
+history for an exact containing period. It caches valid responses and falls back to
+bundled facts if the host or schema is wrong. It never substitutes the current chart
+for an older birthday. Hosted name meanings extend the bundled
 dictionary and are accepted only from Behind the Name or English Wiktionary HTTPS
 references.
 
@@ -71,6 +73,15 @@ references.
 - `source-candidates.json` is the audited backlog of public movie, book and game
   pages. It records why each source is active, still a candidate, limited, stale or
   unavailable so a public webpage is not mistaken for a national measured chart.
+- `import_legacy_data.py` converts the old country music CSVs into year-addressed
+  periods. It keeps only rank-one rows, collapses exact duplicates, rejects every
+  date with conflicting rank-one values and never stretches one observation beyond
+  seven days. The old movie files are excluded because their three country copies
+  are effectively identical and include invalid 1900 dates. The NYT archive is
+  excluded because it is not national book-sales data and redistribution rights are
+  unclear. Birthday records are text-only, explicitly marked as unverified legacy
+  editorial data, and are used by the app only if its live Wikipedia result is empty;
+  legacy images are not republished.
 
 Do not relabel Apple charts as national sales or combine Australian state baby-name
 lists into a fabricated national rank. Public-page adapters retain only the small set

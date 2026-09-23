@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1964-01-12",
+          "items": [
+            {
+              "artist": "Luis Aguilé",
+              "rank": 1,
+              "title": "Dile"
+            }
+          ],
+          "startDate": "1964-01-01"
+        },
+        {
+          "endDate": "1964-01-19",
+          "items": [
+            {
+              "artist": "Adriano Celentano",
+              "rank": 1,
+              "title": "Pregheró"
+            }
+          ],
+          "startDate": "1964-01-13"
+        },
+        {
+          "endDate": "1964-02-02",
+          "items": [
+            {
+              "artist": "Rita Pavone",
+              "rank": 1,
+              "title": "Cuore"
+            }
+          ],
+          "startDate": "1964-01-20"
+        },
+        {
+          "endDate": "1964-03-15",
+          "items": [
+            {
+              "artist": "Trini López",
+              "rank": 1,
+              "title": "If I Had a Hammer"
+            }
+          ],
+          "startDate": "1964-02-03"
+        },
+        {
+          "endDate": "1964-04-12",
+          "items": [
+            {
+              "artist": "Trini López",
+              "rank": 1,
+              "title": "If I Had a Hammer"
+            }
+          ],
+          "startDate": "1964-03-18"
+        },
+        {
+          "endDate": "1964-05-17",
+          "items": [
+            {
+              "artist": "Gigliola Cinquetti",
+              "rank": 1,
+              "title": "Non Ho L'Etá"
+            }
+          ],
+          "startDate": "1964-04-13"
+        },
+        {
+          "endDate": "1964-07-12",
+          "items": [
+            {
+              "artist": "Charles Aznavour",
+              "rank": 1,
+              "title": "La Mamma"
+            }
+          ],
+          "startDate": "1964-05-18"
+        },
+        {
+          "endDate": "1964-07-19",
+          "items": [
+            {
+              "artist": "Sylvie Vartan",
+              "rank": 1,
+              "title": "Si Je Chante"
+            }
+          ],
+          "startDate": "1964-07-13"
+        },
+        {
+          "endDate": "1964-07-26",
+          "items": [
+            {
+              "artist": "Les Surfs",
+              "rank": 1,
+              "title": "Tú Serás Mi Baby"
+            }
+          ],
+          "startDate": "1964-07-20"
+        },
+        {
+          "endDate": "1964-08-09",
+          "items": [
+            {
+              "artist": "Mina",
+              "rank": 1,
+              "title": "Ciudad Solitaria"
+            }
+          ],
+          "startDate": "1964-07-27"
+        },
+        {
+          "endDate": "1964-09-27",
+          "items": [
+            {
+              "artist": "Les Surfs",
+              "rank": 1,
+              "title": "Tú Serás Mi Baby"
+            }
+          ],
+          "startDate": "1964-08-10"
+        },
+        {
+          "endDate": "1964-10-11",
+          "items": [
+            {
+              "artist": "Les Surfs",
+              "rank": 1,
+              "title": "Tú Serás Mi Baby"
+            }
+          ],
+          "startDate": "1964-10-05"
+        },
+        {
+          "endDate": "1964-10-25",
+          "items": [
+            {
+              "artist": "Petula Clark",
+              "rank": 1,
+              "title": "Tú No Tienes Corazón"
+            }
+          ],
+          "startDate": "1964-10-12"
+        },
+        {
+          "endDate": "1964-10-27",
+          "items": [
+            {
+              "artist": "Les Surfs",
+              "rank": 1,
+              "title": "Ahora Te Puedes Marchar"
+            }
+          ],
+          "startDate": "1964-10-26"
+        },
+        {
+          "endDate": "1964-11-01",
+          "items": [
+            {
+              "artist": "Luis Aguilé",
+              "rank": 1,
+              "title": "Verde, Verde"
+            }
+          ],
+          "startDate": "1964-10-28"
+        },
+        {
+          "endDate": "1964-11-15",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "A Hard Day's Night"
+            }
+          ],
+          "startDate": "1964-11-02"
+        },
+        {
+          "endDate": "1964-12-27",
+          "items": [
+            {
+              "artist": "Alain Barriere",
+              "rank": 1,
+              "title": "Ma vie"
+            }
+          ],
+          "startDate": "1964-11-16"
+        },
+        {
+          "endDate": "1964-12-31",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "A Hard Day's Night"
+            }
+          ],
+          "startDate": "1964-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "09a9634741f018de8d402b9fbe341f4b14a923d0bdbe1e86ad4c880b3dc792df",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1964
+}

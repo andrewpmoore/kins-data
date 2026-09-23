@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1980-01-04",
+          "items": [
+            {
+              "artist": "Rupert Holmes",
+              "rank": 1,
+              "title": "Escape"
+            }
+          ],
+          "startDate": "1980-01-01"
+        },
+        {
+          "endDate": "1980-02-15",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Rock with You"
+            }
+          ],
+          "startDate": "1980-01-19"
+        },
+        {
+          "endDate": "1980-02-22",
+          "items": [
+            {
+              "artist": "Captain & Tennille",
+              "rank": 1,
+              "title": "Do That to Me One More Time"
+            }
+          ],
+          "startDate": "1980-02-16"
+        },
+        {
+          "endDate": "1980-03-21",
+          "items": [
+            {
+              "artist": "Queen",
+              "rank": 1,
+              "title": "Crazy Little Thing Called Love"
+            }
+          ],
+          "startDate": "1980-02-23"
+        },
+        {
+          "endDate": "1980-04-18",
+          "items": [
+            {
+              "artist": "Pink Floyd",
+              "rank": 1,
+              "title": "Another Brick in the Wall"
+            }
+          ],
+          "startDate": "1980-03-22"
+        },
+        {
+          "endDate": "1980-05-30",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "Call Me\"♪"
+            }
+          ],
+          "startDate": "1980-04-19"
+        },
+        {
+          "endDate": "1980-06-27",
+          "items": [
+            {
+              "artist": "Lipps, Inc.",
+              "rank": 1,
+              "title": "Funkytown"
+            }
+          ],
+          "startDate": "1980-05-31"
+        },
+        {
+          "endDate": "1980-07-18",
+          "items": [
+            {
+              "artist": "Paul McCartney",
+              "rank": 1,
+              "title": "Coming Up"
+            }
+          ],
+          "startDate": "1980-06-28"
+        },
+        {
+          "endDate": "1980-08-01",
+          "items": [
+            {
+              "artist": "Billy Joel",
+              "rank": 1,
+              "title": "It's Still Rock and Roll to Me"
+            }
+          ],
+          "startDate": "1980-07-19"
+        },
+        {
+          "endDate": "1980-08-29",
+          "items": [
+            {
+              "artist": "Olivia Newton-John",
+              "rank": 1,
+              "title": "Magic"
+            }
+          ],
+          "startDate": "1980-08-02"
+        },
+        {
+          "endDate": "1980-09-05",
+          "items": [
+            {
+              "artist": "Christopher Cross",
+              "rank": 1,
+              "title": "Sailing"
+            }
+          ],
+          "startDate": "1980-08-30"
+        },
+        {
+          "endDate": "1980-10-03",
+          "items": [
+            {
+              "artist": "Diana Ross",
+              "rank": 1,
+              "title": "Upside Down"
+            }
+          ],
+          "startDate": "1980-09-06"
+        },
+        {
+          "endDate": "1980-10-24",
+          "items": [
+            {
+              "artist": "Queen",
+              "rank": 1,
+              "title": "Another One Bites the Dust"
+            }
+          ],
+          "startDate": "1980-10-04"
+        },
+        {
+          "endDate": "1980-11-14",
+          "items": [
+            {
+              "artist": "Barbra Streisand",
+              "rank": 1,
+              "title": "Woman in Love"
+            }
+          ],
+          "startDate": "1980-10-25"
+        },
+        {
+          "endDate": "1980-12-26",
+          "items": [
+            {
+              "artist": "Kenny Rogers",
+              "rank": 1,
+              "title": "Lady"
+            }
+          ],
+          "startDate": "1980-11-15"
+        },
+        {
+          "endDate": "1980-12-31",
+          "items": [
+            {
+              "artist": "John Lennon",
+              "rank": 1,
+              "title": "Starting Over"
+            }
+          ],
+          "startDate": "1980-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "fc374d1a9a79a96fba1c971525785aca129f72b1ff2d3fddc2b3743dc49c33b3",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1980
+}

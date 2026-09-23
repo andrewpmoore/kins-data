@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2024-01-12",
+          "items": [
+            {
+              "artist": "Jack Harlow",
+              "rank": 1,
+              "title": "Lovin on Me"
+            }
+          ],
+          "startDate": "2024-01-06"
+        },
+        {
+          "endDate": "2024-02-02",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "Yes, And?"
+            }
+          ],
+          "startDate": "2024-01-27"
+        },
+        {
+          "endDate": "2024-02-16",
+          "items": [
+            {
+              "artist": "Megan Thee Stallion",
+              "rank": 1,
+              "title": "Hiss"
+            }
+          ],
+          "startDate": "2024-02-10"
+        },
+        {
+          "endDate": "2024-03-15",
+          "items": [
+            {
+              "artist": "Beyoncé",
+              "rank": 1,
+              "title": "Texas Hold 'Em"
+            }
+          ],
+          "startDate": "2024-03-02"
+        },
+        {
+          "endDate": "2024-03-22",
+          "items": [
+            {
+              "artist": "¥$: Ye and Ty Dolla Sign featuring Rich the Kid and Playboi Carti",
+              "rank": 1,
+              "title": "Carnival"
+            }
+          ],
+          "startDate": "2024-03-16"
+        },
+        {
+          "endDate": "2024-03-29",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "We Can't Be Friends"
+            }
+          ],
+          "startDate": "2024-03-23"
+        },
+        {
+          "endDate": "2024-04-05",
+          "items": [
+            {
+              "artist": "Teddy Swims",
+              "rank": 1,
+              "title": "Lose Control\" ♪"
+            }
+          ],
+          "startDate": "2024-03-30"
+        },
+        {
+          "endDate": "2024-04-26",
+          "items": [
+            {
+              "artist": "Future, Metro Boomin and Kendrick Lamar",
+              "rank": 1,
+              "title": "Like That"
+            }
+          ],
+          "startDate": "2024-04-06"
+        },
+        {
+          "endDate": "2024-05-03",
+          "items": [
+            {
+              "artist": "Hozier",
+              "rank": 1,
+              "title": "Too Sweet"
+            }
+          ],
+          "startDate": "2024-04-27"
+        },
+        {
+          "endDate": "2024-05-17",
+          "items": [
+            {
+              "artist": "Taylor Swift featuring Post Malone",
+              "rank": 1,
+              "title": "Fortnight"
+            }
+          ],
+          "startDate": "2024-05-04"
+        },
+        {
+          "endDate": "2024-05-24",
+          "items": [
+            {
+              "artist": "Kendrick Lamar",
+              "rank": 1,
+              "title": "Not Like Us"
+            }
+          ],
+          "startDate": "2024-05-18"
+        },
+        {
+          "endDate": "2024-06-28",
+          "items": [
+            {
+              "artist": "Post Malone featuring Morgan Wallen",
+              "rank": 1,
+              "title": "I Had Some Help"
+            }
+          ],
+          "startDate": "2024-06-08"
+        },
+        {
+          "endDate": "2024-11-01",
+          "items": [
+            {
+              "artist": "Shaboozey",
+              "rank": 1,
+              "title": "A Bar Song"
+            }
+          ],
+          "startDate": "2024-07-13"
+        },
+        {
+          "endDate": "2024-11-22",
+          "items": [
+            {
+              "artist": "Shaboozey",
+              "rank": 1,
+              "title": "A Bar Song"
+            }
+          ],
+          "startDate": "2024-11-09"
+        },
+        {
+          "endDate": "2024-12-13",
+          "items": [
+            {
+              "artist": "Kendrick Lamar",
+              "rank": 1,
+              "title": "Squabble Up"
+            }
+          ],
+          "startDate": "2024-12-07"
+        },
+        {
+          "endDate": "2024-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2024-12-14"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "262c4969739c54d2824eee57251267d035242c402ba8e663fa5d6c131b1d472e",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2024
+}

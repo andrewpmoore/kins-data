@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2008-01-02",
+          "items": [
+            {
+              "artist": "Leon Jackson",
+              "rank": 1,
+              "title": "When You Believe"
+            }
+          ],
+          "startDate": "2008-01-01"
+        },
+        {
+          "endDate": "2008-02-13",
+          "items": [
+            {
+              "artist": "Basshunter",
+              "rank": 1,
+              "title": "Now You're Gone"
+            }
+          ],
+          "startDate": "2008-02-07"
+        },
+        {
+          "endDate": "2008-05-28",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Take A Bow"
+            }
+          ],
+          "startDate": "2008-05-22"
+        },
+        {
+          "endDate": "2008-08-27",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "I Kissed a Girl"
+            }
+          ],
+          "startDate": "2008-08-21"
+        },
+        {
+          "endDate": "2008-11-05",
+          "items": [
+            {
+              "artist": "The X Factor Finalists 2008",
+              "rank": 1,
+              "title": "Hero"
+            }
+          ],
+          "startDate": "2008-10-30"
+        },
+        {
+          "endDate": "2008-11-19",
+          "items": [
+            {
+              "artist": "The X Factor Finalists 2008",
+              "rank": 1,
+              "title": "Hero"
+            }
+          ],
+          "startDate": "2008-11-13"
+        },
+        {
+          "endDate": "2008-11-26",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "Run"
+            }
+          ],
+          "startDate": "2008-11-20"
+        },
+        {
+          "endDate": "2008-12-19",
+          "items": [
+            {
+              "artist": "Soulja Boy Tellem",
+              "rank": 1,
+              "title": "Crank That"
+            }
+          ],
+          "startDate": "2008-12-13"
+        },
+        {
+          "endDate": "2008-12-26",
+          "items": [
+            {
+              "artist": "Alexandra Burke",
+              "rank": 1,
+              "title": "Hallelujah"
+            }
+          ],
+          "startDate": "2008-12-25"
+        },
+        {
+          "endDate": "2008-12-31",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "Piece of Me"
+            }
+          ],
+          "startDate": "2008-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "51dca6a8df831cf5592572aef9b70bd3deeea8b1ab142f4010734f3a738984f6",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2008
+}

@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2010-01-01",
+          "items": [
+            {
+              "artist": "Jay-Z featuring Alicia Keys",
+              "rank": 1,
+              "title": "Empire State of Mind"
+            }
+          ],
+          "startDate": "2010-01-01"
+        },
+        {
+          "endDate": "2010-03-05",
+          "items": [
+            {
+              "artist": "Kesha",
+              "rank": 1,
+              "title": "Tik Tok\"♪"
+            }
+          ],
+          "startDate": "2010-01-02"
+        },
+        {
+          "endDate": "2010-03-19",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas",
+              "rank": 1,
+              "title": "Imma Be"
+            }
+          ],
+          "startDate": "2010-03-06"
+        },
+        {
+          "endDate": "2010-03-26",
+          "items": [
+            {
+              "artist": "Taio Cruz featuring Ludacris",
+              "rank": 1,
+              "title": "Break Your Heart"
+            }
+          ],
+          "startDate": "2010-03-20"
+        },
+        {
+          "endDate": "2010-04-30",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Rude Boy"
+            }
+          ],
+          "startDate": "2010-03-27"
+        },
+        {
+          "endDate": "2010-05-14",
+          "items": [
+            {
+              "artist": "B.o.B featuring Bruno Mars",
+              "rank": 1,
+              "title": "Nothin' on You"
+            }
+          ],
+          "startDate": "2010-05-01"
+        },
+        {
+          "endDate": "2010-05-21",
+          "items": [
+            {
+              "artist": "Usher featuring will.i.am",
+              "rank": 1,
+              "title": "OMG"
+            }
+          ],
+          "startDate": "2010-05-15"
+        },
+        {
+          "endDate": "2010-06-11",
+          "items": [
+            {
+              "artist": "Usher featuring will.i.am",
+              "rank": 1,
+              "title": "OMG"
+            }
+          ],
+          "startDate": "2010-05-29"
+        },
+        {
+          "endDate": "2010-07-30",
+          "items": [
+            {
+              "artist": "Katy Perry featuring Snoop Dogg",
+              "rank": 1,
+              "title": "California Gurls"
+            }
+          ],
+          "startDate": "2010-06-19"
+        },
+        {
+          "endDate": "2010-09-17",
+          "items": [
+            {
+              "artist": "Eminem featuring Rihanna",
+              "rank": 1,
+              "title": "Love the Way You Lie"
+            }
+          ],
+          "startDate": "2010-07-31"
+        },
+        {
+          "endDate": "2010-10-01",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Teenage Dream"
+            }
+          ],
+          "startDate": "2010-09-18"
+        },
+        {
+          "endDate": "2010-10-29",
+          "items": [
+            {
+              "artist": "Bruno Mars",
+              "rank": 1,
+              "title": "Just the Way You Are"
+            }
+          ],
+          "startDate": "2010-10-02"
+        },
+        {
+          "endDate": "2010-11-12",
+          "items": [
+            {
+              "artist": "Far East Movement featuring The Cataracs and Dev",
+              "rank": 1,
+              "title": "Like a G6"
+            }
+          ],
+          "startDate": "2010-10-30"
+        },
+        {
+          "endDate": "2010-11-26",
+          "items": [
+            {
+              "artist": "Rihanna featuring Drake",
+              "rank": 1,
+              "title": "What's My Name?"
+            }
+          ],
+          "startDate": "2010-11-20"
+        },
+        {
+          "endDate": "2010-12-10",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Only Girl"
+            }
+          ],
+          "startDate": "2010-12-04"
+        },
+        {
+          "endDate": "2010-12-17",
+          "items": [
+            {
+              "artist": "Pink",
+              "rank": 1,
+              "title": "Raise Your Glass"
+            }
+          ],
+          "startDate": "2010-12-11"
+        },
+        {
+          "endDate": "2010-12-31",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Firework"
+            }
+          ],
+          "startDate": "2010-12-18"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "63f02411c5a4dd4c1319fc378f9855eb8fa9023f139e9319ff0f5631dda81e9e",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2010
+}

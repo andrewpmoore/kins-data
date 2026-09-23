@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2021-01-07",
+          "items": [
+            {
+              "artist": "Angèle",
+              "rank": 1,
+              "title": "Bruxelles je t'aime"
+            }
+          ],
+          "startDate": "2021-01-01"
+        },
+        {
+          "endDate": "2021-01-15",
+          "items": [
+            {
+              "artist": "Julien Doré",
+              "rank": 1,
+              "title": "Nous"
+            }
+          ],
+          "startDate": "2021-01-09"
+        },
+        {
+          "endDate": "2021-01-22",
+          "items": [
+            {
+              "artist": "Collectif Artistes azuréens 06",
+              "rank": 1,
+              "title": "Nos vallées"
+            }
+          ],
+          "startDate": "2021-01-16"
+        },
+        {
+          "endDate": "2021-01-29",
+          "items": [
+            {
+              "artist": "Sia",
+              "rank": 1,
+              "title": "Courage to Change"
+            }
+          ],
+          "startDate": "2021-01-23"
+        },
+        {
+          "endDate": "2021-02-26",
+          "items": [
+            {
+              "artist": "M. Pokora and Dadju",
+              "rank": 1,
+              "title": "Si on disait"
+            }
+          ],
+          "startDate": "2021-02-20"
+        },
+        {
+          "endDate": "2021-03-19",
+          "items": [
+            {
+              "artist": "Tayc",
+              "rank": 1,
+              "title": "Le temps"
+            }
+          ],
+          "startDate": "2021-03-13"
+        },
+        {
+          "endDate": "2021-05-07",
+          "items": [
+            {
+              "artist": "Faouzia and John Legend",
+              "rank": 1,
+              "title": "Minefields"
+            }
+          ],
+          "startDate": "2021-05-01"
+        },
+        {
+          "endDate": "2021-05-21",
+          "items": [
+            {
+              "artist": "Kimberose",
+              "rank": 1,
+              "title": "Back on My Feet"
+            }
+          ],
+          "startDate": "2021-05-15"
+        },
+        {
+          "endDate": "2021-07-09",
+          "items": [
+            {
+              "artist": "Naps",
+              "rank": 1,
+              "title": "La kiffance"
+            }
+          ],
+          "startDate": "2021-07-03"
+        },
+        {
+          "endDate": "2021-07-30",
+          "items": [
+            {
+              "artist": "BTS",
+              "rank": 1,
+              "title": "Permission to Dance"
+            }
+          ],
+          "startDate": "2021-07-24"
+        },
+        {
+          "endDate": "2021-08-06",
+          "items": [
+            {
+              "artist": "Kungs",
+              "rank": 1,
+              "title": "Never Going Home"
+            }
+          ],
+          "startDate": "2021-07-31"
+        },
+        {
+          "endDate": "2021-08-13",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "Bad Habits"
+            }
+          ],
+          "startDate": "2021-08-07"
+        },
+        {
+          "endDate": "2021-09-17",
+          "items": [
+            {
+              "artist": "Elton John and Dua Lipa",
+              "rank": 1,
+              "title": "Cold Heart"
+            }
+          ],
+          "startDate": "2021-09-11"
+        },
+        {
+          "endDate": "2021-10-08",
+          "items": [
+            {
+              "artist": "F. R. David",
+              "rank": 1,
+              "title": "Words"
+            }
+          ],
+          "startDate": "2021-10-02"
+        },
+        {
+          "endDate": "2021-11-19",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "Shivers"
+            }
+          ],
+          "startDate": "2021-11-13"
+        },
+        {
+          "endDate": "2021-12-10",
+          "items": [
+            {
+              "artist": "Orelsan",
+              "rank": 1,
+              "title": "L'odeur de l'essence"
+            }
+          ],
+          "startDate": "2021-12-04"
+        },
+        {
+          "endDate": "2021-12-24",
+          "items": [
+            {
+              "artist": "Ed Sheeran and Elton John",
+              "rank": 1,
+              "title": "Merry Christmas"
+            }
+          ],
+          "startDate": "2021-12-18"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-01",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "43168dca5ba9263c80aa77144a542c9c363c10f3085ae2f44648191650963535",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2021
+}

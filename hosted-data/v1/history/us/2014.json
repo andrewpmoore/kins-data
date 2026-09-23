@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2014-01-17",
+          "items": [
+            {
+              "artist": "Eminem featuring Rihanna",
+              "rank": 1,
+              "title": "The Monster"
+            }
+          ],
+          "startDate": "2014-01-01"
+        },
+        {
+          "endDate": "2014-02-07",
+          "items": [
+            {
+              "artist": "Pitbull featuring Kesha",
+              "rank": 1,
+              "title": "Timber"
+            }
+          ],
+          "startDate": "2014-01-18"
+        },
+        {
+          "endDate": "2014-03-07",
+          "items": [
+            {
+              "artist": "Katy Perry featuring Juicy J",
+              "rank": 1,
+              "title": "Dark Horse"
+            }
+          ],
+          "startDate": "2014-02-08"
+        },
+        {
+          "endDate": "2014-05-16",
+          "items": [
+            {
+              "artist": "Pharrell Williams",
+              "rank": 1,
+              "title": "Happy\"♪"
+            }
+          ],
+          "startDate": "2014-03-08"
+        },
+        {
+          "endDate": "2014-06-06",
+          "items": [
+            {
+              "artist": "John Legend",
+              "rank": 1,
+              "title": "All of Me"
+            }
+          ],
+          "startDate": "2014-05-17"
+        },
+        {
+          "endDate": "2014-07-25",
+          "items": [
+            {
+              "artist": "Iggy Azalea featuring Charli XCX",
+              "rank": 1,
+              "title": "Fancy"
+            }
+          ],
+          "startDate": "2014-06-07"
+        },
+        {
+          "endDate": "2014-09-05",
+          "items": [
+            {
+              "artist": "Magic!",
+              "rank": 1,
+              "title": "Rude"
+            }
+          ],
+          "startDate": "2014-07-26"
+        },
+        {
+          "endDate": "2014-09-19",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Shake It Off"
+            }
+          ],
+          "startDate": "2014-09-06"
+        },
+        {
+          "endDate": "2014-11-14",
+          "items": [
+            {
+              "artist": "Meghan Trainor",
+              "rank": 1,
+              "title": "All About That Bass"
+            }
+          ],
+          "startDate": "2014-10-04"
+        },
+        {
+          "endDate": "2014-12-31",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Blank Space"
+            }
+          ],
+          "startDate": "2014-11-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "75d581e4c6696abf788381f036a7b794f6b52d293ae08c45ee47ed44df46f249",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2014
+}

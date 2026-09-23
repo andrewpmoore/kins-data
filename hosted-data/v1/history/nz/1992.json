@@ -1,0 +1,99 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1992-01-18",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Black or White"
+            }
+          ],
+          "startDate": "1992-01-01"
+        },
+        {
+          "endDate": "1992-04-25",
+          "items": [
+            {
+              "artist": "Mr. Big",
+              "rank": 1,
+              "title": "To Be with You"
+            }
+          ],
+          "startDate": "1992-03-22"
+        },
+        {
+          "endDate": "1992-06-13",
+          "items": [
+            {
+              "artist": "Eric Clapton",
+              "rank": 1,
+              "title": "Tears in Heaven"
+            }
+          ],
+          "startDate": "1992-05-10"
+        },
+        {
+          "endDate": "1992-08-22",
+          "items": [
+            {
+              "artist": "Mariah Carey featuring Trey Lorenz",
+              "rank": 1,
+              "title": "I'll Be There"
+            }
+          ],
+          "startDate": "1992-07-19"
+        },
+        {
+          "endDate": "1992-10-17",
+          "items": [
+            {
+              "artist": "Billy Ray Cyrus",
+              "rank": 1,
+              "title": "Achy Breaky Heart"
+            }
+          ],
+          "startDate": "1992-09-06"
+        },
+        {
+          "endDate": "1992-12-05",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "End of the Road"
+            }
+          ],
+          "startDate": "1992-10-18"
+        },
+        {
+          "endDate": "1992-12-31",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You"
+            }
+          ],
+          "startDate": "1992-12-20"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "52b9d090d3764265e1775535badffcab8725f0e5233fb528dbf186cd44d9f615",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1992
+}

@@ -1,0 +1,176 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1943-01-15",
+          "items": [
+            {
+              "artist": "Bing Crosby",
+              "rank": 1,
+              "title": "White Christmas"
+            }
+          ],
+          "startDate": "1943-01-01"
+        },
+        {
+          "endDate": "1943-02-12",
+          "items": [
+            {
+              "artist": "Tommy Dorsey",
+              "rank": 1,
+              "title": "There Are Such Things"
+            }
+          ],
+          "startDate": "1943-01-16"
+        },
+        {
+          "endDate": "1943-02-26",
+          "items": [
+            {
+              "artist": "Harry James",
+              "rank": 1,
+              "title": "I Had the Craziest Dream"
+            }
+          ],
+          "startDate": "1943-02-13"
+        },
+        {
+          "endDate": "1943-03-05",
+          "items": [
+            {
+              "artist": "Tommy Dorsey",
+              "rank": 1,
+              "title": "There Are Such Things"
+            }
+          ],
+          "startDate": "1943-02-27"
+        },
+        {
+          "endDate": "1943-05-28",
+          "items": [
+            {
+              "artist": "Harry James",
+              "rank": 1,
+              "title": "I've Heard That Song Before"
+            }
+          ],
+          "startDate": "1943-03-06"
+        },
+        {
+          "endDate": "1943-06-04",
+          "items": [
+            {
+              "artist": "Glenn Miller",
+              "rank": 1,
+              "title": "That Old Black Magic"
+            }
+          ],
+          "startDate": "1943-05-29"
+        },
+        {
+          "endDate": "1943-06-11",
+          "items": [
+            {
+              "artist": "Harry James",
+              "rank": 1,
+              "title": "I've Heard That Song Before"
+            }
+          ],
+          "startDate": "1943-06-05"
+        },
+        {
+          "endDate": "1943-07-02",
+          "items": [
+            {
+              "artist": "Benny Goodman",
+              "rank": 1,
+              "title": "Taking A Chance On Love"
+            }
+          ],
+          "startDate": "1943-06-12"
+        },
+        {
+          "endDate": "1943-07-23",
+          "items": [
+            {
+              "artist": "The Song Spinners",
+              "rank": 1,
+              "title": "Comin' In On A Wing And A Prayer"
+            }
+          ],
+          "startDate": "1943-07-03"
+        },
+        {
+          "endDate": "1943-08-20",
+          "items": [
+            {
+              "artist": "Dick Haymes",
+              "rank": 1,
+              "title": "You'll Never Know"
+            }
+          ],
+          "startDate": "1943-07-24"
+        },
+        {
+          "endDate": "1943-09-10",
+          "items": [
+            {
+              "artist": "Tommy Dorsey",
+              "rank": 1,
+              "title": "In the Blue of Evening"
+            }
+          ],
+          "startDate": "1943-08-21"
+        },
+        {
+          "endDate": "1943-10-29",
+          "items": [
+            {
+              "artist": "Bing Crosby",
+              "rank": 1,
+              "title": "Sunday, Monday Or Always"
+            }
+          ],
+          "startDate": "1943-09-11"
+        },
+        {
+          "endDate": "1943-11-05",
+          "items": [
+            {
+              "artist": "Al Dexter",
+              "rank": 1,
+              "title": "Pistol Packin' Mama"
+            }
+          ],
+          "startDate": "1943-10-30"
+        },
+        {
+          "endDate": "1943-12-31",
+          "items": [
+            {
+              "artist": "Mills Brothers",
+              "rank": 1,
+              "title": "Paper Doll"
+            }
+          ],
+          "startDate": "1943-11-06"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3fe4c5ae98323fbb36b3dca3d25edc15108483cb479060909e7d3fc44b90d46f",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1943
+}

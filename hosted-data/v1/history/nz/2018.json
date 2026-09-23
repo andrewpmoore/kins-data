@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2018-02-04",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "Perfect"
+            }
+          ],
+          "startDate": "2018-01-01"
+        },
+        {
+          "endDate": "2018-04-08",
+          "items": [
+            {
+              "artist": "Drake",
+              "rank": 1,
+              "title": "God's Plan"
+            }
+          ],
+          "startDate": "2018-02-05"
+        },
+        {
+          "endDate": "2018-04-22",
+          "items": [
+            {
+              "artist": "Lil Dicky featuring Chris Brown",
+              "rank": 1,
+              "title": "Freaky Friday"
+            }
+          ],
+          "startDate": "2018-04-09"
+        },
+        {
+          "endDate": "2018-05-20",
+          "items": [
+            {
+              "artist": "Drake",
+              "rank": 1,
+              "title": "Nice for What"
+            }
+          ],
+          "startDate": "2018-04-23"
+        },
+        {
+          "endDate": "2018-06-03",
+          "items": [
+            {
+              "artist": "Childish Gambino",
+              "rank": 1,
+              "title": "This Is America"
+            }
+          ],
+          "startDate": "2018-05-21"
+        },
+        {
+          "endDate": "2018-06-10",
+          "items": [
+            {
+              "artist": "Post Malone",
+              "rank": 1,
+              "title": "Better Now"
+            }
+          ],
+          "startDate": "2018-06-04"
+        },
+        {
+          "endDate": "2018-07-08",
+          "items": [
+            {
+              "artist": "5 Seconds of Summer",
+              "rank": 1,
+              "title": "Youngblood"
+            }
+          ],
+          "startDate": "2018-06-11"
+        },
+        {
+          "endDate": "2018-07-22",
+          "items": [
+            {
+              "artist": "Maroon 5 featuring Cardi B",
+              "rank": 1,
+              "title": "Girls Like You"
+            }
+          ],
+          "startDate": "2018-07-09"
+        },
+        {
+          "endDate": "2018-08-26",
+          "items": [
+            {
+              "artist": "Drake",
+              "rank": 1,
+              "title": "In My Feelings"
+            }
+          ],
+          "startDate": "2018-07-23"
+        },
+        {
+          "endDate": "2018-09-23",
+          "items": [
+            {
+              "artist": "Benny Blanco, Halsey and Khalid",
+              "rank": 1,
+              "title": "Eastside"
+            }
+          ],
+          "startDate": "2018-08-27"
+        },
+        {
+          "endDate": "2018-09-30",
+          "items": [
+            {
+              "artist": "Kanye West and Lil Pump",
+              "rank": 1,
+              "title": "I Love It"
+            }
+          ],
+          "startDate": "2018-09-24"
+        },
+        {
+          "endDate": "2018-10-07",
+          "items": [
+            {
+              "artist": "Lil Peep and XXXTentacion",
+              "rank": 1,
+              "title": "Falling Down"
+            }
+          ],
+          "startDate": "2018-10-01"
+        },
+        {
+          "endDate": "2018-11-04",
+          "items": [
+            {
+              "artist": "George Ezra",
+              "rank": 1,
+              "title": "Shotgun"
+            }
+          ],
+          "startDate": "2018-10-08"
+        },
+        {
+          "endDate": "2018-11-18",
+          "items": [
+            {
+              "artist": "Lady Gaga and Bradley Cooper",
+              "rank": 1,
+              "title": "Shallow"
+            }
+          ],
+          "startDate": "2018-11-05"
+        },
+        {
+          "endDate": "2018-12-30",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "Thank U, Next"
+            }
+          ],
+          "startDate": "2018-11-19"
+        },
+        {
+          "endDate": "2018-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2018-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "db8c715b3fbef027820de181cc3fc5157e74f6f81229f73e1dbe5e603f481226",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 2018
+}

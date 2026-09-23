@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1978-01-01",
+          "items": [
+            {
+              "artist": "Jean Michel Jarre",
+              "rank": 1,
+              "title": "Oxygène"
+            }
+          ],
+          "startDate": "1978-01-01"
+        },
+        {
+          "endDate": "1978-02-19",
+          "items": [
+            {
+              "artist": "Elsa Baeza",
+              "rank": 1,
+              "title": "Credo"
+            }
+          ],
+          "startDate": "1978-01-02"
+        },
+        {
+          "endDate": "1978-02-26",
+          "items": [
+            {
+              "artist": "Café Crème",
+              "rank": 1,
+              "title": "Unlimited Citations"
+            }
+          ],
+          "startDate": "1978-02-20"
+        },
+        {
+          "endDate": "1978-04-16",
+          "items": [
+            {
+              "artist": "Umberto Tozzi",
+              "rank": 1,
+              "title": "Te amo"
+            }
+          ],
+          "startDate": "1978-02-27"
+        },
+        {
+          "endDate": "1978-04-30",
+          "items": [
+            {
+              "artist": "Richard Clayderman",
+              "rank": 1,
+              "title": "Ballade pour Adeline"
+            }
+          ],
+          "startDate": "1978-04-17"
+        },
+        {
+          "endDate": "1978-05-07",
+          "items": [
+            {
+              "artist": "I Collage",
+              "rank": 1,
+              "title": "Poco a poco... me enamoré de ti"
+            }
+          ],
+          "startDate": "1978-05-01"
+        },
+        {
+          "endDate": "1978-05-14",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Stayin' Alive"
+            }
+          ],
+          "startDate": "1978-05-08"
+        },
+        {
+          "endDate": "1978-05-21",
+          "items": [
+            {
+              "artist": "Umberto Tozzi",
+              "rank": 1,
+              "title": "Te Amo"
+            }
+          ],
+          "startDate": "1978-05-15"
+        },
+        {
+          "endDate": "1978-06-18",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Stayin' Alive"
+            }
+          ],
+          "startDate": "1978-05-22"
+        },
+        {
+          "endDate": "1978-07-02",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Night Fever"
+            }
+          ],
+          "startDate": "1978-06-19"
+        },
+        {
+          "endDate": "1978-07-16",
+          "items": [
+            {
+              "artist": "Daniel Magal",
+              "rank": 1,
+              "title": "Cara de gitana"
+            }
+          ],
+          "startDate": "1978-07-03"
+        },
+        {
+          "endDate": "1978-07-23",
+          "items": [
+            {
+              "artist": "Matia Bazar",
+              "rank": 1,
+              "title": "Sólo tú"
+            }
+          ],
+          "startDate": "1978-07-17"
+        },
+        {
+          "endDate": "1978-07-30",
+          "items": [
+            {
+              "artist": "Daniel Magal",
+              "rank": 1,
+              "title": "Cara de gitana"
+            }
+          ],
+          "startDate": "1978-07-24"
+        },
+        {
+          "endDate": "1978-08-13",
+          "items": [
+            {
+              "artist": "Miguel Bosé",
+              "rank": 1,
+              "title": "Anna"
+            }
+          ],
+          "startDate": "1978-07-31"
+        },
+        {
+          "endDate": "1978-08-27",
+          "items": [
+            {
+              "artist": "Bonnie Tyler",
+              "rank": 1,
+              "title": "It's a Heartache"
+            }
+          ],
+          "startDate": "1978-08-14"
+        },
+        {
+          "endDate": "1978-10-01",
+          "items": [
+            {
+              "artist": "Boney M",
+              "rank": 1,
+              "title": "Rivers of Babylon"
+            }
+          ],
+          "startDate": "1978-08-28"
+        },
+        {
+          "endDate": "1978-10-08",
+          "items": [
+            {
+              "artist": "Luisa Fernández",
+              "rank": 1,
+              "title": "Lay Love on You"
+            }
+          ],
+          "startDate": "1978-10-02"
+        },
+        {
+          "endDate": "1978-12-03",
+          "items": [
+            {
+              "artist": "John Travolta & Olivia Newton-John",
+              "rank": 1,
+              "title": "You're the One That I Want"
+            }
+          ],
+          "startDate": "1978-10-09"
+        },
+        {
+          "endDate": "1978-12-31",
+          "items": [
+            {
+              "artist": "Umberto Tozzi",
+              "rank": 1,
+              "title": "Tú"
+            }
+          ],
+          "startDate": "1978-12-04"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "787fc042c26956bc3997b208799943271907833a35976cbcdce47dabfb475e4c",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1978
+}

@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1997-01-05",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1997-01-01"
+        },
+        {
+          "endDate": "1997-03-16",
+          "items": [
+            {
+              "artist": "Andrea Bocelli and Sarah Brightman",
+              "rank": 1,
+              "title": "Time to Say Goodbye\"†"
+            }
+          ],
+          "startDate": "1997-01-06"
+        },
+        {
+          "endDate": "1997-05-04",
+          "items": [
+            {
+              "artist": "Tic Tac Toe",
+              "rank": 1,
+              "title": "Warum?"
+            }
+          ],
+          "startDate": "1997-03-17"
+        },
+        {
+          "endDate": "1997-05-11",
+          "items": [
+            {
+              "artist": "Sabrina Setlur",
+              "rank": 1,
+              "title": "Du Liebst Mich Nicht"
+            }
+          ],
+          "startDate": "1997-05-05"
+        },
+        {
+          "endDate": "1997-06-15",
+          "items": [
+            {
+              "artist": "Nana",
+              "rank": 1,
+              "title": "Lonely"
+            }
+          ],
+          "startDate": "1997-05-12"
+        },
+        {
+          "endDate": "1997-06-22",
+          "items": [
+            {
+              "artist": "Members of Mayday",
+              "rank": 1,
+              "title": "Sonic Empire"
+            }
+          ],
+          "startDate": "1997-06-16"
+        },
+        {
+          "endDate": "1997-06-29",
+          "items": [
+            {
+              "artist": "Hanson",
+              "rank": 1,
+              "title": "MMMBop"
+            }
+          ],
+          "startDate": "1997-06-23"
+        },
+        {
+          "endDate": "1997-09-14",
+          "items": [
+            {
+              "artist": "Puff Daddy featuring Faith Evans and 112",
+              "rank": 1,
+              "title": "I'll Be Missing You"
+            }
+          ],
+          "startDate": "1997-06-30"
+        },
+        {
+          "endDate": "1997-09-21",
+          "items": [
+            {
+              "artist": "Will Smith",
+              "rank": 1,
+              "title": "Men in Black"
+            }
+          ],
+          "startDate": "1997-09-15"
+        },
+        {
+          "endDate": "1997-11-09",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Candle in the Wind 1997"
+            }
+          ],
+          "startDate": "1997-09-22"
+        },
+        {
+          "endDate": "1997-12-21",
+          "items": [
+            {
+              "artist": "Aqua",
+              "rank": 1,
+              "title": "Barbie Girl"
+            }
+          ],
+          "startDate": "1997-11-10"
+        },
+        {
+          "endDate": "1997-12-28",
+          "items": [
+            {
+              "artist": "Run-D.M.C. vs. Jason Nevins",
+              "rank": 1,
+              "title": "It's Like That"
+            }
+          ],
+          "startDate": "1997-12-22"
+        },
+        {
+          "endDate": "1997-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1997-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "c8355fb6783d77a6632c0e8842b1907bdf010315749f53aa017c2b0c39a95c51",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1997
+}

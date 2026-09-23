@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1981-02-06",
+          "items": [
+            {
+              "artist": "John Lennon",
+              "rank": 1,
+              "title": "Starting Over"
+            }
+          ],
+          "startDate": "1981-01-01"
+        },
+        {
+          "endDate": "1981-03-06",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "The Tide Is High"
+            }
+          ],
+          "startDate": "1981-02-07"
+        },
+        {
+          "endDate": "1981-03-13",
+          "items": [
+            {
+              "artist": "Styx",
+              "rank": 1,
+              "title": "The Best of Times"
+            }
+          ],
+          "startDate": "1981-03-07"
+        },
+        {
+          "endDate": "1981-03-27",
+          "items": [
+            {
+              "artist": "John Lennon",
+              "rank": 1,
+              "title": "Woman"
+            }
+          ],
+          "startDate": "1981-03-14"
+        },
+        {
+          "endDate": "1981-04-17",
+          "items": [
+            {
+              "artist": "Kool & the Gang",
+              "rank": 1,
+              "title": "Celebration"
+            }
+          ],
+          "startDate": "1981-03-28"
+        },
+        {
+          "endDate": "1981-05-01",
+          "items": [
+            {
+              "artist": "Dolly Parton",
+              "rank": 1,
+              "title": "9 to 5"
+            }
+          ],
+          "startDate": "1981-04-18"
+        },
+        {
+          "endDate": "1981-05-15",
+          "items": [
+            {
+              "artist": "Sheena Easton",
+              "rank": 1,
+              "title": "Morning Train"
+            }
+          ],
+          "startDate": "1981-05-02"
+        },
+        {
+          "endDate": "1981-06-05",
+          "items": [
+            {
+              "artist": "Juice Newton",
+              "rank": 1,
+              "title": "Angel of the Morning"
+            }
+          ],
+          "startDate": "1981-05-16"
+        },
+        {
+          "endDate": "1981-08-28",
+          "items": [
+            {
+              "artist": "Stars on 45",
+              "rank": 1,
+              "title": "Stars on 45 Medley\"†"
+            }
+          ],
+          "startDate": "1981-06-06"
+        },
+        {
+          "endDate": "1981-09-04",
+          "items": [
+            {
+              "artist": "The Moody Blues",
+              "rank": 1,
+              "title": "Gemini Dream"
+            }
+          ],
+          "startDate": "1981-08-29"
+        },
+        {
+          "endDate": "1981-09-11",
+          "items": [
+            {
+              "artist": "Diesel",
+              "rank": 1,
+              "title": "Sausalito Summernight"
+            }
+          ],
+          "startDate": "1981-09-05"
+        },
+        {
+          "endDate": "1981-09-25",
+          "items": [
+            {
+              "artist": "Foreigner",
+              "rank": 1,
+              "title": "Urgent"
+            }
+          ],
+          "startDate": "1981-09-12"
+        },
+        {
+          "endDate": "1981-11-06",
+          "items": [
+            {
+              "artist": "Diana Ross and Lionel Richie",
+              "rank": 1,
+              "title": "Endless Love"
+            }
+          ],
+          "startDate": "1981-09-26"
+        },
+        {
+          "endDate": "1981-11-13",
+          "items": [
+            {
+              "artist": "The Police",
+              "rank": 1,
+              "title": "Every Little Thing She Does Is Magic"
+            }
+          ],
+          "startDate": "1981-11-07"
+        },
+        {
+          "endDate": "1981-12-18",
+          "items": [
+            {
+              "artist": "Jon and Vangelis",
+              "rank": 1,
+              "title": "The Friends of Mr. Cairo"
+            }
+          ],
+          "startDate": "1981-11-14"
+        },
+        {
+          "endDate": "1981-12-31",
+          "items": [
+            {
+              "artist": "Olivia Newton-John",
+              "rank": 1,
+              "title": "Physical"
+            }
+          ],
+          "startDate": "1981-12-19"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "aad82c683eed0650e7fb38e42a087f5965531cc5f140fb0342285a853f33fcfa",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1981
+}

@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1985-01-06",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1985-01-01"
+        },
+        {
+          "endDate": "1985-01-20",
+          "items": [
+            {
+              "artist": "Band Aid",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "1985-01-07"
+        },
+        {
+          "endDate": "1985-02-03",
+          "items": [
+            {
+              "artist": "Murray Head",
+              "rank": 1,
+              "title": "One Night in Bangkok"
+            }
+          ],
+          "startDate": "1985-01-21"
+        },
+        {
+          "endDate": "1985-03-03",
+          "items": [
+            {
+              "artist": "Tears for Fears",
+              "rank": 1,
+              "title": "Shout"
+            }
+          ],
+          "startDate": "1985-02-04"
+        },
+        {
+          "endDate": "1985-04-14",
+          "items": [
+            {
+              "artist": "Modern Talking",
+              "rank": 1,
+              "title": "You're My Heart, You're My Soul"
+            }
+          ],
+          "startDate": "1985-03-04"
+        },
+        {
+          "endDate": "1985-06-02",
+          "items": [
+            {
+              "artist": "Opus",
+              "rank": 1,
+              "title": "Live Is Life\" †"
+            }
+          ],
+          "startDate": "1985-04-15"
+        },
+        {
+          "endDate": "1985-06-09",
+          "items": [
+            {
+              "artist": "Modern Talking",
+              "rank": 1,
+              "title": "You Can Win If You Want"
+            }
+          ],
+          "startDate": "1985-06-03"
+        },
+        {
+          "endDate": "1985-07-21",
+          "items": [
+            {
+              "artist": "Paul Hardcastle",
+              "rank": 1,
+              "title": "19"
+            }
+          ],
+          "startDate": "1985-06-10"
+        },
+        {
+          "endDate": "1985-08-18",
+          "items": [
+            {
+              "artist": "Falco",
+              "rank": 1,
+              "title": "Rock Me Amadeus"
+            }
+          ],
+          "startDate": "1985-07-22"
+        },
+        {
+          "endDate": "1985-09-15",
+          "items": [
+            {
+              "artist": "Tina Turner",
+              "rank": 1,
+              "title": "We Don't Need Another Hero"
+            }
+          ],
+          "startDate": "1985-08-19"
+        },
+        {
+          "endDate": "1985-10-13",
+          "items": [
+            {
+              "artist": "Sandra",
+              "rank": 1,
+              "title": "Maria Magdalena"
+            }
+          ],
+          "startDate": "1985-09-16"
+        },
+        {
+          "endDate": "1985-11-10",
+          "items": [
+            {
+              "artist": "Modern Talking",
+              "rank": 1,
+              "title": "Cheri, Cheri Lady"
+            }
+          ],
+          "startDate": "1985-10-14"
+        },
+        {
+          "endDate": "1985-12-15",
+          "items": [
+            {
+              "artist": "A-ha",
+              "rank": 1,
+              "title": "Take On Me"
+            }
+          ],
+          "startDate": "1985-11-11"
+        },
+        {
+          "endDate": "1985-12-29",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Nikita"
+            }
+          ],
+          "startDate": "1985-12-16"
+        },
+        {
+          "endDate": "1985-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1985-12-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "16f2805f9dacd18be29d99311252efd094474c1a57a3490dae705e58bbdef84a",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1985
+}

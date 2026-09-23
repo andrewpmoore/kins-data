@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2005-01-04",
+          "items": [
+            {
+              "artist": "Band Aid 20",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "2005-01-01"
+        },
+        {
+          "endDate": "2005-01-11",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Vertigo"
+            }
+          ],
+          "startDate": "2005-01-05"
+        },
+        {
+          "endDate": "2005-01-25",
+          "items": [
+            {
+              "artist": "Gwen Stefani",
+              "rank": 1,
+              "title": "What You Waiting For?"
+            }
+          ],
+          "startDate": "2005-01-12"
+        },
+        {
+          "endDate": "2005-02-01",
+          "items": [
+            {
+              "artist": "Green Day",
+              "rank": 1,
+              "title": "Boulevard of Broken Dreams"
+            }
+          ],
+          "startDate": "2005-01-26"
+        },
+        {
+          "endDate": "2005-03-01",
+          "items": [
+            {
+              "artist": "The Chemical Brothers",
+              "rank": 1,
+              "title": "Galvanize"
+            }
+          ],
+          "startDate": "2005-02-02"
+        },
+        {
+          "endDate": "2005-03-15",
+          "items": [
+            {
+              "artist": "Stereophonics",
+              "rank": 1,
+              "title": "Dakota"
+            }
+          ],
+          "startDate": "2005-03-02"
+        },
+        {
+          "endDate": "2005-03-29",
+          "items": [
+            {
+              "artist": "McFly",
+              "rank": 1,
+              "title": "All About You"
+            }
+          ],
+          "startDate": "2005-03-16"
+        },
+        {
+          "endDate": "2005-04-26",
+          "items": [
+            {
+              "artist": "Tony Christie featuring Peter Kay",
+              "rank": 1,
+              "title": "Is This the Way to Amarillo"
+            }
+          ],
+          "startDate": "2005-03-30"
+        },
+        {
+          "endDate": "2005-05-17",
+          "items": [
+            {
+              "artist": "Coldplay",
+              "rank": 1,
+              "title": "Speed of Sound"
+            }
+          ],
+          "startDate": "2005-04-27"
+        },
+        {
+          "endDate": "2005-05-31",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas",
+              "rank": 1,
+              "title": "Don't Phunk with My Heart"
+            }
+          ],
+          "startDate": "2005-05-18"
+        },
+        {
+          "endDate": "2005-06-21",
+          "items": [
+            {
+              "artist": "Gorillaz",
+              "rank": 1,
+              "title": "Feel Good Inc."
+            }
+          ],
+          "startDate": "2005-06-01"
+        },
+        {
+          "endDate": "2005-07-12",
+          "items": [
+            {
+              "artist": "James Blunt",
+              "rank": 1,
+              "title": "You're Beautiful"
+            }
+          ],
+          "startDate": "2005-06-22"
+        },
+        {
+          "endDate": "2005-07-19",
+          "items": [
+            {
+              "artist": "Paul McCartney and U2",
+              "rank": 1,
+              "title": "Sgt. Pepper's Lonely Hearts Club Band"
+            }
+          ],
+          "startDate": "2005-07-13"
+        },
+        {
+          "endDate": "2005-07-26",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Electricity"
+            }
+          ],
+          "startDate": "2005-07-20"
+        },
+        {
+          "endDate": "2005-08-09",
+          "items": [
+            {
+              "artist": "James Blunt",
+              "rank": 1,
+              "title": "You're Beautiful"
+            }
+          ],
+          "startDate": "2005-07-27"
+        },
+        {
+          "endDate": "2005-09-13",
+          "items": [
+            {
+              "artist": "Daniel Powter",
+              "rank": 1,
+              "title": "Bad Day"
+            }
+          ],
+          "startDate": "2005-08-10"
+        },
+        {
+          "endDate": "2005-10-04",
+          "items": [
+            {
+              "artist": "The Pussycat Dolls featuring Busta Rhymes",
+              "rank": 1,
+              "title": "Don't Cha"
+            }
+          ],
+          "startDate": "2005-09-14"
+        },
+        {
+          "endDate": "2005-11-01",
+          "items": [
+            {
+              "artist": "Sugababes",
+              "rank": 1,
+              "title": "Push the Button"
+            }
+          ],
+          "startDate": "2005-10-05"
+        },
+        {
+          "endDate": "2005-12-20",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Hung Up"
+            }
+          ],
+          "startDate": "2005-11-02"
+        },
+        {
+          "endDate": "2005-12-27",
+          "items": [
+            {
+              "artist": "Nizlopi",
+              "rank": 1,
+              "title": "JCB"
+            }
+          ],
+          "startDate": "2005-12-21"
+        },
+        {
+          "endDate": "2005-12-31",
+          "items": [
+            {
+              "artist": "Shayne Ward",
+              "rank": 1,
+              "title": "That's My Goal"
+            }
+          ],
+          "startDate": "2005-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "a5eacf9930f123d6fb696c15cd77751510227267cc4261e38f24fef84c7173bb",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2005
+}

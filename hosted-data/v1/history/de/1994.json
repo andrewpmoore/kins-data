@@ -1,0 +1,176 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1994-01-02",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1994-01-01"
+        },
+        {
+          "endDate": "1994-01-23",
+          "items": [
+            {
+              "artist": "Meat Loaf",
+              "rank": 1,
+              "title": "I'd Do Anything for Love"
+            }
+          ],
+          "startDate": "1994-01-03"
+        },
+        {
+          "endDate": "1994-02-13",
+          "items": [
+            {
+              "artist": "Ace of Base",
+              "rank": 1,
+              "title": "The Sign"
+            }
+          ],
+          "startDate": "1994-01-24"
+        },
+        {
+          "endDate": "1994-03-13",
+          "items": [
+            {
+              "artist": "Bryan Adams, Sting & Rod Stewart",
+              "rank": 1,
+              "title": "All for Love"
+            }
+          ],
+          "startDate": "1994-02-14"
+        },
+        {
+          "endDate": "1994-04-10",
+          "items": [
+            {
+              "artist": "Magic Affair",
+              "rank": 1,
+              "title": "Omen III"
+            }
+          ],
+          "startDate": "1994-03-14"
+        },
+        {
+          "endDate": "1994-05-15",
+          "items": [
+            {
+              "artist": "Bruce Springsteen",
+              "rank": 1,
+              "title": "Streets of Philadelphia"
+            }
+          ],
+          "startDate": "1994-04-11"
+        },
+        {
+          "endDate": "1994-06-12",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Without You\" †"
+            }
+          ],
+          "startDate": "1994-05-16"
+        },
+        {
+          "endDate": "1994-07-17",
+          "items": [
+            {
+              "artist": "Prince Ital Joe & Marky Mark",
+              "rank": 1,
+              "title": "United"
+            }
+          ],
+          "startDate": "1994-06-13"
+        },
+        {
+          "endDate": "1994-07-24",
+          "items": [
+            {
+              "artist": "Crash Test Dummies",
+              "rank": 1,
+              "title": "Mmm Mmm Mmm Mmm"
+            }
+          ],
+          "startDate": "1994-07-18"
+        },
+        {
+          "endDate": "1994-09-25",
+          "items": [
+            {
+              "artist": "All-4-One",
+              "rank": 1,
+              "title": "I Swear"
+            }
+          ],
+          "startDate": "1994-07-25"
+        },
+        {
+          "endDate": "1994-10-23",
+          "items": [
+            {
+              "artist": "Mo-Do",
+              "rank": 1,
+              "title": "Eins, Zwei, Polizei"
+            }
+          ],
+          "startDate": "1994-09-26"
+        },
+        {
+          "endDate": "1994-11-06",
+          "items": [
+            {
+              "artist": "Whigfield",
+              "rank": 1,
+              "title": "Saturday Night"
+            }
+          ],
+          "startDate": "1994-10-24"
+        },
+        {
+          "endDate": "1994-12-25",
+          "items": [
+            {
+              "artist": "Rednex",
+              "rank": 1,
+              "title": "Cotton Eye Joe"
+            }
+          ],
+          "startDate": "1994-11-07"
+        },
+        {
+          "endDate": "1994-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1994-12-26"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "91a26cef2a0ef575c6e2ce761ec7893ffa340aed5c6c2e7a54903d55d76bbf08",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1994
+}

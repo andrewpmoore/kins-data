@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1961-01-11",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Feel Fine\" / \"She's a Woman"
+            }
+          ],
+          "startDate": "1961-01-02"
+        },
+        {
+          "endDate": "1961-01-13",
+          "items": [
+            {
+              "artist": "The Tijuana Brass featuring Herb Alpert",
+              "rank": 1,
+              "title": "The Lonely Bull\" / \"Acapulco"
+            }
+          ],
+          "startDate": "1961-01-12"
+        },
+        {
+          "endDate": "1961-01-15",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Are You Lonesome Tonight?\" / \"I Gotta Know"
+            }
+          ],
+          "startDate": "1961-01-14"
+        },
+        {
+          "endDate": "1961-01-16",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Feel Fine\" / \"She's a Woman"
+            }
+          ],
+          "startDate": "1961-01-16"
+        },
+        {
+          "endDate": "1961-01-20",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Something\" / \"Come Together"
+            }
+          ],
+          "startDate": "1961-01-17"
+        },
+        {
+          "endDate": "1961-01-21",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Are You Lonesome Tonight?\" / \"I Gotta Know"
+            }
+          ],
+          "startDate": "1961-01-21"
+        },
+        {
+          "endDate": "1961-01-22",
+          "items": [
+            {
+              "artist": "The Seekers",
+              "rank": 1,
+              "title": "The Carnival Is Over"
+            }
+          ],
+          "startDate": "1961-01-22"
+        },
+        {
+          "endDate": "1961-01-27",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Feel Fine\" / \"She's a Woman"
+            }
+          ],
+          "startDate": "1961-01-23"
+        },
+        {
+          "endDate": "1961-01-28",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Are You Lonesome Tonight?\" / \"I Gotta Know"
+            }
+          ],
+          "startDate": "1961-01-28"
+        },
+        {
+          "endDate": "1961-01-29",
+          "items": [
+            {
+              "artist": "The Seekers",
+              "rank": 1,
+              "title": "The Carnival Is Over"
+            }
+          ],
+          "startDate": "1961-01-29"
+        },
+        {
+          "endDate": "1961-02-03",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Feel Fine\" / \"She's a Woman"
+            }
+          ],
+          "startDate": "1961-01-30"
+        },
+        {
+          "endDate": "1961-02-05",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Are You Lonesome Tonight?\" / \"I Gotta Know"
+            }
+          ],
+          "startDate": "1961-02-04"
+        },
+        {
+          "endDate": "1961-02-09",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Feel Fine\" / \"She's a Woman"
+            }
+          ],
+          "startDate": "1961-02-06"
+        },
+        {
+          "endDate": "1961-02-12",
+          "items": [
+            {
+              "artist": "Engelbert Humperdinck",
+              "rank": 1,
+              "title": "The Last Waltz"
+            }
+          ],
+          "startDate": "1961-02-10"
+        },
+        {
+          "endDate": "1961-02-14",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Feel Fine\" / \"She's a Woman"
+            }
+          ],
+          "startDate": "1961-02-13"
+        },
+        {
+          "endDate": "1961-03-28",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hey Jude\" / \"Revolution"
+            }
+          ],
+          "startDate": "1961-02-15"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2012-05-30",
+        "provider": "Wikipedia contributors",
+        "territory": "AU",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Australia"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7a3b9e24d1728b4f72f5bb088a9e9505a2fc8a554e0a4bad763320e8b5648e28",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 1961
+}

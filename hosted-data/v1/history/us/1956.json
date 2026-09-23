@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1956-01-13",
+          "items": [
+            {
+              "artist": "Tennessee Ernie Ford",
+              "rank": 1,
+              "title": "Sixteen Tons"
+            }
+          ],
+          "startDate": "1956-01-01"
+        },
+        {
+          "endDate": "1956-02-17",
+          "items": [
+            {
+              "artist": "Dean Martin",
+              "rank": 1,
+              "title": "Memories Are Made Of This"
+            }
+          ],
+          "startDate": "1956-01-14"
+        },
+        {
+          "endDate": "1956-02-24",
+          "items": [
+            {
+              "artist": "Kay Starr",
+              "rank": 1,
+              "title": "Rock And Roll Waltz"
+            }
+          ],
+          "startDate": "1956-02-18"
+        },
+        {
+          "endDate": "1956-03-23",
+          "items": [
+            {
+              "artist": "Nelson Riddle",
+              "rank": 1,
+              "title": "Lisbon Antigua"
+            }
+          ],
+          "startDate": "1956-02-25"
+        },
+        {
+          "endDate": "1956-04-20",
+          "items": [
+            {
+              "artist": "Les Baxter",
+              "rank": 1,
+              "title": "Poor People Of Paris"
+            }
+          ],
+          "startDate": "1956-03-24"
+        },
+        {
+          "endDate": "1956-06-15",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Heartbreak Hotel\"♪"
+            }
+          ],
+          "startDate": "1956-04-21"
+        },
+        {
+          "endDate": "1956-07-27",
+          "items": [
+            {
+              "artist": "Gogi Grant",
+              "rank": 1,
+              "title": "The Wayward Wind"
+            }
+          ],
+          "startDate": "1956-06-16"
+        },
+        {
+          "endDate": "1956-08-03",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "I Want You, I Need You, I Love You"
+            }
+          ],
+          "startDate": "1956-07-28"
+        },
+        {
+          "endDate": "1956-08-17",
+          "items": [
+            {
+              "artist": "The Platters",
+              "rank": 1,
+              "title": "My Prayer"
+            }
+          ],
+          "startDate": "1956-08-04"
+        },
+        {
+          "endDate": "1956-11-02",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Don't Be Cruel\" / \"Hound Dog"
+            }
+          ],
+          "startDate": "1956-08-18"
+        },
+        {
+          "endDate": "1956-12-07",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Love Me Tender"
+            }
+          ],
+          "startDate": "1956-11-03"
+        },
+        {
+          "endDate": "1956-12-31",
+          "items": [
+            {
+              "artist": "Guy Mitchell",
+              "rank": 1,
+              "title": "Singing The Blues"
+            }
+          ],
+          "startDate": "1956-12-08"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5f4d423546ed686fd70cee86ecc6823e61075201a843f7eddf88d8b3fea234b9",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1956
+}

@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1986-01-25",
+          "items": [
+            {
+              "artist": "Peking Man",
+              "rank": 1,
+              "title": "Room That Echoes"
+            }
+          ],
+          "startDate": "1986-01-01"
+        },
+        {
+          "endDate": "1986-06-14",
+          "items": [
+            {
+              "artist": "Cliff Richard and The Young Ones",
+              "rank": 1,
+              "title": "Living Doll"
+            }
+          ],
+          "startDate": "1986-05-04"
+        },
+        {
+          "endDate": "1986-07-09",
+          "items": [
+            {
+              "artist": "All of Us",
+              "rank": 1,
+              "title": "Sailing Away"
+            }
+          ],
+          "startDate": "1986-06-15"
+        },
+        {
+          "endDate": "1986-07-12",
+          "items": [
+            {
+              "artist": "Holidaymakers",
+              "rank": 1,
+              "title": "Sweet Lovers"
+            }
+          ],
+          "startDate": "1986-07-10"
+        },
+        {
+          "endDate": "1986-07-16",
+          "items": [
+            {
+              "artist": "All of Us",
+              "rank": 1,
+              "title": "Sailing Away"
+            }
+          ],
+          "startDate": "1986-07-13"
+        },
+        {
+          "endDate": "1986-07-19",
+          "items": [
+            {
+              "artist": "Holidaymakers",
+              "rank": 1,
+              "title": "Sweet Lovers"
+            }
+          ],
+          "startDate": "1986-07-17"
+        },
+        {
+          "endDate": "1986-07-23",
+          "items": [
+            {
+              "artist": "All of Us",
+              "rank": 1,
+              "title": "Sailing Away"
+            }
+          ],
+          "startDate": "1986-07-20"
+        },
+        {
+          "endDate": "1986-07-26",
+          "items": [
+            {
+              "artist": "Holidaymakers",
+              "rank": 1,
+              "title": "Sweet Lovers"
+            }
+          ],
+          "startDate": "1986-07-24"
+        },
+        {
+          "endDate": "1986-07-30",
+          "items": [
+            {
+              "artist": "All of Us",
+              "rank": 1,
+              "title": "Sailing Away"
+            }
+          ],
+          "startDate": "1986-07-27"
+        },
+        {
+          "endDate": "1986-08-02",
+          "items": [
+            {
+              "artist": "Holidaymakers",
+              "rank": 1,
+              "title": "Sweet Lovers"
+            }
+          ],
+          "startDate": "1986-07-31"
+        },
+        {
+          "endDate": "1986-08-06",
+          "items": [
+            {
+              "artist": "All of Us",
+              "rank": 1,
+              "title": "Sailing Away"
+            }
+          ],
+          "startDate": "1986-08-03"
+        },
+        {
+          "endDate": "1986-08-09",
+          "items": [
+            {
+              "artist": "Holidaymakers",
+              "rank": 1,
+              "title": "Sweet Lovers"
+            }
+          ],
+          "startDate": "1986-08-07"
+        },
+        {
+          "endDate": "1986-08-13",
+          "items": [
+            {
+              "artist": "All of Us",
+              "rank": 1,
+              "title": "Sailing Away"
+            }
+          ],
+          "startDate": "1986-08-10"
+        },
+        {
+          "endDate": "1986-08-20",
+          "items": [
+            {
+              "artist": "Holidaymakers",
+              "rank": 1,
+              "title": "Sweet Lovers"
+            }
+          ],
+          "startDate": "1986-08-14"
+        },
+        {
+          "endDate": "1986-11-29",
+          "items": [
+            {
+              "artist": "Dave Dobbyn featuring Herbs",
+              "rank": 1,
+              "title": "Slice of Heaven"
+            }
+          ],
+          "startDate": "1986-10-05"
+        },
+        {
+          "endDate": "1986-12-31",
+          "items": [
+            {
+              "artist": "Run–D.M.C.",
+              "rank": 1,
+              "title": "Walk This Way"
+            }
+          ],
+          "startDate": "1986-11-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "a2c0c55df30e1e0b23f5c3365ac352ffde7b6dab91e17b70c196433a5a652d01",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1986
+}

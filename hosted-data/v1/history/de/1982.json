@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1982-01-03",
+          "items": [
+            {
+              "artist": "Gottlieb Wendehals",
+              "rank": 1,
+              "title": "Polonäse Blankenese"
+            }
+          ],
+          "startDate": "1982-01-01"
+        },
+        {
+          "endDate": "1982-01-10",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "One of Us"
+            }
+          ],
+          "startDate": "1982-01-04"
+        },
+        {
+          "endDate": "1982-02-07",
+          "items": [
+            {
+              "artist": "Gottlieb Wendehals",
+              "rank": 1,
+              "title": "Polonäse Blankenese"
+            }
+          ],
+          "startDate": "1982-01-11"
+        },
+        {
+          "endDate": "1982-02-14",
+          "items": [
+            {
+              "artist": "Spider Murphy Gang",
+              "rank": 1,
+              "title": "Skandal im Sperrbezirk"
+            }
+          ],
+          "startDate": "1982-02-08"
+        },
+        {
+          "endDate": "1982-02-21",
+          "items": [
+            {
+              "artist": "Gottlieb Wendehals",
+              "rank": 1,
+              "title": "Polonäse Blankenese"
+            }
+          ],
+          "startDate": "1982-02-15"
+        },
+        {
+          "endDate": "1982-04-11",
+          "items": [
+            {
+              "artist": "Spider Murphy Gang",
+              "rank": 1,
+              "title": "Skandal im Sperrbezirk"
+            }
+          ],
+          "startDate": "1982-02-22"
+        },
+        {
+          "endDate": "1982-04-18",
+          "items": [
+            {
+              "artist": "Falco",
+              "rank": 1,
+              "title": "Der Kommissar"
+            }
+          ],
+          "startDate": "1982-04-12"
+        },
+        {
+          "endDate": "1982-04-25",
+          "items": [
+            {
+              "artist": "Nicole",
+              "rank": 1,
+              "title": "Ein bißchen Frieden"
+            }
+          ],
+          "startDate": "1982-04-19"
+        },
+        {
+          "endDate": "1982-05-09",
+          "items": [
+            {
+              "artist": "Falco",
+              "rank": 1,
+              "title": "Der Kommissar"
+            }
+          ],
+          "startDate": "1982-04-26"
+        },
+        {
+          "endDate": "1982-06-06",
+          "items": [
+            {
+              "artist": "Nicole",
+              "rank": 1,
+              "title": "Ein bißchen Frieden"
+            }
+          ],
+          "startDate": "1982-05-10"
+        },
+        {
+          "endDate": "1982-07-11",
+          "items": [
+            {
+              "artist": "Paul McCartney & Stevie Wonder",
+              "rank": 1,
+              "title": "Ebony and Ivory"
+            }
+          ],
+          "startDate": "1982-06-07"
+        },
+        {
+          "endDate": "1982-08-01",
+          "items": [
+            {
+              "artist": "OMD",
+              "rank": 1,
+              "title": "Maid of Orleans \" †"
+            }
+          ],
+          "startDate": "1982-07-12"
+        },
+        {
+          "endDate": "1982-08-08",
+          "items": [
+            {
+              "artist": "Markus",
+              "rank": 1,
+              "title": "Ich will Spaß"
+            }
+          ],
+          "startDate": "1982-08-02"
+        },
+        {
+          "endDate": "1982-08-15",
+          "items": [
+            {
+              "artist": "OMD",
+              "rank": 1,
+              "title": "Maid of Orleans \" †"
+            }
+          ],
+          "startDate": "1982-08-09"
+        },
+        {
+          "endDate": "1982-08-22",
+          "items": [
+            {
+              "artist": "Markus",
+              "rank": 1,
+              "title": "Ich will Spaß"
+            }
+          ],
+          "startDate": "1982-08-16"
+        },
+        {
+          "endDate": "1982-09-26",
+          "items": [
+            {
+              "artist": "Andy Borg",
+              "rank": 1,
+              "title": "Adiós Amor"
+            }
+          ],
+          "startDate": "1982-08-23"
+        },
+        {
+          "endDate": "1982-12-12",
+          "items": [
+            {
+              "artist": "F. R. David",
+              "rank": 1,
+              "title": "Words"
+            }
+          ],
+          "startDate": "1982-09-27"
+        },
+        {
+          "endDate": "1982-12-31",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Do You Really Want to Hurt Me"
+            }
+          ],
+          "startDate": "1982-12-13"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "b663df89d3045f34c3d046818ed148bf153033d793b660c749eb1b04950d90e1",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1982
+}

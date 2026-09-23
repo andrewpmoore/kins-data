@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1960-01-03",
+          "items": [
+            {
+              "artist": "Gloria Lasso",
+              "rank": 1,
+              "title": "La Canción de Orfeo"
+            }
+          ],
+          "startDate": "1960-01-01"
+        },
+        {
+          "endDate": "1960-01-24",
+          "items": [
+            {
+              "artist": "Paul Anka",
+              "rank": 1,
+              "title": "Lonely Boy"
+            }
+          ],
+          "startDate": "1960-01-04"
+        },
+        {
+          "endDate": "1960-02-07",
+          "items": [
+            {
+              "artist": "Lucho Gatica",
+              "rank": 1,
+              "title": "La Montaña"
+            }
+          ],
+          "startDate": "1960-01-25"
+        },
+        {
+          "endDate": "1960-02-28",
+          "items": [
+            {
+              "artist": "Monna Bell",
+              "rank": 1,
+              "title": "El Día De Los Enamorados"
+            }
+          ],
+          "startDate": "1960-02-08"
+        },
+        {
+          "endDate": "1960-03-13",
+          "items": [
+            {
+              "artist": "José Guardiola",
+              "rank": 1,
+              "title": "Mackie El Navaja"
+            }
+          ],
+          "startDate": "1960-02-29"
+        },
+        {
+          "endDate": "1960-04-24",
+          "items": [
+            {
+              "artist": "Nat \"King\" Cole",
+              "rank": 1,
+              "title": "Ansiedad"
+            }
+          ],
+          "startDate": "1960-03-14"
+        },
+        {
+          "endDate": "1960-05-08",
+          "items": [
+            {
+              "artist": "Los Llopis",
+              "rank": 1,
+              "title": "Estremécete"
+            }
+          ],
+          "startDate": "1960-04-25"
+        },
+        {
+          "endDate": "1960-05-29",
+          "items": [
+            {
+              "artist": "Bob Azzam",
+              "rank": 1,
+              "title": "Mustapha"
+            }
+          ],
+          "startDate": "1960-05-09"
+        },
+        {
+          "endDate": "1960-06-12",
+          "items": [
+            {
+              "artist": "José Guardiola",
+              "rank": 1,
+              "title": "16 Toneladas"
+            }
+          ],
+          "startDate": "1960-05-30"
+        },
+        {
+          "endDate": "1960-07-10",
+          "items": [
+            {
+              "artist": "Jacqueline Boyer",
+              "rank": 1,
+              "title": "Tom Pillibi"
+            }
+          ],
+          "startDate": "1960-06-13"
+        },
+        {
+          "endDate": "1960-08-07",
+          "items": [
+            {
+              "artist": "Dalida",
+              "rank": 1,
+              "title": "Locamente Te Amaré"
+            }
+          ],
+          "startDate": "1960-07-11"
+        },
+        {
+          "endDate": "1960-08-21",
+          "items": [
+            {
+              "artist": "Paul Anka",
+              "rank": 1,
+              "title": "Adam & Eve"
+            }
+          ],
+          "startDate": "1960-08-08"
+        },
+        {
+          "endDate": "1960-09-04",
+          "items": [
+            {
+              "artist": "Los Cinco Latinos",
+              "rank": 1,
+              "title": "Eres Diferente"
+            }
+          ],
+          "startDate": "1960-08-22"
+        },
+        {
+          "endDate": "1960-09-18",
+          "items": [
+            {
+              "artist": "Arturo Millán",
+              "rank": 1,
+              "title": "Comunicando"
+            }
+          ],
+          "startDate": "1960-09-05"
+        },
+        {
+          "endDate": "1960-10-02",
+          "items": [
+            {
+              "artist": "Paul Anka",
+              "rank": 1,
+              "title": "Adam & Eve"
+            }
+          ],
+          "startDate": "1960-09-19"
+        },
+        {
+          "endDate": "1960-10-16",
+          "items": [
+            {
+              "artist": "Los Cinco Latinos",
+              "rank": 1,
+              "title": "Eres Diferente"
+            }
+          ],
+          "startDate": "1960-10-03"
+        },
+        {
+          "endDate": "1960-11-27",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "It's Now Or Never"
+            }
+          ],
+          "startDate": "1960-10-17"
+        },
+        {
+          "endDate": "1960-12-04",
+          "items": [
+            {
+              "artist": "Jimmy Fontana",
+              "rank": 1,
+              "title": "Diavolo"
+            }
+          ],
+          "startDate": "1960-11-28"
+        },
+        {
+          "endDate": "1960-12-11",
+          "items": [
+            {
+              "artist": "Nana Mouskouri",
+              "rank": 1,
+              "title": "Xipna Aghapi Mou"
+            }
+          ],
+          "startDate": "1960-12-05"
+        },
+        {
+          "endDate": "1960-12-25",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "It's Now Or Never"
+            }
+          ],
+          "startDate": "1960-12-12"
+        },
+        {
+          "endDate": "1960-12-31",
+          "items": [
+            {
+              "artist": "The Brothers Four",
+              "rank": 1,
+              "title": "Greenfields"
+            }
+          ],
+          "startDate": "1960-12-26"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "1494923de259930d80fbadf47b70a522133c39dd85702b60fb7eff999e565b1c",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1960
+}

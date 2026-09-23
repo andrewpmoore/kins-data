@@ -1,0 +1,66 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1983-01-22",
+          "items": [
+            {
+              "artist": "Musical Youth",
+              "rank": 1,
+              "title": "Pass the Dutchie"
+            }
+          ],
+          "startDate": "1983-01-01"
+        },
+        {
+          "endDate": "1983-03-05",
+          "items": [
+            {
+              "artist": "Marvin Gaye",
+              "rank": 1,
+              "title": "Sexual Healing"
+            }
+          ],
+          "startDate": "1983-01-23"
+        },
+        {
+          "endDate": "1983-12-10",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Karma Chameleon"
+            }
+          ],
+          "startDate": "1983-10-30"
+        },
+        {
+          "endDate": "1983-12-31",
+          "items": [
+            {
+              "artist": "Billy Joel",
+              "rank": 1,
+              "title": "Uptown Girl"
+            }
+          ],
+          "startDate": "1983-12-11"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "846d1ef6dcce452e85b3929d6b46d9dba0488b4cce33deffd49ecf12ccd06b00",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1983
+}

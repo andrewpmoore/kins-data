@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1999-01-15",
+          "items": [
+            {
+              "artist": "R. Kelly & Céline Dion",
+              "rank": 1,
+              "title": "I'm Your Angel"
+            }
+          ],
+          "startDate": "1999-01-01"
+        },
+        {
+          "endDate": "1999-01-29",
+          "items": [
+            {
+              "artist": "Brandy",
+              "rank": 1,
+              "title": "Have You Ever"
+            }
+          ],
+          "startDate": "1999-01-16"
+        },
+        {
+          "endDate": "1999-02-12",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "…Baby One More Time"
+            }
+          ],
+          "startDate": "1999-01-30"
+        },
+        {
+          "endDate": "1999-03-12",
+          "items": [
+            {
+              "artist": "Monica",
+              "rank": 1,
+              "title": "Angel of Mine"
+            }
+          ],
+          "startDate": "1999-02-13"
+        },
+        {
+          "endDate": "1999-04-09",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe\"♪"
+            }
+          ],
+          "startDate": "1999-03-13"
+        },
+        {
+          "endDate": "1999-05-07",
+          "items": [
+            {
+              "artist": "TLC",
+              "rank": 1,
+              "title": "No Scrubs"
+            }
+          ],
+          "startDate": "1999-04-10"
+        },
+        {
+          "endDate": "1999-06-11",
+          "items": [
+            {
+              "artist": "Ricky Martin",
+              "rank": 1,
+              "title": "Livin' la Vida Loca"
+            }
+          ],
+          "startDate": "1999-05-08"
+        },
+        {
+          "endDate": "1999-07-16",
+          "items": [
+            {
+              "artist": "Jennifer Lopez",
+              "rank": 1,
+              "title": "If You Had My Love"
+            }
+          ],
+          "startDate": "1999-06-12"
+        },
+        {
+          "endDate": "1999-07-23",
+          "items": [
+            {
+              "artist": "Destiny's Child",
+              "rank": 1,
+              "title": "Bills, Bills, Bills"
+            }
+          ],
+          "startDate": "1999-07-17"
+        },
+        {
+          "endDate": "1999-07-30",
+          "items": [
+            {
+              "artist": "Will Smith featuring Dru Hill & Kool Moe Dee",
+              "rank": 1,
+              "title": "Wild Wild West"
+            }
+          ],
+          "startDate": "1999-07-24"
+        },
+        {
+          "endDate": "1999-09-03",
+          "items": [
+            {
+              "artist": "Christina Aguilera",
+              "rank": 1,
+              "title": "Genie in a Bottle"
+            }
+          ],
+          "startDate": "1999-07-31"
+        },
+        {
+          "endDate": "1999-09-17",
+          "items": [
+            {
+              "artist": "Enrique Iglesias",
+              "rank": 1,
+              "title": "Bailamos"
+            }
+          ],
+          "startDate": "1999-09-04"
+        },
+        {
+          "endDate": "1999-10-08",
+          "items": [
+            {
+              "artist": "TLC",
+              "rank": 1,
+              "title": "Unpretty"
+            }
+          ],
+          "startDate": "1999-09-18"
+        },
+        {
+          "endDate": "1999-10-22",
+          "items": [
+            {
+              "artist": "Mariah Carey featuring Jay-Z",
+              "rank": 1,
+              "title": "Heartbreaker"
+            }
+          ],
+          "startDate": "1999-10-09"
+        },
+        {
+          "endDate": "1999-12-31",
+          "items": [
+            {
+              "artist": "Santana featuring Rob Thomas",
+              "rank": 1,
+              "title": "Smooth"
+            }
+          ],
+          "startDate": "1999-10-23"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9b7500764c801c716f7b4e9618e5dccd215eeaf00143b90b668079be55bc3492",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1999
+}

@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1986-01-05",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1986-01-01"
+        },
+        {
+          "endDate": "1986-01-12",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Nikita"
+            }
+          ],
+          "startDate": "1986-01-06"
+        },
+        {
+          "endDate": "1986-03-09",
+          "items": [
+            {
+              "artist": "Falco",
+              "rank": 1,
+              "title": "Jeanny\" †"
+            }
+          ],
+          "startDate": "1986-01-13"
+        },
+        {
+          "endDate": "1986-04-06",
+          "items": [
+            {
+              "artist": "Modern Talking",
+              "rank": 1,
+              "title": "Brother Louie"
+            }
+          ],
+          "startDate": "1986-03-10"
+        },
+        {
+          "endDate": "1986-05-04",
+          "items": [
+            {
+              "artist": "Bruce and Bongo",
+              "rank": 1,
+              "title": "Geil"
+            }
+          ],
+          "startDate": "1986-04-07"
+        },
+        {
+          "endDate": "1986-06-15",
+          "items": [
+            {
+              "artist": "Chris Norman",
+              "rank": 1,
+              "title": "Midnight Lady"
+            }
+          ],
+          "startDate": "1986-05-05"
+        },
+        {
+          "endDate": "1986-07-13",
+          "items": [
+            {
+              "artist": "Modern Talking",
+              "rank": 1,
+              "title": "Atlantis Is Calling"
+            }
+          ],
+          "startDate": "1986-06-16"
+        },
+        {
+          "endDate": "1986-08-24",
+          "items": [
+            {
+              "artist": "Level 42",
+              "rank": 1,
+              "title": "Lessons in Love"
+            }
+          ],
+          "startDate": "1986-07-14"
+        },
+        {
+          "endDate": "1986-09-28",
+          "items": [
+            {
+              "artist": "Mc Miker G & Deejay Sven",
+              "rank": 1,
+              "title": "Holiday Rap"
+            }
+          ],
+          "startDate": "1986-08-25"
+        },
+        {
+          "endDate": "1986-10-12",
+          "items": [
+            {
+              "artist": "Frankie Goes to Hollywood",
+              "rank": 1,
+              "title": "Rage Hard"
+            }
+          ],
+          "startDate": "1986-09-29"
+        },
+        {
+          "endDate": "1986-11-09",
+          "items": [
+            {
+              "artist": "Europe",
+              "rank": 1,
+              "title": "The Final Countdown"
+            }
+          ],
+          "startDate": "1986-10-13"
+        },
+        {
+          "endDate": "1986-11-23",
+          "items": [
+            {
+              "artist": "Falco",
+              "rank": 1,
+              "title": "Coming Home"
+            }
+          ],
+          "startDate": "1986-11-10"
+        },
+        {
+          "endDate": "1986-12-21",
+          "items": [
+            {
+              "artist": "Status Quo",
+              "rank": 1,
+              "title": "In the Army Now"
+            }
+          ],
+          "startDate": "1986-11-24"
+        },
+        {
+          "endDate": "1986-12-28",
+          "items": [
+            {
+              "artist": "The Bangles",
+              "rank": 1,
+              "title": "Walk Like an Egyptian"
+            }
+          ],
+          "startDate": "1986-12-22"
+        },
+        {
+          "endDate": "1986-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1986-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "e3cf7aa9166f0a59b8babfa74cbd775dc0460c2919be4372d99f9790d40e0e23",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1986
+}

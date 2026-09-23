@@ -1,0 +1,44 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2008-01-05",
+          "items": [
+            {
+              "artist": "Timbaland featuring OneRepublic",
+              "rank": 1,
+              "title": "Apologize"
+            }
+          ],
+          "startDate": "2008-01-01"
+        },
+        {
+          "endDate": "2008-09-01",
+          "items": [
+            {
+              "artist": "Pink",
+              "rank": 1,
+              "title": "So What"
+            }
+          ],
+          "startDate": "2008-08-26"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2012-05-30",
+        "provider": "Wikipedia contributors",
+        "territory": "AU",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Australia"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "19ab63243848dae3d2eb49822804c884ee0f2ee26a176b0296174501eb3c886e",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 2008
+}

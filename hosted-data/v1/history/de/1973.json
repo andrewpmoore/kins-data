@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1973-01-04",
+          "items": [
+            {
+              "artist": "Wums Gesang",
+              "rank": 1,
+              "title": "Ich wünsch' mir 'ne kleine Miezekatze"
+            }
+          ],
+          "startDate": "1973-01-01"
+        },
+        {
+          "endDate": "1973-02-22",
+          "items": [
+            {
+              "artist": "Wums Gesang",
+              "rank": 1,
+              "title": "Ich Wünsch' mir 'ne Kleine Miezekatze"
+            }
+          ],
+          "startDate": "1973-01-05"
+        },
+        {
+          "endDate": "1973-03-14",
+          "items": [
+            {
+              "artist": "Sweet",
+              "rank": 1,
+              "title": "Blockbuster"
+            }
+          ],
+          "startDate": "1973-02-23"
+        },
+        {
+          "endDate": "1973-03-21",
+          "items": [
+            {
+              "artist": "Les Humphries Singers",
+              "rank": 1,
+              "title": "Mama Loo"
+            }
+          ],
+          "startDate": "1973-03-15"
+        },
+        {
+          "endDate": "1973-03-29",
+          "items": [
+            {
+              "artist": "Les Humphries Singers",
+              "rank": 1,
+              "title": "Mama Loo"
+            }
+          ],
+          "startDate": "1973-03-23"
+        },
+        {
+          "endDate": "1973-04-05",
+          "items": [
+            {
+              "artist": "Sweet",
+              "rank": 1,
+              "title": "Blockbuster"
+            }
+          ],
+          "startDate": "1973-03-30"
+        },
+        {
+          "endDate": "1973-04-12",
+          "items": [
+            {
+              "artist": "Les Humphries Singers",
+              "rank": 1,
+              "title": "Mama Loo"
+            }
+          ],
+          "startDate": "1973-04-06"
+        },
+        {
+          "endDate": "1973-05-10",
+          "items": [
+            {
+              "artist": "Bernd Clüver",
+              "rank": 1,
+              "title": "Der Junge mit der Mundharmonika"
+            }
+          ],
+          "startDate": "1973-04-13"
+        },
+        {
+          "endDate": "1973-07-19",
+          "items": [
+            {
+              "artist": "Gilbert O'Sullivan",
+              "rank": 1,
+              "title": "Get Down"
+            }
+          ],
+          "startDate": "1973-05-11"
+        },
+        {
+          "endDate": "1973-08-02",
+          "items": [
+            {
+              "artist": "Sweet",
+              "rank": 1,
+              "title": "Hell Raiser"
+            }
+          ],
+          "startDate": "1973-07-20"
+        },
+        {
+          "endDate": "1973-08-09",
+          "items": [
+            {
+              "artist": "Demis Roussos",
+              "rank": 1,
+              "title": "Goodbye, My Love, Goodbye"
+            }
+          ],
+          "startDate": "1973-08-03"
+        },
+        {
+          "endDate": "1973-10-04",
+          "items": [
+            {
+              "artist": "Suzi Quatro",
+              "rank": 1,
+              "title": "Can the Can"
+            }
+          ],
+          "startDate": "1973-08-10"
+        },
+        {
+          "endDate": "1973-10-18",
+          "items": [
+            {
+              "artist": "Bernd Clüver",
+              "rank": 1,
+              "title": "Der Kleine Prinz"
+            }
+          ],
+          "startDate": "1973-10-05"
+        },
+        {
+          "endDate": "1973-10-25",
+          "items": [
+            {
+              "artist": "Sweet",
+              "rank": 1,
+              "title": "The Ballroom Blitz"
+            }
+          ],
+          "startDate": "1973-10-19"
+        },
+        {
+          "endDate": "1973-11-01",
+          "items": [
+            {
+              "artist": "Bernd Clüver",
+              "rank": 1,
+              "title": "Der Kleine Prinz"
+            }
+          ],
+          "startDate": "1973-10-26"
+        },
+        {
+          "endDate": "1973-11-08",
+          "items": [
+            {
+              "artist": "Lobo",
+              "rank": 1,
+              "title": "I'd Love You to Want Me"
+            }
+          ],
+          "startDate": "1973-11-02"
+        },
+        {
+          "endDate": "1973-11-15",
+          "items": [
+            {
+              "artist": "Bernd Clüver",
+              "rank": 1,
+              "title": "Der Kleine Prinz"
+            }
+          ],
+          "startDate": "1973-11-09"
+        },
+        {
+          "endDate": "1973-12-31",
+          "items": [
+            {
+              "artist": "Lobo",
+              "rank": 1,
+              "title": "I'd Love You to Want Me"
+            }
+          ],
+          "startDate": "1973-11-16"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "39cf697810d678b508abe0f15cdea5c937a884e804f6a43e94cd229d93c7efe3",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1973
+}

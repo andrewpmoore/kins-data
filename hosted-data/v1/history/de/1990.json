@@ -1,0 +1,121 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1990-01-07",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1990-01-01"
+        },
+        {
+          "endDate": "1990-02-11",
+          "items": [
+            {
+              "artist": "Phil Collins",
+              "rank": 1,
+              "title": "Another Day in Paradise"
+            }
+          ],
+          "startDate": "1990-01-08"
+        },
+        {
+          "endDate": "1990-03-04",
+          "items": [
+            {
+              "artist": "Werner Wichtig",
+              "rank": 1,
+              "title": "Pump ab Das Bier"
+            }
+          ],
+          "startDate": "1990-02-12"
+        },
+        {
+          "endDate": "1990-05-20",
+          "items": [
+            {
+              "artist": "Sinéad O'Connor",
+              "rank": 1,
+              "title": "Nothing Compares 2 U"
+            }
+          ],
+          "startDate": "1990-03-05"
+        },
+        {
+          "endDate": "1990-09-09",
+          "items": [
+            {
+              "artist": "Matthias Reim",
+              "rank": 1,
+              "title": "Verdammt, Ich Lieb' Dich\" †"
+            }
+          ],
+          "startDate": "1990-05-21"
+        },
+        {
+          "endDate": "1990-10-28",
+          "items": [
+            {
+              "artist": "DNA featuring Suzanne Vega",
+              "rank": 1,
+              "title": "Tom's Diner"
+            }
+          ],
+          "startDate": "1990-09-10"
+        },
+        {
+          "endDate": "1990-11-11",
+          "items": [
+            {
+              "artist": "Londonbeat",
+              "rank": 1,
+              "title": "I've Been Thinking About You"
+            }
+          ],
+          "startDate": "1990-10-29"
+        },
+        {
+          "endDate": "1990-12-30",
+          "items": [
+            {
+              "artist": "Enigma",
+              "rank": 1,
+              "title": "Sadeness Part I"
+            }
+          ],
+          "startDate": "1990-11-12"
+        },
+        {
+          "endDate": "1990-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1990-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "6e4a3d14b1dcfc5bd43f1051d4678777468230d081afa1ddd295f5ea4c87e98a",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1990
+}

@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1968-01-19",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello, Goodbye"
+            }
+          ],
+          "startDate": "1968-01-01"
+        },
+        {
+          "endDate": "1968-02-02",
+          "items": [
+            {
+              "artist": "John Fred & His Playboy Band",
+              "rank": 1,
+              "title": "Judy in Disguise"
+            }
+          ],
+          "startDate": "1968-01-20"
+        },
+        {
+          "endDate": "1968-02-09",
+          "items": [
+            {
+              "artist": "The Lemon Pipers",
+              "rank": 1,
+              "title": "Green Tambourine"
+            }
+          ],
+          "startDate": "1968-02-03"
+        },
+        {
+          "endDate": "1968-03-15",
+          "items": [
+            {
+              "artist": "Paul Mauriat",
+              "rank": 1,
+              "title": "Love Is Blue"
+            }
+          ],
+          "startDate": "1968-02-10"
+        },
+        {
+          "endDate": "1968-04-12",
+          "items": [
+            {
+              "artist": "Otis Redding",
+              "rank": 1,
+              "title": "The Dock of the Bay"
+            }
+          ],
+          "startDate": "1968-03-16"
+        },
+        {
+          "endDate": "1968-05-17",
+          "items": [
+            {
+              "artist": "Bobby Goldsboro",
+              "rank": 1,
+              "title": "Honey"
+            }
+          ],
+          "startDate": "1968-04-13"
+        },
+        {
+          "endDate": "1968-05-31",
+          "items": [
+            {
+              "artist": "Archie Bell & the Drells",
+              "rank": 1,
+              "title": "Tighten Up"
+            }
+          ],
+          "startDate": "1968-05-18"
+        },
+        {
+          "endDate": "1968-06-21",
+          "items": [
+            {
+              "artist": "Simon & Garfunkel",
+              "rank": 1,
+              "title": "Mrs. Robinson"
+            }
+          ],
+          "startDate": "1968-06-01"
+        },
+        {
+          "endDate": "1968-07-19",
+          "items": [
+            {
+              "artist": "Herb Alpert",
+              "rank": 1,
+              "title": "This Guy's in Love with You"
+            }
+          ],
+          "startDate": "1968-06-22"
+        },
+        {
+          "endDate": "1968-08-02",
+          "items": [
+            {
+              "artist": "Hugh Masekela",
+              "rank": 1,
+              "title": "Grazing in the Grass"
+            }
+          ],
+          "startDate": "1968-07-20"
+        },
+        {
+          "endDate": "1968-08-16",
+          "items": [
+            {
+              "artist": "The Doors",
+              "rank": 1,
+              "title": "Hello, I Love You"
+            }
+          ],
+          "startDate": "1968-08-03"
+        },
+        {
+          "endDate": "1968-09-20",
+          "items": [
+            {
+              "artist": "The Rascals",
+              "rank": 1,
+              "title": "People Got to Be Free"
+            }
+          ],
+          "startDate": "1968-08-17"
+        },
+        {
+          "endDate": "1968-09-27",
+          "items": [
+            {
+              "artist": "Jeannie C. Riley",
+              "rank": 1,
+              "title": "Harper Valley P.T.A."
+            }
+          ],
+          "startDate": "1968-09-21"
+        },
+        {
+          "endDate": "1968-11-29",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hey Jude\"♪"
+            }
+          ],
+          "startDate": "1968-09-28"
+        },
+        {
+          "endDate": "1968-12-13",
+          "items": [
+            {
+              "artist": "Diana Ross & the Supremes",
+              "rank": 1,
+              "title": "Love Child"
+            }
+          ],
+          "startDate": "1968-11-30"
+        },
+        {
+          "endDate": "1968-12-31",
+          "items": [
+            {
+              "artist": "Marvin Gaye",
+              "rank": 1,
+              "title": "I Heard It Through the Grapevine"
+            }
+          ],
+          "startDate": "1968-12-14"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "df12aa71d2da72a4cdb8eea385eeaa41220faff58f9b92092d9a2f7c531c0181",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1968
+}

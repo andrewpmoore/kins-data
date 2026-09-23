@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1970-01-18",
+          "items": [
+            {
+              "artist": "The Archies",
+              "rank": 1,
+              "title": "Sugar, Sugar"
+            }
+          ],
+          "startDate": "1970-01-01"
+        },
+        {
+          "endDate": "1970-02-01",
+          "items": [
+            {
+              "artist": "Víctor Manuel",
+              "rank": 1,
+              "title": "Paxarinos"
+            }
+          ],
+          "startDate": "1970-01-19"
+        },
+        {
+          "endDate": "1970-02-08",
+          "items": [
+            {
+              "artist": "Miguel Ríos",
+              "rank": 1,
+              "title": "Himno A La Alegría"
+            }
+          ],
+          "startDate": "1970-02-02"
+        },
+        {
+          "endDate": "1970-04-05",
+          "items": [
+            {
+              "artist": "The Shocking Blue",
+              "rank": 1,
+              "title": "Venus"
+            }
+          ],
+          "startDate": "1970-02-09"
+        },
+        {
+          "endDate": "1970-05-31",
+          "items": [
+            {
+              "artist": "Julio Iglesias",
+              "rank": 1,
+              "title": "Gwendolyne"
+            }
+          ],
+          "startDate": "1970-04-06"
+        },
+        {
+          "endDate": "1970-09-06",
+          "items": [
+            {
+              "artist": "Los Diablos",
+              "rank": 1,
+              "title": "Un Rayo De Sol"
+            }
+          ],
+          "startDate": "1970-06-01"
+        },
+        {
+          "endDate": "1970-09-13",
+          "items": [
+            {
+              "artist": "Andrés Do Barro",
+              "rank": 1,
+              "title": "Corpiño Xeitoso"
+            }
+          ],
+          "startDate": "1970-09-07"
+        },
+        {
+          "endDate": "1970-09-27",
+          "items": [
+            {
+              "artist": "Mungo Jerry",
+              "rank": 1,
+              "title": "In The Summertime"
+            }
+          ],
+          "startDate": "1970-09-14"
+        },
+        {
+          "endDate": "1970-10-11",
+          "items": [
+            {
+              "artist": "Simon & Garfunkel",
+              "rank": 1,
+              "title": "El Cóndor Pasa"
+            }
+          ],
+          "startDate": "1970-09-28"
+        },
+        {
+          "endDate": "1970-10-25",
+          "items": [
+            {
+              "artist": "Mungo Jerry",
+              "rank": 1,
+              "title": "In The Summertime"
+            }
+          ],
+          "startDate": "1970-10-12"
+        },
+        {
+          "endDate": "1970-11-01",
+          "items": [
+            {
+              "artist": "Christie",
+              "rank": 1,
+              "title": "Yellow River"
+            }
+          ],
+          "startDate": "1970-10-26"
+        },
+        {
+          "endDate": "1970-11-08",
+          "items": [
+            {
+              "artist": "Mungo Jerry",
+              "rank": 1,
+              "title": "In The Summertime"
+            }
+          ],
+          "startDate": "1970-11-02"
+        },
+        {
+          "endDate": "1970-11-15",
+          "items": [
+            {
+              "artist": "Víctor Manuel",
+              "rank": 1,
+              "title": "Quiero Abrazarte Tanto"
+            }
+          ],
+          "startDate": "1970-11-09"
+        },
+        {
+          "endDate": "1970-12-20",
+          "items": [
+            {
+              "artist": "María Ostiz",
+              "rank": 1,
+              "title": "N'A Veiriña Do Mar"
+            }
+          ],
+          "startDate": "1970-11-16"
+        },
+        {
+          "endDate": "1970-12-31",
+          "items": [
+            {
+              "artist": "Nino Bravo",
+              "rank": 1,
+              "title": "Te quiero, Te Quiero"
+            }
+          ],
+          "startDate": "1970-12-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "2bc2bb99be88fd7ffb3a527e41086da091767a59a12ab5a57504ad2ec182be9d",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1970
+}

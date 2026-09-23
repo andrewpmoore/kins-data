@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1975-01-23",
+          "items": [
+            {
+              "artist": "Michael Holm",
+              "rank": 1,
+              "title": "Tränen Lügen Nicht"
+            }
+          ],
+          "startDate": "1975-01-01"
+        },
+        {
+          "endDate": "1975-01-30",
+          "items": [
+            {
+              "artist": "Bachman-Turner Overdrive",
+              "rank": 1,
+              "title": "You Ain't Seen Nothing Yet"
+            }
+          ],
+          "startDate": "1975-01-24"
+        },
+        {
+          "endDate": "1975-02-06",
+          "items": [
+            {
+              "artist": "Michael Holm",
+              "rank": 1,
+              "title": "Tränen Lügen Nicht"
+            }
+          ],
+          "startDate": "1975-01-31"
+        },
+        {
+          "endDate": "1975-02-27",
+          "items": [
+            {
+              "artist": "Udo Jürgens",
+              "rank": 1,
+              "title": "Griechischer Wein"
+            }
+          ],
+          "startDate": "1975-02-07"
+        },
+        {
+          "endDate": "1975-03-06",
+          "items": [
+            {
+              "artist": "Billy Swan",
+              "rank": 1,
+              "title": "I Can Help"
+            }
+          ],
+          "startDate": "1975-02-28"
+        },
+        {
+          "endDate": "1975-04-10",
+          "items": [
+            {
+              "artist": "Udo Jürgens",
+              "rank": 1,
+              "title": "Griechischer Wein"
+            }
+          ],
+          "startDate": "1975-03-07"
+        },
+        {
+          "endDate": "1975-04-17",
+          "items": [
+            {
+              "artist": "Sweet",
+              "rank": 1,
+              "title": "Fox on the Run"
+            }
+          ],
+          "startDate": "1975-04-11"
+        },
+        {
+          "endDate": "1975-05-08",
+          "items": [
+            {
+              "artist": "Shirley & Company",
+              "rank": 1,
+              "title": "Shame, Shame, Shame"
+            }
+          ],
+          "startDate": "1975-04-18"
+        },
+        {
+          "endDate": "1975-06-12",
+          "items": [
+            {
+              "artist": "Sweet",
+              "rank": 1,
+              "title": "Fox on the Run"
+            }
+          ],
+          "startDate": "1975-05-09"
+        },
+        {
+          "endDate": "1975-09-11",
+          "items": [
+            {
+              "artist": "George Baker Selection",
+              "rank": 1,
+              "title": "Paloma Blanca"
+            }
+          ],
+          "startDate": "1975-06-13"
+        },
+        {
+          "endDate": "1975-10-30",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "S.O.S."
+            }
+          ],
+          "startDate": "1975-09-12"
+        },
+        {
+          "endDate": "1975-12-04",
+          "items": [
+            {
+              "artist": "Penny McLean",
+              "rank": 1,
+              "title": "Lady Bump"
+            }
+          ],
+          "startDate": "1975-10-31"
+        },
+        {
+          "endDate": "1975-12-11",
+          "items": [
+            {
+              "artist": "5000 Volts",
+              "rank": 1,
+              "title": "I'm on Fire"
+            }
+          ],
+          "startDate": "1975-12-05"
+        },
+        {
+          "endDate": "1975-12-25",
+          "items": [
+            {
+              "artist": "Penny McLean",
+              "rank": 1,
+              "title": "Lady Bump"
+            }
+          ],
+          "startDate": "1975-12-12"
+        },
+        {
+          "endDate": "1975-12-31",
+          "items": [
+            {
+              "artist": "Jean-Claude Borelly",
+              "rank": 1,
+              "title": "Dolannes-Melodie"
+            }
+          ],
+          "startDate": "1975-12-26"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9521b81cadea06c0c59b115c90e7786dbdfba8d41aa29e3de90d574e857344f3",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1975
+}

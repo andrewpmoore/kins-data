@@ -1,0 +1,66 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1995-01-21",
+          "items": [
+            {
+              "artist": "Ini Kamoze",
+              "rank": 1,
+              "title": "Here Comes the Hotstepper"
+            }
+          ],
+          "startDate": "1995-01-01"
+        },
+        {
+          "endDate": "1995-04-15",
+          "items": [
+            {
+              "artist": "Rednex",
+              "rank": 1,
+              "title": "Cotton Eye Joe"
+            }
+          ],
+          "startDate": "1995-03-05"
+        },
+        {
+          "endDate": "1995-05-20",
+          "items": [
+            {
+              "artist": "Brownstone",
+              "rank": 1,
+              "title": "If You Love Me"
+            }
+          ],
+          "startDate": "1995-04-16"
+        },
+        {
+          "endDate": "1995-12-30",
+          "items": [
+            {
+              "artist": "Coolio featuring L.V.",
+              "rank": 1,
+              "title": "Gangsta's Paradise"
+            }
+          ],
+          "startDate": "1995-10-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5a2e825226b1267e3c0d8e18070daaf95be758ddf58bade1a6aa41a7723a05c4",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1995
+}

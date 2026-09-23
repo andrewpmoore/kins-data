@@ -2005,8 +2005,10 @@ def harvest(config_path: Path, output: Path, cache_dir: Path, date: str, strict:
         "endpoints": {
             "latest": "v1/latest/{country}.json",
             "byDate": "v1/dates/{yyyy-mm-dd}/{country}.json",
+            "historyYear": "v1/history/{country}/{year}.json",
             "nameMeanings": "v1/editorial/name-meanings.json",
             "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
+            "birthdayTwinMonth": "v1/editorial/birthday-twins/{month}.json",
         },
         "runStatus": status,
     }

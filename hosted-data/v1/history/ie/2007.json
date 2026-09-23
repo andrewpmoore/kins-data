@@ -1,0 +1,121 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2007-01-03",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "A Moment Like This"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-01-31",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "A Moment Like This"
+            }
+          ],
+          "startDate": "2007-01-25"
+        },
+        {
+          "endDate": "2007-06-13",
+          "items": [
+            {
+              "artist": "Rihanna featuring Jay-Z",
+              "rank": 1,
+              "title": "Umbrella"
+            }
+          ],
+          "startDate": "2007-06-07"
+        },
+        {
+          "endDate": "2007-06-27",
+          "items": [
+            {
+              "artist": "Rihanna featuring Jay-Z",
+              "rank": 1,
+              "title": "Umbrella"
+            }
+          ],
+          "startDate": "2007-06-21"
+        },
+        {
+          "endDate": "2007-09-05",
+          "items": [
+            {
+              "artist": "Sean Kingston",
+              "rank": 1,
+              "title": "Beautiful Girls"
+            }
+          ],
+          "startDate": "2007-08-30"
+        },
+        {
+          "endDate": "2007-09-13",
+          "items": [
+            {
+              "artist": "Snow Patrol",
+              "rank": 1,
+              "title": "Chasing Cars"
+            }
+          ],
+          "startDate": "2007-09-07"
+        },
+        {
+          "endDate": "2007-10-17",
+          "items": [
+            {
+              "artist": "Shayne Ward",
+              "rank": 1,
+              "title": "If That's OK with You"
+            }
+          ],
+          "startDate": "2007-10-11"
+        },
+        {
+          "endDate": "2007-11-14",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "Bleeding Love"
+            }
+          ],
+          "startDate": "2007-11-08"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "artist": "Leon Jackson",
+              "rank": 1,
+              "title": "When You Believe"
+            }
+          ],
+          "startDate": "2007-12-20"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "cf4532b91b509769218a6db1dacbd75a1587880ff059050ba47eba885ae228fd",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2007
+}

@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1981-01-04",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Super Trouper"
+            }
+          ],
+          "startDate": "1981-01-01"
+        },
+        {
+          "endDate": "1981-01-11",
+          "items": [
+            {
+              "artist": "Barbra Streisand",
+              "rank": 1,
+              "title": "Woman in Love"
+            }
+          ],
+          "startDate": "1981-01-05"
+        },
+        {
+          "endDate": "1981-02-01",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Super Trouper"
+            }
+          ],
+          "startDate": "1981-01-12"
+        },
+        {
+          "endDate": "1981-03-08",
+          "items": [
+            {
+              "artist": "Frank Duval",
+              "rank": 1,
+              "title": "Angel of Mine"
+            }
+          ],
+          "startDate": "1981-02-02"
+        },
+        {
+          "endDate": "1981-04-19",
+          "items": [
+            {
+              "artist": "Visage",
+              "rank": 1,
+              "title": "Fade to Grey"
+            }
+          ],
+          "startDate": "1981-03-09"
+        },
+        {
+          "endDate": "1981-05-03",
+          "items": [
+            {
+              "artist": "Joe Dolce Music Theatre",
+              "rank": 1,
+              "title": "Shaddap You Face"
+            }
+          ],
+          "startDate": "1981-04-20"
+        },
+        {
+          "endDate": "1981-05-10",
+          "items": [
+            {
+              "artist": "Visage",
+              "rank": 1,
+              "title": "Fade to Grey"
+            }
+          ],
+          "startDate": "1981-05-04"
+        },
+        {
+          "endDate": "1981-05-17",
+          "items": [
+            {
+              "artist": "Joe Dolce Music Theatre",
+              "rank": 1,
+              "title": "Shaddap You Face"
+            }
+          ],
+          "startDate": "1981-05-11"
+        },
+        {
+          "endDate": "1981-05-24",
+          "items": [
+            {
+              "artist": "Phil Collins",
+              "rank": 1,
+              "title": "In the Air Tonight"
+            }
+          ],
+          "startDate": "1981-05-18"
+        },
+        {
+          "endDate": "1981-07-12",
+          "items": [
+            {
+              "artist": "Stars on 45",
+              "rank": 1,
+              "title": "Stars on 45 Medley"
+            }
+          ],
+          "startDate": "1981-05-25"
+        },
+        {
+          "endDate": "1981-08-30",
+          "items": [
+            {
+              "artist": "Kim Carnes",
+              "rank": 1,
+              "title": "Bette Davis Eyes"
+            }
+          ],
+          "startDate": "1981-07-13"
+        },
+        {
+          "endDate": "1981-10-25",
+          "items": [
+            {
+              "artist": "Electronica's",
+              "rank": 1,
+              "title": "Dance Little Bird \" †"
+            }
+          ],
+          "startDate": "1981-08-31"
+        },
+        {
+          "endDate": "1981-11-22",
+          "items": [
+            {
+              "artist": "Fred Sonnenschein und seine Freunde",
+              "rank": 1,
+              "title": "Ja, wenn wir alle Englein wären"
+            }
+          ],
+          "startDate": "1981-10-26"
+        },
+        {
+          "endDate": "1981-12-06",
+          "items": [
+            {
+              "artist": "Soft Cell",
+              "rank": 1,
+              "title": "Tainted Love"
+            }
+          ],
+          "startDate": "1981-11-23"
+        },
+        {
+          "endDate": "1981-12-31",
+          "items": [
+            {
+              "artist": "Gottlieb Wendehals",
+              "rank": 1,
+              "title": "Polonäse Blankenese"
+            }
+          ],
+          "startDate": "1981-12-07"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "a5961f9c2cb53c84bd44acd2811ab5918dd1bc83f0b62e78d605820a1d0126bd",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1981
+}

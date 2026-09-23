@@ -1,0 +1,473 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1967-01-08",
+          "items": [
+            {
+              "artist": "The Monkees",
+              "rank": 1,
+              "title": "I'm a Believer"
+            }
+          ],
+          "startDate": "1967-01-01"
+        },
+        {
+          "endDate": "1967-02-03",
+          "items": [
+            {
+              "artist": "The Royal Guardsmen",
+              "rank": 1,
+              "title": "Snoopy vs. the Red Baron"
+            }
+          ],
+          "startDate": "1967-01-14"
+        },
+        {
+          "endDate": "1967-02-17",
+          "items": [
+            {
+              "artist": "The Seekers",
+              "rank": 1,
+              "title": "Georgy Girl"
+            }
+          ],
+          "startDate": "1967-02-04"
+        },
+        {
+          "endDate": "1967-03-03",
+          "items": [
+            {
+              "artist": "The Buckinghams",
+              "rank": 1,
+              "title": "Kind of a Drag"
+            }
+          ],
+          "startDate": "1967-02-18"
+        },
+        {
+          "endDate": "1967-03-10",
+          "items": [
+            {
+              "artist": "Spencer Davis Group",
+              "rank": 1,
+              "title": "Gimme Some Lovin'"
+            }
+          ],
+          "startDate": "1967-03-04"
+        },
+        {
+          "endDate": "1967-03-17",
+          "items": [
+            {
+              "artist": "The Supremes",
+              "rank": 1,
+              "title": "Love Is Here and Now You're Gone"
+            }
+          ],
+          "startDate": "1967-03-11"
+        },
+        {
+          "endDate": "1967-03-24",
+          "items": [
+            {
+              "artist": "Johnny Rivers",
+              "rank": 1,
+              "title": "Baby I Need Your Lovin'"
+            }
+          ],
+          "startDate": "1967-03-18"
+        },
+        {
+          "endDate": "1967-03-31",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Penny Lane"
+            }
+          ],
+          "startDate": "1967-03-25"
+        },
+        {
+          "endDate": "1967-04-21",
+          "items": [
+            {
+              "artist": "The Monkees",
+              "rank": 1,
+              "title": "A Little Bit Me, A Little Bit You"
+            }
+          ],
+          "startDate": "1967-04-01"
+        },
+        {
+          "endDate": "1967-05-05",
+          "items": [
+            {
+              "artist": "Young Canada Singers",
+              "rank": 1,
+              "title": "Canada"
+            }
+          ],
+          "startDate": "1967-04-22"
+        },
+        {
+          "endDate": "1967-05-12",
+          "items": [
+            {
+              "artist": "Nancy Sinatra & Frank Sinatra",
+              "rank": 1,
+              "title": "Somethin' Stupid"
+            }
+          ],
+          "startDate": "1967-05-06"
+        },
+        {
+          "endDate": "1967-05-19",
+          "items": [
+            {
+              "artist": "Spencer Davis Group",
+              "rank": 1,
+              "title": "I'm a Man"
+            }
+          ],
+          "startDate": "1967-05-13"
+        },
+        {
+          "endDate": "1967-05-26",
+          "items": [
+            {
+              "artist": "The Who",
+              "rank": 1,
+              "title": "Happy Jack"
+            }
+          ],
+          "startDate": "1967-05-20"
+        },
+        {
+          "endDate": "1967-06-02",
+          "items": [
+            {
+              "artist": "The Happenings",
+              "rank": 1,
+              "title": "I Got Rhythm"
+            }
+          ],
+          "startDate": "1967-05-27"
+        },
+        {
+          "endDate": "1967-06-09",
+          "items": [
+            {
+              "artist": "Young Rascals",
+              "rank": 1,
+              "title": "Groovin'"
+            }
+          ],
+          "startDate": "1967-06-03"
+        },
+        {
+          "endDate": "1967-06-16",
+          "items": [
+            {
+              "artist": "The Mamas & the Papas",
+              "rank": 1,
+              "title": "Creeque Alley"
+            }
+          ],
+          "startDate": "1967-06-10"
+        },
+        {
+          "endDate": "1967-06-23",
+          "items": [
+            {
+              "artist": "Jefferson Airplane",
+              "rank": 1,
+              "title": "Somebody to Love"
+            }
+          ],
+          "startDate": "1967-06-17"
+        },
+        {
+          "endDate": "1967-07-07",
+          "items": [
+            {
+              "artist": "The Turtles",
+              "rank": 1,
+              "title": "She'd Rather Be with Me"
+            }
+          ],
+          "startDate": "1967-06-24"
+        },
+        {
+          "endDate": "1967-07-14",
+          "items": [
+            {
+              "artist": "Music Explosion",
+              "rank": 1,
+              "title": "Little Bit O' Soul"
+            }
+          ],
+          "startDate": "1967-07-08"
+        },
+        {
+          "endDate": "1967-07-21",
+          "items": [
+            {
+              "artist": "The Association",
+              "rank": 1,
+              "title": "Windy"
+            }
+          ],
+          "startDate": "1967-07-15"
+        },
+        {
+          "endDate": "1967-07-28",
+          "items": [
+            {
+              "artist": "The 5th Dimension",
+              "rank": 1,
+              "title": "Up, Up and Away"
+            }
+          ],
+          "startDate": "1967-07-22"
+        },
+        {
+          "endDate": "1967-08-11",
+          "items": [
+            {
+              "artist": "Jefferson Airplane",
+              "rank": 1,
+              "title": "White Rabbit"
+            }
+          ],
+          "startDate": "1967-07-29"
+        },
+        {
+          "endDate": "1967-08-18",
+          "items": [
+            {
+              "artist": "Procol Harum",
+              "rank": 1,
+              "title": "A Whiter Shade of Pale"
+            }
+          ],
+          "startDate": "1967-08-12"
+        },
+        {
+          "endDate": "1967-08-25",
+          "items": [
+            {
+              "artist": "The Monkees",
+              "rank": 1,
+              "title": "Pleasant Valley Sunday"
+            }
+          ],
+          "startDate": "1967-08-19"
+        },
+        {
+          "endDate": "1967-09-01",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "All You Need Is Love"
+            }
+          ],
+          "startDate": "1967-08-26"
+        },
+        {
+          "endDate": "1967-09-08",
+          "items": [
+            {
+              "artist": "Young Rascals",
+              "rank": 1,
+              "title": "A Girl Like You"
+            }
+          ],
+          "startDate": "1967-09-02"
+        },
+        {
+          "endDate": "1967-09-15",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "All You Need Is Love"
+            }
+          ],
+          "startDate": "1967-09-09"
+        },
+        {
+          "endDate": "1967-09-22",
+          "items": [
+            {
+              "artist": "Bobbie Gentry",
+              "rank": 1,
+              "title": "Ode to Billie Joe"
+            }
+          ],
+          "startDate": "1967-09-16"
+        },
+        {
+          "endDate": "1967-09-29",
+          "items": [
+            {
+              "artist": "Eric Burdon",
+              "rank": 1,
+              "title": "San Franciscan Nights"
+            }
+          ],
+          "startDate": "1967-09-23"
+        },
+        {
+          "endDate": "1967-10-06",
+          "items": [
+            {
+              "artist": "The Box Tops",
+              "rank": 1,
+              "title": "The Letter\" †"
+            }
+          ],
+          "startDate": "1967-09-30"
+        },
+        {
+          "endDate": "1967-10-13",
+          "items": [
+            {
+              "artist": "Lulu",
+              "rank": 1,
+              "title": "To Sir With Love\"/\"The Boat That I Row"
+            }
+          ],
+          "startDate": "1967-10-07"
+        },
+        {
+          "endDate": "1967-10-20",
+          "items": [
+            {
+              "artist": "Paul Revere & the Raiders",
+              "rank": 1,
+              "title": "I Had a Dream"
+            }
+          ],
+          "startDate": "1967-10-14"
+        },
+        {
+          "endDate": "1967-10-27",
+          "items": [
+            {
+              "artist": "The Association",
+              "rank": 1,
+              "title": "Never My Love"
+            }
+          ],
+          "startDate": "1967-10-21"
+        },
+        {
+          "endDate": "1967-11-03",
+          "items": [
+            {
+              "artist": "Young Rascals",
+              "rank": 1,
+              "title": "How Can I Be Sure"
+            }
+          ],
+          "startDate": "1967-10-28"
+        },
+        {
+          "endDate": "1967-11-10",
+          "items": [
+            {
+              "artist": "The Doors",
+              "rank": 1,
+              "title": "People Are Strange"
+            }
+          ],
+          "startDate": "1967-11-04"
+        },
+        {
+          "endDate": "1967-11-17",
+          "items": [
+            {
+              "artist": "Marvin Gaye & Tammi Terrell",
+              "rank": 1,
+              "title": "Your Precious Love"
+            }
+          ],
+          "startDate": "1967-11-11"
+        },
+        {
+          "endDate": "1967-12-01",
+          "items": [
+            {
+              "artist": "The Cowsills",
+              "rank": 1,
+              "title": "The Rain, The Park & Other Things"
+            }
+          ],
+          "startDate": "1967-11-18"
+        },
+        {
+          "endDate": "1967-12-08",
+          "items": [
+            {
+              "artist": "Bobby Vinton",
+              "rank": 1,
+              "title": "Please Love Me Forever"
+            }
+          ],
+          "startDate": "1967-12-02"
+        },
+        {
+          "endDate": "1967-12-15",
+          "items": [
+            {
+              "artist": "Spanky and Our Gang",
+              "rank": 1,
+              "title": "Lazy Day"
+            }
+          ],
+          "startDate": "1967-12-09"
+        },
+        {
+          "endDate": "1967-12-22",
+          "items": [
+            {
+              "artist": "The Monkees",
+              "rank": 1,
+              "title": "Daydream Believer"
+            }
+          ],
+          "startDate": "1967-12-16"
+        },
+        {
+          "endDate": "1967-12-31",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello, Goodbye"
+            }
+          ],
+          "startDate": "1967-12-23"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "c626ca11222386200c98dd7298b53f3860b6ceb6e72ebaf5e437bffce2a138ce",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1967
+}

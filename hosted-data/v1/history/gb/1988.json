@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1988-12-04",
+          "items": [
+            {
+              "artist": "Kylie Minogue & Jason Donovan",
+              "rank": 1,
+              "title": "Especially for You"
+            }
+          ],
+          "startDate": "1988-11-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "14cb1c4ff03be1b7f74e9c29302645f2b6c0db2fa4df1ecd36a757ba6d7ed0d6",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1988
+}

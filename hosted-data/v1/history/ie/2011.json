@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2011-01-12",
+          "items": [
+            {
+              "artist": "Matt Cardle",
+              "rank": 1,
+              "title": "When We Collide"
+            }
+          ],
+          "startDate": "2011-01-06"
+        },
+        {
+          "endDate": "2011-02-09",
+          "items": [
+            {
+              "artist": "Bruno Mars",
+              "rank": 1,
+              "title": "Grenade"
+            }
+          ],
+          "startDate": "2011-01-13"
+        },
+        {
+          "endDate": "2011-02-16",
+          "items": [
+            {
+              "artist": "Jessie J featuring B.o.B",
+              "rank": 1,
+              "title": "Price Tag"
+            }
+          ],
+          "startDate": "2011-02-10"
+        },
+        {
+          "endDate": "2011-02-23",
+          "items": [
+            {
+              "artist": "Lady Gaga",
+              "rank": 1,
+              "title": "Born This Way"
+            }
+          ],
+          "startDate": "2011-02-17"
+        },
+        {
+          "endDate": "2011-03-02",
+          "items": [
+            {
+              "artist": "Jessie J featuring B.o.B",
+              "rank": 1,
+              "title": "Price Tag"
+            }
+          ],
+          "startDate": "2011-02-24"
+        },
+        {
+          "endDate": "2011-04-13",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Someone Like You"
+            }
+          ],
+          "startDate": "2011-03-03"
+        },
+        {
+          "endDate": "2011-04-20",
+          "items": [
+            {
+              "artist": "Jennifer Lopez featuring Pitbull",
+              "rank": 1,
+              "title": "On the Floor"
+            }
+          ],
+          "startDate": "2011-04-14"
+        },
+        {
+          "endDate": "2011-05-18",
+          "items": [
+            {
+              "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+              "rank": 1,
+              "title": "Party Rock Anthem"
+            }
+          ],
+          "startDate": "2011-04-21"
+        },
+        {
+          "endDate": "2011-06-01",
+          "items": [
+            {
+              "artist": "Jedward",
+              "rank": 1,
+              "title": "Lipstick"
+            }
+          ],
+          "startDate": "2011-05-19"
+        },
+        {
+          "endDate": "2011-07-06",
+          "items": [
+            {
+              "artist": "Pitbull featuring Ne-Yo, Afrojack and Nayer",
+              "rank": 1,
+              "title": "Give Me Everything"
+            }
+          ],
+          "startDate": "2011-06-02"
+        },
+        {
+          "endDate": "2011-07-13",
+          "items": [
+            {
+              "artist": "Jedward",
+              "rank": 1,
+              "title": "Bad Behaviour"
+            }
+          ],
+          "startDate": "2011-07-07"
+        },
+        {
+          "endDate": "2011-08-17",
+          "items": [
+            {
+              "artist": "The Wanted",
+              "rank": 1,
+              "title": "Glad You Came"
+            }
+          ],
+          "startDate": "2011-07-14"
+        },
+        {
+          "endDate": "2011-09-14",
+          "items": [
+            {
+              "artist": "Maroon 5 featuring Christina Aguilera",
+              "rank": 1,
+              "title": "Moves like Jagger"
+            }
+          ],
+          "startDate": "2011-08-18"
+        },
+        {
+          "endDate": "2011-10-12",
+          "items": [
+            {
+              "artist": "One Direction",
+              "rank": 1,
+              "title": "What Makes You Beautiful"
+            }
+          ],
+          "startDate": "2011-09-15"
+        },
+        {
+          "endDate": "2011-11-30",
+          "items": [
+            {
+              "artist": "Rihanna featuring Calvin Harris",
+              "rank": 1,
+              "title": "We Found Love"
+            }
+          ],
+          "startDate": "2011-10-13"
+        },
+        {
+          "endDate": "2011-12-14",
+          "items": [
+            {
+              "artist": "The X Factor 2011 Finalists featuring One Direction and JLS",
+              "rank": 1,
+              "title": "Wishing on a Star"
+            }
+          ],
+          "startDate": "2011-12-01"
+        },
+        {
+          "endDate": "2011-12-31",
+          "items": [
+            {
+              "artist": "Little Mix",
+              "rank": 1,
+              "title": "Cannonball"
+            }
+          ],
+          "startDate": "2011-12-15"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7ed36231449f6fedc4ed9f9b6084de5a1cacd71e14939110915efb06fb46a07f",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2011
+}

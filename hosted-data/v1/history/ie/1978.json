@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1978-02-17",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre"
+            }
+          ],
+          "startDate": "1978-01-01"
+        },
+        {
+          "endDate": "1978-02-24",
+          "items": [
+            {
+              "artist": "Brotherhood of Man",
+              "rank": 1,
+              "title": "Figaro"
+            }
+          ],
+          "startDate": "1978-02-18"
+        },
+        {
+          "endDate": "1978-03-03",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Take a Chance on Me"
+            }
+          ],
+          "startDate": "1978-02-25"
+        },
+        {
+          "endDate": "1978-03-17",
+          "items": [
+            {
+              "artist": "Danny Doyle",
+              "rank": 1,
+              "title": "The Rare Auld Times"
+            }
+          ],
+          "startDate": "1978-03-04"
+        },
+        {
+          "endDate": "1978-04-07",
+          "items": [
+            {
+              "artist": "Kate Bush",
+              "rank": 1,
+              "title": "Wuthering Heights"
+            }
+          ],
+          "startDate": "1978-03-18"
+        },
+        {
+          "endDate": "1978-04-28",
+          "items": [
+            {
+              "artist": "Brian and Michael",
+              "rank": 1,
+              "title": "Matchstalk Men and Matchstalk Cats and Dogs"
+            }
+          ],
+          "startDate": "1978-04-08"
+        },
+        {
+          "endDate": "1978-05-19",
+          "items": [
+            {
+              "artist": "The Bee Gees",
+              "rank": 1,
+              "title": "Night Fever"
+            }
+          ],
+          "startDate": "1978-04-29"
+        },
+        {
+          "endDate": "1978-06-23",
+          "items": [
+            {
+              "artist": "Boney M",
+              "rank": 1,
+              "title": "Rivers of Babylon"
+            }
+          ],
+          "startDate": "1978-05-20"
+        },
+        {
+          "endDate": "1978-08-18",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "You're the One That I Want"
+            }
+          ],
+          "startDate": "1978-06-24"
+        },
+        {
+          "endDate": "1978-08-25",
+          "items": [
+            {
+              "artist": "Clout",
+              "rank": 1,
+              "title": "Substitute"
+            }
+          ],
+          "startDate": "1978-08-19"
+        },
+        {
+          "endDate": "1978-09-01",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "You're the One That I Want"
+            }
+          ],
+          "startDate": "1978-08-26"
+        },
+        {
+          "endDate": "1978-09-22",
+          "items": [
+            {
+              "artist": "Commodores",
+              "rank": 1,
+              "title": "Three Times a Lady"
+            }
+          ],
+          "startDate": "1978-09-02"
+        },
+        {
+          "endDate": "1978-09-29",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Summer Night City"
+            }
+          ],
+          "startDate": "1978-09-23"
+        },
+        {
+          "endDate": "1978-10-06",
+          "items": [
+            {
+              "artist": "Gloria",
+              "rank": 1,
+              "title": "One Day at a Time"
+            }
+          ],
+          "startDate": "1978-09-30"
+        },
+        {
+          "endDate": "1978-11-03",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "Summer Nights"
+            }
+          ],
+          "startDate": "1978-10-07"
+        },
+        {
+          "endDate": "1978-11-10",
+          "items": [
+            {
+              "artist": "John Travolta",
+              "rank": 1,
+              "title": "Sandy"
+            }
+          ],
+          "startDate": "1978-11-04"
+        },
+        {
+          "endDate": "1978-11-17",
+          "items": [
+            {
+              "artist": "Gloria",
+              "rank": 1,
+              "title": "One Day at a Time"
+            }
+          ],
+          "startDate": "1978-11-11"
+        },
+        {
+          "endDate": "1978-11-24",
+          "items": [
+            {
+              "artist": "Olivia Newton-John",
+              "rank": 1,
+              "title": "Hopelessly Devoted to You"
+            }
+          ],
+          "startDate": "1978-11-18"
+        },
+        {
+          "endDate": "1978-12-31",
+          "items": [
+            {
+              "artist": "Boney M",
+              "rank": 1,
+              "title": "Mary's Boy Child – Oh My Lord"
+            }
+          ],
+          "startDate": "1978-11-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7b073a07a36369d0ccf08a453b3404ff5e16d857e67a5faf0af5cb88ca229f63",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1978
+}

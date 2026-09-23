@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1996-01-03",
+          "items": [
+            {
+              "artist": "Coolio feat. L.V.",
+              "rank": 1,
+              "title": "Gangsta's Paradise"
+            }
+          ],
+          "startDate": "1996-01-01"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2021-12-24",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "b5d09072d41a6e361623a63891103a2b60380d0dae5679a3e4ad07843a0c6852",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 1996
+}

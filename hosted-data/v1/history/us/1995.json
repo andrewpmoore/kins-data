@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1995-01-13",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "On Bended Knee"
+            }
+          ],
+          "startDate": "1995-01-01"
+        },
+        {
+          "endDate": "1995-02-24",
+          "items": [
+            {
+              "artist": "TLC",
+              "rank": 1,
+              "title": "Creep"
+            }
+          ],
+          "startDate": "1995-01-28"
+        },
+        {
+          "endDate": "1995-04-14",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Take A Bow"
+            }
+          ],
+          "startDate": "1995-02-25"
+        },
+        {
+          "endDate": "1995-06-02",
+          "items": [
+            {
+              "artist": "Montell Jordan",
+              "rank": 1,
+              "title": "This Is How We Do It"
+            }
+          ],
+          "startDate": "1995-04-15"
+        },
+        {
+          "endDate": "1995-07-07",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "Have You Ever Really Loved A Woman"
+            }
+          ],
+          "startDate": "1995-06-03"
+        },
+        {
+          "endDate": "1995-08-25",
+          "items": [
+            {
+              "artist": "TLC",
+              "rank": 1,
+              "title": "Waterfalls"
+            }
+          ],
+          "startDate": "1995-07-08"
+        },
+        {
+          "endDate": "1995-09-01",
+          "items": [
+            {
+              "artist": "Seal",
+              "rank": 1,
+              "title": "Kiss from a Rose"
+            }
+          ],
+          "startDate": "1995-08-26"
+        },
+        {
+          "endDate": "1995-09-08",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "You Are Not Alone"
+            }
+          ],
+          "startDate": "1995-09-02"
+        },
+        {
+          "endDate": "1995-09-29",
+          "items": [
+            {
+              "artist": "Coolio featuring L.V.",
+              "rank": 1,
+              "title": "Gangsta's Paradise\"♪"
+            }
+          ],
+          "startDate": "1995-09-09"
+        },
+        {
+          "endDate": "1995-11-24",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Fantasy"
+            }
+          ],
+          "startDate": "1995-09-30"
+        },
+        {
+          "endDate": "1995-12-01",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "Exhale"
+            }
+          ],
+          "startDate": "1995-11-25"
+        },
+        {
+          "endDate": "1995-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey & Boyz II Men",
+              "rank": 1,
+              "title": "One Sweet Day"
+            }
+          ],
+          "startDate": "1995-12-02"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "e33f0b5ee2827fb526675ceb93b2e99b5402759747a6a32063053f1f647d6c46",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1995
+}

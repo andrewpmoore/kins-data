@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1977-01-23",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Money, Money, Money"
+            }
+          ],
+          "startDate": "1977-01-01"
+        },
+        {
+          "endDate": "1977-02-06",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Sunny"
+            }
+          ],
+          "startDate": "1977-01-24"
+        },
+        {
+          "endDate": "1977-04-10",
+          "items": [
+            {
+              "artist": "Smokie",
+              "rank": 1,
+              "title": "Living Next Door to Alice"
+            }
+          ],
+          "startDate": "1977-02-07"
+        },
+        {
+          "endDate": "1977-04-24",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Knowing Me, Knowing You"
+            }
+          ],
+          "startDate": "1977-04-11"
+        },
+        {
+          "endDate": "1977-05-01",
+          "items": [
+            {
+              "artist": "Smokie",
+              "rank": 1,
+              "title": "Lay Back in the Arms of Someone"
+            }
+          ],
+          "startDate": "1977-04-25"
+        },
+        {
+          "endDate": "1977-05-08",
+          "items": [
+            {
+              "artist": "Jeanette",
+              "rank": 1,
+              "title": "Porque te Vas"
+            }
+          ],
+          "startDate": "1977-05-02"
+        },
+        {
+          "endDate": "1977-05-29",
+          "items": [
+            {
+              "artist": "Smokie",
+              "rank": 1,
+              "title": "Lay Back in the Arms of Someone"
+            }
+          ],
+          "startDate": "1977-05-09"
+        },
+        {
+          "endDate": "1977-06-05",
+          "items": [
+            {
+              "artist": "Oliver Onions",
+              "rank": 1,
+              "title": "Orzowei"
+            }
+          ],
+          "startDate": "1977-05-30"
+        },
+        {
+          "endDate": "1977-06-12",
+          "items": [
+            {
+              "artist": "Smokie",
+              "rank": 1,
+              "title": "Lay Back in the Arms of Someone"
+            }
+          ],
+          "startDate": "1977-06-06"
+        },
+        {
+          "endDate": "1977-07-03",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Ma Baker"
+            }
+          ],
+          "startDate": "1977-06-13"
+        },
+        {
+          "endDate": "1977-08-28",
+          "items": [
+            {
+              "artist": "Baccara",
+              "rank": 1,
+              "title": "Yes Sir, I Can Boogie"
+            }
+          ],
+          "startDate": "1977-07-04"
+        },
+        {
+          "endDate": "1977-09-04",
+          "items": [
+            {
+              "artist": "Space",
+              "rank": 1,
+              "title": "Magic Fly"
+            }
+          ],
+          "startDate": "1977-08-29"
+        },
+        {
+          "endDate": "1977-10-23",
+          "items": [
+            {
+              "artist": "Baccara",
+              "rank": 1,
+              "title": "Sorry, I'm a Lady"
+            }
+          ],
+          "startDate": "1977-09-05"
+        },
+        {
+          "endDate": "1977-11-20",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Belfast"
+            }
+          ],
+          "startDate": "1977-10-24"
+        },
+        {
+          "endDate": "1977-12-31",
+          "items": [
+            {
+              "artist": "Santa Esmeralda",
+              "rank": 1,
+              "title": "Don't Let Me Be Misunderstood"
+            }
+          ],
+          "startDate": "1977-11-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "4134787071f72ebdbeee3df8d594d64942da7a414e1755935b5f33fee8263048",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1977
+}

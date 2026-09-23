@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2012-01-01",
+          "items": [
+            {
+              "artist": "Michel Teló",
+              "rank": 1,
+              "title": "Ai se eu te pego!"
+            }
+          ],
+          "startDate": "2012-01-01"
+        },
+        {
+          "endDate": "2012-01-08",
+          "items": [
+            {
+              "artist": "Francesca Michielin",
+              "rank": 1,
+              "title": "Distratto"
+            }
+          ],
+          "startDate": "2012-01-02"
+        },
+        {
+          "endDate": "2012-02-12",
+          "items": [
+            {
+              "artist": "Michel Teló",
+              "rank": 1,
+              "title": "Ai Se Eu Te Pego!"
+            }
+          ],
+          "startDate": "2012-01-09"
+        },
+        {
+          "endDate": "2012-02-19",
+          "items": [
+            {
+              "artist": "Emma",
+              "rank": 1,
+              "title": "Non è l'inferno"
+            }
+          ],
+          "startDate": "2012-02-13"
+        },
+        {
+          "endDate": "2012-03-18",
+          "items": [
+            {
+              "artist": "Arisa",
+              "rank": 1,
+              "title": "La notte"
+            }
+          ],
+          "startDate": "2012-02-20"
+        },
+        {
+          "endDate": "2012-05-13",
+          "items": [
+            {
+              "artist": "Gotye featuring Kimbra",
+              "rank": 1,
+              "title": "Somebody That I Used to Know"
+            }
+          ],
+          "startDate": "2012-03-19"
+        },
+        {
+          "endDate": "2012-05-27",
+          "items": [
+            {
+              "artist": "Emma",
+              "rank": 1,
+              "title": "Cercavo amore"
+            }
+          ],
+          "startDate": "2012-05-14"
+        },
+        {
+          "endDate": "2012-06-03",
+          "items": [
+            {
+              "artist": "Maroon 5 featuring Wiz Khalifa",
+              "rank": 1,
+              "title": "Payphone"
+            }
+          ],
+          "startDate": "2012-05-28"
+        },
+        {
+          "endDate": "2012-08-19",
+          "items": [
+            {
+              "artist": "Gusttavo Lima",
+              "rank": 1,
+              "title": "Balada"
+            }
+          ],
+          "startDate": "2012-06-04"
+        },
+        {
+          "endDate": "2012-10-14",
+          "items": [
+            {
+              "artist": "Pulcino Pio",
+              "rank": 1,
+              "title": "Il Pulcino Pio"
+            }
+          ],
+          "startDate": "2012-08-20"
+        },
+        {
+          "endDate": "2012-10-28",
+          "items": [
+            {
+              "artist": "Asaf Avidan",
+              "rank": 1,
+              "title": "One Day / Reckoning Song"
+            }
+          ],
+          "startDate": "2012-10-15"
+        },
+        {
+          "endDate": "2012-11-25",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Skyfall"
+            }
+          ],
+          "startDate": "2012-10-29"
+        },
+        {
+          "endDate": "2012-12-02",
+          "items": [
+            {
+              "artist": "Psy",
+              "rank": 1,
+              "title": "Gangnam Style"
+            }
+          ],
+          "startDate": "2012-11-26"
+        },
+        {
+          "endDate": "2012-12-23",
+          "items": [
+            {
+              "artist": "Chiara",
+              "rank": 1,
+              "title": "Due respiri"
+            }
+          ],
+          "startDate": "2012-12-03"
+        },
+        {
+          "endDate": "2012-12-31",
+          "items": [
+            {
+              "artist": "will.i.am featuring Britney Spears",
+              "rank": 1,
+              "title": "Scream & Shout"
+            }
+          ],
+          "startDate": "2012-12-24"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2021-12-24",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "97a575416f227fbac776a7c95fd970677711db751a732be3b7feffff0a52d0c2",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2012
+}

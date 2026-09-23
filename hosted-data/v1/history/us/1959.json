@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1959-01-18",
+          "items": [
+            {
+              "artist": "The Chipmunks with David Seville",
+              "rank": 1,
+              "title": "The Chipmunk Song"
+            }
+          ],
+          "startDate": "1959-01-01"
+        },
+        {
+          "endDate": "1959-02-08",
+          "items": [
+            {
+              "artist": "The Platters",
+              "rank": 1,
+              "title": "Smoke Gets in Your Eyes"
+            }
+          ],
+          "startDate": "1959-01-19"
+        },
+        {
+          "endDate": "1959-03-08",
+          "items": [
+            {
+              "artist": "Lloyd Price",
+              "rank": 1,
+              "title": "Stagger Lee"
+            }
+          ],
+          "startDate": "1959-02-09"
+        },
+        {
+          "endDate": "1959-04-12",
+          "items": [
+            {
+              "artist": "Frankie Avalon",
+              "rank": 1,
+              "title": "Venus"
+            }
+          ],
+          "startDate": "1959-03-09"
+        },
+        {
+          "endDate": "1959-05-10",
+          "items": [
+            {
+              "artist": "The Fleetwoods",
+              "rank": 1,
+              "title": "Come Softly to Me"
+            }
+          ],
+          "startDate": "1959-04-13"
+        },
+        {
+          "endDate": "1959-05-17",
+          "items": [
+            {
+              "artist": "Dave \"Baby\" Cortez",
+              "rank": 1,
+              "title": "The Happy Organ"
+            }
+          ],
+          "startDate": "1959-05-11"
+        },
+        {
+          "endDate": "1959-05-31",
+          "items": [
+            {
+              "artist": "Wilbert Harrison",
+              "rank": 1,
+              "title": "Kansas City"
+            }
+          ],
+          "startDate": "1959-05-18"
+        },
+        {
+          "endDate": "1959-07-12",
+          "items": [
+            {
+              "artist": "Johnny Horton",
+              "rank": 1,
+              "title": "The Battle of New Orleans\"♪"
+            }
+          ],
+          "startDate": "1959-06-01"
+        },
+        {
+          "endDate": "1959-08-09",
+          "items": [
+            {
+              "artist": "Paul Anka",
+              "rank": 1,
+              "title": "Lonely Boy"
+            }
+          ],
+          "startDate": "1959-07-13"
+        },
+        {
+          "endDate": "1959-08-23",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Big Hunk o' Love"
+            }
+          ],
+          "startDate": "1959-08-10"
+        },
+        {
+          "endDate": "1959-09-20",
+          "items": [
+            {
+              "artist": "The Browns",
+              "rank": 1,
+              "title": "The Three Bells"
+            }
+          ],
+          "startDate": "1959-08-24"
+        },
+        {
+          "endDate": "1959-10-04",
+          "items": [
+            {
+              "artist": "Santo & Johnny",
+              "rank": 1,
+              "title": "Sleep Walk"
+            }
+          ],
+          "startDate": "1959-09-21"
+        },
+        {
+          "endDate": "1959-11-15",
+          "items": [
+            {
+              "artist": "Bobby Darin",
+              "rank": 1,
+              "title": "Mack the Knife"
+            }
+          ],
+          "startDate": "1959-10-05"
+        },
+        {
+          "endDate": "1959-12-06",
+          "items": [
+            {
+              "artist": "Bobby Darin",
+              "rank": 1,
+              "title": "Mack the Knife"
+            }
+          ],
+          "startDate": "1959-11-23"
+        },
+        {
+          "endDate": "1959-12-27",
+          "items": [
+            {
+              "artist": "Guy Mitchell",
+              "rank": 1,
+              "title": "Heartaches by the Number"
+            }
+          ],
+          "startDate": "1959-12-14"
+        },
+        {
+          "endDate": "1959-12-31",
+          "items": [
+            {
+              "artist": "Frankie Avalon",
+              "rank": 1,
+              "title": "Why"
+            }
+          ],
+          "startDate": "1959-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "2486c7c593be04453d2960a1565d99f7bad998a92e6090ac42faeaade302d2b4",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1959
+}

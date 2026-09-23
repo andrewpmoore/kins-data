@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2011-01-16",
+          "items": [
+            {
+              "artist": "Jovanotti",
+              "rank": 1,
+              "title": "Tutto l'amore che ho"
+            }
+          ],
+          "startDate": "2011-01-01"
+        },
+        {
+          "endDate": "2011-02-06",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Rolling in the Deep"
+            }
+          ],
+          "startDate": "2011-01-17"
+        },
+        {
+          "endDate": "2011-02-13",
+          "items": [
+            {
+              "artist": "Vasco Rossi",
+              "rank": 1,
+              "title": "Eh...già"
+            }
+          ],
+          "startDate": "2011-02-07"
+        },
+        {
+          "endDate": "2011-03-20",
+          "items": [
+            {
+              "artist": "Modà featuring Emma",
+              "rank": 1,
+              "title": "Arriverà"
+            }
+          ],
+          "startDate": "2011-02-14"
+        },
+        {
+          "endDate": "2011-04-17",
+          "items": [
+            {
+              "artist": "Jennifer Lopez featuring Pitbull",
+              "rank": 1,
+              "title": "On the Floor"
+            }
+          ],
+          "startDate": "2011-03-21"
+        },
+        {
+          "endDate": "2011-05-15",
+          "items": [
+            {
+              "artist": "Alexandra Stan",
+              "rank": 1,
+              "title": "Mr. Saxobeat"
+            }
+          ],
+          "startDate": "2011-04-18"
+        },
+        {
+          "endDate": "2011-07-24",
+          "items": [
+            {
+              "artist": "Don Omar and Lucenzo",
+              "rank": 1,
+              "title": "Danza Kuduro"
+            }
+          ],
+          "startDate": "2011-05-16"
+        },
+        {
+          "endDate": "2011-08-28",
+          "items": [
+            {
+              "artist": "Maria Gadú",
+              "rank": 1,
+              "title": "Shimbalaiê"
+            }
+          ],
+          "startDate": "2011-07-25"
+        },
+        {
+          "endDate": "2011-09-11",
+          "items": [
+            {
+              "artist": "Vasco Rossi",
+              "rank": 1,
+              "title": "I soliti"
+            }
+          ],
+          "startDate": "2011-08-29"
+        },
+        {
+          "endDate": "2011-09-18",
+          "items": [
+            {
+              "artist": "Laura Pausini",
+              "rank": 1,
+              "title": "Benvenuto"
+            }
+          ],
+          "startDate": "2011-09-12"
+        },
+        {
+          "endDate": "2011-12-04",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Someone Like You"
+            }
+          ],
+          "startDate": "2011-09-19"
+        },
+        {
+          "endDate": "2011-12-31",
+          "items": [
+            {
+              "artist": "Michel Teló",
+              "rank": 1,
+              "title": "Ai se eu te pego!"
+            }
+          ],
+          "startDate": "2011-12-05"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2021-12-24",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "0515cb29b07d66751663502ccd68b53154e561bab0dea95f947863ec81b8222a",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2011
+}

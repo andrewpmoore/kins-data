@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1968-01-26",
+          "items": [
+            {
+              "artist": "Georgie Fame",
+              "rank": 1,
+              "title": "The Ballad of Bonnie and Clyde"
+            }
+          ],
+          "startDate": "1968-01-20"
+        },
+        {
+          "endDate": "1968-02-16",
+          "items": [
+            {
+              "artist": "Love Affair",
+              "rank": 1,
+              "title": "Everlasting Love"
+            }
+          ],
+          "startDate": "1968-01-27"
+        },
+        {
+          "endDate": "1968-03-01",
+          "items": [
+            {
+              "artist": "Manfred Mann",
+              "rank": 1,
+              "title": "Mighty Quinn"
+            }
+          ],
+          "startDate": "1968-02-17"
+        },
+        {
+          "endDate": "1968-03-29",
+          "items": [
+            {
+              "artist": "Esther and Abi Ofarim",
+              "rank": 1,
+              "title": "Cinderella Rockefella"
+            }
+          ],
+          "startDate": "1968-03-02"
+        },
+        {
+          "endDate": "1968-05-17",
+          "items": [
+            {
+              "artist": "Louis Armstrong",
+              "rank": 1,
+              "title": "What a Wonderful World"
+            }
+          ],
+          "startDate": "1968-04-20"
+        },
+        {
+          "endDate": "1968-06-14",
+          "items": [
+            {
+              "artist": "Gary Puckett & The Union Gap",
+              "rank": 1,
+              "title": "Young Girl"
+            }
+          ],
+          "startDate": "1968-05-18"
+        },
+        {
+          "endDate": "1968-07-05",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Jumpin' Jack Flash"
+            }
+          ],
+          "startDate": "1968-06-22"
+        },
+        {
+          "endDate": "1968-07-26",
+          "items": [
+            {
+              "artist": "The Equals",
+              "rank": 1,
+              "title": "Baby Come Back"
+            }
+          ],
+          "startDate": "1968-07-06"
+        },
+        {
+          "endDate": "1968-08-23",
+          "items": [
+            {
+              "artist": "Tommy James and the Shondells",
+              "rank": 1,
+              "title": "Mony Mony"
+            }
+          ],
+          "startDate": "1968-07-27"
+        },
+        {
+          "endDate": "1968-08-27",
+          "items": [
+            {
+              "artist": "Aretha Franklin",
+              "rank": 1,
+              "title": "I Say a Little Prayer"
+            }
+          ],
+          "startDate": "1968-08-27"
+        },
+        {
+          "endDate": "1968-09-02",
+          "items": [
+            {
+              "artist": "The Beach Boys",
+              "rank": 1,
+              "title": "Do It Again"
+            }
+          ],
+          "startDate": "1968-08-28"
+        },
+        {
+          "endDate": "1968-09-13",
+          "items": [
+            {
+              "artist": "Aretha Franklin",
+              "rank": 1,
+              "title": "I Say a Little Prayer"
+            }
+          ],
+          "startDate": "1968-09-03"
+        },
+        {
+          "endDate": "1968-10-04",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hey Jude"
+            }
+          ],
+          "startDate": "1968-09-14"
+        },
+        {
+          "endDate": "1968-11-08",
+          "items": [
+            {
+              "artist": "Mary Hopkin",
+              "rank": 1,
+              "title": "Those Were the Days"
+            }
+          ],
+          "startDate": "1968-10-05"
+        },
+        {
+          "endDate": "1968-11-15",
+          "items": [
+            {
+              "artist": "Joe Cocker",
+              "rank": 1,
+              "title": "With a Little Help from My Friends"
+            }
+          ],
+          "startDate": "1968-11-09"
+        },
+        {
+          "endDate": "1968-12-31",
+          "items": [
+            {
+              "artist": "The Scaffold",
+              "rank": 1,
+              "title": "Lily the Pink"
+            }
+          ],
+          "startDate": "1968-12-14"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "54680f947ec883a7346fe4e0777e4620ae29dd3f68eaa0ddbfa459ebd1d0f163",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1968
+}

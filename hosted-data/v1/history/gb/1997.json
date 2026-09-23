@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1997-03-09",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Mama\" / \"Who Do You Think You Are"
+            }
+          ],
+          "startDate": "1997-03-03"
+        },
+        {
+          "endDate": "1997-03-23",
+          "items": [
+            {
+              "artist": "R. Kelly",
+              "rank": 1,
+              "title": "I Believe I Can Fly"
+            }
+          ],
+          "startDate": "1997-03-17"
+        },
+        {
+          "endDate": "1997-06-01",
+          "items": [
+            {
+              "artist": "Hanson",
+              "rank": 1,
+              "title": "MMMBop"
+            }
+          ],
+          "startDate": "1997-05-26"
+        },
+        {
+          "endDate": "1997-06-22",
+          "items": [
+            {
+              "artist": "Puff Daddy ft. Faith Evans",
+              "rank": 1,
+              "title": "I'll Be Missing You"
+            }
+          ],
+          "startDate": "1997-06-16"
+        },
+        {
+          "endDate": "1997-07-13",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "D'You Know What I Mean?"
+            }
+          ],
+          "startDate": "1997-07-07"
+        },
+        {
+          "endDate": "1997-08-10",
+          "items": [
+            {
+              "artist": "Will Smith",
+              "rank": 1,
+              "title": "Men in Black"
+            }
+          ],
+          "startDate": "1997-08-04"
+        },
+        {
+          "endDate": "1997-08-17",
+          "items": [
+            {
+              "artist": "Chumbawamba",
+              "rank": 1,
+              "title": "Tubthumping"
+            }
+          ],
+          "startDate": "1997-08-11"
+        },
+        {
+          "endDate": "1997-10-07",
+          "items": [
+            {
+              "artist": "Aqua",
+              "rank": 1,
+              "title": "Barbie Girl"
+            }
+          ],
+          "startDate": "1997-10-01"
+        },
+        {
+          "endDate": "1997-10-19",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Spice Up Your Life"
+            }
+          ],
+          "startDate": "1997-10-13"
+        },
+        {
+          "endDate": "1997-11-02",
+          "items": [
+            {
+              "artist": "Natalie Imbruglia",
+              "rank": 1,
+              "title": "Torn"
+            }
+          ],
+          "startDate": "1997-10-27"
+        },
+        {
+          "endDate": "1997-11-16",
+          "items": [
+            {
+              "artist": "All Saints",
+              "rank": 1,
+              "title": "Never Ever"
+            }
+          ],
+          "startDate": "1997-11-10"
+        },
+        {
+          "endDate": "1997-11-23",
+          "items": [
+            {
+              "artist": "Various Artists",
+              "rank": 1,
+              "title": "Perfect Day"
+            }
+          ],
+          "startDate": "1997-11-17"
+        },
+        {
+          "endDate": "1997-12-18",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Too Much"
+            }
+          ],
+          "startDate": "1997-12-12"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "821af37367c45c4b74824e30f65168922bc291b815bae6da18b77fcdf5c639f4",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1997
+}

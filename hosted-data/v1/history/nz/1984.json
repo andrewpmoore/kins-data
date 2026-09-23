@@ -1,0 +1,55 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1984-01-28",
+          "items": [
+            {
+              "artist": "Billy Joel",
+              "rank": 1,
+              "title": "Uptown Girl"
+            }
+          ],
+          "startDate": "1984-01-01"
+        },
+        {
+          "endDate": "1984-09-15",
+          "items": [
+            {
+              "artist": "Bob Marley and the Wailers",
+              "rank": 1,
+              "title": "One Love/People Get Ready"
+            }
+          ],
+          "startDate": "1984-07-29"
+        },
+        {
+          "endDate": "1984-12-08",
+          "items": [
+            {
+              "artist": "Stevie Wonder",
+              "rank": 1,
+              "title": "I Just Called to Say I Love You"
+            }
+          ],
+          "startDate": "1984-10-14"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "693219f50c3c0e39cda8ea6c73848203e0e4ca41f5fa916c1340a90b5e116831",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1984
+}

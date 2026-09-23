@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1994-02-18",
+          "items": [
+            {
+              "artist": "Whigfield",
+              "rank": 1,
+              "title": "Saturday Night"
+            }
+          ],
+          "startDate": "1994-01-01"
+        },
+        {
+          "endDate": "1994-03-18",
+          "items": [
+            {
+              "artist": "Jam & Spoon featuring Plavka",
+              "rank": 1,
+              "title": "Right in the Night"
+            }
+          ],
+          "startDate": "1994-02-19"
+        },
+        {
+          "endDate": "1994-03-25",
+          "items": [
+            {
+              "artist": "Ace of Base",
+              "rank": 1,
+              "title": "The Sign"
+            }
+          ],
+          "startDate": "1994-03-19"
+        },
+        {
+          "endDate": "1994-04-01",
+          "items": [
+            {
+              "artist": "Jam & Spoon",
+              "rank": 1,
+              "title": "Right in the Night"
+            }
+          ],
+          "startDate": "1994-03-26"
+        },
+        {
+          "endDate": "1994-04-22",
+          "items": [
+            {
+              "artist": "Paco Pil",
+              "rank": 1,
+              "title": "Dimension Divertida"
+            }
+          ],
+          "startDate": "1994-04-02"
+        },
+        {
+          "endDate": "1994-05-13",
+          "items": [
+            {
+              "artist": "Spanic",
+              "rank": 1,
+              "title": "Sister Golden Hair"
+            }
+          ],
+          "startDate": "1994-04-23"
+        },
+        {
+          "endDate": "1994-06-10",
+          "items": [
+            {
+              "artist": "Tony Wilson",
+              "rank": 1,
+              "title": "Hooked on a Feeling"
+            }
+          ],
+          "startDate": "1994-05-14"
+        },
+        {
+          "endDate": "1994-06-17",
+          "items": [
+            {
+              "artist": "Prince",
+              "rank": 1,
+              "title": "The Most Beautiful Girl in the World"
+            }
+          ],
+          "startDate": "1994-06-11"
+        },
+        {
+          "endDate": "1994-07-22",
+          "items": [
+            {
+              "artist": "Big Mountain",
+              "rank": 1,
+              "title": "Baby, I Love Your Way"
+            }
+          ],
+          "startDate": "1994-06-18"
+        },
+        {
+          "endDate": "1994-07-29",
+          "items": [
+            {
+              "artist": "Alex de la Nuez",
+              "rank": 1,
+              "title": "Dame Mas"
+            }
+          ],
+          "startDate": "1994-07-23"
+        },
+        {
+          "endDate": "1994-08-19",
+          "items": [
+            {
+              "artist": "Big Mountain",
+              "rank": 1,
+              "title": "Baby, I Love Your Way"
+            }
+          ],
+          "startDate": "1994-07-30"
+        },
+        {
+          "endDate": "1994-09-16",
+          "items": [
+            {
+              "artist": "Paco Pil",
+              "rank": 1,
+              "title": "Johnny Techno Ska"
+            }
+          ],
+          "startDate": "1994-08-20"
+        },
+        {
+          "endDate": "1994-10-21",
+          "items": [
+            {
+              "artist": "The Outhere Brothers",
+              "rank": 1,
+              "title": "Don't Stop"
+            }
+          ],
+          "startDate": "1994-09-17"
+        },
+        {
+          "endDate": "1994-10-28",
+          "items": [
+            {
+              "artist": "Dr. Alban",
+              "rank": 1,
+              "title": "Let the Beat Go On"
+            }
+          ],
+          "startDate": "1994-10-22"
+        },
+        {
+          "endDate": "1994-11-11",
+          "items": [
+            {
+              "artist": "Caballero",
+              "rank": 1,
+              "title": "Hymn"
+            }
+          ],
+          "startDate": "1994-10-29"
+        },
+        {
+          "endDate": "1994-11-18",
+          "items": [
+            {
+              "artist": "Scorpia",
+              "rank": 1,
+              "title": "Hypnose"
+            }
+          ],
+          "startDate": "1994-11-12"
+        },
+        {
+          "endDate": "1994-12-02",
+          "items": [
+            {
+              "artist": "Caballero",
+              "rank": 1,
+              "title": "Hymn"
+            }
+          ],
+          "startDate": "1994-11-19"
+        },
+        {
+          "endDate": "1994-12-23",
+          "items": [
+            {
+              "artist": "Scorpia",
+              "rank": 1,
+              "title": "Hypnose"
+            }
+          ],
+          "startDate": "1994-12-03"
+        },
+        {
+          "endDate": "1994-12-30",
+          "items": [
+            {
+              "artist": "Scooter",
+              "rank": 1,
+              "title": "Hyper Hyper"
+            }
+          ],
+          "startDate": "1994-12-24"
+        },
+        {
+          "endDate": "1994-12-31",
+          "items": [
+            {
+              "artist": "J. Rapallo",
+              "rank": 1,
+              "title": "Kaña de España"
+            }
+          ],
+          "startDate": "1994-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "fadcd957137822f238f3e75928eecaa356e09d1d0f8fc6edf8b74dda12367069",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1994
+}

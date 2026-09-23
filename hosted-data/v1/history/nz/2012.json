@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2012-01-08",
+          "items": [
+            {
+              "artist": "LMFAO",
+              "rank": 1,
+              "title": "Sexy and I Know It"
+            }
+          ],
+          "startDate": "2012-01-01"
+        },
+        {
+          "endDate": "2012-02-19",
+          "items": [
+            {
+              "artist": "Flo Rida featuring Sia",
+              "rank": 1,
+              "title": "Wild Ones"
+            }
+          ],
+          "startDate": "2012-01-09"
+        },
+        {
+          "endDate": "2012-02-26",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Part of Me"
+            }
+          ],
+          "startDate": "2012-02-20"
+        },
+        {
+          "endDate": "2012-03-11",
+          "items": [
+            {
+              "artist": "Reece Mastin",
+              "rank": 1,
+              "title": "Good Night"
+            }
+          ],
+          "startDate": "2012-02-27"
+        },
+        {
+          "endDate": "2012-03-18",
+          "items": [
+            {
+              "artist": "K'naan featuring Nelly Furtado",
+              "rank": 1,
+              "title": "Is Anybody Out There"
+            }
+          ],
+          "startDate": "2012-03-12"
+        },
+        {
+          "endDate": "2012-03-25",
+          "items": [
+            {
+              "artist": "Chris Rene",
+              "rank": 1,
+              "title": "Young Homie"
+            }
+          ],
+          "startDate": "2012-03-19"
+        },
+        {
+          "endDate": "2012-04-29",
+          "items": [
+            {
+              "artist": "Carly Rae Jepsen",
+              "rank": 1,
+              "title": "Call Me Maybe"
+            }
+          ],
+          "startDate": "2012-03-26"
+        },
+        {
+          "endDate": "2012-05-05",
+          "items": [
+            {
+              "artist": "Reece Mastin",
+              "rank": 1,
+              "title": "Shut Up & Kiss Me"
+            }
+          ],
+          "startDate": "2012-04-30"
+        },
+        {
+          "endDate": "2012-06-30",
+          "items": [
+            {
+              "artist": "Flo Rida",
+              "rank": 1,
+              "title": "Whistle"
+            }
+          ],
+          "startDate": "2012-05-06"
+        },
+        {
+          "endDate": "2012-07-08",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Wide Awake"
+            }
+          ],
+          "startDate": "2012-07-02"
+        },
+        {
+          "endDate": "2012-07-15",
+          "items": [
+            {
+              "artist": "Owl City & Carly Rae Jepsen",
+              "rank": 1,
+              "title": "Good Time"
+            }
+          ],
+          "startDate": "2012-07-09"
+        },
+        {
+          "endDate": "2012-07-22",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Wide Awake"
+            }
+          ],
+          "startDate": "2012-07-16"
+        },
+        {
+          "endDate": "2012-08-05",
+          "items": [
+            {
+              "artist": "Fun",
+              "rank": 1,
+              "title": "Some Nights"
+            }
+          ],
+          "startDate": "2012-07-23"
+        },
+        {
+          "endDate": "2012-08-26",
+          "items": [
+            {
+              "artist": "Maroon 5",
+              "rank": 1,
+              "title": "One More Night"
+            }
+          ],
+          "startDate": "2012-08-06"
+        },
+        {
+          "endDate": "2012-09-02",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "We Are Never Ever Getting Back Together"
+            }
+          ],
+          "startDate": "2012-08-27"
+        },
+        {
+          "endDate": "2012-09-16",
+          "items": [
+            {
+              "artist": "Flight of the Conchords",
+              "rank": 1,
+              "title": "Feel Inside \"†"
+            }
+          ],
+          "startDate": "2012-09-03"
+        },
+        {
+          "endDate": "2012-09-23",
+          "items": [
+            {
+              "artist": "Titanium",
+              "rank": 1,
+              "title": "Come On Home\"†"
+            }
+          ],
+          "startDate": "2012-09-17"
+        },
+        {
+          "endDate": "2012-10-07",
+          "items": [
+            {
+              "artist": "Psy",
+              "rank": 1,
+              "title": "Gangnam Style"
+            }
+          ],
+          "startDate": "2012-09-24"
+        },
+        {
+          "endDate": "2012-11-11",
+          "items": [
+            {
+              "artist": "Psy",
+              "rank": 1,
+              "title": "Gangnam Style"
+            }
+          ],
+          "startDate": "2012-10-15"
+        },
+        {
+          "endDate": "2012-12-23",
+          "items": [
+            {
+              "artist": "Macklemore & Ryan Lewis featuring Wanz",
+              "rank": 1,
+              "title": "Thrift Shop"
+            }
+          ],
+          "startDate": "2012-11-12"
+        },
+        {
+          "endDate": "2012-12-31",
+          "items": [
+            {
+              "artist": "Macklemore & Ryan Lewis featuring Wanz",
+              "rank": 1,
+              "title": "Thrift Shop"
+            }
+          ],
+          "startDate": "2012-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "56167e7d1569c1e0eddbc9a2694e827d72aac53af0b588cae7437e80ff3b758e",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 2012
+}

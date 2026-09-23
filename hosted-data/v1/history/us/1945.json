@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1945-02-16",
+          "items": [
+            {
+              "artist": "Bing Crosby and The Andrews Sisters",
+              "rank": 1,
+              "title": "Don't Fence Me In"
+            }
+          ],
+          "startDate": "1945-01-01"
+        },
+        {
+          "endDate": "1945-04-06",
+          "items": [
+            {
+              "artist": "The Andrews Sisters",
+              "rank": 1,
+              "title": "Rum and Coca-Cola"
+            }
+          ],
+          "startDate": "1945-02-17"
+        },
+        {
+          "endDate": "1945-05-25",
+          "items": [
+            {
+              "artist": "Les Brown & Doris Day",
+              "rank": 1,
+              "title": "My Dreams Are Getting Better All The Time"
+            }
+          ],
+          "startDate": "1945-04-07"
+        },
+        {
+          "endDate": "1945-07-27",
+          "items": [
+            {
+              "artist": "Les Brown & Doris Day",
+              "rank": 1,
+              "title": "Sentimental Journey"
+            }
+          ],
+          "startDate": "1945-05-26"
+        },
+        {
+          "endDate": "1945-09-14",
+          "items": [
+            {
+              "artist": "Johnny Mercer",
+              "rank": 1,
+              "title": "On the Atchison, Topeka and the Santa Fe"
+            }
+          ],
+          "startDate": "1945-07-28"
+        },
+        {
+          "endDate": "1945-11-16",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Till The End Of Time"
+            }
+          ],
+          "startDate": "1945-09-15"
+        },
+        {
+          "endDate": "1945-11-23",
+          "items": [
+            {
+              "artist": "Sammy Kaye",
+              "rank": 1,
+              "title": "Chickery Chick"
+            }
+          ],
+          "startDate": "1945-11-17"
+        },
+        {
+          "endDate": "1945-12-07",
+          "items": [
+            {
+              "artist": "Harry James",
+              "rank": 1,
+              "title": "It's Been A Long, Long Time"
+            }
+          ],
+          "startDate": "1945-11-24"
+        },
+        {
+          "endDate": "1945-12-14",
+          "items": [
+            {
+              "artist": "Bing Crosby and The Les Paul Trio",
+              "rank": 1,
+              "title": "It's Been A Long, Long Time"
+            }
+          ],
+          "startDate": "1945-12-08"
+        },
+        {
+          "endDate": "1945-12-21",
+          "items": [
+            {
+              "artist": "Sammy Kaye",
+              "rank": 1,
+              "title": "Chickery Chick"
+            }
+          ],
+          "startDate": "1945-12-15"
+        },
+        {
+          "endDate": "1945-12-28",
+          "items": [
+            {
+              "artist": "Harry James",
+              "rank": 1,
+              "title": "It's Been A Long, Long Time"
+            }
+          ],
+          "startDate": "1945-12-22"
+        },
+        {
+          "endDate": "1945-12-31",
+          "items": [
+            {
+              "artist": "Sammy Kaye",
+              "rank": 1,
+              "title": "Chickery Chick"
+            }
+          ],
+          "startDate": "1945-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "1c6ecc6d612f57fe71a0662ce9ad37475bf9ca7a920b124e5e625c44b05c0ba8",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1945
+}

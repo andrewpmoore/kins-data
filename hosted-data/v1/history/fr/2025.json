@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2025-01-04",
+          "items": [
+            {
+              "artist": "Rosé and Bruno Mars",
+              "rank": 1,
+              "title": "Apt.\" ◁"
+            }
+          ],
+          "startDate": "2025-01-01"
+        },
+        {
+          "endDate": "2025-02-01",
+          "items": [
+            {
+              "artist": "Rosé and Bruno Mars",
+              "rank": 1,
+              "title": "Apt.\" ◁"
+            }
+          ],
+          "startDate": "2025-01-19"
+        },
+        {
+          "endDate": "2025-02-22",
+          "items": [
+            {
+              "artist": "Rosé and Bruno Mars",
+              "rank": 1,
+              "title": "Apt.\" ◁"
+            }
+          ],
+          "startDate": "2025-02-09"
+        },
+        {
+          "endDate": "2025-03-22",
+          "items": [
+            {
+              "artist": "Rosé and Bruno Mars",
+              "rank": 1,
+              "title": "Apt.\" ◁"
+            }
+          ],
+          "startDate": "2025-03-02"
+        },
+        {
+          "endDate": "2025-04-12",
+          "items": [
+            {
+              "artist": "Doechii",
+              "rank": 1,
+              "title": "Anxiety"
+            }
+          ],
+          "startDate": "2025-04-06"
+        },
+        {
+          "endDate": "2025-05-10",
+          "items": [
+            {
+              "artist": "Lola Young",
+              "rank": 1,
+              "title": "Messy"
+            }
+          ],
+          "startDate": "2025-05-04"
+        },
+        {
+          "endDate": "2025-07-19",
+          "items": [
+            {
+              "artist": "Bleu Soleil and Luiza",
+              "rank": 1,
+              "title": "Soleil bleu"
+            }
+          ],
+          "startDate": "2025-07-13"
+        },
+        {
+          "endDate": "2025-08-02",
+          "items": [
+            {
+              "artist": "Bleu Soleil and Luiza",
+              "rank": 1,
+              "title": "Soleil bleu"
+            }
+          ],
+          "startDate": "2025-07-27"
+        },
+        {
+          "endDate": "2025-09-13",
+          "items": [
+            {
+              "artist": "Bleu Soleil and Luiza",
+              "rank": 1,
+              "title": "Soleil bleu"
+            }
+          ],
+          "startDate": "2025-09-07"
+        },
+        {
+          "endDate": "2025-11-01",
+          "items": [
+            {
+              "artist": "Bleu Soleil and Luiza",
+              "rank": 1,
+              "title": "Soleil bleu"
+            }
+          ],
+          "startDate": "2025-10-26"
+        },
+        {
+          "endDate": "2025-11-29",
+          "items": [
+            {
+              "artist": "Bleu Soleil and Luiza",
+              "rank": 1,
+              "title": "Soleil bleu"
+            }
+          ],
+          "startDate": "2025-11-16"
+        },
+        {
+          "endDate": "2025-12-13",
+          "items": [
+            {
+              "artist": "Bleu Soleil and Luiza",
+              "rank": 1,
+              "title": "Soleil bleu"
+            }
+          ],
+          "startDate": "2025-12-07"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-01",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3c25f89516d71d653f9be1339a187b6eafa51f39649fff33e1d3ddbfcfc6401e",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2025
+}

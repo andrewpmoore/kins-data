@@ -1,0 +1,99 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1959-01-30",
+          "items": [
+            {
+              "artist": "Billy Vaughn",
+              "rank": 1,
+              "title": "La Paloma"
+            }
+          ],
+          "startDate": "1959-01-01"
+        },
+        {
+          "endDate": "1959-03-20",
+          "items": [
+            {
+              "artist": "Nilsen Brothers",
+              "rank": 1,
+              "title": "Tom Dooley"
+            }
+          ],
+          "startDate": "1959-01-31"
+        },
+        {
+          "endDate": "1959-04-24",
+          "items": [
+            {
+              "artist": "Kingston Trio",
+              "rank": 1,
+              "title": "Tom Dooley"
+            }
+          ],
+          "startDate": "1959-03-21"
+        },
+        {
+          "endDate": "1959-07-31",
+          "items": [
+            {
+              "artist": "Freddy Quinn",
+              "rank": 1,
+              "title": "Die Gitarre und das Meer"
+            }
+          ],
+          "startDate": "1959-04-25"
+        },
+        {
+          "endDate": "1959-10-09",
+          "items": [
+            {
+              "artist": "Dalida",
+              "rank": 1,
+              "title": "Am Tag, als der Regen kam"
+            }
+          ],
+          "startDate": "1959-08-01"
+        },
+        {
+          "endDate": "1959-11-20",
+          "items": [
+            {
+              "artist": "Bill Ramsey",
+              "rank": 1,
+              "title": "Souvenirs"
+            }
+          ],
+          "startDate": "1959-10-10"
+        },
+        {
+          "endDate": "1959-12-31",
+          "items": [
+            {
+              "artist": "Freddy Quinn",
+              "rank": 1,
+              "title": "Unter fremden Sternen"
+            }
+          ],
+          "startDate": "1959-11-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "d773507a62d439f0e86c7b0e3856380421969eb58f9fc3350bede4981ec60f9c",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1959
+}

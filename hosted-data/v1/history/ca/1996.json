@@ -1,0 +1,55 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1996-01-07",
+          "items": [
+            {
+              "artist": "Alanis Morissette",
+              "rank": 1,
+              "title": "Hand in My Pocket"
+            }
+          ],
+          "startDate": "1996-01-01"
+        },
+        {
+          "endDate": "1996-11-03",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "It's All Coming Back to Me Now"
+            }
+          ],
+          "startDate": "1996-10-28"
+        },
+        {
+          "endDate": "1996-12-31",
+          "items": [
+            {
+              "artist": "Alanis Morissette",
+              "rank": 1,
+              "title": "Head over Feet"
+            }
+          ],
+          "startDate": "1996-12-23"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "912bcefb9d573c1cb63e978174123760a2c92be530b0e68d06d87dc6acae58bb",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1996
+}

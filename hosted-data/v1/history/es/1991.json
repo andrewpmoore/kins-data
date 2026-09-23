@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1991-01-25",
+          "items": [
+            {
+              "artist": "Londonbeat",
+              "rank": 1,
+              "title": "I've Been Thinking About You"
+            }
+          ],
+          "startDate": "1991-01-01"
+        },
+        {
+          "endDate": "1991-03-15",
+          "items": [
+            {
+              "artist": "Enigma",
+              "rank": 1,
+              "title": "Sadness"
+            }
+          ],
+          "startDate": "1991-01-26"
+        },
+        {
+          "endDate": "1991-06-07",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "The Grease Megamix"
+            }
+          ],
+          "startDate": "1991-03-16"
+        },
+        {
+          "endDate": "1991-06-28",
+          "items": [
+            {
+              "artist": "Mecano",
+              "rank": 1,
+              "title": "El 7 de Septiembre"
+            }
+          ],
+          "startDate": "1991-06-08"
+        },
+        {
+          "endDate": "1991-07-12",
+          "items": [
+            {
+              "artist": "Crystal Waters",
+              "rank": 1,
+              "title": "Gypsy Woman"
+            }
+          ],
+          "startDate": "1991-06-29"
+        },
+        {
+          "endDate": "1991-07-19",
+          "items": [
+            {
+              "artist": "Varios",
+              "rank": 1,
+              "title": "Aquest Any Si"
+            }
+          ],
+          "startDate": "1991-07-13"
+        },
+        {
+          "endDate": "1991-08-23",
+          "items": [
+            {
+              "artist": "Crystal Waters",
+              "rank": 1,
+              "title": "Gypsy Woman"
+            }
+          ],
+          "startDate": "1991-07-20"
+        },
+        {
+          "endDate": "1991-09-20",
+          "items": [
+            {
+              "artist": "Guns N' Roses",
+              "rank": 1,
+              "title": "You Could Be Mine"
+            }
+          ],
+          "startDate": "1991-08-24"
+        },
+        {
+          "endDate": "1991-11-08",
+          "items": [
+            {
+              "artist": "Chimo Bayo",
+              "rank": 1,
+              "title": "Asi Me Gusta"
+            }
+          ],
+          "startDate": "1991-09-21"
+        },
+        {
+          "endDate": "1991-11-15",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "The Fly"
+            }
+          ],
+          "startDate": "1991-11-09"
+        },
+        {
+          "endDate": "1991-12-31",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Black or White"
+            }
+          ],
+          "startDate": "1991-11-16"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "03865cb0f029c93c1d865102383b344c97ba51139f6e94aafc16e9260cbb6a9a",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1991
+}

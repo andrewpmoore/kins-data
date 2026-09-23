@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2019-01-06",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2019-01-01"
+        },
+        {
+          "endDate": "2019-01-13",
+          "items": [
+            {
+              "artist": "Ava Max",
+              "rank": 1,
+              "title": "Sweet but Psycho"
+            }
+          ],
+          "startDate": "2019-01-07"
+        },
+        {
+          "endDate": "2019-01-27",
+          "items": [
+            {
+              "artist": "Post Malone and Swae Lee",
+              "rank": 1,
+              "title": "Sunflower"
+            }
+          ],
+          "startDate": "2019-01-14"
+        },
+        {
+          "endDate": "2019-02-24",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "7 Rings"
+            }
+          ],
+          "startDate": "2019-01-28"
+        },
+        {
+          "endDate": "2019-03-17",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "Break Up with Your Girlfriend, I'm Bored"
+            }
+          ],
+          "startDate": "2019-02-25"
+        },
+        {
+          "endDate": "2019-03-24",
+          "items": [
+            {
+              "artist": "Jonas Brothers",
+              "rank": 1,
+              "title": "Sucker"
+            }
+          ],
+          "startDate": "2019-03-18"
+        },
+        {
+          "endDate": "2019-03-31",
+          "items": [
+            {
+              "artist": "Khalid and Disclosure",
+              "rank": 1,
+              "title": "Talk"
+            }
+          ],
+          "startDate": "2019-03-25"
+        },
+        {
+          "endDate": "2019-04-07",
+          "items": [
+            {
+              "artist": "Post Malone",
+              "rank": 1,
+              "title": "Wow"
+            }
+          ],
+          "startDate": "2019-04-01"
+        },
+        {
+          "endDate": "2019-04-14",
+          "items": [
+            {
+              "artist": "Billie Eilish",
+              "rank": 1,
+              "title": "Bad Guy"
+            }
+          ],
+          "startDate": "2019-04-08"
+        },
+        {
+          "endDate": "2019-07-07",
+          "items": [
+            {
+              "artist": "Lil Nas X featuring Billy Ray Cyrus",
+              "rank": 1,
+              "title": "Old Town Road"
+            }
+          ],
+          "startDate": "2019-04-15"
+        },
+        {
+          "endDate": "2019-09-08",
+          "items": [
+            {
+              "artist": "Shawn Mendes and Camila Cabello",
+              "rank": 1,
+              "title": "Señorita"
+            }
+          ],
+          "startDate": "2019-07-08"
+        },
+        {
+          "endDate": "2019-09-15",
+          "items": [
+            {
+              "artist": "Tones and I",
+              "rank": 1,
+              "title": "Dance Monkey"
+            }
+          ],
+          "startDate": "2019-09-09"
+        },
+        {
+          "endDate": "2019-11-17",
+          "items": [
+            {
+              "artist": "Tones and I",
+              "rank": 1,
+              "title": "Dance Monkey"
+            }
+          ],
+          "startDate": "2019-09-23"
+        },
+        {
+          "endDate": "2019-12-29",
+          "items": [
+            {
+              "artist": "Arizona Zervas",
+              "rank": 1,
+              "title": "Roxanne"
+            }
+          ],
+          "startDate": "2019-11-18"
+        },
+        {
+          "endDate": "2019-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2019-12-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "64f211c810e02930decddf3ac9e6ff0f8cda0d8b2045e64cff27be487061fb0b",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 2019
+}

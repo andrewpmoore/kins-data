@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2008-01-03",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "2008-01-01"
+        },
+        {
+          "endDate": "2008-01-24",
+          "items": [
+            {
+              "artist": "Timbaland featuring OneRepublic",
+              "rank": 1,
+              "title": "Apologize\" †"
+            }
+          ],
+          "startDate": "2008-01-04"
+        },
+        {
+          "endDate": "2008-02-21",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "Bleeding Love"
+            }
+          ],
+          "startDate": "2008-01-25"
+        },
+        {
+          "endDate": "2008-04-17",
+          "items": [
+            {
+              "artist": "Schnuffel",
+              "rank": 1,
+              "title": "Kuschel Song"
+            }
+          ],
+          "startDate": "2008-02-22"
+        },
+        {
+          "endDate": "2008-04-24",
+          "items": [
+            {
+              "artist": "Duffy",
+              "rank": 1,
+              "title": "Mercy"
+            }
+          ],
+          "startDate": "2008-04-18"
+        },
+        {
+          "endDate": "2008-05-15",
+          "items": [
+            {
+              "artist": "Madonna featuring Justin Timberlake",
+              "rank": 1,
+              "title": "4 Minutes"
+            }
+          ],
+          "startDate": "2008-04-25"
+        },
+        {
+          "endDate": "2008-06-05",
+          "items": [
+            {
+              "artist": "Mark Medlock",
+              "rank": 1,
+              "title": "Summer Love"
+            }
+          ],
+          "startDate": "2008-05-16"
+        },
+        {
+          "endDate": "2008-06-19",
+          "items": [
+            {
+              "artist": "Thomas Godoj",
+              "rank": 1,
+              "title": "Love Is You"
+            }
+          ],
+          "startDate": "2008-06-06"
+        },
+        {
+          "endDate": "2008-06-26",
+          "items": [
+            {
+              "artist": "Shaggy featuring Trix & Flix",
+              "rank": 1,
+              "title": "Feel The Rush"
+            }
+          ],
+          "startDate": "2008-06-20"
+        },
+        {
+          "endDate": "2008-08-21",
+          "items": [
+            {
+              "artist": "Kid Rock",
+              "rank": 1,
+              "title": "All Summer Long"
+            }
+          ],
+          "startDate": "2008-06-27"
+        },
+        {
+          "endDate": "2008-08-28",
+          "items": [
+            {
+              "artist": "Söhne Mannheims",
+              "rank": 1,
+              "title": "Das hat die Welt noch nicht gesehen"
+            }
+          ],
+          "startDate": "2008-08-22"
+        },
+        {
+          "endDate": "2008-09-11",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "I Kissed a Girl"
+            }
+          ],
+          "startDate": "2008-08-29"
+        },
+        {
+          "endDate": "2008-09-18",
+          "items": [
+            {
+              "artist": "Rosenstolz",
+              "rank": 1,
+              "title": "Gib mir Sonne"
+            }
+          ],
+          "startDate": "2008-09-12"
+        },
+        {
+          "endDate": "2008-10-09",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "I Kissed a Girl"
+            }
+          ],
+          "startDate": "2008-09-19"
+        },
+        {
+          "endDate": "2008-10-30",
+          "items": [
+            {
+              "artist": "Pink",
+              "rank": 1,
+              "title": "So What"
+            }
+          ],
+          "startDate": "2008-10-10"
+        },
+        {
+          "endDate": "2008-12-04",
+          "items": [
+            {
+              "artist": "Polarkreis 18",
+              "rank": 1,
+              "title": "Allein Allein"
+            }
+          ],
+          "startDate": "2008-10-31"
+        },
+        {
+          "endDate": "2008-12-31",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Hot n Cold"
+            }
+          ],
+          "startDate": "2008-12-05"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "df2bb2b92cd6048493c010963fa25bc35653f78431e89b1c42976de4b7c11fc7",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2008
+}

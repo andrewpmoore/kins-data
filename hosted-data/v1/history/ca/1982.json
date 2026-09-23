@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1982-01-29",
+          "items": [
+            {
+              "artist": "Olivia Newton-John",
+              "rank": 1,
+              "title": "Physical"
+            }
+          ],
+          "startDate": "1982-01-01"
+        },
+        {
+          "endDate": "1982-02-26",
+          "items": [
+            {
+              "artist": "The J. Geils Band",
+              "rank": 1,
+              "title": "Centerfold"
+            }
+          ],
+          "startDate": "1982-01-30"
+        },
+        {
+          "endDate": "1982-03-19",
+          "items": [
+            {
+              "artist": "Soft Cell",
+              "rank": 1,
+              "title": "Tainted Love"
+            }
+          ],
+          "startDate": "1982-02-27"
+        },
+        {
+          "endDate": "1982-05-14",
+          "items": [
+            {
+              "artist": "Joan Jett and the Blackhearts",
+              "rank": 1,
+              "title": "I Love Rock 'n Roll\"†"
+            }
+          ],
+          "startDate": "1982-03-20"
+        },
+        {
+          "endDate": "1982-05-21",
+          "items": [
+            {
+              "artist": "The Human League",
+              "rank": 1,
+              "title": "Don't You Want Me"
+            }
+          ],
+          "startDate": "1982-05-15"
+        },
+        {
+          "endDate": "1982-06-25",
+          "items": [
+            {
+              "artist": "Paul McCartney and Stevie Wonder",
+              "rank": 1,
+              "title": "Ebony and Ivory"
+            }
+          ],
+          "startDate": "1982-05-22"
+        },
+        {
+          "endDate": "1982-07-23",
+          "items": [
+            {
+              "artist": "Charlene",
+              "rank": 1,
+              "title": "I've Never Been to Me"
+            }
+          ],
+          "startDate": "1982-06-26"
+        },
+        {
+          "endDate": "1982-07-30",
+          "items": [
+            {
+              "artist": "Steve Miller Band",
+              "rank": 1,
+              "title": "Abracadabra"
+            }
+          ],
+          "startDate": "1982-07-24"
+        },
+        {
+          "endDate": "1982-09-10",
+          "items": [
+            {
+              "artist": "Survivor",
+              "rank": 1,
+              "title": "Eye of the Tiger"
+            }
+          ],
+          "startDate": "1982-07-31"
+        },
+        {
+          "endDate": "1982-09-17",
+          "items": [
+            {
+              "artist": "Chicago",
+              "rank": 1,
+              "title": "Hard to Say I'm Sorry"
+            }
+          ],
+          "startDate": "1982-09-11"
+        },
+        {
+          "endDate": "1982-10-01",
+          "items": [
+            {
+              "artist": "John Cougar",
+              "rank": 1,
+              "title": "Jack & Diane"
+            }
+          ],
+          "startDate": "1982-09-18"
+        },
+        {
+          "endDate": "1982-10-08",
+          "items": [
+            {
+              "artist": "The Alan Parsons Project",
+              "rank": 1,
+              "title": "Eye in the Sky"
+            }
+          ],
+          "startDate": "1982-10-02"
+        },
+        {
+          "endDate": "1982-10-22",
+          "items": [
+            {
+              "artist": "Rush",
+              "rank": 1,
+              "title": "New World Man"
+            }
+          ],
+          "startDate": "1982-10-09"
+        },
+        {
+          "endDate": "1982-11-12",
+          "items": [
+            {
+              "artist": "Men at Work",
+              "rank": 1,
+              "title": "Down Under"
+            }
+          ],
+          "startDate": "1982-10-23"
+        },
+        {
+          "endDate": "1982-11-19",
+          "items": [
+            {
+              "artist": "ABC",
+              "rank": 1,
+              "title": "The Look of Love"
+            }
+          ],
+          "startDate": "1982-11-13"
+        },
+        {
+          "endDate": "1982-11-26",
+          "items": [
+            {
+              "artist": "Laura Branigan",
+              "rank": 1,
+              "title": "Gloria"
+            }
+          ],
+          "startDate": "1982-11-20"
+        },
+        {
+          "endDate": "1982-12-10",
+          "items": [
+            {
+              "artist": "Joe Cocker and Jennifer Warnes",
+              "rank": 1,
+              "title": "Up Where We Belong"
+            }
+          ],
+          "startDate": "1982-11-27"
+        },
+        {
+          "endDate": "1982-12-17",
+          "items": [
+            {
+              "artist": "Don Henley",
+              "rank": 1,
+              "title": "Dirty Laundry"
+            }
+          ],
+          "startDate": "1982-12-11"
+        },
+        {
+          "endDate": "1982-12-24",
+          "items": [
+            {
+              "artist": "Lionel Richie",
+              "rank": 1,
+              "title": "Truly"
+            }
+          ],
+          "startDate": "1982-12-18"
+        },
+        {
+          "endDate": "1982-12-31",
+          "items": [
+            {
+              "artist": "Toni Basil",
+              "rank": 1,
+              "title": "Mickey"
+            }
+          ],
+          "startDate": "1982-12-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "e9b581518d17531b67b156eece9252c10a83df29cccfda2f34ed7bbc66f9ba3d",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1982
+}

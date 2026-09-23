@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1978-01-31",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre"
+            }
+          ],
+          "startDate": "1978-01-01"
+        },
+        {
+          "endDate": "1978-02-14",
+          "items": [
+            {
+              "artist": "Althea & Donna",
+              "rank": 1,
+              "title": "Uptown Top Ranking"
+            }
+          ],
+          "startDate": "1978-02-01"
+        },
+        {
+          "endDate": "1978-03-07",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Take a Chance on Me"
+            }
+          ],
+          "startDate": "1978-02-15"
+        },
+        {
+          "endDate": "1978-03-28",
+          "items": [
+            {
+              "artist": "Kate Bush",
+              "rank": 1,
+              "title": "Wuthering Heights"
+            }
+          ],
+          "startDate": "1978-03-08"
+        },
+        {
+          "endDate": "1978-04-11",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "Denis\" ‡"
+            }
+          ],
+          "startDate": "1978-03-29"
+        },
+        {
+          "endDate": "1978-04-13",
+          "items": [
+            {
+              "artist": "Showaddywaddy",
+              "rank": 1,
+              "title": "I Wonder Why\" ‡"
+            }
+          ],
+          "startDate": "1978-04-12"
+        },
+        {
+          "endDate": "1978-04-18",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon\" / \"Brown Girl in the Ring"
+            }
+          ],
+          "startDate": "1978-04-14"
+        },
+        {
+          "endDate": "1978-04-30",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Night Fever"
+            }
+          ],
+          "startDate": "1978-04-19"
+        },
+        {
+          "endDate": "1978-05-02",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "You're the One That I Want"
+            }
+          ],
+          "startDate": "1978-05-01"
+        },
+        {
+          "endDate": "1978-05-16",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Night Fever"
+            }
+          ],
+          "startDate": "1978-05-03"
+        },
+        {
+          "endDate": "1978-06-13",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon"
+            }
+          ],
+          "startDate": "1978-05-17"
+        },
+        {
+          "endDate": "1978-08-22",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "You're the One That I Want"
+            }
+          ],
+          "startDate": "1978-06-14"
+        },
+        {
+          "endDate": "1978-08-31",
+          "items": [
+            {
+              "artist": "Commodores",
+              "rank": 1,
+              "title": "Three Times a Lady"
+            }
+          ],
+          "startDate": "1978-08-23"
+        },
+        {
+          "endDate": "1978-09-05",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "Summer Nights"
+            }
+          ],
+          "startDate": "1978-09-01"
+        },
+        {
+          "endDate": "1978-09-19",
+          "items": [
+            {
+              "artist": "Commodores",
+              "rank": 1,
+              "title": "Three Times a Lady"
+            }
+          ],
+          "startDate": "1978-09-06"
+        },
+        {
+          "endDate": "1978-10-03",
+          "items": [
+            {
+              "artist": "10cc",
+              "rank": 1,
+              "title": "Dreadlock Holiday"
+            }
+          ],
+          "startDate": "1978-09-20"
+        },
+        {
+          "endDate": "1978-10-31",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "Summer Nights"
+            }
+          ],
+          "startDate": "1978-10-04"
+        },
+        {
+          "endDate": "1978-11-23",
+          "items": [
+            {
+              "artist": "The Boomtown Rats",
+              "rank": 1,
+              "title": "Rat Trap"
+            }
+          ],
+          "startDate": "1978-11-15"
+        },
+        {
+          "endDate": "1978-11-28",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Mary's Boy Child – Oh My Lord"
+            }
+          ],
+          "startDate": "1978-11-24"
+        },
+        {
+          "endDate": "1978-12-05",
+          "items": [
+            {
+              "artist": "Rod Stewart",
+              "rank": 1,
+              "title": "Da Ya Think I'm Sexy?"
+            }
+          ],
+          "startDate": "1978-11-29"
+        },
+        {
+          "endDate": "1978-12-31",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Mary's Boy Child – Oh My Lord"
+            }
+          ],
+          "startDate": "1978-12-06"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "4fc6a86bef915ea8c20a2ff196ae32e35a7d0d21d61f4240a03e2b46596a86f0",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1978
+}

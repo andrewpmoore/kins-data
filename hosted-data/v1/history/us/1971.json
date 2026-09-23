@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1971-01-22",
+          "items": [
+            {
+              "artist": "George Harrison",
+              "rank": 1,
+              "title": "My Sweet Lord\" / \"Isn't It a Pity"
+            }
+          ],
+          "startDate": "1971-01-01"
+        },
+        {
+          "endDate": "1971-02-12",
+          "items": [
+            {
+              "artist": "Tony Orlando and Dawn",
+              "rank": 1,
+              "title": "Knock Three Times"
+            }
+          ],
+          "startDate": "1971-01-23"
+        },
+        {
+          "endDate": "1971-03-19",
+          "items": [
+            {
+              "artist": "The Osmonds",
+              "rank": 1,
+              "title": "One Bad Apple"
+            }
+          ],
+          "startDate": "1971-02-13"
+        },
+        {
+          "endDate": "1971-04-02",
+          "items": [
+            {
+              "artist": "Janis Joplin",
+              "rank": 1,
+              "title": "Me and Bobby McGee"
+            }
+          ],
+          "startDate": "1971-03-20"
+        },
+        {
+          "endDate": "1971-04-16",
+          "items": [
+            {
+              "artist": "The Temptations",
+              "rank": 1,
+              "title": "Just My Imagination"
+            }
+          ],
+          "startDate": "1971-04-03"
+        },
+        {
+          "endDate": "1971-05-28",
+          "items": [
+            {
+              "artist": "Three Dog Night",
+              "rank": 1,
+              "title": "Joy to the World\"♪"
+            }
+          ],
+          "startDate": "1971-04-17"
+        },
+        {
+          "endDate": "1971-06-11",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Brown Sugar"
+            }
+          ],
+          "startDate": "1971-05-29"
+        },
+        {
+          "endDate": "1971-06-18",
+          "items": [
+            {
+              "artist": "The Honey Cone",
+              "rank": 1,
+              "title": "Want Ads"
+            }
+          ],
+          "startDate": "1971-06-12"
+        },
+        {
+          "endDate": "1971-07-23",
+          "items": [
+            {
+              "artist": "Carole King",
+              "rank": 1,
+              "title": "It's Too Late\" / \"I Feel the Earth Move"
+            }
+          ],
+          "startDate": "1971-06-19"
+        },
+        {
+          "endDate": "1971-07-30",
+          "items": [
+            {
+              "artist": "Paul Revere & the Raiders",
+              "rank": 1,
+              "title": "Indian Reservation"
+            }
+          ],
+          "startDate": "1971-07-24"
+        },
+        {
+          "endDate": "1971-08-06",
+          "items": [
+            {
+              "artist": "James Taylor",
+              "rank": 1,
+              "title": "You've Got a Friend"
+            }
+          ],
+          "startDate": "1971-07-31"
+        },
+        {
+          "endDate": "1971-09-03",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "How Can You Mend a Broken Heart"
+            }
+          ],
+          "startDate": "1971-08-07"
+        },
+        {
+          "endDate": "1971-09-10",
+          "items": [
+            {
+              "artist": "Paul McCartney and Linda McCartney",
+              "rank": 1,
+              "title": "Uncle Albert/Admiral Halsey"
+            }
+          ],
+          "startDate": "1971-09-04"
+        },
+        {
+          "endDate": "1971-10-01",
+          "items": [
+            {
+              "artist": "Donny Osmond",
+              "rank": 1,
+              "title": "Go Away Little Girl"
+            }
+          ],
+          "startDate": "1971-09-11"
+        },
+        {
+          "endDate": "1971-11-05",
+          "items": [
+            {
+              "artist": "Rod Stewart",
+              "rank": 1,
+              "title": "Maggie May\" / \"Reason to Believe"
+            }
+          ],
+          "startDate": "1971-10-02"
+        },
+        {
+          "endDate": "1971-11-19",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Gypsys, Tramps & Thieves"
+            }
+          ],
+          "startDate": "1971-11-06"
+        },
+        {
+          "endDate": "1971-12-03",
+          "items": [
+            {
+              "artist": "Isaac Hayes",
+              "rank": 1,
+              "title": "Theme from Shaft"
+            }
+          ],
+          "startDate": "1971-11-20"
+        },
+        {
+          "endDate": "1971-12-24",
+          "items": [
+            {
+              "artist": "Sly and the Family Stone",
+              "rank": 1,
+              "title": "Family Affair"
+            }
+          ],
+          "startDate": "1971-12-04"
+        },
+        {
+          "endDate": "1971-12-31",
+          "items": [
+            {
+              "artist": "Melanie",
+              "rank": 1,
+              "title": "Brand New Key"
+            }
+          ],
+          "startDate": "1971-12-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "b652232f500730fde8030430f944250c787a87b69bf39724efe1f575c2ec3d1a",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1971
+}

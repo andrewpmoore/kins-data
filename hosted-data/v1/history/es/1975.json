@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1975-04-27",
+          "items": [
+            {
+              "artist": "Manolo Otero",
+              "rank": 1,
+              "title": "Todo El Tiempo Del Mundo"
+            }
+          ],
+          "startDate": "1975-01-01"
+        },
+        {
+          "endDate": "1975-06-08",
+          "items": [
+            {
+              "artist": "Bimbo Jet",
+              "rank": 1,
+              "title": "El Bimbó"
+            }
+          ],
+          "startDate": "1975-04-28"
+        },
+        {
+          "endDate": "1975-06-22",
+          "items": [
+            {
+              "artist": "Barry White",
+              "rank": 1,
+              "title": "You're the First, the Last, My Everything"
+            }
+          ],
+          "startDate": "1975-06-09"
+        },
+        {
+          "endDate": "1975-08-24",
+          "items": [
+            {
+              "artist": "Riccardo Cocciante",
+              "rank": 1,
+              "title": "Bella Sin Alma"
+            }
+          ],
+          "startDate": "1975-06-23"
+        },
+        {
+          "endDate": "1975-10-05",
+          "items": [
+            {
+              "artist": "Camilo Sesto",
+              "rank": 1,
+              "title": "Melina"
+            }
+          ],
+          "startDate": "1975-08-25"
+        },
+        {
+          "endDate": "1975-10-19",
+          "items": [
+            {
+              "artist": "Morris Albert",
+              "rank": 1,
+              "title": "Feelings"
+            }
+          ],
+          "startDate": "1975-10-06"
+        },
+        {
+          "endDate": "1975-11-16",
+          "items": [
+            {
+              "artist": "Riccardo Cocciante",
+              "rank": 1,
+              "title": "Bella Sin Alma"
+            }
+          ],
+          "startDate": "1975-10-20"
+        },
+        {
+          "endDate": "1975-11-23",
+          "items": [
+            {
+              "artist": "George Baker Selection",
+              "rank": 1,
+              "title": "Una Paloma Blanca"
+            }
+          ],
+          "startDate": "1975-11-17"
+        },
+        {
+          "endDate": "1975-11-30",
+          "items": [
+            {
+              "artist": "Nathalie et Christine",
+              "rank": 1,
+              "title": "Femmes"
+            }
+          ],
+          "startDate": "1975-11-24"
+        },
+        {
+          "endDate": "1975-12-07",
+          "items": [
+            {
+              "artist": "Van McCoy and The Soul City Symphony",
+              "rank": 1,
+              "title": "The Hustle"
+            }
+          ],
+          "startDate": "1975-12-01"
+        },
+        {
+          "endDate": "1975-12-31",
+          "items": [
+            {
+              "artist": "Lolita",
+              "rank": 1,
+              "title": "Amor, amor"
+            }
+          ],
+          "startDate": "1975-12-08"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "91b2febda6c9ee712b7319ce1525a3fe785a16fc2103a054e66c5b7a098761c1",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1975
+}

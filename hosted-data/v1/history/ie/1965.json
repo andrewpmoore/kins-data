@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1965-01-17",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Feel Fine"
+            }
+          ],
+          "startDate": "1965-01-04"
+        },
+        {
+          "endDate": "1965-03-07",
+          "items": [
+            {
+              "artist": "Brendan Bowyer",
+              "rank": 1,
+              "title": "The Hucklebuck"
+            }
+          ],
+          "startDate": "1965-01-18"
+        },
+        {
+          "endDate": "1965-03-21",
+          "items": [
+            {
+              "artist": "Butch Moore",
+              "rank": 1,
+              "title": "Born to Be with You"
+            }
+          ],
+          "startDate": "1965-03-08"
+        },
+        {
+          "endDate": "1965-04-04",
+          "items": [
+            {
+              "artist": "Tom Dunphy",
+              "rank": 1,
+              "title": "If I Didn't Have a Dime"
+            }
+          ],
+          "startDate": "1965-03-22"
+        },
+        {
+          "endDate": "1965-04-25",
+          "items": [
+            {
+              "artist": "Butch Moore",
+              "rank": 1,
+              "title": "Walking the Streets in the Rain"
+            }
+          ],
+          "startDate": "1965-04-05"
+        },
+        {
+          "endDate": "1965-05-23",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Ticket to Ride"
+            }
+          ],
+          "startDate": "1965-04-26"
+        },
+        {
+          "endDate": "1965-06-13",
+          "items": [
+            {
+              "artist": "Dickie Rock",
+              "rank": 1,
+              "title": "Every Step Of the Way"
+            }
+          ],
+          "startDate": "1965-05-24"
+        },
+        {
+          "endDate": "1965-06-27",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "Long Live Love"
+            }
+          ],
+          "startDate": "1965-06-14"
+        },
+        {
+          "endDate": "1965-07-18",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Crying In The Chapel"
+            }
+          ],
+          "startDate": "1965-06-28"
+        },
+        {
+          "endDate": "1965-07-25",
+          "items": [
+            {
+              "artist": "The Hollies",
+              "rank": 1,
+              "title": "I'm Alive"
+            }
+          ],
+          "startDate": "1965-07-19"
+        },
+        {
+          "endDate": "1965-08-01",
+          "items": [
+            {
+              "artist": "The Byrds",
+              "rank": 1,
+              "title": "Mr. Tambourine Man"
+            }
+          ],
+          "startDate": "1965-07-26"
+        },
+        {
+          "endDate": "1965-09-05",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Help!"
+            }
+          ],
+          "startDate": "1965-08-02"
+        },
+        {
+          "endDate": "1965-09-12",
+          "items": [
+            {
+              "artist": "Brendan Bowyer",
+              "rank": 1,
+              "title": "Don't Lose Your Hucklebuck Shoes"
+            }
+          ],
+          "startDate": "1965-09-06"
+        },
+        {
+          "endDate": "1965-10-10",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Satisfaction"
+            }
+          ],
+          "startDate": "1965-09-13"
+        },
+        {
+          "endDate": "1965-11-07",
+          "items": [
+            {
+              "artist": "Ken Dodd",
+              "rank": 1,
+              "title": "Tears"
+            }
+          ],
+          "startDate": "1965-10-11"
+        },
+        {
+          "endDate": "1965-11-21",
+          "items": [
+            {
+              "artist": "Chris Andrews",
+              "rank": 1,
+              "title": "Yesterday Man"
+            }
+          ],
+          "startDate": "1965-11-08"
+        },
+        {
+          "endDate": "1965-12-04",
+          "items": [
+            {
+              "artist": "Dickie Rock",
+              "rank": 1,
+              "title": "Wishing It Was You"
+            }
+          ],
+          "startDate": "1965-11-22"
+        },
+        {
+          "endDate": "1965-12-18",
+          "items": [
+            {
+              "artist": "The Seekers",
+              "rank": 1,
+              "title": "The Carnival Is Over"
+            }
+          ],
+          "startDate": "1965-12-05"
+        },
+        {
+          "endDate": "1965-12-31",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Day Tripper\"/\"We Can Work It Out"
+            }
+          ],
+          "startDate": "1965-12-19"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "58f1366ffb3d1e417fb999925ef85e0ffddca706bb0240db725da4202b1d3df9",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1965
+}

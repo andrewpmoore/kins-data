@@ -1,0 +1,110 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2005-03-04",
+          "items": [
+            {
+              "artist": "Mario",
+              "rank": 1,
+              "title": "Let Me Love You"
+            }
+          ],
+          "startDate": "2005-01-01"
+        },
+        {
+          "endDate": "2005-05-06",
+          "items": [
+            {
+              "artist": "50 Cent featuring Olivia",
+              "rank": 1,
+              "title": "Candy Shop"
+            }
+          ],
+          "startDate": "2005-03-05"
+        },
+        {
+          "endDate": "2005-06-03",
+          "items": [
+            {
+              "artist": "Gwen Stefani",
+              "rank": 1,
+              "title": "Hollaback Girl"
+            }
+          ],
+          "startDate": "2005-05-07"
+        },
+        {
+          "endDate": "2005-07-01",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "We Belong Together\"♪"
+            }
+          ],
+          "startDate": "2005-06-04"
+        },
+        {
+          "endDate": "2005-09-09",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "We Belong Together\"♪"
+            }
+          ],
+          "startDate": "2005-07-09"
+        },
+        {
+          "endDate": "2005-11-25",
+          "items": [
+            {
+              "artist": "Kanye West featuring Jamie Foxx",
+              "rank": 1,
+              "title": "Gold Digger"
+            }
+          ],
+          "startDate": "2005-09-17"
+        },
+        {
+          "endDate": "2005-12-30",
+          "items": [
+            {
+              "artist": "Chris Brown",
+              "rank": 1,
+              "title": "Run It!"
+            }
+          ],
+          "startDate": "2005-11-26"
+        },
+        {
+          "endDate": "2005-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Don't Forget About Us"
+            }
+          ],
+          "startDate": "2005-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "2e322b73a63bec54c4d3710492db227984b3767ee43b0e3b1b17490422d12a5d",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2005
+}

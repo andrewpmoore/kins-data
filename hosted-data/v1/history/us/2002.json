@@ -1,0 +1,110 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2002-01-25",
+          "items": [
+            {
+              "artist": "Usher",
+              "rank": 1,
+              "title": "U Got It Bad"
+            }
+          ],
+          "startDate": "2002-01-19"
+        },
+        {
+          "endDate": "2002-03-08",
+          "items": [
+            {
+              "artist": "Ja Rule featuring Ashanti",
+              "rank": 1,
+              "title": "Always on Time"
+            }
+          ],
+          "startDate": "2002-02-23"
+        },
+        {
+          "endDate": "2002-04-19",
+          "items": [
+            {
+              "artist": "Jennifer Lopez featuring Ja Rule",
+              "rank": 1,
+              "title": "Ain't It Funny"
+            }
+          ],
+          "startDate": "2002-03-09"
+        },
+        {
+          "endDate": "2002-06-28",
+          "items": [
+            {
+              "artist": "Ashanti",
+              "rank": 1,
+              "title": "Foolish"
+            }
+          ],
+          "startDate": "2002-04-20"
+        },
+        {
+          "endDate": "2002-08-16",
+          "items": [
+            {
+              "artist": "Nelly",
+              "rank": 1,
+              "title": "Hot in Herre"
+            }
+          ],
+          "startDate": "2002-06-29"
+        },
+        {
+          "endDate": "2002-10-04",
+          "items": [
+            {
+              "artist": "Nelly featuring Kelly Rowland",
+              "rank": 1,
+              "title": "Dilemma"
+            }
+          ],
+          "startDate": "2002-08-17"
+        },
+        {
+          "endDate": "2002-10-25",
+          "items": [
+            {
+              "artist": "Nelly featuring Kelly Rowland",
+              "rank": 1,
+              "title": "Dilemma"
+            }
+          ],
+          "startDate": "2002-10-19"
+        },
+        {
+          "endDate": "2002-12-31",
+          "items": [
+            {
+              "artist": "Eminem",
+              "rank": 1,
+              "title": "Lose Yourself"
+            }
+          ],
+          "startDate": "2002-11-09"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "d80717b3c1437134bb689dfc14e2493918abe3985b6d7ce97cc445c446a8396f",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2002
+}

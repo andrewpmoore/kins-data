@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1978-01-13",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "How Deep Is Your Love"
+            }
+          ],
+          "startDate": "1978-01-01"
+        },
+        {
+          "endDate": "1978-02-03",
+          "items": [
+            {
+              "artist": "Player",
+              "rank": 1,
+              "title": "Baby Come Back"
+            }
+          ],
+          "startDate": "1978-01-14"
+        },
+        {
+          "endDate": "1978-03-03",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Stayin' Alive"
+            }
+          ],
+          "startDate": "1978-02-04"
+        },
+        {
+          "endDate": "1978-03-17",
+          "items": [
+            {
+              "artist": "Andy Gibb",
+              "rank": 1,
+              "title": "Thicker Than Water"
+            }
+          ],
+          "startDate": "1978-03-04"
+        },
+        {
+          "endDate": "1978-05-12",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Night Fever"
+            }
+          ],
+          "startDate": "1978-03-18"
+        },
+        {
+          "endDate": "1978-05-19",
+          "items": [
+            {
+              "artist": "Yvonne Elliman",
+              "rank": 1,
+              "title": "If I Can't Have You"
+            }
+          ],
+          "startDate": "1978-05-13"
+        },
+        {
+          "endDate": "1978-06-02",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "With a Little Luck"
+            }
+          ],
+          "startDate": "1978-05-20"
+        },
+        {
+          "endDate": "1978-06-09",
+          "items": [
+            {
+              "artist": "Johnny Mathis and Deniece Williams",
+              "rank": 1,
+              "title": "Too Much, Too Little, Too Late"
+            }
+          ],
+          "startDate": "1978-06-03"
+        },
+        {
+          "endDate": "1978-06-16",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "You're the One That I Want"
+            }
+          ],
+          "startDate": "1978-06-10"
+        },
+        {
+          "endDate": "1978-08-04",
+          "items": [
+            {
+              "artist": "Andy Gibb",
+              "rank": 1,
+              "title": "Shadow Dancing\"♪"
+            }
+          ],
+          "startDate": "1978-06-17"
+        },
+        {
+          "endDate": "1978-08-11",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Miss You"
+            }
+          ],
+          "startDate": "1978-08-05"
+        },
+        {
+          "endDate": "1978-08-25",
+          "items": [
+            {
+              "artist": "Commodores",
+              "rank": 1,
+              "title": "Three Times a Lady"
+            }
+          ],
+          "startDate": "1978-08-12"
+        },
+        {
+          "endDate": "1978-09-08",
+          "items": [
+            {
+              "artist": "Frankie Valli",
+              "rank": 1,
+              "title": "Grease"
+            }
+          ],
+          "startDate": "1978-08-26"
+        },
+        {
+          "endDate": "1978-09-29",
+          "items": [
+            {
+              "artist": "A Taste of Honey",
+              "rank": 1,
+              "title": "Boogie Oogie Oogie"
+            }
+          ],
+          "startDate": "1978-09-09"
+        },
+        {
+          "endDate": "1978-10-27",
+          "items": [
+            {
+              "artist": "Exile",
+              "rank": 1,
+              "title": "Kiss You All Over"
+            }
+          ],
+          "startDate": "1978-09-30"
+        },
+        {
+          "endDate": "1978-11-03",
+          "items": [
+            {
+              "artist": "Nick Gilder",
+              "rank": 1,
+              "title": "Hot Child in the City"
+            }
+          ],
+          "startDate": "1978-10-28"
+        },
+        {
+          "endDate": "1978-11-10",
+          "items": [
+            {
+              "artist": "Anne Murray",
+              "rank": 1,
+              "title": "You Needed Me"
+            }
+          ],
+          "startDate": "1978-11-04"
+        },
+        {
+          "endDate": "1978-12-01",
+          "items": [
+            {
+              "artist": "Donna Summer",
+              "rank": 1,
+              "title": "MacArthur Park"
+            }
+          ],
+          "startDate": "1978-11-11"
+        },
+        {
+          "endDate": "1978-12-08",
+          "items": [
+            {
+              "artist": "Barbra Streisand and Neil Diamond",
+              "rank": 1,
+              "title": "You Don't Bring Me Flowers"
+            }
+          ],
+          "startDate": "1978-12-02"
+        },
+        {
+          "endDate": "1978-12-31",
+          "items": [
+            {
+              "artist": "Chic",
+              "rank": 1,
+              "title": "Le Freak"
+            }
+          ],
+          "startDate": "1978-12-16"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "fdbc8f9c4694c2e70690e17dc7c4dc070244a014306953cf6e87c181cf1bdf5d",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1978
+}

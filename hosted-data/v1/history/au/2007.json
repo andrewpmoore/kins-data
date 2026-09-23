@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2007-01-20",
+          "items": [
+            {
+              "artist": "Beyoncé",
+              "rank": 1,
+              "title": "Irreplaceable"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-01-27",
+          "items": [
+            {
+              "artist": "Evermore",
+              "rank": 1,
+              "title": "Light Surrounding You"
+            }
+          ],
+          "startDate": "2007-01-21"
+        },
+        {
+          "endDate": "2007-03-17",
+          "items": [
+            {
+              "artist": "Hinder",
+              "rank": 1,
+              "title": "Lips of an Angel"
+            }
+          ],
+          "startDate": "2007-01-28"
+        },
+        {
+          "endDate": "2007-04-14",
+          "items": [
+            {
+              "artist": "Silverchair",
+              "rank": 1,
+              "title": "Straight Lines"
+            }
+          ],
+          "startDate": "2007-03-18"
+        },
+        {
+          "endDate": "2007-04-21",
+          "items": [
+            {
+              "artist": "Avril Lavigne",
+              "rank": 1,
+              "title": "Girlfriend"
+            }
+          ],
+          "startDate": "2007-04-15"
+        },
+        {
+          "endDate": "2007-04-28",
+          "items": [
+            {
+              "artist": "Missy Higgins",
+              "rank": 1,
+              "title": "Steer"
+            }
+          ],
+          "startDate": "2007-04-22"
+        },
+        {
+          "endDate": "2007-06-02",
+          "items": [
+            {
+              "artist": "Avril Lavigne",
+              "rank": 1,
+              "title": "Girlfriend"
+            }
+          ],
+          "startDate": "2007-04-29"
+        },
+        {
+          "endDate": "2007-07-14",
+          "items": [
+            {
+              "artist": "Rihanna featuring Jay-Z",
+              "rank": 1,
+              "title": "Umbrella"
+            }
+          ],
+          "startDate": "2007-06-03"
+        },
+        {
+          "endDate": "2007-09-15",
+          "items": [
+            {
+              "artist": "Fergie",
+              "rank": 1,
+              "title": "Big Girls Don't Cry"
+            }
+          ],
+          "startDate": "2007-07-15"
+        },
+        {
+          "endDate": "2007-09-22",
+          "items": [
+            {
+              "artist": "Sean Kingston",
+              "rank": 1,
+              "title": "Beautiful Girls"
+            }
+          ],
+          "startDate": "2007-09-16"
+        },
+        {
+          "endDate": "2007-09-29",
+          "items": [
+            {
+              "artist": "Delta Goodrem",
+              "rank": 1,
+              "title": "In This Life"
+            }
+          ],
+          "startDate": "2007-09-23"
+        },
+        {
+          "endDate": "2007-10-27",
+          "items": [
+            {
+              "artist": "Sean Kingston",
+              "rank": 1,
+              "title": "Beautiful Girls"
+            }
+          ],
+          "startDate": "2007-09-30"
+        },
+        {
+          "endDate": "2007-11-10",
+          "items": [
+            {
+              "artist": "Timbaland featuring Keri Hilson",
+              "rank": 1,
+              "title": "The Way I Are"
+            }
+          ],
+          "startDate": "2007-10-28"
+        },
+        {
+          "endDate": "2007-11-17",
+          "items": [
+            {
+              "artist": "The Veronicas",
+              "rank": 1,
+              "title": "Hook Me Up"
+            }
+          ],
+          "startDate": "2007-11-11"
+        },
+        {
+          "endDate": "2007-11-24",
+          "items": [
+            {
+              "artist": "Kylie Minogue",
+              "rank": 1,
+              "title": "2 Hearts"
+            }
+          ],
+          "startDate": "2007-11-18"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "artist": "Timbaland featuring OneRepublic",
+              "rank": 1,
+              "title": "Apologize"
+            }
+          ],
+          "startDate": "2007-11-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2012-05-30",
+        "provider": "Wikipedia contributors",
+        "territory": "AU",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Australia"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "43c120ca40cacd0ad4de441ef6f9d8b94868f86cbb416be4c2e35a5fcd8a8344",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 2007
+}

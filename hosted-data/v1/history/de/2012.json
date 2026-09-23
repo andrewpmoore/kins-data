@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2012-01-05",
+          "items": [
+            {
+              "artist": "Gotye",
+              "rank": 1,
+              "title": "Somebody That I Used to Know"
+            }
+          ],
+          "startDate": "2012-01-01"
+        },
+        {
+          "endDate": "2012-02-02",
+          "items": [
+            {
+              "artist": "Gotye featuring Kimbra",
+              "rank": 1,
+              "title": "Somebody That I Used to Know"
+            }
+          ],
+          "startDate": "2012-01-06"
+        },
+        {
+          "endDate": "2012-04-05",
+          "items": [
+            {
+              "artist": "Michel Teló",
+              "rank": 1,
+              "title": "Ai se eu te pego!\"†"
+            }
+          ],
+          "startDate": "2012-02-03"
+        },
+        {
+          "endDate": "2012-04-12",
+          "items": [
+            {
+              "artist": "Olly Murs featuring Rizzle Kicks",
+              "rank": 1,
+              "title": "Heart Skips a Beat"
+            }
+          ],
+          "startDate": "2012-04-06"
+        },
+        {
+          "endDate": "2012-04-19",
+          "items": [
+            {
+              "artist": "Michel Teló",
+              "rank": 1,
+              "title": "Ai se eu te pego!\"†"
+            }
+          ],
+          "startDate": "2012-04-13"
+        },
+        {
+          "endDate": "2012-04-26",
+          "items": [
+            {
+              "artist": "Olly Murs featuring Rizzle Kicks",
+              "rank": 1,
+              "title": "Heart Skips a Beat"
+            }
+          ],
+          "startDate": "2012-04-20"
+        },
+        {
+          "endDate": "2012-05-10",
+          "items": [
+            {
+              "artist": "Alex Clare",
+              "rank": 1,
+              "title": "Too Close"
+            }
+          ],
+          "startDate": "2012-04-27"
+        },
+        {
+          "endDate": "2012-05-17",
+          "items": [
+            {
+              "artist": "Luca Hänni",
+              "rank": 1,
+              "title": "Don't Think About Me"
+            }
+          ],
+          "startDate": "2012-05-11"
+        },
+        {
+          "endDate": "2012-05-24",
+          "items": [
+            {
+              "artist": "Alex Clare",
+              "rank": 1,
+              "title": "Too Close"
+            }
+          ],
+          "startDate": "2012-05-18"
+        },
+        {
+          "endDate": "2012-06-07",
+          "items": [
+            {
+              "artist": "Die Toten Hosen",
+              "rank": 1,
+              "title": "Tage wie diese"
+            }
+          ],
+          "startDate": "2012-05-25"
+        },
+        {
+          "endDate": "2012-06-21",
+          "items": [
+            {
+              "artist": "Loreen",
+              "rank": 1,
+              "title": "Euphoria"
+            }
+          ],
+          "startDate": "2012-06-08"
+        },
+        {
+          "endDate": "2012-07-12",
+          "items": [
+            {
+              "artist": "Die Toten Hosen",
+              "rank": 1,
+              "title": "Tage wie diese"
+            }
+          ],
+          "startDate": "2012-06-22"
+        },
+        {
+          "endDate": "2012-08-16",
+          "items": [
+            {
+              "artist": "Lykke Li",
+              "rank": 1,
+              "title": "I Follow Rivers"
+            }
+          ],
+          "startDate": "2012-07-13"
+        },
+        {
+          "endDate": "2012-09-27",
+          "items": [
+            {
+              "artist": "Asaf Avidan",
+              "rank": 1,
+              "title": "One Day / Reckoning Song"
+            }
+          ],
+          "startDate": "2012-08-17"
+        },
+        {
+          "endDate": "2012-10-04",
+          "items": [
+            {
+              "artist": "Marteria, Yasha & Miss Platnum",
+              "rank": 1,
+              "title": "Lila Wolken"
+            }
+          ],
+          "startDate": "2012-09-28"
+        },
+        {
+          "endDate": "2012-10-11",
+          "items": [
+            {
+              "artist": "Asaf Avidan",
+              "rank": 1,
+              "title": "One Day / Reckoning Song"
+            }
+          ],
+          "startDate": "2012-10-05"
+        },
+        {
+          "endDate": "2012-10-18",
+          "items": [
+            {
+              "artist": "PSY",
+              "rank": 1,
+              "title": "Gangnam Style"
+            }
+          ],
+          "startDate": "2012-10-12"
+        },
+        {
+          "endDate": "2012-10-25",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Skyfall"
+            }
+          ],
+          "startDate": "2012-10-19"
+        },
+        {
+          "endDate": "2012-11-01",
+          "items": [
+            {
+              "artist": "PSY",
+              "rank": 1,
+              "title": "Gangnam Style"
+            }
+          ],
+          "startDate": "2012-10-26"
+        },
+        {
+          "endDate": "2012-12-31",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Diamonds"
+            }
+          ],
+          "startDate": "2012-11-02"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "613ba24af52448ff4a0797d6751df5557500db162ca679f921fd10bd51d006c1",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2012
+}

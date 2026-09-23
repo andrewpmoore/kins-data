@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2004-02-13",
+          "items": [
+            {
+              "artist": "Outkast",
+              "rank": 1,
+              "title": "Hey Ya!"
+            }
+          ],
+          "startDate": "2004-01-01"
+        },
+        {
+          "endDate": "2004-02-20",
+          "items": [
+            {
+              "artist": "Outkast featuring Sleepy Brown",
+              "rank": 1,
+              "title": "The Way You Move"
+            }
+          ],
+          "startDate": "2004-02-14"
+        },
+        {
+          "endDate": "2004-02-27",
+          "items": [
+            {
+              "artist": "Twista featuring Kanye West and Jamie Foxx",
+              "rank": 1,
+              "title": "Slow Jamz"
+            }
+          ],
+          "startDate": "2004-02-21"
+        },
+        {
+          "endDate": "2004-05-21",
+          "items": [
+            {
+              "artist": "Usher featuring Lil Jon and Ludacris",
+              "rank": 1,
+              "title": "Yeah!\"♪"
+            }
+          ],
+          "startDate": "2004-02-28"
+        },
+        {
+          "endDate": "2004-07-09",
+          "items": [
+            {
+              "artist": "Usher",
+              "rank": 1,
+              "title": "Burn"
+            }
+          ],
+          "startDate": "2004-05-22"
+        },
+        {
+          "endDate": "2004-08-06",
+          "items": [
+            {
+              "artist": "Usher",
+              "rank": 1,
+              "title": "Confessions Part II"
+            }
+          ],
+          "startDate": "2004-07-24"
+        },
+        {
+          "endDate": "2004-08-20",
+          "items": [
+            {
+              "artist": "Juvenile featuring Soulja Slim",
+              "rank": 1,
+              "title": "Slow Motion"
+            }
+          ],
+          "startDate": "2004-08-07"
+        },
+        {
+          "endDate": "2004-09-10",
+          "items": [
+            {
+              "artist": "Terror Squad",
+              "rank": 1,
+              "title": "Lean Back"
+            }
+          ],
+          "startDate": "2004-08-21"
+        },
+        {
+          "endDate": "2004-10-29",
+          "items": [
+            {
+              "artist": "Ciara featuring Petey Pablo",
+              "rank": 1,
+              "title": "Goodies"
+            }
+          ],
+          "startDate": "2004-09-11"
+        },
+        {
+          "endDate": "2004-12-10",
+          "items": [
+            {
+              "artist": "Usher and Alicia Keys",
+              "rank": 1,
+              "title": "My Boo"
+            }
+          ],
+          "startDate": "2004-10-30"
+        },
+        {
+          "endDate": "2004-12-31",
+          "items": [
+            {
+              "artist": "Snoop Dogg featuring Pharrell",
+              "rank": 1,
+              "title": "Drop It Like It's Hot"
+            }
+          ],
+          "startDate": "2004-12-11"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "4cadb4f2f1d547e7ae2943304a3daf59101605d8f90eecb1c8100a3704f4363a",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2004
+}

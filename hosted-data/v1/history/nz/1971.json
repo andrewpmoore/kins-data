@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1971-01-14",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1971-01-01"
+        },
+        {
+          "endDate": "1971-01-28",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "What Have They Done to My Song Ma"
+            }
+          ],
+          "startDate": "1971-01-15"
+        },
+        {
+          "endDate": "1971-02-18",
+          "items": [
+            {
+              "artist": "George Harrison",
+              "rank": 1,
+              "title": "My Sweet Lord"
+            }
+          ],
+          "startDate": "1971-01-29"
+        },
+        {
+          "endDate": "1971-02-25",
+          "items": [
+            {
+              "artist": "George Harrison",
+              "rank": 1,
+              "title": "My Sweet Lord"
+            }
+          ],
+          "startDate": "1971-02-21"
+        },
+        {
+          "endDate": "1971-03-11",
+          "items": [
+            {
+              "artist": "Tony Orlando & Dawn",
+              "rank": 1,
+              "title": "Knock Three Times"
+            }
+          ],
+          "startDate": "1971-02-26"
+        },
+        {
+          "endDate": "1971-03-25",
+          "items": [
+            {
+              "artist": "Mike Curb Congregation",
+              "rank": 1,
+              "title": "Burning Bridges"
+            }
+          ],
+          "startDate": "1971-03-12"
+        },
+        {
+          "endDate": "1971-04-15",
+          "items": [
+            {
+              "artist": "Lynn Anderson",
+              "rank": 1,
+              "title": "Rose Garden"
+            }
+          ],
+          "startDate": "1971-03-26"
+        },
+        {
+          "endDate": "1971-04-29",
+          "items": [
+            {
+              "artist": "The Mixtures",
+              "rank": 1,
+              "title": "The Pushbike Song"
+            }
+          ],
+          "startDate": "1971-04-16"
+        },
+        {
+          "endDate": "1971-05-27",
+          "items": [
+            {
+              "artist": "The Hollies",
+              "rank": 1,
+              "title": "Too Young To Be Married"
+            }
+          ],
+          "startDate": "1971-04-30"
+        },
+        {
+          "endDate": "1971-06-17",
+          "items": [
+            {
+              "artist": "Neil Diamond",
+              "rank": 1,
+              "title": "I Am... I Said"
+            }
+          ],
+          "startDate": "1971-05-28"
+        },
+        {
+          "endDate": "1971-07-08",
+          "items": [
+            {
+              "artist": "Neil Diamond",
+              "rank": 1,
+              "title": "I Am... I Said"
+            }
+          ],
+          "startDate": "1971-06-19"
+        },
+        {
+          "endDate": "1971-07-15",
+          "items": [
+            {
+              "artist": "Waldo De Los Rios",
+              "rank": 1,
+              "title": "Mozart 40"
+            }
+          ],
+          "startDate": "1971-07-09"
+        },
+        {
+          "endDate": "1971-07-22",
+          "items": [
+            {
+              "artist": "Ocean",
+              "rank": 1,
+              "title": "Put Your Hand in the Hand"
+            }
+          ],
+          "startDate": "1971-07-16"
+        },
+        {
+          "endDate": "1971-08-19",
+          "items": [
+            {
+              "artist": "Lobo",
+              "rank": 1,
+              "title": "Me and You and a Dog Named Boo"
+            }
+          ],
+          "startDate": "1971-07-23"
+        },
+        {
+          "endDate": "1971-08-26",
+          "items": [
+            {
+              "artist": "Susan Raye",
+              "rank": 1,
+              "title": "L.A. International Airport"
+            }
+          ],
+          "startDate": "1971-08-20"
+        },
+        {
+          "endDate": "1971-09-09",
+          "items": [
+            {
+              "artist": "Tony Christie",
+              "rank": 1,
+              "title": "I Did What I Did for Maria"
+            }
+          ],
+          "startDate": "1971-08-27"
+        },
+        {
+          "endDate": "1971-09-16",
+          "items": [
+            {
+              "artist": "Susan Raye",
+              "rank": 1,
+              "title": "L.A. International Airport"
+            }
+          ],
+          "startDate": "1971-09-10"
+        },
+        {
+          "endDate": "1971-09-30",
+          "items": [
+            {
+              "artist": "Tony Christie",
+              "rank": 1,
+              "title": "I Did What I Did for Maria"
+            }
+          ],
+          "startDate": "1971-09-17"
+        },
+        {
+          "endDate": "1971-10-21",
+          "items": [
+            {
+              "artist": "Delaney, Bonnie & Friends",
+              "rank": 1,
+              "title": "Neverending Song of Love"
+            }
+          ],
+          "startDate": "1971-10-01"
+        },
+        {
+          "endDate": "1971-11-18",
+          "items": [
+            {
+              "artist": "Rumour",
+              "rank": 1,
+              "title": "L'Amour est l'Enfante de la Liberte\"‡"
+            }
+          ],
+          "startDate": "1971-10-22"
+        },
+        {
+          "endDate": "1971-12-31",
+          "items": [
+            {
+              "artist": "Paul & Linda McCartney",
+              "rank": 1,
+              "title": "Uncle Albert/Admiral Halsey"
+            }
+          ],
+          "startDate": "1971-11-19"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "52877048a37b607da8333677f235845ea8d5823795c3c13fed383e85be72d62b",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1971
+}

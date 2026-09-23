@@ -1,0 +1,121 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1992-01-05",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1992-01-01"
+        },
+        {
+          "endDate": "1992-01-26",
+          "items": [
+            {
+              "artist": "Salt-n-Pepa",
+              "rank": 1,
+              "title": "Let's Talk About Sex"
+            }
+          ],
+          "startDate": "1992-01-06"
+        },
+        {
+          "endDate": "1992-04-26",
+          "items": [
+            {
+              "artist": "U96",
+              "rank": 1,
+              "title": "Das Boot"
+            }
+          ],
+          "startDate": "1992-01-27"
+        },
+        {
+          "endDate": "1992-05-24",
+          "items": [
+            {
+              "artist": "Mr. Big",
+              "rank": 1,
+              "title": "To Be with You"
+            }
+          ],
+          "startDate": "1992-04-27"
+        },
+        {
+          "endDate": "1992-08-02",
+          "items": [
+            {
+              "artist": "Snap!",
+              "rank": 1,
+              "title": "Rhythm Is a Dancer\" †"
+            }
+          ],
+          "startDate": "1992-05-25"
+        },
+        {
+          "endDate": "1992-09-27",
+          "items": [
+            {
+              "artist": "Dr. Alban",
+              "rank": 1,
+              "title": "It's My Life"
+            }
+          ],
+          "startDate": "1992-08-03"
+        },
+        {
+          "endDate": "1992-12-20",
+          "items": [
+            {
+              "artist": "Inner Circle",
+              "rank": 1,
+              "title": "Sweat"
+            }
+          ],
+          "startDate": "1992-09-28"
+        },
+        {
+          "endDate": "1992-12-27",
+          "items": [
+            {
+              "artist": "Captain Hollywood Project",
+              "rank": 1,
+              "title": "More and More"
+            }
+          ],
+          "startDate": "1992-12-21"
+        },
+        {
+          "endDate": "1992-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1992-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "dac56584c34f69621b6f0bc201082a71a1147dd68ee3525af93a5e0c863dbaea",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1992
+}

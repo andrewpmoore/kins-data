@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1960-08-03",
+          "items": [
+            {
+              "artist": "Bill & Boyd ‡",
+              "rank": 1,
+              "title": "Cathy's Clown"
+            }
+          ],
+          "startDate": "1960-07-21"
+        },
+        {
+          "endDate": "1960-08-17",
+          "items": [
+            {
+              "artist": "Connie Francis",
+              "rank": 1,
+              "title": "Everybody's Somebody's Fool"
+            }
+          ],
+          "startDate": "1960-08-04"
+        },
+        {
+          "endDate": "1960-08-31",
+          "items": [
+            {
+              "artist": "The Hollywood Argyles",
+              "rank": 1,
+              "title": "Alley Oop"
+            }
+          ],
+          "startDate": "1960-08-18"
+        },
+        {
+          "endDate": "1960-09-07",
+          "items": [
+            {
+              "artist": "Brenda Lee",
+              "rank": 1,
+              "title": "I'm Sorry"
+            }
+          ],
+          "startDate": "1960-09-01"
+        },
+        {
+          "endDate": "1960-09-14",
+          "items": [
+            {
+              "artist": "Dante & Evergreens",
+              "rank": 1,
+              "title": "Alley Oop"
+            }
+          ],
+          "startDate": "1960-09-08"
+        },
+        {
+          "endDate": "1960-09-21",
+          "items": [
+            {
+              "artist": "Brian Hyland",
+              "rank": 1,
+              "title": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini"
+            }
+          ],
+          "startDate": "1960-09-15"
+        },
+        {
+          "endDate": "1960-10-05",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Please Don't Tease"
+            }
+          ],
+          "startDate": "1960-09-22"
+        },
+        {
+          "endDate": "1960-11-09",
+          "items": [
+            {
+              "artist": "The Shadows",
+              "rank": 1,
+              "title": "Apache"
+            }
+          ],
+          "startDate": "1960-10-27"
+        },
+        {
+          "endDate": "1960-11-16",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "It's Now Or Never"
+            }
+          ],
+          "startDate": "1960-11-10"
+        },
+        {
+          "endDate": "1960-11-23",
+          "items": [
+            {
+              "artist": "Lonnie Donegan",
+              "rank": 1,
+              "title": "Lively"
+            }
+          ],
+          "startDate": "1960-11-17"
+        },
+        {
+          "endDate": "1960-11-30",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "It's Now or Never"
+            }
+          ],
+          "startDate": "1960-11-24"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "bc36cc5d83f4a4e21bb5ee818031085ea54bedfff314f565612030ffd1dc45b0",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1960
+}

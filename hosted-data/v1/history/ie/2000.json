@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2000-01-21",
+          "items": [
+            {
+              "artist": "Westlife",
+              "rank": 1,
+              "title": "I Have a Dream\"/\"Seasons in the Sun"
+            }
+          ],
+          "startDate": "2000-01-01"
+        },
+        {
+          "endDate": "2000-02-04",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "Born to Make You Happy"
+            }
+          ],
+          "startDate": "2000-01-22"
+        },
+        {
+          "endDate": "2000-02-11",
+          "items": [
+            {
+              "artist": "Delerium",
+              "rank": 1,
+              "title": "Silence"
+            }
+          ],
+          "startDate": "2000-02-05"
+        },
+        {
+          "endDate": "2000-02-18",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "Go Let It Out"
+            }
+          ],
+          "startDate": "2000-02-12"
+        },
+        {
+          "endDate": "2000-02-25",
+          "items": [
+            {
+              "artist": "Gabrielle",
+              "rank": 1,
+              "title": "Rise"
+            }
+          ],
+          "startDate": "2000-02-19"
+        },
+        {
+          "endDate": "2000-03-03",
+          "items": [
+            {
+              "artist": "All Saints",
+              "rank": 1,
+              "title": "Pure Shores"
+            }
+          ],
+          "startDate": "2000-02-26"
+        },
+        {
+          "endDate": "2000-05-12",
+          "items": [
+            {
+              "artist": "Mark McCabe",
+              "rank": 1,
+              "title": "Maniac 2000"
+            }
+          ],
+          "startDate": "2000-03-04"
+        },
+        {
+          "endDate": "2000-06-09",
+          "items": [
+            {
+              "artist": "Bloodhound Gang",
+              "rank": 1,
+              "title": "The Bad Touch"
+            }
+          ],
+          "startDate": "2000-05-13"
+        },
+        {
+          "endDate": "2000-07-14",
+          "items": [
+            {
+              "artist": "Samantha Mumba",
+              "rank": 1,
+              "title": "Gotta Tell You"
+            }
+          ],
+          "startDate": "2000-06-10"
+        },
+        {
+          "endDate": "2000-07-21",
+          "items": [
+            {
+              "artist": "Ronan Keating",
+              "rank": 1,
+              "title": "Life Is a Rollercoaster"
+            }
+          ],
+          "startDate": "2000-07-15"
+        },
+        {
+          "endDate": "2000-08-04",
+          "items": [
+            {
+              "artist": "Eminem",
+              "rank": 1,
+              "title": "The Real Slim Shady"
+            }
+          ],
+          "startDate": "2000-07-22"
+        },
+        {
+          "endDate": "2000-09-01",
+          "items": [
+            {
+              "artist": "Robbie Williams",
+              "rank": 1,
+              "title": "Rock DJ"
+            }
+          ],
+          "startDate": "2000-08-05"
+        },
+        {
+          "endDate": "2000-09-15",
+          "items": [
+            {
+              "artist": "Spiller",
+              "rank": 1,
+              "title": "Groovejet"
+            }
+          ],
+          "startDate": "2000-09-02"
+        },
+        {
+          "endDate": "2000-09-22",
+          "items": [
+            {
+              "artist": "Modjo",
+              "rank": 1,
+              "title": "Lady"
+            }
+          ],
+          "startDate": "2000-09-16"
+        },
+        {
+          "endDate": "2000-10-13",
+          "items": [
+            {
+              "artist": "Mariah Carey featuring Westlife",
+              "rank": 1,
+              "title": "Against All Odds"
+            }
+          ],
+          "startDate": "2000-09-23"
+        },
+        {
+          "endDate": "2000-11-03",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Beautiful Day"
+            }
+          ],
+          "startDate": "2000-10-14"
+        },
+        {
+          "endDate": "2000-11-24",
+          "items": [
+            {
+              "artist": "Westlife",
+              "rank": 1,
+              "title": "My Love"
+            }
+          ],
+          "startDate": "2000-11-04"
+        },
+        {
+          "endDate": "2000-12-08",
+          "items": [
+            {
+              "artist": "LeAnn Rimes",
+              "rank": 1,
+              "title": "Can't Fight the Moonlight"
+            }
+          ],
+          "startDate": "2000-11-25"
+        },
+        {
+          "endDate": "2000-12-31",
+          "items": [
+            {
+              "artist": "Eminem",
+              "rank": 1,
+              "title": "Stan"
+            }
+          ],
+          "startDate": "2000-12-09"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "4d14781e6b729dbe5e8313cec3004bb55cb2ac62d359b168dd1b211b73c9bbdc",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2000
+}

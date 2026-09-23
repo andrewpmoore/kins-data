@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1964-01-10",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Want to Hold Your Hand"
+            }
+          ],
+          "startDate": "1964-01-01"
+        },
+        {
+          "endDate": "1964-01-31",
+          "items": [
+            {
+              "artist": "The Dave Clark Five",
+              "rank": 1,
+              "title": "Glad All Over"
+            }
+          ],
+          "startDate": "1964-01-18"
+        },
+        {
+          "endDate": "1964-02-21",
+          "items": [
+            {
+              "artist": "The Searchers",
+              "rank": 1,
+              "title": "Needles and Pins"
+            }
+          ],
+          "startDate": "1964-02-01"
+        },
+        {
+          "endDate": "1964-03-20",
+          "items": [
+            {
+              "artist": "Cilla Black",
+              "rank": 1,
+              "title": "Anyone Who Had a Heart"
+            }
+          ],
+          "startDate": "1964-02-22"
+        },
+        {
+          "endDate": "1964-03-27",
+          "items": [
+            {
+              "artist": "Billy J. Kramer and The Dakotas",
+              "rank": 1,
+              "title": "Little Children"
+            }
+          ],
+          "startDate": "1964-03-21"
+        },
+        {
+          "endDate": "1964-04-17",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Can't Buy Me Love"
+            }
+          ],
+          "startDate": "1964-03-28"
+        },
+        {
+          "endDate": "1964-05-01",
+          "items": [
+            {
+              "artist": "Peter & Gordon",
+              "rank": 1,
+              "title": "A World Without Love"
+            }
+          ],
+          "startDate": "1964-04-25"
+        },
+        {
+          "endDate": "1964-05-15",
+          "items": [
+            {
+              "artist": "The Searchers",
+              "rank": 1,
+              "title": "Don't Throw Your Love Away"
+            }
+          ],
+          "startDate": "1964-05-09"
+        },
+        {
+          "endDate": "1964-05-29",
+          "items": [
+            {
+              "artist": "The Four Pennies",
+              "rank": 1,
+              "title": "Juliet"
+            }
+          ],
+          "startDate": "1964-05-16"
+        },
+        {
+          "endDate": "1964-06-19",
+          "items": [
+            {
+              "artist": "Cilla Black",
+              "rank": 1,
+              "title": "You're My World"
+            }
+          ],
+          "startDate": "1964-05-30"
+        },
+        {
+          "endDate": "1964-07-03",
+          "items": [
+            {
+              "artist": "Roy Orbison",
+              "rank": 1,
+              "title": "It's Over"
+            }
+          ],
+          "startDate": "1964-06-20"
+        },
+        {
+          "endDate": "1964-07-10",
+          "items": [
+            {
+              "artist": "The Animals",
+              "rank": 1,
+              "title": "House of the Rising Sun"
+            }
+          ],
+          "startDate": "1964-07-04"
+        },
+        {
+          "endDate": "1964-08-14",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "A Hard Day's Night"
+            }
+          ],
+          "startDate": "1964-07-18"
+        },
+        {
+          "endDate": "1964-08-28",
+          "items": [
+            {
+              "artist": "Manfred Mann",
+              "rank": 1,
+              "title": "Do Wah Diddy Diddy"
+            }
+          ],
+          "startDate": "1964-08-15"
+        },
+        {
+          "endDate": "1964-09-11",
+          "items": [
+            {
+              "artist": "The Honeycombs",
+              "rank": 1,
+              "title": "Have I the Right?"
+            }
+          ],
+          "startDate": "1964-08-29"
+        },
+        {
+          "endDate": "1964-10-09",
+          "items": [
+            {
+              "artist": "Herman's Hermits",
+              "rank": 1,
+              "title": "I'm Into Something Good"
+            }
+          ],
+          "startDate": "1964-09-26"
+        },
+        {
+          "endDate": "1964-10-30",
+          "items": [
+            {
+              "artist": "Roy Orbison",
+              "rank": 1,
+              "title": "Oh, Pretty Woman"
+            }
+          ],
+          "startDate": "1964-10-10"
+        },
+        {
+          "endDate": "1964-11-06",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "Always Something There to Remind Me"
+            }
+          ],
+          "startDate": "1964-10-31"
+        },
+        {
+          "endDate": "1964-11-20",
+          "items": [
+            {
+              "artist": "The Supremes",
+              "rank": 1,
+              "title": "Baby Love"
+            }
+          ],
+          "startDate": "1964-11-14"
+        },
+        {
+          "endDate": "1964-12-31",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Feel Fine"
+            }
+          ],
+          "startDate": "1964-12-05"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "c97579937bbd4b5ebeac318cb4cde8b6b4f2de8153d742370c77a324a551a5a2",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1964
+}

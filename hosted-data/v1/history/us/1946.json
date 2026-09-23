@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1946-01-04",
+          "items": [
+            {
+              "artist": "Sammy Kaye",
+              "rank": 1,
+              "title": "Chickery Chick"
+            }
+          ],
+          "startDate": "1946-01-01"
+        },
+        {
+          "endDate": "1946-01-18",
+          "items": [
+            {
+              "artist": "Freddy Martin",
+              "rank": 1,
+              "title": "Symphony"
+            }
+          ],
+          "startDate": "1946-01-05"
+        },
+        {
+          "endDate": "1946-01-25",
+          "items": [
+            {
+              "artist": "Bing Crosby and Carmen Cavallaro",
+              "rank": 1,
+              "title": "I Can't Begin To Tell You"
+            }
+          ],
+          "startDate": "1946-01-19"
+        },
+        {
+          "endDate": "1946-03-01",
+          "items": [
+            {
+              "artist": "Vaughn Monroe",
+              "rank": 1,
+              "title": "Let It Snow! Let It Snow! Let It Snow!"
+            }
+          ],
+          "startDate": "1946-01-26"
+        },
+        {
+          "endDate": "1946-03-08",
+          "items": [
+            {
+              "artist": "Betty Hutton",
+              "rank": 1,
+              "title": "Doctor, Lawyer, Indian Chief"
+            }
+          ],
+          "startDate": "1946-03-02"
+        },
+        {
+          "endDate": "1946-03-15",
+          "items": [
+            {
+              "artist": "Johnny Mercer",
+              "rank": 1,
+              "title": "Personality"
+            }
+          ],
+          "startDate": "1946-03-09"
+        },
+        {
+          "endDate": "1946-04-26",
+          "items": [
+            {
+              "artist": "Frankie Carle",
+              "rank": 1,
+              "title": "Oh! What it Seemed to Be"
+            }
+          ],
+          "startDate": "1946-03-16"
+        },
+        {
+          "endDate": "1946-05-03",
+          "items": [
+            {
+              "artist": "Sammy Kaye",
+              "rank": 1,
+              "title": "I'm A Big Girl Now"
+            }
+          ],
+          "startDate": "1946-04-27"
+        },
+        {
+          "endDate": "1946-05-24",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Prisoner of Love\"♪"
+            }
+          ],
+          "startDate": "1946-05-04"
+        },
+        {
+          "endDate": "1946-08-02",
+          "items": [
+            {
+              "artist": "The Ink Spots",
+              "rank": 1,
+              "title": "The Gypsy"
+            }
+          ],
+          "startDate": "1946-05-25"
+        },
+        {
+          "endDate": "1946-08-09",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Surrender"
+            }
+          ],
+          "startDate": "1946-08-03"
+        },
+        {
+          "endDate": "1946-08-30",
+          "items": [
+            {
+              "artist": "Eddy Howard",
+              "rank": 1,
+              "title": "To Each His Own"
+            }
+          ],
+          "startDate": "1946-08-10"
+        },
+        {
+          "endDate": "1946-09-13",
+          "items": [
+            {
+              "artist": "Freddy Martin",
+              "rank": 1,
+              "title": "To Each His Own"
+            }
+          ],
+          "startDate": "1946-08-31"
+        },
+        {
+          "endDate": "1946-09-20",
+          "items": [
+            {
+              "artist": "Frank Sinatra",
+              "rank": 1,
+              "title": "Five Minutes More"
+            }
+          ],
+          "startDate": "1946-09-14"
+        },
+        {
+          "endDate": "1946-09-27",
+          "items": [
+            {
+              "artist": "The Ink Spots",
+              "rank": 1,
+              "title": "To Each His Own"
+            }
+          ],
+          "startDate": "1946-09-21"
+        },
+        {
+          "endDate": "1946-10-04",
+          "items": [
+            {
+              "artist": "Frank Sinatra",
+              "rank": 1,
+              "title": "Five Minutes More"
+            }
+          ],
+          "startDate": "1946-09-28"
+        },
+        {
+          "endDate": "1946-10-18",
+          "items": [
+            {
+              "artist": "Eddy Howard",
+              "rank": 1,
+              "title": "To Each His Own"
+            }
+          ],
+          "startDate": "1946-10-05"
+        },
+        {
+          "endDate": "1946-12-13",
+          "items": [
+            {
+              "artist": "Frankie Carle",
+              "rank": 1,
+              "title": "Rumors Are Flying"
+            }
+          ],
+          "startDate": "1946-10-19"
+        },
+        {
+          "endDate": "1946-12-27",
+          "items": [
+            {
+              "artist": "Kay Kyser",
+              "rank": 1,
+              "title": "Ole Buttermilk Sky"
+            }
+          ],
+          "startDate": "1946-12-14"
+        },
+        {
+          "endDate": "1946-12-31",
+          "items": [
+            {
+              "artist": "Sammy Kaye",
+              "rank": 1,
+              "title": "The Old Lamp-Lighter"
+            }
+          ],
+          "startDate": "1946-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "ceaf5acfad4163d92da27eabd25addac6e49c7626ca462098abf9d1fbf15f906",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1946
+}

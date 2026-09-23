@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1994-01-01",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Babe"
+            }
+          ],
+          "startDate": "1994-01-01"
+        },
+        {
+          "endDate": "1994-01-13",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Babe"
+            }
+          ],
+          "startDate": "1994-01-07"
+        },
+        {
+          "endDate": "1994-01-20",
+          "items": [
+            {
+              "artist": "East 17",
+              "rank": 1,
+              "title": "It's Alright"
+            }
+          ],
+          "startDate": "1994-01-14"
+        },
+        {
+          "endDate": "1994-02-10",
+          "items": [
+            {
+              "artist": "Bryan Adams, Rod Stewart and Sting",
+              "rank": 1,
+              "title": "All for Love"
+            }
+          ],
+          "startDate": "1994-01-21"
+        },
+        {
+          "endDate": "1994-02-17",
+          "items": [
+            {
+              "artist": "Enigma",
+              "rank": 1,
+              "title": "Return to Innocence"
+            }
+          ],
+          "startDate": "1994-02-11"
+        },
+        {
+          "endDate": "1994-03-24",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Without You"
+            }
+          ],
+          "startDate": "1994-02-18"
+        },
+        {
+          "endDate": "1994-04-28",
+          "items": [
+            {
+              "artist": "Bruce Springsteen",
+              "rank": 1,
+              "title": "Streets of Philadelphia"
+            }
+          ],
+          "startDate": "1994-03-25"
+        },
+        {
+          "endDate": "1994-05-04",
+          "items": [
+            {
+              "artist": "Coca-Cola Official Irish Team",
+              "rank": 1,
+              "title": "Watch Your House for Ireland"
+            }
+          ],
+          "startDate": "1994-04-29"
+        },
+        {
+          "endDate": "1994-08-03",
+          "items": [
+            {
+              "artist": "Bill Whelan",
+              "rank": 1,
+              "title": "Riverdance"
+            }
+          ],
+          "startDate": "1994-05-05"
+        },
+        {
+          "endDate": "1994-09-08",
+          "items": [
+            {
+              "artist": "Bill Whelan",
+              "rank": 1,
+              "title": "Riverdance"
+            }
+          ],
+          "startDate": "1994-08-05"
+        },
+        {
+          "endDate": "1994-09-22",
+          "items": [
+            {
+              "artist": "Pérez Prado",
+              "rank": 1,
+              "title": "Guaglione"
+            }
+          ],
+          "startDate": "1994-09-09"
+        },
+        {
+          "endDate": "1994-10-20",
+          "items": [
+            {
+              "artist": "Whigfield",
+              "rank": 1,
+              "title": "Saturday Night"
+            }
+          ],
+          "startDate": "1994-09-23"
+        },
+        {
+          "endDate": "1994-10-27",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "Love Me for a Reason"
+            }
+          ],
+          "startDate": "1994-10-21"
+        },
+        {
+          "endDate": "1994-11-03",
+          "items": [
+            {
+              "artist": "Whigfield",
+              "rank": 1,
+              "title": "Saturday Night"
+            }
+          ],
+          "startDate": "1994-10-28"
+        },
+        {
+          "endDate": "1994-11-17",
+          "items": [
+            {
+              "artist": "Bon Jovi",
+              "rank": 1,
+              "title": "Always"
+            }
+          ],
+          "startDate": "1994-11-04"
+        },
+        {
+          "endDate": "1994-12-15",
+          "items": [
+            {
+              "artist": "Dustin",
+              "rank": 1,
+              "title": "Spanish Lady"
+            }
+          ],
+          "startDate": "1994-11-18"
+        },
+        {
+          "endDate": "1994-12-29",
+          "items": [
+            {
+              "artist": "East 17",
+              "rank": 1,
+              "title": "Stay Another Day"
+            }
+          ],
+          "startDate": "1994-12-16"
+        },
+        {
+          "endDate": "1994-12-31",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "Love Me For a Reason"
+            }
+          ],
+          "startDate": "1994-12-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f22b47aee523e2a854b707cb07cc9e5202511a5983ec98fe5d1922e5c07ea106",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1994
+}

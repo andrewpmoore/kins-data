@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2003-01-05",
+          "items": [
+            {
+              "artist": "Danni Úbeda",
+              "rank": 1,
+              "title": "Bésame"
+            }
+          ],
+          "startDate": "2003-01-01"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "89038e42f2be7f352a8b061f028b15aea777e0c579e58065b0848ec95abef179",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2003
+}

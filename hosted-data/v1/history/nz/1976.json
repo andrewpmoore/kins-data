@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1976-01-29",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1976-01-01"
+        },
+        {
+          "endDate": "1976-02-05",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "SOS"
+            }
+          ],
+          "startDate": "1976-01-30"
+        },
+        {
+          "endDate": "1976-03-04",
+          "items": [
+            {
+              "artist": "C.W. McCall",
+              "rank": 1,
+              "title": "Convoy"
+            }
+          ],
+          "startDate": "1976-02-06"
+        },
+        {
+          "endDate": "1976-03-18",
+          "items": [
+            {
+              "artist": "Queen",
+              "rank": 1,
+              "title": "Bohemian Rhapsody"
+            }
+          ],
+          "startDate": "1976-03-05"
+        },
+        {
+          "endDate": "1976-04-22",
+          "items": [
+            {
+              "artist": "Pussycat",
+              "rank": 1,
+              "title": "Mississippi"
+            }
+          ],
+          "startDate": "1976-03-19"
+        },
+        {
+          "endDate": "1976-04-29",
+          "items": [
+            {
+              "artist": "Easter holiday - no chart",
+              "rank": 1,
+              "title": "Easter holiday - no chart"
+            }
+          ],
+          "startDate": "1976-04-23"
+        },
+        {
+          "endDate": "1976-06-03",
+          "items": [
+            {
+              "artist": "Pussycat",
+              "rank": 1,
+              "title": "Mississippi"
+            }
+          ],
+          "startDate": "1976-04-30"
+        },
+        {
+          "endDate": "1976-07-29",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Fernando"
+            }
+          ],
+          "startDate": "1976-06-04"
+        },
+        {
+          "endDate": "1976-08-12",
+          "items": [
+            {
+              "artist": "Henry Gross",
+              "rank": 1,
+              "title": "Shannon"
+            }
+          ],
+          "startDate": "1976-07-30"
+        },
+        {
+          "endDate": "1976-08-19",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Fernando"
+            }
+          ],
+          "startDate": "1976-08-13"
+        },
+        {
+          "endDate": "1976-08-26",
+          "items": [
+            {
+              "artist": "Henry Gross",
+              "rank": 1,
+              "title": "Shannon"
+            }
+          ],
+          "startDate": "1976-08-20"
+        },
+        {
+          "endDate": "1976-09-23",
+          "items": [
+            {
+              "artist": "Elton John & Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-08-27"
+        },
+        {
+          "endDate": "1976-09-30",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Dancing Queen"
+            }
+          ],
+          "startDate": "1976-09-24"
+        },
+        {
+          "endDate": "1976-11-04",
+          "items": [
+            {
+              "artist": "Elton John & Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-10-01"
+        },
+        {
+          "endDate": "1976-11-11",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Dancing Queen"
+            }
+          ],
+          "startDate": "1976-11-05"
+        },
+        {
+          "endDate": "1976-11-18",
+          "items": [
+            {
+              "artist": "The Manhattans",
+              "rank": 1,
+              "title": "Kiss & Say Goodbye"
+            }
+          ],
+          "startDate": "1976-11-12"
+        },
+        {
+          "endDate": "1976-11-25",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Dancing Queen"
+            }
+          ],
+          "startDate": "1976-11-19"
+        },
+        {
+          "endDate": "1976-12-09",
+          "items": [
+            {
+              "artist": "Sherbet",
+              "rank": 1,
+              "title": "Howzat"
+            }
+          ],
+          "startDate": "1976-11-26"
+        },
+        {
+          "endDate": "1976-12-16",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Money, Money, Money"
+            }
+          ],
+          "startDate": "1976-12-10"
+        },
+        {
+          "endDate": "1976-12-23",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Dancing Queen"
+            }
+          ],
+          "startDate": "1976-12-17"
+        },
+        {
+          "endDate": "1976-12-31",
+          "items": [
+            {
+              "artist": "Summer break - no chart",
+              "rank": 1,
+              "title": "Summer break - no chart"
+            }
+          ],
+          "startDate": "1976-12-24"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "78a8d93ec92a250c90b995735b419f60a1c8307eb835edfd7fdcd9322ba5b653",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1976
+}

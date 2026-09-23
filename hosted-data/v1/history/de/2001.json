@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2001-01-07",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "2001-01-01"
+        },
+        {
+          "endDate": "2001-01-28",
+          "items": [
+            {
+              "artist": "Christian",
+              "rank": 1,
+              "title": "Es ist geil ein Arschloch zu sein"
+            }
+          ],
+          "startDate": "2001-01-08"
+        },
+        {
+          "endDate": "2001-02-04",
+          "items": [
+            {
+              "artist": "Eminem featuring Dido",
+              "rank": 1,
+              "title": "Stan"
+            }
+          ],
+          "startDate": "2001-01-29"
+        },
+        {
+          "endDate": "2001-02-18",
+          "items": [
+            {
+              "artist": "Outkast",
+              "rank": 1,
+              "title": "Ms. Jackson"
+            }
+          ],
+          "startDate": "2001-02-05"
+        },
+        {
+          "endDate": "2001-04-01",
+          "items": [
+            {
+              "artist": "No Angels",
+              "rank": 1,
+              "title": "Daylight in Your Eyes\" †"
+            }
+          ],
+          "startDate": "2001-02-19"
+        },
+        {
+          "endDate": "2001-05-06",
+          "items": [
+            {
+              "artist": "Crazy Town",
+              "rank": 1,
+              "title": "Butterfly"
+            }
+          ],
+          "startDate": "2001-04-02"
+        },
+        {
+          "endDate": "2001-05-13",
+          "items": [
+            {
+              "artist": "Depeche Mode",
+              "rank": 1,
+              "title": "Dream On"
+            }
+          ],
+          "startDate": "2001-05-07"
+        },
+        {
+          "endDate": "2001-05-20",
+          "items": [
+            {
+              "artist": "Crazy Town",
+              "rank": 1,
+              "title": "Butterfly"
+            }
+          ],
+          "startDate": "2001-05-14"
+        },
+        {
+          "endDate": "2001-07-01",
+          "items": [
+            {
+              "artist": "Atomic Kitten",
+              "rank": 1,
+              "title": "Whole Again"
+            }
+          ],
+          "startDate": "2001-05-21"
+        },
+        {
+          "endDate": "2001-07-08",
+          "items": [
+            {
+              "artist": "Dante Thomas",
+              "rank": 1,
+              "title": "Miss California"
+            }
+          ],
+          "startDate": "2001-07-02"
+        },
+        {
+          "endDate": "2001-07-15",
+          "items": [
+            {
+              "artist": "Christina Aguilera, Pink, Lil' Kim and Mýa featuring Missy Elliott",
+              "rank": 1,
+              "title": "Lady Marmalade"
+            }
+          ],
+          "startDate": "2001-07-09"
+        },
+        {
+          "endDate": "2001-08-12",
+          "items": [
+            {
+              "artist": "Shaggy featuring Rayvon",
+              "rank": 1,
+              "title": "Angel"
+            }
+          ],
+          "startDate": "2001-07-16"
+        },
+        {
+          "endDate": "2001-08-26",
+          "items": [
+            {
+              "artist": "Uncle Kracker",
+              "rank": 1,
+              "title": "Follow Me"
+            }
+          ],
+          "startDate": "2001-08-13"
+        },
+        {
+          "endDate": "2001-09-30",
+          "items": [
+            {
+              "artist": "No Angels",
+              "rank": 1,
+              "title": "There Must Be an Angel"
+            }
+          ],
+          "startDate": "2001-08-27"
+        },
+        {
+          "endDate": "2001-11-11",
+          "items": [
+            {
+              "artist": "Enya",
+              "rank": 1,
+              "title": "Only Time"
+            }
+          ],
+          "startDate": "2001-10-01"
+        },
+        {
+          "endDate": "2001-11-18",
+          "items": [
+            {
+              "artist": "Kylie Minogue",
+              "rank": 1,
+              "title": "Can't Get You Out of My Head"
+            }
+          ],
+          "startDate": "2001-11-12"
+        },
+        {
+          "endDate": "2001-11-25",
+          "items": [
+            {
+              "artist": "Afroman",
+              "rank": 1,
+              "title": "Because I Got High"
+            }
+          ],
+          "startDate": "2001-11-19"
+        },
+        {
+          "endDate": "2001-12-16",
+          "items": [
+            {
+              "artist": "Sarah Connor",
+              "rank": 1,
+              "title": "From Sarah with Love"
+            }
+          ],
+          "startDate": "2001-11-26"
+        },
+        {
+          "endDate": "2001-12-30",
+          "items": [
+            {
+              "artist": "Bro'Sis",
+              "rank": 1,
+              "title": "I Believe"
+            }
+          ],
+          "startDate": "2001-12-17"
+        },
+        {
+          "endDate": "2001-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "2001-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7dd8e01e2be3123f3baeddfb6c899c4bcd1013f3dc7466e1da64ae16c888d420",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2001
+}

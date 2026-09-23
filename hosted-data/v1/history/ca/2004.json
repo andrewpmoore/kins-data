@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2004-05-13",
+          "items": [
+            {
+              "artist": "Kenny Chesney featuring Uncle Kracker",
+              "rank": 1,
+              "title": "When the Sun Goes Down"
+            }
+          ],
+          "startDate": "2004-04-16"
+        },
+        {
+          "endDate": "2004-07-01",
+          "items": [
+            {
+              "artist": "Gretchen Wilson",
+              "rank": 1,
+              "title": "Redneck Woman"
+            }
+          ],
+          "startDate": "2004-05-14"
+        },
+        {
+          "endDate": "2004-07-08",
+          "items": [
+            {
+              "artist": "Kenny Chesney",
+              "rank": 1,
+              "title": "I Go Back"
+            }
+          ],
+          "startDate": "2004-07-02"
+        },
+        {
+          "endDate": "2004-07-15",
+          "items": [
+            {
+              "artist": "Tim McGraw",
+              "rank": 1,
+              "title": "Live Like You Were Dying"
+            }
+          ],
+          "startDate": "2004-07-09"
+        },
+        {
+          "endDate": "2004-07-22",
+          "items": [
+            {
+              "artist": "Kenny Chesney",
+              "rank": 1,
+              "title": "I Go Back"
+            }
+          ],
+          "startDate": "2004-07-16"
+        },
+        {
+          "endDate": "2004-08-05",
+          "items": [
+            {
+              "artist": "Tim McGraw",
+              "rank": 1,
+              "title": "Live Like You Were Dying"
+            }
+          ],
+          "startDate": "2004-07-23"
+        },
+        {
+          "endDate": "2004-08-19",
+          "items": [
+            {
+              "artist": "Kenny Chesney",
+              "rank": 1,
+              "title": "I Go Back"
+            }
+          ],
+          "startDate": "2004-08-06"
+        },
+        {
+          "endDate": "2004-09-16",
+          "items": [
+            {
+              "artist": "Tim McGraw",
+              "rank": 1,
+              "title": "Live Like You Were Dying"
+            }
+          ],
+          "startDate": "2004-08-20"
+        },
+        {
+          "endDate": "2004-10-21",
+          "items": [
+            {
+              "artist": "Keith Urban",
+              "rank": 1,
+              "title": "Days Go By"
+            }
+          ],
+          "startDate": "2004-09-17"
+        },
+        {
+          "endDate": "2004-12-09",
+          "items": [
+            {
+              "artist": "Lonestar",
+              "rank": 1,
+              "title": "Mr. Mom"
+            }
+          ],
+          "startDate": "2004-10-22"
+        },
+        {
+          "endDate": "2004-12-16",
+          "items": [
+            {
+              "artist": "Tim McGraw",
+              "rank": 1,
+              "title": "Back When"
+            }
+          ],
+          "startDate": "2004-12-10"
+        },
+        {
+          "endDate": "2004-12-23",
+          "items": [
+            {
+              "artist": "LeAnn Rimes",
+              "rank": 1,
+              "title": "Nothin' 'bout Love Makes Sense"
+            }
+          ],
+          "startDate": "2004-12-17"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7e5f72aa50e48e92c4bfe0bae1fd4f5ae6fe6df44f6367d4a6df0c8020dbc86c",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 2004
+}

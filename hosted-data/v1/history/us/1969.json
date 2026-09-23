@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1969-01-31",
+          "items": [
+            {
+              "artist": "Marvin Gaye",
+              "rank": 1,
+              "title": "I Heard It Through the Grapevine"
+            }
+          ],
+          "startDate": "1969-01-01"
+        },
+        {
+          "endDate": "1969-02-14",
+          "items": [
+            {
+              "artist": "Tommy James and the Shondells",
+              "rank": 1,
+              "title": "Crimson and Clover"
+            }
+          ],
+          "startDate": "1969-02-01"
+        },
+        {
+          "endDate": "1969-03-14",
+          "items": [
+            {
+              "artist": "Sly and the Family Stone",
+              "rank": 1,
+              "title": "Everyday People"
+            }
+          ],
+          "startDate": "1969-02-15"
+        },
+        {
+          "endDate": "1969-04-11",
+          "items": [
+            {
+              "artist": "Tommy Roe",
+              "rank": 1,
+              "title": "Dizzy"
+            }
+          ],
+          "startDate": "1969-03-15"
+        },
+        {
+          "endDate": "1969-05-23",
+          "items": [
+            {
+              "artist": "The 5th Dimension",
+              "rank": 1,
+              "title": "Aquarius/Let the Sunshine In"
+            }
+          ],
+          "startDate": "1969-04-12"
+        },
+        {
+          "endDate": "1969-06-27",
+          "items": [
+            {
+              "artist": "The Beatles with Billy Preston",
+              "rank": 1,
+              "title": "Get Back"
+            }
+          ],
+          "startDate": "1969-05-24"
+        },
+        {
+          "endDate": "1969-07-11",
+          "items": [
+            {
+              "artist": "Henry Mancini",
+              "rank": 1,
+              "title": "Love Theme from Romeo and Juliet"
+            }
+          ],
+          "startDate": "1969-06-28"
+        },
+        {
+          "endDate": "1969-08-22",
+          "items": [
+            {
+              "artist": "Zager and Evans",
+              "rank": 1,
+              "title": "In the Year 2525"
+            }
+          ],
+          "startDate": "1969-07-12"
+        },
+        {
+          "endDate": "1969-09-19",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Honky Tonk Women"
+            }
+          ],
+          "startDate": "1969-08-23"
+        },
+        {
+          "endDate": "1969-10-17",
+          "items": [
+            {
+              "artist": "The Archies",
+              "rank": 1,
+              "title": "Sugar, Sugar\"♪"
+            }
+          ],
+          "startDate": "1969-09-20"
+        },
+        {
+          "endDate": "1969-10-31",
+          "items": [
+            {
+              "artist": "The Temptations",
+              "rank": 1,
+              "title": "I Can't Get Next To You"
+            }
+          ],
+          "startDate": "1969-10-18"
+        },
+        {
+          "endDate": "1969-11-07",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Suspicious Minds"
+            }
+          ],
+          "startDate": "1969-11-01"
+        },
+        {
+          "endDate": "1969-11-28",
+          "items": [
+            {
+              "artist": "The 5th Dimension",
+              "rank": 1,
+              "title": "Wedding Bell Blues"
+            }
+          ],
+          "startDate": "1969-11-08"
+        },
+        {
+          "endDate": "1969-12-05",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Come Together\"/\"Something"
+            }
+          ],
+          "startDate": "1969-11-29"
+        },
+        {
+          "endDate": "1969-12-19",
+          "items": [
+            {
+              "artist": "Steam",
+              "rank": 1,
+              "title": "Na Na Hey Hey Kiss Him Goodbye"
+            }
+          ],
+          "startDate": "1969-12-06"
+        },
+        {
+          "endDate": "1969-12-26",
+          "items": [
+            {
+              "artist": "Peter, Paul & Mary",
+              "rank": 1,
+              "title": "Leaving on a Jet Plane"
+            }
+          ],
+          "startDate": "1969-12-20"
+        },
+        {
+          "endDate": "1969-12-31",
+          "items": [
+            {
+              "artist": "Diana Ross & the Supremes",
+              "rank": 1,
+              "title": "Someday We'll Be Together"
+            }
+          ],
+          "startDate": "1969-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "4ba2cf9e899b93bd02848b5853e1da9219e1a5eede6dd25e67a6a22929356732",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1969
+}

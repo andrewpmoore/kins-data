@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2021-03-19",
+          "items": [
+            {
+              "artist": "Olivia Rodrigo",
+              "rank": 1,
+              "title": "Drivers License"
+            }
+          ],
+          "startDate": "2021-01-23"
+        },
+        {
+          "endDate": "2021-03-26",
+          "items": [
+            {
+              "artist": "Drake",
+              "rank": 1,
+              "title": "What's Next"
+            }
+          ],
+          "startDate": "2021-03-20"
+        },
+        {
+          "endDate": "2021-04-02",
+          "items": [
+            {
+              "artist": "Cardi B",
+              "rank": 1,
+              "title": "Up"
+            }
+          ],
+          "startDate": "2021-03-27"
+        },
+        {
+          "endDate": "2021-04-09",
+          "items": [
+            {
+              "artist": "Justin Bieber featuring Daniel Caesar and Giveon",
+              "rank": 1,
+              "title": "Peaches"
+            }
+          ],
+          "startDate": "2021-04-03"
+        },
+        {
+          "endDate": "2021-04-16",
+          "items": [
+            {
+              "artist": "Lil Nas X",
+              "rank": 1,
+              "title": "Montero"
+            }
+          ],
+          "startDate": "2021-04-10"
+        },
+        {
+          "endDate": "2021-04-23",
+          "items": [
+            {
+              "artist": "Silk Sonic",
+              "rank": 1,
+              "title": "Leave the Door Open"
+            }
+          ],
+          "startDate": "2021-04-17"
+        },
+        {
+          "endDate": "2021-05-07",
+          "items": [
+            {
+              "artist": "Polo G",
+              "rank": 1,
+              "title": "Rapstar"
+            }
+          ],
+          "startDate": "2021-05-01"
+        },
+        {
+          "endDate": "2021-05-21",
+          "items": [
+            {
+              "artist": "The Weeknd and Ariana Grande",
+              "rank": 1,
+              "title": "Save Your Tears"
+            }
+          ],
+          "startDate": "2021-05-08"
+        },
+        {
+          "endDate": "2021-06-04",
+          "items": [
+            {
+              "artist": "Olivia Rodrigo",
+              "rank": 1,
+              "title": "Good 4 U"
+            }
+          ],
+          "startDate": "2021-05-29"
+        },
+        {
+          "endDate": "2021-07-23",
+          "items": [
+            {
+              "artist": "BTS",
+              "rank": 1,
+              "title": "Butter"
+            }
+          ],
+          "startDate": "2021-06-05"
+        },
+        {
+          "endDate": "2021-08-13",
+          "items": [
+            {
+              "artist": "BTS",
+              "rank": 1,
+              "title": "Butter"
+            }
+          ],
+          "startDate": "2021-07-31"
+        },
+        {
+          "endDate": "2021-09-17",
+          "items": [
+            {
+              "artist": "The Kid Laroi and Justin Bieber",
+              "rank": 1,
+              "title": "Stay"
+            }
+          ],
+          "startDate": "2021-08-14"
+        },
+        {
+          "endDate": "2021-10-01",
+          "items": [
+            {
+              "artist": "The Kid Laroi and Justin Bieber",
+              "rank": 1,
+              "title": "Stay"
+            }
+          ],
+          "startDate": "2021-09-25"
+        },
+        {
+          "endDate": "2021-10-15",
+          "items": [
+            {
+              "artist": "Coldplay and BTS",
+              "rank": 1,
+              "title": "My Universe"
+            }
+          ],
+          "startDate": "2021-10-09"
+        },
+        {
+          "endDate": "2021-10-29",
+          "items": [
+            {
+              "artist": "Lil Nas X and Jack Harlow",
+              "rank": 1,
+              "title": "Industry Baby"
+            }
+          ],
+          "startDate": "2021-10-23"
+        },
+        {
+          "endDate": "2021-11-26",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Easy on Me"
+            }
+          ],
+          "startDate": "2021-10-30"
+        },
+        {
+          "endDate": "2021-12-24",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Easy on Me"
+            }
+          ],
+          "startDate": "2021-12-04"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9f5d85bf8b949b0b1c53cbd57e270fc917ca3e97ce55885cf4f452339f91cd84",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2021
+}

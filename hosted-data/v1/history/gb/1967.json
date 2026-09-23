@@ -1,0 +1,176 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1967-01-20",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Green, Green Grass of Home"
+            }
+          ],
+          "startDate": "1967-01-01"
+        },
+        {
+          "endDate": "1967-02-17",
+          "items": [
+            {
+              "artist": "The Monkees",
+              "rank": 1,
+              "title": "I'm a Believer"
+            }
+          ],
+          "startDate": "1967-01-21"
+        },
+        {
+          "endDate": "1967-02-24",
+          "items": [
+            {
+              "artist": "Petula Clark",
+              "rank": 1,
+              "title": "This Is My Song"
+            }
+          ],
+          "startDate": "1967-02-18"
+        },
+        {
+          "endDate": "1967-04-07",
+          "items": [
+            {
+              "artist": "Engelbert Humperdinck",
+              "rank": 1,
+              "title": "Release Me"
+            }
+          ],
+          "startDate": "1967-03-25"
+        },
+        {
+          "endDate": "1967-04-21",
+          "items": [
+            {
+              "artist": "Nancy Sinatra and Frank Sinatra",
+              "rank": 1,
+              "title": "Somethin' Stupid"
+            }
+          ],
+          "startDate": "1967-04-15"
+        },
+        {
+          "endDate": "1967-05-19",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "Puppet on a String"
+            }
+          ],
+          "startDate": "1967-04-22"
+        },
+        {
+          "endDate": "1967-06-09",
+          "items": [
+            {
+              "artist": "The Tremeloes",
+              "rank": 1,
+              "title": "Silence Is Golden"
+            }
+          ],
+          "startDate": "1967-05-20"
+        },
+        {
+          "endDate": "1967-07-19",
+          "items": [
+            {
+              "artist": "Procol Harum",
+              "rank": 1,
+              "title": "A Whiter Shade of Pale"
+            }
+          ],
+          "startDate": "1967-06-10"
+        },
+        {
+          "endDate": "1967-08-11",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "All You Need Is Love"
+            }
+          ],
+          "startDate": "1967-07-22"
+        },
+        {
+          "endDate": "1967-09-01",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco"
+            }
+          ],
+          "startDate": "1967-08-12"
+        },
+        {
+          "endDate": "1967-10-20",
+          "items": [
+            {
+              "artist": "Engelbert Humperdinck",
+              "rank": 1,
+              "title": "The Last Waltz"
+            }
+          ],
+          "startDate": "1967-09-09"
+        },
+        {
+          "endDate": "1967-11-10",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Massachusetts"
+            }
+          ],
+          "startDate": "1967-10-21"
+        },
+        {
+          "endDate": "1967-11-24",
+          "items": [
+            {
+              "artist": "The Foundations",
+              "rank": 1,
+              "title": "Baby Now That I've Found You"
+            }
+          ],
+          "startDate": "1967-11-11"
+        },
+        {
+          "endDate": "1967-12-08",
+          "items": [
+            {
+              "artist": "Long John Baldry",
+              "rank": 1,
+              "title": "Let the Heartaches Begin"
+            }
+          ],
+          "startDate": "1967-12-02"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "1b1cec5f3da755fe538e68c558907150a1fcda127bc8fc676d8787b043e8485f",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1967
+}

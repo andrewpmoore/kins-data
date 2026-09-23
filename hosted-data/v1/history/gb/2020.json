@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2020-07-15",
+          "items": [
+            {
+              "artist": "Jawsh 685 and Jason Derulo",
+              "rank": 1,
+              "title": "Savage Love"
+            }
+          ],
+          "startDate": "2020-07-09"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "78c04450e9980ed556ecfe10928343ed1acfc84fed605f13f8d52eb86cd263d3",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2020
+}

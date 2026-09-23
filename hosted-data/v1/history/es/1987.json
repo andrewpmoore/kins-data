@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1987-01-02",
+          "items": [
+            {
+              "artist": "The Communards",
+              "rank": 1,
+              "title": "Don't Leave Me This Way"
+            }
+          ],
+          "startDate": "1987-01-01"
+        },
+        {
+          "endDate": "1987-01-30",
+          "items": [
+            {
+              "artist": "Modern Talking",
+              "rank": 1,
+              "title": "Geronimo's Cadillac"
+            }
+          ],
+          "startDate": "1987-01-03"
+        },
+        {
+          "endDate": "1987-04-10",
+          "items": [
+            {
+              "artist": "Europe",
+              "rank": 1,
+              "title": "The Final Countdown"
+            }
+          ],
+          "startDate": "1987-01-31"
+        },
+        {
+          "endDate": "1987-04-17",
+          "items": [
+            {
+              "artist": "Gregory Abbott",
+              "rank": 1,
+              "title": "Shake You Down"
+            }
+          ],
+          "startDate": "1987-04-11"
+        },
+        {
+          "endDate": "1987-05-15",
+          "items": [
+            {
+              "artist": "The Bangles",
+              "rank": 1,
+              "title": "Walk Like an Egyptian"
+            }
+          ],
+          "startDate": "1987-04-18"
+        },
+        {
+          "endDate": "1987-07-03",
+          "items": [
+            {
+              "artist": "The Communards",
+              "rank": 1,
+              "title": "Multimix"
+            }
+          ],
+          "startDate": "1987-05-16"
+        },
+        {
+          "endDate": "1987-10-02",
+          "items": [
+            {
+              "artist": "Desireless",
+              "rank": 1,
+              "title": "Voyage, voyage"
+            }
+          ],
+          "startDate": "1987-07-04"
+        },
+        {
+          "endDate": "1987-10-23",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "It's a Sin"
+            }
+          ],
+          "startDate": "1987-10-03"
+        },
+        {
+          "endDate": "1987-11-27",
+          "items": [
+            {
+              "artist": "Los Lobos",
+              "rank": 1,
+              "title": "La Bamba"
+            }
+          ],
+          "startDate": "1987-10-24"
+        },
+        {
+          "endDate": "1987-12-02",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Bad"
+            }
+          ],
+          "startDate": "1987-11-28"
+        },
+        {
+          "endDate": "1987-12-16",
+          "items": [
+            {
+              "artist": "Rick Astley",
+              "rank": 1,
+              "title": "Never Gonna Give You Up"
+            }
+          ],
+          "startDate": "1987-12-03"
+        },
+        {
+          "endDate": "1987-12-23",
+          "items": [
+            {
+              "artist": "C. C. Catch",
+              "rank": 1,
+              "title": "Soul Survivor"
+            }
+          ],
+          "startDate": "1987-12-17"
+        },
+        {
+          "endDate": "1987-12-31",
+          "items": [
+            {
+              "artist": "Rick Astley",
+              "rank": 1,
+              "title": "Never Gonna Give You Up"
+            }
+          ],
+          "startDate": "1987-12-24"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "d8ed04203ad1dca08bf4ef328c13767cd4658947d68b7824c9d480ef17ef2498",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1987
+}

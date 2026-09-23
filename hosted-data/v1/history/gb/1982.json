@@ -1,0 +1,44 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1982-01-07",
+          "items": [
+            {
+              "artist": "Tight Fit",
+              "rank": 1,
+              "title": "The Lion Sleeps Tonight"
+            }
+          ],
+          "startDate": "1982-01-01"
+        },
+        {
+          "endDate": "1982-07-08",
+          "items": [
+            {
+              "artist": "Survivor",
+              "rank": 1,
+              "title": "Eye of the Tiger"
+            }
+          ],
+          "startDate": "1982-07-02"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "ab818222d5494e33b78b090f70cf691928e13d49ed2dec99c652d203ab25da87",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1982
+}

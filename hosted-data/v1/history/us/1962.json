@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1962-01-07",
+          "items": [
+            {
+              "artist": "The Tokens",
+              "rank": 1,
+              "title": "The Lion Sleeps Tonight"
+            }
+          ],
+          "startDate": "1962-01-01"
+        },
+        {
+          "endDate": "1962-01-26",
+          "items": [
+            {
+              "artist": "Chubby Checker",
+              "rank": 1,
+              "title": "The Twist"
+            }
+          ],
+          "startDate": "1962-01-13"
+        },
+        {
+          "endDate": "1962-07-06",
+          "items": [
+            {
+              "artist": "Ray Charles",
+              "rank": 1,
+              "title": "I Can't Stop Loving You"
+            }
+          ],
+          "startDate": "1962-06-09"
+        },
+        {
+          "endDate": "1962-07-13",
+          "items": [
+            {
+              "artist": "David Rose",
+              "rank": 1,
+              "title": "The Stripper"
+            }
+          ],
+          "startDate": "1962-07-07"
+        },
+        {
+          "endDate": "1962-08-10",
+          "items": [
+            {
+              "artist": "Bobby Vinton",
+              "rank": 1,
+              "title": "Roses Are Red"
+            }
+          ],
+          "startDate": "1962-07-14"
+        },
+        {
+          "endDate": "1962-08-24",
+          "items": [
+            {
+              "artist": "Neil Sedaka",
+              "rank": 1,
+              "title": "Breaking Up Is Hard to Do"
+            }
+          ],
+          "startDate": "1962-08-11"
+        },
+        {
+          "endDate": "1962-08-31",
+          "items": [
+            {
+              "artist": "Little Eva",
+              "rank": 1,
+              "title": "The Loco-Motion"
+            }
+          ],
+          "startDate": "1962-08-25"
+        },
+        {
+          "endDate": "1962-09-14",
+          "items": [
+            {
+              "artist": "Tommy Roe",
+              "rank": 1,
+              "title": "Sheila"
+            }
+          ],
+          "startDate": "1962-09-01"
+        },
+        {
+          "endDate": "1962-10-19",
+          "items": [
+            {
+              "artist": "The Four Seasons",
+              "rank": 1,
+              "title": "Sherry"
+            }
+          ],
+          "startDate": "1962-09-15"
+        },
+        {
+          "endDate": "1962-11-02",
+          "items": [
+            {
+              "artist": "Bobby \"Boris\" Pickett and the Crypt-Kickers",
+              "rank": 1,
+              "title": "Monster Mash"
+            }
+          ],
+          "startDate": "1962-10-20"
+        },
+        {
+          "endDate": "1962-11-16",
+          "items": [
+            {
+              "artist": "The Crystals",
+              "rank": 1,
+              "title": "He's a Rebel"
+            }
+          ],
+          "startDate": "1962-11-03"
+        },
+        {
+          "endDate": "1962-12-21",
+          "items": [
+            {
+              "artist": "The Four Seasons",
+              "rank": 1,
+              "title": "Big Girls Don't Cry"
+            }
+          ],
+          "startDate": "1962-11-17"
+        },
+        {
+          "endDate": "1962-12-31",
+          "items": [
+            {
+              "artist": "The Tornados",
+              "rank": 1,
+              "title": "Telstar"
+            }
+          ],
+          "startDate": "1962-12-22"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5a72c402a25759bb610b48940935e367f59bbf455da99dcbdda2e461860638f4",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1962
+}

@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2015-01-24",
+          "items": [
+            {
+              "artist": "Hozier",
+              "rank": 1,
+              "title": "Take Me to Church"
+            }
+          ],
+          "startDate": "2015-01-18"
+        },
+        {
+          "endDate": "2015-01-31",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Shake It Off"
+            }
+          ],
+          "startDate": "2015-01-25"
+        },
+        {
+          "endDate": "2015-02-14",
+          "items": [
+            {
+              "artist": "AronChupa",
+              "rank": 1,
+              "title": "I'm an Albatraoz"
+            }
+          ],
+          "startDate": "2015-02-08"
+        },
+        {
+          "endDate": "2015-03-14",
+          "items": [
+            {
+              "artist": "Louane",
+              "rank": 1,
+              "title": "Avenir"
+            }
+          ],
+          "startDate": "2015-03-08"
+        },
+        {
+          "endDate": "2015-03-28",
+          "items": [
+            {
+              "artist": "Omi",
+              "rank": 1,
+              "title": "Cheerleader"
+            }
+          ],
+          "startDate": "2015-03-22"
+        },
+        {
+          "endDate": "2015-04-04",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Bitch Better Have My Money"
+            }
+          ],
+          "startDate": "2015-03-29"
+        },
+        {
+          "endDate": "2015-04-18",
+          "items": [
+            {
+              "artist": "Wiz Khalifa featuring Charlie Puth",
+              "rank": 1,
+              "title": "See You Again"
+            }
+          ],
+          "startDate": "2015-04-12"
+        },
+        {
+          "endDate": "2015-04-25",
+          "items": [
+            {
+              "artist": "Kygo featuring Conrad Sewell",
+              "rank": 1,
+              "title": "Firestone"
+            }
+          ],
+          "startDate": "2015-04-19"
+        },
+        {
+          "endDate": "2015-05-02",
+          "items": [
+            {
+              "artist": "Zara Larsson",
+              "rank": 1,
+              "title": "Uncover"
+            }
+          ],
+          "startDate": "2015-04-26"
+        },
+        {
+          "endDate": "2015-06-13",
+          "items": [
+            {
+              "artist": "Jason Derulo",
+              "rank": 1,
+              "title": "Want to Want Me"
+            }
+          ],
+          "startDate": "2015-06-07"
+        },
+        {
+          "endDate": "2015-07-18",
+          "items": [
+            {
+              "artist": "Maître Gims",
+              "rank": 1,
+              "title": "Laissez passer"
+            }
+          ],
+          "startDate": "2015-07-12"
+        },
+        {
+          "endDate": "2015-08-08",
+          "items": [
+            {
+              "artist": "One Direction",
+              "rank": 1,
+              "title": "Drag Me Down"
+            }
+          ],
+          "startDate": "2015-08-02"
+        },
+        {
+          "endDate": "2015-08-15",
+          "items": [
+            {
+              "artist": "Nicky Jam featuring Enrique Iglesias",
+              "rank": 1,
+              "title": "El Perdón"
+            }
+          ],
+          "startDate": "2015-08-09"
+        },
+        {
+          "endDate": "2015-08-29",
+          "items": [
+            {
+              "artist": "Lost Frequencies featuring Janieck Devy",
+              "rank": 1,
+              "title": "Reality"
+            }
+          ],
+          "startDate": "2015-08-23"
+        },
+        {
+          "endDate": "2015-09-12",
+          "items": [
+            {
+              "artist": "Booba and Benash",
+              "rank": 1,
+              "title": "Validée"
+            }
+          ],
+          "startDate": "2015-09-06"
+        },
+        {
+          "endDate": "2015-10-03",
+          "items": [
+            {
+              "artist": "L.E.J",
+              "rank": 1,
+              "title": "Summer 2015"
+            }
+          ],
+          "startDate": "2015-09-27"
+        },
+        {
+          "endDate": "2015-10-10",
+          "items": [
+            {
+              "artist": "Josef Salvat",
+              "rank": 1,
+              "title": "Open Season"
+            }
+          ],
+          "startDate": "2015-10-04"
+        },
+        {
+          "endDate": "2015-11-07",
+          "items": [
+            {
+              "artist": "Mokobé and Gradur",
+              "rank": 1,
+              "title": "Wesh"
+            }
+          ],
+          "startDate": "2015-11-01"
+        },
+        {
+          "endDate": "2015-12-12",
+          "items": [
+            {
+              "artist": "Marc Lavoine and Bambou",
+              "rank": 1,
+              "title": "Dis-moi que l'amour"
+            }
+          ],
+          "startDate": "2015-12-06"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-01",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "147f61c9587e2d6c558eef1c41b19714c7f227374aad4036751cdb68f1bc7e4e",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2015
+}

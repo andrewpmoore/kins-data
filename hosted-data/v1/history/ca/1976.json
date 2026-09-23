@@ -1,0 +1,66 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1976-11-26",
+          "items": [
+            {
+              "artist": "KC and the Sunshine Band",
+              "rank": 1,
+              "title": "Keep It Comin' Love / I'm Your Boogie Man"
+            }
+          ],
+          "startDate": "1976-11-13"
+        },
+        {
+          "endDate": "1976-12-17",
+          "items": [
+            {
+              "artist": "Donna Summer",
+              "rank": 1,
+              "title": "Four Seasons of Love"
+            }
+          ],
+          "startDate": "1976-11-27"
+        },
+        {
+          "endDate": "1976-12-24",
+          "items": [
+            {
+              "artist": "KC and the Sunshine Band",
+              "rank": 1,
+              "title": "Keep It Comin' Love / I'm Your Boogie Man"
+            }
+          ],
+          "startDate": "1976-12-18"
+        },
+        {
+          "endDate": "1976-12-31",
+          "items": [
+            {
+              "artist": "No Chart Published",
+              "rank": 1,
+              "title": "No Chart Published"
+            }
+          ],
+          "startDate": "1976-12-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "765e83281f2cae4c4662b71caa59c3165ff8cb5fe2ead9f6ff3ac0f1d95077f9",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1976
+}

@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1995-01-05",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "Love Me For a Reason"
+            }
+          ],
+          "startDate": "1995-01-01"
+        },
+        {
+          "endDate": "1995-01-19",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "Love Me for a Reason"
+            }
+          ],
+          "startDate": "1995-01-06"
+        },
+        {
+          "endDate": "1995-03-23",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "Think Twice"
+            }
+          ],
+          "startDate": "1995-01-20"
+        },
+        {
+          "endDate": "1995-03-30",
+          "items": [
+            {
+              "artist": "The Outhere Brothers",
+              "rank": 1,
+              "title": "Don't Stop"
+            }
+          ],
+          "startDate": "1995-03-24"
+        },
+        {
+          "endDate": "1995-04-20",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Back for Good"
+            }
+          ],
+          "startDate": "1995-03-31"
+        },
+        {
+          "endDate": "1995-05-25",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "Key to My Life"
+            }
+          ],
+          "startDate": "1995-04-21"
+        },
+        {
+          "endDate": "1995-06-08",
+          "items": [
+            {
+              "artist": "Scatman John",
+              "rank": 1,
+              "title": "Scatman"
+            }
+          ],
+          "startDate": "1995-05-26"
+        },
+        {
+          "endDate": "1995-06-29",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Hold Me, Thrill Me, Kiss Me, Kill Me"
+            }
+          ],
+          "startDate": "1995-06-09"
+        },
+        {
+          "endDate": "1995-07-27",
+          "items": [
+            {
+              "artist": "The Outhere Brothers",
+              "rank": 1,
+              "title": "Boom Boom Boom"
+            }
+          ],
+          "startDate": "1995-06-30"
+        },
+        {
+          "endDate": "1995-08-03",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Never Forget"
+            }
+          ],
+          "startDate": "1995-07-28"
+        },
+        {
+          "endDate": "1995-08-17",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "So Good"
+            }
+          ],
+          "startDate": "1995-08-04"
+        },
+        {
+          "endDate": "1995-09-21",
+          "items": [
+            {
+              "artist": "Blur",
+              "rank": 1,
+              "title": "Country House"
+            }
+          ],
+          "startDate": "1995-08-18"
+        },
+        {
+          "endDate": "1995-09-28",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "You Are Not Alone"
+            }
+          ],
+          "startDate": "1995-09-22"
+        },
+        {
+          "endDate": "1995-10-05",
+          "items": [
+            {
+              "artist": "Shaggy",
+              "rank": 1,
+              "title": "Boombastic"
+            }
+          ],
+          "startDate": "1995-09-29"
+        },
+        {
+          "endDate": "1995-10-12",
+          "items": [
+            {
+              "artist": "Simply Red",
+              "rank": 1,
+              "title": "Fairground"
+            }
+          ],
+          "startDate": "1995-10-06"
+        },
+        {
+          "endDate": "1995-10-26",
+          "items": [
+            {
+              "artist": "Shaggy",
+              "rank": 1,
+              "title": "Boombastic"
+            }
+          ],
+          "startDate": "1995-10-13"
+        },
+        {
+          "endDate": "1995-11-02",
+          "items": [
+            {
+              "artist": "Def Leppard",
+              "rank": 1,
+              "title": "When Love & Hate Collide"
+            }
+          ],
+          "startDate": "1995-10-27"
+        },
+        {
+          "endDate": "1995-11-30",
+          "items": [
+            {
+              "artist": "Coolio",
+              "rank": 1,
+              "title": "Gangsta's Paradise"
+            }
+          ],
+          "startDate": "1995-11-03"
+        },
+        {
+          "endDate": "1995-12-31",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "Father and Son"
+            }
+          ],
+          "startDate": "1995-12-01"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "a5bb84c2c7c1643213a907d564549d3df5008d3edd08ee9c8adcf612a6e30aea",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1995
+}

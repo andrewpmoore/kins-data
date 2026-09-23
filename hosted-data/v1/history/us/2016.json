@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2016-01-22",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Hello"
+            }
+          ],
+          "startDate": "2016-01-01"
+        },
+        {
+          "endDate": "2016-02-12",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Sorry"
+            }
+          ],
+          "startDate": "2016-01-23"
+        },
+        {
+          "endDate": "2016-02-19",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Love Yourself\"♪"
+            }
+          ],
+          "startDate": "2016-02-13"
+        },
+        {
+          "endDate": "2016-05-06",
+          "items": [
+            {
+              "artist": "Rihanna featuring Drake",
+              "rank": 1,
+              "title": "Work"
+            }
+          ],
+          "startDate": "2016-03-05"
+        },
+        {
+          "endDate": "2016-05-20",
+          "items": [
+            {
+              "artist": "Desiigner",
+              "rank": 1,
+              "title": "Panda"
+            }
+          ],
+          "startDate": "2016-05-07"
+        },
+        {
+          "endDate": "2016-05-27",
+          "items": [
+            {
+              "artist": "Drake featuring WizKid and Kyla",
+              "rank": 1,
+              "title": "One Dance"
+            }
+          ],
+          "startDate": "2016-05-21"
+        },
+        {
+          "endDate": "2016-07-29",
+          "items": [
+            {
+              "artist": "Drake featuring WizKid and Kyla",
+              "rank": 1,
+              "title": "One Dance"
+            }
+          ],
+          "startDate": "2016-06-04"
+        },
+        {
+          "endDate": "2016-09-02",
+          "items": [
+            {
+              "artist": "Sia featuring Sean Paul",
+              "rank": 1,
+              "title": "Cheap Thrills"
+            }
+          ],
+          "startDate": "2016-08-06"
+        },
+        {
+          "endDate": "2016-11-25",
+          "items": [
+            {
+              "artist": "The Chainsmokers featuring Halsey",
+              "rank": 1,
+              "title": "Closer"
+            }
+          ],
+          "startDate": "2016-09-03"
+        },
+        {
+          "endDate": "2016-12-31",
+          "items": [
+            {
+              "artist": "Rae Sremmurd featuring Gucci Mane",
+              "rank": 1,
+              "title": "Black Beatles"
+            }
+          ],
+          "startDate": "2016-11-26"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "fa669d3c2469edebd91c502d7f3a01c9fb6eca61c176e85f3aa69d6b4ceb4a14",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2016
+}

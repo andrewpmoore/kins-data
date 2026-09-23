@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1981-01-09",
+          "items": [
+            {
+              "artist": "Midnight Oil",
+              "rank": 1,
+              "title": "Species Deceases"
+            }
+          ],
+          "startDate": "1981-01-01"
+        },
+        {
+          "endDate": "1981-01-12",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Do You Really Want to Hurt Me"
+            }
+          ],
+          "startDate": "1981-01-10"
+        },
+        {
+          "endDate": "1981-01-16",
+          "items": [
+            {
+              "artist": "Midnight Oil",
+              "rank": 1,
+              "title": "Species Deceases"
+            }
+          ],
+          "startDate": "1981-01-13"
+        },
+        {
+          "endDate": "1981-01-19",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Do You Really Want to Hurt Me"
+            }
+          ],
+          "startDate": "1981-01-17"
+        },
+        {
+          "endDate": "1981-01-23",
+          "items": [
+            {
+              "artist": "Midnight Oil",
+              "rank": 1,
+              "title": "Species Deceases"
+            }
+          ],
+          "startDate": "1981-01-20"
+        },
+        {
+          "endDate": "1981-01-26",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Do You Really Want to Hurt Me"
+            }
+          ],
+          "startDate": "1981-01-24"
+        },
+        {
+          "endDate": "1981-01-27",
+          "items": [
+            {
+              "artist": "Midnight Oil",
+              "rank": 1,
+              "title": "Species Deceases"
+            }
+          ],
+          "startDate": "1981-01-27"
+        },
+        {
+          "endDate": "1981-01-28",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Like a Virgin"
+            }
+          ],
+          "startDate": "1981-01-28"
+        },
+        {
+          "endDate": "1981-01-30",
+          "items": [
+            {
+              "artist": "The B-52's",
+              "rank": 1,
+              "title": "Love Shack"
+            }
+          ],
+          "startDate": "1981-01-29"
+        },
+        {
+          "endDate": "1981-02-02",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Do You Really Want to Hurt Me"
+            }
+          ],
+          "startDate": "1981-01-31"
+        },
+        {
+          "endDate": "1981-02-04",
+          "items": [
+            {
+              "artist": "Midnight Oil",
+              "rank": 1,
+              "title": "Species Deceases"
+            }
+          ],
+          "startDate": "1981-02-03"
+        },
+        {
+          "endDate": "1981-02-05",
+          "items": [
+            {
+              "artist": "The B-52's",
+              "rank": 1,
+              "title": "Love Shack"
+            }
+          ],
+          "startDate": "1981-02-05"
+        },
+        {
+          "endDate": "1981-02-07",
+          "items": [
+            {
+              "artist": "The Beach Boys",
+              "rank": 1,
+              "title": "Kokomo"
+            }
+          ],
+          "startDate": "1981-02-06"
+        },
+        {
+          "endDate": "1981-02-11",
+          "items": [
+            {
+              "artist": "Rick Astley",
+              "rank": 1,
+              "title": "Never Gonna Give You Up"
+            }
+          ],
+          "startDate": "1981-02-08"
+        },
+        {
+          "endDate": "1981-02-12",
+          "items": [
+            {
+              "artist": "The B-52's",
+              "rank": 1,
+              "title": "Love Shack"
+            }
+          ],
+          "startDate": "1981-02-12"
+        },
+        {
+          "endDate": "1981-02-15",
+          "items": [
+            {
+              "artist": "The Beach Boys",
+              "rank": 1,
+              "title": "Kokomo"
+            }
+          ],
+          "startDate": "1981-02-13"
+        },
+        {
+          "endDate": "1981-02-22",
+          "items": [
+            {
+              "artist": "Joe Dolce Music Theatre",
+              "rank": 1,
+              "title": "Shaddap You Face"
+            }
+          ],
+          "startDate": "1981-02-16"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2012-05-30",
+        "provider": "Wikipedia contributors",
+        "territory": "AU",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Australia"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "e6fb49731f70eea05bde0e34fc939327aa29c28ed3edac51dda20fb605fb3144",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 1981
+}

@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1991-01-16",
+          "items": [
+            {
+              "artist": "Zig and Zag",
+              "rank": 1,
+              "title": "The Christmas No 1"
+            }
+          ],
+          "startDate": "1991-01-01"
+        },
+        {
+          "endDate": "1991-01-23",
+          "items": [
+            {
+              "artist": "Enigma",
+              "rank": 1,
+              "title": "Sadeness"
+            }
+          ],
+          "startDate": "1991-01-17"
+        },
+        {
+          "endDate": "1991-03-27",
+          "items": [
+            {
+              "artist": "The Simpsons",
+              "rank": 1,
+              "title": "Do the Bartman"
+            }
+          ],
+          "startDate": "1991-01-24"
+        },
+        {
+          "endDate": "1991-04-03",
+          "items": [
+            {
+              "artist": "Rod Stewart",
+              "rank": 1,
+              "title": "Rhythm of My Heart"
+            }
+          ],
+          "startDate": "1991-03-28"
+        },
+        {
+          "endDate": "1991-05-01",
+          "items": [
+            {
+              "artist": "The Simpsons",
+              "rank": 1,
+              "title": "Deep, Deep Trouble"
+            }
+          ],
+          "startDate": "1991-04-04"
+        },
+        {
+          "endDate": "1991-06-12",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "The Shoop Shoop Song"
+            }
+          ],
+          "startDate": "1991-05-02"
+        },
+        {
+          "endDate": "1991-06-26",
+          "items": [
+            {
+              "artist": "The Doors",
+              "rank": 1,
+              "title": "Light My Fire"
+            }
+          ],
+          "startDate": "1991-06-13"
+        },
+        {
+          "endDate": "1991-07-03",
+          "items": [
+            {
+              "artist": "Jason Donovan",
+              "rank": 1,
+              "title": "Any Dream Will Do"
+            }
+          ],
+          "startDate": "1991-06-27"
+        },
+        {
+          "endDate": "1991-09-11",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "I Do It for You"
+            }
+          ],
+          "startDate": "1991-07-04"
+        },
+        {
+          "endDate": "1991-09-18",
+          "items": [
+            {
+              "artist": "The Saw Doctors",
+              "rank": 1,
+              "title": "Hay Wrap"
+            }
+          ],
+          "startDate": "1991-09-12"
+        },
+        {
+          "endDate": "1991-10-02",
+          "items": [
+            {
+              "artist": "Guns N' Roses",
+              "rank": 1,
+              "title": "Don't Cry"
+            }
+          ],
+          "startDate": "1991-09-19"
+        },
+        {
+          "endDate": "1991-10-09",
+          "items": [
+            {
+              "artist": "Right Said Fred",
+              "rank": 1,
+              "title": "I'm Too Sexy"
+            }
+          ],
+          "startDate": "1991-10-03"
+        },
+        {
+          "endDate": "1991-10-16",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "I Do It for You"
+            }
+          ],
+          "startDate": "1991-10-10"
+        },
+        {
+          "endDate": "1991-10-23",
+          "items": [
+            {
+              "artist": "Monty Python",
+              "rank": 1,
+              "title": "Always Look on the Bright Side of Life"
+            }
+          ],
+          "startDate": "1991-10-17"
+        },
+        {
+          "endDate": "1991-11-13",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "The Fly"
+            }
+          ],
+          "startDate": "1991-10-24"
+        },
+        {
+          "endDate": "1991-11-27",
+          "items": [
+            {
+              "artist": "Zig and Zag",
+              "rank": 1,
+              "title": "Zigzagging"
+            }
+          ],
+          "startDate": "1991-11-14"
+        },
+        {
+          "endDate": "1991-12-04",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Black or White"
+            }
+          ],
+          "startDate": "1991-11-28"
+        },
+        {
+          "endDate": "1991-12-11",
+          "items": [
+            {
+              "artist": "Zig and Zag",
+              "rank": 1,
+              "title": "Zigzagging"
+            }
+          ],
+          "startDate": "1991-12-05"
+        },
+        {
+          "endDate": "1991-12-18",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Mysterious Ways"
+            }
+          ],
+          "startDate": "1991-12-12"
+        },
+        {
+          "endDate": "1991-12-31",
+          "items": [
+            {
+              "artist": "Queen",
+              "rank": 1,
+              "title": "Bohemian Rhapsody\"/\"These Are the Days of Our Lives"
+            }
+          ],
+          "startDate": "1991-12-19"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "b739a551ed9e9dbfb47eb89737d912a2e8b78883dbd9452c71308b0733099150",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1991
+}

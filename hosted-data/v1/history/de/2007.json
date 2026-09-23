@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2007-02-08",
+          "items": [
+            {
+              "artist": "Nelly Furtado",
+              "rank": 1,
+              "title": "All Good Things"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-02-15",
+          "items": [
+            {
+              "artist": "Tokio Hotel",
+              "rank": 1,
+              "title": "Übers Ende der Welt"
+            }
+          ],
+          "startDate": "2007-02-09"
+        },
+        {
+          "endDate": "2007-02-22",
+          "items": [
+            {
+              "artist": "Herbert Grönemeyer",
+              "rank": 1,
+              "title": "Stück vom Himmel"
+            }
+          ],
+          "startDate": "2007-02-16"
+        },
+        {
+          "endDate": "2007-03-01",
+          "items": [
+            {
+              "artist": "Höhner",
+              "rank": 1,
+              "title": "Wenn Nicht Jetzt, Wann Dann?"
+            }
+          ],
+          "startDate": "2007-02-23"
+        },
+        {
+          "endDate": "2007-05-03",
+          "items": [
+            {
+              "artist": "DJ Ötzi featuring Nik P.",
+              "rank": 1,
+              "title": "Ein Stern \"†"
+            }
+          ],
+          "startDate": "2007-03-02"
+        },
+        {
+          "endDate": "2007-05-10",
+          "items": [
+            {
+              "artist": "Beyoncé and Shakira",
+              "rank": 1,
+              "title": "Beautiful Liar"
+            }
+          ],
+          "startDate": "2007-05-04"
+        },
+        {
+          "endDate": "2007-05-24",
+          "items": [
+            {
+              "artist": "DJ Ötzi featuring Nik P.",
+              "rank": 1,
+              "title": "Ein Stern \"†"
+            }
+          ],
+          "startDate": "2007-05-11"
+        },
+        {
+          "endDate": "2007-06-07",
+          "items": [
+            {
+              "artist": "Mark Medlock",
+              "rank": 1,
+              "title": "Now or Never"
+            }
+          ],
+          "startDate": "2007-05-25"
+        },
+        {
+          "endDate": "2007-07-12",
+          "items": [
+            {
+              "artist": "Rihanna featuring Jay-Z",
+              "rank": 1,
+              "title": "Umbrella"
+            }
+          ],
+          "startDate": "2007-06-08"
+        },
+        {
+          "endDate": "2007-07-19",
+          "items": [
+            {
+              "artist": "Mark Medlock featuring Dieter Bohlen",
+              "rank": 1,
+              "title": "You Can Get It"
+            }
+          ],
+          "startDate": "2007-07-13"
+        },
+        {
+          "endDate": "2007-07-26",
+          "items": [
+            {
+              "artist": "Monrose",
+              "rank": 1,
+              "title": "Hot Summer"
+            }
+          ],
+          "startDate": "2007-07-20"
+        },
+        {
+          "endDate": "2007-08-16",
+          "items": [
+            {
+              "artist": "Mark Medlock featuring Dieter Bohlen",
+              "rank": 1,
+              "title": "You Can Get It"
+            }
+          ],
+          "startDate": "2007-07-27"
+        },
+        {
+          "endDate": "2007-08-23",
+          "items": [
+            {
+              "artist": "Azad featuring Adel Tawil",
+              "rank": 1,
+              "title": "Prison Break Anthem"
+            }
+          ],
+          "startDate": "2007-08-17"
+        },
+        {
+          "endDate": "2007-10-04",
+          "items": [
+            {
+              "artist": "Culcha Candela",
+              "rank": 1,
+              "title": "Hamma!"
+            }
+          ],
+          "startDate": "2007-08-24"
+        },
+        {
+          "endDate": "2007-10-18",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Don't Stop the Music"
+            }
+          ],
+          "startDate": "2007-10-05"
+        },
+        {
+          "endDate": "2007-10-25",
+          "items": [
+            {
+              "artist": "Die Ärzte",
+              "rank": 1,
+              "title": "Junge"
+            }
+          ],
+          "startDate": "2007-10-19"
+        },
+        {
+          "endDate": "2007-11-15",
+          "items": [
+            {
+              "artist": "Plain White T's",
+              "rank": 1,
+              "title": "Hey There Delilah"
+            }
+          ],
+          "startDate": "2007-10-26"
+        },
+        {
+          "endDate": "2007-11-22",
+          "items": [
+            {
+              "artist": "Alex C. featuring Y-ass",
+              "rank": 1,
+              "title": "Du hast den schönsten Arsch der Welt"
+            }
+          ],
+          "startDate": "2007-11-16"
+        },
+        {
+          "endDate": "2007-12-27",
+          "items": [
+            {
+              "artist": "Timbaland featuring OneRepublic",
+              "rank": 1,
+              "title": "Apologize"
+            }
+          ],
+          "startDate": "2007-11-23"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "2007-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f0ea165a27e3d381819d1ed851d60ac09618d6113e0bc167ae5bf1ecd23f4e25",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2007
+}

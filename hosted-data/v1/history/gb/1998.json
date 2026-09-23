@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1998-02-15",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "My Heart Will Go On"
+            }
+          ],
+          "startDate": "1998-02-09"
+        },
+        {
+          "endDate": "1998-02-22",
+          "items": [
+            {
+              "artist": "Savage Garden",
+              "rank": 1,
+              "title": "Truly Madly Deeply"
+            }
+          ],
+          "startDate": "1998-02-16"
+        },
+        {
+          "endDate": "1998-03-08",
+          "items": [
+            {
+              "artist": "LeAnn Rimes",
+              "rank": 1,
+              "title": "How Do I Live"
+            }
+          ],
+          "startDate": "1998-03-02"
+        },
+        {
+          "endDate": "1998-03-15",
+          "items": [
+            {
+              "artist": "Run-DMC vs. Jason Nevins",
+              "rank": 1,
+              "title": "It's Like That"
+            }
+          ],
+          "startDate": "1998-03-09"
+        },
+        {
+          "endDate": "1998-06-05",
+          "items": [
+            {
+              "artist": "The Tamperer featuring Maya",
+              "rank": 1,
+              "title": "Feel It"
+            }
+          ],
+          "startDate": "1998-05-30"
+        },
+        {
+          "endDate": "1998-07-26",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Viva Forever"
+            }
+          ],
+          "startDate": "1998-07-20"
+        },
+        {
+          "endDate": "1998-08-09",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "No Matter What"
+            }
+          ],
+          "startDate": "1998-08-03"
+        },
+        {
+          "endDate": "1998-08-16",
+          "items": [
+            {
+              "artist": "Stardust",
+              "rank": 1,
+              "title": "Music Sounds Better with You"
+            }
+          ],
+          "startDate": "1998-08-10"
+        },
+        {
+          "endDate": "1998-10-25",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1998-10-19"
+        },
+        {
+          "endDate": "1998-11-15",
+          "items": [
+            {
+              "artist": "Steps",
+              "rank": 1,
+              "title": "Heartbeat\" / \"Tragedy"
+            }
+          ],
+          "startDate": "1998-11-09"
+        },
+        {
+          "endDate": "1998-12-06",
+          "items": [
+            {
+              "artist": "Bryan Adams ft. Melanie C",
+              "rank": 1,
+              "title": "When You're Gone"
+            }
+          ],
+          "startDate": "1998-11-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "235330e94650af12aa7d33a5f14374ca81ec290cbdba85d6f8017be7561fcb47",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1998
+}

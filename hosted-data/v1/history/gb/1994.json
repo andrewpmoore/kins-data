@@ -1,0 +1,88 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1994-05-10",
+          "items": [
+            {
+              "artist": "Wet Wet Wet",
+              "rank": 1,
+              "title": "Love Is All Around"
+            }
+          ],
+          "startDate": "1994-05-04"
+        },
+        {
+          "endDate": "1994-06-12",
+          "items": [
+            {
+              "artist": "All-4-One",
+              "rank": 1,
+              "title": "I Swear"
+            }
+          ],
+          "startDate": "1994-06-06"
+        },
+        {
+          "endDate": "1994-09-18",
+          "items": [
+            {
+              "artist": "Whigfield",
+              "rank": 1,
+              "title": "Saturday Night"
+            }
+          ],
+          "startDate": "1994-09-12"
+        },
+        {
+          "endDate": "1994-09-25",
+          "items": [
+            {
+              "artist": "Pato Banton",
+              "rank": 1,
+              "title": "Baby Come Back"
+            }
+          ],
+          "startDate": "1994-09-19"
+        },
+        {
+          "endDate": "1994-10-16",
+          "items": [
+            {
+              "artist": "Céline Dion",
+              "rank": 1,
+              "title": "Think Twice"
+            }
+          ],
+          "startDate": "1994-10-10"
+        },
+        {
+          "endDate": "1994-12-18",
+          "items": [
+            {
+              "artist": "Rednex",
+              "rank": 1,
+              "title": "Cotton Eye Joe"
+            }
+          ],
+          "startDate": "1994-12-12"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "514b8a5cc32adc27dc26dfa614d9d0bd3a3cda1067d29b75310f3212bba1d422",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1994
+}

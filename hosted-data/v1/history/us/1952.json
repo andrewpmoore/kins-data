@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1952-03-14",
+          "items": [
+            {
+              "artist": "Johnnie Ray and The Four Lads",
+              "rank": 1,
+              "title": "Cry"
+            }
+          ],
+          "startDate": "1952-01-01"
+        },
+        {
+          "endDate": "1952-05-16",
+          "items": [
+            {
+              "artist": "Kay Starr",
+              "rank": 1,
+              "title": "Wheel Of Fortune"
+            }
+          ],
+          "startDate": "1952-03-15"
+        },
+        {
+          "endDate": "1952-06-20",
+          "items": [
+            {
+              "artist": "Leroy Anderson",
+              "rank": 1,
+              "title": "Blue Tango\"♪"
+            }
+          ],
+          "startDate": "1952-05-17"
+        },
+        {
+          "endDate": "1952-07-04",
+          "items": [
+            {
+              "artist": "Al Martino",
+              "rank": 1,
+              "title": "Here In My Heart"
+            }
+          ],
+          "startDate": "1952-06-21"
+        },
+        {
+          "endDate": "1952-07-11",
+          "items": [
+            {
+              "artist": "Percy Faith",
+              "rank": 1,
+              "title": "Delicado"
+            }
+          ],
+          "startDate": "1952-07-05"
+        },
+        {
+          "endDate": "1952-09-12",
+          "items": [
+            {
+              "artist": "Vera Lynn",
+              "rank": 1,
+              "title": "Auf Wiederseh'n Sweetheart"
+            }
+          ],
+          "startDate": "1952-07-12"
+        },
+        {
+          "endDate": "1952-10-17",
+          "items": [
+            {
+              "artist": "Jo Stafford",
+              "rank": 1,
+              "title": "You Belong To Me"
+            }
+          ],
+          "startDate": "1952-09-13"
+        },
+        {
+          "endDate": "1952-11-21",
+          "items": [
+            {
+              "artist": "Patti Page",
+              "rank": 1,
+              "title": "I Went To Your Wedding"
+            }
+          ],
+          "startDate": "1952-10-18"
+        },
+        {
+          "endDate": "1952-11-28",
+          "items": [
+            {
+              "artist": "Johnny Standley",
+              "rank": 1,
+              "title": "It's In The Book"
+            }
+          ],
+          "startDate": "1952-11-22"
+        },
+        {
+          "endDate": "1952-12-26",
+          "items": [
+            {
+              "artist": "Joni James",
+              "rank": 1,
+              "title": "Why Don't You Believe Me"
+            }
+          ],
+          "startDate": "1952-11-29"
+        },
+        {
+          "endDate": "1952-12-31",
+          "items": [
+            {
+              "artist": "Jimmy Boyd",
+              "rank": 1,
+              "title": "I Saw Mommy Kissing Santa Claus"
+            }
+          ],
+          "startDate": "1952-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "256cfe4a0356cabe93321b0238cf2ec792b07581ff90a0c9669f9f25c1ecbab5",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1952
+}

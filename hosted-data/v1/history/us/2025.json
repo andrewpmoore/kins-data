@@ -1,0 +1,121 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2025-01-10",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2025-01-01"
+        },
+        {
+          "endDate": "2025-02-07",
+          "items": [
+            {
+              "artist": "Lady Gaga and Bruno Mars",
+              "rank": 1,
+              "title": "Die with a Smile\" ♪"
+            }
+          ],
+          "startDate": "2025-01-11"
+        },
+        {
+          "endDate": "2025-05-30",
+          "items": [
+            {
+              "artist": "Kendrick Lamar and SZA",
+              "rank": 1,
+              "title": "Luther"
+            }
+          ],
+          "startDate": "2025-03-01"
+        },
+        {
+          "endDate": "2025-06-06",
+          "items": [
+            {
+              "artist": "Morgan Wallen featuring Tate McRae",
+              "rank": 1,
+              "title": "What I Want"
+            }
+          ],
+          "startDate": "2025-05-31"
+        },
+        {
+          "endDate": "2025-06-20",
+          "items": [
+            {
+              "artist": "Alex Warren",
+              "rank": 1,
+              "title": "Ordinary"
+            }
+          ],
+          "startDate": "2025-06-07"
+        },
+        {
+          "endDate": "2025-08-15",
+          "items": [
+            {
+              "artist": "Alex Warren",
+              "rank": 1,
+              "title": "Ordinary"
+            }
+          ],
+          "startDate": "2025-06-28"
+        },
+        {
+          "endDate": "2025-10-10",
+          "items": [
+            {
+              "artist": "Huntrix: Ejae, Audrey Nuna and Rei Ami",
+              "rank": 1,
+              "title": "Golden"
+            }
+          ],
+          "startDate": "2025-08-16"
+        },
+        {
+          "endDate": "2025-12-12",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "The Fate of Ophelia"
+            }
+          ],
+          "startDate": "2025-10-18"
+        },
+        {
+          "endDate": "2025-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2025-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f3e680861c0908ddb2b7c069655ed96ec43f6b201bd4fa1e3e4337880cc6be6d",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2025
+}

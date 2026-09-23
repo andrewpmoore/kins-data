@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2000-01-14",
+          "items": [
+            {
+              "artist": "Santana featuring Rob Thomas",
+              "rank": 1,
+              "title": "Smooth"
+            }
+          ],
+          "startDate": "2000-01-01"
+        },
+        {
+          "endDate": "2000-01-28",
+          "items": [
+            {
+              "artist": "Christina Aguilera",
+              "rank": 1,
+              "title": "What a Girl Wants"
+            }
+          ],
+          "startDate": "2000-01-15"
+        },
+        {
+          "endDate": "2000-02-18",
+          "items": [
+            {
+              "artist": "Savage Garden",
+              "rank": 1,
+              "title": "I Knew I Loved You"
+            }
+          ],
+          "startDate": "2000-01-29"
+        },
+        {
+          "endDate": "2000-03-17",
+          "items": [
+            {
+              "artist": "Lonestar",
+              "rank": 1,
+              "title": "Amazed"
+            }
+          ],
+          "startDate": "2000-03-04"
+        },
+        {
+          "endDate": "2000-04-07",
+          "items": [
+            {
+              "artist": "Destiny's Child",
+              "rank": 1,
+              "title": "Say My Name"
+            }
+          ],
+          "startDate": "2000-03-18"
+        },
+        {
+          "endDate": "2000-06-16",
+          "items": [
+            {
+              "artist": "Santana featuring The Product G&B",
+              "rank": 1,
+              "title": "Maria Maria"
+            }
+          ],
+          "startDate": "2000-04-08"
+        },
+        {
+          "endDate": "2000-06-23",
+          "items": [
+            {
+              "artist": "Aaliyah",
+              "rank": 1,
+              "title": "Try Again"
+            }
+          ],
+          "startDate": "2000-06-17"
+        },
+        {
+          "endDate": "2000-07-14",
+          "items": [
+            {
+              "artist": "Enrique Iglesias",
+              "rank": 1,
+              "title": "Be With You"
+            }
+          ],
+          "startDate": "2000-06-24"
+        },
+        {
+          "endDate": "2000-07-21",
+          "items": [
+            {
+              "artist": "Vertical Horizon",
+              "rank": 1,
+              "title": "Everything You Want"
+            }
+          ],
+          "startDate": "2000-07-15"
+        },
+        {
+          "endDate": "2000-07-28",
+          "items": [
+            {
+              "artist": "Matchbox Twenty",
+              "rank": 1,
+              "title": "Bent"
+            }
+          ],
+          "startDate": "2000-07-22"
+        },
+        {
+          "endDate": "2000-08-11",
+          "items": [
+            {
+              "artist": "NSYNC",
+              "rank": 1,
+              "title": "It's Gonna Be Me"
+            }
+          ],
+          "startDate": "2000-07-29"
+        },
+        {
+          "endDate": "2000-08-25",
+          "items": [
+            {
+              "artist": "Sisqó",
+              "rank": 1,
+              "title": "Incomplete"
+            }
+          ],
+          "startDate": "2000-08-12"
+        },
+        {
+          "endDate": "2000-09-15",
+          "items": [
+            {
+              "artist": "Janet",
+              "rank": 1,
+              "title": "Doesn't Really Matter"
+            }
+          ],
+          "startDate": "2000-08-26"
+        },
+        {
+          "endDate": "2000-10-13",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Music"
+            }
+          ],
+          "startDate": "2000-09-16"
+        },
+        {
+          "endDate": "2000-11-10",
+          "items": [
+            {
+              "artist": "Christina Aguilera",
+              "rank": 1,
+              "title": "Come On Over Baby"
+            }
+          ],
+          "startDate": "2000-10-14"
+        },
+        {
+          "endDate": "2000-11-17",
+          "items": [
+            {
+              "artist": "Creed",
+              "rank": 1,
+              "title": "With Arms Wide Open"
+            }
+          ],
+          "startDate": "2000-11-11"
+        },
+        {
+          "endDate": "2000-12-31",
+          "items": [
+            {
+              "artist": "Destiny's Child",
+              "rank": 1,
+              "title": "Independent Women"
+            }
+          ],
+          "startDate": "2000-11-18"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5efa522161128b67a83410b8047dc5418b52c374bd377f473126d53ffd4d8621",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2000
+}

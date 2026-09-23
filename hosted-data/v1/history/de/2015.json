@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2015-01-15",
+          "items": [
+            {
+              "artist": "David Guetta featuring Sam Martin",
+              "rank": 1,
+              "title": "Dangerous"
+            }
+          ],
+          "startDate": "2015-01-01"
+        },
+        {
+          "endDate": "2015-01-22",
+          "items": [
+            {
+              "artist": "Kwabs",
+              "rank": 1,
+              "title": "Walk"
+            }
+          ],
+          "startDate": "2015-01-16"
+        },
+        {
+          "endDate": "2015-01-29",
+          "items": [
+            {
+              "artist": "Calvin Harris featuring Ellie Goulding",
+              "rank": 1,
+              "title": "Outside"
+            }
+          ],
+          "startDate": "2015-01-23"
+        },
+        {
+          "endDate": "2015-02-12",
+          "items": [
+            {
+              "artist": "James Newton Howard featuring Jennifer Lawrence",
+              "rank": 1,
+              "title": "The Hanging Tree"
+            }
+          ],
+          "startDate": "2015-01-30"
+        },
+        {
+          "endDate": "2015-02-19",
+          "items": [
+            {
+              "artist": "OMI",
+              "rank": 1,
+              "title": "Cheerleader\" †"
+            }
+          ],
+          "startDate": "2015-02-13"
+        },
+        {
+          "endDate": "2015-04-02",
+          "items": [
+            {
+              "artist": "Ellie Goulding",
+              "rank": 1,
+              "title": "Love Me like You Do"
+            }
+          ],
+          "startDate": "2015-02-20"
+        },
+        {
+          "endDate": "2015-04-16",
+          "items": [
+            {
+              "artist": "Lost Frequencies",
+              "rank": 1,
+              "title": "Are You with Me"
+            }
+          ],
+          "startDate": "2015-04-03"
+        },
+        {
+          "endDate": "2015-05-07",
+          "items": [
+            {
+              "artist": "Wiz Khalifa featuring Charlie Puth",
+              "rank": 1,
+              "title": "See You Again"
+            }
+          ],
+          "startDate": "2015-04-17"
+        },
+        {
+          "endDate": "2015-07-02",
+          "items": [
+            {
+              "artist": "Felix Jaehn featuring Jasmine Thompson",
+              "rank": 1,
+              "title": "Ain't Nobody"
+            }
+          ],
+          "startDate": "2015-05-08"
+        },
+        {
+          "endDate": "2015-07-23",
+          "items": [
+            {
+              "artist": "Cro",
+              "rank": 1,
+              "title": "Bye Bye"
+            }
+          ],
+          "startDate": "2015-07-03"
+        },
+        {
+          "endDate": "2015-08-06",
+          "items": [
+            {
+              "artist": "Lost Frequencies featuring Janieck Devy",
+              "rank": 1,
+              "title": "Reality"
+            }
+          ],
+          "startDate": "2015-07-24"
+        },
+        {
+          "endDate": "2015-08-13",
+          "items": [
+            {
+              "artist": "Robin Schulz featuring Francesco Yates",
+              "rank": 1,
+              "title": "Sugar"
+            }
+          ],
+          "startDate": "2015-08-07"
+        },
+        {
+          "endDate": "2015-08-20",
+          "items": [
+            {
+              "artist": "Sido featuring Andreas Bourani",
+              "rank": 1,
+              "title": "Astronaut"
+            }
+          ],
+          "startDate": "2015-08-14"
+        },
+        {
+          "endDate": "2015-09-03",
+          "items": [
+            {
+              "artist": "Robin Schulz featuring Francesco Yates",
+              "rank": 1,
+              "title": "Sugar"
+            }
+          ],
+          "startDate": "2015-08-21"
+        },
+        {
+          "endDate": "2015-09-10",
+          "items": [
+            {
+              "artist": "Namika",
+              "rank": 1,
+              "title": "Lieblingsmensch"
+            }
+          ],
+          "startDate": "2015-09-04"
+        },
+        {
+          "endDate": "2015-09-17",
+          "items": [
+            {
+              "artist": "Die Ärzte",
+              "rank": 1,
+              "title": "Schrei nach Liebe"
+            }
+          ],
+          "startDate": "2015-09-11"
+        },
+        {
+          "endDate": "2015-10-29",
+          "items": [
+            {
+              "artist": "Sido featuring Andreas Bourani",
+              "rank": 1,
+              "title": "Astronaut"
+            }
+          ],
+          "startDate": "2015-09-18"
+        },
+        {
+          "endDate": "2015-12-31",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Hello"
+            }
+          ],
+          "startDate": "2015-10-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "b6ffb8326ac8782a1b5a25772a11b7b8c70c1865828a1b59f2136fca05f7bb76",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2015
+}

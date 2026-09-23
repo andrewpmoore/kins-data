@@ -1,0 +1,66 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2023-08-31",
+          "items": [
+            {
+              "artist": "Dua Lipa",
+              "rank": 1,
+              "title": "Dance the Night"
+            }
+          ],
+          "startDate": "2023-08-25"
+        },
+        {
+          "endDate": "2023-09-28",
+          "items": [
+            {
+              "artist": "Doja Cat",
+              "rank": 1,
+              "title": "Paint the Town Red"
+            }
+          ],
+          "startDate": "2023-09-22"
+        },
+        {
+          "endDate": "2023-11-30",
+          "items": [
+            {
+              "artist": "Noah Kahan",
+              "rank": 1,
+              "title": "Stick Season"
+            }
+          ],
+          "startDate": "2023-11-24"
+        },
+        {
+          "endDate": "2023-12-28",
+          "items": [
+            {
+              "artist": "Noah Kahan",
+              "rank": 1,
+              "title": "Stick Season"
+            }
+          ],
+          "startDate": "2023-12-15"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "ed4fd45d80d7fc1e0b5efec3fb871408342fe9ebc7189b669d3c911d4768b15a",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2023
+}

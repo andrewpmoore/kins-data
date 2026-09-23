@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2022-01-15",
+          "items": [
+            {
+              "artist": "Swedish House Mafia and The Weeknd",
+              "rank": 1,
+              "title": "Moth to a Flame"
+            }
+          ],
+          "startDate": "2022-01-09"
+        },
+        {
+          "endDate": "2022-02-19",
+          "items": [
+            {
+              "artist": "Stromae",
+              "rank": 1,
+              "title": "L'enfer\" ◁"
+            }
+          ],
+          "startDate": "2022-02-13"
+        },
+        {
+          "endDate": "2022-05-28",
+          "items": [
+            {
+              "artist": "Camila Cabello featuring Ed Sheeran",
+              "rank": 1,
+              "title": "Bam Bam"
+            }
+          ],
+          "startDate": "2022-05-22"
+        },
+        {
+          "endDate": "2022-06-18",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "As It Was"
+            }
+          ],
+          "startDate": "2022-06-12"
+        },
+        {
+          "endDate": "2022-07-02",
+          "items": [
+            {
+              "artist": "Rema",
+              "rank": 1,
+              "title": "Calm Down"
+            }
+          ],
+          "startDate": "2022-06-26"
+        },
+        {
+          "endDate": "2022-08-20",
+          "items": [
+            {
+              "artist": "Rema",
+              "rank": 1,
+              "title": "Calm Down"
+            }
+          ],
+          "startDate": "2022-07-24"
+        },
+        {
+          "endDate": "2022-09-03",
+          "items": [
+            {
+              "artist": "Rema",
+              "rank": 1,
+              "title": "Calm Down"
+            }
+          ],
+          "startDate": "2022-08-28"
+        },
+        {
+          "endDate": "2022-09-17",
+          "items": [
+            {
+              "artist": "Rema",
+              "rank": 1,
+              "title": "Calm Down"
+            }
+          ],
+          "startDate": "2022-09-11"
+        },
+        {
+          "endDate": "2022-10-22",
+          "items": [
+            {
+              "artist": "Vianney and Ed Sheeran",
+              "rank": 1,
+              "title": "Call on Me"
+            }
+          ],
+          "startDate": "2022-10-16"
+        },
+        {
+          "endDate": "2022-11-05",
+          "items": [
+            {
+              "artist": "Star Academy",
+              "rank": 1,
+              "title": "Ne partez pas sans moi\" ◁"
+            }
+          ],
+          "startDate": "2022-10-30"
+        },
+        {
+          "endDate": "2022-12-31",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Lift Me Up"
+            }
+          ],
+          "startDate": "2022-12-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-01",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "e5672b2d802e643b8cb2d9720d67fd104d388652e8409737dfbe67dc9a2ed396",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2022
+}

@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1998-01-11",
+          "items": [
+            {
+              "artist": "Chumbawamba",
+              "rank": 1,
+              "title": "Tubthumping"
+            }
+          ],
+          "startDate": "1998-01-01"
+        },
+        {
+          "endDate": "1998-01-18",
+          "items": [
+            {
+              "artist": "Lisa Loeb",
+              "rank": 1,
+              "title": "I Do"
+            }
+          ],
+          "startDate": "1998-01-12"
+        },
+        {
+          "endDate": "1998-01-25",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "Back to You"
+            }
+          ],
+          "startDate": "1998-01-19"
+        },
+        {
+          "endDate": "1998-02-08",
+          "items": [
+            {
+              "artist": "Matchbox Twenty",
+              "rank": 1,
+              "title": "3 AM"
+            }
+          ],
+          "startDate": "1998-01-26"
+        },
+        {
+          "endDate": "1998-02-22",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "Back to You"
+            }
+          ],
+          "startDate": "1998-02-09"
+        },
+        {
+          "endDate": "1998-03-01",
+          "items": [
+            {
+              "artist": "Savage Garden",
+              "rank": 1,
+              "title": "Truly Madly Deeply"
+            }
+          ],
+          "startDate": "1998-02-23"
+        },
+        {
+          "endDate": "1998-04-12",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "My Heart Will Go On"
+            }
+          ],
+          "startDate": "1998-03-02"
+        },
+        {
+          "endDate": "1998-06-14",
+          "items": [
+            {
+              "artist": "Natalie Imbruglia",
+              "rank": 1,
+              "title": "Torn\"†"
+            }
+          ],
+          "startDate": "1998-04-13"
+        },
+        {
+          "endDate": "1998-06-21",
+          "items": [
+            {
+              "artist": "Fastball",
+              "rank": 1,
+              "title": "The Way"
+            }
+          ],
+          "startDate": "1998-06-15"
+        },
+        {
+          "endDate": "1998-07-12",
+          "items": [
+            {
+              "artist": "Natalie Imbruglia",
+              "rank": 1,
+              "title": "Torn\"†"
+            }
+          ],
+          "startDate": "1998-06-22"
+        },
+        {
+          "endDate": "1998-08-16",
+          "items": [
+            {
+              "artist": "Goo Goo Dolls",
+              "rank": 1,
+              "title": "Iris"
+            }
+          ],
+          "startDate": "1998-07-13"
+        },
+        {
+          "endDate": "1998-08-23",
+          "items": [
+            {
+              "artist": "Brandy and Monica",
+              "rank": 1,
+              "title": "The Boy Is Mine"
+            }
+          ],
+          "startDate": "1998-08-17"
+        },
+        {
+          "endDate": "1998-09-13",
+          "items": [
+            {
+              "artist": "Goo Goo Dolls",
+              "rank": 1,
+              "title": "Iris"
+            }
+          ],
+          "startDate": "1998-08-24"
+        },
+        {
+          "endDate": "1998-10-18",
+          "items": [
+            {
+              "artist": "Jennifer Paige",
+              "rank": 1,
+              "title": "Crush"
+            }
+          ],
+          "startDate": "1998-09-14"
+        },
+        {
+          "endDate": "1998-11-01",
+          "items": [
+            {
+              "artist": "Goo Goo Dolls",
+              "rank": 1,
+              "title": "Slide"
+            }
+          ],
+          "startDate": "1998-10-19"
+        },
+        {
+          "endDate": "1998-11-08",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "On a Day Like Today"
+            }
+          ],
+          "startDate": "1998-11-02"
+        },
+        {
+          "endDate": "1998-11-29",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Sweetest Thing"
+            }
+          ],
+          "startDate": "1998-11-09"
+        },
+        {
+          "endDate": "1998-12-31",
+          "items": [
+            {
+              "artist": "Alanis Morissette",
+              "rank": 1,
+              "title": "Thank U"
+            }
+          ],
+          "startDate": "1998-11-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "a3837609379f5608713a7d782f19e98a6bee0c416e62a3b9eb32cb7e612fc9c3",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1998
+}

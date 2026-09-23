@@ -12,7 +12,9 @@
     "US"
   ],
   "endpoints": {
+    "birthdayTwinMonth": "v1/editorial/birthday-twins/{month}.json",
     "byDate": "v1/dates/{yyyy-mm-dd}/{country}.json",
+    "historyYear": "v1/history/{country}/{year}.json",
     "latest": "v1/latest/{country}.json",
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"

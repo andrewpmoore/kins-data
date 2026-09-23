@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1962-01-26",
+          "items": [
+            {
+              "artist": "Gerhard Wendland",
+              "rank": 1,
+              "title": "Tanze mit mir in den Morgen"
+            }
+          ],
+          "startDate": "1962-01-01"
+        },
+        {
+          "endDate": "1962-03-30",
+          "items": [
+            {
+              "artist": "Bob Moore",
+              "rank": 1,
+              "title": "Mexico"
+            }
+          ],
+          "startDate": "1962-01-27"
+        },
+        {
+          "endDate": "1962-05-11",
+          "items": [
+            {
+              "artist": "Conny Froboess",
+              "rank": 1,
+              "title": "Zwei kleine Italiener"
+            }
+          ],
+          "startDate": "1962-03-31"
+        },
+        {
+          "endDate": "1962-07-13",
+          "items": [
+            {
+              "artist": "Mina",
+              "rank": 1,
+              "title": "Heißer Sand"
+            }
+          ],
+          "startDate": "1962-05-12"
+        },
+        {
+          "endDate": "1962-08-31",
+          "items": [
+            {
+              "artist": "Nana Mouskouri",
+              "rank": 1,
+              "title": "Ich schau den weißen Wolken nach"
+            }
+          ],
+          "startDate": "1962-07-14"
+        },
+        {
+          "endDate": "1962-09-14",
+          "items": [
+            {
+              "artist": "Connie Francis",
+              "rank": 1,
+              "title": "Paradiso"
+            }
+          ],
+          "startDate": "1962-09-01"
+        },
+        {
+          "endDate": "1962-09-21",
+          "items": [
+            {
+              "artist": "Peter Kraus",
+              "rank": 1,
+              "title": "Sweety"
+            }
+          ],
+          "startDate": "1962-09-15"
+        },
+        {
+          "endDate": "1962-11-23",
+          "items": [
+            {
+              "artist": "Pat Boone / Rex Gildo",
+              "rank": 1,
+              "title": "Speedy Gonzales"
+            }
+          ],
+          "startDate": "1962-09-22"
+        },
+        {
+          "endDate": "1962-12-28",
+          "items": [
+            {
+              "artist": "Petula Clark",
+              "rank": 1,
+              "title": "Monsieur"
+            }
+          ],
+          "startDate": "1962-11-24"
+        },
+        {
+          "endDate": "1962-12-31",
+          "items": [
+            {
+              "artist": "Freddy Quinn",
+              "rank": 1,
+              "title": "Junge, komm bald wieder"
+            }
+          ],
+          "startDate": "1962-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "a698584cf09fa3266554e74587986090dd1885533200a95dec5e728492a009c1",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1962
+}

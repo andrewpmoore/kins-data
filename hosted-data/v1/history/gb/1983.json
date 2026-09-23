@@ -1,0 +1,55 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1983-03-13",
+          "items": [
+            {
+              "artist": "New Order",
+              "rank": 1,
+              "title": "Blue Monday"
+            }
+          ],
+          "startDate": "1983-03-07"
+        },
+        {
+          "endDate": "1983-09-12",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Karma Chameleon"
+            }
+          ],
+          "startDate": "1983-09-06"
+        },
+        {
+          "endDate": "1983-10-06",
+          "items": [
+            {
+              "artist": "Billy Joel",
+              "rank": 1,
+              "title": "Uptown Girl"
+            }
+          ],
+          "startDate": "1983-09-30"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "a8d4b0c64fd17f88c15d09a8fb2ce2b55ef14c1be38add5c93b26b93b46d5666",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1983
+}

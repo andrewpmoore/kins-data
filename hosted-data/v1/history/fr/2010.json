@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2010-01-29",
+          "items": [
+            {
+              "artist": "Lady Gaga",
+              "rank": 1,
+              "title": "Bad Romance"
+            }
+          ],
+          "startDate": "2010-01-23"
+        },
+        {
+          "endDate": "2010-02-26",
+          "items": [
+            {
+              "artist": "Artists for Haiti",
+              "rank": 1,
+              "title": "We Are the World 25 for Haiti"
+            }
+          ],
+          "startDate": "2010-02-20"
+        },
+        {
+          "endDate": "2010-03-19",
+          "items": [
+            {
+              "artist": "Cœur de pirate and Julien Doré",
+              "rank": 1,
+              "title": "Pour un infidèle"
+            }
+          ],
+          "startDate": "2010-03-13"
+        },
+        {
+          "endDate": "2010-04-16",
+          "items": [
+            {
+              "artist": "Justin Bieber featuring Ludacris",
+              "rank": 1,
+              "title": "Baby"
+            }
+          ],
+          "startDate": "2010-04-10"
+        },
+        {
+          "endDate": "2010-04-30",
+          "items": [
+            {
+              "artist": "Remady",
+              "rank": 1,
+              "title": "No Superstar"
+            }
+          ],
+          "startDate": "2010-04-24"
+        },
+        {
+          "endDate": "2010-06-11",
+          "items": [
+            {
+              "artist": "Train",
+              "rank": 1,
+              "title": "Hey, Soul Sister"
+            }
+          ],
+          "startDate": "2010-06-05"
+        },
+        {
+          "endDate": "2010-07-02",
+          "items": [
+            {
+              "artist": "Zaz",
+              "rank": 1,
+              "title": "Je veux"
+            }
+          ],
+          "startDate": "2010-06-26"
+        },
+        {
+          "endDate": "2010-07-16",
+          "items": [
+            {
+              "artist": "K'naan and Féfé",
+              "rank": 1,
+              "title": "Wavin' Flag"
+            }
+          ],
+          "startDate": "2010-07-10"
+        },
+        {
+          "endDate": "2010-07-30",
+          "items": [
+            {
+              "artist": "Fatal Bazooka",
+              "rank": 1,
+              "title": "Ce matin va être une pure soirée"
+            }
+          ],
+          "startDate": "2010-07-24"
+        },
+        {
+          "endDate": "2010-08-06",
+          "items": [
+            {
+              "artist": "Inna",
+              "rank": 1,
+              "title": "Amazing"
+            }
+          ],
+          "startDate": "2010-07-31"
+        },
+        {
+          "endDate": "2010-08-20",
+          "items": [
+            {
+              "artist": "René la Taupe",
+              "rank": 1,
+              "title": "Mignon Mignon"
+            }
+          ],
+          "startDate": "2010-08-14"
+        },
+        {
+          "endDate": "2010-09-10",
+          "items": [
+            {
+              "artist": "Yolanda Be Cool and DCUP",
+              "rank": 1,
+              "title": "We No Speak Americano"
+            }
+          ],
+          "startDate": "2010-09-04"
+        },
+        {
+          "endDate": "2010-09-24",
+          "items": [
+            {
+              "artist": "Flo Rida featuring David Guetta",
+              "rank": 1,
+              "title": "Club Can't Handle Me"
+            }
+          ],
+          "startDate": "2010-09-18"
+        },
+        {
+          "endDate": "2010-10-15",
+          "items": [
+            {
+              "artist": "Soprano",
+              "rank": 1,
+              "title": "Hiro"
+            }
+          ],
+          "startDate": "2010-10-09"
+        },
+        {
+          "endDate": "2010-11-26",
+          "items": [
+            {
+              "artist": "Black Eyed Peas",
+              "rank": 1,
+              "title": "The Time"
+            }
+          ],
+          "startDate": "2010-11-20"
+        },
+        {
+          "endDate": "2010-12-17",
+          "items": [
+            {
+              "artist": "Rihanna featuring Drake",
+              "rank": 1,
+              "title": "What's My Name?"
+            }
+          ],
+          "startDate": "2010-12-11"
+        },
+        {
+          "endDate": "2010-12-24",
+          "items": [
+            {
+              "artist": "Israel Kamakawiwo'ole",
+              "rank": 1,
+              "title": "Over the Rainbow"
+            }
+          ],
+          "startDate": "2010-12-18"
+        },
+        {
+          "endDate": "2010-12-31",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Firework"
+            }
+          ],
+          "startDate": "2010-12-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-01",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "907186ac22af5c0b28298375843f4542d7e84e423b9c0285a10b85c6a9149bb1",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2010
+}

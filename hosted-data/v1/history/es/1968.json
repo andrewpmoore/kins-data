@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1968-02-18",
+          "items": [
+            {
+              "artist": "Pic-Nic",
+              "rank": 1,
+              "title": "Cállate Niña"
+            }
+          ],
+          "startDate": "1968-01-01"
+        },
+        {
+          "endDate": "1968-02-25",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello, Goodbye"
+            }
+          ],
+          "startDate": "1968-02-19"
+        },
+        {
+          "endDate": "1968-03-10",
+          "items": [
+            {
+              "artist": "Pic-Nic",
+              "rank": 1,
+              "title": "Cállate Niña"
+            }
+          ],
+          "startDate": "1968-02-26"
+        },
+        {
+          "endDate": "1968-03-17",
+          "items": [
+            {
+              "artist": "Miriam Makeba",
+              "rank": 1,
+              "title": "Pata Pata"
+            }
+          ],
+          "startDate": "1968-03-11"
+        },
+        {
+          "endDate": "1968-03-24",
+          "items": [
+            {
+              "artist": "Bar-Kays",
+              "rank": 1,
+              "title": "Soul Finger"
+            }
+          ],
+          "startDate": "1968-03-18"
+        },
+        {
+          "endDate": "1968-04-21",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "I'm Coming Home"
+            }
+          ],
+          "startDate": "1968-03-25"
+        },
+        {
+          "endDate": "1968-05-12",
+          "items": [
+            {
+              "artist": "Massiel",
+              "rank": 1,
+              "title": "La, la, la"
+            }
+          ],
+          "startDate": "1968-04-22"
+        },
+        {
+          "endDate": "1968-06-09",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Congratulations"
+            }
+          ],
+          "startDate": "1968-05-13"
+        },
+        {
+          "endDate": "1968-09-29",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Delilah"
+            }
+          ],
+          "startDate": "1968-06-10"
+        },
+        {
+          "endDate": "1968-11-03",
+          "items": [
+            {
+              "artist": "Los Canarios",
+              "rank": 1,
+              "title": "Get On Your Knees"
+            }
+          ],
+          "startDate": "1968-09-30"
+        },
+        {
+          "endDate": "1968-11-17",
+          "items": [
+            {
+              "artist": "Pop-Tops",
+              "rank": 1,
+              "title": "Oh Lord, Why Lord"
+            }
+          ],
+          "startDate": "1968-11-04"
+        },
+        {
+          "endDate": "1968-12-08",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hey Jude"
+            }
+          ],
+          "startDate": "1968-11-18"
+        },
+        {
+          "endDate": "1968-12-31",
+          "items": [
+            {
+              "artist": "Mary Hopkin",
+              "rank": 1,
+              "title": "Those Were The Days"
+            }
+          ],
+          "startDate": "1968-12-09"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "07097d92e7dc95f75e5ebb7676af8904d9d5606eacac578a98e80df1423aff1d",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1968
+}

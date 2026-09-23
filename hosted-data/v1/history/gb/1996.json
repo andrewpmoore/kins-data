@@ -1,0 +1,176 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1996-01-21",
+          "items": [
+            {
+              "artist": "Babylon Zoo",
+              "rank": 1,
+              "title": "Spaceman"
+            }
+          ],
+          "startDate": "1996-01-15"
+        },
+        {
+          "endDate": "1996-02-18",
+          "items": [
+            {
+              "artist": "Robert Miles",
+              "rank": 1,
+              "title": "Children"
+            }
+          ],
+          "startDate": "1996-02-12"
+        },
+        {
+          "endDate": "1996-02-25",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "Don't Look Back in Anger"
+            }
+          ],
+          "startDate": "1996-02-19"
+        },
+        {
+          "endDate": "1996-03-03",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "How Deep Is Your Love"
+            }
+          ],
+          "startDate": "1996-02-26"
+        },
+        {
+          "endDate": "1996-03-10",
+          "items": [
+            {
+              "artist": "Mark Morrison",
+              "rank": 1,
+              "title": "Return of the Mack"
+            }
+          ],
+          "startDate": "1996-03-04"
+        },
+        {
+          "endDate": "1996-03-31",
+          "items": [
+            {
+              "artist": "Gina G",
+              "rank": 1,
+              "title": "Ooh Aah... Just a Little Bit"
+            }
+          ],
+          "startDate": "1996-03-25"
+        },
+        {
+          "endDate": "1996-06-09",
+          "items": [
+            {
+              "artist": "Fugees",
+              "rank": 1,
+              "title": "Killing Me Softly"
+            }
+          ],
+          "startDate": "1996-06-03"
+        },
+        {
+          "endDate": "1996-07-21",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Wannabe"
+            }
+          ],
+          "startDate": "1996-07-15"
+        },
+        {
+          "endDate": "1996-10-20",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Say You'll Be There"
+            }
+          ],
+          "startDate": "1996-10-14"
+        },
+        {
+          "endDate": "1996-10-27",
+          "items": [
+            {
+              "artist": "Toni Braxton",
+              "rank": 1,
+              "title": "Un-Break My Heart"
+            }
+          ],
+          "startDate": "1996-10-21"
+        },
+        {
+          "endDate": "1996-11-03",
+          "items": [
+            {
+              "artist": "Robson & Jerome",
+              "rank": 1,
+              "title": "What Becomes of the Brokenhearted"
+            }
+          ],
+          "startDate": "1996-10-28"
+        },
+        {
+          "endDate": "1996-11-17",
+          "items": [
+            {
+              "artist": "The Prodigy",
+              "rank": 1,
+              "title": "Breathe"
+            }
+          ],
+          "startDate": "1996-11-11"
+        },
+        {
+          "endDate": "1996-12-15",
+          "items": [
+            {
+              "artist": "Various Artists",
+              "rank": 1,
+              "title": "Knockin' on Heaven's Door"
+            }
+          ],
+          "startDate": "1996-12-09"
+        },
+        {
+          "endDate": "1996-12-22",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "2 Become 1"
+            }
+          ],
+          "startDate": "1996-12-16"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "38a10e7f43a4020e67b93d4cb57eada8e797e3255fa5ea05fa85f7aad6bde22a",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1996
+}

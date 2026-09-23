@@ -1,0 +1,110 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1987-01-17",
+          "items": [
+            {
+              "artist": "Run–D.M.C.",
+              "rank": 1,
+              "title": "Walk This Way"
+            }
+          ],
+          "startDate": "1987-01-01"
+        },
+        {
+          "endDate": "1987-04-18",
+          "items": [
+            {
+              "artist": "Pseudo Echo",
+              "rank": 1,
+              "title": "Funkytown"
+            }
+          ],
+          "startDate": "1987-03-08"
+        },
+        {
+          "endDate": "1987-06-13",
+          "items": [
+            {
+              "artist": "Club Nouveau",
+              "rank": 1,
+              "title": "Lean on Me"
+            }
+          ],
+          "startDate": "1987-05-03"
+        },
+        {
+          "endDate": "1987-10-04",
+          "items": [
+            {
+              "artist": "Los Lobos",
+              "rank": 1,
+              "title": "La Bamba"
+            }
+          ],
+          "startDate": "1987-08-30"
+        },
+        {
+          "endDate": "1987-10-10",
+          "items": [
+            {
+              "artist": "Stars on 45",
+              "rank": 1,
+              "title": "Stars on 45"
+            }
+          ],
+          "startDate": "1987-10-05"
+        },
+        {
+          "endDate": "1987-10-11",
+          "items": [
+            {
+              "artist": "Los Lobos",
+              "rank": 1,
+              "title": "La Bamba"
+            }
+          ],
+          "startDate": "1987-10-11"
+        },
+        {
+          "endDate": "1987-11-22",
+          "items": [
+            {
+              "artist": "Stars on 45",
+              "rank": 1,
+              "title": "Stars on 45"
+            }
+          ],
+          "startDate": "1987-10-12"
+        },
+        {
+          "endDate": "1987-12-31",
+          "items": [
+            {
+              "artist": "George Michael",
+              "rank": 1,
+              "title": "Faith"
+            }
+          ],
+          "startDate": "1987-12-06"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "06b61428492f9cd3ef9f59b63963de46102e91bbc8ad3cc5ebf38b101fa2481a",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1987
+}

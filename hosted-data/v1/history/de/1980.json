@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1980-01-20",
+          "items": [
+            {
+              "artist": "Thom Pace",
+              "rank": 1,
+              "title": "Maybe"
+            }
+          ],
+          "startDate": "1980-01-01"
+        },
+        {
+          "endDate": "1980-02-03",
+          "items": [
+            {
+              "artist": "Goombay Dance Band",
+              "rank": 1,
+              "title": "Sun of Jamaica\" †"
+            }
+          ],
+          "startDate": "1980-01-21"
+        },
+        {
+          "endDate": "1980-02-24",
+          "items": [
+            {
+              "artist": "Pink Floyd",
+              "rank": 1,
+              "title": "Another Brick in the Wall Part II"
+            }
+          ],
+          "startDate": "1980-02-04"
+        },
+        {
+          "endDate": "1980-03-02",
+          "items": [
+            {
+              "artist": "Goombay Dance Band",
+              "rank": 1,
+              "title": "Sun of Jamaica\" †"
+            }
+          ],
+          "startDate": "1980-02-25"
+        },
+        {
+          "endDate": "1980-03-09",
+          "items": [
+            {
+              "artist": "Pink Floyd",
+              "rank": 1,
+              "title": "Another Brick in the Wall Part II"
+            }
+          ],
+          "startDate": "1980-03-03"
+        },
+        {
+          "endDate": "1980-04-13",
+          "items": [
+            {
+              "artist": "Goombay Dance Band",
+              "rank": 1,
+              "title": "Sun of Jamaica\" †"
+            }
+          ],
+          "startDate": "1980-03-10"
+        },
+        {
+          "endDate": "1980-04-20",
+          "items": [
+            {
+              "artist": "Peter Kent",
+              "rank": 1,
+              "title": "It's a Real Good Feeling"
+            }
+          ],
+          "startDate": "1980-04-14"
+        },
+        {
+          "endDate": "1980-04-27",
+          "items": [
+            {
+              "artist": "Goombay Dance Band",
+              "rank": 1,
+              "title": "Sun of Jamaica\" †"
+            }
+          ],
+          "startDate": "1980-04-21"
+        },
+        {
+          "endDate": "1980-05-25",
+          "items": [
+            {
+              "artist": "Earth & Fire",
+              "rank": 1,
+              "title": "Weekend"
+            }
+          ],
+          "startDate": "1980-04-28"
+        },
+        {
+          "endDate": "1980-06-29",
+          "items": [
+            {
+              "artist": "Mike Krüger",
+              "rank": 1,
+              "title": "Der Nippel"
+            }
+          ],
+          "startDate": "1980-05-26"
+        },
+        {
+          "endDate": "1980-09-07",
+          "items": [
+            {
+              "artist": "Lipps Inc.",
+              "rank": 1,
+              "title": "Funkytown"
+            }
+          ],
+          "startDate": "1980-06-30"
+        },
+        {
+          "endDate": "1980-09-21",
+          "items": [
+            {
+              "artist": "Olivia Newton-John & ELO",
+              "rank": 1,
+              "title": "Xanadu"
+            }
+          ],
+          "startDate": "1980-09-08"
+        },
+        {
+          "endDate": "1980-11-02",
+          "items": [
+            {
+              "artist": "Oliver Onions",
+              "rank": 1,
+              "title": "Santa Maria"
+            }
+          ],
+          "startDate": "1980-09-22"
+        },
+        {
+          "endDate": "1980-12-07",
+          "items": [
+            {
+              "artist": "Roland Kaiser",
+              "rank": 1,
+              "title": "Santa Maria"
+            }
+          ],
+          "startDate": "1980-11-03"
+        },
+        {
+          "endDate": "1980-12-21",
+          "items": [
+            {
+              "artist": "Barbra Streisand",
+              "rank": 1,
+              "title": "Woman in Love"
+            }
+          ],
+          "startDate": "1980-12-08"
+        },
+        {
+          "endDate": "1980-12-31",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Super Trouper"
+            }
+          ],
+          "startDate": "1980-12-22"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "2d91b5a3b6ba60806bfb638a979f1a45bbacb3869b0f5c96affddecb5c7353e1",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1980
+}

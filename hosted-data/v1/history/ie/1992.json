@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1992-01-22",
+          "items": [
+            {
+              "artist": "Queen",
+              "rank": 1,
+              "title": "Bohemian Rhapsody\"/\"These Are the Days of Our Lives"
+            }
+          ],
+          "startDate": "1992-01-01"
+        },
+        {
+          "endDate": "1992-01-29",
+          "items": [
+            {
+              "artist": "2 Unlimited",
+              "rank": 1,
+              "title": "Twilight Zone"
+            }
+          ],
+          "startDate": "1992-01-23"
+        },
+        {
+          "endDate": "1992-02-26",
+          "items": [
+            {
+              "artist": "Wet Wet Wet",
+              "rank": 1,
+              "title": "Goodnight Girl"
+            }
+          ],
+          "startDate": "1992-01-30"
+        },
+        {
+          "endDate": "1992-03-04",
+          "items": [
+            {
+              "artist": "Shakespears Sister",
+              "rank": 1,
+              "title": "Stay"
+            }
+          ],
+          "startDate": "1992-02-27"
+        },
+        {
+          "endDate": "1992-03-11",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "One"
+            }
+          ],
+          "startDate": "1992-03-05"
+        },
+        {
+          "endDate": "1992-03-18",
+          "items": [
+            {
+              "artist": "Shakespears Sister",
+              "rank": 1,
+              "title": "Stay"
+            }
+          ],
+          "startDate": "1992-03-12"
+        },
+        {
+          "endDate": "1992-03-25",
+          "items": [
+            {
+              "artist": "Eric Clapton",
+              "rank": 1,
+              "title": "Tears in Heaven"
+            }
+          ],
+          "startDate": "1992-03-19"
+        },
+        {
+          "endDate": "1992-04-01",
+          "items": [
+            {
+              "artist": "Shakespears Sister",
+              "rank": 1,
+              "title": "Stay"
+            }
+          ],
+          "startDate": "1992-03-26"
+        },
+        {
+          "endDate": "1992-04-08",
+          "items": [
+            {
+              "artist": "Eric Clapton",
+              "rank": 1,
+              "title": "Tears In Heaven"
+            }
+          ],
+          "startDate": "1992-04-02"
+        },
+        {
+          "endDate": "1992-04-29",
+          "items": [
+            {
+              "artist": "Shakespears Sister",
+              "rank": 1,
+              "title": "Stay"
+            }
+          ],
+          "startDate": "1992-04-09"
+        },
+        {
+          "endDate": "1992-05-27",
+          "items": [
+            {
+              "artist": "Right Said Fred",
+              "rank": 1,
+              "title": "Deeply Dippy"
+            }
+          ],
+          "startDate": "1992-04-30"
+        },
+        {
+          "endDate": "1992-06-03",
+          "items": [
+            {
+              "artist": "Linda Martin",
+              "rank": 1,
+              "title": "Why Me"
+            }
+          ],
+          "startDate": "1992-05-28"
+        },
+        {
+          "endDate": "1992-06-10",
+          "items": [
+            {
+              "artist": "Guns N' Roses",
+              "rank": 1,
+              "title": "Knockin' on Heaven's Door"
+            }
+          ],
+          "startDate": "1992-06-04"
+        },
+        {
+          "endDate": "1992-06-17",
+          "items": [
+            {
+              "artist": "Kris Kross",
+              "rank": 1,
+              "title": "Jump"
+            }
+          ],
+          "startDate": "1992-06-11"
+        },
+        {
+          "endDate": "1992-07-22",
+          "items": [
+            {
+              "artist": "Erasure",
+              "rank": 1,
+              "title": "Abba-esque"
+            }
+          ],
+          "startDate": "1992-06-18"
+        },
+        {
+          "endDate": "1992-08-12",
+          "items": [
+            {
+              "artist": "Jimmy Nail",
+              "rank": 1,
+              "title": "Ain't No Doubt"
+            }
+          ],
+          "startDate": "1992-07-23"
+        },
+        {
+          "endDate": "1992-10-07",
+          "items": [
+            {
+              "artist": "Snap!",
+              "rank": 1,
+              "title": "Rhythm Is a Dancer"
+            }
+          ],
+          "startDate": "1992-08-13"
+        },
+        {
+          "endDate": "1992-10-14",
+          "items": [
+            {
+              "artist": "The Shamen",
+              "rank": 1,
+              "title": "Ebeneezer Goode"
+            }
+          ],
+          "startDate": "1992-10-08"
+        },
+        {
+          "endDate": "1992-11-11",
+          "items": [
+            {
+              "artist": "Tasmin Archer",
+              "rank": 1,
+              "title": "Sleeping Satellite"
+            }
+          ],
+          "startDate": "1992-10-15"
+        },
+        {
+          "endDate": "1992-12-02",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "End Of The Road"
+            }
+          ],
+          "startDate": "1992-11-12"
+        },
+        {
+          "endDate": "1992-12-31",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You"
+            }
+          ],
+          "startDate": "1992-12-03"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "4347c2382e94f4c9be39a263674fd1689eebcd5100d315de6989ac76c0ca5d07",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1992
+}

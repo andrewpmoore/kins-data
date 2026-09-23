@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2024-01-04",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2024-01-01"
+        },
+        {
+          "endDate": "2024-01-11",
+          "items": [
+            {
+              "artist": "6PM Records featuring Luciano, Hurts and Sira",
+              "rank": 1,
+              "title": "Wonderful Life"
+            }
+          ],
+          "startDate": "2024-01-05"
+        },
+        {
+          "endDate": "2024-01-18",
+          "items": [
+            {
+              "artist": "Luciano",
+              "rank": 1,
+              "title": "Time"
+            }
+          ],
+          "startDate": "2024-01-12"
+        },
+        {
+          "endDate": "2024-02-01",
+          "items": [
+            {
+              "artist": "Bennett",
+              "rank": 1,
+              "title": "Vois sur ton chemin"
+            }
+          ],
+          "startDate": "2024-01-19"
+        },
+        {
+          "endDate": "2024-02-08",
+          "items": [
+            {
+              "artist": "Ski Aggu",
+              "rank": 1,
+              "title": "Zornig"
+            }
+          ],
+          "startDate": "2024-02-02"
+        },
+        {
+          "endDate": "2024-02-15",
+          "items": [
+            {
+              "artist": "Twenty4tim",
+              "rank": 1,
+              "title": "I Don't Care"
+            }
+          ],
+          "startDate": "2024-02-09"
+        },
+        {
+          "endDate": "2024-02-22",
+          "items": [
+            {
+              "artist": "Finch, Katja Krasavice, Luca-Dante Spadafora featuring Niklas Dee",
+              "rank": 1,
+              "title": "One Night Stand"
+            }
+          ],
+          "startDate": "2024-02-16"
+        },
+        {
+          "endDate": "2024-02-29",
+          "items": [
+            {
+              "artist": "Ayliva",
+              "rank": 1,
+              "title": "Lieb mich"
+            }
+          ],
+          "startDate": "2024-02-23"
+        },
+        {
+          "endDate": "2024-04-04",
+          "items": [
+            {
+              "artist": "Benson Boone",
+              "rank": 1,
+              "title": "Beautiful Things"
+            }
+          ],
+          "startDate": "2024-03-01"
+        },
+        {
+          "endDate": "2024-05-02",
+          "items": [
+            {
+              "artist": "Artemas",
+              "rank": 1,
+              "title": "I Like the Way You Kiss Me\" †"
+            }
+          ],
+          "startDate": "2024-04-05"
+        },
+        {
+          "endDate": "2024-05-30",
+          "items": [
+            {
+              "artist": "Ayliva featuring Apache 207",
+              "rank": 1,
+              "title": "Wunder"
+            }
+          ],
+          "startDate": "2024-05-03"
+        },
+        {
+          "endDate": "2024-06-13",
+          "items": [
+            {
+              "artist": "Pashanim",
+              "rank": 1,
+              "title": "Mittelmeer"
+            }
+          ],
+          "startDate": "2024-05-31"
+        },
+        {
+          "endDate": "2024-06-20",
+          "items": [
+            {
+              "artist": "Ayliva featuring Apache 207",
+              "rank": 1,
+              "title": "Wunder"
+            }
+          ],
+          "startDate": "2024-06-14"
+        },
+        {
+          "endDate": "2024-07-18",
+          "items": [
+            {
+              "artist": "Soho Bani featuring Herbert Grönemeyer and Ericson",
+              "rank": 1,
+              "title": "Zeit, dass sich was dreht"
+            }
+          ],
+          "startDate": "2024-06-21"
+        },
+        {
+          "endDate": "2024-08-01",
+          "items": [
+            {
+              "artist": "Ayliva featuring Apache 207",
+              "rank": 1,
+              "title": "Wunder"
+            }
+          ],
+          "startDate": "2024-07-19"
+        },
+        {
+          "endDate": "2024-09-12",
+          "items": [
+            {
+              "artist": "Shirin David",
+              "rank": 1,
+              "title": "Bauch Beine Po"
+            }
+          ],
+          "startDate": "2024-08-02"
+        },
+        {
+          "endDate": "2024-11-28",
+          "items": [
+            {
+              "artist": "Linkin Park",
+              "rank": 1,
+              "title": "The Emptiness Machine"
+            }
+          ],
+          "startDate": "2024-09-13"
+        },
+        {
+          "endDate": "2024-12-19",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2024-11-29"
+        },
+        {
+          "endDate": "2024-12-26",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Last Christmas"
+            }
+          ],
+          "startDate": "2024-12-20"
+        },
+        {
+          "endDate": "2024-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2024-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "57e129e2e8cda1f2ab3ffacb99e61aaa534f008fed6eb8404f8d54d4f4d8b9e5",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2024
+}

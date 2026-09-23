@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1958-01-10",
+          "items": [
+            {
+              "artist": "Harry Belafonte",
+              "rank": 1,
+              "title": "Mary's Boy Child"
+            }
+          ],
+          "startDate": "1958-01-01"
+        },
+        {
+          "endDate": "1958-01-17",
+          "items": [
+            {
+              "artist": "Johnny Otis Show",
+              "rank": 1,
+              "title": "Ma He's Making Eyes at Me\" †"
+            }
+          ],
+          "startDate": "1958-01-11"
+        },
+        {
+          "endDate": "1958-01-31",
+          "items": [
+            {
+              "artist": "Jerry Lee Lewis",
+              "rank": 1,
+              "title": "Great Balls of Fire"
+            }
+          ],
+          "startDate": "1958-01-25"
+        },
+        {
+          "endDate": "1958-02-14",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Jailhouse Rock"
+            }
+          ],
+          "startDate": "1958-02-01"
+        },
+        {
+          "endDate": "1958-02-27",
+          "items": [
+            {
+              "artist": "Michael Holliday",
+              "rank": 1,
+              "title": "The Story of My Life"
+            }
+          ],
+          "startDate": "1958-02-15"
+        },
+        {
+          "endDate": "1958-02-28",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments"
+            }
+          ],
+          "startDate": "1958-02-28"
+        },
+        {
+          "endDate": "1958-04-18",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments\" / \"Catch a Falling Star"
+            }
+          ],
+          "startDate": "1958-03-01"
+        },
+        {
+          "endDate": "1958-05-16",
+          "items": [
+            {
+              "artist": "Marvin Rainwater",
+              "rank": 1,
+              "title": "Whole Lotta Woman"
+            }
+          ],
+          "startDate": "1958-04-19"
+        },
+        {
+          "endDate": "1958-06-27",
+          "items": [
+            {
+              "artist": "Connie Francis",
+              "rank": 1,
+              "title": "Who's Sorry Now"
+            }
+          ],
+          "startDate": "1958-05-17"
+        },
+        {
+          "endDate": "1958-08-29",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream"
+            }
+          ],
+          "startDate": "1958-06-28"
+        },
+        {
+          "endDate": "1958-09-26",
+          "items": [
+            {
+              "artist": "The Kalin Twins",
+              "rank": 1,
+              "title": "When"
+            }
+          ],
+          "startDate": "1958-08-30"
+        },
+        {
+          "endDate": "1958-10-31",
+          "items": [
+            {
+              "artist": "Connie Francis",
+              "rank": 1,
+              "title": "Stupid Cupid\" / \"Carolina Moon"
+            }
+          ],
+          "startDate": "1958-09-27"
+        },
+        {
+          "endDate": "1958-11-21",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Bird Dog\" †"
+            }
+          ],
+          "startDate": "1958-11-01"
+        },
+        {
+          "endDate": "1958-12-12",
+          "items": [
+            {
+              "artist": "Lord Rockingham's XI",
+              "rank": 1,
+              "title": "Hoots Mon"
+            }
+          ],
+          "startDate": "1958-11-22"
+        },
+        {
+          "endDate": "1958-12-31",
+          "items": [
+            {
+              "artist": "Conway Twitty",
+              "rank": 1,
+              "title": "It's Only Make Believe"
+            }
+          ],
+          "startDate": "1958-12-13"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3de9befa180cca3af232d61a92170957248af0cd340d98706bf2254d6577921b",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1958
+}

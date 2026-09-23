@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2008-02-07",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Baby Let's Play House"
+            }
+          ],
+          "startDate": "2008-01-04"
+        },
+        {
+          "endDate": "2008-02-14",
+          "items": [
+            {
+              "artist": "Timbaland presents OneRepublic",
+              "rank": 1,
+              "title": "Apologize"
+            }
+          ],
+          "startDate": "2008-02-08"
+        },
+        {
+          "endDate": "2008-02-21",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Baby Let's Play House"
+            }
+          ],
+          "startDate": "2008-02-15"
+        },
+        {
+          "endDate": "2008-02-28",
+          "items": [
+            {
+              "artist": "Timbaland presents OneRepublic",
+              "rank": 1,
+              "title": "Apologize"
+            }
+          ],
+          "startDate": "2008-02-22"
+        },
+        {
+          "endDate": "2008-03-06",
+          "items": [
+            {
+              "artist": "Cinema 2",
+              "rank": 1,
+              "title": "Estupido"
+            }
+          ],
+          "startDate": "2008-02-29"
+        },
+        {
+          "endDate": "2008-03-13",
+          "items": [
+            {
+              "artist": "Giò Di Tonno and Lola Ponce",
+              "rank": 1,
+              "title": "Colpo di fulmine"
+            }
+          ],
+          "startDate": "2008-03-07"
+        },
+        {
+          "endDate": "2008-04-03",
+          "items": [
+            {
+              "artist": "Vasco Rossi",
+              "rank": 1,
+              "title": "Il mondo che vorrei"
+            }
+          ],
+          "startDate": "2008-03-14"
+        },
+        {
+          "endDate": "2008-04-10",
+          "items": [
+            {
+              "artist": "Madonna featuring Justin Timberlake and Timbaland",
+              "rank": 1,
+              "title": "4 Minutes"
+            }
+          ],
+          "startDate": "2008-04-04"
+        },
+        {
+          "endDate": "2008-05-29",
+          "items": [
+            {
+              "artist": "Jovanotti",
+              "rank": 1,
+              "title": "A te"
+            }
+          ],
+          "startDate": "2008-04-11"
+        },
+        {
+          "endDate": "2008-06-12",
+          "items": [
+            {
+              "artist": "Giusy Ferreri",
+              "rank": 1,
+              "title": "Non ti scordar mai di me"
+            }
+          ],
+          "startDate": "2008-05-30"
+        },
+        {
+          "endDate": "2008-06-26",
+          "items": [
+            {
+              "artist": "Novecento",
+              "rank": 1,
+              "title": "Cry..."
+            }
+          ],
+          "startDate": "2008-06-13"
+        },
+        {
+          "endDate": "2008-07-03",
+          "items": [
+            {
+              "artist": "Michael Bublé",
+              "rank": 1,
+              "title": "Everything"
+            }
+          ],
+          "startDate": "2008-06-27"
+        },
+        {
+          "endDate": "2008-09-18",
+          "items": [
+            {
+              "artist": "Giusy Ferreri",
+              "rank": 1,
+              "title": "Non ti scordar mai di me"
+            }
+          ],
+          "startDate": "2008-07-04"
+        },
+        {
+          "endDate": "2008-10-09",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "I Kissed a Girl"
+            }
+          ],
+          "startDate": "2008-09-19"
+        },
+        {
+          "endDate": "2008-10-16",
+          "items": [
+            {
+              "artist": "Tiziano Ferro",
+              "rank": 1,
+              "title": "Alla mia età"
+            }
+          ],
+          "startDate": "2008-10-10"
+        },
+        {
+          "endDate": "2008-12-31",
+          "items": [
+            {
+              "artist": "Giusy Ferreri",
+              "rank": 1,
+              "title": "Novembre"
+            }
+          ],
+          "startDate": "2008-10-17"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2021-12-24",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "87add921c7904570ff2d9516cf933e757bb5f835af4390f1863501ec8135b8ed",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2008
+}

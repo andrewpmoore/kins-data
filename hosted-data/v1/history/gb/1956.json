@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1956-04-13",
+          "items": [
+            {
+              "artist": "The Dream Weavers",
+              "rank": 1,
+              "title": "It's Almost Tomorrow"
+            }
+          ],
+          "startDate": "1956-03-31"
+        },
+        {
+          "endDate": "1956-05-11",
+          "items": [
+            {
+              "artist": "Winifred Atwell",
+              "rank": 1,
+              "title": "The Poor People of Paris"
+            }
+          ],
+          "startDate": "1956-04-28"
+        },
+        {
+          "endDate": "1956-06-15",
+          "items": [
+            {
+              "artist": "Ronnie Hilton",
+              "rank": 1,
+              "title": "No Other Love"
+            }
+          ],
+          "startDate": "1956-05-12"
+        },
+        {
+          "endDate": "1956-07-20",
+          "items": [
+            {
+              "artist": "Pat Boone",
+              "rank": 1,
+              "title": "I'll Be Home"
+            }
+          ],
+          "startDate": "1956-06-16"
+        },
+        {
+          "endDate": "1956-08-10",
+          "items": [
+            {
+              "artist": "Frankie Lymon and The Teenagers",
+              "rank": 1,
+              "title": "Why Do Fools Fall in Love"
+            }
+          ],
+          "startDate": "1956-07-21"
+        },
+        {
+          "endDate": "1956-08-17",
+          "items": [
+            {
+              "artist": "Doris Day",
+              "rank": 1,
+              "title": "Whatever Will Be, Will Be"
+            }
+          ],
+          "startDate": "1956-08-11"
+        },
+        {
+          "endDate": "1956-08-31",
+          "items": [
+            {
+              "artist": "Frankie Lymon and The Teenagers",
+              "rank": 1,
+              "title": "Why Do Fools Fall in Love"
+            }
+          ],
+          "startDate": "1956-08-18"
+        },
+        {
+          "endDate": "1956-09-21",
+          "items": [
+            {
+              "artist": "Doris Day",
+              "rank": 1,
+              "title": "Whatever Will Be, Will Be"
+            }
+          ],
+          "startDate": "1956-09-01"
+        },
+        {
+          "endDate": "1956-10-19",
+          "items": [
+            {
+              "artist": "Anne Shelton",
+              "rank": 1,
+              "title": "Lay Down Your Arms"
+            }
+          ],
+          "startDate": "1956-09-22"
+        },
+        {
+          "endDate": "1956-11-09",
+          "items": [
+            {
+              "artist": "Frankie Laine",
+              "rank": 1,
+              "title": "A Woman in Love"
+            }
+          ],
+          "startDate": "1956-10-20"
+        },
+        {
+          "endDate": "1956-12-31",
+          "items": [
+            {
+              "artist": "Johnnie Ray",
+              "rank": 1,
+              "title": "Just Walking in the Rain"
+            }
+          ],
+          "startDate": "1956-11-10"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "95d6657fda8a2adfe2936e581ca7da6fff7ff97f6023319464ab857a822baaa6",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1956
+}

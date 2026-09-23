@@ -1,0 +1,176 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1988-01-03",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1988-01-01"
+        },
+        {
+          "endDate": "1988-01-10",
+          "items": [
+            {
+              "artist": "Rick Astley",
+              "rank": 1,
+              "title": "Whenever You Need Somebody"
+            }
+          ],
+          "startDate": "1988-01-04"
+        },
+        {
+          "endDate": "1988-02-21",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "Always on My Mind"
+            }
+          ],
+          "startDate": "1988-01-11"
+        },
+        {
+          "endDate": "1988-03-06",
+          "items": [
+            {
+              "artist": "Guillermo Marchena",
+              "rank": 1,
+              "title": "My Love Is a Tango"
+            }
+          ],
+          "startDate": "1988-02-22"
+        },
+        {
+          "endDate": "1988-04-10",
+          "items": [
+            {
+              "artist": "Taylor Dayne",
+              "rank": 1,
+              "title": "Tell It to My Heart"
+            }
+          ],
+          "startDate": "1988-03-07"
+        },
+        {
+          "endDate": "1988-04-24",
+          "items": [
+            {
+              "artist": "Kylie Minogue",
+              "rank": 1,
+              "title": "I Should Be So Lucky"
+            }
+          ],
+          "startDate": "1988-04-11"
+        },
+        {
+          "endDate": "1988-05-22",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "Heart"
+            }
+          ],
+          "startDate": "1988-04-25"
+        },
+        {
+          "endDate": "1988-06-19",
+          "items": [
+            {
+              "artist": "France Gall",
+              "rank": 1,
+              "title": "Ella, Elle L'a"
+            }
+          ],
+          "startDate": "1988-05-23"
+        },
+        {
+          "endDate": "1988-08-14",
+          "items": [
+            {
+              "artist": "Ofra Haza",
+              "rank": 1,
+              "title": "Im Nin'Alu"
+            }
+          ],
+          "startDate": "1988-06-20"
+        },
+        {
+          "endDate": "1988-08-21",
+          "items": [
+            {
+              "artist": "The Fat Boys & Chubby Checker",
+              "rank": 1,
+              "title": "The Twist"
+            }
+          ],
+          "startDate": "1988-08-15"
+        },
+        {
+          "endDate": "1988-10-02",
+          "items": [
+            {
+              "artist": "Milli Vanilli",
+              "rank": 1,
+              "title": "Girl You Know It's True\" †"
+            }
+          ],
+          "startDate": "1988-08-22"
+        },
+        {
+          "endDate": "1988-10-23",
+          "items": [
+            {
+              "artist": "Koreana",
+              "rank": 1,
+              "title": "Hand in Hand"
+            }
+          ],
+          "startDate": "1988-10-03"
+        },
+        {
+          "endDate": "1988-11-06",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "One Moment in Time"
+            }
+          ],
+          "startDate": "1988-10-24"
+        },
+        {
+          "endDate": "1988-12-31",
+          "items": [
+            {
+              "artist": "Bobby McFerrin",
+              "rank": 1,
+              "title": "Don't Worry, Be Happy"
+            }
+          ],
+          "startDate": "1988-11-07"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "1aaf878f0403ad40cd861869f89c0e53f23367d6ad4753ba9fe9f442b0ed4414",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1988
+}

@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1993-01-01",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You"
+            }
+          ],
+          "startDate": "1993-01-01"
+        },
+        {
+          "endDate": "1993-02-26",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You\"†"
+            }
+          ],
+          "startDate": "1993-01-02"
+        },
+        {
+          "endDate": "1993-03-05",
+          "items": [
+            {
+              "artist": "Peter Gabriel",
+              "rank": 1,
+              "title": "Steam"
+            }
+          ],
+          "startDate": "1993-02-27"
+        },
+        {
+          "endDate": "1993-04-09",
+          "items": [
+            {
+              "artist": "Duran Duran",
+              "rank": 1,
+              "title": "Ordinary World"
+            }
+          ],
+          "startDate": "1993-03-06"
+        },
+        {
+          "endDate": "1993-04-30",
+          "items": [
+            {
+              "artist": "Sting",
+              "rank": 1,
+              "title": "If I Ever Lose My Faith in You"
+            }
+          ],
+          "startDate": "1993-04-10"
+        },
+        {
+          "endDate": "1993-05-21",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Have Nothing"
+            }
+          ],
+          "startDate": "1993-05-01"
+        },
+        {
+          "endDate": "1993-05-28",
+          "items": [
+            {
+              "artist": "Boy George",
+              "rank": 1,
+              "title": "The Crying Game"
+            }
+          ],
+          "startDate": "1993-05-22"
+        },
+        {
+          "endDate": "1993-06-04",
+          "items": [
+            {
+              "artist": "P.M. Dawn",
+              "rank": 1,
+              "title": "Looking Through Patient Eyes"
+            }
+          ],
+          "startDate": "1993-05-29"
+        },
+        {
+          "endDate": "1993-07-16",
+          "items": [
+            {
+              "artist": "Janet Jackson",
+              "rank": 1,
+              "title": "That's the Way Love Goes"
+            }
+          ],
+          "startDate": "1993-06-05"
+        },
+        {
+          "endDate": "1993-07-23",
+          "items": [
+            {
+              "artist": "Rod Stewart",
+              "rank": 1,
+              "title": "Have I Told You Lately"
+            }
+          ],
+          "startDate": "1993-07-17"
+        },
+        {
+          "endDate": "1993-08-13",
+          "items": [
+            {
+              "artist": "Tina Turner",
+              "rank": 1,
+              "title": "I Don't Wanna Fight"
+            }
+          ],
+          "startDate": "1993-07-24"
+        },
+        {
+          "endDate": "1993-08-27",
+          "items": [
+            {
+              "artist": "UB40",
+              "rank": 1,
+              "title": "Falling in Love with You"
+            }
+          ],
+          "startDate": "1993-08-14"
+        },
+        {
+          "endDate": "1993-09-17",
+          "items": [
+            {
+              "artist": "Soul Asylum",
+              "rank": 1,
+              "title": "Runaway Train"
+            }
+          ],
+          "startDate": "1993-08-28"
+        },
+        {
+          "endDate": "1993-10-29",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Dreamlover"
+            }
+          ],
+          "startDate": "1993-09-18"
+        },
+        {
+          "endDate": "1993-11-12",
+          "items": [
+            {
+              "artist": "Meat Loaf",
+              "rank": 1,
+              "title": "I'd Do Anything for Love"
+            }
+          ],
+          "startDate": "1993-10-30"
+        },
+        {
+          "endDate": "1993-11-19",
+          "items": [
+            {
+              "artist": "Blind Melon",
+              "rank": 1,
+              "title": "No Rain"
+            }
+          ],
+          "startDate": "1993-11-13"
+        },
+        {
+          "endDate": "1993-12-03",
+          "items": [
+            {
+              "artist": "Ace of Base",
+              "rank": 1,
+              "title": "All That She Wants"
+            }
+          ],
+          "startDate": "1993-11-20"
+        },
+        {
+          "endDate": "1993-12-31",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "Please Forgive Me"
+            }
+          ],
+          "startDate": "1993-12-04"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "bd9e10becb7be63e517471ef78f3b0ede41b948675907cb4b94dcddf9b3de50d",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1993
+}

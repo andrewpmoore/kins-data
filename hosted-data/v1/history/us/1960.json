@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1960-01-03",
+          "items": [
+            {
+              "artist": "Frankie Avalon",
+              "rank": 1,
+              "title": "Why"
+            }
+          ],
+          "startDate": "1960-01-01"
+        },
+        {
+          "endDate": "1960-01-17",
+          "items": [
+            {
+              "artist": "Marty Robbins",
+              "rank": 1,
+              "title": "El Paso"
+            }
+          ],
+          "startDate": "1960-01-04"
+        },
+        {
+          "endDate": "1960-02-07",
+          "items": [
+            {
+              "artist": "Johnny Preston",
+              "rank": 1,
+              "title": "Running Bear"
+            }
+          ],
+          "startDate": "1960-01-18"
+        },
+        {
+          "endDate": "1960-02-21",
+          "items": [
+            {
+              "artist": "Mark Dinning",
+              "rank": 1,
+              "title": "Teen Angel"
+            }
+          ],
+          "startDate": "1960-02-08"
+        },
+        {
+          "endDate": "1960-04-24",
+          "items": [
+            {
+              "artist": "Percy Faith",
+              "rank": 1,
+              "title": "Theme from 'A Summer Place'\"♪"
+            }
+          ],
+          "startDate": "1960-02-22"
+        },
+        {
+          "endDate": "1960-05-22",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Stuck on You"
+            }
+          ],
+          "startDate": "1960-04-25"
+        },
+        {
+          "endDate": "1960-06-26",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Cathy's Clown"
+            }
+          ],
+          "startDate": "1960-05-23"
+        },
+        {
+          "endDate": "1960-07-10",
+          "items": [
+            {
+              "artist": "Connie Francis",
+              "rank": 1,
+              "title": "Everybody's Somebody's Fool"
+            }
+          ],
+          "startDate": "1960-06-27"
+        },
+        {
+          "endDate": "1960-07-17",
+          "items": [
+            {
+              "artist": "Hollywood Argyles",
+              "rank": 1,
+              "title": "Alley-Oop"
+            }
+          ],
+          "startDate": "1960-07-11"
+        },
+        {
+          "endDate": "1960-08-07",
+          "items": [
+            {
+              "artist": "Brenda Lee",
+              "rank": 1,
+              "title": "I'm Sorry"
+            }
+          ],
+          "startDate": "1960-07-18"
+        },
+        {
+          "endDate": "1960-08-14",
+          "items": [
+            {
+              "artist": "Brian Hyland",
+              "rank": 1,
+              "title": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini"
+            }
+          ],
+          "startDate": "1960-08-08"
+        },
+        {
+          "endDate": "1960-09-18",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "It's Now or Never"
+            }
+          ],
+          "startDate": "1960-08-15"
+        },
+        {
+          "endDate": "1960-09-25",
+          "items": [
+            {
+              "artist": "Chubby Checker",
+              "rank": 1,
+              "title": "The Twist"
+            }
+          ],
+          "startDate": "1960-09-19"
+        },
+        {
+          "endDate": "1960-11-13",
+          "items": [
+            {
+              "artist": "Chubby Checker",
+              "rank": 1,
+              "title": "The Twist"
+            }
+          ],
+          "startDate": "1960-11-07"
+        },
+        {
+          "endDate": "1960-12-31",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Are You Lonesome Tonight?"
+            }
+          ],
+          "startDate": "1960-12-05"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "c35a410133cba69f6ae76461445c1979ff3ef3996573e2423a8773b2c3f6e621",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1960
+}

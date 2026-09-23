@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2003-01-31",
+          "items": [
+            {
+              "artist": "Eminem",
+              "rank": 1,
+              "title": "Lose Yourself"
+            }
+          ],
+          "startDate": "2003-01-01"
+        },
+        {
+          "endDate": "2003-02-07",
+          "items": [
+            {
+              "artist": "B2K featuring P. Diddy",
+              "rank": 1,
+              "title": "Bump, Bump, Bump"
+            }
+          ],
+          "startDate": "2003-02-01"
+        },
+        {
+          "endDate": "2003-03-07",
+          "items": [
+            {
+              "artist": "Jennifer Lopez featuring LL Cool J",
+              "rank": 1,
+              "title": "All I Have"
+            }
+          ],
+          "startDate": "2003-02-08"
+        },
+        {
+          "endDate": "2003-05-09",
+          "items": [
+            {
+              "artist": "50 Cent",
+              "rank": 1,
+              "title": "In da Club\"♪"
+            }
+          ],
+          "startDate": "2003-03-08"
+        },
+        {
+          "endDate": "2003-05-30",
+          "items": [
+            {
+              "artist": "Sean Paul",
+              "rank": 1,
+              "title": "Get Busy"
+            }
+          ],
+          "startDate": "2003-05-10"
+        },
+        {
+          "endDate": "2003-06-27",
+          "items": [
+            {
+              "artist": "50 Cent featuring Nate Dogg",
+              "rank": 1,
+              "title": "21 Questions"
+            }
+          ],
+          "startDate": "2003-05-31"
+        },
+        {
+          "endDate": "2003-07-11",
+          "items": [
+            {
+              "artist": "Clay Aiken",
+              "rank": 1,
+              "title": "This Is the Night"
+            }
+          ],
+          "startDate": "2003-06-28"
+        },
+        {
+          "endDate": "2003-09-05",
+          "items": [
+            {
+              "artist": "Beyoncé featuring Jay-Z",
+              "rank": 1,
+              "title": "Crazy in Love"
+            }
+          ],
+          "startDate": "2003-07-12"
+        },
+        {
+          "endDate": "2003-10-03",
+          "items": [
+            {
+              "artist": "Nelly, P. Diddy and Murphy Lee",
+              "rank": 1,
+              "title": "Shake Ya Tailfeather"
+            }
+          ],
+          "startDate": "2003-09-06"
+        },
+        {
+          "endDate": "2003-12-05",
+          "items": [
+            {
+              "artist": "Beyoncé featuring Sean Paul",
+              "rank": 1,
+              "title": "Baby Boy"
+            }
+          ],
+          "startDate": "2003-10-04"
+        },
+        {
+          "endDate": "2003-12-12",
+          "items": [
+            {
+              "artist": "Ludacris featuring Shawnna",
+              "rank": 1,
+              "title": "Stand Up"
+            }
+          ],
+          "startDate": "2003-12-06"
+        },
+        {
+          "endDate": "2003-12-31",
+          "items": [
+            {
+              "artist": "Outkast",
+              "rank": 1,
+              "title": "Hey Ya!"
+            }
+          ],
+          "startDate": "2003-12-13"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "558da96df8bfc71130d58a4a9c1ee934b802bb692e370a4f58121534c71b0f73",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2003
+}

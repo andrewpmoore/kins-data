@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1990-02-09",
+          "items": [
+            {
+              "artist": "Phil Collins",
+              "rank": 1,
+              "title": "Another Day in Paradise"
+            }
+          ],
+          "startDate": "1990-01-01"
+        },
+        {
+          "endDate": "1990-03-02",
+          "items": [
+            {
+              "artist": "Rod Stewart",
+              "rank": 1,
+              "title": "Downtown Train"
+            }
+          ],
+          "startDate": "1990-02-10"
+        },
+        {
+          "endDate": "1990-03-16",
+          "items": [
+            {
+              "artist": "Paula Abdul and The Wild Pair",
+              "rank": 1,
+              "title": "Opposites Attract"
+            }
+          ],
+          "startDate": "1990-03-03"
+        },
+        {
+          "endDate": "1990-03-23",
+          "items": [
+            {
+              "artist": "Janet Jackson",
+              "rank": 1,
+              "title": "Escapade"
+            }
+          ],
+          "startDate": "1990-03-17"
+        },
+        {
+          "endDate": "1990-05-04",
+          "items": [
+            {
+              "artist": "Phil Collins",
+              "rank": 1,
+              "title": "I Wish It Would Rain Down\"†"
+            }
+          ],
+          "startDate": "1990-03-24"
+        },
+        {
+          "endDate": "1990-06-08",
+          "items": [
+            {
+              "artist": "Sinéad O'Connor",
+              "rank": 1,
+              "title": "Nothing Compares 2 U"
+            }
+          ],
+          "startDate": "1990-05-05"
+        },
+        {
+          "endDate": "1990-06-15",
+          "items": [
+            {
+              "artist": "Heart",
+              "rank": 1,
+              "title": "All I Wanna Do Is Make Love to You"
+            }
+          ],
+          "startDate": "1990-06-09"
+        },
+        {
+          "endDate": "1990-07-06",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Vogue"
+            }
+          ],
+          "startDate": "1990-06-16"
+        },
+        {
+          "endDate": "1990-07-13",
+          "items": [
+            {
+              "artist": "Roxette",
+              "rank": 1,
+              "title": "It Must Have Been Love"
+            }
+          ],
+          "startDate": "1990-07-07"
+        },
+        {
+          "endDate": "1990-07-20",
+          "items": [
+            {
+              "artist": "Phil Collins",
+              "rank": 1,
+              "title": "Do You Remember?"
+            }
+          ],
+          "startDate": "1990-07-14"
+        },
+        {
+          "endDate": "1990-08-03",
+          "items": [
+            {
+              "artist": "New Kids on the Block",
+              "rank": 1,
+              "title": "Step by Step"
+            }
+          ],
+          "startDate": "1990-07-21"
+        },
+        {
+          "endDate": "1990-08-10",
+          "items": [
+            {
+              "artist": "Taylor Dayne",
+              "rank": 1,
+              "title": "I'll Be Your Shelter"
+            }
+          ],
+          "startDate": "1990-08-04"
+        },
+        {
+          "endDate": "1990-08-24",
+          "items": [
+            {
+              "artist": "Bruce Hornsby and the Range",
+              "rank": 1,
+              "title": "Across the River"
+            }
+          ],
+          "startDate": "1990-08-11"
+        },
+        {
+          "endDate": "1990-09-21",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Vision of Love"
+            }
+          ],
+          "startDate": "1990-08-25"
+        },
+        {
+          "endDate": "1990-09-28",
+          "items": [
+            {
+              "artist": "Wilson Phillips",
+              "rank": 1,
+              "title": "Release Me"
+            }
+          ],
+          "startDate": "1990-09-22"
+        },
+        {
+          "endDate": "1990-10-12",
+          "items": [
+            {
+              "artist": "Jon Bon Jovi",
+              "rank": 1,
+              "title": "Blaze of Glory"
+            }
+          ],
+          "startDate": "1990-09-29"
+        },
+        {
+          "endDate": "1990-10-26",
+          "items": [
+            {
+              "artist": "Phil Collins",
+              "rank": 1,
+              "title": "Something Happened on the Way to Heaven"
+            }
+          ],
+          "startDate": "1990-10-13"
+        },
+        {
+          "endDate": "1990-11-09",
+          "items": [
+            {
+              "artist": "George Michael",
+              "rank": 1,
+              "title": "Praying for Time"
+            }
+          ],
+          "startDate": "1990-10-27"
+        },
+        {
+          "endDate": "1990-11-23",
+          "items": [
+            {
+              "artist": "INXS",
+              "rank": 1,
+              "title": "Suicide Blonde"
+            }
+          ],
+          "startDate": "1990-11-10"
+        },
+        {
+          "endDate": "1990-12-21",
+          "items": [
+            {
+              "artist": "Alias",
+              "rank": 1,
+              "title": "More Than Words Can Say"
+            }
+          ],
+          "startDate": "1990-11-24"
+        },
+        {
+          "endDate": "1990-12-31",
+          "items": [
+            {
+              "artist": "Wilson Phillips",
+              "rank": 1,
+              "title": "Impulsive"
+            }
+          ],
+          "startDate": "1990-12-22"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "0245569027d3a6ede07537ed1415b49137393395e2b29f9aa8c28640483be754",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1990
+}

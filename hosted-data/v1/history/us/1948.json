@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1948-02-20",
+          "items": [
+            {
+              "artist": "Vaughn Monroe",
+              "rank": 1,
+              "title": "Ballerina"
+            }
+          ],
+          "startDate": "1948-01-01"
+        },
+        {
+          "endDate": "1948-03-12",
+          "items": [
+            {
+              "artist": "Art Mooney",
+              "rank": 1,
+              "title": "I'm Looking Over a Four Leaf Clover"
+            }
+          ],
+          "startDate": "1948-02-21"
+        },
+        {
+          "endDate": "1948-05-14",
+          "items": [
+            {
+              "artist": "Peggy Lee",
+              "rank": 1,
+              "title": "Mañana"
+            }
+          ],
+          "startDate": "1948-03-13"
+        },
+        {
+          "endDate": "1948-07-02",
+          "items": [
+            {
+              "artist": "Nat King Cole",
+              "rank": 1,
+              "title": "Nature Boy"
+            }
+          ],
+          "startDate": "1948-05-15"
+        },
+        {
+          "endDate": "1948-08-13",
+          "items": [
+            {
+              "artist": "Kay Kyser",
+              "rank": 1,
+              "title": "Woody Wood-Pecker"
+            }
+          ],
+          "startDate": "1948-07-03"
+        },
+        {
+          "endDate": "1948-08-27",
+          "items": [
+            {
+              "artist": "Al Trace",
+              "rank": 1,
+              "title": "You Call Everybody Darlin'"
+            }
+          ],
+          "startDate": "1948-08-14"
+        },
+        {
+          "endDate": "1948-10-08",
+          "items": [
+            {
+              "artist": "Pee Wee Hunt",
+              "rank": 1,
+              "title": "Twelfth Street Rag"
+            }
+          ],
+          "startDate": "1948-08-28"
+        },
+        {
+          "endDate": "1948-10-22",
+          "items": [
+            {
+              "artist": "Margaret Whiting",
+              "rank": 1,
+              "title": "A Tree In The Meadow"
+            }
+          ],
+          "startDate": "1948-10-09"
+        },
+        {
+          "endDate": "1948-11-05",
+          "items": [
+            {
+              "artist": "Pee Wee Hunt",
+              "rank": 1,
+              "title": "Twelfth Street Rag\"♪"
+            }
+          ],
+          "startDate": "1948-10-23"
+        },
+        {
+          "endDate": "1948-12-31",
+          "items": [
+            {
+              "artist": "Dinah Shore",
+              "rank": 1,
+              "title": "Buttons And Bows"
+            }
+          ],
+          "startDate": "1948-11-06"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3bf0f196883a0a9badbcd238fc9069a3a358c2f886e1eb907e755c33d1bc0e12",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1948
+}

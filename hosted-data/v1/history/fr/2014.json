@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2014-01-04",
+          "items": [
+            {
+              "artist": "Indila",
+              "rank": 1,
+              "title": "Dernière danse"
+            }
+          ],
+          "startDate": "2014-01-01"
+        },
+        {
+          "endDate": "2014-01-18",
+          "items": [
+            {
+              "artist": "Indila",
+              "rank": 1,
+              "title": "Dernière danse"
+            }
+          ],
+          "startDate": "2014-01-12"
+        },
+        {
+          "endDate": "2014-02-01",
+          "items": [
+            {
+              "artist": "Lily Allen",
+              "rank": 1,
+              "title": "Somewhere Only We Know"
+            }
+          ],
+          "startDate": "2014-01-26"
+        },
+        {
+          "endDate": "2014-03-29",
+          "items": [
+            {
+              "artist": "Clean Bandit featuring Jess Glynne",
+              "rank": 1,
+              "title": "Rather Be"
+            }
+          ],
+          "startDate": "2014-03-23"
+        },
+        {
+          "endDate": "2014-04-05",
+          "items": [
+            {
+              "artist": "Avicii",
+              "rank": 1,
+              "title": "Addicted to You"
+            }
+          ],
+          "startDate": "2014-03-30"
+        },
+        {
+          "endDate": "2014-05-24",
+          "items": [
+            {
+              "artist": "Michael Jackson and Justin Timberlake",
+              "rank": 1,
+              "title": "Love Never Felt So Good"
+            }
+          ],
+          "startDate": "2014-05-18"
+        },
+        {
+          "endDate": "2014-05-31",
+          "items": [
+            {
+              "artist": "Deorro",
+              "rank": 1,
+              "title": "Five Hours"
+            }
+          ],
+          "startDate": "2014-05-25"
+        },
+        {
+          "endDate": "2014-06-07",
+          "items": [
+            {
+              "artist": "Booba",
+              "rank": 1,
+              "title": "OKLM"
+            }
+          ],
+          "startDate": "2014-06-01"
+        },
+        {
+          "endDate": "2014-06-14",
+          "items": [
+            {
+              "artist": "Black M",
+              "rank": 1,
+              "title": "Sur ma route"
+            }
+          ],
+          "startDate": "2014-06-08"
+        },
+        {
+          "endDate": "2014-06-21",
+          "items": [
+            {
+              "artist": "Pitbull featuring Jennifer Lopez and Claudia Leitte",
+              "rank": 1,
+              "title": "We Are One"
+            }
+          ],
+          "startDate": "2014-06-15"
+        },
+        {
+          "endDate": "2014-07-12",
+          "items": [
+            {
+              "artist": "Sia",
+              "rank": 1,
+              "title": "Chandelier"
+            }
+          ],
+          "startDate": "2014-07-06"
+        },
+        {
+          "endDate": "2014-08-23",
+          "items": [
+            {
+              "artist": "Mika",
+              "rank": 1,
+              "title": "Boum Boum Boum"
+            }
+          ],
+          "startDate": "2014-08-17"
+        },
+        {
+          "endDate": "2014-10-11",
+          "items": [
+            {
+              "artist": "Iggy Azalea featuring Rita Ora",
+              "rank": 1,
+              "title": "Black Widow"
+            }
+          ],
+          "startDate": "2014-10-05"
+        },
+        {
+          "endDate": "2014-10-18",
+          "items": [
+            {
+              "artist": "David Guetta featuring Sam Martin",
+              "rank": 1,
+              "title": "Dangerous"
+            }
+          ],
+          "startDate": "2014-10-12"
+        },
+        {
+          "endDate": "2014-11-01",
+          "items": [
+            {
+              "artist": "H Magnum",
+              "rank": 1,
+              "title": "Idem"
+            }
+          ],
+          "startDate": "2014-10-26"
+        },
+        {
+          "endDate": "2014-11-22",
+          "items": [
+            {
+              "artist": "Black M featuring The Shin Sekaï and Doomams",
+              "rank": 1,
+              "title": "Je ne dirai rien"
+            }
+          ],
+          "startDate": "2014-11-16"
+        },
+        {
+          "endDate": "2014-12-20",
+          "items": [
+            {
+              "artist": "Dosseh",
+              "rank": 1,
+              "title": "Le coup du patron"
+            }
+          ],
+          "startDate": "2014-12-14"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-01",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "dcdb2fa06f283994a81b67c61cfbb53f1c55ce6444db9651f5538350969013c9",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2014
+}

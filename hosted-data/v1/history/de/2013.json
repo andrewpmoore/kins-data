@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2013-01-10",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Diamonds"
+            }
+          ],
+          "startDate": "2013-01-01"
+        },
+        {
+          "endDate": "2013-01-17",
+          "items": [
+            {
+              "artist": "Psy",
+              "rank": 1,
+              "title": "Gangnam Style"
+            }
+          ],
+          "startDate": "2013-01-11"
+        },
+        {
+          "endDate": "2013-03-21",
+          "items": [
+            {
+              "artist": "will.i.am featuring Britney Spears",
+              "rank": 1,
+              "title": "Scream & Shout"
+            }
+          ],
+          "startDate": "2013-01-18"
+        },
+        {
+          "endDate": "2013-04-25",
+          "items": [
+            {
+              "artist": "Passenger",
+              "rank": 1,
+              "title": "Let Her Go"
+            }
+          ],
+          "startDate": "2013-03-22"
+        },
+        {
+          "endDate": "2013-05-09",
+          "items": [
+            {
+              "artist": "Pink featuring Nate Ruess",
+              "rank": 1,
+              "title": "Just Give Me a Reason"
+            }
+          ],
+          "startDate": "2013-04-26"
+        },
+        {
+          "endDate": "2013-05-23",
+          "items": [
+            {
+              "artist": "Capital Cities",
+              "rank": 1,
+              "title": "Safe and Sound"
+            }
+          ],
+          "startDate": "2013-05-10"
+        },
+        {
+          "endDate": "2013-05-30",
+          "items": [
+            {
+              "artist": "Beatrice Egli",
+              "rank": 1,
+              "title": "Mein Herz"
+            }
+          ],
+          "startDate": "2013-05-24"
+        },
+        {
+          "endDate": "2013-06-13",
+          "items": [
+            {
+              "artist": "Daft Punk featuring Pharrell Williams",
+              "rank": 1,
+              "title": "Get Lucky"
+            }
+          ],
+          "startDate": "2013-05-31"
+        },
+        {
+          "endDate": "2013-07-11",
+          "items": [
+            {
+              "artist": "Robin Thicke featuring T.I. and Pharrell",
+              "rank": 1,
+              "title": "Blurred Lines"
+            }
+          ],
+          "startDate": "2013-06-14"
+        },
+        {
+          "endDate": "2013-07-18",
+          "items": [
+            {
+              "artist": "Cro",
+              "rank": 1,
+              "title": "Whatever"
+            }
+          ],
+          "startDate": "2013-07-12"
+        },
+        {
+          "endDate": "2013-09-26",
+          "items": [
+            {
+              "artist": "Avicii",
+              "rank": 1,
+              "title": "Wake Me Up!\"†"
+            }
+          ],
+          "startDate": "2013-07-19"
+        },
+        {
+          "endDate": "2013-10-17",
+          "items": [
+            {
+              "artist": "Jason Derulo featuring 2 Chainz",
+              "rank": 1,
+              "title": "Talk Dirty"
+            }
+          ],
+          "startDate": "2013-09-27"
+        },
+        {
+          "endDate": "2013-10-24",
+          "items": [
+            {
+              "artist": "James Blunt",
+              "rank": 1,
+              "title": "Bonfire Heart"
+            }
+          ],
+          "startDate": "2013-10-18"
+        },
+        {
+          "endDate": "2013-10-31",
+          "items": [
+            {
+              "artist": "Klingande",
+              "rank": 1,
+              "title": "Jubel"
+            }
+          ],
+          "startDate": "2013-10-25"
+        },
+        {
+          "endDate": "2013-11-07",
+          "items": [
+            {
+              "artist": "Avicii",
+              "rank": 1,
+              "title": "Hey Brother"
+            }
+          ],
+          "startDate": "2013-11-01"
+        },
+        {
+          "endDate": "2013-12-19",
+          "items": [
+            {
+              "artist": "Klingande",
+              "rank": 1,
+              "title": "Jubel"
+            }
+          ],
+          "startDate": "2013-11-08"
+        },
+        {
+          "endDate": "2013-12-26",
+          "items": [
+            {
+              "artist": "FAUL & Wad Ad vs. Pnau",
+              "rank": 1,
+              "title": "Changes"
+            }
+          ],
+          "startDate": "2013-12-20"
+        },
+        {
+          "endDate": "2013-12-31",
+          "items": [
+            {
+              "artist": "Pitbull featuring Kesha",
+              "rank": 1,
+              "title": "Timber"
+            }
+          ],
+          "startDate": "2013-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9e4ad529942e373456e4bcbc20846ddea0ac6659b7614bb1d9e5ee5e420cf2bb",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2013
+}

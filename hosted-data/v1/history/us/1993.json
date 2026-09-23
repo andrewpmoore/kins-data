@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1993-03-05",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You\"♪"
+            }
+          ],
+          "startDate": "1993-01-01"
+        },
+        {
+          "endDate": "1993-03-12",
+          "items": [
+            {
+              "artist": "Peabo Bryson & Regina Belle",
+              "rank": 1,
+              "title": "A Whole New World"
+            }
+          ],
+          "startDate": "1993-03-06"
+        },
+        {
+          "endDate": "1993-04-30",
+          "items": [
+            {
+              "artist": "Snow",
+              "rank": 1,
+              "title": "Informer"
+            }
+          ],
+          "startDate": "1993-03-13"
+        },
+        {
+          "endDate": "1993-05-14",
+          "items": [
+            {
+              "artist": "Silk",
+              "rank": 1,
+              "title": "Freak Me"
+            }
+          ],
+          "startDate": "1993-05-01"
+        },
+        {
+          "endDate": "1993-07-09",
+          "items": [
+            {
+              "artist": "Janet Jackson",
+              "rank": 1,
+              "title": "That's The Way Love Goes"
+            }
+          ],
+          "startDate": "1993-05-15"
+        },
+        {
+          "endDate": "1993-07-23",
+          "items": [
+            {
+              "artist": "SWV",
+              "rank": 1,
+              "title": "Weak"
+            }
+          ],
+          "startDate": "1993-07-10"
+        },
+        {
+          "endDate": "1993-09-10",
+          "items": [
+            {
+              "artist": "UB40",
+              "rank": 1,
+              "title": "Falling in Love with You"
+            }
+          ],
+          "startDate": "1993-07-24"
+        },
+        {
+          "endDate": "1993-11-05",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Dreamlover"
+            }
+          ],
+          "startDate": "1993-09-11"
+        },
+        {
+          "endDate": "1993-12-10",
+          "items": [
+            {
+              "artist": "Meat Loaf",
+              "rank": 1,
+              "title": "I'd Do Anything for Love"
+            }
+          ],
+          "startDate": "1993-11-06"
+        },
+        {
+          "endDate": "1993-12-24",
+          "items": [
+            {
+              "artist": "Janet Jackson",
+              "rank": 1,
+              "title": "Again"
+            }
+          ],
+          "startDate": "1993-12-11"
+        },
+        {
+          "endDate": "1993-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Hero"
+            }
+          ],
+          "startDate": "1993-12-25"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "6c3c7ff34f2febb77967e21fa59c42160a9467141dfdee545c1531adcbf764a5",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1993
+}

@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1965-01-15",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "I Feel Fine"
+            }
+          ],
+          "startDate": "1965-01-01"
+        },
+        {
+          "endDate": "1965-01-20",
+          "items": [
+            {
+              "artist": "Georgie Fame",
+              "rank": 1,
+              "title": "Yeh Yeh"
+            }
+          ],
+          "startDate": "1965-01-16"
+        },
+        {
+          "endDate": "1965-01-22",
+          "items": [
+            {
+              "artist": "Georgie Fame and the Blue Flames",
+              "rank": 1,
+              "title": "Yeh, Yeh"
+            }
+          ],
+          "startDate": "1965-01-21"
+        },
+        {
+          "endDate": "1965-01-29",
+          "items": [
+            {
+              "artist": "The Moody Blues",
+              "rank": 1,
+              "title": "Go Now"
+            }
+          ],
+          "startDate": "1965-01-23"
+        },
+        {
+          "endDate": "1965-02-12",
+          "items": [
+            {
+              "artist": "The Righteous Brothers",
+              "rank": 1,
+              "title": "You've Lost That Lovin' Feelin'"
+            }
+          ],
+          "startDate": "1965-02-06"
+        },
+        {
+          "endDate": "1965-02-19",
+          "items": [
+            {
+              "artist": "The Kinks",
+              "rank": 1,
+              "title": "Tired of Waiting for You"
+            }
+          ],
+          "startDate": "1965-02-13"
+        },
+        {
+          "endDate": "1965-03-05",
+          "items": [
+            {
+              "artist": "The Seekers",
+              "rank": 1,
+              "title": "I'll Never Find Another You"
+            }
+          ],
+          "startDate": "1965-02-20"
+        },
+        {
+          "endDate": "1965-03-12",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "It's Not Unusual"
+            }
+          ],
+          "startDate": "1965-03-06"
+        },
+        {
+          "endDate": "1965-04-09",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "The Last Time"
+            }
+          ],
+          "startDate": "1965-03-13"
+        },
+        {
+          "endDate": "1965-06-11",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "Long Live Love"
+            }
+          ],
+          "startDate": "1965-05-29"
+        },
+        {
+          "endDate": "1965-07-02",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Crying in the Chapel"
+            }
+          ],
+          "startDate": "1965-06-19"
+        },
+        {
+          "endDate": "1965-07-16",
+          "items": [
+            {
+              "artist": "The Hollies",
+              "rank": 1,
+              "title": "I'm Alive"
+            }
+          ],
+          "startDate": "1965-07-03"
+        },
+        {
+          "endDate": "1965-07-30",
+          "items": [
+            {
+              "artist": "The Byrds",
+              "rank": 1,
+              "title": "Mr. Tambourine Man"
+            }
+          ],
+          "startDate": "1965-07-17"
+        },
+        {
+          "endDate": "1965-08-27",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Help!"
+            }
+          ],
+          "startDate": "1965-07-31"
+        },
+        {
+          "endDate": "1965-09-03",
+          "items": [
+            {
+              "artist": "Sonny & Cher",
+              "rank": 1,
+              "title": "I Got You Babe"
+            }
+          ],
+          "startDate": "1965-08-28"
+        },
+        {
+          "endDate": "1965-09-24",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Satisfaction"
+            }
+          ],
+          "startDate": "1965-09-11"
+        },
+        {
+          "endDate": "1965-11-05",
+          "items": [
+            {
+              "artist": "Ken Dodd",
+              "rank": 1,
+              "title": "Tears"
+            }
+          ],
+          "startDate": "1965-10-02"
+        },
+        {
+          "endDate": "1965-12-10",
+          "items": [
+            {
+              "artist": "The Seekers",
+              "rank": 1,
+              "title": "The Carnival Is Over"
+            }
+          ],
+          "startDate": "1965-12-04"
+        },
+        {
+          "endDate": "1965-12-31",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Day Tripper\" / \"We Can Work It Out"
+            }
+          ],
+          "startDate": "1965-12-18"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7471d729b51a673d694272ea022130e7dee243336f5e14a55a66fc757fa72c4d",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1965
+}

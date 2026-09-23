@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1990-01-17",
+          "items": [
+            {
+              "artist": "Band Aid II",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "1990-01-01"
+        },
+        {
+          "endDate": "1990-01-24",
+          "items": [
+            {
+              "artist": "New Kids On The Block",
+              "rank": 1,
+              "title": "Hangin' Tough"
+            }
+          ],
+          "startDate": "1990-01-18"
+        },
+        {
+          "endDate": "1990-03-07",
+          "items": [
+            {
+              "artist": "Sinéad O'Connor",
+              "rank": 1,
+              "title": "Nothing Compares 2 U"
+            }
+          ],
+          "startDate": "1990-01-25"
+        },
+        {
+          "endDate": "1990-03-14",
+          "items": [
+            {
+              "artist": "The B-52's",
+              "rank": 1,
+              "title": "Love Shack"
+            }
+          ],
+          "startDate": "1990-03-08"
+        },
+        {
+          "endDate": "1990-03-21",
+          "items": [
+            {
+              "artist": "Various Artists",
+              "rank": 1,
+              "title": "Brits Mix 1990"
+            }
+          ],
+          "startDate": "1990-03-15"
+        },
+        {
+          "endDate": "1990-04-04",
+          "items": [
+            {
+              "artist": "Jive Bunny and the Mastermixers",
+              "rank": 1,
+              "title": "That Sounds Good to Me"
+            }
+          ],
+          "startDate": "1990-03-22"
+        },
+        {
+          "endDate": "1990-05-09",
+          "items": [
+            {
+              "artist": "Mick Lally",
+              "rank": 1,
+              "title": "The By-road to Glenroe"
+            }
+          ],
+          "startDate": "1990-04-05"
+        },
+        {
+          "endDate": "1990-05-16",
+          "items": [
+            {
+              "artist": "Liam Harrison and the GOAL Celebrities",
+              "rank": 1,
+              "title": "Give It A Lash Jack"
+            }
+          ],
+          "startDate": "1990-05-10"
+        },
+        {
+          "endDate": "1990-05-23",
+          "items": [
+            {
+              "artist": "The Memories",
+              "rank": 1,
+              "title": "The Game"
+            }
+          ],
+          "startDate": "1990-05-17"
+        },
+        {
+          "endDate": "1990-05-30",
+          "items": [
+            {
+              "artist": "Liam Harrison and the GOAL Celebrities",
+              "rank": 1,
+              "title": "Give It a Lash Jack"
+            }
+          ],
+          "startDate": "1990-05-24"
+        },
+        {
+          "endDate": "1990-08-29",
+          "items": [
+            {
+              "artist": "The Republic of Ireland Football Squad",
+              "rank": 1,
+              "title": "Put 'Em Under Pressure"
+            }
+          ],
+          "startDate": "1990-05-31"
+        },
+        {
+          "endDate": "1990-09-05",
+          "items": [
+            {
+              "artist": "Bombalurina",
+              "rank": 1,
+              "title": "Itsy Bitsy Teeny Weeny Yellow Polka Dot Bikini"
+            }
+          ],
+          "startDate": "1990-08-30"
+        },
+        {
+          "endDate": "1990-09-19",
+          "items": [
+            {
+              "artist": "The Steve Miller Band",
+              "rank": 1,
+              "title": "The Joker"
+            }
+          ],
+          "startDate": "1990-09-06"
+        },
+        {
+          "endDate": "1990-11-07",
+          "items": [
+            {
+              "artist": "The Saw Doctors",
+              "rank": 1,
+              "title": "I Useta Lover"
+            }
+          ],
+          "startDate": "1990-09-20"
+        },
+        {
+          "endDate": "1990-11-21",
+          "items": [
+            {
+              "artist": "The Righteous Brothers",
+              "rank": 1,
+              "title": "Unchained Melody"
+            }
+          ],
+          "startDate": "1990-11-08"
+        },
+        {
+          "endDate": "1990-12-05",
+          "items": [
+            {
+              "artist": "Watch Your House",
+              "rank": 1,
+              "title": "Ooh Aah Paul McGrath"
+            }
+          ],
+          "startDate": "1990-11-22"
+        },
+        {
+          "endDate": "1990-12-12",
+          "items": [
+            {
+              "artist": "Vanilla Ice",
+              "rank": 1,
+              "title": "Ice Ice Baby"
+            }
+          ],
+          "startDate": "1990-12-06"
+        },
+        {
+          "endDate": "1990-12-31",
+          "items": [
+            {
+              "artist": "Zig and Zag",
+              "rank": 1,
+              "title": "The Christmas No 1"
+            }
+          ],
+          "startDate": "1990-12-13"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "136ed398823a899a52a6ba80bca1a40030da191d0ccd87b2a89111694f1f6fe4",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 1990
+}

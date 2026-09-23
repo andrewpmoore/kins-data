@@ -1,0 +1,66 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1993-03-27",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You"
+            }
+          ],
+          "startDate": "1993-01-01"
+        },
+        {
+          "endDate": "1993-08-28",
+          "items": [
+            {
+              "artist": "UB40",
+              "rank": 1,
+              "title": "Falling in Love with You"
+            }
+          ],
+          "startDate": "1993-06-13"
+        },
+        {
+          "endDate": "1993-10-30",
+          "items": [
+            {
+              "artist": "Meat Loaf",
+              "rank": 1,
+              "title": "I'd Do Anything for Love"
+            }
+          ],
+          "startDate": "1993-09-26"
+        },
+        {
+          "endDate": "1993-12-31",
+          "items": [
+            {
+              "artist": "Bitty McLean",
+              "rank": 1,
+              "title": "It Keeps Rainin'"
+            }
+          ],
+          "startDate": "1993-11-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "eac56c0a5b57ce92cbef4fb7e0874324201b067ad6c18a04ccb2adf2af954b4c",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1993
+}

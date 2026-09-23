@@ -1,0 +1,99 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2026-01-01",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Last Christmas"
+            }
+          ],
+          "startDate": "2026-01-01"
+        },
+        {
+          "endDate": "2026-02-05",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "The Fate of Ophelia"
+            }
+          ],
+          "startDate": "2026-01-02"
+        },
+        {
+          "endDate": "2026-02-12",
+          "items": [
+            {
+              "artist": "Ayliva",
+              "rank": 1,
+              "title": "Renn!"
+            }
+          ],
+          "startDate": "2026-02-06"
+        },
+        {
+          "endDate": "2026-02-19",
+          "items": [
+            {
+              "artist": "Bad Bunny",
+              "rank": 1,
+              "title": "DTMF"
+            }
+          ],
+          "startDate": "2026-02-13"
+        },
+        {
+          "endDate": "2026-02-26",
+          "items": [
+            {
+              "artist": "Druckluft",
+              "rank": 1,
+              "title": "Karnevalsmaus"
+            }
+          ],
+          "startDate": "2026-02-20"
+        },
+        {
+          "endDate": "2026-03-05",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Opalite"
+            }
+          ],
+          "startDate": "2026-02-27"
+        },
+        {
+          "endDate": "2026-03-12",
+          "items": [
+            {
+              "artist": "Zara Larsson",
+              "rank": 1,
+              "title": "Lush Life"
+            }
+          ],
+          "startDate": "2026-03-06"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "6462a06cdd02b81585a2ca5a703f214673cd9469cdafdaca20a7b4912890dec2",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2026
+}

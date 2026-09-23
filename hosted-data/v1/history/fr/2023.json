@@ -1,0 +1,154 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2023-01-14",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Lift Me Up"
+            }
+          ],
+          "startDate": "2023-01-01"
+        },
+        {
+          "endDate": "2023-02-04",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-01-29"
+        },
+        {
+          "endDate": "2023-02-18",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-02-12"
+        },
+        {
+          "endDate": "2023-03-04",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-02-26"
+        },
+        {
+          "endDate": "2023-03-25",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-03-19"
+        },
+        {
+          "endDate": "2023-06-10",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-06-04"
+        },
+        {
+          "endDate": "2023-08-12",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-07-30"
+        },
+        {
+          "endDate": "2023-10-14",
+          "items": [
+            {
+              "artist": "Loreen",
+              "rank": 1,
+              "title": "Tattoo"
+            }
+          ],
+          "startDate": "2023-10-01"
+        },
+        {
+          "endDate": "2023-10-21",
+          "items": [
+            {
+              "artist": "Doja Cat",
+              "rank": 1,
+              "title": "Paint the Town Red"
+            }
+          ],
+          "startDate": "2023-10-15"
+        },
+        {
+          "endDate": "2023-11-04",
+          "items": [
+            {
+              "artist": "Iñigo Quintero",
+              "rank": 1,
+              "title": "Si No Estás"
+            }
+          ],
+          "startDate": "2023-10-29"
+        },
+        {
+          "endDate": "2023-11-25",
+          "items": [
+            {
+              "artist": "Santa",
+              "rank": 1,
+              "title": "Popcorn salé\" ◁"
+            }
+          ],
+          "startDate": "2023-11-19"
+        },
+        {
+          "endDate": "2023-12-31",
+          "items": [
+            {
+              "artist": "Santa",
+              "rank": 1,
+              "title": "Popcorn salé\" ◁"
+            }
+          ],
+          "startDate": "2023-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-01",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "33d8ff1a7fd74f1e6cfb0c624f5008f4d0e13ce637cd18648682708e5e7371b8",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2023
+}

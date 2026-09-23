@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1966-04-07",
+          "items": [
+            {
+              "artist": "Herman's Hermits",
+              "rank": 1,
+              "title": "A Must to Avoid"
+            }
+          ],
+          "startDate": "1966-03-25"
+        },
+        {
+          "endDate": "1966-04-21",
+          "items": [
+            {
+              "artist": "Nancy Sinatra",
+              "rank": 1,
+              "title": "These Boots Are Made for Walkin'"
+            }
+          ],
+          "startDate": "1966-04-08"
+        },
+        {
+          "endDate": "1966-04-28",
+          "items": [
+            {
+              "artist": "Overlanders",
+              "rank": 1,
+              "title": "Michelle"
+            }
+          ],
+          "startDate": "1966-04-22"
+        },
+        {
+          "endDate": "1966-05-05",
+          "items": [
+            {
+              "artist": "Simon & Garfunkel",
+              "rank": 1,
+              "title": "Homeward Bound"
+            }
+          ],
+          "startDate": "1966-04-29"
+        },
+        {
+          "endDate": "1966-05-12",
+          "items": [
+            {
+              "artist": "Overlanders",
+              "rank": 1,
+              "title": "Michelle"
+            }
+          ],
+          "startDate": "1966-05-06"
+        },
+        {
+          "endDate": "1966-06-02",
+          "items": [
+            {
+              "artist": "Simon & Garfunkel",
+              "rank": 1,
+              "title": "Homeward Bound"
+            }
+          ],
+          "startDate": "1966-05-13"
+        },
+        {
+          "endDate": "1966-06-23",
+          "items": [
+            {
+              "artist": "The Kinks",
+              "rank": 1,
+              "title": "Dedicated Follower of Fashion"
+            }
+          ],
+          "startDate": "1966-06-03"
+        },
+        {
+          "endDate": "1966-07-07",
+          "items": [
+            {
+              "artist": "The Beach Boys",
+              "rank": 1,
+              "title": "Sloop John B"
+            }
+          ],
+          "startDate": "1966-06-24"
+        },
+        {
+          "endDate": "1966-07-28",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Paperback Writer"
+            }
+          ],
+          "startDate": "1966-07-08"
+        },
+        {
+          "endDate": "1966-08-18",
+          "items": [
+            {
+              "artist": "Manfred Mann",
+              "rank": 1,
+              "title": "Pretty Flamingo"
+            }
+          ],
+          "startDate": "1966-07-29"
+        },
+        {
+          "endDate": "1966-09-08",
+          "items": [
+            {
+              "artist": "The Lovin' Spoonful",
+              "rank": 1,
+              "title": "Daydream"
+            }
+          ],
+          "startDate": "1966-08-19"
+        },
+        {
+          "endDate": "1966-09-22",
+          "items": [
+            {
+              "artist": "The Troggs",
+              "rank": 1,
+              "title": "Wild Thing"
+            }
+          ],
+          "startDate": "1966-09-09"
+        },
+        {
+          "endDate": "1966-10-13",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Yellow Submarine"
+            }
+          ],
+          "startDate": "1966-09-23"
+        },
+        {
+          "endDate": "1966-10-20",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Eleanor Rigby"
+            }
+          ],
+          "startDate": "1966-10-14"
+        },
+        {
+          "endDate": "1966-11-10",
+          "items": [
+            {
+              "artist": "The Troggs",
+              "rank": 1,
+              "title": "With a Girl Like You"
+            }
+          ],
+          "startDate": "1966-10-21"
+        },
+        {
+          "endDate": "1966-11-24",
+          "items": [
+            {
+              "artist": "Tommy Roe",
+              "rank": 1,
+              "title": "Sweet Pea"
+            }
+          ],
+          "startDate": "1966-11-11"
+        },
+        {
+          "endDate": "1966-12-14",
+          "items": [
+            {
+              "artist": "Peter & Gordon",
+              "rank": 1,
+              "title": "Lady Godiva"
+            }
+          ],
+          "startDate": "1966-11-25"
+        },
+        {
+          "endDate": "1966-12-31",
+          "items": [
+            {
+              "artist": "The Hollies",
+              "rank": 1,
+              "title": "Stop! Stop! Stop!"
+            }
+          ],
+          "startDate": "1966-12-15"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "0cd198890b229cbe9b6344c5740a643308d03ac1087392c5c3dbc572cac2612f",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1966
+}

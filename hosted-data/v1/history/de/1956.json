@@ -1,0 +1,110 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1956-02-10",
+          "items": [
+            {
+              "artist": "Peter Alexander",
+              "rank": 1,
+              "title": "Der Mond hält seine Wacht"
+            }
+          ],
+          "startDate": "1956-01-07"
+        },
+        {
+          "endDate": "1956-03-30",
+          "items": [
+            {
+              "artist": "Peter Alexander & Caterina Valente",
+              "rank": 1,
+              "title": "Eventuell, eventuell"
+            }
+          ],
+          "startDate": "1956-02-11"
+        },
+        {
+          "endDate": "1956-05-18",
+          "items": [
+            {
+              "artist": "Margot Eskens",
+              "rank": 1,
+              "title": "Tiritomba"
+            }
+          ],
+          "startDate": "1956-03-31"
+        },
+        {
+          "endDate": "1956-06-29",
+          "items": [
+            {
+              "artist": "Caterina Valente & Silvio Francesco as Club Indonesia",
+              "rank": 1,
+              "title": "Steig in das Traumboot der Liebe"
+            }
+          ],
+          "startDate": "1956-05-19"
+        },
+        {
+          "endDate": "1956-07-27",
+          "items": [
+            {
+              "artist": "Bill Haley & His Comets",
+              "rank": 1,
+              "title": "Rock Around the Clock"
+            }
+          ],
+          "startDate": "1956-06-30"
+        },
+        {
+          "endDate": "1956-11-02",
+          "items": [
+            {
+              "artist": "Freddy Quinn",
+              "rank": 1,
+              "title": "Heimweh"
+            }
+          ],
+          "startDate": "1956-07-28"
+        },
+        {
+          "endDate": "1956-11-23",
+          "items": [
+            {
+              "artist": "Freddy Quinn",
+              "rank": 1,
+              "title": "Rosalie"
+            }
+          ],
+          "startDate": "1956-11-03"
+        },
+        {
+          "endDate": "1956-12-31",
+          "items": [
+            {
+              "artist": "Die Sieben Raben",
+              "rank": 1,
+              "title": "Smoky"
+            }
+          ],
+          "startDate": "1956-11-24"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9031fe727bc723b4cac72074b7eac8fd75acdd46de61a37f5e3d44dcf10f3225",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1956
+}

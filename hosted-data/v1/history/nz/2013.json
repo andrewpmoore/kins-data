@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2013-01-20",
+          "items": [
+            {
+              "artist": "Macklemore & Ryan Lewis featuring Wanz",
+              "rank": 1,
+              "title": "Thrift Shop"
+            }
+          ],
+          "startDate": "2013-01-01"
+        },
+        {
+          "endDate": "2013-01-27",
+          "items": [
+            {
+              "artist": "will.i.am featuring Britney Spears",
+              "rank": 1,
+              "title": "Scream & Shout"
+            }
+          ],
+          "startDate": "2013-01-21"
+        },
+        {
+          "endDate": "2013-02-17",
+          "items": [
+            {
+              "artist": "Macklemore & Ryan Lewis featuring Mary Lambert",
+              "rank": 1,
+              "title": "Same Love"
+            }
+          ],
+          "startDate": "2013-01-28"
+        },
+        {
+          "endDate": "2013-02-24",
+          "items": [
+            {
+              "artist": "Pink featuring Nate Ruess",
+              "rank": 1,
+              "title": "Just Give Me a Reason"
+            }
+          ],
+          "startDate": "2013-02-18"
+        },
+        {
+          "endDate": "2013-03-03",
+          "items": [
+            {
+              "artist": "Baauer",
+              "rank": 1,
+              "title": "Harlem Shake"
+            }
+          ],
+          "startDate": "2013-02-25"
+        },
+        {
+          "endDate": "2013-03-17",
+          "items": [
+            {
+              "artist": "Pink featuring Nate Ruess",
+              "rank": 1,
+              "title": "Just Give Me a Reason"
+            }
+          ],
+          "startDate": "2013-03-04"
+        },
+        {
+          "endDate": "2013-04-07",
+          "items": [
+            {
+              "artist": "Lorde",
+              "rank": 1,
+              "title": "Royals\"†"
+            }
+          ],
+          "startDate": "2013-03-18"
+        },
+        {
+          "endDate": "2013-04-21",
+          "items": [
+            {
+              "artist": "Passenger",
+              "rank": 1,
+              "title": "Let Her Go"
+            }
+          ],
+          "startDate": "2013-04-08"
+        },
+        {
+          "endDate": "2013-07-14",
+          "items": [
+            {
+              "artist": "Robin Thicke featuring T.I. and Pharrell Williams",
+              "rank": 1,
+              "title": "Blurred Lines"
+            }
+          ],
+          "startDate": "2013-06-24"
+        },
+        {
+          "endDate": "2013-07-21",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "We Can't Stop"
+            }
+          ],
+          "startDate": "2013-07-15"
+        },
+        {
+          "endDate": "2013-07-28",
+          "items": [
+            {
+              "artist": "Ginny Blackmore",
+              "rank": 1,
+              "title": "Bones\"†"
+            }
+          ],
+          "startDate": "2013-07-22"
+        },
+        {
+          "endDate": "2013-08-11",
+          "items": [
+            {
+              "artist": "Jackie Thomas",
+              "rank": 1,
+              "title": "It's Worth It\"†"
+            }
+          ],
+          "startDate": "2013-07-29"
+        },
+        {
+          "endDate": "2013-08-18",
+          "items": [
+            {
+              "artist": "Avicii",
+              "rank": 1,
+              "title": "Wake Me Up!"
+            }
+          ],
+          "startDate": "2013-08-12"
+        },
+        {
+          "endDate": "2013-11-03",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Roar"
+            }
+          ],
+          "startDate": "2013-08-19"
+        },
+        {
+          "endDate": "2013-11-10",
+          "items": [
+            {
+              "artist": "One Direction",
+              "rank": 1,
+              "title": "Story of My Life"
+            }
+          ],
+          "startDate": "2013-11-04"
+        },
+        {
+          "endDate": "2013-12-01",
+          "items": [
+            {
+              "artist": "Eminem featuring Rihanna",
+              "rank": 1,
+              "title": "The Monster"
+            }
+          ],
+          "startDate": "2013-11-11"
+        },
+        {
+          "endDate": "2013-12-08",
+          "items": [
+            {
+              "artist": "One Direction",
+              "rank": 1,
+              "title": "Strong"
+            }
+          ],
+          "startDate": "2013-12-02"
+        },
+        {
+          "endDate": "2013-12-15",
+          "items": [
+            {
+              "artist": "Eminem featuring Rihanna",
+              "rank": 1,
+              "title": "The Monster"
+            }
+          ],
+          "startDate": "2013-12-09"
+        },
+        {
+          "endDate": "2013-12-31",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "I See Fire"
+            }
+          ],
+          "startDate": "2013-12-16"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f7a90876856a1e833c07f6446dec651559161f4473b2aeb05fbe0018a9c0c2f8",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 2013
+}

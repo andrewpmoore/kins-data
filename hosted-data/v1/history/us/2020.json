@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2020-01-17",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2020-01-01"
+        },
+        {
+          "endDate": "2020-05-08",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2020-05-02"
+        },
+        {
+          "endDate": "2020-08-07",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2020-08-01"
+        },
+        {
+          "endDate": "2020-08-14",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Cardigan"
+            }
+          ],
+          "startDate": "2020-08-08"
+        },
+        {
+          "endDate": "2020-08-21",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "Watermelon Sugar"
+            }
+          ],
+          "startDate": "2020-08-15"
+        },
+        {
+          "endDate": "2020-09-04",
+          "items": [
+            {
+              "artist": "Cardi B featuring Megan Thee Stallion",
+              "rank": 1,
+              "title": "WAP"
+            }
+          ],
+          "startDate": "2020-08-22"
+        },
+        {
+          "endDate": "2020-09-25",
+          "items": [
+            {
+              "artist": "BTS",
+              "rank": 1,
+              "title": "Dynamite"
+            }
+          ],
+          "startDate": "2020-09-19"
+        },
+        {
+          "endDate": "2020-10-16",
+          "items": [
+            {
+              "artist": "Travis Scott featuring Young Thug and M.I.A.",
+              "rank": 1,
+              "title": "Franchise"
+            }
+          ],
+          "startDate": "2020-10-10"
+        },
+        {
+          "endDate": "2020-10-23",
+          "items": [
+            {
+              "artist": "Jawsh 685, Jason Derulo and BTS",
+              "rank": 1,
+              "title": "Savage Love"
+            }
+          ],
+          "startDate": "2020-10-17"
+        },
+        {
+          "endDate": "2020-11-06",
+          "items": [
+            {
+              "artist": "24kGoldn featuring Iann Dior",
+              "rank": 1,
+              "title": "Mood"
+            }
+          ],
+          "startDate": "2020-10-24"
+        },
+        {
+          "endDate": "2020-12-04",
+          "items": [
+            {
+              "artist": "24kGoldn featuring Iann Dior",
+              "rank": 1,
+              "title": "Mood"
+            }
+          ],
+          "startDate": "2020-11-14"
+        },
+        {
+          "endDate": "2020-12-18",
+          "items": [
+            {
+              "artist": "24kGoldn featuring Iann Dior",
+              "rank": 1,
+              "title": "Mood"
+            }
+          ],
+          "startDate": "2020-12-12"
+        },
+        {
+          "endDate": "2020-12-25",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2020-12-19"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3c76d119bc063cf1d3fab0207d54ff7d6dbb9ac64bbc68fde67ffd8b6daec3b3",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2020
+}

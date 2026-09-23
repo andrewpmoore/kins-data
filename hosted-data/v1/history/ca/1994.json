@@ -1,0 +1,231 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1994-01-16",
+          "items": [
+            {
+              "artist": "Bryan Adams",
+              "rank": 1,
+              "title": "Please Forgive Me"
+            }
+          ],
+          "startDate": "1994-01-03"
+        },
+        {
+          "endDate": "1994-02-20",
+          "items": [
+            {
+              "artist": "Bryan Adams, Rod Stewart and Sting",
+              "rank": 1,
+              "title": "All for Love\"†"
+            }
+          ],
+          "startDate": "1994-01-17"
+        },
+        {
+          "endDate": "1994-03-06",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "The Power of Love"
+            }
+          ],
+          "startDate": "1994-02-21"
+        },
+        {
+          "endDate": "1994-03-13",
+          "items": [
+            {
+              "artist": "Bruce Springsteen",
+              "rank": 1,
+              "title": "Streets of Philadelphia"
+            }
+          ],
+          "startDate": "1994-03-07"
+        },
+        {
+          "endDate": "1994-03-20",
+          "items": [
+            {
+              "artist": "Counting Crows",
+              "rank": 1,
+              "title": "Mr. Jones"
+            }
+          ],
+          "startDate": "1994-03-14"
+        },
+        {
+          "endDate": "1994-04-24",
+          "items": [
+            {
+              "artist": "Ace of Base",
+              "rank": 1,
+              "title": "The Sign"
+            }
+          ],
+          "startDate": "1994-03-21"
+        },
+        {
+          "endDate": "1994-05-15",
+          "items": [
+            {
+              "artist": "Bonnie Raitt",
+              "rank": 1,
+              "title": "Love Sneakin' Up On You"
+            }
+          ],
+          "startDate": "1994-04-25"
+        },
+        {
+          "endDate": "1994-06-19",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "I'll Remember"
+            }
+          ],
+          "startDate": "1994-05-16"
+        },
+        {
+          "endDate": "1994-07-10",
+          "items": [
+            {
+              "artist": "All-4-One",
+              "rank": 1,
+              "title": "I Swear"
+            }
+          ],
+          "startDate": "1994-06-20"
+        },
+        {
+          "endDate": "1994-07-17",
+          "items": [
+            {
+              "artist": "Ace of Base",
+              "rank": 1,
+              "title": "Don't Turn Around"
+            }
+          ],
+          "startDate": "1994-07-11"
+        },
+        {
+          "endDate": "1994-08-07",
+          "items": [
+            {
+              "artist": "John Mellencamp and Meshell Ndegeocello",
+              "rank": 1,
+              "title": "Wild Night"
+            }
+          ],
+          "startDate": "1994-07-18"
+        },
+        {
+          "endDate": "1994-09-04",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Can You Feel the Love Tonight"
+            }
+          ],
+          "startDate": "1994-08-08"
+        },
+        {
+          "endDate": "1994-09-18",
+          "items": [
+            {
+              "artist": "Lisa Loeb and Nine Stories",
+              "rank": 1,
+              "title": "Stay"
+            }
+          ],
+          "startDate": "1994-09-05"
+        },
+        {
+          "endDate": "1994-09-25",
+          "items": [
+            {
+              "artist": "Steve Perry",
+              "rank": 1,
+              "title": "You Better Wait"
+            }
+          ],
+          "startDate": "1994-09-19"
+        },
+        {
+          "endDate": "1994-10-09",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "I'll Make Love to You"
+            }
+          ],
+          "startDate": "1994-09-26"
+        },
+        {
+          "endDate": "1994-11-06",
+          "items": [
+            {
+              "artist": "Sheryl Crow",
+              "rank": 1,
+              "title": "All I Wanna Do"
+            }
+          ],
+          "startDate": "1994-10-10"
+        },
+        {
+          "endDate": "1994-11-13",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "I'll Make Love to You"
+            }
+          ],
+          "startDate": "1994-11-07"
+        },
+        {
+          "endDate": "1994-12-04",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Secret"
+            }
+          ],
+          "startDate": "1994-11-14"
+        },
+        {
+          "endDate": "1994-12-31",
+          "items": [
+            {
+              "artist": "Bon Jovi",
+              "rank": 1,
+              "title": "Always"
+            }
+          ],
+          "startDate": "1994-12-05"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2004-12-17",
+        "provider": "Wikipedia contributors",
+        "territory": "CA",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_Canada"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "cfc1fa574d1ed227f297f5c07b82410ab755db41918ec2bacdb0e90d2ccbb348",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 1994
+}

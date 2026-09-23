@@ -1,0 +1,143 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2016-02-14",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Love Yourself"
+            }
+          ],
+          "startDate": "2016-01-01"
+        },
+        {
+          "endDate": "2016-02-21",
+          "items": [
+            {
+              "artist": "Zayn",
+              "rank": 1,
+              "title": "Pillowtalk"
+            }
+          ],
+          "startDate": "2016-02-15"
+        },
+        {
+          "endDate": "2016-04-17",
+          "items": [
+            {
+              "artist": "Lukas Graham",
+              "rank": 1,
+              "title": "7 Years"
+            }
+          ],
+          "startDate": "2016-02-22"
+        },
+        {
+          "endDate": "2016-05-01",
+          "items": [
+            {
+              "artist": "Fifth Harmony featuring Ty Dolla $ign",
+              "rank": 1,
+              "title": "Work from Home"
+            }
+          ],
+          "startDate": "2016-04-18"
+        },
+        {
+          "endDate": "2016-07-31",
+          "items": [
+            {
+              "artist": "Drake featuring Wizkid and Kyla",
+              "rank": 1,
+              "title": "One Dance"
+            }
+          ],
+          "startDate": "2016-05-02"
+        },
+        {
+          "endDate": "2016-08-28",
+          "items": [
+            {
+              "artist": "Major Lazer featuring Justin Bieber and MØ",
+              "rank": 1,
+              "title": "Cold Water"
+            }
+          ],
+          "startDate": "2016-08-01"
+        },
+        {
+          "endDate": "2016-10-23",
+          "items": [
+            {
+              "artist": "The Chainsmokers featuring Halsey",
+              "rank": 1,
+              "title": "Closer"
+            }
+          ],
+          "startDate": "2016-08-29"
+        },
+        {
+          "endDate": "2016-11-06",
+          "items": [
+            {
+              "artist": "The Weeknd featuring Daft Punk",
+              "rank": 1,
+              "title": "Starboy"
+            }
+          ],
+          "startDate": "2016-10-24"
+        },
+        {
+          "endDate": "2016-12-04",
+          "items": [
+            {
+              "artist": "Rae Sremmurd featuring Gucci Mane",
+              "rank": 1,
+              "title": "Black Beatles"
+            }
+          ],
+          "startDate": "2016-11-28"
+        },
+        {
+          "endDate": "2016-12-25",
+          "items": [
+            {
+              "artist": "The Weeknd featuring Daft Punk",
+              "rank": 1,
+              "title": "Starboy"
+            }
+          ],
+          "startDate": "2016-12-05"
+        },
+        {
+          "endDate": "2016-12-31",
+          "items": [
+            {
+              "artist": "Bruno Mars",
+              "rank": 1,
+              "title": "24K Magic"
+            }
+          ],
+          "startDate": "2016-12-26"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "3f08920cfd408df58dc9e0e5f890f82e474ef57808a03f5a3db2ae6fe9edd7e8",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 2016
+}

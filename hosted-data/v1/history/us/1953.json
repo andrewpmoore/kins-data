@@ -1,0 +1,121 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1953-01-09",
+          "items": [
+            {
+              "artist": "Jimmy Boyd",
+              "rank": 1,
+              "title": "I Saw Mommy Kissing Santa Claus"
+            }
+          ],
+          "startDate": "1953-01-01"
+        },
+        {
+          "endDate": "1953-02-13",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Don't Let the Stars Get in Your Eyes"
+            }
+          ],
+          "startDate": "1953-01-10"
+        },
+        {
+          "endDate": "1953-03-20",
+          "items": [
+            {
+              "artist": "Teresa Brewer",
+              "rank": 1,
+              "title": "Till I Waltz Again With You"
+            }
+          ],
+          "startDate": "1953-02-14"
+        },
+        {
+          "endDate": "1953-05-15",
+          "items": [
+            {
+              "artist": "Patti Page",
+              "rank": 1,
+              "title": "The Doggie In The Window"
+            }
+          ],
+          "startDate": "1953-03-21"
+        },
+        {
+          "endDate": "1953-07-24",
+          "items": [
+            {
+              "artist": "Percy Faith",
+              "rank": 1,
+              "title": "The Song From Moulin Rouge \"♪"
+            }
+          ],
+          "startDate": "1953-05-16"
+        },
+        {
+          "endDate": "1953-08-07",
+          "items": [
+            {
+              "artist": "Eddie Fisher",
+              "rank": 1,
+              "title": "I'm Walking Behind You"
+            }
+          ],
+          "startDate": "1953-07-25"
+        },
+        {
+          "endDate": "1953-10-09",
+          "items": [
+            {
+              "artist": "Les Paul and Mary Ford",
+              "rank": 1,
+              "title": "Vaya Con Dios"
+            }
+          ],
+          "startDate": "1953-08-08"
+        },
+        {
+          "endDate": "1953-11-06",
+          "items": [
+            {
+              "artist": "Stan Freberg",
+              "rank": 1,
+              "title": "St. George And The Dragonet"
+            }
+          ],
+          "startDate": "1953-10-24"
+        },
+        {
+          "endDate": "1953-12-31",
+          "items": [
+            {
+              "artist": "Tony Bennett",
+              "rank": 1,
+              "title": "Rags To Riches"
+            }
+          ],
+          "startDate": "1953-11-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "e81fca84ba21ccbd65d5535e0307eb82e88f3b252eb1a00386d7e29138594a76",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1953
+}

@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2024-01-06",
+          "items": [
+            {
+              "artist": "Santa",
+              "rank": 1,
+              "title": "Popcorn salé\" ◁"
+            }
+          ],
+          "startDate": "2024-01-01"
+        },
+        {
+          "endDate": "2024-02-03",
+          "items": [
+            {
+              "artist": "Santa",
+              "rank": 1,
+              "title": "Popcorn salé\" ◁"
+            }
+          ],
+          "startDate": "2024-01-28"
+        },
+        {
+          "endDate": "2024-03-09",
+          "items": [
+            {
+              "artist": "Pierre Garnier",
+              "rank": 1,
+              "title": "Ceux qu'on était\" ◁"
+            }
+          ],
+          "startDate": "2024-02-25"
+        },
+        {
+          "endDate": "2024-03-16",
+          "items": [
+            {
+              "artist": "Vernis Rouge",
+              "rank": 1,
+              "title": "Bande organisée\" ◁"
+            }
+          ],
+          "startDate": "2024-03-10"
+        },
+        {
+          "endDate": "2024-04-06",
+          "items": [
+            {
+              "artist": "Disturbed",
+              "rank": 1,
+              "title": "The Sound of Silence"
+            }
+          ],
+          "startDate": "2024-03-31"
+        },
+        {
+          "endDate": "2024-04-20",
+          "items": [
+            {
+              "artist": "Disturbed",
+              "rank": 1,
+              "title": "The Sound of Silence"
+            }
+          ],
+          "startDate": "2024-04-14"
+        },
+        {
+          "endDate": "2024-05-18",
+          "items": [
+            {
+              "artist": "Disturbed",
+              "rank": 1,
+              "title": "The Sound of Silence"
+            }
+          ],
+          "startDate": "2024-05-05"
+        },
+        {
+          "endDate": "2024-08-10",
+          "items": [
+            {
+              "artist": "Disturbed",
+              "rank": 1,
+              "title": "The Sound of Silence"
+            }
+          ],
+          "startDate": "2024-08-04"
+        },
+        {
+          "endDate": "2024-09-07",
+          "items": [
+            {
+              "artist": "Disturbed",
+              "rank": 1,
+              "title": "The Sound of Silence"
+            }
+          ],
+          "startDate": "2024-09-01"
+        },
+        {
+          "endDate": "2024-09-21",
+          "items": [
+            {
+              "artist": "Linkin Park",
+              "rank": 1,
+              "title": "The Emptiness Machine\" ◁"
+            }
+          ],
+          "startDate": "2024-09-15"
+        },
+        {
+          "endDate": "2024-10-12",
+          "items": [
+            {
+              "artist": "Kavinsky, Angèle and Phoenix",
+              "rank": 1,
+              "title": "Nightcall\" ◁"
+            }
+          ],
+          "startDate": "2024-10-06"
+        },
+        {
+          "endDate": "2024-12-21",
+          "items": [
+            {
+              "artist": "Rosé and Bruno Mars",
+              "rank": 1,
+              "title": "Apt.\" ◁"
+            }
+          ],
+          "startDate": "2024-12-08"
+        },
+        {
+          "endDate": "2024-12-31",
+          "items": [
+            {
+              "artist": "Rosé and Bruno Mars",
+              "rank": 1,
+              "title": "Apt.\" ◁"
+            }
+          ],
+          "startDate": "2024-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-01",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "78c8a2debcd4047471cfa8f0d62972b1484fea684c305fba018f5c89d18c60f8",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2024
+}

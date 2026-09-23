@@ -1,0 +1,121 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2017-01-04",
+          "items": [
+            {
+              "artist": "Clean Bandit featuring Sean Paul and Anne-Marie",
+              "rank": 1,
+              "title": "Rockabye"
+            }
+          ],
+          "startDate": "2017-01-01"
+        },
+        {
+          "endDate": "2017-05-11",
+          "items": [
+            {
+              "artist": "Luis Fonsi and Daddy Yankee featuring Justin Bieber",
+              "rank": 1,
+              "title": "Despacito"
+            }
+          ],
+          "startDate": "2017-05-05"
+        },
+        {
+          "endDate": "2017-05-25",
+          "items": [
+            {
+              "artist": "Luis Fonsi and Daddy Yankee featuring Justin Bieber",
+              "rank": 1,
+              "title": "Despacito"
+            }
+          ],
+          "startDate": "2017-05-19"
+        },
+        {
+          "endDate": "2017-06-15",
+          "items": [
+            {
+              "artist": "Luis Fonsi and Daddy Yankee featuring Justin Bieber",
+              "rank": 1,
+              "title": "Despacito"
+            }
+          ],
+          "startDate": "2017-06-02"
+        },
+        {
+          "endDate": "2017-08-10",
+          "items": [
+            {
+              "artist": "Luis Fonsi and Daddy Yankee featuring Justin Bieber",
+              "rank": 1,
+              "title": "Despacito"
+            }
+          ],
+          "startDate": "2017-07-21"
+        },
+        {
+          "endDate": "2017-09-14",
+          "items": [
+            {
+              "artist": "Dua Lipa",
+              "rank": 1,
+              "title": "New Rules"
+            }
+          ],
+          "startDate": "2017-09-08"
+        },
+        {
+          "endDate": "2017-09-28",
+          "items": [
+            {
+              "artist": "Dua Lipa",
+              "rank": 1,
+              "title": "New Rules"
+            }
+          ],
+          "startDate": "2017-09-22"
+        },
+        {
+          "endDate": "2017-11-16",
+          "items": [
+            {
+              "artist": "Camila Cabello featuring Young Thug",
+              "rank": 1,
+              "title": "Havana"
+            }
+          ],
+          "startDate": "2017-11-10"
+        },
+        {
+          "endDate": "2017-12-07",
+          "items": [
+            {
+              "artist": "Camila Cabello featuring Young Thug",
+              "rank": 1,
+              "title": "Havana"
+            }
+          ],
+          "startDate": "2017-12-01"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-06",
+        "provider": "Wikipedia contributors",
+        "territory": "IE",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_that_reached_number_one_on_the_Irish_Singles_Chart"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "76181eaef4453bd71fe232d2f2eba9e6fb93567dca2ee6a7c5f4fc44385d781b",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2017
+}

@@ -1,0 +1,176 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1959-01-30",
+          "items": [
+            {
+              "artist": "Conway Twitty",
+              "rank": 1,
+              "title": "It's Only Make Believe"
+            }
+          ],
+          "startDate": "1959-01-01"
+        },
+        {
+          "endDate": "1959-02-20",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "I Got Stung\" / \"One Night"
+            }
+          ],
+          "startDate": "1959-01-31"
+        },
+        {
+          "endDate": "1959-02-27",
+          "items": [
+            {
+              "artist": "Shirley Bassey with Wally Stott & His Orchestra",
+              "rank": 1,
+              "title": "As I Love You"
+            }
+          ],
+          "startDate": "1959-02-21"
+        },
+        {
+          "endDate": "1959-03-27",
+          "items": [
+            {
+              "artist": "The Platters",
+              "rank": 1,
+              "title": "Smoke Gets in Your Eyes"
+            }
+          ],
+          "startDate": "1959-02-28"
+        },
+        {
+          "endDate": "1959-04-17",
+          "items": [
+            {
+              "artist": "Russ Conway",
+              "rank": 1,
+              "title": "Side Saddle"
+            }
+          ],
+          "startDate": "1959-03-28"
+        },
+        {
+          "endDate": "1959-05-22",
+          "items": [
+            {
+              "artist": "Buddy Holly",
+              "rank": 1,
+              "title": "It Doesn't Matter Any More"
+            }
+          ],
+          "startDate": "1959-04-18"
+        },
+        {
+          "endDate": "1959-06-19",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Fool Such As I\" / \"I Need Your Love Tonight"
+            }
+          ],
+          "startDate": "1959-05-23"
+        },
+        {
+          "endDate": "1959-06-26",
+          "items": [
+            {
+              "artist": "Russ Conway",
+              "rank": 1,
+              "title": "Roulette"
+            }
+          ],
+          "startDate": "1959-06-20"
+        },
+        {
+          "endDate": "1959-07-10",
+          "items": [
+            {
+              "artist": "Bobby Darin",
+              "rank": 1,
+              "title": "Dream Lover"
+            }
+          ],
+          "startDate": "1959-06-27"
+        },
+        {
+          "endDate": "1959-08-14",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Living Doll"
+            }
+          ],
+          "startDate": "1959-08-01"
+        },
+        {
+          "endDate": "1959-10-16",
+          "items": [
+            {
+              "artist": "Craig Douglas",
+              "rank": 1,
+              "title": "Only Sixteen"
+            }
+          ],
+          "startDate": "1959-09-05"
+        },
+        {
+          "endDate": "1959-12-04",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-10-17"
+        },
+        {
+          "endDate": "1959-12-11",
+          "items": [
+            {
+              "artist": "Emile Ford",
+              "rank": 1,
+              "title": "What Do You Want to Make Those Eyes at Me For?"
+            }
+          ],
+          "startDate": "1959-12-05"
+        },
+        {
+          "endDate": "1959-12-31",
+          "items": [
+            {
+              "artist": "Adam Faith",
+              "rank": 1,
+              "title": "What Do You Want"
+            }
+          ],
+          "startDate": "1959-12-12"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-05",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "39d639104172b6858374df138b190e5ec8afb31c1c8229d9a813acd5b1939553",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1959
+}

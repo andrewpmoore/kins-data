@@ -1,0 +1,220 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1985-01-06",
+          "items": [
+            {
+              "artist": "Alaska y Dinarama",
+              "rank": 1,
+              "title": "¿Cómo Pudiste Hacerme Esto a Mí?"
+            }
+          ],
+          "startDate": "1985-01-01"
+        },
+        {
+          "endDate": "1985-01-13",
+          "items": [
+            {
+              "artist": "Ray Parker Jr.",
+              "rank": 1,
+              "title": "Ghostbusters"
+            }
+          ],
+          "startDate": "1985-01-07"
+        },
+        {
+          "endDate": "1985-02-17",
+          "items": [
+            {
+              "artist": "Alaska y Dinarama",
+              "rank": 1,
+              "title": "¿Cómo Pudiste Hacerme Esto a Mí?"
+            }
+          ],
+          "startDate": "1985-01-14"
+        },
+        {
+          "endDate": "1985-02-24",
+          "items": [
+            {
+              "artist": "Limahl",
+              "rank": 1,
+              "title": "The NeverEnding Story"
+            }
+          ],
+          "startDate": "1985-02-18"
+        },
+        {
+          "endDate": "1985-03-10",
+          "items": [
+            {
+              "artist": "Miguel Bosé",
+              "rank": 1,
+              "title": "Amante Bandido"
+            }
+          ],
+          "startDate": "1985-02-25"
+        },
+        {
+          "endDate": "1985-04-07",
+          "items": [
+            {
+              "artist": "VideoKids",
+              "rank": 1,
+              "title": "Woodpeckers from Space"
+            }
+          ],
+          "startDate": "1985-03-11"
+        },
+        {
+          "endDate": "1985-05-05",
+          "items": [
+            {
+              "artist": "Alaska y Dinarama",
+              "rank": 1,
+              "title": "Ni Tú, Ni Nadie"
+            }
+          ],
+          "startDate": "1985-04-08"
+        },
+        {
+          "endDate": "1985-05-12",
+          "items": [
+            {
+              "artist": "Murray Head",
+              "rank": 1,
+              "title": "One Night in Bangkok"
+            }
+          ],
+          "startDate": "1985-05-06"
+        },
+        {
+          "endDate": "1985-05-19",
+          "items": [
+            {
+              "artist": "Alaska y Dinarama",
+              "rank": 1,
+              "title": "Ni Tú, Ni Nadie"
+            }
+          ],
+          "startDate": "1985-05-13"
+        },
+        {
+          "endDate": "1985-07-14",
+          "items": [
+            {
+              "artist": "USA For Africa",
+              "rank": 1,
+              "title": "We Are the World"
+            }
+          ],
+          "startDate": "1985-05-20"
+        },
+        {
+          "endDate": "1985-07-21",
+          "items": [
+            {
+              "artist": "Iván",
+              "rank": 1,
+              "title": "Baila"
+            }
+          ],
+          "startDate": "1985-07-15"
+        },
+        {
+          "endDate": "1985-08-04",
+          "items": [
+            {
+              "artist": "Baltimora",
+              "rank": 1,
+              "title": "Tarzan Boy"
+            }
+          ],
+          "startDate": "1985-07-22"
+        },
+        {
+          "endDate": "1985-10-20",
+          "items": [
+            {
+              "artist": "Opus",
+              "rank": 1,
+              "title": "Live Is Life"
+            }
+          ],
+          "startDate": "1985-08-05"
+        },
+        {
+          "endDate": "1985-11-03",
+          "items": [
+            {
+              "artist": "Stevie Wonder",
+              "rank": 1,
+              "title": "Part-Time Lover"
+            }
+          ],
+          "startDate": "1985-10-21"
+        },
+        {
+          "endDate": "1985-11-10",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Into the Groove"
+            }
+          ],
+          "startDate": "1985-11-04"
+        },
+        {
+          "endDate": "1985-12-01",
+          "items": [
+            {
+              "artist": "Stevie Wonder",
+              "rank": 1,
+              "title": "Part-Time Lover"
+            }
+          ],
+          "startDate": "1985-11-11"
+        },
+        {
+          "endDate": "1985-12-08",
+          "items": [
+            {
+              "artist": "Tina Turner",
+              "rank": 1,
+              "title": "We Don't Need Another Hero"
+            }
+          ],
+          "startDate": "1985-12-02"
+        },
+        {
+          "endDate": "1985-12-31",
+          "items": [
+            {
+              "artist": "Stevie Wonder",
+              "rank": 1,
+              "title": "Part-Time Lover"
+            }
+          ],
+          "startDate": "1985-12-09"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "d08a0e40cb1a3c59206f9c464c39428ce8fef4d2ee7e8043700b1df5b027f7f3",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1985
+}

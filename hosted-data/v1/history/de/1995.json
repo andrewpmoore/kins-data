@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1995-01-01",
+          "items": [
+            {
+              "artist": "No release",
+              "rank": 1,
+              "title": "No release"
+            }
+          ],
+          "startDate": "1995-01-01"
+        },
+        {
+          "endDate": "1995-01-15",
+          "items": [
+            {
+              "artist": "Rednex",
+              "rank": 1,
+              "title": "Cotton Eye Joe"
+            }
+          ],
+          "startDate": "1995-01-02"
+        },
+        {
+          "endDate": "1995-02-05",
+          "items": [
+            {
+              "artist": "Mark 'Oh",
+              "rank": 1,
+              "title": "Tears Don't Lie"
+            }
+          ],
+          "startDate": "1995-01-16"
+        },
+        {
+          "endDate": "1995-02-12",
+          "items": [
+            {
+              "artist": "The Cranberries",
+              "rank": 1,
+              "title": "Zombie"
+            }
+          ],
+          "startDate": "1995-02-06"
+        },
+        {
+          "endDate": "1995-04-30",
+          "items": [
+            {
+              "artist": "Vangelis",
+              "rank": 1,
+              "title": "Conquest of Paradise\"†"
+            }
+          ],
+          "startDate": "1995-02-13"
+        },
+        {
+          "endDate": "1995-05-28",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Back for Good"
+            }
+          ],
+          "startDate": "1995-05-01"
+        },
+        {
+          "endDate": "1995-06-25",
+          "items": [
+            {
+              "artist": "La Bouche",
+              "rank": 1,
+              "title": "Be My Lover"
+            }
+          ],
+          "startDate": "1995-05-29"
+        },
+        {
+          "endDate": "1995-07-02",
+          "items": [
+            {
+              "artist": "Die Doofen",
+              "rank": 1,
+              "title": "Mief!"
+            }
+          ],
+          "startDate": "1995-06-26"
+        },
+        {
+          "endDate": "1995-08-13",
+          "items": [
+            {
+              "artist": "Rednex",
+              "rank": 1,
+              "title": "Wish You Were Here"
+            }
+          ],
+          "startDate": "1995-07-03"
+        },
+        {
+          "endDate": "1995-09-03",
+          "items": [
+            {
+              "artist": "Scatman John",
+              "rank": 1,
+              "title": "Scatman's World"
+            }
+          ],
+          "startDate": "1995-08-14"
+        },
+        {
+          "endDate": "1995-09-24",
+          "items": [
+            {
+              "artist": "The Outhere Brothers",
+              "rank": 1,
+              "title": "Boom Boom Boom"
+            }
+          ],
+          "startDate": "1995-09-04"
+        },
+        {
+          "endDate": "1995-10-08",
+          "items": [
+            {
+              "artist": "Technohead",
+              "rank": 1,
+              "title": "I Wanna Be a Hippy"
+            }
+          ],
+          "startDate": "1995-09-25"
+        },
+        {
+          "endDate": "1995-10-29",
+          "items": [
+            {
+              "artist": "Die Fantastischen Vier",
+              "rank": 1,
+              "title": "Sie ist Weg"
+            }
+          ],
+          "startDate": "1995-10-09"
+        },
+        {
+          "endDate": "1995-12-10",
+          "items": [
+            {
+              "artist": "Coolio featuring L.V.",
+              "rank": 1,
+              "title": "Gangsta's Paradise"
+            }
+          ],
+          "startDate": "1995-10-30"
+        },
+        {
+          "endDate": "1995-12-31",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Earth Song"
+            }
+          ],
+          "startDate": "1995-12-11"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-06",
+        "provider": "Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "710189ab9ad095b5fc9f2bc70c5ae347cdb3cc31cf8748ddf4e2fd27cc2f0fc4",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 1995
+}

@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2021-01-07",
+          "items": [
+            {
+              "artist": "Vasco Rossi",
+              "rank": 1,
+              "title": "Una canzone d'amore buttata via"
+            }
+          ],
+          "startDate": "2021-01-01"
+        },
+        {
+          "endDate": "2021-01-14",
+          "items": [
+            {
+              "artist": "Capo Plaza",
+              "rank": 1,
+              "title": "Allenamento #4"
+            }
+          ],
+          "startDate": "2021-01-08"
+        },
+        {
+          "endDate": "2021-03-04",
+          "items": [
+            {
+              "artist": "Mace, Blanco and Salmo",
+              "rank": 1,
+              "title": "La canzone nostra"
+            }
+          ],
+          "startDate": "2021-01-15"
+        },
+        {
+          "endDate": "2021-03-11",
+          "items": [
+            {
+              "artist": "Francesca Michielin and Fedez",
+              "rank": 1,
+              "title": "Chiamami per nome"
+            }
+          ],
+          "startDate": "2021-03-05"
+        },
+        {
+          "endDate": "2021-04-29",
+          "items": [
+            {
+              "artist": "Colapesce and Dimartino",
+              "rank": 1,
+              "title": "Musica leggerissima"
+            }
+          ],
+          "startDate": "2021-03-12"
+        },
+        {
+          "endDate": "2021-05-13",
+          "items": [
+            {
+              "artist": "Rkomi, Sfera Ebbasta and Junior K",
+              "rank": 1,
+              "title": "Nuovo Range"
+            }
+          ],
+          "startDate": "2021-04-30"
+        },
+        {
+          "endDate": "2021-06-10",
+          "items": [
+            {
+              "artist": "Sangiovanni",
+              "rank": 1,
+              "title": "Malibu"
+            }
+          ],
+          "startDate": "2021-05-14"
+        },
+        {
+          "endDate": "2021-07-15",
+          "items": [
+            {
+              "artist": "Fedez, Achille Lauro and Orietta Berti",
+              "rank": 1,
+              "title": "Mille"
+            }
+          ],
+          "startDate": "2021-06-11"
+        },
+        {
+          "endDate": "2021-09-09",
+          "items": [
+            {
+              "artist": "Blanco and Sfera Ebbasta",
+              "rank": 1,
+              "title": "Mi fai impazzire"
+            }
+          ],
+          "startDate": "2021-07-16"
+        },
+        {
+          "endDate": "2021-09-23",
+          "items": [
+            {
+              "artist": "Blanco",
+              "rank": 1,
+              "title": "Blu celeste"
+            }
+          ],
+          "startDate": "2021-09-10"
+        },
+        {
+          "endDate": "2021-09-30",
+          "items": [
+            {
+              "artist": "Fedez",
+              "rank": 1,
+              "title": "Meglio del cinema"
+            }
+          ],
+          "startDate": "2021-09-24"
+        },
+        {
+          "endDate": "2021-10-14",
+          "items": [
+            {
+              "artist": "Salmo",
+              "rank": 1,
+              "title": "Kumite"
+            }
+          ],
+          "startDate": "2021-10-01"
+        },
+        {
+          "endDate": "2021-10-21",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Easy on Me"
+            }
+          ],
+          "startDate": "2021-10-15"
+        },
+        {
+          "endDate": "2021-11-18",
+          "items": [
+            {
+              "artist": "Salmo",
+              "rank": 1,
+              "title": "Kumite"
+            }
+          ],
+          "startDate": "2021-10-22"
+        },
+        {
+          "endDate": "2021-12-23",
+          "items": [
+            {
+              "artist": "Marracash and Gué Pequeno",
+              "rank": 1,
+              "title": "∞ Love"
+            }
+          ],
+          "startDate": "2021-11-19"
+        },
+        {
+          "endDate": "2021-12-30",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2021-12-24"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2021-12-24",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "132ccd26cdba5899d9da9d62fafe1c0366ca86bc948c7139115641bdc633b0f4",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2021
+}

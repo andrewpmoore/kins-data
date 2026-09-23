@@ -1,0 +1,198 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1972-01-09",
+          "items": [
+            {
+              "artist": "Pop-Tops",
+              "rank": 1,
+              "title": "Mammy Blue"
+            }
+          ],
+          "startDate": "1972-01-01"
+        },
+        {
+          "endDate": "1972-03-19",
+          "items": [
+            {
+              "artist": "Jeanette",
+              "rank": 1,
+              "title": "Soy rebelde"
+            }
+          ],
+          "startDate": "1972-01-10"
+        },
+        {
+          "endDate": "1972-03-26",
+          "items": [
+            {
+              "artist": "Redbone",
+              "rank": 1,
+              "title": "The Witch Queen of New Orleans"
+            }
+          ],
+          "startDate": "1972-03-20"
+        },
+        {
+          "endDate": "1972-04-02",
+          "items": [
+            {
+              "artist": "Micky",
+              "rank": 1,
+              "title": "El Chico de la Armónica"
+            }
+          ],
+          "startDate": "1972-03-27"
+        },
+        {
+          "endDate": "1972-04-09",
+          "items": [
+            {
+              "artist": "Redbone",
+              "rank": 1,
+              "title": "The Witch Queen of New Orleans"
+            }
+          ],
+          "startDate": "1972-04-03"
+        },
+        {
+          "endDate": "1972-05-21",
+          "items": [
+            {
+              "artist": "Mari Trini",
+              "rank": 1,
+              "title": "Yo No Soy Esa"
+            }
+          ],
+          "startDate": "1972-04-10"
+        },
+        {
+          "endDate": "1972-05-28",
+          "items": [
+            {
+              "artist": "Chicory Tip",
+              "rank": 1,
+              "title": "Son of My Father"
+            }
+          ],
+          "startDate": "1972-05-22"
+        },
+        {
+          "endDate": "1972-06-04",
+          "items": [
+            {
+              "artist": "Paul McCartney",
+              "rank": 1,
+              "title": "Give Ireland Back To The Irish"
+            }
+          ],
+          "startDate": "1972-05-29"
+        },
+        {
+          "endDate": "1972-06-18",
+          "items": [
+            {
+              "artist": "Tony Christie",
+              "rank": 1,
+              "title": "Amarillo"
+            }
+          ],
+          "startDate": "1972-06-05"
+        },
+        {
+          "endDate": "1972-07-09",
+          "items": [
+            {
+              "artist": "Chicory Tip",
+              "rank": 1,
+              "title": "Son of My Father"
+            }
+          ],
+          "startDate": "1972-06-19"
+        },
+        {
+          "endDate": "1972-09-24",
+          "items": [
+            {
+              "artist": "Camilo Sesto",
+              "rank": 1,
+              "title": "Algo de Mi"
+            }
+          ],
+          "startDate": "1972-07-10"
+        },
+        {
+          "endDate": "1972-10-01",
+          "items": [
+            {
+              "artist": "Los Diablos",
+              "rank": 1,
+              "title": "Oh Oh July"
+            }
+          ],
+          "startDate": "1972-09-25"
+        },
+        {
+          "endDate": "1972-10-08",
+          "items": [
+            {
+              "artist": "Camilo Sesto",
+              "rank": 1,
+              "title": "Algo De Mi"
+            }
+          ],
+          "startDate": "1972-10-02"
+        },
+        {
+          "endDate": "1972-10-15",
+          "items": [
+            {
+              "artist": "The Popcorn Makers",
+              "rank": 1,
+              "title": "Popcorn"
+            }
+          ],
+          "startDate": "1972-10-09"
+        },
+        {
+          "endDate": "1972-10-22",
+          "items": [
+            {
+              "artist": "Camilo Sesto",
+              "rank": 1,
+              "title": "Algo De Mi"
+            }
+          ],
+          "startDate": "1972-10-16"
+        },
+        {
+          "endDate": "1972-12-31",
+          "items": [
+            {
+              "artist": "Andy Williams",
+              "rank": 1,
+              "title": "Speak Softly Love"
+            }
+          ],
+          "startDate": "1972-10-23"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5ace38f0ec51f0cf82a9cdf3b17f02fb1fca41ffd0a8b91ed0f7775ed2edde83",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1972
+}

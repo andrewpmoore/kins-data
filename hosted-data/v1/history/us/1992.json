@@ -1,0 +1,165 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1992-01-24",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Black or White"
+            }
+          ],
+          "startDate": "1992-01-01"
+        },
+        {
+          "endDate": "1992-01-31",
+          "items": [
+            {
+              "artist": "Color Me Badd",
+              "rank": 1,
+              "title": "All 4 Love"
+            }
+          ],
+          "startDate": "1992-01-25"
+        },
+        {
+          "endDate": "1992-02-07",
+          "items": [
+            {
+              "artist": "George Michael & Elton John",
+              "rank": 1,
+              "title": "Don't Let The Sun Go Down On Me"
+            }
+          ],
+          "startDate": "1992-02-01"
+        },
+        {
+          "endDate": "1992-02-28",
+          "items": [
+            {
+              "artist": "Right Said Fred",
+              "rank": 1,
+              "title": "I'm Too Sexy"
+            }
+          ],
+          "startDate": "1992-02-08"
+        },
+        {
+          "endDate": "1992-03-20",
+          "items": [
+            {
+              "artist": "Mr. Big",
+              "rank": 1,
+              "title": "To Be With You"
+            }
+          ],
+          "startDate": "1992-02-29"
+        },
+        {
+          "endDate": "1992-04-24",
+          "items": [
+            {
+              "artist": "Vanessa Williams",
+              "rank": 1,
+              "title": "Save the Best for Last"
+            }
+          ],
+          "startDate": "1992-03-21"
+        },
+        {
+          "endDate": "1992-06-19",
+          "items": [
+            {
+              "artist": "Kris Kross",
+              "rank": 1,
+              "title": "Jump"
+            }
+          ],
+          "startDate": "1992-04-25"
+        },
+        {
+          "endDate": "1992-07-03",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "I'll Be There"
+            }
+          ],
+          "startDate": "1992-06-20"
+        },
+        {
+          "endDate": "1992-08-07",
+          "items": [
+            {
+              "artist": "Sir Mix-A-Lot",
+              "rank": 1,
+              "title": "Baby Got Back"
+            }
+          ],
+          "startDate": "1992-07-04"
+        },
+        {
+          "endDate": "1992-08-14",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "This Used To Be My Playground"
+            }
+          ],
+          "startDate": "1992-08-08"
+        },
+        {
+          "endDate": "1992-11-13",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "End of the Road\"♪"
+            }
+          ],
+          "startDate": "1992-08-15"
+        },
+        {
+          "endDate": "1992-11-27",
+          "items": [
+            {
+              "artist": "The Heights",
+              "rank": 1,
+              "title": "How Do You Talk To An Angel"
+            }
+          ],
+          "startDate": "1992-11-14"
+        },
+        {
+          "endDate": "1992-12-31",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You\"♪"
+            }
+          ],
+          "startDate": "1992-11-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "aec0dd5d1b7de617a52d0515222a9f58787d336962166357b8f596f62f7dbf28",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1992
+}

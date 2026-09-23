@@ -1,0 +1,55 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1998-01-17",
+          "items": [
+            {
+              "artist": "Backstreet Boys",
+              "rank": 1,
+              "title": "As Long as You Love Me"
+            }
+          ],
+          "startDate": "1998-01-01"
+        },
+        {
+          "endDate": "1998-02-21",
+          "items": [
+            {
+              "artist": "All Saints",
+              "rank": 1,
+              "title": "Never Ever"
+            }
+          ],
+          "startDate": "1998-01-18"
+        },
+        {
+          "endDate": "1998-11-28",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "No Matter What"
+            }
+          ],
+          "startDate": "1998-10-18"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "727fccbb02edd3534506ee488d297128553f0f630bd0af917b0a0b883dbdbd45",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 1998
+}

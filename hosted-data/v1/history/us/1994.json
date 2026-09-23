@@ -1,0 +1,132 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1994-01-21",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Hero"
+            }
+          ],
+          "startDate": "1994-01-01"
+        },
+        {
+          "endDate": "1994-02-11",
+          "items": [
+            {
+              "artist": "Bryan Adams, Rod Stewart & Sting",
+              "rank": 1,
+              "title": "All For Love"
+            }
+          ],
+          "startDate": "1994-01-22"
+        },
+        {
+          "endDate": "1994-03-11",
+          "items": [
+            {
+              "artist": "Céline Dion",
+              "rank": 1,
+              "title": "The Power Of Love"
+            }
+          ],
+          "startDate": "1994-02-12"
+        },
+        {
+          "endDate": "1994-04-08",
+          "items": [
+            {
+              "artist": "Ace of Base",
+              "rank": 1,
+              "title": "The Sign\" ♪"
+            }
+          ],
+          "startDate": "1994-03-12"
+        },
+        {
+          "endDate": "1994-05-06",
+          "items": [
+            {
+              "artist": "R. Kelly",
+              "rank": 1,
+              "title": "Bump n' Grind"
+            }
+          ],
+          "startDate": "1994-04-23"
+        },
+        {
+          "endDate": "1994-08-05",
+          "items": [
+            {
+              "artist": "All-4-One",
+              "rank": 1,
+              "title": "I Swear"
+            }
+          ],
+          "startDate": "1994-05-21"
+        },
+        {
+          "endDate": "1994-08-26",
+          "items": [
+            {
+              "artist": "Lisa Loeb & Nine Stories",
+              "rank": 1,
+              "title": "Stay"
+            }
+          ],
+          "startDate": "1994-08-06"
+        },
+        {
+          "endDate": "1994-12-02",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "I'll Make Love to You"
+            }
+          ],
+          "startDate": "1994-08-27"
+        },
+        {
+          "endDate": "1994-12-16",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "On Bended Knee"
+            }
+          ],
+          "startDate": "1994-12-03"
+        },
+        {
+          "endDate": "1994-12-31",
+          "items": [
+            {
+              "artist": "Boyz II Men",
+              "rank": 1,
+              "title": "On Bended Knee"
+            }
+          ],
+          "startDate": "1994-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "43e0318cafa5b65e9e18f3c4c2d183436164b8c7a6dd612eb802b0e575b4b382",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1994
+}

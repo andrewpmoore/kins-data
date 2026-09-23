@@ -1,0 +1,209 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1981-01-30",
+          "items": [
+            {
+              "artist": "John Lennon",
+              "rank": 1,
+              "title": "Starting Over"
+            }
+          ],
+          "startDate": "1981-01-01"
+        },
+        {
+          "endDate": "1981-02-06",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "The Tide Is High"
+            }
+          ],
+          "startDate": "1981-01-31"
+        },
+        {
+          "endDate": "1981-02-20",
+          "items": [
+            {
+              "artist": "Kool & the Gang",
+              "rank": 1,
+              "title": "Celebration"
+            }
+          ],
+          "startDate": "1981-02-07"
+        },
+        {
+          "endDate": "1981-02-27",
+          "items": [
+            {
+              "artist": "Dolly Parton",
+              "rank": 1,
+              "title": "9 to 5"
+            }
+          ],
+          "startDate": "1981-02-21"
+        },
+        {
+          "endDate": "1981-03-13",
+          "items": [
+            {
+              "artist": "Eddie Rabbitt",
+              "rank": 1,
+              "title": "I Love a Rainy Night"
+            }
+          ],
+          "startDate": "1981-03-07"
+        },
+        {
+          "endDate": "1981-03-27",
+          "items": [
+            {
+              "artist": "REO Speedwagon",
+              "rank": 1,
+              "title": "Keep On Loving You"
+            }
+          ],
+          "startDate": "1981-03-21"
+        },
+        {
+          "endDate": "1981-04-10",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "Rapture"
+            }
+          ],
+          "startDate": "1981-03-28"
+        },
+        {
+          "endDate": "1981-05-01",
+          "items": [
+            {
+              "artist": "Daryl Hall and John Oates",
+              "rank": 1,
+              "title": "Kiss on My List"
+            }
+          ],
+          "startDate": "1981-04-11"
+        },
+        {
+          "endDate": "1981-05-15",
+          "items": [
+            {
+              "artist": "Sheena Easton",
+              "rank": 1,
+              "title": "Morning Train"
+            }
+          ],
+          "startDate": "1981-05-02"
+        },
+        {
+          "endDate": "1981-06-19",
+          "items": [
+            {
+              "artist": "Kim Carnes",
+              "rank": 1,
+              "title": "Bette Davis Eyes\"♪"
+            }
+          ],
+          "startDate": "1981-05-16"
+        },
+        {
+          "endDate": "1981-07-17",
+          "items": [
+            {
+              "artist": "Kim Carnes",
+              "rank": 1,
+              "title": "Bette Davis Eyes\"♪"
+            }
+          ],
+          "startDate": "1981-06-27"
+        },
+        {
+          "endDate": "1981-07-31",
+          "items": [
+            {
+              "artist": "Air Supply",
+              "rank": 1,
+              "title": "The One That You Love"
+            }
+          ],
+          "startDate": "1981-07-25"
+        },
+        {
+          "endDate": "1981-08-14",
+          "items": [
+            {
+              "artist": "Rick Springfield",
+              "rank": 1,
+              "title": "Jessie's Girl"
+            }
+          ],
+          "startDate": "1981-08-01"
+        },
+        {
+          "endDate": "1981-10-16",
+          "items": [
+            {
+              "artist": "Diana Ross and Lionel Richie",
+              "rank": 1,
+              "title": "Endless Love"
+            }
+          ],
+          "startDate": "1981-08-15"
+        },
+        {
+          "endDate": "1981-11-06",
+          "items": [
+            {
+              "artist": "Christopher Cross",
+              "rank": 1,
+              "title": "Arthur's Theme"
+            }
+          ],
+          "startDate": "1981-10-17"
+        },
+        {
+          "endDate": "1981-11-20",
+          "items": [
+            {
+              "artist": "Daryl Hall and John Oates",
+              "rank": 1,
+              "title": "Private Eyes"
+            }
+          ],
+          "startDate": "1981-11-07"
+        },
+        {
+          "endDate": "1981-12-31",
+          "items": [
+            {
+              "artist": "Olivia Newton-John",
+              "rank": 1,
+              "title": "Physical\"♪"
+            }
+          ],
+          "startDate": "1981-11-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7dd1da61a8f8a78acd215597b414b9a30d21b4894d0af964928b954af5ea0cda",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1981
+}

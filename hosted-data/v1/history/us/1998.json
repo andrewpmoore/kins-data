@@ -1,0 +1,187 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1998-01-16",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Candle in the Wind '97\" / \"Something About the Way You Look Tonight\"♪"
+            }
+          ],
+          "startDate": "1998-01-01"
+        },
+        {
+          "endDate": "1998-01-30",
+          "items": [
+            {
+              "artist": "Savage Garden",
+              "rank": 1,
+              "title": "Truly Madly Deeply"
+            }
+          ],
+          "startDate": "1998-01-17"
+        },
+        {
+          "endDate": "1998-02-13",
+          "items": [
+            {
+              "artist": "Janet Jackson",
+              "rank": 1,
+              "title": "Together Again"
+            }
+          ],
+          "startDate": "1998-01-31"
+        },
+        {
+          "endDate": "1998-02-27",
+          "items": [
+            {
+              "artist": "Usher",
+              "rank": 1,
+              "title": "Nice & Slow"
+            }
+          ],
+          "startDate": "1998-02-14"
+        },
+        {
+          "endDate": "1998-03-13",
+          "items": [
+            {
+              "artist": "Céline Dion",
+              "rank": 1,
+              "title": "My Heart Will Go On"
+            }
+          ],
+          "startDate": "1998-02-28"
+        },
+        {
+          "endDate": "1998-04-03",
+          "items": [
+            {
+              "artist": "Will Smith",
+              "rank": 1,
+              "title": "Gettin' Jiggy Wit It"
+            }
+          ],
+          "startDate": "1998-03-14"
+        },
+        {
+          "endDate": "1998-04-24",
+          "items": [
+            {
+              "artist": "K-Ci & JoJo",
+              "rank": 1,
+              "title": "All My Life"
+            }
+          ],
+          "startDate": "1998-04-04"
+        },
+        {
+          "endDate": "1998-05-22",
+          "items": [
+            {
+              "artist": "Next",
+              "rank": 1,
+              "title": "Too Close\"♪"
+            }
+          ],
+          "startDate": "1998-04-25"
+        },
+        {
+          "endDate": "1998-09-04",
+          "items": [
+            {
+              "artist": "Brandy & Monica",
+              "rank": 1,
+              "title": "The Boy Is Mine"
+            }
+          ],
+          "startDate": "1998-06-06"
+        },
+        {
+          "endDate": "1998-10-02",
+          "items": [
+            {
+              "artist": "Aerosmith",
+              "rank": 1,
+              "title": "I Don't Want to Miss a Thing"
+            }
+          ],
+          "startDate": "1998-09-05"
+        },
+        {
+          "endDate": "1998-10-16",
+          "items": [
+            {
+              "artist": "Monica",
+              "rank": 1,
+              "title": "The First Night"
+            }
+          ],
+          "startDate": "1998-10-03"
+        },
+        {
+          "endDate": "1998-11-06",
+          "items": [
+            {
+              "artist": "Monica",
+              "rank": 1,
+              "title": "The First Night"
+            }
+          ],
+          "startDate": "1998-10-24"
+        },
+        {
+          "endDate": "1998-11-27",
+          "items": [
+            {
+              "artist": "Lauryn Hill",
+              "rank": 1,
+              "title": "Doo Wop"
+            }
+          ],
+          "startDate": "1998-11-14"
+        },
+        {
+          "endDate": "1998-12-04",
+          "items": [
+            {
+              "artist": "Divine",
+              "rank": 1,
+              "title": "Lately"
+            }
+          ],
+          "startDate": "1998-11-28"
+        },
+        {
+          "endDate": "1998-12-31",
+          "items": [
+            {
+              "artist": "R. Kelly & Céline Dion",
+              "rank": 1,
+              "title": "I'm Your Angel"
+            }
+          ],
+          "startDate": "1998-12-05"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-02-28",
+        "provider": "Wikipedia contributors",
+        "territory": "US",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9eb60c94162b8b013fba108a9e798b62db23fc3d011700aadec17564c40074bd",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 1998
+}

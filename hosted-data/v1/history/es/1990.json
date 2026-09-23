@@ -1,0 +1,253 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1990-01-19",
+          "items": [
+            {
+              "artist": "Jive Bunny and the Mastermixers",
+              "rank": 1,
+              "title": "That's What I Like"
+            }
+          ],
+          "startDate": "1990-01-06"
+        },
+        {
+          "endDate": "1990-02-02",
+          "items": [
+            {
+              "artist": "Technotronic",
+              "rank": 1,
+              "title": "Pump Up the Jam"
+            }
+          ],
+          "startDate": "1990-01-20"
+        },
+        {
+          "endDate": "1990-02-09",
+          "items": [
+            {
+              "artist": "Lisa Stansfield",
+              "rank": 1,
+              "title": "All Around the World"
+            }
+          ],
+          "startDate": "1990-02-03"
+        },
+        {
+          "endDate": "1990-02-16",
+          "items": [
+            {
+              "artist": "Technotronic",
+              "rank": 1,
+              "title": "Pump Up the Jam"
+            }
+          ],
+          "startDate": "1990-02-10"
+        },
+        {
+          "endDate": "1990-02-23",
+          "items": [
+            {
+              "artist": "Lisa Stansfield",
+              "rank": 1,
+              "title": "All Around the World"
+            }
+          ],
+          "startDate": "1990-02-17"
+        },
+        {
+          "endDate": "1990-03-16",
+          "items": [
+            {
+              "artist": "Technotronic",
+              "rank": 1,
+              "title": "Pump Up the Jam"
+            }
+          ],
+          "startDate": "1990-02-24"
+        },
+        {
+          "endDate": "1990-03-23",
+          "items": [
+            {
+              "artist": "Technotronic",
+              "rank": 1,
+              "title": "Get Up!"
+            }
+          ],
+          "startDate": "1990-03-17"
+        },
+        {
+          "endDate": "1990-04-27",
+          "items": [
+            {
+              "artist": "Depeche Mode",
+              "rank": 1,
+              "title": "Enjoy the Silence"
+            }
+          ],
+          "startDate": "1990-03-24"
+        },
+        {
+          "endDate": "1990-06-08",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Vogue"
+            }
+          ],
+          "startDate": "1990-04-28"
+        },
+        {
+          "endDate": "1990-06-15",
+          "items": [
+            {
+              "artist": "Guru Josh",
+              "rank": 1,
+              "title": "Infinity"
+            }
+          ],
+          "startDate": "1990-06-09"
+        },
+        {
+          "endDate": "1990-06-22",
+          "items": [
+            {
+              "artist": "Snap!",
+              "rank": 1,
+              "title": "The Power"
+            }
+          ],
+          "startDate": "1990-06-16"
+        },
+        {
+          "endDate": "1990-07-06",
+          "items": [
+            {
+              "artist": "Guru Josh",
+              "rank": 1,
+              "title": "Infinity"
+            }
+          ],
+          "startDate": "1990-06-23"
+        },
+        {
+          "endDate": "1990-07-20",
+          "items": [
+            {
+              "artist": "Wilfred y la Ganga",
+              "rank": 1,
+              "title": "La Abuela"
+            }
+          ],
+          "startDate": "1990-07-07"
+        },
+        {
+          "endDate": "1990-09-07",
+          "items": [
+            {
+              "artist": "Guru Josh",
+              "rank": 1,
+              "title": "Infinity"
+            }
+          ],
+          "startDate": "1990-07-21"
+        },
+        {
+          "endDate": "1990-09-14",
+          "items": [
+            {
+              "artist": "MC Sar & the Real McCoy",
+              "rank": 1,
+              "title": "It's On You"
+            }
+          ],
+          "startDate": "1990-09-08"
+        },
+        {
+          "endDate": "1990-09-21",
+          "items": [
+            {
+              "artist": "Twenty 4 Seven",
+              "rank": 1,
+              "title": "I Can't Stand It"
+            }
+          ],
+          "startDate": "1990-09-15"
+        },
+        {
+          "endDate": "1990-09-28",
+          "items": [
+            {
+              "artist": "MC Sar & the Real McCoy",
+              "rank": 1,
+              "title": "It's On You"
+            }
+          ],
+          "startDate": "1990-09-22"
+        },
+        {
+          "endDate": "1990-11-02",
+          "items": [
+            {
+              "artist": "Twenty 4 Seven",
+              "rank": 1,
+              "title": "I Can't Stand It"
+            }
+          ],
+          "startDate": "1990-09-29"
+        },
+        {
+          "endDate": "1990-11-30",
+          "items": [
+            {
+              "artist": "Snap!",
+              "rank": 1,
+              "title": "Cult of Snap"
+            }
+          ],
+          "startDate": "1990-11-03"
+        },
+        {
+          "endDate": "1990-12-07",
+          "items": [
+            {
+              "artist": "Atawalpa",
+              "rank": 1,
+              "title": "Ultimo Imperio"
+            }
+          ],
+          "startDate": "1990-12-01"
+        },
+        {
+          "endDate": "1990-12-31",
+          "items": [
+            {
+              "artist": "Londonbeat",
+              "rank": 1,
+              "title": "I've Been Thinking About You"
+            }
+          ],
+          "startDate": "1990-12-08"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f7911e3b10c31c3b6ec29e8f33816ed908d537b585c2f654f4d5b2771f2f939d",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1990
+}

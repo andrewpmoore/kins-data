@@ -1,0 +1,242 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1988-01-13",
+          "items": [
+            {
+              "artist": "Rick Astley",
+              "rank": 1,
+              "title": "Never Gonna Give You Up"
+            }
+          ],
+          "startDate": "1988-01-01"
+        },
+        {
+          "endDate": "1988-02-03",
+          "items": [
+            {
+              "artist": "The Communards",
+              "rank": 1,
+              "title": "Never Can Say Goodbye"
+            }
+          ],
+          "startDate": "1988-01-14"
+        },
+        {
+          "endDate": "1988-02-10",
+          "items": [
+            {
+              "artist": "Rick Astley",
+              "rank": 1,
+              "title": "Never Gonna Give You Up"
+            }
+          ],
+          "startDate": "1988-02-04"
+        },
+        {
+          "endDate": "1988-03-09",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "Always on My Mind"
+            }
+          ],
+          "startDate": "1988-02-11"
+        },
+        {
+          "endDate": "1988-03-16",
+          "items": [
+            {
+              "artist": "Rick Astley",
+              "rank": 1,
+              "title": "Together Forever"
+            }
+          ],
+          "startDate": "1988-03-10"
+        },
+        {
+          "endDate": "1988-04-13",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "Always on My Mind"
+            }
+          ],
+          "startDate": "1988-03-17"
+        },
+        {
+          "endDate": "1988-04-27",
+          "items": [
+            {
+              "artist": "Rick Astley",
+              "rank": 1,
+              "title": "Together Forever"
+            }
+          ],
+          "startDate": "1988-04-14"
+        },
+        {
+          "endDate": "1988-05-18",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "Always on My Mind"
+            }
+          ],
+          "startDate": "1988-04-28"
+        },
+        {
+          "endDate": "1988-06-01",
+          "items": [
+            {
+              "artist": "Tino Casal",
+              "rank": 1,
+              "title": "Eloise"
+            }
+          ],
+          "startDate": "1988-05-19"
+        },
+        {
+          "endDate": "1988-06-15",
+          "items": [
+            {
+              "artist": "Eddy Grant",
+              "rank": 1,
+              "title": "Gimme Hope Jo'anna"
+            }
+          ],
+          "startDate": "1988-06-02"
+        },
+        {
+          "endDate": "1988-06-22",
+          "items": [
+            {
+              "artist": "Tino Casal",
+              "rank": 1,
+              "title": "Eloise"
+            }
+          ],
+          "startDate": "1988-06-16"
+        },
+        {
+          "endDate": "1988-09-14",
+          "items": [
+            {
+              "artist": "Eddy Grant",
+              "rank": 1,
+              "title": "Gimme Hope Jo'anna"
+            }
+          ],
+          "startDate": "1988-06-23"
+        },
+        {
+          "endDate": "1988-09-21",
+          "items": [
+            {
+              "artist": "Ofra Haza",
+              "rank": 1,
+              "title": "Im Nin'alu"
+            }
+          ],
+          "startDate": "1988-09-15"
+        },
+        {
+          "endDate": "1988-09-28",
+          "items": [
+            {
+              "artist": "Fairground Attraction",
+              "rank": 1,
+              "title": "Perfect"
+            }
+          ],
+          "startDate": "1988-09-22"
+        },
+        {
+          "endDate": "1988-10-02",
+          "items": [
+            {
+              "artist": "Mory Kanté",
+              "rank": 1,
+              "title": "Yé ké yé ké"
+            }
+          ],
+          "startDate": "1988-09-29"
+        },
+        {
+          "endDate": "1988-10-16",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Desire"
+            }
+          ],
+          "startDate": "1988-10-03"
+        },
+        {
+          "endDate": "1988-10-23",
+          "items": [
+            {
+              "artist": "Ofra Haza",
+              "rank": 1,
+              "title": "Im Nin'alu"
+            }
+          ],
+          "startDate": "1988-10-17"
+        },
+        {
+          "endDate": "1988-10-30",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "Domino Dancing"
+            }
+          ],
+          "startDate": "1988-10-24"
+        },
+        {
+          "endDate": "1988-11-20",
+          "items": [
+            {
+              "artist": "Milli Vanilli",
+              "rank": 1,
+              "title": "Girl You Know It's True"
+            }
+          ],
+          "startDate": "1988-10-31"
+        },
+        {
+          "endDate": "1988-12-31",
+          "items": [
+            {
+              "artist": "Glenn Medeiros",
+              "rank": 1,
+              "title": "Nothing's Gonna Change My Love For You"
+            }
+          ],
+          "startDate": "1988-11-21"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2008-12-28",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "4d086c6be2e24d5462ccf92a2fa2b358977a7cf90b433a3ea45093ac443303eb",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 1988
+}
