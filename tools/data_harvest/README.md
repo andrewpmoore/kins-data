@@ -40,6 +40,10 @@ assigned to the repository owner and then fails the run, triggering GitHub's sch
 workflow notification email. A feed that remains down does not send repeated alerts;
 after recovery, a later failure is considered new again.
 
+The superseded NYT scraper and `api-data` generator workflows are intentionally
+retired. Neither output is consumed by the app, and the former amended and
+force-pushed `main`, which could race with the supported hosted-data harvest.
+
 The app first asks for an exact date snapshot, then checks the compact country/year
 history for an exact containing period. It caches valid responses and falls back to
 bundled facts if the host or schema is wrong. It never substitutes the current chart
