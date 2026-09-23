@@ -132,7 +132,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -305,19 +305,19 @@
           "url": "https://music.apple.com/nz/album/the-cure/1889992111?i=1889992123"
         },
         {
-          "artist": "Ariana Grande",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/100x100bb.jpg",
-          "id": "6763656876",
+          "artist": "Alex Warren",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/100x100bb.jpg",
+          "id": "1793663645",
           "rank": 10,
-          "releaseDate": "2026-05-28",
-          "title": "hate that i made you love me",
-          "url": "https://music.apple.com/nz/album/hate-that-i-made-you-love-me/1895420989?i=6763656876"
+          "releaseDate": "2024-09-26",
+          "title": "Ordinary",
+          "url": "https://music.apple.com/nz/album/ordinary/1793663382?i=1793663645"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 23 Sep 2026 13:28:51 +0000",
+        "observedAt": "Wed, 23 Sep 2026 14:47:20 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -471,7 +471,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -480,9 +480,9 @@
       "year": 2025
     }
   },
-  "contentHash": "921809d665e7ff3e81ec35ea558a5cd75738b5ac033ae64620c93ec03abcbcb8",
+  "contentHash": "77856c51e10b52108a4e096084d82575f050130f706991c7d5c65891641ec573",
   "country": "NZ",
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T13:28:29Z",
+  "generatedAt": "2026-09-23T14:46:47Z",
   "schemaVersion": 1
 }

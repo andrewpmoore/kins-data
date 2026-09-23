@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -174,37 +174,28 @@
           "url": "https://music.apple.com/it/album/tutto/6810748106?i=6810748246"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
-          "id": "1861451990",
-          "rank": 6,
-          "releaseDate": "2026-01-16",
-          "title": "CANZONE D'AMORE",
-          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
-        },
-        {
           "artist": "Bresh",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/4a/27/314a2727-7139-e359-e23e-b064d5e413cd/196874375266.jpg/100x100bb.jpg",
           "id": "6766894796",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-05-14",
           "title": "Da Dio",
           "url": "https://music.apple.com/it/album/da-dio/6766894794?i=6766894796"
         },
         {
-          "artist": "22simba & Promessa",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/26/6a/21266a93-2974-0dfe-f200-3849b16b08d2/26UMGIM95747.rgb.jpg/100x100bb.jpg",
-          "id": "6812404055",
-          "rank": 8,
-          "releaseDate": "2026-09-17",
-          "title": "Sipario",
-          "url": "https://music.apple.com/it/album/sipario/6812404048?i=6812404055"
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451990",
+          "rank": 7,
+          "releaseDate": "2026-01-16",
+          "title": "CANZONE D'AMORE",
+          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         },
         {
           "artist": "HUGEL, Imael Angel & Ultra Naté",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
           "id": "6769070199",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-05-22",
           "title": "Movin' To The Sun",
           "url": "https://music.apple.com/it/album/movin-to-the-sun/6769069923?i=6769070199"
@@ -213,16 +204,25 @@
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451640",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-01-16",
           "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
           "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
+        },
+        {
+          "artist": "22simba & Promessa",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/26/6a/21266a93-2974-0dfe-f200-3849b16b08d2/26UMGIM95747.rgb.jpg/100x100bb.jpg",
+          "id": "6812404055",
+          "rank": 10,
+          "releaseDate": "2026-09-17",
+          "title": "Sipario",
+          "url": "https://music.apple.com/it/album/sipario/6812404048?i=6812404055"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 23 Sep 2026 13:29:24 +0000",
+        "observedAt": "Wed, 23 Sep 2026 14:47:23 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2024
     }
   },
-  "contentHash": "e27f8090faa2cc13b43229f81c20d139bd27a14da7e0cb8460bcda3971407b7b",
+  "contentHash": "b01de33a49eed1424b84883d259e888390beb47b4276a5ffdcbbe3d76601fe67",
   "country": "IT",
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T13:28:29Z",
+  "generatedAt": "2026-09-23T14:46:47Z",
   "schemaVersion": 1
 }

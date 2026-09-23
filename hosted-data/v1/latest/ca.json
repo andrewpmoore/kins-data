@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 23 Sep 2026 13:28:33 +0000",
+        "observedAt": "Wed, 23 Sep 2026 14:46:49 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -129,141 +129,141 @@
       "items": [
         {
           "category": "boy",
-          "count": 2115,
+          "count": 2190,
           "name": "Noah",
           "rank": 1,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1694,
-          "name": "Liam",
+          "count": 1629,
+          "name": "Theodore",
           "rank": 2,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1429,
-          "name": "Theodore",
+          "count": 1568,
+          "name": "Liam",
           "rank": 3,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1410,
+          "count": 1404,
           "name": "Leo",
           "rank": 4,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1367,
+          "count": 1285,
           "name": "William",
           "rank": 5,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1244,
+          "count": 1269,
           "name": "Oliver",
           "rank": 6,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1183,
-          "name": "Lucas",
+          "count": 1100,
+          "name": "Jack",
           "rank": 7,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1131,
-          "name": "James",
+          "count": 1091,
+          "name": "Benjamin",
           "rank": 8,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1090,
-          "name": "Benjamin",
+          "count": 1087,
+          "name": "Thomas",
           "rank": 9,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1061,
-          "name": "Thomas",
+          "count": 1074,
+          "name": "Lucas",
           "rank": 10,
           "rankGroup": "boy"
         },
         {
           "category": "girl",
-          "count": 1639,
-          "name": "Olivia",
+          "count": 1502,
+          "name": "Charlotte",
           "rank": 1,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 1528,
-          "name": "Charlotte",
+          "count": 1445,
+          "name": "Olivia",
           "rank": 2,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 1358,
+          "count": 1372,
           "name": "Emma",
           "rank": 3,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 1123,
-          "name": "Amelia",
+          "count": 1134,
+          "name": "Sophia",
           "rank": 4,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 1086,
-          "name": "Sophia",
+          "count": 1064,
+          "name": "Amelia",
           "rank": 5,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 921,
+          "count": 997,
           "name": "Sofia",
           "rank": 6,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 905,
-          "name": "Mia",
+          "count": 861,
+          "name": "Chloe",
           "rank": 7,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 868,
-          "name": "Chloe",
+          "count": 856,
+          "name": "Mia",
           "rank": 8,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 794,
+          "count": 823,
           "name": "Lily",
           "rank": 9,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 782,
-          "name": "Ava",
+          "count": 793,
+          "name": "Nora",
           "rank": 10,
           "rankGroup": "girl"
         }
@@ -271,18 +271,18 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
       },
-      "title": "Popular baby names for 2024 births",
-      "year": 2024
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
     }
   },
-  "contentHash": "aa70754c673af5f092854f4c0328a850cc65702ee55619492d6f25d5e756a214",
+  "contentHash": "3451527b8d643fbf2ced174089742d7ab68a2f94d37de7d77f9e22e000feeffb",
   "country": "CA",
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T13:28:29Z",
+  "generatedAt": "2026-09-23T14:46:47Z",
   "schemaVersion": 1
 }

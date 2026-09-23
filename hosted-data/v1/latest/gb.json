@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -223,22 +223,22 @@
           "url": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
-          "rank": 8,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/gb/album/the-cure/1889992111?i=1889992123"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/gb/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 9,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/gb/album/the-cure/1889992111?i=1889992123"
         },
         {
           "artist": "Shakira & Burna Boy",
@@ -253,7 +253,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 23 Sep 2026 13:28:30 +0000",
+        "observedAt": "Wed, 23 Sep 2026 14:46:48 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "ad7e3bc9234e748f659bda9474a4221bd6ed87596cea57964af74e9a9f6c50ca",
+  "contentHash": "ca23f7c22f810e48dd7198c8fe3fa23e0e54076038c3556a255014adaa59364d",
   "country": "GB",
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T13:28:29Z",
+  "generatedAt": "2026-09-23T14:46:47Z",
   "schemaVersion": 1
 }

@@ -168,7 +168,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-09-23T13:28:29Z",
+        "observedAt": "2026-09-23T14:46:47Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -302,22 +302,22 @@
           "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 5,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 6,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
           "artist": "Lil Baby",
@@ -338,28 +338,28 @@
           "url": "https://music.apple.com/us/album/so-good-feat-kendrick-lamar/6810715695?i=6810716062"
         },
         {
-          "artist": "Ella Langley & Morgan Wallen",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/100x100bb.jpg",
-          "id": "6763091996",
-          "rank": 9,
-          "releaseDate": "2026-04-24",
-          "title": "I Can't Love You Anymore",
-          "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
-        },
-        {
           "artist": "Lil Baby",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
           "id": "1648587330",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2022-04-08",
           "title": "In A Minute",
           "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+        },
+        {
+          "artist": "Ella Langley & Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/100x100bb.jpg",
+          "id": "6763091996",
+          "rank": 10,
+          "releaseDate": "2026-04-24",
+          "title": "I Can't Love You Anymore",
+          "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 23 Sep 2026 13:28:32 +0000",
+        "observedAt": "Wed, 23 Sep 2026 14:46:49 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -502,9 +502,9 @@
       "year": 2025
     }
   },
-  "contentHash": "f9b3c2ca900fc3eb8d2494ac4fc14e0cb0c2358b0a9d49672cf6eb4f30e3773d",
+  "contentHash": "cd97cddf49e6de2a76a027ca5c22b994665709624cf3baa57ed866e360f096be",
   "country": "US",
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T13:28:29Z",
+  "generatedAt": "2026-09-23T14:46:47Z",
   "schemaVersion": 1
 }
