@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-09-24T08:24:15Z",
+        "observedAt": "2026-09-24T09:15:44Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 24 Sep 2026 08:25:12 +0000",
+        "observedAt": "Thu, 24 Sep 2026 09:16:17 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-09-24T08:24:15Z",
+        "observedAt": "2026-09-24T09:15:44Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "948dfed2da20589cfd59c0de7acad2c2e8866bd6cbe4213cb23e76f959a73acd",
+  "contentHash": "f84337dade3f46cd02a3f93a7d6797ad319d4044692078ed02d1c3590be7ee0b",
   "country": "FR",
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T08:24:15Z",
+  "generatedAt": "2026-09-24T09:15:44Z",
   "schemaVersion": 1
 }

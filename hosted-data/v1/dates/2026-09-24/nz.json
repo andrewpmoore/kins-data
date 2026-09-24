@@ -1,5 +1,80 @@
 {
   "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "bookhub-nielsen-indie-2026-09-24",
+      "items": [
+        {
+          "category": "Children & Young Adult",
+          "isbn13": "9781761563102",
+          "rank": 1,
+          "title": "Big Little Truths"
+        },
+        {
+          "category": "Cooking & Wine",
+          "isbn13": "9781529109511",
+          "rank": 2,
+          "title": "Ottolenghi Simple Too"
+        },
+        {
+          "category": "Crime & Thrillers",
+          "isbn13": "9780241746035",
+          "rank": 3,
+          "title": "We Chase Shadows (We Solve Murders #2)"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9781529937831",
+          "rank": 4,
+          "title": "Our Noble Selves"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9780241761106",
+          "rank": 5,
+          "title": "Cold Sunset"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9781472289094",
+          "rank": 6,
+          "title": "Land: The instant Sunday Times no. 1 bestseller from the author of Hamnet"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9780008742775",
+          "rank": 7,
+          "title": "Yesteryear"
+        },
+        {
+          "category": "Health & Wellbeing",
+          "isbn13": "9781775543152",
+          "rank": 8,
+          "title": "Mauritau: A journal to find balance with the 12 states of mauri"
+        },
+        {
+          "category": "NZ Non-fiction",
+          "isbn13": "9781991033949",
+          "rank": 9,
+          "title": "The Valley: Crime and Punishment in a New Zealand City"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9780008819453",
+          "rank": 10,
+          "title": "Theo of Golden"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "weekly sales through participating independent booksellers",
+        "observedAt": "2026-09-24",
+        "provider": "Booksellers Aotearoa / Nielsen BookScan",
+        "territory": "NZ",
+        "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
+      },
+      "title": "Official Nielsen Indie Top 10"
+    },
     "childrensBooks": {
       "audience": "children",
       "id": "booksellers-nz-children-2026-09-24",
@@ -57,7 +132,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-09-24T08:24:15Z",
+        "observedAt": "2026-09-24T09:15:44Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -258,7 +333,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 24 Sep 2026 08:25:11 +0000",
+        "observedAt": "Thu, 24 Sep 2026 09:16:16 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -412,7 +487,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-09-24T08:24:15Z",
+        "observedAt": "2026-09-24T09:15:44Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -421,9 +496,9 @@
       "year": 2025
     }
   },
-  "contentHash": "be672daccc1640826edc010db8e7d8e490965301369eb023a1e25473da1016dc",
+  "contentHash": "a0961496be8a21654137d1ae7cdad1520152a8bb2f8e4d2b612e5ea7db3c55e6",
   "country": "NZ",
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T08:24:15Z",
+  "generatedAt": "2026-09-24T09:15:44Z",
   "schemaVersion": 1
 }
