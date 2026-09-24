@@ -36,9 +36,10 @@ paid hosting plan or cross-repository write token is required.
 The weekly `keep-scheduled-workflows-active.yml` job records repository activity so
 GitHub does not disable schedules after 60 inactive days. The daily harvest compares
 each feed with the prior committed manifest. A newly failing feed creates an issue
-assigned to the repository owner and then fails the run, triggering GitHub's scheduled
-workflow notification email. A feed that remains down does not send repeated alerts;
-after recovery, a later failure is considered new again.
+assigned to the repository owner so GitHub can email the account's configured
+notification address. The harvest itself remains successful and the issue carries the
+failed workflow link. A feed that remains down does not send repeated alerts; after
+recovery, a later failure is considered new again.
 
 The superseded NYT scraper and `api-data` generator workflows are intentionally
 retired. Neither output is consumed by the app, and the former amended and

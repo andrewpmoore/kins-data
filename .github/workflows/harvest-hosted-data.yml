@@ -82,10 +82,3 @@ jobs:
                 assignees: [owner]
               });
             }
-      - name: Mark the run failed for email notification
-        if: steps.feed_failures.outputs.count != '0'
-        env:
-          ALERT_SOURCES: ${{ steps.feed_failures.outputs.sources }}
-        run: |
-          echo "::error::New data feed failure(s): ${ALERT_SOURCES}"
-          exit 1
