@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "television": {
+      "id": "media-annualTelevisionAudience-2000",
+      "items": [
+        {
+          "artworkProviderName": "TVmaze",
+          "artworkSourceURL": "https://www.tvmaze.com/shows/4139/coronation-street",
+          "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50109.jpg",
+          "audience": "18.96m",
+          "broadcastDate": "3 Jan 2000",
+          "channel": "ITV",
+          "rank": 1,
+          "title": "Coronation Street"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2000/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2000
+    }
+  },
+  "contentHash": "73b3870a425f5edc2341c203cd4379a907849038a0466b4a5a417cdbf33d1f78",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2000
+}

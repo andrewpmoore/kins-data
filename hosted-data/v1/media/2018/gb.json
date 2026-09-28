@@ -1,0 +1,53 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2018",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1593500/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+          "rank": 1,
+          "releaseYear": 2018,
+          "title": "God of War"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2018"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2018
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2018",
+      "items": [
+        {
+          "audience": "20.73m",
+          "broadcastDate": "11 Jul 2018",
+          "channel": "ITV",
+          "rank": 1,
+          "title": "World Cup 2018: Croatia v England"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2018/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2018
+    }
+  },
+  "contentHash": "7cdd6c2bb6b48b621431351f261d06b5e442a0721e23fe11b003bb4b469e47f8",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2018
+}

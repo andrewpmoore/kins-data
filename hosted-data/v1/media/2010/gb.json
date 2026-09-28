@@ -1,0 +1,56 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2010",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/35140/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35140/header.jpg",
+          "rank": 1,
+          "releaseYear": 2009,
+          "title": "Batman: Arkham Asylum"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2010"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2010
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2010",
+      "items": [
+        {
+          "artworkProviderName": "TVmaze",
+          "artworkSourceURL": "https://www.tvmaze.com/shows/696/the-x-factor",
+          "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14987.jpg",
+          "audience": "16.55m",
+          "broadcastDate": "12 Dec 2010",
+          "channel": "ITV1",
+          "rank": 1,
+          "title": "The X Factor Results"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2010/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2010
+    }
+  },
+  "contentHash": "4f74ff65ff91e11119f856862a823ca82abdfa873ba7a5a792f6a24519317320",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2010
+}

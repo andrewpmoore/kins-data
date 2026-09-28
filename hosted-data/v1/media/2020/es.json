@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2020",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/2531310/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
+          "rank": 1,
+          "releaseYear": 2020,
+          "title": "The Last of Us Part II"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2020"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2020
+    }
+  },
+  "contentHash": "78b50464dbf1dfd42d1763f26035ee41bc8333eb0f8b57b0d00a5f547fe69f55",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2020
+}

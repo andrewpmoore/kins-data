@@ -1,0 +1,30 @@
+{
+  "charts": {
+    "television": {
+      "id": "media-annualTelevisionAudience-2006",
+      "items": [
+        {
+          "audience": "18.46m",
+          "broadcastDate": "20 Jun 2006",
+          "channel": "ITV1",
+          "rank": 1,
+          "title": "World Cup 2006: England v Sweden"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2006/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2006
+    }
+  },
+  "contentHash": "e5fd51c2b063286825621d501a6ff3eaca45df4ec7b3eab4ecc67b3d5fd97e9b",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2006
+}

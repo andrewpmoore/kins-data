@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2018",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1593500/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+          "rank": 1,
+          "releaseYear": 2018,
+          "title": "God of War"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2018"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2018
+    }
+  },
+  "contentHash": "f2a0195ba3ac19c998b82b89f69854e3a2e9525adff3ca6e65b12c049e221619",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 2018
+}

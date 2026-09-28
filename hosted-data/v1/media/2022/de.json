@@ -1,0 +1,32 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2022",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1245620/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/f0b19c231f86fa0e633ff88a1a63459443017728/header_alt_assets_3.jpg",
+          "rank": 1,
+          "releaseYear": 2022,
+          "title": "Elden Ring",
+          "trailerURL": "https://www.youtube.com/watch?v=UhD0_MM4fnU"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2022"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2022
+    }
+  },
+  "contentHash": "2a15c28c9a3e42c228238104bfa1b7f7b178552a06ca5983aaab424f09c987ce",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2022
+}

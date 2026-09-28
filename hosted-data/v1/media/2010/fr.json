@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2010",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/35140/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35140/header.jpg",
+          "rank": 1,
+          "releaseYear": 2009,
+          "title": "Batman: Arkham Asylum"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2010"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2010
+    }
+  },
+  "contentHash": "7f18004fd51cb7b25f3958c4229ab18a7d0dffb3f8d34b22eb4fc2f0a6ba2c39",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2010
+}

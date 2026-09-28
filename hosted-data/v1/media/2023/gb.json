@@ -1,0 +1,53 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2023",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1086940/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
+          "rank": 1,
+          "releaseYear": 2023,
+          "title": "Baldur's Gate 3"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2023"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2023
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2023",
+      "items": [
+        {
+          "audience": "18.96m four-screen",
+          "broadcastDate": "6 May 2023",
+          "channel": "Various channels",
+          "rank": 1,
+          "title": "The King's Coronation Service"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2023/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2023
+    }
+  },
+  "contentHash": "ed9e164a4666e792ca43479f8fe48296599a2db50055f6f8031d52dc0d54411c",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2023
+}

@@ -1,0 +1,56 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2005",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/220/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg",
+          "rank": 1,
+          "releaseYear": 2004,
+          "title": "Half-Life 2"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2005"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2005
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2005",
+      "items": [
+        {
+          "artworkProviderName": "TVmaze",
+          "artworkSourceURL": "https://www.tvmaze.com/shows/4139/coronation-street",
+          "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50109.jpg",
+          "audience": "14.36m",
+          "broadcastDate": "21 Feb 2005",
+          "channel": "ITV1",
+          "rank": 1,
+          "title": "Coronation Street"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2005/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2005
+    }
+  },
+  "contentHash": "02fb70da649295e41967c7dcad6b83fdf6403a09591be19133d1031a42a8d02f",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2005
+}

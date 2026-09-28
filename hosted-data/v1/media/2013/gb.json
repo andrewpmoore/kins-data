@@ -1,0 +1,53 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2013",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/205100/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/08e23dc25023aac81f2b40e35785e01de64dd171/header.jpg",
+          "rank": 1,
+          "releaseYear": 2012,
+          "title": "Dishonored"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2013"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2013
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2013",
+      "items": [
+        {
+          "audience": "13.53m",
+          "broadcastDate": "31 Dec 2013",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "New Year's Eve Fireworks"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2013/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2013
+    }
+  },
+  "contentHash": "9b7dfb4a2b06cfac8ad0cb2791cd86b60d4cdc5539d5c68dbbcf25d65ded786a",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2013
+}

@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2004",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/2620/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/header.jpg",
+          "rank": 1,
+          "releaseYear": 2003,
+          "title": "Call of Duty"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2004"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2004
+    }
+  },
+  "contentHash": "6ea5262639f5fbb289a3ace565c5854bc0947578bee0635f0c75ced960c83de5",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2004
+}

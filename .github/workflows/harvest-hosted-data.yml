@@ -35,7 +35,7 @@ jobs:
           python tools/data_harvest/import_wiktionary_names.py \
             --input "${RUNNER_TEMP}/kaikki-names.jsonl" --max-entries 10000
       - name: Test importers and editorial data
-        run: python -m unittest tools/data_harvest/test_harvest.py
+        run: python -m unittest tools/data_harvest/test_harvest.py tools/data_harvest/test_media_archive.py
       - name: Rebuild reviewed legacy archive
         run: python tools/data_harvest/import_legacy_data.py
       - name: Save previous feed health
@@ -44,6 +44,8 @@ jobs:
         env:
           NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
         run: python tools/data_harvest/harvest.py
+      - name: Refresh annual TV, game winners and artwork
+        run: python tools/data_harvest/media_archive.py
       - name: Detect newly failing feeds
         id: feed_failures
         run: |

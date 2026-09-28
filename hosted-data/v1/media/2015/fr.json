@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2015",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/292030/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/97cca1147b256f450331044255b1dbd2d57d609e/header_alt_assets_4.jpg",
+          "rank": 1,
+          "releaseYear": 2015,
+          "title": "The Witcher 3: Wild Hunt"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2015"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2015
+    }
+  },
+  "contentHash": "f8d2a7e5d573a9cc8f696d828bd3c6cd26d570a1de2c0fff1b6f50fe16f31f53",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2015
+}

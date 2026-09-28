@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2019",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/814380/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+          "rank": 1,
+          "releaseYear": 2019,
+          "title": "Sekiro: Shadows Die Twice"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2019"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2019
+    }
+  },
+  "contentHash": "bcec5317ff71d2a1c1cbcd1d98ca4e501a0d36833f51009d661f1942e4cadfde",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 2019
+}

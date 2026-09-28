@@ -1,0 +1,56 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2019",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/814380/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+          "rank": 1,
+          "releaseYear": 2019,
+          "title": "Sekiro: Shadows Die Twice"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2019"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2019
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2019",
+      "items": [
+        {
+          "artworkProviderName": "TVmaze",
+          "artworkSourceURL": "https://www.tvmaze.com/shows/2331/gavin-stacey",
+          "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/12/32015.jpg",
+          "audience": "17.92m four-screen",
+          "broadcastDate": "25 Dec 2019",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "Gavin & Stacey"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2019/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2019
+    }
+  },
+  "contentHash": "b0f89cc4c8f0752c17ac80e6e162ffd486532a4a44706b33ab2657a1e8852a55",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2019
+}

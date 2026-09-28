@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2011",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/24980/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24980/header.jpg",
+          "rank": 1,
+          "releaseYear": 2010,
+          "title": "Mass Effect 2"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2011"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2011
+    }
+  },
+  "contentHash": "82a29fef93b9c9723e5c9b827143df174401517f7c311f2a3374fababd840d7f",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 2011
+}

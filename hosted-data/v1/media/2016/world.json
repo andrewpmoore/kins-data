@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2016",
+      "items": [
+        {
+          "artworkProviderName": "Blizzard",
+          "artworkSourceURL": "https://overwatch.blizzard.com/en-us/news/20099328/introducing-overwatch-origins-edition/",
+          "artworkURL": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/py/PYPPVW0HVZSR1460160083444.jpg",
+          "rank": 1,
+          "releaseYear": 2016,
+          "title": "Overwatch"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2016"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2016
+    }
+  },
+  "contentHash": "958dd7a15d32c50de750f16aee3f472d115cbfd3fab359a10dcea6c9a77f97e4",
+  "country": "world",
+  "schemaVersion": 1,
+  "year": 2016
+}

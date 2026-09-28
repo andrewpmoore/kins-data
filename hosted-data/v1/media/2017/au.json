@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2017",
+      "items": [
+        {
+          "artworkProviderName": "Nintendo",
+          "artworkSourceURL": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-switch/",
+          "artworkURL": "https://assets.nintendo.com/image/upload/c_fill,w_800/q_auto/f_jpg/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
+          "rank": 1,
+          "releaseYear": 2017,
+          "title": "The Legend of Zelda: Breath of the Wild"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2017"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2017
+    }
+  },
+  "contentHash": "be7be719f109d3fce02348ecc06e5cf11454bf83853e48a825070788fe983032",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 2017
+}

@@ -1,0 +1,53 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2012",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/620/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/faffc0f560786e2f05104a8d2fac837c6969bf13/header.jpg",
+          "rank": 1,
+          "releaseYear": 2011,
+          "title": "Portal 2"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2012"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2012
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2012",
+      "items": [
+        {
+          "audience": "24.46m",
+          "broadcastDate": "12 Aug 2012",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "Olympics 2012: Closing Ceremony"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2012/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2012
+    }
+  },
+  "contentHash": "878edec2e3d4b6ac5f610697dd9b47409bf5e65c6ed25ab47a09d82bb3df85e1",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2012
+}

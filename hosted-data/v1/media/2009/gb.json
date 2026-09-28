@@ -1,0 +1,56 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2009",
+      "items": [
+        {
+          "artworkProviderName": "Nintendo",
+          "artworkSourceURL": "https://www.nintendo.com/en-gb/Games/Wii/Super-Mario-Galaxy-283322.html",
+          "artworkURL": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wii_24/SI_Wii_SuperMarioGalaxy.jpg",
+          "rank": 1,
+          "releaseYear": 2007,
+          "title": "Super Mario Galaxy"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2009"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2009
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2009",
+      "items": [
+        {
+          "artworkProviderName": "TVmaze",
+          "artworkSourceURL": "https://www.tvmaze.com/shows/2964/britains-got-talent",
+          "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/16/40391.jpg",
+          "audience": "18.29m",
+          "broadcastDate": "30 May 2009",
+          "channel": "ITV1",
+          "rank": 1,
+          "title": "Britain's Got Talent Final Result"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2009/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2009
+    }
+  },
+  "contentHash": "ad32f998486f4ac3a10dbfb044aa4a8fd13e2a6fecf78dc0795e4cc85732e229",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2009
+}

@@ -1,0 +1,54 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2021",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1426210/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+          "rank": 1,
+          "releaseYear": 2021,
+          "title": "It Takes Two",
+          "trailerURL": "https://www.youtube.com/watch?v=2AysHTv7X8k"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2021"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2021
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2021",
+      "items": [
+        {
+          "audience": "18.40m four-screen",
+          "broadcastDate": "7 Jul 2021",
+          "channel": "ITV",
+          "rank": 1,
+          "title": "UEFA Euro 2020: England v Denmark"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2021/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2021
+    }
+  },
+  "contentHash": "28e7cffb369643334b8f0c0d4ed8971b78da4f69542ac3b69e9b2b9b5a3e88a7",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2021
+}

@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "television": {
+      "id": "media-annualTelevisionAudience-2003",
+      "items": [
+        {
+          "artworkProviderName": "TVmaze",
+          "artworkSourceURL": "https://www.tvmaze.com/shows/4139/coronation-street",
+          "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50109.jpg",
+          "audience": "19.43m",
+          "broadcastDate": "24 Feb 2003",
+          "channel": "ITV1",
+          "rank": 1,
+          "title": "Coronation Street"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2003/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2003
+    }
+  },
+  "contentHash": "1601f219d8ee5b45b255fe3b6173f84b6b04d21fa8cfa108af9f2e0b2162941d",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2003
+}

@@ -1,0 +1,32 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2025",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1903340/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg",
+          "rank": 1,
+          "releaseYear": 2025,
+          "title": "Clair Obscur: Expedition 33",
+          "trailerURL": "https://www.youtube.com/watch?v=jNKdgRCYqPs"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/news/the-game-awards-breaks-viewership-record"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2025
+    }
+  },
+  "contentHash": "957cb75e9605e92de26e449f367843e5e3c5c52803665269c44d53180d697979",
+  "country": "world",
+  "schemaVersion": 1,
+  "year": 2025
+}

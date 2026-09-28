@@ -1,0 +1,56 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2015",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/292030/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/97cca1147b256f450331044255b1dbd2d57d609e/header_alt_assets_4.jpg",
+          "rank": 1,
+          "releaseYear": 2015,
+          "title": "The Witcher 3: Wild Hunt"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2015"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2015
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2015",
+      "items": [
+        {
+          "artworkProviderName": "TVmaze",
+          "artworkSourceURL": "https://www.tvmaze.com/shows/2950/the-great-british-bake-off",
+          "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/16/40349.jpg",
+          "audience": "15.05m",
+          "broadcastDate": "7 Oct 2015",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "The Great British Bake Off"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2015/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2015
+    }
+  },
+  "contentHash": "1a1d82e443b558c337d105a10f90bbeddaf476f47c048e195384e767fee6b8bb",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2015
+}

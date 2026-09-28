@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2007",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/7670/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7670/header.jpg",
+          "rank": 1,
+          "releaseYear": 2007,
+          "title": "BioShock"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2007"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2007
+    }
+  },
+  "contentHash": "987f42981a3cdac1a829b7112e70d738bce29798d0e42741fad54b8641bd3270",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 2007
+}

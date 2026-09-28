@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "television": {
+      "id": "media-annualTelevisionAudience-2002",
+      "items": [
+        {
+          "artworkProviderName": "TVmaze",
+          "artworkSourceURL": "https://www.tvmaze.com/shows/2094/only-fools-and-horses",
+          "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/11/29077.jpg",
+          "audience": "17.40m",
+          "broadcastDate": "25 Dec 2002",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "Only Fools & Horses"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2002/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2002
+    }
+  },
+  "contentHash": "72c8e31db1c112d9e627206cd3fe139c2f60d1df5eb5e3f519f62766bbee67b4",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2002
+}

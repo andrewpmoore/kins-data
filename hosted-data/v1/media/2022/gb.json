@@ -1,0 +1,54 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2022",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1245620/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/f0b19c231f86fa0e633ff88a1a63459443017728/header_alt_assets_3.jpg",
+          "rank": 1,
+          "releaseYear": 2022,
+          "title": "Elden Ring",
+          "trailerURL": "https://www.youtube.com/watch?v=UhD0_MM4fnU"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2022"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2022
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2022",
+      "items": [
+        {
+          "audience": "26.54m four-screen",
+          "broadcastDate": "19 Sep 2022",
+          "channel": "Various channels",
+          "rank": 1,
+          "title": "The Queen's Funeral Service"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2022/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2022
+    }
+  },
+  "contentHash": "4fc0c35e930a780b6dba1c5583d3839087a31745fb6b1cb8e08d2b55f8a52729",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2022
+}

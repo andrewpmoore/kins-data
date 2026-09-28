@@ -1,0 +1,32 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2021",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1426210/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+          "rank": 1,
+          "releaseYear": 2021,
+          "title": "It Takes Two",
+          "trailerURL": "https://www.youtube.com/watch?v=2AysHTv7X8k"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2021"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2021
+    }
+  },
+  "contentHash": "496617ac6922b6d494103cfe96f8d173ce79a460811128b89512a151f689f0da",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 2021
+}

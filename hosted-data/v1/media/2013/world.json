@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2013",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/205100/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/08e23dc25023aac81f2b40e35785e01de64dd171/header.jpg",
+          "rank": 1,
+          "releaseYear": 2012,
+          "title": "Dishonored"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2013"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2013
+    }
+  },
+  "contentHash": "a11749413e2ced9337e1b27cf13fec2dc0365bf8eb7c600cce00b0f3ae5b942a",
+  "country": "world",
+  "schemaVersion": 1,
+  "year": 2013
+}

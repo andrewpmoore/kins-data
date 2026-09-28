@@ -1,0 +1,32 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2024",
+      "items": [
+        {
+          "artworkProviderName": "PlayStation",
+          "artworkSourceURL": "https://www.playstation.com/en-gb/games/astro-bot/",
+          "artworkURL": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png",
+          "rank": 1,
+          "releaseYear": 2024,
+          "title": "Astro Bot",
+          "trailerURL": "https://www.youtube.com/watch?v=unYFdcEjV9k"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2024"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2024
+    }
+  },
+  "contentHash": "601026df6b3a0ad7fd941d21e8bf46631d3e7ea93b6e09bad6b54bdba32cf2fd",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 2024
+}

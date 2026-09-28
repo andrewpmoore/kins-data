@@ -1,0 +1,53 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2014",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1222690/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222690/header.jpg",
+          "rank": 1,
+          "releaseYear": 2014,
+          "title": "Dragon Age: Inquisition"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2014"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2014
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2014",
+      "items": [
+        {
+          "audience": "14.96m",
+          "broadcastDate": "13 Jul 2014",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "World Cup 2014: Germany v Argentina"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2014/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2014
+    }
+  },
+  "contentHash": "f6f6f9ff2dead1c4a793a7bf9508716d535471bbe243ebd6916288c127166cf2",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2014
+}

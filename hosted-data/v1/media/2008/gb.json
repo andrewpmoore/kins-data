@@ -1,0 +1,30 @@
+{
+  "charts": {
+    "television": {
+      "id": "media-annualTelevisionAudience-2008",
+      "items": [
+        {
+          "audience": "16.15m",
+          "broadcastDate": "25 Dec 2008",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "Wallace & Gromit: A Matter of Loaf and Death"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2008/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2008
+    }
+  },
+  "contentHash": "fe7f3fbd307710b532a0bbc9152e4da3236103740003fa3bdf5eef1f70d3a184",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2008
+}

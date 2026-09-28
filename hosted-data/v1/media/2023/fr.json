@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2023",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/1086940/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
+          "rank": 1,
+          "releaseYear": 2023,
+          "title": "Baldur's Gate 3"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2023"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2023
+    }
+  },
+  "contentHash": "34928db673872a8f11b929f512488f621caf1e07907b38cd144ba7c3b598fea0",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2023
+}

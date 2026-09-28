@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2005",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/220/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg",
+          "rank": 1,
+          "releaseYear": 2004,
+          "title": "Half-Life 2"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2005"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2005
+    }
+  },
+  "contentHash": "2f8c36f4b92b1ffea55ac7f0e91fd97f3c3e91d8c9889be6f146ad77fb826f80",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2005
+}

@@ -1,0 +1,53 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2020",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/2531310/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
+          "rank": 1,
+          "releaseYear": 2020,
+          "title": "The Last of Us Part II"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2020"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2020
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2020",
+      "items": [
+        {
+          "audience": "18.99m four-screen",
+          "broadcastDate": "10 May 2020",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "Prime Ministerial Statement"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2020/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2020
+    }
+  },
+  "contentHash": "df86bd002a5e1d913e8c26959c91ab46198a2fd7297df50e402fa8cb22d48516",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2020
+}

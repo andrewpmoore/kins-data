@@ -1,0 +1,53 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2004",
+      "items": [
+        {
+          "artworkProviderName": "Steam",
+          "artworkSourceURL": "https://store.steampowered.com/app/2620/",
+          "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/header.jpg",
+          "rank": 1,
+          "releaseYear": 2003,
+          "title": "Call of Duty"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2004"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2004
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2004",
+      "items": [
+        {
+          "audience": "20.66m",
+          "broadcastDate": "24 Jun 2004",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "Euro 2004: England v Portugal"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2004/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2004
+    }
+  },
+  "contentHash": "828d3e2f260bc2eb231bd89ddd0d3833ebb5d29dca0f0661099e3a92f45acbf9",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2004
+}

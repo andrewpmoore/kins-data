@@ -1,0 +1,56 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2017",
+      "items": [
+        {
+          "artworkProviderName": "Nintendo",
+          "artworkSourceURL": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-switch/",
+          "artworkURL": "https://assets.nintendo.com/image/upload/c_fill,w_800/q_auto/f_jpg/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
+          "rank": 1,
+          "releaseYear": 2017,
+          "title": "The Legend of Zelda: Breath of the Wild"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "The Game Awards",
+        "territory": "WORLD",
+        "url": "https://thegameawards.com/rewind/year-2017"
+      },
+      "title": "The Game Awards · Game of the Year",
+      "year": 2017
+    },
+    "television": {
+      "id": "media-annualTelevisionAudience-2017",
+      "items": [
+        {
+          "artworkProviderName": "TVmaze",
+          "artworkSourceURL": "https://www.tvmaze.com/shows/25504/blue-planet-ii",
+          "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/133/332926.jpg",
+          "audience": "14.01m",
+          "broadcastDate": "29 Oct 2017",
+          "channel": "BBC One",
+          "rank": 1,
+          "title": "Blue Planet II"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual rank 1 · consolidated audience",
+        "observedAt": "2026-09-28",
+        "provider": "BARB",
+        "territory": "GB",
+        "url": "https://www.barb.co.uk/tv-since-1981/2017/top10"
+      },
+      "title": "UK most-watched broadcast",
+      "year": 2017
+    }
+  },
+  "contentHash": "9032a085b460693d838f6c4b55c2d9346d2a04391c2215f3eb6d9e966b52d308",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2017
+}

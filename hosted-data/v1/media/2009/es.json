@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2009",
+      "items": [
+        {
+          "artworkProviderName": "Nintendo",
+          "artworkSourceURL": "https://www.nintendo.com/en-gb/Games/Wii/Super-Mario-Galaxy-283322.html",
+          "artworkURL": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wii_24/SI_Wii_SuperMarioGalaxy.jpg",
+          "rank": 1,
+          "releaseYear": 2007,
+          "title": "Super Mario Galaxy"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "BAFTA",
+        "territory": "WORLD",
+        "url": "https://www.bafta.org/awards/games/?award-year=2009"
+      },
+      "title": "BAFTA Best Game",
+      "year": 2009
+    }
+  },
+  "contentHash": "b00960c6ec7882d708349384c9fb321deef642ea008191c9a96a94127a260635",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2009
+}
