@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-09-27T09:12:23Z",
-  "latestDate": "2026-09-27",
+  "generatedAt": "2026-09-28T09:13:57Z",
+  "latestDate": "2026-09-28",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -88,9 +88,8 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://www.the-numbers.com/box-office-chart/weekend/2026/09/25: HTTP Error 404: Not Found",
       "source": "theatricalBoxOffice/US",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "publicBooks/adultBooks/US",
