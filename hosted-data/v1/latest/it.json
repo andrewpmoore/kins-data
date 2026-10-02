@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -147,10 +147,19 @@
           "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
         },
         {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/52/60/c0526017-fa74-d476-a434-ec1465d5be70/1200220201730.jpg/100x100bb.jpg",
+          "id": "6815719363",
+          "rank": 3,
+          "releaseDate": "2026-01-16",
+          "title": "WINNER",
+          "url": "https://music.apple.com/it/album/winner/6815719361?i=6815719363"
+        },
+        {
           "artist": "BLANCO",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/a9/ca/6fa9ca38-b1b6-43c6-73f4-0ee37c2ff0a2/26UM1IM15159.rgb.jpg/100x100bb.jpg",
           "id": "6809473099",
-          "rank": 3,
+          "rank": 4,
           "releaseDate": "2026-09-07",
           "title": "SOTTOGONNA",
           "url": "https://music.apple.com/it/album/sottogonna/6809473096?i=6809473099"
@@ -159,7 +168,7 @@
           "artist": "Carla Morrison",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f6/ce/71f6ce36-fdee-c95b-ced5-2b54ab8b14f9/787790255666.jpg/100x100bb.jpg",
           "id": "1862968116",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2012-03-27",
           "title": "Disfruto",
           "url": "https://music.apple.com/it/album/disfruto/1862967956?i=1862968116"
@@ -168,19 +177,10 @@
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451990",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-01-16",
           "title": "CANZONE D'AMORE",
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
-        },
-        {
-          "artist": "Tony Boy",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ee/84/98ee846e-3e0b-3917-6180-7e5cc1d595a3/1200220144969.jpg/100x100bb.jpg",
-          "id": "6812883266",
-          "rank": 6,
-          "releaseDate": "2026-09-24",
-          "title": "Una bara per due",
-          "url": "https://music.apple.com/it/album/una-bara-per-due/6812883263?i=6812883266"
         },
         {
           "artist": "Shiva & Geolier",
@@ -201,28 +201,28 @@
           "url": "https://music.apple.com/it/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
-          "id": "1861451640",
+          "artist": "Bresh",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/4a/27/314a2727-7139-e359-e23e-b064d5e413cd/196874375266.jpg/100x100bb.jpg",
+          "id": "6766894796",
           "rank": 9,
-          "releaseDate": "2026-01-16",
-          "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
-          "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
+          "releaseDate": "2026-05-14",
+          "title": "Da Dio",
+          "url": "https://music.apple.com/it/album/da-dio/6766894794?i=6766894796"
         },
         {
-          "artist": "KAROL G, Judeline & rusowsky",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-          "id": "6796864754",
+          "artist": "Tony Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ee/84/98ee846e-3e0b-3917-6180-7e5cc1d595a3/1200220144969.jpg/100x100bb.jpg",
+          "id": "6812883266",
           "rank": 10,
-          "releaseDate": "2026-08-07",
-          "title": "BbY WOW",
-          "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
+          "releaseDate": "2026-09-24",
+          "title": "Una bara per due",
+          "url": "https://music.apple.com/it/album/una-bara-per-due/6812883263?i=6812883266"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 2 Oct 2026 09:44:21 +0000",
+        "observedAt": "Fri, 2 Oct 2026 15:07:41 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2024
     }
   },
-  "contentHash": "1ed21dbdad9f2a7e04a37dff4826e00bcb5c00363d54aaf3d993db98296b9397",
+  "contentHash": "f867e5fcdcd31fa6d62a54b50c33db2523ab698cee74e0dbd66388936c31a5c0",
   "country": "IT",
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T09:42:07Z",
+  "generatedAt": "2026-10-02T15:06:07Z",
   "schemaVersion": 1
 }

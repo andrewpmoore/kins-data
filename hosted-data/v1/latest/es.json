@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -42,13 +42,13 @@
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
-          "artist": "Aitana",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
-          "id": "1814146675",
+          "artist": "Clarent & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
+          "id": "6816298049",
           "rank": 3,
-          "releaseDate": "2025-05-29",
-          "title": "SUPERESTRELLA",
-          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
+          "releaseDate": "2026-10-01",
+          "title": "Jukiar",
+          "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
         },
         {
           "artist": "Maluma & Shakira",
@@ -60,22 +60,22 @@
           "url": "https://music.apple.com/es/album/agua/6810372456?i=6810372461"
         },
         {
+          "artist": "Aitana",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
+          "id": "1814146675",
+          "rank": 5,
+          "releaseDate": "2025-05-29",
+          "title": "SUPERESTRELLA",
+          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
+        },
+        {
           "artist": "Quevedo & Nueva Línea",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
           "id": "1894271858",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-04-23",
           "title": "AL GOLPITO",
           "url": "https://music.apple.com/es/album/al-golpito/1894271358?i=1894271858"
-        },
-        {
-          "artist": "Bad Bunny",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/100x100bb.jpg",
-          "id": "1570323056",
-          "rank": 6,
-          "releaseDate": "2021-06-04",
-          "title": "Yonaguni",
-          "url": "https://music.apple.com/es/album/yonaguni/1570323047?i=1570323056"
         },
         {
           "artist": "Guitarricadelafuente",
@@ -96,28 +96,28 @@
           "url": "https://music.apple.com/es/album/pa-ti-toa-3/6774634328?i=6774634329"
         },
         {
+          "artist": "Bad Bunny",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/100x100bb.jpg",
+          "id": "1570323056",
+          "rank": 9,
+          "releaseDate": "2021-06-04",
+          "title": "Yonaguni",
+          "url": "https://music.apple.com/es/album/yonaguni/1570323047?i=1570323056"
+        },
+        {
           "artist": "Bad Bunny & ROSALÍA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/100x100bb.jpg",
           "id": "1542103215",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2020-11-27",
           "title": "LA NOCHE DE ANOCHE",
           "url": "https://music.apple.com/es/album/la-noche-de-anoche/1542102907?i=1542103215"
-        },
-        {
-          "artist": "ROA & Anuel AA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/66/11/50661123-1d80-1054-62f2-2e786fa631c3/26UM1IM14326.rgb.jpg/100x100bb.jpg",
-          "id": "6808400640",
-          "rank": 10,
-          "releaseDate": "2026-09-18",
-          "title": "VAMO A VEL",
-          "url": "https://music.apple.com/es/album/vamo-a-vel/6808400636?i=6808400640"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 2 Oct 2026 09:44:21 +0000",
+        "observedAt": "Fri, 2 Oct 2026 15:06:50 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "e0bb07b507cd3973bf3f7dde79d3db5d6dc25e3aae0787d31ebaf95069f5d516",
+  "contentHash": "1cc3c3949618fcaab0a6d8fa981008561aadb07512a5a444c4c239173678621a",
   "country": "ES",
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T09:42:07Z",
+  "generatedAt": "2026-10-02T15:06:07Z",
   "schemaVersion": 1
 }

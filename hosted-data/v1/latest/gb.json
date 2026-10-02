@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -223,10 +223,19 @@
           "url": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115"
         },
         {
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
+          "rank": 8,
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373"
+        },
+        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992123",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2026-05-22",
           "title": "the cure",
           "url": "https://music.apple.com/gb/album/the-cure/1889992111?i=1889992123"
@@ -235,25 +244,16 @@
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/gb/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997429",
-          "rank": 10,
-          "releaseDate": "2026-09-24",
-          "title": "Babylon",
-          "url": "https://music.apple.com/gb/album/babylon/6814997249?i=6814997429"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 2 Oct 2026 09:42:09 +0000",
+        "observedAt": "Fri, 2 Oct 2026 15:06:09 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "e18680aefafebac99334420bd7983f9fa7340a38117addce471c8475399904ff",
+  "contentHash": "effe5fb7d9b1acea537b5bb9dc0e53036a25de1ed1e19e88daf87097e6c8a98b",
   "country": "GB",
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T09:42:07Z",
+  "generatedAt": "2026-10-02T15:06:07Z",
   "schemaVersion": 1
 }

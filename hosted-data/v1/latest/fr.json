@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -87,22 +87,22 @@
           "url": "https://music.apple.com/fr/album/sans-toi/6809754889?i=6809755024"
         },
         {
-          "artist": "Tiakola",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/100x100bb.jpg",
-          "id": "6809755014",
-          "rank": 8,
-          "releaseDate": "2026-09-25",
-          "title": "Mode de vie",
-          "url": "https://music.apple.com/fr/album/mode-de-vie/6809754889?i=6809755014"
-        },
-        {
           "artist": "Timal",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/9c/01/5a9c01ba-cb38-aea7-bc6c-20088e6e4be7/8721555380783.png/100x100bb.jpg",
           "id": "6778036498",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-06-26",
           "title": "Sicario",
           "url": "https://music.apple.com/fr/album/sicario/6778036496?i=6778036498"
+        },
+        {
+          "artist": "Tiakola",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/100x100bb.jpg",
+          "id": "6809755014",
+          "rank": 9,
+          "releaseDate": "2026-09-25",
+          "title": "Mode de vie",
+          "url": "https://music.apple.com/fr/album/mode-de-vie/6809754889?i=6809755014"
         },
         {
           "artist": "Tiakola, Kuluna, TVLM & Nooche",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 2 Oct 2026 09:44:20 +0000",
+        "observedAt": "Fri, 2 Oct 2026 15:06:49 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "58f1f7c671a194af2f2088e7acf1a700932d311d312d59863f004e39cbfd7bf6",
+  "contentHash": "a002902b0cdae360b12c0c70dc6ecb7246130e99ce4e18974a63a875d14925bc",
   "country": "FR",
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T09:42:07Z",
+  "generatedAt": "2026-10-02T15:06:07Z",
   "schemaVersion": 1
 }

@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -33,10 +33,19 @@
           "url": "https://music.apple.com/ca/album/patient-zero/6814997249?i=6814997425"
         },
         {
+          "artist": "Karan Aujla & MXRCI",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6d/78/f76d78c5-cc9c-f2d6-8603-ba690eaa5c7d/5064089826918_cover.jpg/100x100bb.jpg",
+          "id": "6814002647",
+          "rank": 2,
+          "releaseDate": "2026-09-25",
+          "title": "Ashke",
+          "url": "https://music.apple.com/ca/album/ashke/6814002539?i=6814002647"
+        },
+        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/ca/album/choosin-texas/1844932149?i=1844932150"
@@ -44,20 +53,11 @@
         {
           "artist": "Karan Aujla & MXRCI",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6d/78/f76d78c5-cc9c-f2d6-8603-ba690eaa5c7d/5064089826918_cover.jpg/100x100bb.jpg",
-          "id": "6814002647",
-          "rank": 3,
-          "releaseDate": "2026-09-25",
-          "title": "Ashke",
-          "url": "https://music.apple.com/ca/album/ashke/6814002539?i=6814002647"
-        },
-        {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997429",
+          "id": "6814002664",
           "rank": 4,
-          "releaseDate": "2026-09-24",
-          "title": "Babylon",
-          "url": "https://music.apple.com/ca/album/babylon/6814997249?i=6814997429"
+          "releaseDate": "2026-09-25",
+          "title": "Aujla Szn",
+          "url": "https://music.apple.com/ca/album/aujla-szn/6814002539?i=6814002664"
         },
         {
           "artist": "Karan Aujla & MXRCI",
@@ -69,13 +69,13 @@
           "url": "https://music.apple.com/ca/album/straight-up/6814002539?i=6814002652"
         },
         {
-          "artist": "Karan Aujla & MXRCI",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6d/78/f76d78c5-cc9c-f2d6-8603-ba690eaa5c7d/5064089826918_cover.jpg/100x100bb.jpg",
-          "id": "6814002664",
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997429",
           "rank": 6,
-          "releaseDate": "2026-09-25",
-          "title": "Aujla Szn",
-          "url": "https://music.apple.com/ca/album/aujla-szn/6814002539?i=6814002664"
+          "releaseDate": "2026-09-24",
+          "title": "Babylon",
+          "url": "https://music.apple.com/ca/album/babylon/6814997249?i=6814997429"
         },
         {
           "artist": "Morgan Wallen",
@@ -87,19 +87,10 @@
           "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997428",
-          "rank": 8,
-          "releaseDate": "2026-09-24",
-          "title": "Pink Clouding",
-          "url": "https://music.apple.com/ca/album/pink-clouding/6814997249?i=6814997428"
-        },
-        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
           "id": "6812477290",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-09-19",
           "title": "Last Thing You Need",
           "url": "https://music.apple.com/ca/album/last-thing-you-need/6812476961?i=6812477290"
@@ -107,17 +98,26 @@
         {
           "artist": "Taylor Swift",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997427",
-          "rank": 10,
+          "id": "6814997428",
+          "rank": 9,
           "releaseDate": "2026-09-24",
-          "title": "Cleveland!",
-          "url": "https://music.apple.com/ca/album/cleveland/6814997249?i=6814997427"
+          "title": "Pink Clouding",
+          "url": "https://music.apple.com/ca/album/pink-clouding/6814997249?i=6814997428"
+        },
+        {
+          "artist": "Karan Aujla & MXRCI",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6d/78/f76d78c5-cc9c-f2d6-8603-ba690eaa5c7d/5064089826918_cover.jpg/100x100bb.jpg",
+          "id": "6814002657",
+          "rank": 10,
+          "releaseDate": "2026-09-25",
+          "title": "Rap Killa (feat. Azaad 4L)",
+          "url": "https://music.apple.com/ca/album/rap-killa-feat-azaad-4l/6814002539?i=6814002657"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 2 Oct 2026 09:43:23 +0000",
+        "observedAt": "Fri, 2 Oct 2026 15:06:22 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-02T09:42:07Z",
+        "observedAt": "2026-10-02T15:06:07Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "ac25c3bd17cf092c1fd72c809105b47c65072a407c2a99e41c3d1bc0879bd609",
+  "contentHash": "d81510c7619d00eb65c15bbe1e180f9754cca0e50072a02f0ffcd9c960b31129",
   "country": "CA",
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T09:42:07Z",
+  "generatedAt": "2026-10-02T15:06:07Z",
   "schemaVersion": 1
 }
