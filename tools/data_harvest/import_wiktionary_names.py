@@ -50,6 +50,17 @@ def clean_text(value: str, limit: int = 420) -> str:
     return value[: cut + 1 if cut > 100 else limit].rstrip() + ("" if cut > 100 else "…")
 
 
+def prose_etymology(value: str) -> str:
+    """Retain prose following a rendered tree, never the tree's machine labels."""
+    if not value.startswith("Etymology tree"):
+        return value
+    lines = value.splitlines()
+    for index, line in enumerate(lines[1:], 1):
+        if re.match(r"^(?:From |Borrowed from |Inherited from |Ultimately from |A |An |Variant of )", line):
+            return " ".join(lines[index:])
+    return ""
+
+
 def given_name_gloss(record: dict[str, Any]) -> str | None:
     for sense in record.get("senses", []):
         if not isinstance(sense, dict):
@@ -74,7 +85,7 @@ def origin_from(gloss: str, etymology: str) -> str:
             if match:
                 return clean_text(match.group(1), 80)
     match = re.match(r"(?:Ultimately )?From ([A-Z][A-Za-z -]+)", etymology)
-    return clean_text(match.group(1), 80) if match else "Wiktionary etymology"
+    return clean_text(match.group(1), 80) if match else ""
 
 
 def entry_from(record: dict[str, Any]) -> dict[str, Any] | None:
@@ -88,7 +99,7 @@ def entry_from(record: dict[str, Any]) -> dict[str, Any] | None:
     etymology = record.get("etymology_text")
     if not gloss or not isinstance(etymology, str):
         return None
-    etymology = clean_text(etymology)
+    etymology = clean_text(prose_etymology(etymology))
     if (
         not etymology
         or etymology.casefold().startswith(("unknown", "uncertain"))

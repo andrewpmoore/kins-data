@@ -1557,15 +1557,22 @@ def validate_name_meanings(path: Path) -> dict[str, Any]:
 
 
 def combined_name_meanings(curated_path: Path, bulk_path: Path) -> dict[str, Any]:
+    # Import locally as this module is also loaded directly by validation tools.
+    try:
+        from name_meaning_research import enrich_entries, load_interpretations, load_research
+    except ModuleNotFoundError:
+        from tools.data_harvest.name_meaning_research import enrich_entries, load_interpretations, load_research
     curated = validate_name_meanings(curated_path)
     bulk = validate_name_meanings(bulk_path) if bulk_path.exists() else {"entries": []}
+    native_path = curated_path.with_name("wiktionary-native-given-names.json")
+    native = validate_name_meanings(native_path) if native_path.exists() else {"entries": []}
     used: set[str] = set()
     entries = []
     bulk_entries = [
         entry for entry in bulk["entries"]
         if not str(entry.get("meaning", "")).startswith("Etymology tree")
     ]
-    for entry in [*curated["entries"], *bulk_entries]:
+    for entry in [*curated["entries"], *bulk_entries, *native["entries"]]:
         available = [name for name in entry["names"] if str(name).casefold() not in used]
         if not available:
             continue
@@ -1573,16 +1580,22 @@ def combined_name_meanings(curated_path: Path, bulk_path: Path) -> dict[str, Any
         value["names"] = available
         entries.append(value)
         used.update(str(name).casefold() for name in available)
+    meaning_overrides = {}
+    for suffix in ("a-m", "n-z"):
+        overrides_path = curated_path.with_name(f"baby-name-meaning-overrides-{suffix}.json")
+        if overrides_path.exists():
+            meaning_overrides.update(read_json(overrides_path))
     return {
         "schemaVersion": SCHEMA_VERSION,
         "reviewedAt": curated.get("reviewedAt"),
         "policy": curated.get("policy"),
-        "licenseNotice": "Curated summaries plus attributed CC BY-SA 4.0 Wiktionary material",
+        "licenseNotice": "Curated summaries, attributed CC BY-SA 4.0 Wiktionary material, and separately labelled AI interpretations",
+        "interpretationPolicy": "AI interpretations fill unresolved meanings, retain their etymology reference and confidence, and do not replace supported meanings.",
         "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
         "attribution": "English Wiktionary contributors; bulk extraction by Kaikki/Wiktextract",
         "entryCount": len(entries),
         "spellingCount": len(used),
-        "entries": entries,
+        "entries": enrich_entries(entries, load_research(curated_path.parent), load_interpretations(curated_path.parent), meaning_overrides),
     }
 
 

@@ -3,13 +3,17 @@
   "entries": [
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "A blend of Xavier + Thanatos originally coined by the creators of the television show Gargoyles, and subsequently used by other authors in their own fiction.",
+      "meaning": "A fictional blend of Xavier and Thanatos, associated with new house and death.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Supplied literary blend; component associations do not imply a traditional inherited name.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Xanatos"
       ],
       "note": "A male given name used in modern fiction.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "A blend of Xavier + Thanatos originally coined by the creators of the television show Gargoyles, and subsequently used by other authors in their own fiction.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Xanatos"
     },
     {
@@ -25,24 +29,31 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Toponymic surname of a 16th-century saint born in the Kingdom of Navarre, Francis de Xavier, from a place name in the Kingdom of Navarre, originally from Basque Xabier. Doublet of Echeverría.",
+      "meaning": "New house.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Conventional Basque etxe plus berri through the place name Xabier.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Xavier"
       ],
       "note": "A male given name from Spanish [in turn from Basque].",
       "origin": "Spanish [in turn from Basque]",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Toponymic surname of a 16th-century saint born in the Kingdom of Navarre, Francis de Xavier, from a place name in the Kingdom of Navarre, originally from Basque Xabier. Doublet of Echeverría.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Xavier"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Possibly a variant of Xenia, from Latin Xenia, from Ancient Greek ξενία (xenía, “hospitable”), the assumed name of a fifth-century saint venerated in the Eastern Orthodox Church, from ξένος (xénos, “foreign, strange”).",
+      "meaning": "Possibly related to Xenia, associated with hospitality.",
+      "meaningEvidence": "Possibly variant of Xenia, Greek xenía (“hospitable”); origin qualified.",
+      "nameSourceURL": "https://en.wiktionary.org/wiki/Xena",
       "names": [
         "Xena"
       ],
       "note": "A female given name from Ancient Greek of modern usage.",
       "origin": "Ancient Greek of modern usage",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Possibly a variant of Xenia, from Latin Xenia, from Ancient Greek ξενία (xenía, “hospitable”), the assumed name of a fifth-century saint venerated in the Eastern Orthodox Church, from ξένος (xénos, “foreign, strange”).",
+      "sourceProvider": "English Wiktionary contributors; Kins sourced summary",
       "sourceURL": "https://en.wiktionary.org/wiki/Xena"
     },
     {
@@ -80,33 +91,42 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Mandarin 晓敏 (Xiǎomǐn), probably originally 小敏 (Xiǎomǐn), diminutive of 敏 (Mǐn).",
+      "meaning": "Can suggest dawn and cleverness, or little and cleverness, depending on the Chinese characters.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Supplied source gives Xiaomin as either Xiaomin with dawn or little character plus clever.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Xiaomin"
       ],
       "note": "A female given name from Mandarin.",
       "origin": "Mandarin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Mandarin 晓敏 (Xiǎomǐn), probably originally 小敏 (Xiǎomǐn), diminutive of 敏 (Mǐn).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Xiaomin"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Fanciful variant of Xavier.",
+      "meaning": "New house.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Conventional Basque etxe plus berri through the place name Xabier.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Xzavier"
       ],
       "note": "A male given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Fanciful variant of Xavier.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Xzavier"
     }
   ],
   "entryCount": 9,
-  "generatedAt": "2026-10-02T09:42:07Z",
-  "licenseNotice": "Curated summaries plus attributed CC BY-SA 4.0 Wiktionary material",
+  "generatedAt": "2026-10-02T15:03:18Z",
+  "interpretationPolicy": "AI interpretations fill unresolved meanings, retain their etymology reference and confidence, and do not replace supported meanings.",
+  "licenseNotice": "Curated summaries, attributed CC BY-SA 4.0 Wiktionary material, and separately labelled AI interpretations",
   "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
   "policy": "Explicit spellings only. Meanings are concise etymological summaries, not personality claims. Uncertain or multi-origin names remain qualified.",
-  "reviewedAt": "2026-09-23",
+  "reviewedAt": "2026-09-27",
   "schemaVersion": 1,
-  "spellingCount": 6683
+  "spellingCount": 7055
 }

@@ -3,35 +3,46 @@
   "entries": [
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Arabic قَاسِم (qāsim).",
+      "meaning": "From Arabic, meaning “divider or distributor”.",
+      "meaningEvidence": "Fetched Arabic dictionary gloss for قاسم: divider or distributor.",
+      "nameSourceURL": "https://en.wiktionary.org/wiki/Qasim",
       "names": [
         "Qasim"
       ],
       "note": "A male given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
-      "sourceURL": "https://en.wiktionary.org/wiki/Qasim"
+      "sourceEtymology": "Borrowed from Arabic قَاسِم (qāsim).",
+      "sourceProvider": "English Wiktionary contributors; Kins sourced summary",
+      "sourceURL": "https://en.wiktionary.org/wiki/%D9%82%D8%A7%D8%B3%D9%85"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Akan.",
+      "meaning": "An Akan day name traditionally associated with being born on Sunday.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Supplied Akan Quashie; conventional Kwasi/Quashie Sunday-name family.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Quashie"
       ],
       "note": "A surname from Akan. An anglicised form of Akan Kwasi, a given name for a boy born on a Sunday",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Akan.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Quashie"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From queen + -ie.",
+      "meaning": "A pet form of Queen, associated with a female ruler.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Supplied queen + ie.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Queenie"
       ],
       "note": "A female given name from English.",
       "origin": "English",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From queen + -ie.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Queenie"
     },
     {
@@ -69,24 +80,32 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Possibly from Doric Scots, quinne (young woman); though the name may also be a modern feminine version of Quinn.",
+      "meaning": "May refer to a young woman in Scots, or be a form of Quinn.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Supplied alternative Scots quinne and Quinn origins.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Quinne"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Possibly from Doric Scots, quinne (young woman); though the name may also be a modern feminine version of Quinn.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Quinne"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Probably blend of Quintus + Octavius.",
+      "meaning": "A modern blend of Quintus and Octavius, associated with fifth and eighth.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Supplied probable Quintus + Octavius; constituent meanings, not a unique literal translation.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Quintavius"
       ],
       "note": "A male given name originating as a coinage, of African-American usage.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Probably blend of Quintus + Octavius.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Quintavius"
     },
     {
@@ -124,11 +143,12 @@
     }
   ],
   "entryCount": 11,
-  "generatedAt": "2026-10-02T09:42:07Z",
-  "licenseNotice": "Curated summaries plus attributed CC BY-SA 4.0 Wiktionary material",
+  "generatedAt": "2026-10-02T15:03:18Z",
+  "interpretationPolicy": "AI interpretations fill unresolved meanings, retain their etymology reference and confidence, and do not replace supported meanings.",
+  "licenseNotice": "Curated summaries, attributed CC BY-SA 4.0 Wiktionary material, and separately labelled AI interpretations",
   "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
   "policy": "Explicit spellings only. Meanings are concise etymological summaries, not personality claims. Uncertain or multi-origin names remain qualified.",
-  "reviewedAt": "2026-09-23",
+  "reviewedAt": "2026-09-27",
   "schemaVersion": 1,
-  "spellingCount": 6683
+  "spellingCount": 7055
 }

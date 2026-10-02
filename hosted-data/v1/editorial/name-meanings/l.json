@@ -80,13 +80,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Middle English Laban, from Latin Laban, from Koine Greek Λάβαν (Lában), from Biblical Hebrew לָבָן (Lāḇān).",
+      "meaning": "White.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Conventional Hebrew lavan meaning; catalog gives the biblical Hebrew form.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Laban"
       ],
       "note": "A male given name from Hebrew of biblical origin.",
       "origin": "Hebrew of biblical origin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Middle English Laban, from Latin Laban, from Koine Greek Λάβαν (Lában), from Biblical Hebrew לָבָן (Lāḇān).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Laban"
     },
     {
@@ -135,13 +139,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Medieval Latin Ladislaus, Latinization of a Slavic royal name *Voldislavъ, from the elements Proto-Slavic *voldь (“power”) (see *volděti) and Proto-Slavic *slava (“glory”). Doublet of Laszlo and Vladislav.",
+      "meaning": "Power or rule, and glory.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Vladislav/Ladislav; catalog gives Slavic elements for power and glory.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Ladislaus"
       ],
       "note": "A male given name from the Slavic languages.",
       "origin": "the Slavic languages",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Medieval Latin Ladislaus, Latinization of a Slavic royal name *Voldislavъ, from the elements Proto-Slavic *voldь (“power”) (see *volděti) and Proto-Slavic *slava (“glory”). Doublet of Laszlo and Vladislav.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Ladislaus"
     },
     {
@@ -212,24 +220,31 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Arabic لَيْث (layṯ).",
+      "meaning": "From Arabic for “lion”.",
+      "meaningEvidence": "ليث: lion; male given name.",
+      "nameSourceURL": "https://en.wiktionary.org/wiki/Laith",
       "names": [
         "Laith"
       ],
       "note": "A male given name from Arabic.",
       "origin": "Arabic",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
-      "sourceURL": "https://en.wiktionary.org/wiki/Laith"
+      "sourceEtymology": "Borrowed from Arabic لَيْث (layṯ).",
+      "sourceProvider": "English Wiktionary contributors; Kins sourced summary",
+      "sourceURL": "https://en.wiktionary.org/wiki/%D9%84%D9%8A%D8%AB"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Derived from the noun lake.",
+      "meaning": "Lake, a body of inland water.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog explicitly derives the name from the noun lake.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lake"
       ],
       "note": "A unisex given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Derived from the noun lake.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lake"
     },
     {
@@ -278,14 +293,29 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Sanskrit लक्ष्मण (lakṣmaṇa).",
+      "meaning": "Having auspicious marks or signs.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Conventional Sanskrit lakshmana lexical interpretation, related to lakshana, mark or sign.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lakshmana"
       ],
       "note": "A male given name from Sanskrit used mostly in India.",
       "origin": "Sanskrit used mostly in India",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Sanskrit लक्ष्मण (lakṣmaṇa).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lakshmana"
+    },
+    {
+      "license": "CC BY-SA 4.0",
+      "meaning": "Borrowed from Sanskrit लक्ष्मी (lakṣmī, “mark, sign”).",
+      "names": [
+        "Lakshmi"
+      ],
+      "note": "A female given name from Sanskrit used in India.",
+      "origin": "Sanskrit used in India",
+      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceURL": "https://en.wiktionary.org/wiki/Lakshmi"
     },
     {
       "license": "CC BY-SA 4.0",
@@ -322,13 +352,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Sanskrit ललित (lalita).",
+      "meaning": "Playful, charming or graceful.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Conventional Sanskrit lalita meaning.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lalita"
       ],
       "note": "A female given name from Sanskrit commonly used in India.",
       "origin": "Sanskrit commonly used in India",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Sanskrit ललित (lalita).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lalita"
     },
     {
@@ -366,35 +400,47 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Arabic",
+      "meaning": "Trustworthy or faithful.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog identifies this Arabic-origin form as a variant of Amin.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lamine"
       ],
       "note": "A male given name from Arabic, variant of Amin",
       "origin": "Arabic",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Arabic",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lamine"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Short form of Alana, or from Russian Ла́на (Lána), diminutive of several names including Светла́на (Svetlána).",
+      "meaning": "As a short form of Svetlana, associated with ‘light’ or ‘bright’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog allows several root names; this meaning explicitly applies to its Russian Svetlana use.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lana"
       ],
       "note": "A female given name from Russian.",
       "origin": "Russian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Short form of Alana, or from Russian Ла́на (Lána), diminutive of several names including Светла́на (Svetlána).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lana"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "The surname is derived from a medieval given name Lanzo, short form of names beginning with the Germanic element *land; see land. Doublet of Lanzo.",
+      "meaning": "Land, from the Germanic name element; also associated with the weapon lance.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog identifies Lanzo and Germanic land, while preserving the later weapon association.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lance"
       ],
       "note": "A male given name from the Germanic languages; by folk etymology associated with a lance. A diminutive of the male given name Lancelot.",
       "origin": "the Germanic languages",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "The surname is derived from a medieval given name Lanzo, short form of names beginning with the Germanic element *land; see land. Doublet of Lanzo.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lance"
     },
     {
@@ -465,13 +511,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Hawaiian Lani.",
+      "meaning": "Sky or heaven; also carrying a chiefly or royal association.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Conventional Hawaiian lani lexical interpretation.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lani"
       ],
       "note": "A female given name from Hawaiian.",
       "origin": "Hawaiian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Hawaiian Lani.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lani"
     },
     {
@@ -487,13 +537,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Anglicized from Russian Ла́ра (Lára), a Russian pet form of Larissa, known from the novel (1957) and film (1965) Dr Zhivago.",
+      "meaning": "Traditionally associated with Larissa, an ancient Greek city often linked to ‘citadel’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "The city-name interpretation is traditional; its deeper origin is not settled.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lara"
       ],
       "note": "A female given name from Russian or Ukrainian.",
       "origin": "Russian or Ukrainian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Anglicized from Russian Ла́ра (Lára), a Russian pet form of Larissa, known from the novel (1957) and film (1965) Dr Zhivago.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lara"
     },
     {
@@ -509,13 +563,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Ancient Greek Λάρισσα (Lárissa).",
+      "meaning": "Traditionally associated with Larissa, an ancient Greek city often linked to ‘citadel’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "The city-name interpretation is traditional; its deeper origin is not settled.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Larissa"
       ],
       "note": "A female given name from Ancient Greek (after the mythological character and a 4th century Greek Orthodox martyr).",
       "origin": "Ancient Greek",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Ancient Greek Λάρισσα (Lárissa).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Larissa"
     },
     {
@@ -531,13 +589,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from North Germanic, from Latin Laurentius.",
+      "meaning": "Of Laurentum; traditionally associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Laurentius/Laurence/Laura; Laurentum is a place name conventionally associated with Latin laurus.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lars"
       ],
       "note": "A male given name from Latin occasionally given to Anglophones.",
       "origin": "Latin occasionally given to Anglophones",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from North Germanic, from Latin Laurentius.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lars"
     },
     {
@@ -553,13 +615,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Hungarian László, from the Slavic given name Ladislav, a variant of Vladislav. Doublet of Ladislaus.",
+      "meaning": "Power or rule, and glory.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Vladislav/Ladislav; catalog gives Slavic elements for power and glory.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Laszlo"
       ],
       "note": "A male given name from Hungarian.",
       "origin": "Hungarian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Hungarian László, from the Slavic given name Ladislav, a variant of Vladislav. Doublet of Ladislaus.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Laszlo"
     },
     {
@@ -586,13 +652,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "La- + Tasha",
+      "meaning": "A form linked to Tasha and Natasha, traditionally associated with ‘birth’ or ‘Christmas’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies La- plus Tasha; Natasha is a short form of Natalia.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Latasha"
       ],
       "note": "A female given name of African-American usage",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "La- + Tasha",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Latasha"
     },
     {
@@ -608,46 +678,60 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Arabic لَطِيف (laṭīf).",
+      "meaning": "From an Arabic root meaning “gentle”, “kind” or “graceful”.",
+      "meaningEvidence": "لطيف: gentle, kind, graceful; لطيفة is its feminine.",
+      "nameSourceURL": "https://en.wiktionary.org/wiki/Latif",
       "names": [
         "Latif"
       ],
       "note": "A male given name from Arabic, feminine equivalent Latifa.",
       "origin": "Arabic",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
-      "sourceURL": "https://en.wiktionary.org/wiki/Latif"
+      "sourceEtymology": "From Arabic لَطِيف (laṭīf).",
+      "sourceProvider": "English Wiktionary contributors; Kins sourced summary",
+      "sourceURL": "https://en.wiktionary.org/wiki/%D9%84%D8%B7%D9%8A%D9%81"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Arabic لَطِيفَة (laṭīfa).",
+      "meaning": "From an Arabic root meaning “gentle”, “kind” or “graceful”.",
+      "meaningEvidence": "لطيف: gentle, kind, graceful; لطيفة is its feminine.",
+      "nameSourceURL": "https://en.wiktionary.org/wiki/Latifa",
       "names": [
         "Latifa"
       ],
       "note": "A female given name from Arabic, masculine equivalent Latif.",
       "origin": "Arabic",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
-      "sourceURL": "https://en.wiktionary.org/wiki/Latifa"
+      "sourceEtymology": "Borrowed from Arabic لَطِيفَة (laṭīfa).",
+      "sourceProvider": "English Wiktionary contributors; Kins sourced summary",
+      "sourceURL": "https://en.wiktionary.org/wiki/%D9%84%D8%B7%D9%8A%D9%81"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Possibly La- + Toya (“a Spanish pet form of Victoria”).",
+      "meaning": "Possibly linked to Toya and Victoria, with the association ‘victory’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog presents Toya as a possible root, so the interpretation is qualified.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Latoya"
       ],
       "note": "A female given name originating as a coinage, of latter 20th-century African-American usage.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Possibly La- + Toya (“a Spanish pet form of Victoria”).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Latoya"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Variant of Latoya.",
+      "meaning": "Possibly linked to Toya and Victoria, with the association ‘victory’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog presents Toya as a possible root, so the interpretation is qualified.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Latoyah"
       ],
       "note": "A female given name originating as a coinage, of latter 20th-century African-American usage.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Variant of Latoya.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Latoyah"
     },
     {
@@ -663,35 +747,47 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From French Laureline. By surface analysis, Laurel + -ine.",
+      "meaning": "Laurel, the evergreen tree associated with honour.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Lauro follows Latin laurus; Laureline and Laurelyn are linked to the name Laurel.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Laureline"
       ],
       "note": "A female given name from French.",
       "origin": "French",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From French Laureline. By surface analysis, Laurel + -ine.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Laureline"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "An alteration of Laureline with -lyn.",
+      "meaning": "Laurel, the evergreen tree associated with honour.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Lauro follows Latin laurus; Laureline and Laurelyn are linked to the name Laurel.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Laurelyn"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "An alteration of Laureline with -lyn.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Laurelyn"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Latin clipping of Laurentius. Doublet of Laurence.",
+      "meaning": "Of Laurentum; traditionally associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Laurentius/Laurence/Laura; Laurentum is a place name conventionally associated with Latin laurus.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lauren"
       ],
       "note": "A unisex given name. A female given name from Latin, masculine equivalent Laurence; feminine of Lawrence",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Latin clipping of Laurentius. Doublet of Laurence.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lauren"
     },
     {
@@ -707,13 +803,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Latin Laurentius.",
+      "meaning": "Of Laurentum; traditionally associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Laurentius/Laurence/Laura; Laurentum is a place name conventionally associated with Latin laurus.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Laurentius"
       ],
       "note": "A male given name from Latin.",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Latin Laurentius.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Laurentius"
     },
     {
@@ -729,35 +829,47 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Dzongkha ལའུ་རི་ (la'u ri).",
+      "meaning": "As a spelling of Laurie, traditionally associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog given-name note explicitly identifies Laurie/Laura; an unrelated Dzongkha place-name etymology is not used.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lauri"
       ],
       "note": "A less common spelling of Laurie, a diminutive of the female given name Laura.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Dzongkha ལའུ་རི་ (la'u ri).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lauri"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "The given names are clippings of Laurence, Lawrence, Laura, or Lauren + -ie, all ultimately from Latin laurus (“laurel”). The surname is from the diminutive of Lawrence. The city in Missouri was named by its residents in 1961 after L. M. and William (Buster) Laurie, who in 1937 bought a building in the area and operated the Laurie Market, because of the goodwill generated by the family store over the years.",
+      "meaning": "Of Laurentum; traditionally associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Laurentius/Laurence/Laura; Laurentum is a place name conventionally associated with Latin laurus.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Laurie"
       ],
       "note": "A unisex given name. A diminutive of the male given names Laurence and Lawrence; alternative form of Lawrie; a pet form of the male given name Laurence or Lawrence.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "The given names are clippings of Laurence, Lawrence, Laura, or Lauren + -ie, all ultimately from Latin laurus (“laurel”). The surname is from the diminutive of Lawrence. The city in Missouri was named by its residents in 1961 after L. M. and William (Buster) Laurie, who in 1937 bought a building in the area and operated the Laurie Market, because of the goodwill generated by the family store over the years.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Laurie"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Alternative form of Lauren.",
+      "meaning": "Of Laurentum; traditionally associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Laurentius/Laurence/Laura; Laurentum is a place name conventionally associated with Latin laurus.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Laurin"
       ],
       "note": "A female given name, variant of Lauren.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Alternative form of Lauren.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Laurin"
     },
     {
@@ -773,24 +885,32 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From the Italian surname, from a personal name derived from Latin laurus.",
+      "meaning": "Laurel, the evergreen tree associated with honour.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Lauro follows Latin laurus; Laureline and Laurelyn are linked to the name Laurel.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lauro"
       ],
       "note": "A male given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From the Italian surname, from a personal name derived from Latin laurus.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lauro"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Spelling variant of Lauren.",
+      "meaning": "Of Laurentum; traditionally associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Laurentius/Laurence/Laura; Laurentum is a place name conventionally associated with Latin laurus.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lauryn"
       ],
       "note": "A female given name from Latin.",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Spelling variant of Lauren.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lauryn"
     },
     {
@@ -916,13 +1036,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Serbo-Croatian Lazar, ultimately from Ancient Greek Λάζαρος (Lázaros), from Hebrew אלעזר (ʼElʻāzār).",
+      "meaning": "God has helped.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Form of Lazarus, ultimately from Hebrew Eleazar.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lazar"
       ],
       "note": "A Serbian male given name from Serbo-Croatian.",
       "origin": "Serbo-Croatian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Serbo-Croatian Lazar, ultimately from Ancient Greek Λάζαρος (Lázaros), from Hebrew אלעזר (ʼElʻāzār).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lazar"
     },
     {
@@ -938,24 +1062,32 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Hungarian László. Doublet of Vladislav.",
+      "meaning": "Power or rule, and glory.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Vladislav/Ladislav; catalog gives Slavic elements for power and glory.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lazlo"
       ],
       "note": "A male given name from Hungarian László",
       "origin": "Hungarian László",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Hungarian László. Doublet of Vladislav.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lazlo"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Hebrew לֵאָה (Le'a).",
+      "meaning": "Traditionally interpreted as ‘weary’; its exact origin is uncertain.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Traditional Hebrew name explanation, distinguished from a settled historical derivation.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Leah"
       ],
       "note": "A female given name from Hebrew.",
       "origin": "Hebrew",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Hebrew לֵאָה (Le'a).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Leah"
     },
     {
@@ -1037,13 +1169,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Hawaiian Leilani.",
+      "meaning": "Heavenly lei, or heavenly garland.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Conventional Hawaiian compound lei, garland, plus lani, heaven.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Leilani"
       ],
       "note": "A female given name from Hawaiian.",
       "origin": "Hawaiian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Hawaiian Leilani.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Leilani"
     },
     {
@@ -1136,46 +1272,62 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Old French Leonard, name of a 6th century Frankish saint, from Old High German leo (“lion”) or Old High German liut (“person”) and hart (“hard”). As a surname, also used as an anglicisation of Irish Ó Leannáin (Lennon).",
+      "meaning": "Traditionally ‘brave lion’; an alternative first element means ‘people’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog gives leo, lion, or liut, person, plus hart, hard or brave.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Leonard"
       ],
       "note": "A male given name from the Germanic languages.",
       "origin": "the Germanic languages",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Old French Leonard, name of a 6th century Frankish saint, from Old High German leo (“lion”) or Old High German liut (“person”) and hart (“hard”). As a surname, also used as an anglicisation of Irish Ó Leannáin (Lennon).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Leonard"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Leonard + -a.",
+      "meaning": "Traditionally ‘brave lion’; an alternative first element means ‘people’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog gives leo, lion, or liut, person, plus hart, hard or brave.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Leonarda"
       ],
       "note": "A female given name of rare usage.",
       "origin": "Leonard",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Leonard + -a.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Leonarda"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Italian Leonardo.",
+      "meaning": "Traditionally ‘brave lion’; an alternative first element means ‘people’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog gives leo, lion, or liut, person, plus hart, hard or brave.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Leonardo"
       ],
       "note": "A male given name from Italian, equivalent to English Leonard.",
       "origin": "Italian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Italian Leonardo.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Leonardo"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Macedonian and Russian Леони́д (Leoníd) or Ukrainian Леоні́д (Leoníd), from Ancient Greek Λεωνίδας (Leōnídas). Cognate with the English historical name Leonidas.",
+      "meaning": "Son or descendant of a lion.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Form of Leonidas, conventionally derived from Greek leon, lion, with a patronymic ending.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Leonid"
       ],
       "note": "A male given name, a transliteration of a common East Slavic name (notably that of the first two Ukrainian presidents, Leonid Kravchuk and Leonid Kuchma, as well as Soviet leader Leonid Brezhnev).",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Macedonian and Russian Леони́д (Leoníd) or Ukrainian Леоні́д (Leoníd), from Ancient Greek Λεωνίδας (Leōnídas). Cognate with the English historical name Leonidas.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Leonid"
     },
     {
@@ -1235,13 +1387,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Old French Leopold, from Old High German liut (“people”) + bald (“bold”). The first part is sometimes associated by folk etymology with Latin leo (“lion”), as in Leo and Leonard. More at lede, bold.",
+      "meaning": "Bold people.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog gives Old High German liut, people, plus bald, bold.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Leopold"
       ],
       "note": "A male given name from the Germanic languages. Used in the 19th century but rare today.",
       "origin": "the Germanic languages",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Old French Leopold, from Old High German liut (“people”) + bald (“bold”). The first part is sometimes associated by folk etymology with Latin leo (“lion”), as in Leo and Leonard. More at lede, bold.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Leopold"
     },
     {
@@ -1389,68 +1545,92 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Ultimately from Biblical Hebrew לֵוִי (lēwî), of uncertain origin. Doublet of Lewi.",
+      "meaning": "Traditionally associated with ‘joined’ or ‘attached’, through Levi; its exact origin is uncertain.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Reflects the biblical explanation of Levi while retaining the catalog's historical uncertainty.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Levi"
       ],
       "note": "A male given name from Hebrew.",
       "origin": "Hebrew",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Ultimately from Biblical Hebrew לֵוִי (lēwî), of uncertain origin. Doublet of Lewi.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Levi"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Russian Левин (Levin), from Леви (Levi) + -ин (-in, “forming possessives & adjectives”), ultimately from Biblical Hebrew לֵוִי (“Levi”), of uncertain origin. Doublet of Levine.",
+      "meaning": "Traditionally associated with ‘joined’ or ‘attached’, through Levi; its exact origin is uncertain.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Reflects the biblical explanation of Levi while retaining the catalog's historical uncertainty.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Levin"
       ],
       "note": "A male given name.",
       "origin": "Russian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Russian Левин (Levin), from Леви (Levi) + -ин (-in, “forming possessives & adjectives”), ultimately from Biblical Hebrew לֵוִי (“Levi”), of uncertain origin. Doublet of Levine.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Levin"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From the biblical name Levi. Unlike the biblical spelling, which descended through continuous liturgical traditions that preserved final secondary stress (causing it to shift to IPA⁽ᵏᵉʸ⁾: /ˈliːvaɪ/), the surname was re-introduced into English after the 1650s via French Lévy and German Levy.",
+      "meaning": "Traditionally associated with ‘joined’ or ‘attached’, through Levi; its exact origin is uncertain.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Reflects the biblical explanation of Levi while retaining the catalog's historical uncertainty.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Levy"
       ],
       "note": "A male given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From the biblical name Levi. Unlike the biblical spelling, which descended through continuous liturgical traditions that preserved final secondary stress (causing it to shift to IPA⁽ᵏᵉʸ⁾: /ˈliːvaɪ/), the surname was re-introduced into English after the 1650s via French Lévy and German Levy.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Levy"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Diminutives: Lewis + -y",
+      "meaning": "Famous warrior.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Diminutive of Lewis, a form of Louis, from Germanic fame and battle elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lewy"
       ],
       "note": "A diminutive of the male given name Lewis.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Diminutives: Lewis + -y",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lewy"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "A short form of Alexa or Alexandra.",
+      "meaning": "Defender of people.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or short forms of Alexander or Alexandra, from Greek alexein, defend, and aner/andros, man.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lexa"
       ],
       "note": "A female given name from Ancient Greek.",
       "origin": "Ancient Greek",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "A short form of Alexa or Alexandra.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lexa"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Clipping + -ie.",
+      "meaning": "Defender of people.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or short forms of Alexander or Alexandra, from Greek alexein, defend, and aner/andros, man.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lexie"
       ],
       "note": "A diminutive of the female given names Alexis, Alexia, Alexandra, and Alexandria.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Clipping + -ie.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lexie"
     },
     {
@@ -1466,13 +1646,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From the name of the River Lea + Old English tūn (“enclosure; settlement, town”). Doublet of Luton.",
+      "meaning": "Settlement on the River Lea.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog explicitly combines the river name Lea and Old English tun, settlement.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Leyton"
       ],
       "note": "A unisex given name, sometimes regarded as a variant of Leighton.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From the name of the River Lea + Old English tūn (“enclosure; settlement, town”). Doublet of Luton.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Leyton"
     },
     {
@@ -1499,13 +1683,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from German Liesel.",
+      "meaning": "God is my oath.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Isabel, Elisabeth or Elizabeth, from conventional Hebrew Elisheva analysis.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Liesel"
       ],
       "note": "A diminutive of the female given name Elisabeth, from German.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from German Liesel.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Liesel"
     },
     {
@@ -1554,13 +1742,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Short form of Delilah; also a variant of Leila.",
+      "meaning": "As a form of Leila, ‘night’; as Delilah, traditionally ‘delicate’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog allows Leila and Delilah, so the interpretations are kept separate.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lilah"
       ],
       "note": "A female given name from Hebrew.",
       "origin": "Hebrew",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Short form of Delilah; also a variant of Leila.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lilah"
     },
     {
@@ -1598,24 +1790,32 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Hebrew לִילִית (lîlîṯ).",
+      "meaning": "Traditionally associated with night or a night spirit.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Hebrew and earlier Mesopotamian associations are complex; this is a conventional association.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lilith"
       ],
       "note": "A female given name from Hebrew.",
       "origin": "Hebrew",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Hebrew לִילִית (lîlîṯ).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lilith"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Macedonian Лилјана (Liljana), from лилјан (liljan).",
+      "meaning": "Lily, the flowering plant.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Lilian/Lily or their Slavic equivalents.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Liljana"
       ],
       "note": "A transliteration of the Macedonian female given name Лилјана (Liljana), equivalent to Lilian",
       "origin": "Macedonian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Macedonian Лилјана (Liljana), from лилјан (liljan).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Liljana"
     },
     {
@@ -1631,46 +1831,62 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "A less common form of Liliana.",
+      "meaning": "Lily, the flowering plant.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Lilian/Lily or their Slavic equivalents.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lillianna"
       ],
       "note": "A female given name from Latin.",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "A less common form of Liliana.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lillianna"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Variant of Liliana, or from Lily + Anna.",
+      "meaning": "As a combination of Lily and Anna, linked to the flower and 'grace'; also a form of Liliana.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog offers both Liliana and Lily plus Anna; the compound interpretation is explicitly conditional.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lillyanna"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Variant of Liliana, or from Lily + Anna.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lillyanna"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Transliteration of Bulgarian Лиляна (Liljana), equivalent to English Lilian.",
+      "meaning": "Lily, the flowering plant.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Lilian/Lily or their Slavic equivalents.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lilyana"
       ],
       "note": "A female given name from the Slavic languages.",
       "origin": "the Slavic languages",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Transliteration of Bulgarian Лиляна (Liljana), equivalent to English Lilian.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lilyana"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Lily + Anna.",
+      "meaning": "Combines Lily, the flower, and Anna, traditionally ‘grace’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog allows or explicitly gives Lily plus Anna.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lilyanna"
       ],
       "note": "A female given name.",
       "origin": "Lily",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Lily + Anna.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lilyanna"
     },
     {
@@ -1708,13 +1924,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Latinised short form of Germanic compound names ending in -lind, -linde (“tender, soft”) (English -inda), such as Sieglinde and Dietlinde, and earlier names such as Old High German Irmilinda and Old Dutch Frithelind, from Proto-Germanic *linþaz (“gentle, mild”), whence also Old English līþe (“gentle, mild, pliable, limber”) (English lithe). Later misassociated with unrelated Spanish linda (“beautiful”).",
+      "meaning": "Gentle or soft; also associated with Spanish ‘beautiful’.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog gives the Germanic root meaning gentle or soft and distinguishes the later Spanish association.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Linda"
       ],
       "note": "A female given name from the Germanic languages.",
       "origin": "the Germanic languages",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Latinised short form of Germanic compound names ending in -lind, -linde (“tender, soft”) (English -inda), such as Sieglinde and Dietlinde, and earlier names such as Old High German Irmilinda and Old Dutch Frithelind, from Proto-Germanic *linþaz (“gentle, mild”), whence also Old English līþe (“gentle, mild, pliable, limber”) (English lithe). Later misassociated with unrelated Spanish linda (“beautiful”).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Linda"
     },
     {
@@ -1752,13 +1972,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Diminutives with -y.",
+      "meaning": "As a form of Linda, ‘gentle’ or ‘soft’; other root names have different meanings.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog allows Linda, Lindsay and Linnet; this explicitly describes the Linda use.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lindy"
       ],
       "note": "A diminutive of the female given names Linda, Lindsay, and Linnet.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Diminutives with -y.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lindy"
     },
     {
@@ -1807,46 +2031,62 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Fanciful 20th-century respelling of Lindsey or Lindsay.",
+      "meaning": "Lindsey island, traditionally linked to the region around Lincoln.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Lindsay/Lindsey, conventionally from the place name Lindesege; not a literal lime-tree interpretation.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Linzey"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Fanciful 20th-century respelling of Lindsey or Lindsay.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Linzey"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Fanciful 20th-century respelling of Lindsey or Lindsay.",
+      "meaning": "Lindsey island, traditionally linked to the region around Lincoln.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Lindsay/Lindsey, conventionally from the place name Lindesege; not a literal lime-tree interpretation.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Linzi"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Fanciful 20th-century respelling of Lindsey or Lindsay.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Linzi"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Fanciful 20th-century respelling of Lindsey or Lindsay.",
+      "meaning": "Lindsey island, traditionally linked to the region around Lincoln.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Lindsay/Lindsey, conventionally from the place name Lindesege; not a literal lime-tree interpretation.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Linzy"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Fanciful 20th-century respelling of Lindsey or Lindsay.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Linzy"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "A Middle English diminutive of French Léon, Latin Leo (“lion”), or of the Middle English nickname Lion + -el (diminutive suffix).",
+      "meaning": "Little lion.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog identifies a diminutive of Leon/Leo or Lion.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lionel"
       ],
       "note": "A male given name from Latin of mostly British usage.",
       "origin": "Latin of mostly British usage",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "A Middle English diminutive of French Léon, Latin Leo (“lion”), or of the Middle English nickname Lion + -el (diminutive suffix).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lionel"
     },
     {
@@ -1873,35 +2113,47 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From the French, and possible also from Scandinavian, Lise. Variant of more common English Lisa.",
+      "meaning": "God is my oath.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Isabel, Elisabeth or Elizabeth, from conventional Hebrew Elisheva analysis.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lise"
       ],
       "note": "A female given name from French.",
       "origin": "French",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From the French, and possible also from Scandinavian, Lise. Variant of more common English Lisa.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lise"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Italian pet form of Elisabetta",
+      "meaning": "God is my oath.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Isabel, Elisabeth or Elizabeth, from conventional Hebrew Elisheva analysis.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lisetta"
       ],
       "note": "A female given name from Italian.",
       "origin": "Italian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Italian pet form of Elisabetta",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lisetta"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "French",
+      "meaning": "God is my oath.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Isabel, Elisabeth or Elizabeth, from conventional Hebrew Elisheva analysis.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lisette"
       ],
       "note": "A female given name from French.",
       "origin": "French",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "French",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lisette"
     },
     {
@@ -1939,24 +2191,32 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Aphetic form of Olivia + -y.",
+      "meaning": "Olive or olive tree.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Short form of Olivia, conventionally associated with Latin oliva.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Livvy"
       ],
       "note": "A diminutive of the female given name Olivia.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Aphetic form of Olivia + -y.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Livvy"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Liz + -ie.",
+      "meaning": "God is my oath.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms of Isabel, Elisabeth or Elizabeth, from conventional Hebrew Elisheva analysis.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lizzie"
       ],
       "note": "A diminutive of the female given name Elizabeth.",
       "origin": "Liz",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Liz + -ie.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lizzie"
     },
     {
@@ -1994,24 +2254,32 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Lloyd + -ie",
+      "meaning": "Grey.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Pet form of Lloyd, from Welsh llwyd, grey.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lloydie"
       ],
       "note": "A diminutive of the male given name Lloyd.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Lloyd + -ie",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lloydie"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Tibetan བློ་བཟང (blo bzang).",
+      "meaning": "Good mind or kind heart.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Conventional Tibetan blo bzang analysis of mind plus good.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lobsang"
       ],
       "note": "A male given name from Tibetan.",
       "origin": "Tibetan",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Tibetan བློ་བཟང (blo bzang).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lobsang"
     },
     {
@@ -2049,13 +2317,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Diminutive: Lachlan + -ie",
+      "meaning": "Land of the lakes, through Lachlan.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Scottish short form of Lachlan, traditionally associated with the old Gaelic name for Scandinavia.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lockie"
       ],
       "note": "A diminutive of the male given name Lachlan.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Diminutive: Lachlan + -ie",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lockie"
     },
     {
@@ -2115,24 +2387,47 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "variant of Spanish Lolita",
+      "meaning": "Sorrows, through the Spanish name Dolores.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Spanish Lola and its diminutives conventionally derive from Dolores; the catalog links Loleatta to Spanish Lolita.",
+      "meaningStatus": "ai-assisted",
+      "names": [
+        "Lola"
+      ],
+      "note": "A female given name from Spanish.",
+      "origin": "Spanish",
+      "sourceEtymology": "Borrowed from Spanish Lola.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
+      "sourceURL": "https://en.wiktionary.org/wiki/Lola"
+    },
+    {
+      "license": "CC BY-SA 4.0",
+      "meaning": "Sorrows, through the Spanish name Dolores.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Spanish Lola and its diminutives conventionally derive from Dolores; the catalog links Loleatta to Spanish Lolita.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Loleatta"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "variant of Spanish Lolita",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Loleatta"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Transliteration of Assamese and Bengali ললিতা (lolita), Odia ଲଳିତା (laḷitā).",
+      "meaning": "In its Indic use, associated with ‘playful’, ‘charming’ or ‘graceful’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies Assamese/Bengali/Odia Lalita, so the unrelated Spanish Dolores interpretation is avoided.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lolita"
       ],
       "note": "A female given name from Assamese, Bengali, Odia and Santali.",
       "origin": "Assamese",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Transliteration of Assamese and Bengali ললিতা (lolita), Odia ଲଳିତା (laḷitā).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lolita"
     },
     {
@@ -2148,6 +2443,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
+      "meaning": "From Middle English Londoun, from Old English Lunden, from Proto-Celtic via Latin Londinium – see for details. Doublet of Londinium.",
+      "names": [
+        "London"
+      ],
+      "note": "A unisex given name transferred from the place name.",
+      "origin": "Middle English Londoun",
+      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceURL": "https://en.wiktionary.org/wiki/London"
+    },
+    {
+      "license": "CC BY-SA 4.0",
       "meaning": "Modern variant of London, influenced by Lynn.",
       "names": [
         "Londynn"
@@ -2159,13 +2465,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Diminutive + -ie.",
+      "meaning": "Noble and ready, through Alonzo.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Pet form of Alonzo, a form of Alfonso, traditionally analysed with noble and ready Germanic elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lonnie"
       ],
       "note": "A pet form of the male given name Alonzo.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Diminutive + -ie.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lonnie"
     },
     {
@@ -2214,13 +2524,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "In some cases, a 20th century spelling variant of Laurie, from Laura. In other cases, a diminutive form of names such as Loretta and Lorraine.",
+      "meaning": "In its Laura/Laurie use, associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog permits Laura, Loretta and Lorraine; the laurel interpretation is explicitly qualified.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lori"
       ],
       "note": "A female given name, popular in the US in the 1960s.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "In some cases, a 20th century spelling variant of Laurie, from Laura. In other cases, a diminutive form of names such as Loretta and Lorraine.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lori"
     },
     {
@@ -2258,135 +2572,182 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Hebrew לוֹט (lot). Doublet of Lut.",
+      "meaning": "Traditionally associated with a covering or veil.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Conventional biblical Hebrew interpretation of Lot.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lot"
       ],
       "note": "A male given name from Hebrew of biblical origin; rare today.",
       "origin": "Hebrew of biblical origin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Hebrew לוֹט (lot). Doublet of Lut.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lot"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From French Lothaire, from Medieval Latin Lotharius, from Proto-West Germanic *Hlūdhari.",
+      "meaning": "Famous army.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Germanic name conventionally built from fame and army elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lothair"
       ],
       "note": "A male given name from French Lothaire",
       "origin": "French Lothaire",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From French Lothaire, from Medieval Latin Lotharius, from Proto-West Germanic *Hlūdhari.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lothair"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Diminutive + -ie.",
+      "meaning": "A free person, through Charlotte and Charles.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Diminutive of Charlotte, feminine form of Charles.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lottie"
       ],
       "note": "A diminutive of the female given name Charlotte.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Diminutive + -ie.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lottie"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Shortening.",
+      "meaning": "Famous warrior.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or pet forms of Louis, from Germanic fame and battle elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lou"
       ],
       "note": "A unisex given name. A diminutive of the male given name Louis.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Shortening.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lou"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Lou + Anna.",
+      "meaning": "Combines Lou and Anna or Anne, linking ‘famous warrior’ with ‘grace’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies these Lou plus Anna/Anne combinations; associations follow Louis and Hannah.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Louanna"
       ],
       "note": "A female given name originating as a coinage.",
       "origin": "Lou",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Lou + Anna.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Louanna"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Lou + Anne.",
+      "meaning": "Combines Lou and Anna or Anne, linking ‘famous warrior’ with ‘grace’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies these Lou plus Anna/Anne combinations; associations follow Louis and Hannah.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Louanne"
       ],
       "note": "A female given name originating as a coinage.",
       "origin": "Lou",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Lou + Anne.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Louanne"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Variant of Lucinda.",
+      "meaning": "Traditionally associated with light.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Names linked to Latin Lucius/Lucia and lux, light; their historical derivation is conventionally understood this way.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Loucinda"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Variant of Lucinda.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Loucinda"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Lou (name) + -ella (diminutive suffix). First attested in the 19th century.",
+      "meaning": "A pet form of Lou, associated with ‘famous warrior’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog gives Lou plus a diminutive ending; the interpretation follows Louis.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Louella"
       ],
       "note": "A female given name originating as a coinage.",
       "origin": "Lou",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Lou (name) + -ella (diminutive suffix). First attested in the 19th century.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Louella"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Louis /Louise /Louisa + -ie.",
+      "meaning": "Famous warrior.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or pet forms of Louis, from Germanic fame and battle elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Louie"
       ],
       "note": "A diminutive of the male given name Louis.",
       "origin": "Louis",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Louis /Louise /Louisa + -ie.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Louie"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From French Louise, the feminine form of Louis.",
+      "meaning": "Famous warrior.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or pet forms of Louis, from Germanic fame and battle elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Louise"
       ],
       "note": "A female given name from French.",
       "origin": "French",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From French Louise, the feminine form of Louis.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Louise"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from French Louisiane, named for King Louis XIV of France.",
+      "meaning": "Named for Louis; Louis is associated with ‘famous warrior’.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog states that the place name commemorates Louis XIV.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Louisiana"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from French Louisiane, named for King Louis XIV of France.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Louisiana"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Arabic لجين.",
+      "meaning": "From Arabic for “refined silver”.",
+      "meaningEvidence": "لجين: refined silver; female given name.",
+      "nameSourceURL": "https://en.wiktionary.org/wiki/Loujain",
       "names": [
         "Loujain"
       ],
       "note": "A female given name from Arabic.",
       "origin": "Arabic",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
-      "sourceURL": "https://en.wiktionary.org/wiki/Loujain"
+      "sourceEtymology": "From Arabic لجين.",
+      "sourceProvider": "English Wiktionary contributors; Kins sourced summary",
+      "sourceURL": "https://en.wiktionary.org/wiki/%D9%84%D8%AC%D9%8A%D9%86"
     },
     {
       "license": "CC BY-SA 4.0",
@@ -2434,13 +2795,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Welsh Lowri.",
+      "meaning": "Of Laurentum; traditionally associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Laurentius/Laurence/Laura; Laurentum is a place name conventionally associated with Latin laurus.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lowri"
       ],
       "note": "A female given name from Welsh.",
       "origin": "Welsh",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Welsh Lowri.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lowri"
     },
     {
@@ -2467,13 +2832,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Clipping of a name which begins with /ˈlɔːɹ/ or /ˈlɒɹ/ + -zza.",
+      "meaning": "Of Laurentum; traditionally associated with laurel.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Laurentius/Laurence/Laura; Laurentum is a place name conventionally associated with Latin laurus.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lozza"
       ],
       "note": "A diminutive of male or female given names such as Laura or Lawrence.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Clipping of a name which begins with /ˈlɔːɹ/ or /ˈlɒɹ/ + -zza.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lozza"
     },
     {
@@ -2489,57 +2858,77 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "American 18th/19th century coinage, a fanciful spelling of Louanna, from Lou + Anna.",
+      "meaning": "Combines Lou and Anna or Anne, linking ‘famous warrior’ with ‘grace’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies these Lou plus Anna/Anne combinations; associations follow Louis and Hannah.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luana"
       ],
       "note": "A female given name originating as a coinage.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "American 18th/19th century coinage, a fanciful spelling of Louanna, from Lou + Anna.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luana"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Lu + Ann.",
+      "meaning": "Combines Lou and Anna or Anne, linking ‘famous warrior’ with ‘grace’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies these Lou plus Anna/Anne combinations; associations follow Louis and Hannah.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luann"
       ],
       "note": "A female given name originating as a coinage.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Lu + Ann.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luann"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Lu + Anna.",
+      "meaning": "Combines Lou and Anna or Anne, linking ‘famous warrior’ with ‘grace’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies these Lou plus Anna/Anne combinations; associations follow Louis and Hannah.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luanna"
       ],
       "note": "A female given name originating as a coinage, variant of Luann.",
       "origin": "Lu",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Lu + Anna.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luanna"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Lu + Anne.",
+      "meaning": "Combines Lou and Anna or Anne, linking ‘famous warrior’ with ‘grace’.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies these Lou plus Anna/Anne combinations; associations follow Louis and Hannah.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luanne"
       ],
       "note": "A female given name originating as a coinage, variant of Louanne.",
       "origin": "Lu",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Lu + Anne.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luanne"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Slavic * (English-language female given name found in Canada): From Ukrainian Люба (Ljuba)",
+      "meaning": "Love or beloved.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Slavic pet form associated with the name element ljub, love.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luba"
       ],
       "note": "A female given name from Ukrainian [in turn from Slavic].",
       "origin": "Ukrainian [in turn from Slavic]",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Slavic * (English-language female given name found in Canada): From Ukrainian Люба (Ljuba)",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luba"
     },
     {
@@ -2555,80 +2944,123 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Latinate variant of Lucy, or today borrowed from modern Italian. Name of a Sicilian martyr, Latin Lūcia, feminine form of the Roman praenomen Lūcius.",
+      "meaning": "Traditionally associated with light.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Names linked to Latin Lucius/Lucia and lux, light; their historical derivation is conventionally understood this way.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lucia"
       ],
       "note": "A female given name from Latin.",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Latinate variant of Lucy, or today borrowed from modern Italian. Name of a Sicilian martyr, Latin Lūcia, feminine form of the Roman praenomen Lūcius.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lucia"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Latin Lūcianus, either a derivative of the Roman praenomen Lūcius, from lūx (“light”); or from Ancient Greek Λουκιανός (Loukianós), of obscure meaning.",
+      "meaning": "Traditionally associated with light.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Names linked to Latin Lucius/Lucia and lux, light; their historical derivation is conventionally understood this way.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lucian"
       ],
       "note": "A male given name from Latin, rare in the English-speaking world.",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Latin Lūcianus, either a derivative of the Roman praenomen Lūcius, from lūx (“light”); or from Ancient Greek Λουκιανός (Loukianós), of obscure meaning.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lucian"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Italian, Portuguese, and Spanish Luciana. By surface analysis, Lucia /Lucie /Lucy + -ana.",
+      "meaning": "Traditionally associated with light.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Names linked to Latin Lucius/Lucia and lux, light; their historical derivation is conventionally understood this way.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luciana"
       ],
       "note": "A female given name from Italian, Portuguese, or Spanish.",
       "origin": "Italian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Italian, Portuguese, and Spanish Luciana. By surface analysis, Lucia /Lucie /Lucy + -ana.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luciana"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Latin Lūcilla, feminine diminutive form of the praenomen Lūcius.",
+      "meaning": "Traditionally associated with light.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Names linked to Latin Lucius/Lucia and lux, light; their historical derivation is conventionally understood this way.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lucilla"
       ],
       "note": "A female given name from Latin.",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Latin Lūcilla, feminine diminutive form of the praenomen Lūcius.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lucilla"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Middle English Lucina and Lucyna, from Latin Lūcīna.",
+      "meaning": "Traditionally associated with light.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Names linked to Latin Lucius/Lucia and lux, light; their historical derivation is conventionally understood this way.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lucina"
       ],
       "note": "A female given name from Latin.",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Middle English Lucina and Lucyna, from Latin Lūcīna.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lucina"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Derived from Lucia with the suffix -inda, first used by Cervantes in Don Quixote (1605).",
+      "meaning": "Traditionally associated with light.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Names linked to Latin Lucius/Lucia and lux, light; their historical derivation is conventionally understood this way.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lucinda"
       ],
       "note": "A female given name from Latin.",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Derived from Lucia with the suffix -inda, first used by Cervantes in Don Quixote (1605).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lucinda"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Variant of Lucius.",
+      "meaning": "Traditionally associated with light.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Names linked to Latin Lucius/Lucia and lux, light; their historical derivation is conventionally understood this way.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lucious"
       ],
       "note": "A male given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Variant of Lucius.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lucious"
+    },
+    {
+      "license": "CC BY-SA 4.0",
+      "meaning": "Traditionally associated with light.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Names linked to Latin Lucius/Lucia and lux, light; their historical derivation is conventionally understood this way.",
+      "meaningStatus": "ai-assisted",
+      "names": [
+        "Lucius"
+      ],
+      "note": "A male given name from Latin.",
+      "origin": "Latin",
+      "sourceEtymology": "From Latin Lūcius, a common Roman praenomen.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
+      "sourceURL": "https://en.wiktionary.org/wiki/Lucius"
     },
     {
       "license": "CC BY-SA 4.0",
@@ -2720,35 +3152,47 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From French Ludovic, from Medieval Latin Lūdovīcus.",
+      "meaning": "Famous warrior.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or pet forms of Louis, from Germanic fame and battle elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Ludovic"
       ],
       "note": "A male given name from French [in turn from Latin].",
       "origin": "French [in turn from Latin]",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From French Ludovic, from Medieval Latin Lūdovīcus.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Ludovic"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Latin Lūdovīcus.",
+      "meaning": "Famous warrior.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or pet forms of Louis, from Germanic fame and battle elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Ludovicus"
       ],
       "note": "A male given name from Latin.",
       "origin": "Latin",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Latin Lūdovīcus.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Ludovicus"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from German Ludwig, which see for more information. Doublet of Louis etc.",
+      "meaning": "Famous warrior.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or pet forms of Louis, from Germanic fame and battle elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Ludwig"
       ],
       "note": "A male given name from German.",
       "origin": "German",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from German Ludwig, which see for more information. Doublet of Louis etc.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Ludwig"
     },
     {
@@ -2764,35 +3208,47 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Italian Luigi. Doublet of Ludovico, Luis, Ludwig, and other cognates. The verb sense emerged shortly after the December 2024 killing of American healthcare CEO Brian Thompson; the accused is Luigi Mangione.",
+      "meaning": "Famous warrior.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or pet forms of Louis, from Germanic fame and battle elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luigi"
       ],
       "note": "A male given name from Italian, equivalent to English Louis.",
       "origin": "Italian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Italian Luigi. Doublet of Ludovico, Luis, Ludwig, and other cognates. The verb sense emerged shortly after the December 2024 killing of American healthcare CEO Brian Thompson; the accused is Luigi Mangione.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luigi"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Spanish Luis and Portuguese Luís. Doublet of Louis and Luigi.",
+      "meaning": "Famous warrior.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Forms or pet forms of Louis, from Germanic fame and battle elements.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luis"
       ],
       "note": "A male given name from Spanish.",
       "origin": "Spanish",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Borrowed from Spanish Luis and Portuguese Luís. Doublet of Louis and Luigi.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luis"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From the common Slavic (Macedonian, Russian, Serbo-Croatian, and Ukrainian, etc) male given name Luka and from Macedonian, Russian, and Ukrainian Лука́ (Luká), all cognates of English Luke and Lucas.",
+      "meaning": "Of Lucania, a region of southern Italy.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Slavic form of Luke/Lucas, conventionally from Greek Loukas, a person from Lucania.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luka"
       ],
       "note": "A male given name from the Slavic languages, of modern usage.",
       "origin": "the Slavic languages",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From the common Slavic (Macedonian, Russian, Serbo-Croatian, and Ukrainian, etc) male given name Luka and from Macedonian, Russian, and Ukrainian Лука́ (Luká), all cognates of English Luke and Lucas.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luka"
     },
     {
@@ -2852,24 +3308,32 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Compound of Luna (“a female given name from Latin”) + Bella (“female given name”); perhaps by analogy with names like Annabella, Clarabella, etc.",
+      "meaning": "Combines Luna, ‘moon’, and Bella or Belle, associated with ‘beautiful’.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog explicitly forms these compound names from Luna and Bella/Belle.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lunabella"
       ],
       "note": "A female given name.",
       "origin": "Latin”",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Compound of Luna (“a female given name from Latin”) + Bella (“female given name”); perhaps by analogy with names like Annabella, Clarabella, etc.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lunabella"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Compound of Luna (“a female given name from Latin”) + Belle (“female given name”); perhaps by analogy with names like Annabelle, Clarabelle, etc.",
+      "meaning": "Combines Luna, ‘moon’, and Bella or Belle, associated with ‘beautiful’.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Catalog explicitly forms these compound names from Luna and Bella/Belle.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lunabelle"
       ],
       "note": "A female given name.",
       "origin": "Latin”",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Compound of Luna (“a female given name from Latin”) + Belle (“female given name”); perhaps by analogy with names like Annabelle, Clarabelle, etc.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lunabelle"
     },
     {
@@ -2896,13 +3360,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Variant of Luther.",
+      "meaning": "People and army, through the Germanic name Luther.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Variant of Luther, conventionally analysed as people plus army.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Luthor"
       ],
       "note": "A male given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Variant of Luther.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Luthor"
     },
     {
@@ -2973,35 +3441,47 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Anglicized form of Welsh Eluned, first used by Tennyson in the Idylls of the King(1859-85), altered by folk etymology to be Lynn + -ette.",
+      "meaning": "Traditionally linked to Eluned, associated with an image or likeness.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies the Welsh Eluned root rather than treating Lynn as the original source.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lynette"
       ],
       "note": "A female given name from Welsh.",
       "origin": "Welsh",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Anglicized form of Welsh Eluned, first used by Tennyson in the Idylls of the King(1859-85), altered by folk etymology to be Lynn + -ette.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lynette"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Respelling of Lindsey or Lindsay.",
+      "meaning": "Lindsey island, traditionally linked to the region around Lincoln.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Lindsay/Lindsey, conventionally from the place name Lindesege; not a literal lime-tree interpretation.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lynzee"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Respelling of Lindsey or Lindsay.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lynzee"
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Respelling of Lindsey or Lindsay.",
+      "meaning": "Lindsey island, traditionally linked to the region around Lincoln.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Forms of Lindsay/Lindsey, conventionally from the place name Lindesege; not a literal lime-tree interpretation.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lynzi"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Respelling of Lindsey or Lindsay.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lynzi"
     },
     {
@@ -3017,13 +3497,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Ancient Greek Λῠ́σᾰνδρος (Lŭ́săndros).",
+      "meaning": "Liberator of people.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Greek compound conventionally from a freeing/releasing element and aner/andros, man.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lysander"
       ],
       "note": "A male given name.",
       "origin": "Ancient Greek",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Ancient Greek Λῠ́σᾰνδρος (Lŭ́săndros).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lysander"
     },
     {
@@ -3039,13 +3523,17 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Shortened form of Alyssa.",
+      "meaning": "As a short form of Alyssa, associated with the alyssum flower.",
+      "meaningConfidence": "medium",
+      "meaningEvidence": "Catalog identifies Alyssa; no unrelated Greek frenzy interpretation is assigned.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lyssa"
       ],
       "note": "A female given name.",
       "origin": "Wiktionary etymology",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "Shortened form of Alyssa.",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lyssa"
     },
     {
@@ -3061,22 +3549,27 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "From Russian Людмила (Ljudmila) or Ukrainian Людмила (Ljudmyla).",
+      "meaning": "Dear to the people.",
+      "meaningConfidence": "high",
+      "meaningEvidence": "Conventional Slavic compound of people and dear or gracious.",
+      "meaningStatus": "ai-assisted",
       "names": [
         "Lyudmila"
       ],
       "note": "A female given name.",
       "origin": "Russian",
-      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceEtymology": "From Russian Людмила (Ljudmila) or Ukrainian Людмила (Ljudmyla).",
+      "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Lyudmila"
     }
   ],
-  "entryCount": 280,
-  "generatedAt": "2026-10-02T09:42:07Z",
-  "licenseNotice": "Curated summaries plus attributed CC BY-SA 4.0 Wiktionary material",
+  "entryCount": 284,
+  "generatedAt": "2026-10-02T15:03:18Z",
+  "interpretationPolicy": "AI interpretations fill unresolved meanings, retain their etymology reference and confidence, and do not replace supported meanings.",
+  "licenseNotice": "Curated summaries, attributed CC BY-SA 4.0 Wiktionary material, and separately labelled AI interpretations",
   "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
   "policy": "Explicit spellings only. Meanings are concise etymological summaries, not personality claims. Uncertain or multi-origin names remain qualified.",
-  "reviewedAt": "2026-09-23",
+  "reviewedAt": "2026-09-27",
   "schemaVersion": 1,
-  "spellingCount": 6683
+  "spellingCount": 7055
 }

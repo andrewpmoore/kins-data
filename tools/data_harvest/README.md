@@ -145,3 +145,9 @@ omitted when unknown rather than inventing a release date.
 python3 -m unittest tools/data_harvest/test_harvest.py tools/data_harvest/test_media_archive.py
 python3 tools/data_harvest/media_archive.py
 ```
+
+## Expanded and AI-assisted meanings
+
+The October 2026 expansion stores individually attributed research and separate AI interpretation batches. AI interpretations fill unresolved meanings, retain original etymology references, confidence and rationale, and never replace the compact reviewed dictionary or supported source explanations. Native Yoruba records retain explicit spellings.
+
+Refresh just this dictionary with `python tools/data_harvest/generate_hosted_name_meanings.py`. The regular harvest uses these same supplements and preserves the distinction. AI results are labelled interpretations in the app and website, rather than verified source claims.
