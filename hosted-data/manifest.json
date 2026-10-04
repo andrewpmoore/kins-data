@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-03T09:05:56Z",
-  "latestDate": "2026-10-03",
+  "generatedAt": "2026-10-04T09:43:33Z",
+  "latestDate": "2026-10-04",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -44,9 +44,8 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json']' returned non-zero exit status 22.",
       "source": "appleMusic/NZ",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "appleMusic/DE",
@@ -89,8 +88,9 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://www.the-numbers.com/box-office-chart/weekend/2026/10/02: HTTP Error 404: Not Found",
       "source": "theatricalBoxOffice/US",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "publicBooks/adultBooks/US",
