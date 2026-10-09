@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-08T10:30:34Z",
-  "latestDate": "2026-10-08",
+  "generatedAt": "2026-10-09T10:29:03Z",
+  "latestDate": "2026-10-09",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -137,8 +137,9 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://gfds.de/die-beliebtesten-vornamen-2025/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://gfds.de/die-beliebtesten-vornamen-2025/']' timed out after 130 seconds; Unable to fetch https://gfds.de/die-beliebtesten-vornamen-2024/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://gfds.de/die-beliebtesten-vornamen-2024/']' timed out after 130 seconds",
       "source": "governmentNames/DE",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "governmentNames/ES",
@@ -151,6 +152,11 @@
     {
       "detail": "latest published annual chart retained until its official replacement",
       "source": "namesFallback/US",
+      "status": "carried"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/DE",
       "status": "carried"
     },
     {
