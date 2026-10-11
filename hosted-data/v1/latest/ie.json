@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -24,22 +24,22 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 1,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/ie/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992115",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/ie/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 2,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/ie/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/ie/album/great-expectation/6769552402?i=6769552411"
         },
         {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
+          "artist": "sombr",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/100x100bb.jpg",
+          "id": "6781074080",
           "rank": 10,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/ie/album/rein-me-in/1820918466?i=1820918468"
+          "releaseDate": "2026-06-25",
+          "title": "My Body Isn't Ready",
+          "url": "https://music.apple.com/ie/album/my-body-isnt-ready/6781074078?i=6781074080"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 10 Oct 2026 09:48:29 +0000",
+        "observedAt": "Sun, 11 Oct 2026 09:57:49 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "293a786242438e8bc9a8768e8627f00c2eaeefdae556f6c147003abe89a839a1",
+  "contentHash": "06d84dbb1d09936a125b545aa9a421909a37c4a71d91ba7ede2f684e145693a0",
   "country": "IE",
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T09:46:42Z",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T09:56:51Z",
   "schemaVersion": 1
 }

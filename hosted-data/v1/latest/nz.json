@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-10-10",
+      "id": "bookhub-nielsen-indie-2026-10-11",
       "items": [
         {
           "category": "International Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-10-10",
+        "observedAt": "2026-10-11",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -132,7 +132,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -303,13 +303,13 @@
           "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884101",
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609514",
           "rank": 8,
-          "releaseDate": "2026-07-23",
-          "title": "Ain't In LA",
-          "url": "https://music.apple.com/nz/album/aint-in-la/6792883860?i=6792884101"
+          "releaseDate": "2025-09-26",
+          "title": "A Couple Minutes",
+          "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -321,19 +321,19 @@
           "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609514",
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884101",
           "rank": 10,
-          "releaseDate": "2025-09-26",
-          "title": "A Couple Minutes",
-          "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
+          "releaseDate": "2026-07-23",
+          "title": "Ain't In LA",
+          "url": "https://music.apple.com/nz/album/aint-in-la/6792883860?i=6792884101"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 10 Oct 2026 09:48:31 +0000",
+        "observedAt": "Sun, 11 Oct 2026 09:58:18 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -487,7 +487,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -496,9 +496,9 @@
       "year": 2025
     }
   },
-  "contentHash": "45f3dd6220d39f2ea4c055079d92584db03ba0679a147175ddf66d0bd84cf2f0",
+  "contentHash": "5710e775ac362f8b4299deeaa6d12e46092c71b3701f77df972ad571e2eaf0d8",
   "country": "NZ",
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T09:46:42Z",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T09:56:51Z",
   "schemaVersion": 1
 }

@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -69,22 +69,22 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 1,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
           "artist": "HUGEL, Imael Angel & Ultra Naté",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
           "id": "6769070199",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2026-05-22",
           "title": "Movin' To The Sun",
           "url": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 2,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "The Killers",
@@ -132,22 +132,22 @@
           "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
         },
         {
-          "artist": "Temper City",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/100x100bb.jpg",
-          "id": "1877803360",
-          "rank": 8,
-          "releaseDate": "2026-02-15",
-          "title": "Self Aware",
-          "url": "https://music.apple.com/de/album/self-aware/1877803357?i=1877803360"
-        },
-        {
           "artist": "Justin Bieber",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/100x100bb.jpg",
           "id": "1440650961",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2012-06-15",
           "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "url": "https://music.apple.com/de/album/beauty-and-a-beat-feat-nicki-minaj/1440650852?i=1440650961"
+        },
+        {
+          "artist": "Temper City",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/100x100bb.jpg",
+          "id": "1877803360",
+          "rank": 9,
+          "releaseDate": "2026-02-15",
+          "title": "Self Aware",
+          "url": "https://music.apple.com/de/album/self-aware/1877803357?i=1877803360"
         },
         {
           "artist": "ADÉLA",
@@ -162,7 +162,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 10 Oct 2026 09:49:02 +0000",
+        "observedAt": "Sun, 11 Oct 2026 09:58:18 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "c811acba42445aff468031edc326dcd1855b687629161f7dfd41c21b80a65b46",
+  "contentHash": "5e2cf3f22b31bc31a21e3e35027d52e8277dd98c8530e532c6fceac259a07d13",
   "country": "DE",
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T09:46:42Z",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T09:56:51Z",
   "schemaVersion": 1
 }

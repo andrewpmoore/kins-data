@@ -87,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -127,7 +127,7 @@
           "rank": 4,
           "title": "Forgotten Island",
           "url": "https://www.boxofficemojo.com/release/rl2270396673/?ref_=bo_we_table_4",
-          "weekendGross": "$992,818",
+          "weekendGross": "$993,628",
           "weeksOnRelease": "3"
         },
         {
@@ -195,13 +195,13 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
           "rank": 1,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Ella Langley",
@@ -213,13 +213,13 @@
           "url": "https://music.apple.com/au/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
           "rank": 3,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "ADÉLA",
@@ -288,7 +288,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 10 Oct 2026 09:47:37 +0000",
+        "observedAt": "Sun, 11 Oct 2026 09:57:23 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -296,9 +296,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "04f6b991b108c82804be957945c2d896e3f8ddb0f1896d5c5ea3113da2e01f5b",
+  "contentHash": "4440cb09772fefd4dbb33d5ae1e521918b67c86d3f893c3f80dc685e50650b9b",
   "country": "AU",
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T09:46:42Z",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T09:56:51Z",
   "schemaVersion": 1
 }

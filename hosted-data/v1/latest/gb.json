@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -169,22 +169,22 @@
           "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 2,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
           "artist": "HUGEL, Imael Angel & Ultra Naté",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
           "id": "6769070199",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-05-22",
           "title": "Movin' To The Sun",
           "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 3,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "Olivia Dean",
@@ -223,22 +223,22 @@
           "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 8,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 9,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "ADÉLA",
@@ -253,7 +253,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 10 Oct 2026 09:46:43 +0000",
+        "observedAt": "Sun, 11 Oct 2026 09:56:51 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "82b19dc2afaa88419bbb4f23f31e244b5cef8f0fc1863f4c732f9e7a59dad54d",
+  "contentHash": "3829887b4a8dfc27dd36f226ad7b1ce551cde81a7874e5e83856445f2702ef30",
   "country": "GB",
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T09:46:42Z",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T09:56:51Z",
   "schemaVersion": 1
 }

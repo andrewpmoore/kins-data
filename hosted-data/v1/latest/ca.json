@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -60,22 +60,22 @@
           "url": "https://music.apple.com/ca/album/quebec/6818209777?i=6818209990"
         },
         {
-          "artist": "Drake, Don Toliver & Yebba",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/100x100bb.jpg",
-          "id": "6818059600",
-          "rank": 5,
-          "releaseDate": "2026-10-02",
-          "title": "Cold Shoulder",
-          "url": "https://music.apple.com/ca/album/cold-shoulder/6818059268?i=6818059600"
-        },
-        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
+          "artist": "Drake, Don Toliver & Yebba",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/100x100bb.jpg",
+          "id": "6818059600",
+          "rank": 6,
+          "releaseDate": "2026-10-02",
+          "title": "Cold Shoulder",
+          "url": "https://music.apple.com/ca/album/cold-shoulder/6818059268?i=6818059600"
         },
         {
           "artist": "Arjan Dhillon",
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/ca/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Morgan Wallen",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
-          "id": "6812477290",
+          "artist": "Karan Aujla & MXRCI",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6d/78/f76d78c5-cc9c-f2d6-8603-ba690eaa5c7d/5064089826918_cover.jpg/100x100bb.jpg",
+          "id": "6814002647",
           "rank": 10,
-          "releaseDate": "2026-09-17",
-          "title": "Last Thing You Need",
-          "url": "https://music.apple.com/ca/album/last-thing-you-need/6812476961?i=6812477290"
+          "releaseDate": "2026-09-25",
+          "title": "Ashke",
+          "url": "https://music.apple.com/ca/album/ashke/6814002539?i=6814002647"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 10 Oct 2026 09:47:37 +0000",
+        "observedAt": "Sun, 11 Oct 2026 09:56:56 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-10T09:46:42Z",
+        "observedAt": "2026-10-11T09:56:51Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "a785a0ddb5bef34fa096e8389d0178237d1d1aae54a67de5e37c5d37f3ae1a41",
+  "contentHash": "d02c243a1a92303cddaeb353bc2b488fa81236e7dcc0d81d15ae5761f041caef",
   "country": "CA",
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T09:46:42Z",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T09:56:51Z",
   "schemaVersion": 1
 }
