@@ -180,31 +180,92 @@ def atomic_json(path: Path, value: Any) -> None:
     temporary.replace(path)
 
 
+def video_id_from_url(value: str) -> str | None:
+    parsed = urllib.parse.urlparse(value)
+    host = (parsed.hostname or "").lower()
+    if host == "youtu.be":
+        video_id = parsed.path.strip("/").split("/")[0]
+    elif host in {"youtube.com", "www.youtube.com", "m.youtube.com"}:
+        parts = [part for part in parsed.path.split("/") if part]
+        if parsed.path == "/watch":
+            video_id = urllib.parse.parse_qs(parsed.query).get("v", [""])[0]
+        elif len(parts) == 2 and parts[0] in {"embed", "shorts", "live"}:
+            video_id = parts[1]
+        else:
+            return None
+    else:
+        return None
+    return video_id if VIDEO_ID.fullmatch(video_id) else None
+
+
+def load_manual_records(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+    try:
+        value = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        raise SystemExit(f"Cannot read manual trailer list {path}: {error}") from error
+    if not isinstance(value, dict) or value.get("schemaVersion") != 1 or not isinstance(value.get("records"), list):
+        raise SystemExit(f"Manual trailer list {path} must have schemaVersion 1 and a records array")
+    records = []
+    seen = set()
+    for number, entry in enumerate(value["records"], 1):
+        if not isinstance(entry, dict):
+            raise SystemExit(f"Manual trailer record {number} must be an object")
+        kind, title = entry.get("kind"), entry.get("title")
+        try:
+            chart_year = int(entry.get("chartYear"))
+        except (TypeError, ValueError) as error:
+            raise SystemExit(f"Manual trailer record {number} needs an integer chartYear") from error
+        video_id = video_id_from_url(str(entry.get("trailerURL", "")))
+        source_url = str(entry.get("sourceURL", ""))
+        source = urllib.parse.urlparse(source_url)
+        if kind not in {"movies", "games"} or not isinstance(title, str) or not title.strip():
+            raise SystemExit(f"Manual trailer record {number} needs kind movies/games and a title")
+        if video_id is None or source.scheme not in {"https", "http"} or not source.netloc:
+            raise SystemExit(f"Manual trailer record {number} needs a valid YouTube trailerURL and http(s) sourceURL")
+        key = (kind, title.strip().casefold(), chart_year)
+        if key in seen:
+            raise SystemExit(f"Duplicate manual trailer record for {kind} {title!r} ({chart_year})")
+        seen.add(key)
+        release_year = entry.get("releaseYear")
+        if release_year is not None:
+            try:
+                release_year = int(release_year)
+            except (TypeError, ValueError) as error:
+                raise SystemExit(f"Manual trailer record {number} has an invalid releaseYear") from error
+        record = {
+            "kind": kind,
+            "title": title.strip(),
+            "chartYear": chart_year,
+            "releaseYear": release_year,
+            "trailerURL": f"https://www.youtube.com/watch?v={video_id}",
+            "curationSourceURL": source_url,
+            "wikidataSources": [],
+        }
+        for optional in ("titleSourceURL",):
+            if isinstance(entry.get(optional), str):
+                record[optional] = entry[optional]
+        records.append(record)
+    return records
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--data-dir", type=Path, default=Path("api"))
-    parser.add_argument("--output", type=Path, default=Path("api/media-trailers.json"))
+    parser.add_argument("--data-dir", type=Path, default=Path("hosted-data"))
+    parser.add_argument("--output", type=Path, default=Path("hosted-data/media-trailers.json"))
+    parser.add_argument("--manual-input", type=Path, default=Path("tools/data_harvest/manual-media-trailers.json"))
     parser.add_argument("--start-year", type=int)
     parser.add_argument("--end-year", type=int)
-    parser.add_argument("--max-age-days", type=int, help="skip if the existing index was generated within this many days")
     args = parser.parse_args()
     current_time = dt.datetime.now(dt.timezone.utc)
-    if args.max_age_days is not None and args.output.exists():
-        try:
-            previous = json.loads(args.output.read_text(encoding="utf-8"))
-            generated_at = dt.datetime.fromisoformat(previous["generatedAt"].replace("Z", "+00:00"))
-            if current_time - generated_at < dt.timedelta(days=max(args.max_age_days, 0)):
-                print(f"Index refreshed {generated_at.isoformat()}; skipping until it is older than {args.max_age_days} days")
-                return
-        except (OSError, json.JSONDecodeError, KeyError, TypeError, ValueError):
-            pass
     current_year = current_time.year
     end_year = args.end_year or current_year
     start_year = args.start_year or end_year - 9
     targets = load_movie_targets(args.data_dir, start_year, end_year)
-    # Recheck the most recent and preceding award year so a newly announced winner
-    # enters the next weekly index. Keep the last known game record if the award
-    # page temporarily fails or has not published the current winner yet.
+    manual_records = load_manual_records(args.manual_input)
+    # On a manual refresh, check the current and preceding award year. Keep a
+    # known game record if the award page temporarily fails or has no new winner.
     previous_games: list[dict[str, Any]] = []
     if args.output.exists():
         try:
@@ -229,9 +290,17 @@ def main() -> None:
         if winner:
             dice_winners[award_year] = winner
             targets.add(("games", winner, award_year))
+    for record in manual_records:
+        targets.add((record["kind"], record["title"], record["chartYear"]))
     if not targets:
         raise SystemExit(f"No movie or game titles found for {start_year}-{end_year}; leaving previous output intact")
-    records = resolve(targets)
+    manual_keys = {(record["kind"], record["title"].casefold(), record["chartYear"])
+                   for record in manual_records}
+    unresolved_manual_targets = {
+        target for target in targets
+        if (target[0], target[1].casefold(), target[2]) not in manual_keys
+    }
+    records = resolve(unresolved_manual_targets)
     current_games = {(record["title"], record["chartYear"]): record
                      for record in records if record["kind"] == "games"}
     for previous_game in previous_games:
@@ -248,6 +317,10 @@ def main() -> None:
             continue
         if key not in current_games:
             records.append(previous_game)
+    by_key = {(record["kind"], record["title"].casefold(), record["chartYear"]): record for record in records}
+    by_key.update({(record["kind"], record["title"].casefold(), record["chartYear"]): record
+                   for record in manual_records})
+    records = sorted(by_key.values(), key=lambda record: (record["kind"], record["chartYear"], record["title"].casefold()))
     value = {
         "schemaVersion": 1,
         "generatedAt": current_time.replace(microsecond=0).isoformat().replace("+00:00", "Z"),

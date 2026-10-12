@@ -141,14 +141,31 @@ Artwork URLs, source links, provider names and optional verified YouTube trailer
 links travel with each item. `releaseYear` is distinct from the award year; it is
 omitted when unknown rather than inventing a release date.
 
-`refresh_media_trailers.py` runs weekly and publishes
-`hosted-data/media-trailers.json`. It takes movie titles from the hosted box-office
-charts and retains indexed targets for ten years, and it checks current and prior
-D.I.C.E. winners for new game records. Trailer IDs come only from Wikidata claims
-explicitly qualified as trailers; ambiguous and unmatched titles have no embedded
-video and the app falls back to YouTube's own search page. The job does not call
-YouTube's API, scrape YouTube pages, or download video. Wikidata data is CC0, and
-the index includes provenance for each match.
+`refresh_media_trailers.py` publishes `hosted-data/media-trailers.json` only when
+you manually run the “Refresh movie and game trailer index” workflow; there is no
+timer or automatic refresh on data commits.
+It takes movie titles from hosted box-office charts and retains targets for ten
+years, and checks current and prior D.I.C.E. winners. Trailer IDs come from Wikidata
+claims explicitly qualified as trailers or from the reviewed
+`manual-media-trailers.json` file. Add manual entries there with a title, kind,
+chart year, YouTube URL, and source URL; after editing the file, run the workflow
+manually to rebuild and publish the index.
+Ambiguous and unmatched titles have no embedded video and the app falls back to
+YouTube's own search page. The job does not call YouTube's API, scrape YouTube
+pages, or download video. Wikidata data is CC0, and the index retains provenance.
+
+Manual entry format:
+
+```json
+{
+  "kind": "movies",
+  "title": "Example Film",
+  "chartYear": 2026,
+  "releaseYear": 2026,
+  "trailerURL": "https://www.youtube.com/watch?v=abcdefghijk",
+  "sourceURL": "https://studio.example/films/example-film"
+}
+```
 
 ```sh
 python3 -m unittest tools/data_harvest/test_harvest.py tools/data_harvest/test_media_archive.py
