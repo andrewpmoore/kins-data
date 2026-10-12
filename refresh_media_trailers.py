@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Build a weekly movie/game trailer index from explicitly qualified Wikidata links.
+"""Build a weekly movie/game trailer index from Wikidata and public APIs.
 
-Movie titles come from the existing static API. Current and previous D.I.C.E.
+Movie titles come from hosted box-office charts. Current and previous D.I.C.E.
 Game of the Year winners are read from the awards body's public winner pages.
-YouTube pages and APIs are never accessed; video content is never downloaded.
+YouTube gaps are searched with the official Data API when configured; pages are
+not scraped and video content is never downloaded.
 """
 from __future__ import annotations
 
@@ -11,6 +12,7 @@ import argparse
 import datetime as dt
 import html
 import json
+import os
 import re
 import time
 import urllib.parse
@@ -25,6 +27,13 @@ VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
 BATCH_SIZE = 20
 CLASSES = {"movies": "Q11424", "games": "Q7889"}
 DICE_PAGE = "https://www.interactive.org/awards/award_category_details.asp?idAward={year}&idGameAwardType=65"
+YOUTUBE_API = "https://www.googleapis.com/youtube/v3"
+YOUTUBE_SEARCH_LIMIT = 90
+YOUTUBE_DATA_MAX_AGE_DAYS = 28
+
+
+def normalized(value: str) -> str:
+    return re.sub(r"[^\w]+", "", value.lower().replace("&", "and"))
 
 
 def load_movie_targets(data_dir: Path, start_year: int, end_year: int) -> set[tuple[str, str, int]]:
@@ -250,6 +259,102 @@ def load_manual_records(path: Path) -> list[dict[str, Any]]:
     return records
 
 
+def youtube_request(path: str, params: dict[str, str], api_key: str) -> dict[str, Any] | None:
+    query = urllib.parse.urlencode({**params, "key": api_key})
+    request = urllib.request.Request(
+        f"{YOUTUBE_API}/{path}?{query}",
+        headers={"Accept": "application/json", "User-Agent": USER_AGENT},
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=25) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+        return payload if isinstance(payload, dict) else None
+    except (OSError, UnicodeDecodeError, json.JSONDecodeError) as error:
+        status = getattr(error, "code", None)
+        print(f"WARNING YouTube API {path} request failed" + (f" (HTTP {status})" if status else ""))
+        return None
+
+
+def video_id_from_record(record: dict[str, Any]) -> str | None:
+    return video_id_from_url(str(record.get("trailerURL", "")))
+
+
+def refresh_api_records(
+    previous_records: list[dict[str, Any]], api_key: str | None, now: dt.datetime
+) -> tuple[list[dict[str, Any]], set[tuple[str, str, int]]]:
+    api_records = [record for record in previous_records if record.get("matchSource") == "youtubeDataAPI"]
+    if not api_records:
+        return [], set()
+    retained = []
+    refreshed_targets = set()
+    for record in api_records:
+        target = (record.get("kind"), str(record.get("title", "")).casefold(), record.get("chartYear"))
+        refreshed_at = record.get("apiVerifiedAt")
+        try:
+            age = now - dt.datetime.fromisoformat(str(refreshed_at).replace("Z", "+00:00"))
+        except (TypeError, ValueError):
+            age = dt.timedelta(days=YOUTUBE_DATA_MAX_AGE_DAYS + 1)
+        if age <= dt.timedelta(days=YOUTUBE_DATA_MAX_AGE_DAYS):
+            retained.append(record)
+            refreshed_targets.add(target)
+    if not api_key:
+        print("WARNING YOUTUBE_API_KEY is not configured; keeping only API matches verified within 28 days")
+        return retained, refreshed_targets
+
+    ids = sorted({video_id for record in api_records if (video_id := video_id_from_record(record))})
+    available: set[str] | None = set()
+    for offset in range(0, len(ids), 50):
+        payload = youtube_request("videos", {"part": "id,status", "id": ",".join(ids[offset:offset + 50])}, api_key)
+        if payload is None:
+            available = None
+            break
+        for item in payload.get("items", []):
+            status = item.get("status", {})
+            if status.get("privacyStatus") == "public" and status.get("embeddable") is True:
+                available.add(str(item.get("id", "")))
+    if available is None:
+        print("WARNING Could not revalidate saved YouTube matches; retaining only those younger than 28 days")
+        return retained, refreshed_targets
+
+    timestamp = now.replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    refreshed = []
+    refreshed_targets = set()
+    for record in api_records:
+        video_id = video_id_from_record(record)
+        if video_id and video_id in available:
+            record = {**record, "apiVerifiedAt": timestamp}
+            refreshed.append(record)
+            refreshed_targets.add((record["kind"], record["title"].casefold(), record["chartYear"]))
+    return refreshed, refreshed_targets
+
+
+def youtube_search_trailer(kind: str, title: str, year: int, api_key: str) -> tuple[bool, str | None]:
+    query = f'"{title}" official trailer {year}'
+    payload = youtube_request("search", {
+        "part": "snippet",
+        "q": query,
+        "type": "video",
+        "maxResults": "10",
+        "order": "relevance",
+        "videoEmbeddable": "true",
+        "videoSyndicated": "true",
+    }, api_key)
+    if payload is None:
+        return False, None
+    title_key = normalized(title)
+    candidates = set()
+    for item in payload.get("items", []):
+        video_id = str(item.get("id", {}).get("videoId", ""))
+        video_title = str(item.get("snippet", {}).get("title", ""))
+        video_title_key = normalized(video_title)
+        if (VIDEO_ID.fullmatch(video_id)
+                and title_key in video_title_key
+                and re.search(r"\b(trailer|teaser)\b", video_title, re.I)):
+            candidates.add(video_id)
+    # Ambiguous results should remain a search fallback rather than guess.
+    return True, next(iter(candidates)) if len(candidates) == 1 else None
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--data-dir", type=Path, default=Path("hosted-data"))
@@ -264,12 +369,18 @@ def main() -> None:
     start_year = args.start_year or end_year - 9
     targets = load_movie_targets(args.data_dir, start_year, end_year)
     manual_records = load_manual_records(args.manual_input)
-    # On a manual refresh, check the current and preceding award year. Keep a
-    # known game record if the award page temporarily fails or has no new winner.
+    # On each weekly refresh, check current/prior D.I.C.E. winners. Keep known
+    # game records if the award page temporarily fails or has no new winner.
     previous_games: list[dict[str, Any]] = []
+    previous_records: list[dict[str, Any]] = []
+    youtube_search_cursor: dict[str, Any] | None = None
     if args.output.exists():
         try:
             previous = json.loads(args.output.read_text(encoding="utf-8"))
+            previous_records = [record for record in previous.get("records", []) if isinstance(record, dict)]
+            stored_cursor = previous.get("youtubeSearchCursor")
+            if isinstance(stored_cursor, dict):
+                youtube_search_cursor = stored_cursor
             for target in previous.get("targets", []):
                 if target.get("kind") == "movies":
                     try:
@@ -281,6 +392,7 @@ def main() -> None:
                         targets.add(("movies", title.strip(), year))
             previous_games = [record for record in previous.get("records", [])
                               if record.get("kind") == "games"
+                              and record.get("matchSource") != "youtubeDataAPI"
                               and record.get("chartYear") in (current_year - 1, current_year)]
         except (OSError, json.JSONDecodeError, AttributeError):
             previous_games = []
@@ -317,9 +429,56 @@ def main() -> None:
             continue
         if key not in current_games:
             records.append(previous_game)
+    api_key = os.environ.get("YOUTUBE_API_KEY")
+    refreshed_api_records, _ = refresh_api_records(previous_records, api_key, current_time)
+    existing_link_keys = {(record["kind"], record["title"].casefold(), record["chartYear"])
+                          for record in records if record.get("trailerURL")}
+    records.extend(record for record in refreshed_api_records
+                   if (record["kind"], record["title"].casefold(), record["chartYear"]) not in existing_link_keys)
     by_key = {(record["kind"], record["title"].casefold(), record["chartYear"]): record for record in records}
     by_key.update({(record["kind"], record["title"].casefold(), record["chartYear"]): record
                    for record in manual_records})
+    if api_key:
+        occupied = {key for key, record in by_key.items() if record.get("trailerURL")}
+        search_queue = [target for target in targets
+                        if (target[0], target[1].casefold(), target[2]) not in occupied]
+        search_queue.sort(key=lambda item: (item[0], item[1].casefold(), item[2]))
+        if search_queue and youtube_search_cursor:
+            cursor = (
+                str(youtube_search_cursor.get("kind", "")),
+                str(youtube_search_cursor.get("title", "")).casefold(),
+                youtube_search_cursor.get("chartYear", 0),
+            )
+            after_cursor = [target for target in search_queue
+                            if (target[0], target[1].casefold(), target[2]) > cursor]
+            before_cursor = [target for target in search_queue
+                             if (target[0], target[1].casefold(), target[2]) <= cursor]
+            search_queue = after_cursor + before_cursor
+        searched = matched = 0
+        for kind, title, chart_year in search_queue[:YOUTUBE_SEARCH_LIMIT]:
+            succeeded, video_id = youtube_search_trailer(kind, title, chart_year, api_key)
+            if not succeeded:
+                break
+            searched += 1
+            youtube_search_cursor = {"kind": kind, "title": title, "chartYear": chart_year}
+            if video_id:
+                key = (kind, title.casefold(), chart_year)
+                by_key[key] = {
+                    **by_key.get(key, {}),
+                    "kind": kind,
+                    "title": title,
+                    "chartYear": chart_year,
+                    "releaseYear": None,
+                    "trailerURL": f"https://www.youtube.com/watch?v={video_id}",
+                    "matchSource": "youtubeDataAPI",
+                    "apiVerifiedAt": current_time.replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+                    "wikidataSources": [],
+                }
+                matched += 1
+            time.sleep(0.15)
+        print(f"YouTube Data API: searched {searched} gap targets; accepted {matched} unambiguous trailer matches")
+    else:
+        print("YouTube Data API gap search skipped; configure the YOUTUBE_API_KEY Actions secret to enable it")
     records = sorted(by_key.values(), key=lambda record: (record["kind"], record["chartYear"], record["title"].casefold()))
     value = {
         "schemaVersion": 1,
@@ -335,8 +494,9 @@ def main() -> None:
             "recordCount": len(records),
             "matchedTrailerCount": sum(bool(record.get("trailerURL")) for record in records),
         },
-        "source": "Wikidata (CC0)",
-        "attribution": "Wikidata contributors",
+        "source": "Wikidata (CC0), YouTube Data API, and manual curation",
+        "attribution": "Wikidata contributors; YouTube data refreshed weekly",
+        "youtubeSearchCursor": youtube_search_cursor,
         "records": records,
     }
     atomic_json(args.output, value)

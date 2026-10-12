@@ -141,20 +141,21 @@ Artwork URLs, source links, provider names and optional verified YouTube trailer
 links travel with each item. `releaseYear` is distinct from the award year; it is
 omitted when unknown rather than inventing a release date.
 
-`refresh_media_trailers.py` publishes `hosted-data/media-trailers.json` only when
-you manually run the “Refresh movie and game trailer index” workflow; there is no
-timer or automatic refresh on data commits.
-It takes movie titles from hosted box-office charts and retains targets for ten
-years, and checks current and prior D.I.C.E. winners. Trailer IDs come from Wikidata
-claims explicitly qualified as trailers or from the reviewed
-`manual-media-trailers.json` file. Add manual entries there with a title, kind,
-chart year, YouTube URL, and source URL; after editing the file, run the workflow
-manually to rebuild and publish the index.
-Ambiguous and unmatched titles have no embedded video and the app falls back to
-YouTube's own search page. The job does not call YouTube's API, scrape YouTube
-pages, or download video. Wikidata data is CC0, and the index retains provenance.
+`refresh_media_trailers.py` publishes `hosted-data/media-trailers.json` every
+Monday. It takes movie titles from hosted box-office charts, retains targets for
+ten years, and checks current and prior D.I.C.E. winners. It first uses Wikidata
+claims explicitly qualified as trailers, then searches remaining gaps with the
+official YouTube Data API. API-discovered video IDs are revalidated weekly and
+removed when no longer public or embeddable. Search is capped at 90 titles per
+run and rotates through unresolved titles over successive weeks, so older gaps
+are not starved by newer ones. Set the repository
+Actions secret `YOUTUBE_API_KEY` once to enable automatic gap searches; without it,
+Wikidata matches still publish and YouTube search links remain the fallback.
+`manual-media-trailers.json` remains an optional way to pin a reviewed link. The
+job does not scrape YouTube pages or download video. Wikidata data is CC0, and the
+index retains provenance.
 
-Manual entry format:
+Optional manual override format:
 
 ```json
 {
