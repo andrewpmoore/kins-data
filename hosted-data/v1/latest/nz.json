@@ -2,55 +2,55 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-10-11",
+      "id": "bookhub-nielsen-indie-2026-10-12",
       "items": [
         {
-          "category": "International Fiction",
-          "isbn13": "9781529943856",
+          "category": "NZ Fiction",
+          "isbn13": "9781776951406",
           "rank": 1,
-          "title": "The Weight of Angels"
-        },
-        {
-          "category": "Crime & Thrillers",
-          "isbn13": "9780241746035",
-          "rank": 2,
-          "title": "We Chase Shadows (We Solve Murders 2)"
+          "title": "The Star Path: A Return to the World of The Whale Rider"
         },
         {
           "category": "Fiction",
           "isbn13": "9781529937831",
-          "rank": 3,
+          "rank": 2,
           "title": "Our Noble Selves"
+        },
+        {
+          "category": "Fantasy",
+          "isbn13": "9780349450612",
+          "rank": 3,
+          "title": "Threshing Day (Empyrean #3.5) (International Edition)"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9781035081295",
+          "rank": 4,
+          "title": "Exit Party"
         },
         {
           "category": "Children & Young Adult",
           "isbn13": "9781037408724",
-          "rank": 4,
-          "title": "Gruffalo Granny"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9781529153231",
           "rank": 5,
-          "title": "Farewell to Eden"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9781405971553",
-          "rank": 6,
-          "title": "The Correspondent"
-        },
-        {
-          "category": "Biography & Memoir",
-          "isbn13": "9780241825594",
-          "rank": 7,
-          "title": "Swan Song: Diana, my sister"
+          "title": "Gruffalo Granny"
         },
         {
           "category": "NZ Non-fiction",
           "isbn13": "9781988550916",
-          "rank": 8,
+          "rank": 6,
           "title": "Dirty Work: The Taxpayers' Union and New Zealand's Hard Right"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9780241814307",
+          "rank": 7,
+          "title": "The Things We Never Say"
+        },
+        {
+          "category": "Non-Fiction",
+          "isbn13": "9780241848395",
+          "rank": 8,
+          "title": "End Times Fascism: And the Fight for the Living World"
         },
         {
           "category": "Biography",
@@ -59,16 +59,16 @@
           "title": "That Woman"
         },
         {
-          "category": "Fiction",
-          "isbn13": "9780241814307",
+          "category": "Not a Book",
+          "isbn13": "9781682818084",
           "rank": 10,
-          "title": "Things We Never Say"
+          "title": "Threshing Day (Empyrean #3.5, novella) (Wing & Claw edition)"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-10-11",
+        "observedAt": "2026-10-12",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -132,7 +132,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-11T09:56:51Z",
+        "observedAt": "2026-10-12T10:38:23Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -258,19 +258,10 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
-          "rank": 3,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
-        },
-        {
           "artist": "Taylor Swift",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
           "id": "6814997425",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-09-24",
           "title": "Patient Zero",
           "url": "https://music.apple.com/nz/album/patient-zero/6814997249?i=6814997425"
@@ -279,10 +270,19 @@
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609507",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-09-26",
           "title": "So Easy (To Fall In Love)",
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 5,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
@@ -333,7 +333,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 11 Oct 2026 09:58:18 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:39:43 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -487,7 +487,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-10-11T09:56:51Z",
+        "observedAt": "2026-10-12T10:38:23Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -496,9 +496,9 @@
       "year": 2025
     }
   },
-  "contentHash": "5710e775ac362f8b4299deeaa6d12e46092c71b3701f77df972ad571e2eaf0d8",
+  "contentHash": "2f2e67c4d07a06b685ce3ee3e5a82431efe96a327a9df799e48ece284ae5ecb7",
   "country": "NZ",
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T09:56:51Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T10:38:23Z",
   "schemaVersion": 1
 }

@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-11T09:56:51Z",
+        "observedAt": "2026-10-12T10:38:23Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -61,18 +61,9 @@
         },
         {
           "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
-          "id": "6784833437",
-          "rank": 5,
-          "releaseDate": "2026-07-08",
-          "title": "AIRE",
-          "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
-        },
-        {
-          "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338555",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-10-09",
           "title": "SUMISA",
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
@@ -81,10 +72,19 @@
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338561",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-09",
           "title": "RETRICA",
           "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
+          "id": "6784833437",
+          "rank": 7,
+          "releaseDate": "2026-07-08",
+          "title": "AIRE",
+          "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
         },
         {
           "artist": "Bad Bunny",
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/es/album/la-nieve-original-song-from-the-film-la-bola-negra/6810331746?i=6810331747"
         },
         {
-          "artist": "Maluma & Shakira",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/30/88/51308852-2879-70b1-6028-a5a589a692c9/196874698495.jpg/100x100bb.jpg",
-          "id": "6810372461",
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338546",
           "rank": 10,
-          "releaseDate": "2026-09-17",
-          "title": "AGUA",
-          "url": "https://music.apple.com/es/album/agua/6810372456?i=6810372461"
+          "releaseDate": "2026-10-09",
+          "title": "CONTIGO",
+          "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 11 Oct 2026 09:59:12 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:40:12 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-11T09:56:51Z",
+        "observedAt": "2026-10-12T10:38:23Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "65b7f64db779ac832be7ee1e863fcbea0980fccc049f369675237419f8133c32",
+  "contentHash": "3d1c707d4c190cad249f6c0ba51c587d84295a91544327238463d6fad5df43c2",
   "country": "ES",
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T09:56:51Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T10:38:23Z",
   "schemaVersion": 1
 }

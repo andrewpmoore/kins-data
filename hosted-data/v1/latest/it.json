@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-11T09:56:51Z",
+        "observedAt": "2026-10-12T10:38:23Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -21,104 +21,104 @@
       "year": 2026
     },
     "movies": {
-      "id": "cinetel-national-week-2026-10-04",
+      "id": "cinetel-national-week-2026-10-11",
       "items": [
         {
-          "admissions": 394395,
+          "admissions": 233281,
+          "countryOfOrigin": "USA",
+          "distributor": "UNIVERSAL",
+          "rank": 1,
+          "releaseDate": "2026-10-08",
+          "title": "MAMMINA (OTHER MOMMY)",
+          "weekendGrossEUR": 1982148.27
+        },
+        {
+          "admissions": 193621,
           "countryOfOrigin": "GBR",
           "distributor": "I WONDER PICTURES",
-          "rank": 1,
+          "rank": 2,
           "releaseDate": "2026-09-28",
           "title": "NAZA",
-          "weekendGrossEUR": 3022893.34
+          "weekendGrossEUR": 1474841.84
         },
         {
-          "admissions": 142707,
-          "countryOfOrigin": "USA",
-          "distributor": "EAGLE PICTURES",
-          "rank": 2,
-          "releaseDate": "2026-09-24",
-          "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
-          "weekendGrossEUR": 1092789.97
-        },
-        {
-          "admissions": 111863,
-          "countryOfOrigin": "USA",
-          "distributor": "WALT DISNEY S.M.P. ITALIA",
+          "admissions": 111571,
+          "countryOfOrigin": "COP",
+          "distributor": "01 DISTRIBUTION",
           "rank": 3,
-          "releaseDate": "2026-09-24",
-          "title": "AVENGERS: ENDGAME EXTRA",
-          "weekendGrossEUR": 1007018.85
+          "releaseDate": "2026-10-08",
+          "title": "L'ESTRANEA",
+          "weekendGrossEUR": 802260.02
         },
         {
-          "admissions": 83109,
+          "admissions": 97574,
           "countryOfOrigin": "USA",
           "distributor": "EAGLE PICTURES",
           "rank": 4,
-          "releaseDate": "2026-10-01",
-          "title": "VERITY",
-          "weekendGrossEUR": 664214.93
+          "releaseDate": "2026-09-24",
+          "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
+          "weekendGrossEUR": 774933.33
         },
         {
-          "admissions": 78889,
+          "admissions": 96899,
           "countryOfOrigin": "USA",
           "distributor": "EAGLE PICTURES",
           "rank": 5,
-          "releaseDate": "2026-09-17",
-          "title": "RESIDENT EVIL",
-          "weekendGrossEUR": 635712.85
+          "releaseDate": "2026-10-01",
+          "title": "VERITY",
+          "weekendGrossEUR": 746727.64
         },
         {
-          "admissions": 70561,
+          "admissions": 80863,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
           "rank": 6,
           "releaseDate": "2026-10-01",
           "title": "DIGGER",
-          "weekendGrossEUR": 535504.97
+          "weekendGrossEUR": 592736.53
         },
         {
-          "admissions": 28751,
-          "countryOfOrigin": "ITA",
-          "distributor": "NEXO DIGITAL S.R.L.",
+          "admissions": 34204,
+          "countryOfOrigin": "USA",
+          "distributor": "EAGLE PICTURES",
           "rank": 7,
-          "releaseDate": "2026-09-22",
-          "title": "ULTIMO - TUTTO. LIVE A TOR VERGATA",
-          "weekendGrossEUR": 449962.6
+          "releaseDate": "2026-09-17",
+          "title": "RESIDENT EVIL",
+          "weekendGrossEUR": 281931.0
         },
         {
-          "admissions": 40323,
+          "admissions": 15987,
           "countryOfOrigin": "USA",
-          "distributor": "UNIVERSAL",
+          "distributor": "NEXO DIGITAL S.R.L.",
           "rank": 8,
-          "releaseDate": "2026-09-24",
-          "title": "L'ISOLA DEI RICORDI (FORGOTTEN ISLAND)",
-          "weekendGrossEUR": 270546.43
+          "releaseDate": "2026-10-07",
+          "title": "QUEEN BUDAPEST",
+          "weekendGrossEUR": 245630.2
         },
         {
-          "admissions": 34903,
+          "admissions": 24929,
           "countryOfOrigin": "USA",
-          "distributor": "I WONDER PICTURES",
+          "distributor": "WALT DISNEY S.M.P. ITALIA",
           "rank": 9,
-          "releaseDate": "2026-09-16",
-          "title": "THE INVITE – IL PIACERE È TUTTO NOSTRO",
-          "weekendGrossEUR": 254323.17
+          "releaseDate": "2026-09-24",
+          "title": "AVENGERS: ENDGAME EXTRA",
+          "weekendGrossEUR": 219989.37
         },
         {
-          "admissions": 30233,
+          "admissions": 26278,
           "countryOfOrigin": "USA",
-          "distributor": "MESCALITO FILM",
+          "distributor": "EAGLE PICTURES",
           "rank": 10,
-          "releaseDate": "2026-09-30",
-          "title": "THE BIBI FILES",
-          "weekendGrossEUR": 229518.21
+          "releaseDate": "2026-10-08",
+          "title": "THE SOCIAL -IL PREZZO DELLA VERITA' (THE SOCIAL RECKONING)",
+          "weekendGrossEUR": 194842.25
         }
       ],
-      "reportPeriod": "2026-09-28/2026-10-04",
+      "reportPeriod": "2026-10-05/2026-10-11",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "national weekly theatrical gross in euros",
-        "observedAt": "2026-10-04",
+        "observedAt": "2026-10-11",
         "provider": "Cinetel",
         "territory": "IT",
         "url": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D"
@@ -139,21 +139,21 @@
         },
         {
           "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/52/60/c0526017-fa74-d476-a434-ec1465d5be70/1200220201730.jpg/100x100bb.jpg",
-          "id": "6815719363",
-          "rank": 2,
-          "releaseDate": "2026-01-16",
-          "title": "WINNER",
-          "url": "https://music.apple.com/it/album/winner/6815719361?i=6815719363"
-        },
-        {
-          "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
           "id": "6807790374",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-09-11",
           "title": "PER NOI (feat. Achille Lauro)",
           "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/52/60/c0526017-fa74-d476-a434-ec1465d5be70/1200220201730.jpg/100x100bb.jpg",
+          "id": "6815719363",
+          "rank": 3,
+          "releaseDate": "2026-01-16",
+          "title": "WINNER",
+          "url": "https://music.apple.com/it/album/winner/6815719361?i=6815719363"
         },
         {
           "artist": "Geolier",
@@ -165,22 +165,22 @@
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         },
         {
-          "artist": "Shiva & Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ea/96/98ea96e6-0491-53e6-d04a-91159127bd2f/196874139097.jpg/100x100bb.jpg",
-          "id": "1891320360",
-          "rank": 5,
-          "releaseDate": "2026-04-09",
-          "title": "Bad Bad Bad",
-          "url": "https://music.apple.com/it/album/bad-bad-bad/1891320348?i=1891320360"
-        },
-        {
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Shiva & Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ea/96/98ea96e6-0491-53e6-d04a-91159127bd2f/196874139097.jpg/100x100bb.jpg",
+          "id": "1891320360",
+          "rank": 6,
+          "releaseDate": "2026-04-09",
+          "title": "Bad Bad Bad",
+          "url": "https://music.apple.com/it/album/bad-bad-bad/1891320348?i=1891320360"
         },
         {
           "artist": "HUGEL, Imael Angel & Ultra Naté",
@@ -210,19 +210,19 @@
           "url": "https://music.apple.com/it/album/disfruto/1862967956?i=1862968116"
         },
         {
-          "artist": "BLANCO",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/a9/ca/6fa9ca38-b1b6-43c6-73f4-0ee37c2ff0a2/26UM1IM15159.rgb.jpg/100x100bb.jpg",
-          "id": "6809473099",
+          "artist": "Bresh",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/4a/27/314a2727-7139-e359-e23e-b064d5e413cd/196874375266.jpg/100x100bb.jpg",
+          "id": "6766894796",
           "rank": 10,
-          "releaseDate": "2026-09-07",
-          "title": "SOTTOGONNA",
-          "url": "https://music.apple.com/it/album/sottogonna/6809473096?i=6809473099"
+          "releaseDate": "2026-05-14",
+          "title": "Da Dio",
+          "url": "https://music.apple.com/it/album/da-dio/6766894794?i=6766894796"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 11 Oct 2026 09:59:12 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:40:12 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-11T09:56:51Z",
+        "observedAt": "2026-10-12T10:38:23Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2024
     }
   },
-  "contentHash": "c1cb08ce5a8fca082b0bdb682ada227b0c3d1151a383159ad2cf733e488901a9",
+  "contentHash": "48c160f029a67cf539ce42ae606411b4429d58d059bfc09aaba648714af3a087",
   "country": "IT",
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T09:56:51Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T10:38:23Z",
   "schemaVersion": 1
 }

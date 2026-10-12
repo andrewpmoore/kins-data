@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-11T09:56:51Z",
+        "observedAt": "2026-10-12T10:38:23Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -42,22 +42,22 @@
           "url": "https://music.apple.com/ca/album/solar-eclipse/6818209777?i=6818209989"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 3,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/ca/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
           "id": "6818209990",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-10-02",
           "title": "Quebec",
           "url": "https://music.apple.com/ca/album/quebec/6818209777?i=6818209990"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 4,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/ca/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "Morgan Wallen",
@@ -69,19 +69,10 @@
           "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
         },
         {
-          "artist": "Drake, Don Toliver & Yebba",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/100x100bb.jpg",
-          "id": "6818059600",
-          "rank": 6,
-          "releaseDate": "2026-10-02",
-          "title": "Cold Shoulder",
-          "url": "https://music.apple.com/ca/album/cold-shoulder/6818059268?i=6818059600"
-        },
-        {
           "artist": "Arjan Dhillon",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/61/48/b661488b-a492-1dae-ea9c-a77459cea03a/cover.jpg/100x100bb.jpg",
           "id": "6819228160",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-05",
           "title": "Said & Done",
           "url": "https://music.apple.com/ca/album/said-done/6819228159?i=6819228160"
@@ -90,10 +81,19 @@
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/ca/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Drake, Don Toliver & Yebba",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/100x100bb.jpg",
+          "id": "6818059600",
+          "rank": 8,
+          "releaseDate": "2026-10-02",
+          "title": "Cold Shoulder",
+          "url": "https://music.apple.com/ca/album/cold-shoulder/6818059268?i=6818059600"
         },
         {
           "artist": "ADÉLA",
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/ca/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Karan Aujla & MXRCI",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6d/78/f76d78c5-cc9c-f2d6-8603-ba690eaa5c7d/5064089826918_cover.jpg/100x100bb.jpg",
-          "id": "6814002647",
+          "artist": "STELLA LEFTY",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
+          "id": "1884403093",
           "rank": 10,
-          "releaseDate": "2026-09-25",
-          "title": "Ashke",
-          "url": "https://music.apple.com/ca/album/ashke/6814002539?i=6814002647"
+          "releaseDate": "2026-03-27",
+          "title": "Boston",
+          "url": "https://music.apple.com/ca/album/boston/1884403092?i=1884403093"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 11 Oct 2026 09:56:56 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:38:50 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-11T09:56:51Z",
+        "observedAt": "2026-10-12T10:38:23Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "d02c243a1a92303cddaeb353bc2b488fa81236e7dcc0d81d15ae5761f041caef",
+  "contentHash": "6ec865a6b0b9b95f1500554db0efb219a3ceca066ae4c26f3391d4cad8da60ae",
   "country": "CA",
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T09:56:51Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T10:38:23Z",
   "schemaVersion": 1
 }
