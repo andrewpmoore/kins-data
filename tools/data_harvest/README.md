@@ -141,6 +141,15 @@ Artwork URLs, source links, provider names and optional verified YouTube trailer
 links travel with each item. `releaseYear` is distinct from the award year; it is
 omitted when unknown rather than inventing a release date.
 
+`refresh_media_trailers.py` runs weekly and publishes
+`hosted-data/media-trailers.json`. It takes movie titles from the hosted box-office
+charts and retains indexed targets for ten years, and it checks current and prior
+D.I.C.E. winners for new game records. Trailer IDs come only from Wikidata claims
+explicitly qualified as trailers; ambiguous and unmatched titles have no embedded
+video and the app falls back to YouTube's own search page. The job does not call
+YouTube's API, scrape YouTube pages, or download video. Wikidata data is CC0, and
+the index includes provenance for each match.
+
 ```sh
 python3 -m unittest tools/data_harvest/test_harvest.py tools/data_harvest/test_media_archive.py
 python3 tools/data_harvest/media_archive.py
