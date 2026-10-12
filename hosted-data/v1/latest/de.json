@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:43:09Z",
+        "observedAt": "2026-10-12T10:56:37Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -114,10 +114,19 @@
           "url": "https://music.apple.com/de/album/issa/6801468850?i=6801468864"
         },
         {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884101",
+          "rank": 6,
+          "releaseDate": "2026-07-23",
+          "title": "Ain't In LA",
+          "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
+        },
+        {
           "artist": "Wir sind Helden",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/66/fc/4a66fc5a-3230-84e8-e43d-e6d59cdf2714/13UACIM70246.rgb.jpg/100x100bb.jpg",
           "id": "723380341",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2005-01-01",
           "title": "Von hier an blind",
           "url": "https://music.apple.com/de/album/von-hier-an-blind/723379901?i=723380341"
@@ -125,44 +134,35 @@
         {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884101",
-          "rank": 7,
-          "releaseDate": "2026-07-23",
-          "title": "Ain't In LA",
-          "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
-        },
-        {
-          "artist": "Temper City",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/100x100bb.jpg",
-          "id": "1877803360",
-          "rank": 8,
-          "releaseDate": "2026-02-15",
-          "title": "Self Aware",
-          "url": "https://music.apple.com/de/album/self-aware/1877803357?i=1877803360"
-        },
-        {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/de/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Justin Bieber",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/100x100bb.jpg",
-          "id": "1440650961",
+          "artist": "Temper City",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/100x100bb.jpg",
+          "id": "1877803360",
+          "rank": 9,
+          "releaseDate": "2026-02-15",
+          "title": "Self Aware",
+          "url": "https://music.apple.com/de/album/self-aware/1877803357?i=1877803360"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
           "rank": 10,
-          "releaseDate": "2012-06-15",
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "url": "https://music.apple.com/de/album/beauty-and-a-beat-feat-nicki-minaj/1440650852?i=1440650961"
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 10:44:31 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:58:06 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-12T10:43:09Z",
+        "observedAt": "2026-10-12T10:56:37Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "fb21eede804626d2944fb667980b131c16393f4247dc0c033d32c20c50922459",
+  "contentHash": "117080a3a01aa00a0b7c7e83990ca94a5a7a0c39a5db17ab7e5b8ad64bf563a4",
   "country": "DE",
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T10:43:09Z",
+  "generatedAt": "2026-10-12T10:56:37Z",
   "schemaVersion": 1
 }

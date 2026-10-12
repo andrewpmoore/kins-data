@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:43:09Z",
+        "observedAt": "2026-10-12T10:56:37Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -87,22 +87,22 @@
           "url": "https://music.apple.com/fr/album/cuenta-feat-meryl-shay/6811941413?i=6811941414"
         },
         {
-          "artist": "Lagui",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/99/55/98995538-3e22-e192-692e-1c9b99fcbb9b/cover.jpg/100x100bb.jpg",
-          "id": "6817004248",
-          "rank": 8,
-          "releaseDate": "2026-10-07",
-          "title": "Dégun",
-          "url": "https://music.apple.com/fr/album/d%C3%A9gun/6817004093?i=6817004248"
-        },
-        {
           "artist": "Tiakola",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/100x100bb.jpg",
           "id": "6809755020",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-09-25",
           "title": "cœur De Pirate",
           "url": "https://music.apple.com/fr/album/c%C5%93ur-de-pirate/6809754889?i=6809755020"
+        },
+        {
+          "artist": "Tiakola & Jorja Smith",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/100x100bb.jpg",
+          "id": "6809755256",
+          "rank": 9,
+          "releaseDate": "2026-09-23",
+          "title": "Jet Lag",
+          "url": "https://music.apple.com/fr/album/jet-lag/6809754889?i=6809755256"
         },
         {
           "artist": "Timal",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 10:44:32 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:58:08 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-10-12T10:43:09Z",
+        "observedAt": "2026-10-12T10:56:37Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "0674b0f2d687503fe57fed0c596b7a37d7e53bef11431f37e84ce4889cfb3bc5",
+  "contentHash": "957b95df1c207a2f465d81d1ad331860c9a7be7a2214064dd6dfd3eb7ce03170",
   "country": "FR",
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T10:43:09Z",
+  "generatedAt": "2026-10-12T10:56:37Z",
   "schemaVersion": 1
 }

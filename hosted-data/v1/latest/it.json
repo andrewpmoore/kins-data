@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:43:09Z",
+        "observedAt": "2026-10-12T10:56:37Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -192,22 +192,22 @@
           "url": "https://music.apple.com/it/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
-          "id": "1861451640",
-          "rank": 8,
-          "releaseDate": "2026-01-16",
-          "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
-          "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
-        },
-        {
           "artist": "Carla Morrison",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f6/ce/71f6ce36-fdee-c95b-ced5-2b54ab8b14f9/787790255666.jpg/100x100bb.jpg",
           "id": "1862968116",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2012-03-27",
           "title": "Disfruto",
           "url": "https://music.apple.com/it/album/disfruto/1862967956?i=1862968116"
+        },
+        {
+          "artist": "BLANCO",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/a9/ca/6fa9ca38-b1b6-43c6-73f4-0ee37c2ff0a2/26UM1IM15159.rgb.jpg/100x100bb.jpg",
+          "id": "6809473099",
+          "rank": 9,
+          "releaseDate": "2026-09-07",
+          "title": "SOTTOGONNA",
+          "url": "https://music.apple.com/it/album/sottogonna/6809473096?i=6809473099"
         },
         {
           "artist": "Bresh",
@@ -222,7 +222,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 10:44:33 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:58:10 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-12T10:43:09Z",
+        "observedAt": "2026-10-12T10:56:37Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2024
     }
   },
-  "contentHash": "7dd4a8de2bcc352a78b39c40d3aa5a729be3bb38ea99798b9ad880c63a968a01",
+  "contentHash": "fdcb88040c1368cc453240db987ce2a2b50cd88108c9a0894417902d4d1b8d63",
   "country": "IT",
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T10:43:09Z",
+  "generatedAt": "2026-10-12T10:56:37Z",
   "schemaVersion": 1
 }

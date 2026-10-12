@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:43:09Z",
+        "observedAt": "2026-10-12T10:56:37Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/ca/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "STELLA LEFTY",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
-          "id": "1884403093",
+          "artist": "Karan Aujla & MXRCI",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6d/78/f76d78c5-cc9c-f2d6-8603-ba690eaa5c7d/5064089826918_cover.jpg/100x100bb.jpg",
+          "id": "6814002647",
           "rank": 10,
-          "releaseDate": "2026-03-27",
-          "title": "Boston",
-          "url": "https://music.apple.com/ca/album/boston/1884403092?i=1884403093"
+          "releaseDate": "2026-09-25",
+          "title": "Ashke",
+          "url": "https://music.apple.com/ca/album/ashke/6814002539?i=6814002647"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 10:43:36 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:57:37 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-12T10:43:09Z",
+        "observedAt": "2026-10-12T10:56:37Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "15244da1479beee5c375766ae73c86b8587aa4a282ee4244664e08c32e954ea6",
+  "contentHash": "35dc26596f7f8feba048a013868394fe0e05cdfba1de26e1153e10afc5642098",
   "country": "CA",
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T10:43:09Z",
+  "generatedAt": "2026-10-12T10:56:37Z",
   "schemaVersion": 1
 }
