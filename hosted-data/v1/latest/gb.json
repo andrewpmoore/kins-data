@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:38:23Z",
+        "observedAt": "2026-10-12T10:43:09Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-12T10:38:23Z",
+        "observedAt": "2026-10-12T10:43:09Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -253,7 +253,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 10:38:49 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:43:09 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-12T10:38:23Z",
+        "observedAt": "2026-10-12T10:43:09Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "48f19b8d250350f95964f5b32691f36e376584e96e034e01f1a6c054ec714c61",
+  "contentHash": "25968ea0ffb906cb11b856e47eec26121def9c2c108645797258cff269519a0c",
   "country": "GB",
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T10:38:23Z",
+  "generatedAt": "2026-10-12T10:43:09Z",
   "schemaVersion": 1
 }

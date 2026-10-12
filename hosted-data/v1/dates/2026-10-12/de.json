@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:38:23Z",
+        "observedAt": "2026-10-12T10:43:09Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -162,7 +162,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 10:39:44 +0000",
+        "observedAt": "Mon, 12 Oct 2026 10:44:31 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-12T10:38:23Z",
+        "observedAt": "2026-10-12T10:43:09Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "49619ac9fcc746946d877369476f5e15bb118180a38849064dc721a8111b2816",
+  "contentHash": "fb21eede804626d2944fb667980b131c16393f4247dc0c033d32c20c50922459",
   "country": "DE",
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T10:38:23Z",
+  "generatedAt": "2026-10-12T10:43:09Z",
   "schemaVersion": 1
 }
