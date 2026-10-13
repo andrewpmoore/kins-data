@@ -1,0 +1,504 @@
+{
+  "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "bookhub-nielsen-indie-2026-10-13",
+      "items": [
+        {
+          "category": "NZ Fiction",
+          "isbn13": "9781776951406",
+          "rank": 1,
+          "title": "The Star Path: A Return to the World of The Whale Rider"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9781529937831",
+          "rank": 2,
+          "title": "Our Noble Selves"
+        },
+        {
+          "category": "Fantasy",
+          "isbn13": "9780349450612",
+          "rank": 3,
+          "title": "Threshing Day (Empyrean #3.5) (International Edition)"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9781035081295",
+          "rank": 4,
+          "title": "Exit Party"
+        },
+        {
+          "category": "Children & Young Adult",
+          "isbn13": "9781037408724",
+          "rank": 5,
+          "title": "Gruffalo Granny"
+        },
+        {
+          "category": "NZ Non-fiction",
+          "isbn13": "9781988550916",
+          "rank": 6,
+          "title": "Dirty Work: The Taxpayers' Union and New Zealand's Hard Right"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9780241814307",
+          "rank": 7,
+          "title": "The Things We Never Say"
+        },
+        {
+          "category": "Non-Fiction",
+          "isbn13": "9780241848395",
+          "rank": 8,
+          "title": "End Times Fascism: And the Fight for the Living World"
+        },
+        {
+          "category": "Biography",
+          "isbn13": "9781991006349",
+          "rank": 9,
+          "title": "That Woman"
+        },
+        {
+          "category": "Not a Book",
+          "isbn13": "9781682818084",
+          "rank": 10,
+          "title": "Threshing Day (Empyrean #3.5, novella) (Wing & Claw edition)"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "weekly sales through participating independent booksellers",
+        "observedAt": "2026-10-13",
+        "provider": "Booksellers Aotearoa / Nielsen BookScan",
+        "territory": "NZ",
+        "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
+      },
+      "title": "Official Nielsen Indie Top 10"
+    },
+    "childrensBooks": {
+      "audience": "children",
+      "id": "booksellers-nz-children-2026-10-08",
+      "items": [
+        {
+          "creator": "Donovan Bixley",
+          "isbn13": "9781869715724",
+          "rank": 1,
+          "title": "The Sweet As Looky Book"
+        },
+        {
+          "creator": "Lynley Dodd",
+          "isbn13": "9781776957545",
+          "rank": 2,
+          "title": "Schnitzel Von Krumm, Dogs Never Climb Trees"
+        },
+        {
+          "creator": "Deano Yipadee & Bruce Potter",
+          "isbn13": "9781775438069",
+          "rank": 3,
+          "title": "Moto Mike the Motorbike (Nee Naw and Friends)"
+        },
+        {
+          "creator": "Ruth Shaw & Deborah Hinde",
+          "isbn13": "9781991142504",
+          "rank": 4,
+          "title": "Millie from Milford"
+        },
+        {
+          "creator": "Lynley Dodd",
+          "isbn13": "9780143504450",
+          "rank": 5,
+          "title": "Hairy Maclary from Donaldson's Dairy"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "NZ Children and Teens",
+        "observedAt": "2026-10-08",
+        "provider": "Booksellers Aotearoa / Nielsen BookScan",
+        "territory": "NZ",
+        "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
+      },
+      "title": "NZ Children and Teens"
+    },
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-10-13T10:30:31Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "movies": {
+      "id": "box-office-mojo-nz-2026-10-04",
+      "items": [
+        {
+          "distributor": "Amazon MGM Studios",
+          "rank": 1,
+          "title": "Verity",
+          "url": "https://www.boxofficemojo.com/release/rl2992013569/?ref_=bo_we_table_1",
+          "weekendGross": "$362,441",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Paramount Pictures International",
+          "rank": 2,
+          "title": "Heart of the Beast",
+          "url": "https://www.boxofficemojo.com/release/rl145588225/?ref_=bo_we_table_2",
+          "weekendGross": "$276,640",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Zee Cinema",
+          "rank": 3,
+          "title": "Drishyam: The Conclusion",
+          "url": "https://www.boxofficemojo.com/release/rl2388033793/?ref_=bo_we_table_3",
+          "weekendGross": "$142,538",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 4,
+          "title": "Forgotten Island",
+          "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_4",
+          "weekendGross": "$138,741",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Sony Pictures Releasing",
+          "rank": 5,
+          "title": "Resident Evil",
+          "url": "https://www.boxofficemojo.com/release/rl3444736257/?ref_=bo_we_table_5",
+          "weekendGross": "$94,398",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Paramount Pictures International",
+          "rank": 6,
+          "title": "PAW Patrol: The Dino Movie",
+          "url": "https://www.boxofficemojo.com/release/rl173637633/?ref_=bo_we_table_6",
+          "weekendGross": "$91,110",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "StudioCanal",
+          "rank": 7,
+          "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+          "url": "https://www.boxofficemojo.com/release/rl794198273/?ref_=bo_we_table_7",
+          "weekendGross": "$62,614",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Warner Bros.",
+          "rank": 8,
+          "title": "Digger",
+          "url": "https://www.boxofficemojo.com/release/rl2404811009/?ref_=bo_we_table_8",
+          "weekendGross": "$59,996",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Sony Pictures Releasing",
+          "rank": 9,
+          "title": "Spider-Man: Brand New Day",
+          "url": "https://www.boxofficemojo.com/release/rl3829760257/?ref_=bo_we_table_9",
+          "weekendGross": "$49,426",
+          "weeksOnRelease": "10"
+        },
+        {
+          "distributor": "Pinnacle Films",
+          "rank": 10,
+          "title": "Coyote vs. Acme",
+          "url": "https://www.boxofficemojo.com/release/rl2454814977/?ref_=bo_we_table_10",
+          "weekendGross": "$48,397",
+          "weeksOnRelease": "3"
+        }
+      ],
+      "reportPeriod": "October 1-4, 2026",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W40/?area=NZ&ref_=bo_wey_table_1",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "country weekend theatrical gross in local currency",
+        "observedAt": "2026-10-04",
+        "provider": "Box Office Mojo",
+        "territory": "NZ",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=NZ"
+      },
+      "title": "NZ weekend theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 1,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 2,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609507",
+          "rank": 3,
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 4,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 5,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/nz/album/patient-zero/6814997249?i=6814997425"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
+          "id": "1814620247",
+          "rank": 6,
+          "releaseDate": "2025-05-30",
+          "title": "Nice To Each Other",
+          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 7,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609514",
+          "rank": 8,
+          "releaseDate": "2025-09-26",
+          "title": "A Couple Minutes",
+          "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 9,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884101",
+          "rank": 10,
+          "releaseDate": "2026-07-23",
+          "title": "Ain't In LA",
+          "url": "https://music.apple.com/nz/album/aint-in-la/6792883860?i=6792884101"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Tue, 13 Oct 2026 10:31:02 +0000",
+        "provider": "Apple Music",
+        "territory": "NZ",
+        "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "dia-new-zealand-baby-names",
+      "items": [
+        {
+          "category": "boy",
+          "count": 244,
+          "name": "Noah",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 236,
+          "name": "Luca",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 234,
+          "name": "Oliver",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 178,
+          "name": "George",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 173,
+          "name": "Theodore",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 168,
+          "name": "Leo",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 156,
+          "name": "Charlie",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 156,
+          "name": "Jack",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 151,
+          "name": "Elijah",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 149,
+          "name": "Theo",
+          "rank": 10,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "girl",
+          "count": 179,
+          "name": "Isla",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 178,
+          "name": "Charlotte",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 161,
+          "name": "Amelia",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 157,
+          "name": "Hazel",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 156,
+          "name": "Olivia",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 155,
+          "name": "Lily",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 135,
+          "name": "Lucy",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 131,
+          "name": "Mila",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 125,
+          "name": "Aria",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 125,
+          "name": "Mia",
+          "rank": 10,
+          "rankGroup": "girl"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national registered baby-name count by sex",
+        "observedAt": "2026-10-13T10:30:31Z",
+        "provider": "New Zealand Department of Internal Affairs",
+        "territory": "NZ",
+        "url": "https://smartstart.services.govt.nz/news/baby-names"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "083d92ca01169a7db867e0bb97afdb6a6401f9da99595f5650f1c84fff8c1ef9",
+  "country": "NZ",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T10:30:31Z",
+  "schemaVersion": 1
+}

@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T11:11:00Z",
+        "observedAt": "2026-10-13T10:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -69,22 +69,22 @@
           "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
         },
         {
-          "artist": "Arjan Dhillon",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/61/48/b661488b-a492-1dae-ea9c-a77459cea03a/cover.jpg/100x100bb.jpg",
-          "id": "6819228160",
-          "rank": 6,
-          "releaseDate": "2026-10-05",
-          "title": "Said & Done",
-          "url": "https://music.apple.com/ca/album/said-done/6819228159?i=6819228160"
-        },
-        {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/ca/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Arjan Dhillon",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/61/48/b661488b-a492-1dae-ea9c-a77459cea03a/cover.jpg/100x100bb.jpg",
+          "id": "6819228160",
+          "rank": 7,
+          "releaseDate": "2026-10-05",
+          "title": "Said & Done",
+          "url": "https://music.apple.com/ca/album/said-done/6819228159?i=6819228160"
         },
         {
           "artist": "Drake, Don Toliver & Yebba",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 11:11:57 +0000",
+        "observedAt": "Tue, 13 Oct 2026 10:30:33 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-12T11:11:00Z",
+        "observedAt": "2026-10-13T10:30:31Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "9db63b75a0171214f6f0d26067bdc025c6bb936185414d32cbf1214c780add2d",
+  "contentHash": "4b09c3ec4cd1ff88e980ec33e2cf0531b3635ef212b6344d48b3e5f48ad4f8bf",
   "country": "CA",
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T11:11:00Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T10:30:31Z",
   "schemaVersion": 1
 }

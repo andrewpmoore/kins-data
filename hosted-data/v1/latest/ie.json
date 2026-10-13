@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T11:11:00Z",
+        "observedAt": "2026-10-13T10:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -33,22 +33,22 @@
           "url": "https://music.apple.com/ie/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 2,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/ie/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992123",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-05-22",
           "title": "the cure",
           "url": "https://music.apple.com/ie/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 3,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/ie/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "Ashe",
@@ -60,19 +60,37 @@
           "url": "https://music.apple.com/ie/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
+          "artist": "Fontaines D.C.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085056",
+          "rank": 5,
+          "releaseDate": "2026-08-18",
+          "title": "Marianne",
+          "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
+        },
+        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/ie/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 7,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/ie/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
           "artist": "Kingfishr",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/a7/0b71a77c-c647-8c58-ed0a-21beadc44a4d/075679579034.jpg/100x100bb.jpg",
           "id": "6768830564",
-          "rank": 6,
+          "rank": 8,
           "releaseDate": "2026-05-26",
           "title": "The Sun Will Never Settle",
           "url": "https://music.apple.com/ie/album/the-sun-will-never-settle/6768830561?i=6768830564"
@@ -81,43 +99,25 @@
           "artist": "SIENNA SPIRO",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
           "id": "6769552411",
-          "rank": 7,
+          "rank": 9,
           "releaseDate": "2026-07-02",
           "title": "Great Expectation",
           "url": "https://music.apple.com/ie/album/great-expectation/6769552402?i=6769552411"
         },
         {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
-          "rank": 8,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/ie/album/choosin-texas/1844932149?i=1844932150"
-        },
-        {
           "artist": "sombr",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/100x100bb.jpg",
           "id": "6781074080",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-06-25",
           "title": "My Body Isn't Ready",
           "url": "https://music.apple.com/ie/album/my-body-isnt-ready/6781074078?i=6781074080"
-        },
-        {
-          "artist": "HUGEL, Imael Angel & Ultra Naté",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
-          "id": "6769070199",
-          "rank": 10,
-          "releaseDate": "2026-05-22",
-          "title": "Movin' To The Sun",
-          "url": "https://music.apple.com/ie/album/movin-to-the-sun/6769069923?i=6769070199"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 11:11:58 +0000",
+        "observedAt": "Tue, 13 Oct 2026 10:31:00 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-12T11:11:00Z",
+        "observedAt": "2026-10-13T10:30:31Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "e318bfa2417bfa0d22d543114785dc852da3bf9e62a7fbc252596e826e1cece4",
+  "contentHash": "fcd3dc109b6fa7e62aa6eadce2ceb38fa2da8216cfbb196d538277b719ababa8",
   "country": "IE",
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T11:11:00Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T10:30:31Z",
   "schemaVersion": 1
 }

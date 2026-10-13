@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T11:11:00Z",
+        "observedAt": "2026-10-13T10:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -132,10 +132,19 @@
           "url": "https://music.apple.com/de/album/von-hier-an-blind/723379901?i=723380341"
         },
         {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 8,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
+        },
+        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/de/album/nicole-kidman/6792883860?i=6792884088"
@@ -144,25 +153,16 @@
           "artist": "Temper City",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/100x100bb.jpg",
           "id": "1877803360",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-02-15",
           "title": "Self Aware",
           "url": "https://music.apple.com/de/album/self-aware/1877803357?i=1877803360"
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
-          "rank": 10,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 11:12:51 +0000",
+        "observedAt": "Tue, 13 Oct 2026 10:31:21 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-12T11:11:00Z",
+        "observedAt": "2026-10-13T10:30:31Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "fcba09ee41ffb35e715615cf41c463f67ed986da413d8f89dcf0f10fad5acf52",
+  "contentHash": "1e3720829b1b6ecc74de8b0d0d4caeef9556ea322c3015539c0e6bd96ff53e2f",
   "country": "DE",
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T11:11:00Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T10:30:31Z",
   "schemaVersion": 1
 }

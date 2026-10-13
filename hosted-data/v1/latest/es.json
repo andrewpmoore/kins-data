@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T11:11:00Z",
+        "observedAt": "2026-10-13T10:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -51,19 +51,10 @@
           "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
         },
         {
-          "artist": "Aitana",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
-          "id": "1814146675",
-          "rank": 4,
-          "releaseDate": "2025-05-29",
-          "title": "SUPERESTRELLA",
-          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338555",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-10-09",
           "title": "SUMISA",
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
@@ -72,10 +63,19 @@
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338561",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-10-09",
           "title": "RETRICA",
           "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338546",
+          "rank": 6,
+          "releaseDate": "2026-10-09",
+          "title": "CONTIGO",
+          "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
         },
         {
           "artist": "Lucho RK",
@@ -87,37 +87,37 @@
           "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
         },
         {
-          "artist": "Bad Bunny",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/100x100bb.jpg",
-          "id": "1570323056",
+          "artist": "Aitana",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
+          "id": "1814146675",
           "rank": 8,
-          "releaseDate": "2021-06-04",
-          "title": "Yonaguni",
-          "url": "https://music.apple.com/es/album/yonaguni/1570323047?i=1570323056"
+          "releaseDate": "2025-05-29",
+          "title": "SUPERESTRELLA",
+          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
+        },
+        {
+          "artist": "Maluma & Shakira",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/30/88/51308852-2879-70b1-6028-a5a589a692c9/196874698495.jpg/100x100bb.jpg",
+          "id": "6810372461",
+          "rank": 9,
+          "releaseDate": "2026-09-17",
+          "title": "AGUA",
+          "url": "https://music.apple.com/es/album/agua/6810372456?i=6810372461"
         },
         {
           "artist": "Guitarricadelafuente",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/22/f7/f222f717-46b7-651c-76d1-e79e4ea28713/196874767580.jpg/100x100bb.jpg",
           "id": "6810331747",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-09-17",
           "title": "La Nieve (Original song from the film La Bola Negra)",
           "url": "https://music.apple.com/es/album/la-nieve-original-song-from-the-film-la-bola-negra/6810331746?i=6810331747"
-        },
-        {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338546",
-          "rank": 10,
-          "releaseDate": "2026-10-09",
-          "title": "CONTIGO",
-          "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 11:12:52 +0000",
+        "observedAt": "Tue, 13 Oct 2026 10:31:24 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-12T11:11:00Z",
+        "observedAt": "2026-10-13T10:30:31Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "d1ca9de3a7c7d1c4cf0feab4131c3816d17f4ae198ad97191584d5f59397a45b",
+  "contentHash": "3e47e867eedf7a9e6be7f37879c19f393b989cce77ac32cf58e4e29ef329a222",
   "country": "ES",
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T11:11:00Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T10:30:31Z",
   "schemaVersion": 1
 }

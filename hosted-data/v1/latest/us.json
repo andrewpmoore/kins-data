@@ -167,7 +167,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T11:11:00Z",
+        "observedAt": "2026-10-13T10:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -181,44 +181,44 @@
         {
           "rank": 1,
           "title": "Other Mommy",
-          "totalGross": "$27,500,000",
+          "totalGross": "$27,805,825",
           "url": "https://www.the-numbers.com/movie/Other-Mommy-(2026)",
-          "weekendGross": "$27,500,000"
+          "weekendGross": "$27,805,825"
         },
         {
           "rank": 2,
           "title": "Verity",
-          "totalGross": "$53,861,000",
+          "totalGross": "$54,384,610",
           "url": "https://www.the-numbers.com/movie/Verity-(2026)",
-          "weekendGross": "$11,482,000"
+          "weekendGross": "$12,005,559"
         },
         {
           "rank": 3,
           "title": "Resident Evil",
-          "totalGross": "$138,525,000",
+          "totalGross": "$138,738,566",
           "url": "https://www.the-numbers.com/movie/Resident-Evil-(2026)",
-          "weekendGross": "$8,350,000"
+          "weekendGross": "$8,563,158"
         },
         {
           "rank": 4,
           "title": "Heart of the Beast",
-          "totalGross": "$49,662,000",
+          "totalGross": "$50,000,490",
           "url": "https://www.the-numbers.com/movie/Heart-of-the-Beast-(2026)",
-          "weekendGross": "$7,100,000"
+          "weekendGross": "$7,438,829"
         },
         {
           "rank": 5,
           "title": "The Social Reckoning",
-          "totalGross": "$5,500,000",
+          "totalGross": "$5,018,263",
           "url": "https://www.the-numbers.com/movie/Social-Reckoning-The-(2026)",
-          "weekendGross": "$5,500,000"
+          "weekendGross": "$5,018,263"
         },
         {
           "rank": 6,
           "title": "Forgotten Island",
-          "totalGross": "$30,272,000",
+          "totalGross": "$30,475,710",
           "url": "https://www.the-numbers.com/movie/Forgotten-Island-(2026)",
-          "weekendGross": "$4,500,000"
+          "weekendGross": "$4,703,380"
         },
         {
           "rank": 7,
@@ -226,27 +226,6 @@
           "totalGross": "$41,467,633",
           "url": "https://www.the-numbers.com/movie/Primetime-(2026)",
           "weekendGross": "$4,014,003"
-        },
-        {
-          "rank": 8,
-          "title": "Digger",
-          "totalGross": "$14,433,000",
-          "url": "https://www.the-numbers.com/movie/Digger-(2026)",
-          "weekendGross": "$3,200,000"
-        },
-        {
-          "rank": 9,
-          "title": "Angel and the Badman",
-          "totalGross": "$2,063,407",
-          "url": "https://www.the-numbers.com/movie/Angel-and-the-Badman-(2026)",
-          "weekendGross": "$2,063,407"
-        },
-        {
-          "rank": 10,
-          "title": "The Odyssey",
-          "totalGross": "$622,973,000",
-          "url": "https://www.the-numbers.com/movie/Odyssey-The-(2026)",
-          "weekendGross": "$2,000,000"
         }
       ],
       "reportPeriod": "2026-10-09/2026-10-11",
@@ -310,22 +289,22 @@
           "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600"
         },
         {
-          "artist": "Drake",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
-          "id": "6769568596",
-          "rank": 6,
-          "releaseDate": "2026-05-15",
-          "title": "Janice STFU",
-          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
+          "rank": 7,
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
         },
         {
           "artist": "Morgan Wallen",
@@ -358,7 +337,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 11:11:04 +0000",
+        "observedAt": "Tue, 13 Oct 2026 10:30:32 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -501,9 +480,9 @@
       "year": 2025
     }
   },
-  "contentHash": "58974f25f50f095931d44f20e0a2f7382522cf03e42656400e50e5d0743527cd",
+  "contentHash": "314e56ec4918178c092cc10ac4c7d7d56c9f7ce48f8aa136353818600acdf52c",
   "country": "US",
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T11:11:00Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T10:30:31Z",
   "schemaVersion": 1
 }
