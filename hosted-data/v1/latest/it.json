@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-13T10:30:31Z",
+        "observedAt": "2026-10-14T08:39:21Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -33,13 +33,13 @@
           "weekendGrossEUR": 1987264.17
         },
         {
-          "admissions": 194379,
+          "admissions": 194388,
           "countryOfOrigin": "GBR",
           "distributor": "I WONDER PICTURES",
           "rank": 2,
           "releaseDate": "2026-09-28",
           "title": "NAZA",
-          "weekendGrossEUR": 1480199.34
+          "weekendGrossEUR": 1480284.84
         },
         {
           "admissions": 111907,
@@ -51,13 +51,13 @@
           "weekendGrossEUR": 804563.02
         },
         {
-          "admissions": 97850,
+          "admissions": 97856,
           "countryOfOrigin": "USA",
           "distributor": "EAGLE PICTURES",
           "rank": 4,
           "releaseDate": "2026-09-24",
           "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
-          "weekendGrossEUR": 777013.33
+          "weekendGrossEUR": 777048.33
         },
         {
           "admissions": 97013,
@@ -156,22 +156,22 @@
           "url": "https://music.apple.com/it/album/winner/6815719361?i=6815719363"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
-          "id": "1861451990",
-          "rank": 4,
-          "releaseDate": "2026-01-16",
-          "title": "CANZONE D'AMORE",
-          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
-        },
-        {
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451990",
+          "rank": 5,
+          "releaseDate": "2026-01-16",
+          "title": "CANZONE D'AMORE",
+          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         },
         {
           "artist": "Shiva & Geolier",
@@ -201,28 +201,28 @@
           "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
         },
         {
-          "artist": "Carla Morrison",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f6/ce/71f6ce36-fdee-c95b-ced5-2b54ab8b14f9/787790255666.jpg/100x100bb.jpg",
-          "id": "1862968116",
-          "rank": 9,
-          "releaseDate": "2012-03-27",
-          "title": "Disfruto",
-          "url": "https://music.apple.com/it/album/disfruto/1862967956?i=1862968116"
-        },
-        {
           "artist": "BLANCO",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/a9/ca/6fa9ca38-b1b6-43c6-73f4-0ee37c2ff0a2/26UM1IM15159.rgb.jpg/100x100bb.jpg",
           "id": "6809473099",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-09-07",
           "title": "SOTTOGONNA",
           "url": "https://music.apple.com/it/album/sottogonna/6809473096?i=6809473099"
+        },
+        {
+          "artist": "Carla Morrison",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f6/ce/71f6ce36-fdee-c95b-ced5-2b54ab8b14f9/787790255666.jpg/100x100bb.jpg",
+          "id": "1862968116",
+          "rank": 10,
+          "releaseDate": "2012-03-27",
+          "title": "Disfruto",
+          "url": "https://music.apple.com/it/album/disfruto/1862967956?i=1862968116"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 13 Oct 2026 10:31:26 +0000",
+        "observedAt": "Wed, 14 Oct 2026 08:39:55 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-13T10:30:31Z",
+        "observedAt": "2026-10-14T08:39:21Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2024
     }
   },
-  "contentHash": "d53ffacfa0bc8e8006831f34ffa3ba7ac4813e70cac202e4e763cf7c8e5c8112",
+  "contentHash": "11b8a63891da4b3eaf7bc40a57076c7554cc3808bb20d778bc820b554c3d1dae",
   "country": "IT",
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T10:30:31Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T08:39:21Z",
   "schemaVersion": 1
 }

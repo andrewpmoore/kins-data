@@ -167,7 +167,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-13T10:30:31Z",
+        "observedAt": "2026-10-14T08:39:21Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -280,13 +280,13 @@
           "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990"
         },
         {
-          "artist": "Drake, Don Toliver & Yebba",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/100x100bb.jpg",
-          "id": "6818059600",
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
           "rank": 5,
-          "releaseDate": "2026-10-02",
-          "title": "Cold Shoulder",
-          "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600"
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
         },
         {
           "artist": "ADÉLA",
@@ -298,13 +298,13 @@
           "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Drake",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
-          "id": "6769568596",
+          "artist": "Drake, Don Toliver & Yebba",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/100x100bb.jpg",
+          "id": "6818059600",
           "rank": 7,
-          "releaseDate": "2026-05-15",
-          "title": "Janice STFU",
-          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+          "releaseDate": "2026-10-02",
+          "title": "Cold Shoulder",
+          "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600"
         },
         {
           "artist": "Morgan Wallen",
@@ -337,7 +337,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 13 Oct 2026 10:30:32 +0000",
+        "observedAt": "Wed, 14 Oct 2026 08:39:48 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -480,9 +480,9 @@
       "year": 2025
     }
   },
-  "contentHash": "314e56ec4918178c092cc10ac4c7d7d56c9f7ce48f8aa136353818600acdf52c",
+  "contentHash": "61694138faf86ac6fb955e4eda8aebc4ec8ed699102517f0e9f70bfc45d532b0",
   "country": "US",
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T10:30:31Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T08:39:21Z",
   "schemaVersion": 1
 }

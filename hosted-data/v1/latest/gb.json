@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-13T10:30:31Z",
+        "observedAt": "2026-10-14T08:39:21Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-13T10:30:31Z",
+        "observedAt": "2026-10-14T08:39:21Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -187,22 +187,22 @@
           "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/5b/67/f75b6793-0ab2-61e7-9c5e-a533414d4175/26UMGIM64027.rgb.jpg/100x100bb.jpg",
+          "id": "6769592306",
+          "rank": 4,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/gb/album/man-i-need/6769592103?i=6769592306"
+        },
+        {
           "artist": "Taylor Swift",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
           "id": "6814997425",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-09-24",
           "title": "Patient Zero",
           "url": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 5,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
@@ -214,22 +214,22 @@
           "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
         },
         {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
-          "rank": 7,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
-        },
-        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 8,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -253,7 +253,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 13 Oct 2026 10:30:32 +0000",
+        "observedAt": "Wed, 14 Oct 2026 08:39:47 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-13T10:30:31Z",
+        "observedAt": "2026-10-14T08:39:21Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "40ab50161df5619210eed45f6ffeaa2ef250713bd0c765882d4ec06634652cf0",
+  "contentHash": "fd507de28515d02505860e595f06c28a14c38ab55bcc475bccce46dc1fdf319f",
   "country": "GB",
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T10:30:31Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T08:39:21Z",
   "schemaVersion": 1
 }

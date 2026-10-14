@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-13T10:30:31Z",
+        "observedAt": "2026-10-14T08:39:21Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -105,22 +105,22 @@
           "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
         },
         {
-          "artist": "Sido",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/95/ae/d695ae05-8bf2-1106-b3b1-5c6ae308caa3/26UM1IM04650.rgb.jpg/100x100bb.jpg",
-          "id": "6801468864",
-          "rank": 5,
-          "releaseDate": "2026-08-20",
-          "title": "ISSA",
-          "url": "https://music.apple.com/de/album/issa/6801468850?i=6801468864"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884101",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-07-23",
           "title": "Ain't In LA",
           "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
+        },
+        {
+          "artist": "Sido",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/95/ae/d695ae05-8bf2-1106-b3b1-5c6ae308caa3/26UM1IM04650.rgb.jpg/100x100bb.jpg",
+          "id": "6801468864",
+          "rank": 6,
+          "releaseDate": "2026-08-20",
+          "title": "ISSA",
+          "url": "https://music.apple.com/de/album/issa/6801468850?i=6801468864"
         },
         {
           "artist": "Wir sind Helden",
@@ -132,37 +132,37 @@
           "url": "https://music.apple.com/de/album/von-hier-an-blind/723379901?i=723380341"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
-          "rank": 8,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/de/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Temper City",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/100x100bb.jpg",
-          "id": "1877803360",
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 9,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
           "rank": 10,
-          "releaseDate": "2026-02-15",
-          "title": "Self Aware",
-          "url": "https://music.apple.com/de/album/self-aware/1877803357?i=1877803360"
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 13 Oct 2026 10:31:21 +0000",
+        "observedAt": "Wed, 14 Oct 2026 08:39:54 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "1e3720829b1b6ecc74de8b0d0d4caeef9556ea322c3015539c0e6bd96ff53e2f",
+  "contentHash": "cc1ee06857b6b2974e1d4cd2d424be9dba6aa5657edede30a00986f8c5dd3ad5",
   "country": "DE",
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T10:30:31Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T08:39:21Z",
   "schemaVersion": 1
 }
