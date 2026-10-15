@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-14T08:39:21Z",
+        "observedAt": "2026-10-15T08:14:15Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -25,7 +25,7 @@
       "items": [
         {
           "admissions": 233235,
-          "countryOfOrigin": "USA",
+          "countryOfOrigin": "IRL",
           "distributor": "UNIVERSAL",
           "rank": 1,
           "releaseDate": "2026-10-08",
@@ -33,31 +33,31 @@
           "weekendGrossEUR": 1987264.17
         },
         {
-          "admissions": 194388,
+          "admissions": 194438,
           "countryOfOrigin": "GBR",
           "distributor": "I WONDER PICTURES",
           "rank": 2,
           "releaseDate": "2026-09-28",
           "title": "NAZA",
-          "weekendGrossEUR": 1480284.84
+          "weekendGrossEUR": 1480652.84
         },
         {
-          "admissions": 111907,
+          "admissions": 112017,
           "countryOfOrigin": "COP",
           "distributor": "01 DISTRIBUTION",
           "rank": 3,
           "releaseDate": "2026-10-08",
           "title": "L'ESTRANEA",
-          "weekendGrossEUR": 804563.02
+          "weekendGrossEUR": 805292.02
         },
         {
-          "admissions": 97856,
+          "admissions": 97910,
           "countryOfOrigin": "USA",
           "distributor": "EAGLE PICTURES",
           "rank": 4,
           "releaseDate": "2026-09-24",
           "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
-          "weekendGrossEUR": 777048.33
+          "weekendGrossEUR": 777435.33
         },
         {
           "admissions": 97013,
@@ -69,13 +69,13 @@
           "weekendGrossEUR": 747618.64
         },
         {
-          "admissions": 81171,
+          "admissions": 81180,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
           "rank": 6,
           "releaseDate": "2026-10-01",
           "title": "DIGGER",
-          "weekendGrossEUR": 594723.53
+          "weekendGrossEUR": 594792.03
         },
         {
           "admissions": 34280,
@@ -192,10 +192,19 @@
           "url": "https://music.apple.com/it/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
+          "artist": "Bresh",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/4a/27/314a2727-7139-e359-e23e-b064d5e413cd/196874375266.jpg/100x100bb.jpg",
+          "id": "6766894796",
+          "rank": 8,
+          "releaseDate": "2026-05-14",
+          "title": "Da Dio",
+          "url": "https://music.apple.com/it/album/da-dio/6766894794?i=6766894796"
+        },
+        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451640",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2026-01-16",
           "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
           "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
@@ -204,25 +213,16 @@
           "artist": "BLANCO",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/a9/ca/6fa9ca38-b1b6-43c6-73f4-0ee37c2ff0a2/26UM1IM15159.rgb.jpg/100x100bb.jpg",
           "id": "6809473099",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-09-07",
           "title": "SOTTOGONNA",
           "url": "https://music.apple.com/it/album/sottogonna/6809473096?i=6809473099"
-        },
-        {
-          "artist": "Carla Morrison",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f6/ce/71f6ce36-fdee-c95b-ced5-2b54ab8b14f9/787790255666.jpg/100x100bb.jpg",
-          "id": "1862968116",
-          "rank": 10,
-          "releaseDate": "2012-03-27",
-          "title": "Disfruto",
-          "url": "https://music.apple.com/it/album/disfruto/1862967956?i=1862968116"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 14 Oct 2026 08:39:55 +0000",
+        "observedAt": "Thu, 15 Oct 2026 08:15:22 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-14T08:39:21Z",
+        "observedAt": "2026-10-15T08:14:15Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2024
     }
   },
-  "contentHash": "11b8a63891da4b3eaf7bc40a57076c7554cc3808bb20d778bc820b554c3d1dae",
+  "contentHash": "2f2e61ce51be7bff120bc6a9ed56786db10210494fceccc5c42410d6be459f1c",
   "country": "IT",
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T08:39:21Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T08:14:15Z",
   "schemaVersion": 1
 }

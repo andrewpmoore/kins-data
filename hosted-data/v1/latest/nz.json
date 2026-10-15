@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-10-14",
+      "id": "bookhub-nielsen-indie-2026-10-15",
       "items": [
         {
           "category": "NZ Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-10-14",
+        "observedAt": "2026-10-15",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -77,7 +77,7 @@
     },
     "childrensBooks": {
       "audience": "children",
-      "id": "booksellers-nz-children-2026-10-08",
+      "id": "booksellers-nz-children-2026-10-15",
       "items": [
         {
           "creator": "Donovan Bixley",
@@ -86,16 +86,16 @@
           "title": "The Sweet As Looky Book"
         },
         {
-          "creator": "Lynley Dodd",
-          "isbn13": "9781776957545",
+          "creator": "Isobel Joy Te Aho-White",
+          "isbn13": "9781869717056",
           "rank": 2,
-          "title": "Schnitzel Von Krumm, Dogs Never Climb Trees"
+          "title": "Wāhine"
         },
         {
-          "creator": "Deano Yipadee & Bruce Potter",
-          "isbn13": "9781775438069",
+          "creator": "Tim Saunders & Minky Stapleton",
+          "isbn13": "9781991142672",
           "rank": 3,
-          "title": "Moto Mike the Motorbike (Nee Naw and Friends)"
+          "title": "The Little Kiwi Builder"
         },
         {
           "creator": "Ruth Shaw & Deborah Hinde",
@@ -105,15 +105,15 @@
         },
         {
           "creator": "Lynley Dodd",
-          "isbn13": "9780143504450",
+          "isbn13": "9781776957545",
           "rank": 5,
-          "title": "Hairy Maclary from Donaldson's Dairy"
+          "title": "Schnitzel Von Krumm, Dogs Never Climb Trees"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "NZ Children and Teens",
-        "observedAt": "2026-10-08",
+        "observedAt": "2026-10-15",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
@@ -132,7 +132,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-14T08:39:21Z",
+        "observedAt": "2026-10-15T08:14:15Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -152,12 +152,60 @@
           "weeksOnRelease": "2"
         },
         {
-          "distributor": "VVS Films",
+          "distributor": "Walt Disney Pictures",
           "rank": 2,
+          "title": "Avengers: Endgame",
+          "url": "https://www.boxofficemojo.com/release/rl1700036865/?ref_=bo_we_table_2",
+          "weekendGross": "$12,769",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 3,
+          "title": "Cars",
+          "url": "https://www.boxofficemojo.com/release/rl1313767681/?ref_=bo_we_table_3",
+          "weekendGross": "$2,739",
+          "weeksOnRelease": "6"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 4,
+          "title": "Toy Story 5",
+          "url": "https://www.boxofficemojo.com/release/rl3316940801/?ref_=bo_we_table_4",
+          "weekendGross": "$833",
+          "weeksOnRelease": "17"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 5,
+          "title": "Moana",
+          "url": "https://www.boxofficemojo.com/release/rl4156522497/?ref_=bo_we_table_5",
+          "weekendGross": "$584",
+          "weeksOnRelease": "14"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 6,
+          "title": "Don't Look Back in Anger",
+          "url": "https://www.boxofficemojo.com/release/rl2572255489/?ref_=bo_we_table_6",
+          "weekendGross": "$213",
+          "weeksOnRelease": "5"
+        },
+        {
+          "distributor": "VVS Films",
+          "rank": 7,
           "title": "The Invite",
-          "url": "https://www.boxofficemojo.com/release/rl985628673/?ref_=bo_we_table_2",
+          "url": "https://www.boxofficemojo.com/release/rl985628673/?ref_=bo_we_table_7",
           "weekendGross": "$64",
           "weeksOnRelease": "14"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 8,
+          "title": "The Dog Stars",
+          "url": "https://www.boxofficemojo.com/release/rl2857009409/?ref_=bo_we_table_8",
+          "weekendGross": "$35",
+          "weeksOnRelease": "7"
         }
       ],
       "reportPeriod": "October 8-11, 2026",
@@ -185,22 +233,22 @@
           "url": "https://music.apple.com/nz/album/man-i-need/6769592103?i=6769592306"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 2,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609507",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-09-26",
           "title": "So Easy (To Fall In Love)",
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 3,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
           "artist": "Ella Langley",
@@ -221,10 +269,19 @@
           "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
         },
         {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609514",
+          "rank": 6,
+          "releaseDate": "2025-09-26",
+          "title": "A Couple Minutes",
+          "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
+        },
+        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
@@ -233,19 +290,10 @@
           "artist": "Taylor Swift",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
           "id": "6814997425",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2026-09-24",
           "title": "Patient Zero",
           "url": "https://music.apple.com/nz/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609514",
-          "rank": 8,
-          "releaseDate": "2025-09-26",
-          "title": "A Couple Minutes",
-          "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -269,7 +317,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 14 Oct 2026 08:39:52 +0000",
+        "observedAt": "Thu, 15 Oct 2026 08:15:13 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -423,7 +471,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-10-14T08:39:21Z",
+        "observedAt": "2026-10-15T08:14:15Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -432,9 +480,9 @@
       "year": 2025
     }
   },
-  "contentHash": "5e09b8966744052d618f6b836377a687641a02c354977780b04d9b1db16c2851",
+  "contentHash": "30fbb60e89d5584f49a8f3b691412bc08c1f3e61d7596b91a82e150712c70469",
   "country": "NZ",
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T08:39:21Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T08:14:15Z",
   "schemaVersion": 1
 }

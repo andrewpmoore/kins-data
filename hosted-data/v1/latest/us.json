@@ -167,7 +167,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-14T08:39:21Z",
+        "observedAt": "2026-10-15T08:14:15Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -298,19 +298,10 @@
           "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Drake, Don Toliver & Yebba",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/100x100bb.jpg",
-          "id": "6818059600",
-          "rank": 7,
-          "releaseDate": "2026-10-02",
-          "title": "Cold Shoulder",
-          "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600"
-        },
-        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
           "id": "6812477290",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-09-17",
           "title": "Last Thing You Need",
           "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
@@ -319,10 +310,19 @@
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
+          "artist": "Drake, Don Toliver & Yebba",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/100x100bb.jpg",
+          "id": "6818059600",
+          "rank": 9,
+          "releaseDate": "2026-10-02",
+          "title": "Cold Shoulder",
+          "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600"
         },
         {
           "artist": "Taylor Swift",
@@ -337,7 +337,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 14 Oct 2026 08:39:48 +0000",
+        "observedAt": "Thu, 15 Oct 2026 08:14:17 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -480,9 +480,9 @@
       "year": 2025
     }
   },
-  "contentHash": "61694138faf86ac6fb955e4eda8aebc4ec8ed699102517f0e9f70bfc45d532b0",
+  "contentHash": "a85e24984e97ad7b7ebfac3fb2ed816fb0e84554922b36ddb69760a80513f179",
   "country": "US",
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T08:39:21Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T08:14:15Z",
   "schemaVersion": 1
 }

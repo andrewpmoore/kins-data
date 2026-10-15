@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-14T08:39:21Z",
+        "observedAt": "2026-10-15T08:14:15Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -61,95 +61,95 @@
       "year": 2026
     },
     "movies": {
-      "id": "bfi-weekend-box-office-2026-10-04",
+      "id": "bfi-weekend-box-office-2026-10-11",
       "items": [
         {
           "countryOfOrigin": "USA",
-          "distributor": "Sony Pictures",
+          "distributor": "Universal",
           "rank": 1,
-          "title": "Verity",
-          "weekendGross": "£3,396,611",
+          "title": "Other Mommy",
+          "weekendGross": "£1,969,622",
           "weeksOnRelease": "1"
         },
         {
-          "countryOfOrigin": "USA/Germany/France",
+          "countryOfOrigin": "USA",
           "distributor": "Sony Pictures",
           "rank": 2,
-          "title": "Resident Evil",
-          "weekendGross": "£1,337,563",
-          "weeksOnRelease": "3"
+          "title": "Verity",
+          "weekendGross": "£1,936,358",
+          "weeksOnRelease": "2"
         },
         {
           "countryOfOrigin": "USA",
           "distributor": "Paramount",
           "rank": 3,
           "title": "Heart Of The Beast",
-          "weekendGross": "£1,141,551",
-          "weeksOnRelease": "2"
+          "weekendGross": "£815,453",
+          "weeksOnRelease": "3"
+        },
+        {
+          "countryOfOrigin": "USA/Germany/France",
+          "distributor": "Sony Pictures",
+          "rank": 4,
+          "title": "Resident Evil",
+          "weekendGross": "£780,925",
+          "weeksOnRelease": "4"
         },
         {
           "countryOfOrigin": "USA",
-          "distributor": "Warner Bros",
-          "rank": 4,
-          "title": "Digger",
-          "weekendGross": "£1,089,898",
+          "distributor": "Sony Pictures",
+          "rank": 5,
+          "title": "The Social Reckoning",
+          "weekendGross": "£621,262",
           "weeksOnRelease": "1"
         },
         {
           "countryOfOrigin": "UK",
           "distributor": "Universal",
-          "rank": 5,
+          "rank": 6,
           "title": "Sense And Sensibility",
-          "weekendGross": "£975,932",
-          "weeksOnRelease": "2"
+          "weekendGross": "£589,110",
+          "weeksOnRelease": "3"
         },
         {
-          "countryOfOrigin": "UK/USA",
-          "distributor": "Disney",
-          "rank": 6,
-          "title": "Avengers: Endgame Encore",
-          "weekendGross": "£711,353",
-          "weeksOnRelease": "2"
+          "countryOfOrigin": "USA/Hungary/Germany",
+          "distributor": "Entertainment Film Dist.",
+          "rank": 7,
+          "title": "The Uprising",
+          "weekendGross": "£541,444",
+          "weeksOnRelease": "1"
         },
         {
           "countryOfOrigin": "UK",
           "distributor": "StudioCanal",
-          "rank": 7,
-          "title": "Shaun The Sheep: The Beast Of Mossy Bottom",
-          "weekendGross": "£551,356",
-          "weeksOnRelease": "3"
-        },
-        {
-          "countryOfOrigin": "India",
-          "distributor": "Zee Studios",
           "rank": 8,
-          "title": "Drishyam: The Conclusion",
-          "weekendGross": "£471,160",
-          "weeksOnRelease": "1"
+          "title": "Shaun The Sheep: The Beast Of Mossy Bottom",
+          "weekendGross": "£492,146",
+          "weeksOnRelease": "4"
         },
         {
           "countryOfOrigin": "USA",
           "distributor": "Warner Bros",
           "rank": 9,
-          "title": "Practical Magic 2",
-          "weekendGross": "£373,009",
-          "weeksOnRelease": "4"
+          "title": "Digger",
+          "weekendGross": "£489,167",
+          "weeksOnRelease": "2"
         },
         {
-          "countryOfOrigin": "UK/France",
-          "distributor": "StudioCanal",
+          "countryOfOrigin": "UK/USA",
+          "distributor": "Universal",
           "rank": 10,
-          "title": "Pressure",
-          "weekendGross": "£281,358",
-          "weeksOnRelease": "4"
+          "title": "The Odyssey",
+          "weekendGross": "£261,148",
+          "weeksOnRelease": "13"
         }
       ],
-      "reportTitle": "Weekend box office report: 2 to 4 October 2026",
-      "reportURL": "https://core-cms.bfi.org.uk/media/45592/download",
+      "reportTitle": "Weekend box office report: 9 to 11 October 2026",
+      "reportURL": "https://core-cms.bfi.org.uk/media/45655/download",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-14T08:39:21Z",
+        "observedAt": "2026-10-15T08:14:15Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -196,22 +196,22 @@
           "url": "https://music.apple.com/gb/album/man-i-need/6769592103?i=6769592306"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 5,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 6,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "Ashe",
@@ -253,7 +253,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 14 Oct 2026 08:39:47 +0000",
+        "observedAt": "Thu, 15 Oct 2026 08:14:15 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-14T08:39:21Z",
+        "observedAt": "2026-10-15T08:14:15Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "fd507de28515d02505860e595f06c28a14c38ab55bcc475bccce46dc1fdf319f",
+  "contentHash": "0e016e749360c27e219b068a7646d1bfdaf712f1e7da8587817fdbdd5fe6c684",
   "country": "GB",
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T08:39:21Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T08:14:15Z",
   "schemaVersion": 1
 }

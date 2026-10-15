@@ -87,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-14T08:39:21Z",
+        "observedAt": "2026-10-15T08:14:15Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -107,12 +107,60 @@
           "weeksOnRelease": "2"
         },
         {
-          "distributor": "VVS Films",
+          "distributor": "Walt Disney Pictures",
           "rank": 2,
+          "title": "Avengers: Endgame",
+          "url": "https://www.boxofficemojo.com/release/rl2404745473/?ref_=bo_we_table_2",
+          "weekendGross": "$100,408",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "VVS Films",
+          "rank": 3,
           "title": "The Invite",
-          "url": "https://www.boxofficemojo.com/release/rl968851457/?ref_=bo_we_table_2",
+          "url": "https://www.boxofficemojo.com/release/rl968851457/?ref_=bo_we_table_3",
           "weekendGross": "$9,213",
           "weeksOnRelease": "14"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 4,
+          "title": "Don't Look Back in Anger",
+          "url": "https://www.boxofficemojo.com/release/rl2219933953/?ref_=bo_we_table_4",
+          "weekendGross": "$2,731",
+          "weeksOnRelease": "5"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 5,
+          "title": "Toy Story 5",
+          "url": "https://www.boxofficemojo.com/release/rl683114497/?ref_=bo_we_table_5",
+          "weekendGross": "$1,489",
+          "weeksOnRelease": "17"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 6,
+          "title": "Cars",
+          "url": "https://www.boxofficemojo.com/release/rl1229881601/?ref_=bo_we_table_6",
+          "weekendGross": "$437",
+          "weeksOnRelease": "6"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 7,
+          "title": "Moana",
+          "url": "https://www.boxofficemojo.com/release/rl2210365441/?ref_=bo_we_table_7",
+          "weekendGross": "$380",
+          "weeksOnRelease": "14"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 8,
+          "title": "The Devil Wears Prada 2",
+          "url": "https://www.boxofficemojo.com/release/rl1470529537/?ref_=bo_we_table_8",
+          "weekendGross": "$251",
+          "weeksOnRelease": "24"
         }
       ],
       "reportPeriod": "October 8-11, 2026",
@@ -224,7 +272,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 14 Oct 2026 08:39:49 +0000",
+        "observedAt": "Thu, 15 Oct 2026 08:14:45 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -232,9 +280,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "73dfc0f464c2ac7b5e345df9ac0cd9627ff0f3a5bda02e3df75aee341c345a1e",
+  "contentHash": "fbc4488f5221bbb4bfc52457c1281f9cd47ea34c53f95ee991c4e1045a895eed",
   "country": "AU",
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T08:39:21Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T08:14:15Z",
   "schemaVersion": 1
 }

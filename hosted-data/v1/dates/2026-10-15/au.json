@@ -1,0 +1,288 @@
+{
+  "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "aba-buying-group-2026-10-03",
+      "items": [
+        {
+          "creator": "Rebecca Yarros",
+          "rank": 1,
+          "title": "Threshing Day",
+          "url": "https://loveyourbookshop.org.au/bestsellers/threshing-day"
+        },
+        {
+          "creator": "Pip Williams",
+          "rank": 2,
+          "title": "The German Ward",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
+        },
+        {
+          "creator": "Axel Scheffler",
+          "rank": 3,
+          "title": "Gruffalo Granny",
+          "url": "https://loveyourbookshop.org.au/bestsellers/gruffalo-granny"
+        },
+        {
+          "creator": "Chris Hammer",
+          "rank": 4,
+          "title": "Full Circle",
+          "url": "https://loveyourbookshop.org.au/bestsellers/full-circle"
+        },
+        {
+          "creator": "Liane Moriarty",
+          "rank": 5,
+          "title": "Big Little Truths",
+          "url": "https://loveyourbookshop.org.au/bestsellers/big-little-truths"
+        },
+        {
+          "creator": "Michael Robotham",
+          "rank": 6,
+          "title": "Tell Me Something True",
+          "url": "https://loveyourbookshop.org.au/bestsellers/tell-me-something-true"
+        },
+        {
+          "creator": "Elizabeth Strout",
+          "rank": 7,
+          "title": "The Things We Never Say",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
+        },
+        {
+          "creator": "Richard Osman",
+          "rank": 8,
+          "title": "We Chase Shadows",
+          "url": "https://loveyourbookshop.org.au/bestsellers/we-chase-shadows"
+        },
+        {
+          "creator": "Naomi Klein",
+          "rank": 9,
+          "title": "End Times Fascism",
+          "url": "https://loveyourbookshop.org.au/bestsellers/end-times-fascism"
+        },
+        {
+          "creator": "Holly Ringland",
+          "rank": 10,
+          "title": "The World Beneath Her Feet",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-world-beneath-her-feet"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "bestsellers in ABA Buying Group stores",
+        "observedAt": "2026-10-03",
+        "provider": "Australian Booksellers Association / NielsenIQ BookScan",
+        "territory": "AU",
+        "url": "https://loveyourbookshop.org.au/aba-top-10/"
+      },
+      "title": "ABA Buying Group Top 10"
+    },
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-10-15T08:14:15Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "movies": {
+      "id": "box-office-mojo-au-2026-10-11",
+      "items": [
+        {
+          "distributor": "Amazon MGM Studios",
+          "rank": 1,
+          "title": "Verity",
+          "url": "https://www.boxofficemojo.com/release/rl1163297025/?ref_=bo_we_table_1",
+          "weekendGross": "$1,537,516",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 2,
+          "title": "Avengers: Endgame",
+          "url": "https://www.boxofficemojo.com/release/rl2404745473/?ref_=bo_we_table_2",
+          "weekendGross": "$100,408",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "VVS Films",
+          "rank": 3,
+          "title": "The Invite",
+          "url": "https://www.boxofficemojo.com/release/rl968851457/?ref_=bo_we_table_3",
+          "weekendGross": "$9,213",
+          "weeksOnRelease": "14"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 4,
+          "title": "Don't Look Back in Anger",
+          "url": "https://www.boxofficemojo.com/release/rl2219933953/?ref_=bo_we_table_4",
+          "weekendGross": "$2,731",
+          "weeksOnRelease": "5"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 5,
+          "title": "Toy Story 5",
+          "url": "https://www.boxofficemojo.com/release/rl683114497/?ref_=bo_we_table_5",
+          "weekendGross": "$1,489",
+          "weeksOnRelease": "17"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 6,
+          "title": "Cars",
+          "url": "https://www.boxofficemojo.com/release/rl1229881601/?ref_=bo_we_table_6",
+          "weekendGross": "$437",
+          "weeksOnRelease": "6"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 7,
+          "title": "Moana",
+          "url": "https://www.boxofficemojo.com/release/rl2210365441/?ref_=bo_we_table_7",
+          "weekendGross": "$380",
+          "weeksOnRelease": "14"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 8,
+          "title": "The Devil Wears Prada 2",
+          "url": "https://www.boxofficemojo.com/release/rl1470529537/?ref_=bo_we_table_8",
+          "weekendGross": "$251",
+          "weeksOnRelease": "24"
+        }
+      ],
+      "reportPeriod": "October 8-11, 2026",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W41/?area=AU&ref_=bo_wey_table_1",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "country weekend theatrical gross in local currency",
+        "observedAt": "2026-10-11",
+        "provider": "Box Office Mojo",
+        "territory": "AU",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=AU"
+      },
+      "title": "AU weekend theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 1,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/au/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/5b/67/f75b6793-0ab2-61e7-9c5e-a533414d4175/26UMGIM64027.rgb.jpg/100x100bb.jpg",
+          "id": "6769592306",
+          "rank": 2,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/au/album/man-i-need/6769592103?i=6769592306"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 3,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 4,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 5,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 6,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609507",
+          "rank": 7,
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+        },
+        {
+          "artist": "STELLA LEFTY",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
+          "id": "1884403093",
+          "rank": 8,
+          "releaseDate": "2026-03-27",
+          "title": "Boston",
+          "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 9,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/au/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "Alex Warren",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/100x100bb.jpg",
+          "id": "1793663645",
+          "rank": 10,
+          "releaseDate": "2024-09-26",
+          "title": "Ordinary",
+          "url": "https://music.apple.com/au/album/ordinary/1793663382?i=1793663645"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Thu, 15 Oct 2026 08:14:45 +0000",
+        "provider": "Apple Music",
+        "territory": "AU",
+        "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    }
+  },
+  "contentHash": "fbc4488f5221bbb4bfc52457c1281f9cd47ea34c53f95ee991c4e1045a895eed",
+  "country": "AU",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T08:14:15Z",
+  "schemaVersion": 1
+}
