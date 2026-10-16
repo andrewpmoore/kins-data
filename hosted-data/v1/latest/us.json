@@ -167,7 +167,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-15T08:14:15Z",
+        "observedAt": "2026-10-16T08:07:00Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -244,22 +244,22 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Drake & Don Toliver",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-          "id": "6818209989",
-          "rank": 1,
-          "releaseDate": "2026-10-02",
-          "title": "Solar Eclipse",
-          "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Drake & Don Toliver",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209989",
+          "rank": 2,
+          "releaseDate": "2026-10-02",
+          "title": "Solar Eclipse",
+          "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
@@ -299,21 +299,21 @@
         },
         {
           "artist": "Morgan Wallen",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
-          "id": "6812477290",
-          "rank": 7,
-          "releaseDate": "2026-09-17",
-          "title": "Last Thing You Need",
-          "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
-        },
-        {
-          "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+          "id": "6812477290",
+          "rank": 8,
+          "releaseDate": "2026-09-17",
+          "title": "Last Thing You Need",
+          "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
         },
         {
           "artist": "Drake, Don Toliver & Yebba",
@@ -337,7 +337,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 15 Oct 2026 08:14:17 +0000",
+        "observedAt": "Fri, 16 Oct 2026 08:07:28 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -480,9 +480,9 @@
       "year": 2025
     }
   },
-  "contentHash": "a85e24984e97ad7b7ebfac3fb2ed816fb0e84554922b36ddb69760a80513f179",
+  "contentHash": "db33429eea7a9477ca8ba0582bb437480d89d265426738765d2bee1a7839908a",
   "country": "US",
-  "date": "2026-10-15",
-  "generatedAt": "2026-10-15T08:14:15Z",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T08:07:00Z",
   "schemaVersion": 1
 }

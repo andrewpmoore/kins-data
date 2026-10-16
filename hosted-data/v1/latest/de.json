@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-15T08:14:15Z",
+        "observedAt": "2026-10-16T08:07:00Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -96,22 +96,22 @@
           "url": "https://music.apple.com/de/album/mr-brightside/1526194184?i=1526194192"
         },
         {
-          "artist": "Shakira & Burna Boy",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
-          "id": "6768469976",
-          "rank": 4,
-          "releaseDate": "2026-05-14",
-          "title": "Dai Dai",
-          "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884101",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-07-23",
           "title": "Ain't In LA",
           "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
+        },
+        {
+          "artist": "Shakira & Burna Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
+          "id": "6768469976",
+          "rank": 5,
+          "releaseDate": "2026-05-14",
+          "title": "Dai Dai",
+          "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
         },
         {
           "artist": "Sido",
@@ -132,22 +132,22 @@
           "url": "https://music.apple.com/de/album/von-hier-an-blind/723379901?i=723380341"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 8,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/de/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992123",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-05-22",
           "title": "the cure",
           "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 9,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/de/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
@@ -162,7 +162,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 15 Oct 2026 08:15:16 +0000",
+        "observedAt": "Fri, 16 Oct 2026 08:08:03 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-15T08:14:15Z",
+        "observedAt": "2026-10-16T08:07:00Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "f8147150ea0561ea9f17ce376d84b3736af59dd29da9319b66c7b4ba65bc1261",
+  "contentHash": "c6ac6e6eb2e8d3d364e154a31b9d73553d36599b36ac31edda139f3553faf69e",
   "country": "DE",
-  "date": "2026-10-15",
-  "generatedAt": "2026-10-15T08:14:15Z",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T08:07:00Z",
   "schemaVersion": 1
 }

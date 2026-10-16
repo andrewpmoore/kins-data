@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-15T08:14:15Z",
+        "observedAt": "2026-10-16T08:07:00Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -33,10 +33,19 @@
           "url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754"
         },
         {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338561",
+          "rank": 2,
+          "releaseDate": "2026-10-09",
+          "title": "RETRICA",
+          "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
+        },
+        {
           "artist": "Clarent & Quevedo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
           "id": "6816298049",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2025-10-01",
           "title": "Jukiar",
           "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
@@ -45,19 +54,10 @@
           "artist": "Quevedo & Elvis Crespo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
           "id": "1894272112",
-          "rank": 3,
+          "rank": 4,
           "releaseDate": "2026-04-23",
           "title": "LA GRACIOSA",
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
-        },
-        {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338561",
-          "rank": 4,
-          "releaseDate": "2026-10-09",
-          "title": "RETRICA",
-          "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
         },
         {
           "artist": "Lucho RK",
@@ -79,45 +79,45 @@
         },
         {
           "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
-          "id": "6784833437",
-          "rank": 7,
-          "releaseDate": "2026-07-08",
-          "title": "AIRE",
-          "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
-        },
-        {
-          "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338666",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-10-09",
           "title": "SORDO DE UN PIE (interludio)",
           "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
         },
         {
-          "artist": "Maluma & Shakira",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/30/88/51308852-2879-70b1-6028-a5a589a692c9/196874698495.jpg/100x100bb.jpg",
-          "id": "6810372461",
-          "rank": 9,
-          "releaseDate": "2026-09-17",
-          "title": "AGUA",
-          "url": "https://music.apple.com/es/album/agua/6810372456?i=6810372461"
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
+          "id": "6784833437",
+          "rank": 8,
+          "releaseDate": "2026-07-08",
+          "title": "AIRE",
+          "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
         },
         {
           "artist": "Lucho RK & Daniela Garsal",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338668",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-10-08",
           "title": "RESACA EMOCIONAL",
           "url": "https://music.apple.com/es/album/resaca-emocional/6817338538?i=6817338668"
+        },
+        {
+          "artist": "Maluma & Shakira",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/30/88/51308852-2879-70b1-6028-a5a589a692c9/196874698495.jpg/100x100bb.jpg",
+          "id": "6810372461",
+          "rank": 10,
+          "releaseDate": "2026-09-17",
+          "title": "AGUA",
+          "url": "https://music.apple.com/es/album/agua/6810372456?i=6810372461"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 15 Oct 2026 08:15:20 +0000",
+        "observedAt": "Fri, 16 Oct 2026 08:08:03 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-15T08:14:15Z",
+        "observedAt": "2026-10-16T08:07:00Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "7c21675a3c71f8078141483415ca506925b873b81be2ede010c7eda03adbcb4d",
+  "contentHash": "e54106304159694d61fcb586d9a99b6bb25ea02a867d0b033bb065ccd8b9fb42",
   "country": "ES",
-  "date": "2026-10-15",
-  "generatedAt": "2026-10-15T08:14:15Z",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T08:07:00Z",
   "schemaVersion": 1
 }
