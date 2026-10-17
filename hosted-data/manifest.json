@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-16T08:07:00Z",
-  "latestDate": "2026-10-16",
+  "generatedAt": "2026-10-17T07:44:28Z",
+  "latestDate": "2026-10-17",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -121,8 +121,9 @@
       "status": "ok"
     },
     {
+      "detail": "Invalid ZIP archive: File is not a zip file",
       "source": "governmentNames/CA",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "governmentNames/FR",
@@ -151,6 +152,11 @@
     {
       "detail": "latest published annual chart retained until its official replacement",
       "source": "namesFallback/US",
+      "status": "carried"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/CA",
       "status": "carried"
     },
     {
