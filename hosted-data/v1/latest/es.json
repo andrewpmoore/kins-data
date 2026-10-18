@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-17T07:44:28Z",
+        "observedAt": "2026-10-18T07:58:33Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -33,22 +33,22 @@
           "url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754"
         },
         {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338561",
-          "rank": 2,
-          "releaseDate": "2026-10-09",
-          "title": "RETRICA",
-          "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
-        },
-        {
           "artist": "Quevedo & Elvis Crespo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
           "id": "1894272112",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-04-23",
           "title": "LA GRACIOSA",
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338561",
+          "rank": 3,
+          "releaseDate": "2026-10-09",
+          "title": "RETRICA",
+          "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
         },
         {
           "artist": "Clarent & Quevedo",
@@ -62,20 +62,20 @@
         {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338555",
+          "id": "6817338546",
           "rank": 5,
           "releaseDate": "2026-10-09",
-          "title": "SUMISA",
-          "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
+          "title": "CONTIGO",
+          "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
         },
         {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338546",
+          "id": "6817338555",
           "rank": 6,
           "releaseDate": "2026-10-09",
-          "title": "CONTIGO",
-          "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
+          "title": "SUMISA",
+          "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
           "artist": "Lucho RK",
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/es/album/resaca-emocional/6817338538?i=6817338668"
         },
         {
-          "artist": "Maluma & Shakira",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/30/88/51308852-2879-70b1-6028-a5a589a692c9/196874698495.jpg/100x100bb.jpg",
-          "id": "6810372461",
+          "artist": "Aitana",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
+          "id": "1814146675",
           "rank": 10,
-          "releaseDate": "2026-09-17",
-          "title": "AGUA",
-          "url": "https://music.apple.com/es/album/agua/6810372456?i=6810372461"
+          "releaseDate": "2025-05-29",
+          "title": "SUPERESTRELLA",
+          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 17 Oct 2026 07:45:51 +0000",
+        "observedAt": "Sun, 18 Oct 2026 07:59:24 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-17T07:44:28Z",
+        "observedAt": "2026-10-18T07:58:33Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "96eef5f9df57f26ee600257449a4fdc8d3f33a97f7a4794fb0a60e7e98c4c0d6",
+  "contentHash": "57a65a0d616d160c91e012f682f85b44040a7531d0b5e528fa894fe5f0f9ad37",
   "country": "ES",
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T07:44:28Z",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T07:58:33Z",
   "schemaVersion": 1
 }

@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-17T07:44:28Z",
+        "observedAt": "2026-10-18T07:58:33Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -62,11 +62,11 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085384",
+          "id": "6792085376",
           "rank": 5,
-          "releaseDate": "2026-09-30",
-          "title": "Tongue",
-          "url": "https://music.apple.com/ie/album/tongue/6792085051?i=6792085384"
+          "releaseDate": "2026-10-16",
+          "title": "Demolition",
+          "url": "https://music.apple.com/ie/album/demolition/6792085051?i=6792085376"
         },
         {
           "artist": "Fontaines D.C.",
@@ -80,11 +80,11 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085376",
+          "id": "6792085384",
           "rank": 7,
-          "releaseDate": "2026-10-16",
-          "title": "Demolition",
-          "url": "https://music.apple.com/ie/album/demolition/6792085051?i=6792085376"
+          "releaseDate": "2026-09-30",
+          "title": "Tongue",
+          "url": "https://music.apple.com/ie/album/tongue/6792085051?i=6792085384"
         },
         {
           "artist": "Fontaines D.C.",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 17 Oct 2026 07:45:26 +0000",
+        "observedAt": "Sun, 18 Oct 2026 07:59:02 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-17T07:44:28Z",
+        "observedAt": "2026-10-18T07:58:33Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "a0175d416157ccc45d3686aadc1a9a45032dc3bc64e517aa287a129da4a60a70",
+  "contentHash": "63bcf4951ef6d963c3e826488c12cc8aa01e2a034d45881827eb9188ccd7046e",
   "country": "IE",
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T07:44:28Z",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T07:58:33Z",
   "schemaVersion": 1
 }

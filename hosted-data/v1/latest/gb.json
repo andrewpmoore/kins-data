@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-17T07:44:28Z",
+        "observedAt": "2026-10-18T07:58:33Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-17T07:44:28Z",
+        "observedAt": "2026-10-18T07:58:33Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -178,10 +178,19 @@
           "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411"
         },
         {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 3,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774"
+        },
+        {
           "artist": "HUGEL, Imael Angel & Ultra Naté",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
           "id": "6769070199",
-          "rank": 3,
+          "rank": 4,
           "releaseDate": "2026-05-22",
           "title": "Movin' To The Sun",
           "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
@@ -190,7 +199,7 @@
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/5b/67/f75b6793-0ab2-61e7-9c5e-a533414d4175/26UMGIM64027.rgb.jpg/100x100bb.jpg",
           "id": "6769592306",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/gb/album/man-i-need/6769592103?i=6769592306"
@@ -199,7 +208,7 @@
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
@@ -208,19 +217,10 @@
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687"
-        },
-        {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 7,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "Ella Langley",
@@ -232,28 +232,28 @@
           "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085056",
-          "rank": 9,
-          "releaseDate": "2026-08-18",
-          "title": "Marianne",
-          "url": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056"
-        },
-        {
           "artist": "Olivia Rodrigo & Chappell Roan",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/100x100bb.jpg",
           "id": "6822390426",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-10-16",
           "title": "expectations",
           "url": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085056",
+          "rank": 10,
+          "releaseDate": "2026-08-18",
+          "title": "Marianne",
+          "url": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 17 Oct 2026 07:44:30 +0000",
+        "observedAt": "Sun, 18 Oct 2026 07:58:34 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-17T07:44:28Z",
+        "observedAt": "2026-10-18T07:58:33Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "93dd9f4855d08ba2b92452fb1fb3368f0d08db7425323c50cd02752c229b48dd",
+  "contentHash": "bd0ee09085d33ad9a9ad49f2374ef61fa14875197aec60c0add757436c29ee04",
   "country": "GB",
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T07:44:28Z",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T07:58:33Z",
   "schemaVersion": 1
 }

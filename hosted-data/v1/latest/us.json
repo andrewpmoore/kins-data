@@ -166,78 +166,13 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-17T07:44:28Z",
+        "observedAt": "2026-10-18T07:58:33Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
       },
       "title": "D.I.C.E. Awards · Game of the Year",
       "year": 2026
-    },
-    "movies": {
-      "id": "the-numbers-us-2026-10-09",
-      "items": [
-        {
-          "rank": 1,
-          "title": "Other Mommy",
-          "totalGross": "$27,805,825",
-          "url": "https://www.the-numbers.com/movie/Other-Mommy-(2026)",
-          "weekendGross": "$27,805,825"
-        },
-        {
-          "rank": 2,
-          "title": "Verity",
-          "totalGross": "$54,384,610",
-          "url": "https://www.the-numbers.com/movie/Verity-(2026)",
-          "weekendGross": "$12,005,559"
-        },
-        {
-          "rank": 3,
-          "title": "Resident Evil",
-          "totalGross": "$138,738,566",
-          "url": "https://www.the-numbers.com/movie/Resident-Evil-(2026)",
-          "weekendGross": "$8,563,158"
-        },
-        {
-          "rank": 4,
-          "title": "Heart of the Beast",
-          "totalGross": "$50,002,497",
-          "url": "https://www.the-numbers.com/movie/Heart-of-the-Beast-(2026)",
-          "weekendGross": "$7,438,829"
-        },
-        {
-          "rank": 5,
-          "title": "The Social Reckoning",
-          "totalGross": "$5,018,263",
-          "url": "https://www.the-numbers.com/movie/Social-Reckoning-The-(2026)",
-          "weekendGross": "$5,018,263"
-        },
-        {
-          "rank": 6,
-          "title": "Forgotten Island",
-          "totalGross": "$30,475,710",
-          "url": "https://www.the-numbers.com/movie/Forgotten-Island-(2026)",
-          "weekendGross": "$4,703,380"
-        },
-        {
-          "rank": 7,
-          "title": "Primetime",
-          "totalGross": "$41,467,633",
-          "url": "https://www.the-numbers.com/movie/Primetime-(2026)",
-          "weekendGross": "$4,014,003"
-        }
-      ],
-      "reportPeriod": "2026-10-09/2026-10-11",
-      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/09",
-      "source": {
-        "kind": "theatricalBoxOffice",
-        "metric": "US theatrical weekend gross",
-        "observedAt": "2026-10-11",
-        "provider": "The Numbers",
-        "territory": "US",
-        "url": "https://www.the-numbers.com/box-office"
-      },
-      "title": "US weekend theatrical box office"
     },
     "music": {
       "id": "apple-music-most-played",
@@ -247,33 +182,15 @@
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944296",
           "rank": 1,
-          "releaseDate": "2026-10-16",
+          "releaseDate": "2026-10-15",
           "title": "Lies (feat. Lana Del Rey)",
           "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
-        },
-        {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 2,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
-        },
-        {
-          "artist": "Drake & Don Toliver",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-          "id": "6818209989",
-          "rank": 3,
-          "releaseDate": "2026-10-02",
-          "title": "Solar Eclipse",
-          "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
         },
         {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 4,
+          "rank": 2,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
@@ -282,10 +199,28 @@
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 5,
+          "rank": 3,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 4,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Drake & Don Toliver",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209989",
+          "rank": 5,
+          "releaseDate": "2026-10-02",
+          "title": "Solar Eclipse",
+          "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
         },
         {
           "artist": "Zach Bryan",
@@ -336,7 +271,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 17 Oct 2026 07:44:57 +0000",
+        "observedAt": "Sun, 18 Oct 2026 07:58:34 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -479,9 +414,9 @@
       "year": 2025
     }
   },
-  "contentHash": "7689e3fa146510833b83a53f857881f6b63bc561d9ddd25ea8fbb4ff918bae2b",
+  "contentHash": "331ff6c424077cd60707a8abeaa8e297d990e5c779097f40f37eb184a022e8df",
   "country": "US",
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T07:44:28Z",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T07:58:33Z",
   "schemaVersion": 1
 }

@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-17T07:44:28Z",
-  "latestDate": "2026-10-17",
+  "generatedAt": "2026-10-18T07:58:33Z",
+  "latestDate": "2026-10-18",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -88,8 +88,9 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://www.the-numbers.com/box-office-chart/weekend/2026/10/16: HTTP Error 404: Not Found",
       "source": "theatricalBoxOffice/US",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "publicBooks/adultBooks/US",
@@ -121,9 +122,8 @@
       "status": "ok"
     },
     {
-      "detail": "Invalid ZIP archive: File is not a zip file",
       "source": "governmentNames/CA",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "governmentNames/FR",
@@ -152,11 +152,6 @@
     {
       "detail": "latest published annual chart retained until its official replacement",
       "source": "namesFallback/US",
-      "status": "carried"
-    },
-    {
-      "detail": "latest published annual chart retained until its official replacement",
-      "source": "namesFallback/CA",
       "status": "carried"
     },
     {
