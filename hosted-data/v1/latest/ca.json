@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -69,20 +69,11 @@
           "url": "https://music.apple.com/ca/album/robot-killed-the-working-man/6822944288?i=6822944293"
         },
         {
-          "artist": "Zach Bryan",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944298",
-          "rank": 6,
-          "releaseDate": "2026-10-16",
-          "title": "Dog Days",
-          "url": "https://music.apple.com/ca/album/dog-days/6822944288?i=6822944298"
-        },
-        {
           "artist": "Zach Bryan & Turnpike Troubadours",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944302",
-          "rank": 7,
-          "releaseDate": "2026-10-16",
+          "rank": 6,
+          "releaseDate": "2026-10-15",
           "title": "Plainsman (feat. Turnpike Troubadours)",
           "url": "https://music.apple.com/ca/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302"
         },
@@ -90,10 +81,19 @@
           "artist": "Zach Bryan",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944301",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-10-16",
           "title": "Backwards",
           "url": "https://music.apple.com/ca/album/backwards/6822944288?i=6822944301"
+        },
+        {
+          "artist": "Zach Bryan",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944298",
+          "rank": 8,
+          "releaseDate": "2026-10-16",
+          "title": "Dog Days",
+          "url": "https://music.apple.com/ca/album/dog-days/6822944288?i=6822944298"
         },
         {
           "artist": "Zach Bryan",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 18 Oct 2026 07:59:01 +0000",
+        "observedAt": "Mon, 19 Oct 2026 08:47:28 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "ed9078f10b3bc2fbcaf5da0cfafcbf9a8b9409a39415bbdc0e443db7e329edd1",
+  "contentHash": "9f92f9bfd51a00bbb37646b9699e6d277e7b54571788a8c79b88353b4eaaf81f",
   "country": "CA",
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T07:58:33Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T08:47:25Z",
   "schemaVersion": 1
 }

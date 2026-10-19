@@ -1,80 +1,5 @@
 {
   "charts": {
-    "adultBooks": {
-      "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-10-18",
-      "items": [
-        {
-          "category": "NZ Fiction",
-          "isbn13": "9781776951406",
-          "rank": 1,
-          "title": "The Star Path: A Return to the World of The Whale Rider"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9781529937831",
-          "rank": 2,
-          "title": "Our Noble Selves"
-        },
-        {
-          "category": "Fantasy",
-          "isbn13": "9780349450612",
-          "rank": 3,
-          "title": "Threshing Day (Empyrean #3.5) (International Edition)"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9781035081295",
-          "rank": 4,
-          "title": "Exit Party"
-        },
-        {
-          "category": "Children & Young Adult",
-          "isbn13": "9781037408724",
-          "rank": 5,
-          "title": "Gruffalo Granny"
-        },
-        {
-          "category": "NZ Non-fiction",
-          "isbn13": "9781988550916",
-          "rank": 6,
-          "title": "Dirty Work: The Taxpayers' Union and New Zealand's Hard Right"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9780241814307",
-          "rank": 7,
-          "title": "The Things We Never Say"
-        },
-        {
-          "category": "Non-Fiction",
-          "isbn13": "9780241848395",
-          "rank": 8,
-          "title": "End Times Fascism: And the Fight for the Living World"
-        },
-        {
-          "category": "Biography",
-          "isbn13": "9781991006349",
-          "rank": 9,
-          "title": "That Woman"
-        },
-        {
-          "category": "Not a Book",
-          "isbn13": "9781682818084",
-          "rank": 10,
-          "title": "Threshing Day (Empyrean #3.5, novella) (Wing & Claw edition)"
-        }
-      ],
-      "source": {
-        "kind": "publicBookChart",
-        "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-10-18",
-        "provider": "Booksellers Aotearoa / Nielsen BookScan",
-        "territory": "NZ",
-        "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
-      },
-      "title": "Official Nielsen Indie Top 10"
-    },
     "childrensBooks": {
       "audience": "children",
       "id": "booksellers-nz-children-2026-10-15",
@@ -132,7 +57,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -241,12 +166,12 @@
       "items": [
         {
           "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/5b/67/f75b6793-0ab2-61e7-9c5e-a533414d4175/26UMGIM64027.rgb.jpg/100x100bb.jpg",
-          "id": "6769592306",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
           "rank": 1,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
-          "url": "https://music.apple.com/nz/album/man-i-need/6769592103?i=6769592306"
+          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Olivia Dean",
@@ -276,19 +201,37 @@
           "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
         },
         {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 5,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609513",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2025-09-26",
           "title": "Baby Steps",
           "url": "https://music.apple.com/nz/album/baby-steps/1817609404?i=1817609513"
         },
         {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 7,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609407",
-          "rank": 6,
+          "rank": 8,
           "releaseDate": "2025-09-26",
           "title": "Lady Lady",
           "url": "https://music.apple.com/nz/album/lady-lady/1817609404?i=1817609407"
@@ -297,43 +240,25 @@
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609508",
-          "rank": 7,
+          "rank": 9,
           "releaseDate": "2025-09-26",
           "title": "Let Alone The One You Love",
           "url": "https://music.apple.com/nz/album/let-alone-the-one-you-love/1817609404?i=1817609508"
         },
         {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
-          "rank": 8,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
-        },
-        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/8d/bb/268dbb59-4df1-36c3-525e-8d24c921ee25/23UMGIM04594.rgb.jpg/100x100bb.jpg",
           "id": "1676252825",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2023-03-27",
           "title": "Dive",
           "url": "https://music.apple.com/nz/album/dive/1676252821?i=1676252825"
-        },
-        {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 10,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 18 Oct 2026 07:59:03 +0000",
+        "observedAt": "Mon, 19 Oct 2026 08:47:55 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -487,7 +412,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -496,9 +421,9 @@
       "year": 2025
     }
   },
-  "contentHash": "3755a8631e3b0853330e0583bc44ccee9024c194a88a586ececfaea78bab74da",
+  "contentHash": "a12f2abe0cbfa906f15c41f7a6f9bdc60e764418828b57d6508aea18287df2ae",
   "country": "NZ",
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T07:58:33Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T08:47:25Z",
   "schemaVersion": 1
 }

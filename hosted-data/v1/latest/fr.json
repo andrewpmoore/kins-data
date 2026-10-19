@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -60,31 +60,31 @@
           "url": "https://music.apple.com/fr/album/4/6812266078?i=6812266085"
         },
         {
-          "artist": "Ronisia",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/28/f2/fa28f2d2-b1c1-76d5-f993-c580a6717d4f/196874765272.jpg/100x100bb.jpg",
-          "id": "6811941414",
+          "artist": "Niro",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/7f/06/b07f06af-75fc-c65d-3483-ddb81def98f4/196874837887.jpg/100x100bb.jpg",
+          "id": "6817733587",
           "rank": 5,
-          "releaseDate": "2026-10-02",
-          "title": "Cuenta (feat. Meryl & Shay)",
-          "url": "https://music.apple.com/fr/album/cuenta-feat-meryl-shay/6811941413?i=6811941414"
+          "releaseDate": "2026-10-15",
+          "title": "RANIA",
+          "url": "https://music.apple.com/fr/album/rania/6817733585?i=6817733587"
+        },
+        {
+          "artist": "RnBoi",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/a8/8a/10a88a95-8c39-3dfd-e895-c675d8e23e88/5056556187172_cover.jpg/100x100bb.jpg",
+          "id": "6816893848",
+          "rank": 6,
+          "releaseDate": "2026-10-16",
+          "title": "J'assume",
+          "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
         },
         {
           "artist": "L2B",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/9e/2c/b59e2cbb-cf46-f2bd-de0b-a2c7ca6e1f41/26UM1IM29016.rgb.jpg/100x100bb.jpg",
           "id": "6818551658",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2026-10-08",
           "title": "CYBERTESLA",
           "url": "https://music.apple.com/fr/album/cybertesla/6818551657?i=6818551658"
-        },
-        {
-          "artist": "Niro",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/7f/06/b07f06af-75fc-c65d-3483-ddb81def98f4/196874837887.jpg/100x100bb.jpg",
-          "id": "6817733587",
-          "rank": 7,
-          "releaseDate": "2026-10-15",
-          "title": "RANIA",
-          "url": "https://music.apple.com/fr/album/rania/6817733585?i=6817733587"
         },
         {
           "artist": "Theodora",
@@ -96,28 +96,28 @@
           "url": "https://music.apple.com/fr/album/habiba/1548712802?i=1548713020"
         },
         {
+          "artist": "Ronisia",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/28/f2/fa28f2d2-b1c1-76d5-f993-c580a6717d4f/196874765272.jpg/100x100bb.jpg",
+          "id": "6811941414",
+          "rank": 9,
+          "releaseDate": "2026-10-02",
+          "title": "Cuenta (feat. Meryl & Shay)",
+          "url": "https://music.apple.com/fr/album/cuenta-feat-meryl-shay/6811941413?i=6811941414"
+        },
+        {
           "artist": "Timal",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/9c/01/5a9c01ba-cb38-aea7-bc6c-20088e6e4be7/8721555380783.png/100x100bb.jpg",
           "id": "6778036498",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-06-26",
           "title": "Sicario",
           "url": "https://music.apple.com/fr/album/sicario/6778036496?i=6778036498"
-        },
-        {
-          "artist": "RnBoi",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/a8/8a/10a88a95-8c39-3dfd-e895-c675d8e23e88/5056556187172_cover.jpg/100x100bb.jpg",
-          "id": "6816893848",
-          "rank": 10,
-          "releaseDate": "2026-10-16",
-          "title": "J'assume",
-          "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 18 Oct 2026 07:59:24 +0000",
+        "observedAt": "Mon, 19 Oct 2026 08:47:58 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "9834a0a7b42d17249f4331ceb6b11b2a1891d543803be80b50c48c4032e3c840",
+  "contentHash": "a1efb4cf29694a931aae58937fe2661115ecef225a89230e3c4ecc86c27c8e90",
   "country": "FR",
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T07:58:33Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T08:47:25Z",
   "schemaVersion": 1
 }

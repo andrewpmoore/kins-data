@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "publishers-weekly-adult-2026-10-12",
+      "id": "publishers-weekly-adult-2026-10-19",
       "items": [
         {
           "creator": "Freida McFadden",
@@ -70,7 +70,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "Circana BookScan Top 10 Overall",
-        "observedAt": "2026-10-12",
+        "observedAt": "2026-10-19",
         "provider": "Publishers Weekly / Circana BookScan",
         "territory": "US",
         "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
@@ -79,7 +79,7 @@
     },
     "childrensBooks": {
       "audience": "children",
-      "id": "publishers-weekly-children-2026-10-12",
+      "id": "publishers-weekly-children-2026-10-19",
       "items": [
         {
           "creator": "J. K. Rowling, Levi Pinfold",
@@ -147,7 +147,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "Circana BookScan Children's Frontlist Fiction",
-        "observedAt": "2026-10-12",
+        "observedAt": "2026-10-19",
         "provider": "Publishers Weekly / Circana BookScan",
         "territory": "US",
         "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
@@ -166,13 +166,99 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
       },
       "title": "D.I.C.E. Awards · Game of the Year",
       "year": 2026
+    },
+    "movies": {
+      "id": "the-numbers-us-2026-10-16",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Street Fighter",
+          "totalGross": "$31,000,000",
+          "url": "https://www.the-numbers.com/movie/Street-Fighter-(2026)",
+          "weekendGross": "$31,000,000"
+        },
+        {
+          "rank": 2,
+          "title": "You Can See Everything",
+          "totalGross": "$15,000,000",
+          "url": "https://www.the-numbers.com/movie/You-Can-See-Everything-(2026)",
+          "weekendGross": "$15,000,000"
+        },
+        {
+          "rank": 3,
+          "title": "Other Mommy",
+          "totalGross": "$44,854,000",
+          "url": "https://www.the-numbers.com/movie/Other-Mommy-(2026)",
+          "weekendGross": "$8,350,000"
+        },
+        {
+          "rank": 4,
+          "title": "Whalefall",
+          "totalGross": "$8,000,000",
+          "url": "https://www.the-numbers.com/movie/Whalefall-(2026)",
+          "weekendGross": "$8,000,000"
+        },
+        {
+          "rank": 5,
+          "title": "Sense and Sensibility",
+          "totalGross": "$7,250,000",
+          "url": "https://www.the-numbers.com/movie/Sense-and-Sensibility-(2026)",
+          "weekendGross": "$7,250,000"
+        },
+        {
+          "rank": 6,
+          "title": "Verity",
+          "totalGross": "$66,092,000",
+          "url": "https://www.the-numbers.com/movie/Verity-(2026)",
+          "weekendGross": "$6,212,000"
+        },
+        {
+          "rank": 7,
+          "title": "Resident Evil",
+          "totalGross": "$148,458,000",
+          "url": "https://www.the-numbers.com/movie/Resident-Evil-(2026)",
+          "weekendGross": "$5,500,000"
+        },
+        {
+          "rank": 8,
+          "title": "Heart of the Beast",
+          "totalGross": "$58,318,000",
+          "url": "https://www.the-numbers.com/movie/Heart-of-the-Beast-(2026)",
+          "weekendGross": "$4,830,000"
+        },
+        {
+          "rank": 9,
+          "title": "Jailer 2",
+          "totalGross": "$5,270,000",
+          "url": "https://www.the-numbers.com/movie/Jailer-2-(2026-India)",
+          "weekendGross": "$3,270,000"
+        },
+        {
+          "rank": 10,
+          "title": "Forgotten Island",
+          "totalGross": "$35,107,000",
+          "url": "https://www.the-numbers.com/movie/Forgotten-Island-(2026)",
+          "weekendGross": "$2,250,000"
+        }
+      ],
+      "reportPeriod": "2026-10-16/2026-10-18",
+      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/16",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "US theatrical weekend gross",
+        "observedAt": "2026-10-18",
+        "provider": "The Numbers",
+        "territory": "US",
+        "url": "https://www.the-numbers.com/box-office"
+      },
+      "title": "US weekend theatrical box office"
     },
     "music": {
       "id": "apple-music-most-played",
@@ -187,10 +273,19 @@
           "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         },
         {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 2,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+        },
+        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
@@ -199,19 +294,10 @@
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 3,
+          "rank": 4,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
-        },
-        {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 4,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "Drake & Don Toliver",
@@ -271,7 +357,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 18 Oct 2026 07:58:34 +0000",
+        "observedAt": "Mon, 19 Oct 2026 08:47:27 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -414,9 +500,9 @@
       "year": 2025
     }
   },
-  "contentHash": "331ff6c424077cd60707a8abeaa8e297d990e5c779097f40f37eb184a022e8df",
+  "contentHash": "d3be54f75c4a1241db0770658ed06a5bab9dabafa41b63113b2e13168a9adba6",
   "country": "US",
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T07:58:33Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T08:47:25Z",
   "schemaVersion": 1
 }

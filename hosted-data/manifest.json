@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-18T07:58:33Z",
-  "latestDate": "2026-10-18",
+  "generatedAt": "2026-10-19T08:47:25Z",
+  "latestDate": "2026-10-19",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -88,9 +88,8 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://www.the-numbers.com/box-office-chart/weekend/2026/10/16: HTTP Error 404: Not Found",
       "source": "theatricalBoxOffice/US",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "publicBooks/adultBooks/US",
@@ -105,8 +104,9 @@
       "status": "ok"
     },
     {
+      "detail": "BookHub ranking contains no ranked books",
       "source": "publicBooks/adultBooks/NZ",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "publicBooks/childrensBooks/NZ",

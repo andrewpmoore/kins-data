@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -44,20 +44,20 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085054",
+          "id": "6792085060",
           "rank": 3,
           "releaseDate": "2026-10-16",
-          "title": "Six Shot Morning",
-          "url": "https://music.apple.com/ie/album/six-shot-morning/6792085051?i=6792085054"
+          "title": "Mimesis",
+          "url": "https://music.apple.com/ie/album/mimesis/6792085051?i=6792085060"
         },
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085060",
+          "id": "6792085054",
           "rank": 4,
           "releaseDate": "2026-10-16",
-          "title": "Mimesis",
-          "url": "https://music.apple.com/ie/album/mimesis/6792085051?i=6792085060"
+          "title": "Six Shot Morning",
+          "url": "https://music.apple.com/ie/album/six-shot-morning/6792085051?i=6792085054"
         },
         {
           "artist": "Fontaines D.C.",
@@ -71,11 +71,11 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085363",
+          "id": "6792085543",
           "rank": 6,
           "releaseDate": "2026-10-16",
-          "title": "Happy For You",
-          "url": "https://music.apple.com/ie/album/happy-for-you/6792085051?i=6792085363"
+          "title": "Japan",
+          "url": "https://music.apple.com/ie/album/japan/6792085051?i=6792085543"
         },
         {
           "artist": "Fontaines D.C.",
@@ -89,35 +89,35 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085543",
+          "id": "6792085363",
           "rank": 8,
           "releaseDate": "2026-10-16",
-          "title": "Japan",
-          "url": "https://music.apple.com/ie/album/japan/6792085051?i=6792085543"
+          "title": "Happy For You",
+          "url": "https://music.apple.com/ie/album/happy-for-you/6792085051?i=6792085363"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 9,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/ie/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
           "id": "6792085386",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-10-16",
           "title": "One Man",
           "url": "https://music.apple.com/ie/album/one-man/6792085051?i=6792085386"
-        },
-        {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085390",
-          "rank": 10,
-          "releaseDate": "2026-10-16",
-          "title": "You Miss Me",
-          "url": "https://music.apple.com/ie/album/you-miss-me/6792085051?i=6792085390"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 18 Oct 2026 07:59:02 +0000",
+        "observedAt": "Mon, 19 Oct 2026 08:47:54 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "63bcf4951ef6d963c3e826488c12cc8aa01e2a034d45881827eb9188ccd7046e",
+  "contentHash": "34a205b43dce4c2e0c0d88a165f21fb92226c9393d875f0f89044c4168fd2ca2",
   "country": "IE",
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T07:58:33Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T08:47:25Z",
   "schemaVersion": 1
 }

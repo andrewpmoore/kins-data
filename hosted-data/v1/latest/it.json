@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -21,104 +21,104 @@
       "year": 2026
     },
     "movies": {
-      "id": "cinetel-national-week-2026-10-11",
+      "id": "cinetel-national-week-2026-10-18",
       "items": [
         {
-          "admissions": 233340,
+          "admissions": 192978,
+          "countryOfOrigin": "ITA",
+          "distributor": "01 DISTRIBUTION",
+          "rank": 1,
+          "releaseDate": "2026-10-15",
+          "title": "JE SO' PAZZO",
+          "weekendGrossEUR": 1533138.9
+        },
+        {
+          "admissions": 156554,
           "countryOfOrigin": "IRL",
           "distributor": "UNIVERSAL",
-          "rank": 1,
+          "rank": 2,
           "releaseDate": "2026-10-08",
           "title": "MAMMINA (OTHER MOMMY)",
-          "weekendGrossEUR": 1988255.65
+          "weekendGrossEUR": 1302555.96
         },
         {
-          "admissions": 194525,
-          "countryOfOrigin": "GBR",
-          "distributor": "I WONDER PICTURES",
-          "rank": 2,
-          "releaseDate": "2026-09-28",
-          "title": "NAZA",
-          "weekendGrossEUR": 1481204.84
-        },
-        {
-          "admissions": 112034,
+          "admissions": 153812,
           "countryOfOrigin": "COP",
           "distributor": "01 DISTRIBUTION",
           "rank": 3,
           "releaseDate": "2026-10-08",
           "title": "L'ESTRANEA",
-          "weekendGrossEUR": 805405.76
+          "weekendGrossEUR": 1107439.62
         },
         {
-          "admissions": 97936,
+          "admissions": 79374,
+          "countryOfOrigin": "GBR",
+          "distributor": "I WONDER PICTURES",
+          "rank": 4,
+          "releaseDate": "2026-09-28",
+          "title": "NAZA",
+          "weekendGrossEUR": 584872.95
+        },
+        {
+          "admissions": 59997,
+          "countryOfOrigin": "USA",
+          "distributor": "I WONDER PICTURES",
+          "rank": 5,
+          "releaseDate": "2026-10-15",
+          "title": "PRIMETIME",
+          "weekendGrossEUR": 450647.39
+        },
+        {
+          "admissions": 53313,
           "countryOfOrigin": "USA",
           "distributor": "EAGLE PICTURES",
-          "rank": 4,
+          "rank": 6,
           "releaseDate": "2026-09-24",
           "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
-          "weekendGrossEUR": 777631.33
+          "weekendGrossEUR": 423668.32
         },
         {
-          "admissions": 97056,
-          "countryOfOrigin": "USA",
-          "distributor": "EAGLE PICTURES",
-          "rank": 5,
-          "releaseDate": "2026-10-01",
-          "title": "VERITY",
-          "weekendGrossEUR": 747929.88
-        },
-        {
-          "admissions": 81217,
-          "countryOfOrigin": "GBR",
-          "distributor": "WARNER BROS. ITALIA",
-          "rank": 6,
-          "releaseDate": "2026-10-01",
-          "title": "DIGGER",
-          "weekendGrossEUR": 595030.27
-        },
-        {
-          "admissions": 34280,
+          "admissions": 46081,
           "countryOfOrigin": "USA",
           "distributor": "EAGLE PICTURES",
           "rank": 7,
-          "releaseDate": "2026-09-17",
-          "title": "RESIDENT EVIL",
-          "weekendGrossEUR": 282468.0
+          "releaseDate": "2026-10-15",
+          "title": "STREET FIGHTER",
+          "weekendGrossEUR": 387249.06
         },
         {
-          "admissions": 16038,
-          "countryOfOrigin": "USA",
-          "distributor": "NEXO DIGITAL S.R.L.",
-          "rank": 8,
-          "releaseDate": "2026-10-07",
-          "title": "QUEEN BUDAPEST",
-          "weekendGrossEUR": 246269.2
-        },
-        {
-          "admissions": 24941,
+          "admissions": 46451,
           "countryOfOrigin": "USA",
           "distributor": "WALT DISNEY S.M.P. ITALIA",
-          "rank": 9,
-          "releaseDate": "2026-09-24",
-          "title": "AVENGERS: ENDGAME EXTRA",
-          "weekendGrossEUR": 220076.87
+          "rank": 8,
+          "releaseDate": "2026-10-15",
+          "title": "WHALEFALL: NELLA BALENA",
+          "weekendGrossEUR": 373851.44
         },
         {
-          "admissions": 26320,
+          "admissions": 41254,
+          "countryOfOrigin": "ITA",
+          "distributor": "NEXO DIGITAL S.R.L.",
+          "rank": 9,
+          "releaseDate": "2026-10-15",
+          "title": "CARLO ACUTIS. IL GIOVANE SANTO",
+          "weekendGrossEUR": 370015.45
+        },
+        {
+          "admissions": 42987,
           "countryOfOrigin": "USA",
           "distributor": "EAGLE PICTURES",
           "rank": 10,
-          "releaseDate": "2026-10-08",
-          "title": "THE SOCIAL -IL PREZZO DELLA VERITA' (THE SOCIAL RECKONING)",
-          "weekendGrossEUR": 195149.75
+          "releaseDate": "2026-10-01",
+          "title": "VERITY",
+          "weekendGrossEUR": 328472.92
         }
       ],
-      "reportPeriod": "2026-10-05/2026-10-11",
+      "reportPeriod": "2026-10-12/2026-10-18",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "national weekly theatrical gross in euros",
-        "observedAt": "2026-10-11",
+        "observedAt": "2026-10-18",
         "provider": "Cinetel",
         "territory": "IT",
         "url": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D"
@@ -148,39 +148,39 @@
         },
         {
           "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/52/60/c0526017-fa74-d476-a434-ec1465d5be70/1200220201730.jpg/100x100bb.jpg",
-          "id": "6815719363",
-          "rank": 3,
-          "releaseDate": "2026-01-16",
-          "title": "WINNER",
-          "url": "https://music.apple.com/it/album/winner/6815719361?i=6815719363"
-        },
-        {
-          "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
           "id": "6807790374",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-09-11",
           "title": "PER NOI (feat. Achille Lauro)",
           "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
         },
         {
           "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
-          "id": "6820922794",
-          "rank": 5,
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/52/60/c0526017-fa74-d476-a434-ec1465d5be70/1200220201730.jpg/100x100bb.jpg",
+          "id": "6815719363",
+          "rank": 4,
           "releaseDate": "2026-01-16",
-          "title": "LEGGENDA",
-          "url": "https://music.apple.com/it/album/leggenda/6820922785?i=6820922794"
+          "title": "WINNER",
+          "url": "https://music.apple.com/it/album/winner/6815719361?i=6815719363"
         },
         {
           "artist": "Sfera Ebbasta",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c0/d3/94c0d342-d77e-7cb4-d03d-a1ef144f660c/26UM1IM21073.rgb.jpg/100x100bb.jpg",
           "id": "6813811430",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-09-20",
           "title": "Lontano",
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
+          "id": "6820922794",
+          "rank": 6,
+          "releaseDate": "2026-01-16",
+          "title": "LEGGENDA",
+          "url": "https://music.apple.com/it/album/leggenda/6820922785?i=6820922794"
         },
         {
           "artist": "Geolier",
@@ -192,37 +192,37 @@
           "url": "https://music.apple.com/it/album/rione-di-domenica/6820922785?i=6820923137"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
-          "id": "6820922787",
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
           "rank": 8,
-          "releaseDate": "2026-01-16",
-          "title": "PER EMANUELE",
-          "url": "https://music.apple.com/it/album/per-emanuele/6820922785?i=6820922787"
-        },
-        {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/96/ac/c996ac3f-6e67-3e21-5f1c-b809e6a69d09/1200214247201.jpg/100x100bb.jpg",
-          "id": "6774189282",
-          "rank": 9,
-          "releaseDate": "2026-01-16",
-          "title": "AUTORITÀ",
-          "url": "https://music.apple.com/it/album/autorit%C3%A0/6774189281?i=6774189282"
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
         },
         {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451640",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-01-16",
           "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
           "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451990",
+          "rank": 10,
+          "releaseDate": "2026-01-16",
+          "title": "CANZONE D'AMORE",
+          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 18 Oct 2026 07:59:53 +0000",
+        "observedAt": "Mon, 19 Oct 2026 08:48:00 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-18T07:58:33Z",
+        "observedAt": "2026-10-19T08:47:25Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2024
     }
   },
-  "contentHash": "2f3b48dc7764210efcd3b845f474a0de4c437a879a7b99706cd8cb902dcc008f",
+  "contentHash": "a310578bc50418982457956e696248e042204dc9ef383861068074f04d4667b6",
   "country": "IT",
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T07:58:33Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T08:47:25Z",
   "schemaVersion": 1
 }
