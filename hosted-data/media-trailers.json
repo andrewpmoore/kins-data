@@ -1,0 +1,666 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-19T10:50:32Z",
+  "targets": [
+    {
+      "kind": "games",
+      "title": "Astro Bot",
+      "chartYear": 2025
+    },
+    {
+      "kind": "games",
+      "title": "Clair Obscur: Expedition 33",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "AMORI & INCANTESIMI 2 (PRACTICAL MAGIC 2)",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Angel and the Badman",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Avengers Endgame: Encore",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Avengers: Endgame",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Avengers: Endgame Encore",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "AVENGERS: ENDGAME EXTRA",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Bad Apples",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Buddy",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "CARLO ACUTIS. IL GIOVANE SANTO",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Cars",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "CARS: MOTORI RUGGENTI - 20 ANNI",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "COYOTE VS ACME",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Coyote vs. Acme",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Daniel and the Fiery Furnace",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Die Odyssee",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Digger",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "DIGGER",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Don't Look Back in Anger",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Drishyam: The Conclusion",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Forgotten Island",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Hanuman Ansh",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Heart Of The Beast",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Heart of the Beast",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Hope",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Insidious: Out Of The Further",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Insidious: Out of the Further",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Jailer 2",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "JE SO' PAZZO",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "L'ESTRANEA",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "L'ISOLA DEI RICORDI (FORGOTTEN ISLAND)",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "MAMMINA (OTHER MOMMY)",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Minions & Monsters",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Moana",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "NAZA",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "NESSUN DOLORE",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Oasis: Don’t Look Back In Anger",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "OCEANIA (MOANA)",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "ODISSEA",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "One Night Only",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Other Mommy",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "PAW PATROL : MISSIONE DINOSAURI",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "PAW Patrol: Der Dino Film",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "PAW Patrol: The Dino Movie",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Practical Magic 2",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Pressure",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Primetime",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "PRIMETIME",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "QUEEN BUDAPEST",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Resident Evil",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "RESIDENT EVIL",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Runner",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Sense And Sensibility",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Sense and Sensibility",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "SERPENTI",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Shaun The Sheep: The Beast Of Mossy Bottom",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Spider-Man: Brand New Day",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "SPIDER-MAN: BRAND NEW DAY",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Steckerlfischfiasko",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "STREET FIGHTER",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Street Fighter",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "THE BIBI FILES",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Devil Wears Prada 2",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Dog Stars",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Invite",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "THE INVITE – IL PIACERE È TUTTO NOSTRO",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Odyssey",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "THE SOCIAL -IL PREZZO DELLA VERITA' (THE SOCIAL RECKONING)",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Social Reckoning",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Songs of John Farnham: A Living Legend - The Celebration Concert",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Transformers: The Movie",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Uprising",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Weight",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Toy Story 5",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Transformers 40th Anniversary",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "ULTIMO - TUTTO. LIVE A TOR VERGATA",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Verity",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "VERITY",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Whalefall",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "WHALEFALL: NELLA BALENA",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "You Can See Everything",
+      "chartYear": 2026
+    }
+  ],
+  "coverage": {
+    "startYear": 2017,
+    "endYear": 2026,
+    "targetCount": 84,
+    "recordCount": 23,
+    "matchedTrailerCount": 21
+  },
+  "source": "Wikidata (CC0), YouTube Data API, and manual curation",
+  "attribution": "Wikidata contributors; YouTube data refreshed weekly",
+  "youtubeSearchCursor": null,
+  "records": [
+    {
+      "kind": "games",
+      "title": "Astro Bot",
+      "chartYear": 2025,
+      "releaseYear": null,
+      "trailerURL": null,
+      "titleSourceURL": "https://www.interactive.org/awards/award_category_details.asp?idAward=2025&idGameAwardType=65",
+      "wikidataSources": []
+    },
+    {
+      "kind": "games",
+      "title": "Clair Obscur: Expedition 33",
+      "chartYear": 2026,
+      "releaseYear": null,
+      "trailerURL": null,
+      "titleSourceURL": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65",
+      "wikidataSources": []
+    },
+    {
+      "kind": "movies",
+      "title": "Digger",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=qORTe1wW3Wg",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q129677718"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Forgotten Island",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=a8RHqN93qfo",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q138335503"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Heart of the Beast",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q131900904"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Insidious: Out of the Further",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=jxU8FU3o75A",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q136311783"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Minions & Monsters",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q127605787"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "NAZA",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=YIBRLEEaueo",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q141168534"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "One Night Only",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=JRG244IfrRE",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q135906833"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Other Mommy",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=bEpTgowZ1dI",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q134588273"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Pressure",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=nDGEWgzcxJ4",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q127698549"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Primetime",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q133273688"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Sense and Sensibility",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=mcrwcvad84U",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q135436961"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Street Fighter",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=Xt4X4FvXk2A",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q130345436"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "The Devil Wears Prada 2",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=e9HXmMnUEdE",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q134611972"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "The Dog Stars",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=cmzVY1goqwQ",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q132256832"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "The Invite",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=OJ19I9q_hOQ",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q134083296"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "The Odyssey",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q131547207"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "The Social Reckoning",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=BcgCuIzxmBc",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q136387857"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "The Uprising",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=ZVkrhHebz1Q",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q135103999"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Toy Story 5",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q113641997"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Verity",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=nKvxXpIv53g",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q131523413"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "You Can See Everything",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=HvW_N5p1q44",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q141336617"
+      ]
+    }
+  ]
+}
