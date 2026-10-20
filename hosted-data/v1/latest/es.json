@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-19T08:47:25Z",
+        "observedAt": "2026-10-20T08:28:09Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -42,19 +42,10 @@
           "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
         },
         {
-          "artist": "Quevedo & Elvis Crespo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
-          "id": "1894272112",
-          "rank": 3,
-          "releaseDate": "2026-04-23",
-          "title": "LA GRACIOSA",
-          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338546",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-10-09",
           "title": "CONTIGO",
           "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
@@ -63,28 +54,37 @@
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338555",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-10-09",
           "title": "SUMISA",
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
-          "artist": "Clarent & Quevedo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
-          "id": "6816298049",
-          "rank": 6,
-          "releaseDate": "2025-10-01",
-          "title": "Jukiar",
-          "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
+          "artist": "Quevedo & Elvis Crespo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
+          "id": "1894272112",
+          "rank": 5,
+          "releaseDate": "2026-04-23",
+          "title": "LA GRACIOSA",
+          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338666",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-09",
           "title": "SORDO DE UN PIE (interludio)",
           "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
+        },
+        {
+          "artist": "Clarent & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
+          "id": "6816298049",
+          "rank": 7,
+          "releaseDate": "2025-10-01",
+          "title": "Jukiar",
+          "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
         },
         {
           "artist": "Lucho RK",
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/es/album/resaca-emocional/6817338538?i=6817338668"
         },
         {
-          "artist": "Aitana",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
-          "id": "1814146675",
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338565",
           "rank": 10,
-          "releaseDate": "2025-05-29",
-          "title": "SUPERESTRELLA",
-          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
+          "releaseDate": "2026-10-09",
+          "title": "TOCO TOCA",
+          "url": "https://music.apple.com/es/album/toco-toca/6817338538?i=6817338565"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 19 Oct 2026 08:47:59 +0000",
+        "observedAt": "Tue, 20 Oct 2026 08:29:09 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-19T08:47:25Z",
+        "observedAt": "2026-10-20T08:28:09Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "ca3c378bad03ef74ddbea99db44791a5c7127b5b38b820fda064ca4dd39a2dff",
+  "contentHash": "d54fa43cb15f3e7084664ebca3064a90916afa966a98ac01c4ef191318e146c9",
   "country": "ES",
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-19T08:47:25Z",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T08:28:09Z",
   "schemaVersion": 1
 }
