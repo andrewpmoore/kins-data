@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -196,22 +196,22 @@
           "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 5,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 6,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Zach Bryan & Lana Del Rey",
@@ -241,19 +241,19 @@
           "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Olivia Rodrigo & Chappell Roan",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/100x100bb.jpg",
-          "id": "6822390426",
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
+          "id": "6779097534",
           "rank": 10,
-          "releaseDate": "2026-10-16",
-          "title": "expectations",
-          "url": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426"
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/gb/album/stupid-song/6779097512?i=6779097534"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 20 Oct 2026 08:28:11 +0000",
+        "observedAt": "Wed, 21 Oct 2026 08:30:33 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "fd7d4a2d51951a6f969ee25f824f12d6aea03e31c861ed8170c118a83414fe72",
+  "contentHash": "1fc977bca9198986d111fa9bc02d08bba46a6ce3bf695b56921f13e99946106e",
   "country": "GB",
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T08:28:09Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:30:31Z",
   "schemaVersion": 1
 }

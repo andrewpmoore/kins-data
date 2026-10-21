@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -69,55 +69,55 @@
           "url": "https://music.apple.com/ca/album/robot-killed-the-working-man/6822944288?i=6822944293"
         },
         {
-          "artist": "Zach Bryan & Turnpike Troubadours",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944302",
-          "rank": 6,
-          "releaseDate": "2026-10-15",
-          "title": "Plainsman (feat. Turnpike Troubadours)",
-          "url": "https://music.apple.com/ca/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302"
-        },
-        {
-          "artist": "Zach Bryan",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944301",
-          "rank": 7,
-          "releaseDate": "2026-10-16",
-          "title": "Backwards",
-          "url": "https://music.apple.com/ca/album/backwards/6822944288?i=6822944301"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
           "id": "6807192825",
-          "rank": 8,
+          "rank": 6,
           "releaseDate": "2026-09-03",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/ca/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Zach Bryan",
+          "artist": "Zach Bryan & Turnpike Troubadours",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944428",
-          "rank": 9,
-          "releaseDate": "2026-10-16",
-          "title": "You'll Get By",
-          "url": "https://music.apple.com/ca/album/youll-get-by/6822944288?i=6822944428"
+          "id": "6822944302",
+          "rank": 7,
+          "releaseDate": "2026-10-15",
+          "title": "Plainsman (feat. Turnpike Troubadours)",
+          "url": "https://music.apple.com/ca/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+          "id": "6792676860",
+          "rank": 8,
+          "releaseDate": "2026-07-24",
+          "title": "Been By Now",
+          "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
         },
         {
           "artist": "Zach Bryan",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944298",
-          "rank": 10,
+          "id": "6822944301",
+          "rank": 9,
           "releaseDate": "2026-10-16",
-          "title": "Dog Days",
-          "url": "https://music.apple.com/ca/album/dog-days/6822944288?i=6822944298"
+          "title": "Backwards",
+          "url": "https://music.apple.com/ca/album/backwards/6822944288?i=6822944301"
+        },
+        {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
+          "rank": 10,
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/ca/album/janice-stfu/6769568449?i=6769568596"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 20 Oct 2026 08:28:13 +0000",
+        "observedAt": "Wed, 21 Oct 2026 08:30:34 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "afd6960c3c3f23ee6cc7b5d88370e9f5ea0d0b78636fb872711465b7a6597f13",
+  "contentHash": "bf522f0b7136248bccd2898844d9e5000a4815759c4ea0bfa89124f242fe04aa",
   "country": "CA",
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T08:28:09Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:30:31Z",
   "schemaVersion": 1
 }

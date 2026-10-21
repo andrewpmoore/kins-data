@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -24,40 +24,40 @@
       "id": "cinetel-national-week-2026-10-18",
       "items": [
         {
-          "admissions": 193426,
+          "admissions": 193290,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
           "rank": 1,
           "releaseDate": "2026-10-15",
           "title": "JE SO' PAZZO",
-          "weekendGrossEUR": 1536198.9
+          "weekendGrossEUR": 1535128.9
         },
         {
-          "admissions": 156871,
+          "admissions": 156869,
           "countryOfOrigin": "IRL",
           "distributor": "UNIVERSAL",
           "rank": 2,
           "releaseDate": "2026-10-08",
           "title": "MAMMINA (OTHER MOMMY)",
-          "weekendGrossEUR": 1304872.46
+          "weekendGrossEUR": 1304856.46
         },
         {
-          "admissions": 153986,
+          "admissions": 153991,
           "countryOfOrigin": "COP",
           "distributor": "01 DISTRIBUTION",
           "rank": 3,
           "releaseDate": "2026-10-08",
           "title": "L'ESTRANEA",
-          "weekendGrossEUR": 1108623.12
+          "weekendGrossEUR": 1108647.12
         },
         {
-          "admissions": 79632,
+          "admissions": 79637,
           "countryOfOrigin": "GBR",
           "distributor": "I WONDER PICTURES",
           "rank": 4,
           "releaseDate": "2026-09-28",
           "title": "NAZA",
-          "weekendGrossEUR": 586420.95
+          "weekendGrossEUR": 586451.95
         },
         {
           "admissions": 59997,
@@ -151,7 +151,7 @@
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
           "id": "6807790374",
           "rank": 3,
-          "releaseDate": "2026-09-11",
+          "releaseDate": "2026-01-16",
           "title": "PER NOI (feat. Achille Lauro)",
           "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
         },
@@ -193,18 +193,9 @@
         },
         {
           "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
-          "id": "6820923137",
-          "rank": 8,
-          "releaseDate": "2026-01-16",
-          "title": "RIONE DI DOMENICA",
-          "url": "https://music.apple.com/it/album/rione-di-domenica/6820922785?i=6820923137"
-        },
-        {
-          "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451990",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-01-16",
           "title": "CANZONE D'AMORE",
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
@@ -213,16 +204,25 @@
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451640",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-01-16",
           "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
           "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
+          "id": "6820923137",
+          "rank": 10,
+          "releaseDate": "2026-01-16",
+          "title": "RIONE DI DOMENICA",
+          "url": "https://music.apple.com/it/album/rione-di-domenica/6820922785?i=6820923137"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 20 Oct 2026 08:29:10 +0000",
+        "observedAt": "Wed, 21 Oct 2026 08:31:59 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2024
     }
   },
-  "contentHash": "1b214d603701c2bd0482825fae642f18a508fd5964380c5c88e324ec98439be6",
+  "contentHash": "4ac3f15823bed41041589c3011643d2088aa5e09b310b0a7691170803c15b8eb",
   "country": "IT",
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T08:28:09Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:30:31Z",
   "schemaVersion": 1
 }

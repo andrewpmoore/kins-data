@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -60,22 +60,22 @@
           "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
         },
         {
-          "artist": "Niro",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/7f/06/b07f06af-75fc-c65d-3483-ddb81def98f4/196874837887.jpg/100x100bb.jpg",
-          "id": "6817733587",
-          "rank": 5,
-          "releaseDate": "2026-10-15",
-          "title": "RANIA",
-          "url": "https://music.apple.com/fr/album/rania/6817733585?i=6817733587"
-        },
-        {
           "artist": "Mauvais Djo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/7a/dd/987add4e-71b9-6911-db56-6fabdde97e92/26UM1IM08423.rgb.jpg/100x100bb.jpg",
           "id": "6812266085",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-09-18",
           "title": "4",
           "url": "https://music.apple.com/fr/album/4/6812266078?i=6812266085"
+        },
+        {
+          "artist": "Niro",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/7f/06/b07f06af-75fc-c65d-3483-ddb81def98f4/196874837887.jpg/100x100bb.jpg",
+          "id": "6817733587",
+          "rank": 6,
+          "releaseDate": "2026-10-15",
+          "title": "RANIA",
+          "url": "https://music.apple.com/fr/album/rania/6817733585?i=6817733587"
         },
         {
           "artist": "Theodora",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 20 Oct 2026 08:29:09 +0000",
+        "observedAt": "Wed, 21 Oct 2026 08:31:30 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "c58d521df04aa8101ed87de5ff6e4e5bced5fb29d600418cf4115df0a5ad7f8b",
+  "contentHash": "c65a3864ff63b6ff9dd3e9da7f06c531fdab7eed3d954f9202ff9d588848b226",
   "country": "FR",
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T08:28:09Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:30:31Z",
   "schemaVersion": 1
 }

@@ -87,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -181,22 +181,22 @@
           "url": "https://music.apple.com/au/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 3,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
           "id": "6807192825",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-09-03",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/au/album/nicole-kidman/6807192580?i=6807192825"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 4,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Taylor Swift",
@@ -256,7 +256,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 20 Oct 2026 08:28:14 +0000",
+        "observedAt": "Wed, 21 Oct 2026 08:30:35 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -264,9 +264,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "4f7081007d38152313de602bb87a14683439411c29140ebfe72eda093620e93e",
+  "contentHash": "ef242efaf4cbe23b922806fe5489301630899b75aa61933ebed6a62a1678f84a",
   "country": "AU",
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T08:28:09Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:30:31Z",
   "schemaVersion": 1
 }

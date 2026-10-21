@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -33,10 +33,19 @@
           "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
         },
         {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 2,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/ie/album/housewife/6822497770?i=6822497774"
+        },
+        {
           "artist": "Fontaines D.C. & ROSALÍA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
           "id": "6792085388",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2026-10-12",
           "title": "Where Is Gone?",
           "url": "https://music.apple.com/ie/album/where-is-gone/6792085051?i=6792085388"
@@ -44,29 +53,20 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085060",
-          "rank": 3,
-          "releaseDate": "2026-10-16",
-          "title": "Mimesis",
-          "url": "https://music.apple.com/ie/album/mimesis/6792085051?i=6792085060"
-        },
-        {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
+          "id": "6792085543",
           "rank": 4,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/ie/album/housewife/6822497770?i=6822497774"
+          "releaseDate": "2026-10-16",
+          "title": "Japan",
+          "url": "https://music.apple.com/ie/album/japan/6792085051?i=6792085543"
         },
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085543",
+          "id": "6792085060",
           "rank": 5,
           "releaseDate": "2026-10-16",
-          "title": "Japan",
-          "url": "https://music.apple.com/ie/album/japan/6792085051?i=6792085543"
+          "title": "Mimesis",
+          "url": "https://music.apple.com/ie/album/mimesis/6792085051?i=6792085060"
         },
         {
           "artist": "Fontaines D.C.",
@@ -96,28 +96,28 @@
           "url": "https://music.apple.com/ie/album/happy-for-you/6792085051?i=6792085363"
         },
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085384",
-          "rank": 9,
-          "releaseDate": "2026-09-30",
-          "title": "Tongue",
-          "url": "https://music.apple.com/ie/album/tongue/6792085051?i=6792085384"
-        },
-        {
           "artist": "Zach Bryan & Lana Del Rey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944296",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-10-15",
           "title": "Lies (feat. Lana Del Rey)",
           "url": "https://music.apple.com/ie/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085384",
+          "rank": 10,
+          "releaseDate": "2026-09-30",
+          "title": "Tongue",
+          "url": "https://music.apple.com/ie/album/tongue/6792085051?i=6792085384"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 20 Oct 2026 08:28:41 +0000",
+        "observedAt": "Wed, 21 Oct 2026 08:30:36 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "3f7425c67feed63e189981eec5e84ceef9f9e063214e02f70599e49c11de2dca",
+  "contentHash": "61e5d13c30f597cab3bba1c3bddac280d86b6f704181aef3a46a78426cee59ee",
   "country": "IE",
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T08:28:09Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:30:31Z",
   "schemaVersion": 1
 }

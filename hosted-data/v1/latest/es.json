@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -60,22 +60,22 @@
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
-          "artist": "Quevedo & Elvis Crespo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
-          "id": "1894272112",
-          "rank": 5,
-          "releaseDate": "2026-04-23",
-          "title": "LA GRACIOSA",
-          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338666",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-10-09",
           "title": "SORDO DE UN PIE (interludio)",
           "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
+        },
+        {
+          "artist": "Quevedo & Elvis Crespo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
+          "id": "1894272112",
+          "rank": 6,
+          "releaseDate": "2026-04-23",
+          "title": "LA GRACIOSA",
+          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
           "artist": "Clarent & Quevedo",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 20 Oct 2026 08:29:09 +0000",
+        "observedAt": "Wed, 21 Oct 2026 08:31:57 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "d54fa43cb15f3e7084664ebca3064a90916afa966a98ac01c4ef191318e146c9",
+  "contentHash": "66faa50b19cf35c326cf944273d914fef87ec7c2bb488b56240debaf490184c0",
   "country": "ES",
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T08:28:09Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:30:31Z",
   "schemaVersion": 1
 }

@@ -166,7 +166,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-20T08:28:09Z",
+        "observedAt": "2026-10-21T08:30:31Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -309,22 +309,22 @@
           "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
         },
         {
-          "artist": "Zach Bryan",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944289",
-          "rank": 6,
-          "releaseDate": "2026-10-16",
-          "title": "Lodi When",
-          "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
           "id": "6807192825",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-09-03",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825"
+        },
+        {
+          "artist": "Zach Bryan",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944289",
+          "rank": 7,
+          "releaseDate": "2026-10-16",
+          "title": "Lodi When",
+          "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
         },
         {
           "artist": "Drake",
@@ -357,7 +357,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 20 Oct 2026 08:28:12 +0000",
+        "observedAt": "Wed, 21 Oct 2026 08:30:33 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -500,9 +500,9 @@
       "year": 2025
     }
   },
-  "contentHash": "7fe86befc9868f6e87cbd651abc5cad43b71d3c50c74f0b6cfde6914cec3f3b8",
+  "contentHash": "d2141274df74b58ed92c65178b99b4e851c7b6a06657bb6a3a5231e5c33f5615",
   "country": "US",
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T08:28:09Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:30:31Z",
   "schemaVersion": 1
 }
