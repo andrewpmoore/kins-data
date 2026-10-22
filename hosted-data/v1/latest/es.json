@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-21T08:30:31Z",
+        "observedAt": "2026-10-22T08:33:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -60,40 +60,40 @@
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338666",
-          "rank": 5,
-          "releaseDate": "2026-10-09",
-          "title": "SORDO DE UN PIE (interludio)",
-          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
-        },
-        {
           "artist": "Quevedo & Elvis Crespo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
           "id": "1894272112",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-04-23",
           "title": "LA GRACIOSA",
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
-          "artist": "Clarent & Quevedo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
-          "id": "6816298049",
-          "rank": 7,
-          "releaseDate": "2025-10-01",
-          "title": "Jukiar",
-          "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338666",
+          "rank": 6,
+          "releaseDate": "2026-10-09",
+          "title": "SORDO DE UN PIE (interludio)",
+          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
         },
         {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
           "id": "6784833437",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-07-08",
           "title": "AIRE",
           "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
+        },
+        {
+          "artist": "Clarent & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
+          "id": "6816298049",
+          "rank": 8,
+          "releaseDate": "2025-10-01",
+          "title": "Jukiar",
+          "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
         },
         {
           "artist": "Lucho RK & Daniela Garsal",
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/es/album/resaca-emocional/6817338538?i=6817338668"
         },
         {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338565",
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
           "rank": 10,
-          "releaseDate": "2026-10-09",
-          "title": "TOCO TOCA",
-          "url": "https://music.apple.com/es/album/toco-toca/6817338538?i=6817338565"
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/es/album/housewife/6822497770?i=6822497774"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 21 Oct 2026 08:31:57 +0000",
+        "observedAt": "Thu, 22 Oct 2026 08:34:03 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-21T08:30:31Z",
+        "observedAt": "2026-10-22T08:33:01Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "66faa50b19cf35c326cf944273d914fef87ec7c2bb488b56240debaf490184c0",
+  "contentHash": "11e2e51c49c679cec9340e3c9df8fffc62b4f628f0dc91c98b65cb4954f9d7ca",
   "country": "ES",
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T08:30:31Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T08:33:01Z",
   "schemaVersion": 1
 }

@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-21T08:30:31Z",
+        "observedAt": "2026-10-22T08:33:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -78,46 +78,46 @@
           "url": "https://music.apple.com/ca/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Zach Bryan & Turnpike Troubadours",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944302",
-          "rank": 7,
-          "releaseDate": "2026-10-15",
-          "title": "Plainsman (feat. Turnpike Troubadours)",
-          "url": "https://music.apple.com/ca/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302"
-        },
-        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
         },
         {
-          "artist": "Zach Bryan",
+          "artist": "Zach Bryan & Turnpike Troubadours",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944301",
-          "rank": 9,
-          "releaseDate": "2026-10-16",
-          "title": "Backwards",
-          "url": "https://music.apple.com/ca/album/backwards/6822944288?i=6822944301"
+          "id": "6822944302",
+          "rank": 8,
+          "releaseDate": "2026-10-15",
+          "title": "Plainsman (feat. Turnpike Troubadours)",
+          "url": "https://music.apple.com/ca/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302"
         },
         {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/ca/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 10,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/ca/album/patient-zero/6814997249?i=6814997425"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 21 Oct 2026 08:30:34 +0000",
+        "observedAt": "Thu, 22 Oct 2026 08:33:29 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "bf522f0b7136248bccd2898844d9e5000a4815759c4ea0bfa89124f242fe04aa",
+  "contentHash": "191fac2ad9e55ceb67d53cc9761857433cf52ab26eca2df1d01ea4f8751f7d9c",
   "country": "CA",
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T08:30:31Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T08:33:01Z",
   "schemaVersion": 1
 }

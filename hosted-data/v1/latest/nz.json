@@ -2,43 +2,43 @@
   "charts": {
     "childrensBooks": {
       "audience": "children",
-      "id": "booksellers-nz-children-2026-10-15",
+      "id": "booksellers-nz-children-2026-10-22",
       "items": [
+        {
+          "creator": "Deano Yipadee & Bruce Potter",
+          "isbn13": "9781775439295",
+          "rank": 1,
+          "title": "Nee Naw's Cracker Christmas"
+        },
+        {
+          "creator": "Sarina Clark & Alba Gil Celdran",
+          "isbn13": "9781869715748",
+          "rank": 2,
+          "title": "The Fate of Dragons (Dragonfall 1)"
+        },
+        {
+          "creator": "Sam Smith & César Lador",
+          "isbn13": "9781869715564",
+          "rank": 3,
+          "title": "The Anaconda Attack (Miles & Jones 1)"
+        },
+        {
+          "creator": "Fiona Farrell & David Elliot",
+          "isbn13": "9781991142276",
+          "rank": 4,
+          "title": "Once Upon a Harbour"
+        },
         {
           "creator": "Donovan Bixley",
           "isbn13": "9781869715724",
-          "rank": 1,
-          "title": "The Sweet As Looky Book"
-        },
-        {
-          "creator": "Isobel Joy Te Aho-White",
-          "isbn13": "9781869717056",
-          "rank": 2,
-          "title": "Wāhine"
-        },
-        {
-          "creator": "Tim Saunders & Minky Stapleton",
-          "isbn13": "9781991142672",
-          "rank": 3,
-          "title": "The Little Kiwi Builder"
-        },
-        {
-          "creator": "Ruth Shaw & Deborah Hinde",
-          "isbn13": "9781991142504",
-          "rank": 4,
-          "title": "Millie from Milford"
-        },
-        {
-          "creator": "Lynley Dodd",
-          "isbn13": "9781776957545",
           "rank": 5,
-          "title": "Schnitzel Von Krumm, Dogs Never Climb Trees"
+          "title": "The Sweet As Looky Book"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "NZ Children and Teens",
-        "observedAt": "2026-10-15",
+        "observedAt": "2026-10-22",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
@@ -57,7 +57,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-21T08:30:31Z",
+        "observedAt": "2026-10-22T08:33:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -81,7 +81,7 @@
           "rank": 2,
           "title": "Sense and Sensibility",
           "url": "https://www.boxofficemojo.com/release/rl2153152769/?ref_=bo_we_table_2",
-          "weekendGross": "$105,315",
+          "weekendGross": "$104,921",
           "weeksOnRelease": "1"
         },
         {
@@ -105,7 +105,7 @@
           "rank": 5,
           "title": "Verity",
           "url": "https://www.boxofficemojo.com/release/rl2992013569/?ref_=bo_we_table_5",
-          "weekendGross": "$81,713",
+          "weekendGross": "$82,850",
           "weeksOnRelease": "3"
         },
         {
@@ -121,7 +121,7 @@
           "rank": 7,
           "title": "Other Mommy",
           "url": "https://www.boxofficemojo.com/release/rl341475585/?ref_=bo_we_table_7",
-          "weekendGross": "$39,635",
+          "weekendGross": "$39,345",
           "weeksOnRelease": "2"
         },
         {
@@ -145,7 +145,7 @@
           "rank": 10,
           "title": "Forgotten Island",
           "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_10",
-          "weekendGross": "$18,096",
+          "weekendGross": "$18,086",
           "weeksOnRelease": "5"
         }
       ],
@@ -201,37 +201,28 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
-          "id": "1814620247",
-          "rank": 5,
-          "releaseDate": "2025-05-30",
-          "title": "Nice To Each Other",
-          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
-        },
-        {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609514",
-          "rank": 6,
-          "releaseDate": "2025-09-26",
-          "title": "A Couple Minutes",
-          "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
-        },
-        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 7,
+          "rank": 5,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
+          "id": "1814620247",
+          "rank": 6,
+          "releaseDate": "2025-05-30",
+          "title": "Nice To Each Other",
+          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
+        },
+        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
@@ -239,26 +230,35 @@
         {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609513",
-          "rank": 9,
+          "id": "1817609514",
+          "rank": 8,
           "releaseDate": "2025-09-26",
-          "title": "Baby Steps",
-          "url": "https://music.apple.com/nz/album/baby-steps/1817609404?i=1817609513"
+          "title": "A Couple Minutes",
+          "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
         },
         {
           "artist": "Olivia Rodrigo & Chappell Roan",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/100x100bb.jpg",
           "id": "6822390426",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-10-16",
           "title": "expectations",
           "url": "https://music.apple.com/nz/album/expectations/6822390423?i=6822390426"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609513",
+          "rank": 10,
+          "releaseDate": "2025-09-26",
+          "title": "Baby Steps",
+          "url": "https://music.apple.com/nz/album/baby-steps/1817609404?i=1817609513"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 21 Oct 2026 08:30:37 +0000",
+        "observedAt": "Thu, 22 Oct 2026 08:33:59 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -412,7 +412,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-10-21T08:30:31Z",
+        "observedAt": "2026-10-22T08:33:01Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -421,9 +421,9 @@
       "year": 2025
     }
   },
-  "contentHash": "580fb9af7c202ba0e1857a927de9d6d5c75dc50f60c4289ac944a2d53385508f",
+  "contentHash": "3c6c3947dd0ba8d3a0a3bd8c8ef35e00c073034070dcf871c50a72b5c306a413",
   "country": "NZ",
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T08:30:31Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T08:33:01Z",
   "schemaVersion": 1
 }

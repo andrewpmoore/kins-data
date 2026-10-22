@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-21T08:30:31Z",
+        "observedAt": "2026-10-22T08:33:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -24,40 +24,40 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085056",
-          "rank": 1,
-          "releaseDate": "2026-08-18",
-          "title": "Marianne",
-          "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
-        },
-        {
           "artist": "Tate McRae",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2026-10-15",
           "title": "Housewife",
           "url": "https://music.apple.com/ie/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Fontaines D.C. & ROSALÍA",
+          "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085388",
-          "rank": 3,
-          "releaseDate": "2026-10-12",
-          "title": "Where Is Gone?",
-          "url": "https://music.apple.com/ie/album/where-is-gone/6792085051?i=6792085388"
+          "id": "6792085056",
+          "rank": 2,
+          "releaseDate": "2026-08-18",
+          "title": "Marianne",
+          "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
         },
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
           "id": "6792085543",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-10-16",
           "title": "Japan",
           "url": "https://music.apple.com/ie/album/japan/6792085051?i=6792085543"
+        },
+        {
+          "artist": "Fontaines D.C. & ROSALÍA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085388",
+          "rank": 4,
+          "releaseDate": "2026-10-12",
+          "title": "Where Is Gone?",
+          "url": "https://music.apple.com/ie/album/where-is-gone/6792085051?i=6792085388"
         },
         {
           "artist": "Fontaines D.C.",
@@ -71,17 +71,8 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085054",
-          "rank": 6,
-          "releaseDate": "2026-10-16",
-          "title": "Six Shot Morning",
-          "url": "https://music.apple.com/ie/album/six-shot-morning/6792085051?i=6792085054"
-        },
-        {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
           "id": "6792085376",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-16",
           "title": "Demolition",
           "url": "https://music.apple.com/ie/album/demolition/6792085051?i=6792085376"
@@ -89,20 +80,29 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085363",
-          "rank": 8,
+          "id": "6792085054",
+          "rank": 7,
           "releaseDate": "2026-10-16",
-          "title": "Happy For You",
-          "url": "https://music.apple.com/ie/album/happy-for-you/6792085051?i=6792085363"
+          "title": "Six Shot Morning",
+          "url": "https://music.apple.com/ie/album/six-shot-morning/6792085051?i=6792085054"
         },
         {
           "artist": "Zach Bryan & Lana Del Rey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944296",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-10-15",
           "title": "Lies (feat. Lana Del Rey)",
           "url": "https://music.apple.com/ie/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085363",
+          "rank": 9,
+          "releaseDate": "2026-10-16",
+          "title": "Happy For You",
+          "url": "https://music.apple.com/ie/album/happy-for-you/6792085051?i=6792085363"
         },
         {
           "artist": "Fontaines D.C.",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 21 Oct 2026 08:30:36 +0000",
+        "observedAt": "Thu, 22 Oct 2026 08:33:32 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-21T08:30:31Z",
+        "observedAt": "2026-10-22T08:33:01Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "61e5d13c30f597cab3bba1c3bddac280d86b6f704181aef3a46a78426cee59ee",
+  "contentHash": "f6af403fe95c22b42625e590a96c368f6518d1ad0055065b5838ca5b55f0a505",
   "country": "IE",
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T08:30:31Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T08:33:01Z",
   "schemaVersion": 1
 }

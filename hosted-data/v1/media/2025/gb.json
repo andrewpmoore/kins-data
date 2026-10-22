@@ -25,14 +25,14 @@
       "year": 2025
     },
     "television": {
-      "id": "barb-television-2025",
+      "id": "media-annualTelevisionAudience-2025",
       "items": [
         {
           "artworkProviderName": "TVmaze",
           "artworkSourceURL": "https://www.tvmaze.com/shows/79108/the-celebrity-traitors",
           "artworkURL": "https://static.tvmaze.com/uploads/images/medium_portrait/591/1478554.jpg",
           "audience": "14.94m four-screen",
-          "broadcastDate": "06 Nov 2025",
+          "broadcastDate": "6 Nov 2025",
           "channel": "BBC",
           "rank": 1,
           "title": "The Celebrity Traitors: Series 1, Episode 9"
@@ -41,16 +41,16 @@
       "source": {
         "kind": "annualTelevisionAudience",
         "metric": "Annual rank 1 · consolidated audience",
-        "observedAt": "2026-10-21T00:00:00Z",
+        "observedAt": "2026-09-28",
         "provider": "BARB",
         "territory": "GB",
-        "url": "https://www.barb.co.uk/tv-since-1981/2025/top10/"
+        "url": "https://www.barb.co.uk/tv-since-1981/2025/top10"
       },
       "title": "UK most-watched broadcast",
       "year": 2025
     }
   },
-  "contentHash": "152585ab75908ea99ade8f1e383a5535ed13fcad277299df6069e99c0957e532",
+  "contentHash": "c92371dd868405933e5705917a1ead2f047ccb03da7893ef370ef4ae7674e3e1",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2025

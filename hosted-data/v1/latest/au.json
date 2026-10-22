@@ -87,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-21T08:30:31Z",
+        "observedAt": "2026-10-22T08:33:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -107,44 +107,76 @@
           "weeksOnRelease": "1"
         },
         {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "Amazon MGM Studios",
           "rank": 2,
-          "title": "Whalefall",
-          "url": "https://www.boxofficemojo.com/release/rl1297973505/?ref_=bo_we_table_2",
-          "weekendGross": "$295,331",
+          "title": "Verity",
+          "url": "https://www.boxofficemojo.com/release/rl1163297025/?ref_=bo_we_table_2",
+          "weekendGross": "$925,759",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 3,
+          "title": "Sense and Sensibility",
+          "url": "https://www.boxofficemojo.com/release/rl677150977/?ref_=bo_we_table_3",
+          "weekendGross": "$643,441",
           "weeksOnRelease": "1"
         },
         {
-          "distributor": "Walt Disney Pictures",
-          "rank": 3,
-          "title": "Avengers: Endgame",
-          "url": "https://www.boxofficemojo.com/release/rl2404745473/?ref_=bo_we_table_3",
-          "weekendGross": "$16,084",
-          "weeksOnRelease": "4"
-        },
-        {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "Universal Pictures International (UPI)",
           "rank": 4,
-          "title": "Toy Story 5",
-          "url": "https://www.boxofficemojo.com/release/rl683114497/?ref_=bo_we_table_4",
-          "weekendGross": "$595",
-          "weeksOnRelease": "18"
+          "title": "Other Mommy",
+          "url": "https://www.boxofficemojo.com/release/rl1415217409/?ref_=bo_we_table_4",
+          "weekendGross": "$494,160",
+          "weeksOnRelease": "2"
         },
         {
           "distributor": "Walt Disney Pictures",
           "rank": 5,
-          "title": "Moana",
-          "url": "https://www.boxofficemojo.com/release/rl2210365441/?ref_=bo_we_table_5",
-          "weekendGross": "$469",
-          "weeksOnRelease": "15"
+          "title": "Whalefall",
+          "url": "https://www.boxofficemojo.com/release/rl1297973505/?ref_=bo_we_table_5",
+          "weekendGross": "$295,331",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 6,
+          "title": "Forgotten Island",
+          "url": "https://www.boxofficemojo.com/release/rl2270396673/?ref_=bo_we_table_6",
+          "weekendGross": "$153,091",
+          "weeksOnRelease": "5"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 7,
+          "title": "The Odyssey",
+          "url": "https://www.boxofficemojo.com/release/rl2487320833/?ref_=bo_we_table_7",
+          "weekendGross": "$142,578",
+          "weeksOnRelease": "14"
         },
         {
           "distributor": "Walt Disney Pictures",
-          "rank": 6,
-          "title": "Don't Look Back in Anger",
-          "url": "https://www.boxofficemojo.com/release/rl2219933953/?ref_=bo_we_table_6",
-          "weekendGross": "$243",
-          "weeksOnRelease": "6"
+          "rank": 8,
+          "title": "Avengers: Endgame",
+          "url": "https://www.boxofficemojo.com/release/rl2404745473/?ref_=bo_we_table_8",
+          "weekendGross": "$16,084",
+          "weeksOnRelease": "4"
+        },
+        {
+          "distributor": "VVS Films",
+          "rank": 9,
+          "title": "The Invite",
+          "url": "https://www.boxofficemojo.com/release/rl968851457/?ref_=bo_we_table_9",
+          "weekendGross": "$4,282",
+          "weeksOnRelease": "15"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 10,
+          "title": "Minions & Monsters",
+          "url": "https://www.boxofficemojo.com/release/rl4055269377/?ref_=bo_we_table_10",
+          "weekendGross": "$3,031",
+          "weeksOnRelease": "17"
         }
       ],
       "reportPeriod": "October 15-18, 2026",
@@ -199,22 +231,22 @@
           "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 5,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
           "artist": "Zach Bryan & Lana Del Rey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944296",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-10-15",
           "title": "Lies (feat. Lana Del Rey)",
           "url": "https://music.apple.com/au/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 6,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -226,13 +258,13 @@
           "url": "https://music.apple.com/au/album/stupid-song/6779097512?i=6779097534"
         },
         {
-          "artist": "Olivia Rodrigo & Chappell Roan",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/100x100bb.jpg",
-          "id": "6822390426",
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
           "rank": 8,
-          "releaseDate": "2026-10-16",
-          "title": "expectations",
-          "url": "https://music.apple.com/au/album/expectations/6822390423?i=6822390426"
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
         },
         {
           "artist": "STELLA LEFTY",
@@ -244,19 +276,19 @@
           "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
         },
         {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
+          "artist": "Olivia Rodrigo & Chappell Roan",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/100x100bb.jpg",
+          "id": "6822390426",
           "rank": 10,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
+          "releaseDate": "2026-10-16",
+          "title": "expectations",
+          "url": "https://music.apple.com/au/album/expectations/6822390423?i=6822390426"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 21 Oct 2026 08:30:35 +0000",
+        "observedAt": "Thu, 22 Oct 2026 08:33:31 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -264,9 +296,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "ef242efaf4cbe23b922806fe5489301630899b75aa61933ebed6a62a1678f84a",
+  "contentHash": "f4d192fed0dcb3378145b1f19e3032a0f55b472d95aa744eb724ba8536c18855",
   "country": "AU",
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T08:30:31Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T08:33:01Z",
   "schemaVersion": 1
 }

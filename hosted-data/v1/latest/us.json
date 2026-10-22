@@ -166,7 +166,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-21T08:30:31Z",
+        "observedAt": "2026-10-22T08:33:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -282,22 +282,22 @@
           "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         },
         {
-          "artist": "KAROL G, Judeline & rusowsky",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-          "id": "6796864754",
-          "rank": 3,
-          "releaseDate": "2026-08-05",
-          "title": "BbY WOW",
-          "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 4,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
         },
         {
           "artist": "Drake & Don Toliver",
@@ -318,19 +318,10 @@
           "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Zach Bryan",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944289",
-          "rank": 7,
-          "releaseDate": "2026-10-16",
-          "title": "Lodi When",
-          "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
-        },
-        {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
           "id": "6818209990",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-10-02",
           "title": "Quebec",
           "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990"
@@ -339,7 +330,7 @@
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
@@ -348,16 +339,25 @@
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
+          "artist": "Zach Bryan",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944289",
+          "rank": 10,
+          "releaseDate": "2026-10-16",
+          "title": "Lodi When",
+          "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 21 Oct 2026 08:30:33 +0000",
+        "observedAt": "Thu, 22 Oct 2026 08:33:02 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -500,9 +500,9 @@
       "year": 2025
     }
   },
-  "contentHash": "d2141274df74b58ed92c65178b99b4e851c7b6a06657bb6a3a5231e5c33f5615",
+  "contentHash": "0e895e457d4df0b371787263fdf0da7a3f91d37fe26c327ea1b8ae2e6e6810cc",
   "country": "US",
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T08:30:31Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T08:33:01Z",
   "schemaVersion": 1
 }

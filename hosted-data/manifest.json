@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-21T08:30:31Z",
-  "latestDate": "2026-10-21",
+  "generatedAt": "2026-10-22T08:33:01Z",
+  "latestDate": "2026-10-22",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -122,8 +122,9 @@
       "status": "ok"
     },
     {
+      "detail": "Invalid ZIP archive: File is not a zip file",
       "source": "governmentNames/CA",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "governmentNames/FR",
@@ -146,8 +147,9 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://www.istat.it/wp-content/themes/EGPbs5-child/contanomi/nati/index2022.php?type=years&callback=callbackY: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://www.istat.it/wp-content/themes/EGPbs5-child/contanomi/nati/index2022.php?type=years&callback=callbackY']' returned non-zero exit status 22.",
       "source": "governmentNames/IT",
-      "status": "ok"
+      "status": "error"
     },
     {
       "detail": "latest published annual chart retained until its official replacement",
@@ -155,12 +157,23 @@
       "status": "carried"
     },
     {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/CA",
+      "status": "carried"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/IT",
+      "status": "carried"
+    },
+    {
       "source": "annual/GB",
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://www.barb.co.uk/tv-since-1981/2025/top10/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://www.barb.co.uk/tv-since-1981/2025/top10/']' returned non-zero exit status 22.",
       "source": "mediaTelevision/GB",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "mediaGames/WORLD",
