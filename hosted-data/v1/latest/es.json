@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-22T08:33:01Z",
+        "observedAt": "2026-10-23T08:29:12Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -78,22 +78,22 @@
           "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
         },
         {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
-          "id": "6784833437",
-          "rank": 7,
-          "releaseDate": "2026-07-08",
-          "title": "AIRE",
-          "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
-        },
-        {
           "artist": "Clarent & Quevedo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
           "id": "6816298049",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2025-10-01",
           "title": "Jukiar",
           "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
+          "id": "6784833437",
+          "rank": 8,
+          "releaseDate": "2026-07-08",
+          "title": "AIRE",
+          "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
         },
         {
           "artist": "Lucho RK & Daniela Garsal",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 22 Oct 2026 08:34:03 +0000",
+        "observedAt": "Fri, 23 Oct 2026 08:29:25 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-22T08:33:01Z",
+        "observedAt": "2026-10-23T08:29:12Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "11e2e51c49c679cec9340e3c9df8fffc62b4f628f0dc91c98b65cb4954f9d7ca",
+  "contentHash": "6312dd15bedc213260653feb34e1aa37b98a9edd1c0697a97c24df4f8c237325",
   "country": "ES",
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T08:33:01Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T08:29:12Z",
   "schemaVersion": 1
 }

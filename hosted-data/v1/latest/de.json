@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-22T08:33:01Z",
+        "observedAt": "2026-10-23T08:29:12Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -114,10 +114,19 @@
           "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
         },
         {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
+          "rank": 6,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/de/album/stop-the-wedding/6805240956?i=6805240960"
+        },
+        {
           "artist": "Shakira & Burna Boy",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
           "id": "6768469976",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2026-05-14",
           "title": "Dai Dai",
           "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
@@ -126,19 +135,10 @@
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
-        },
-        {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-          "id": "6805240960",
-          "rank": 8,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/de/album/stop-the-wedding/6805240956?i=6805240960"
         },
         {
           "artist": "Temper City",
@@ -162,7 +162,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 22 Oct 2026 08:33:59 +0000",
+        "observedAt": "Fri, 23 Oct 2026 08:29:23 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-22T08:33:01Z",
+        "observedAt": "2026-10-23T08:29:12Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "b05e44ad54e12b8aac6f7bbcc94f13a1eae3223fce2d99bdc4758a97d2fcab80",
+  "contentHash": "0ba7956f3903b9744ebcd2ee92cbe86d148f33462875bfccb4fc2e81cecc8869",
   "country": "DE",
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T08:33:01Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T08:29:12Z",
   "schemaVersion": 1
 }

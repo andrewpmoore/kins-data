@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-22T08:33:01Z",
+        "observedAt": "2026-10-23T08:29:12Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 22 Oct 2026 08:33:32 +0000",
+        "observedAt": "Fri, 23 Oct 2026 08:29:19 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-22T08:33:01Z",
+        "observedAt": "2026-10-23T08:29:12Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "f6af403fe95c22b42625e590a96c368f6518d1ad0055065b5838ca5b55f0a505",
+  "contentHash": "e21359695896bf63c023f5abd015f13dabfc1067a3eed5f4e9437c1e3500cd83",
   "country": "IE",
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T08:33:01Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T08:29:12Z",
   "schemaVersion": 1
 }

@@ -166,7 +166,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-22T08:33:01Z",
+        "observedAt": "2026-10-23T08:29:12Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -236,9 +236,9 @@
         {
           "rank": 9,
           "title": "Jailer 2",
-          "totalGross": "$5,270,000",
+          "totalGross": "$5,091,000",
           "url": "https://www.the-numbers.com/movie/Jailer-2-(2026-India)",
-          "weekendGross": "$3,270,000"
+          "weekendGross": "$3,091,000"
         },
         {
           "rank": 10,
@@ -319,21 +319,21 @@
         },
         {
           "artist": "Drake",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-          "id": "6818209990",
-          "rank": 7,
-          "releaseDate": "2026-10-02",
-          "title": "Quebec",
-          "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990"
-        },
-        {
-          "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209990",
+          "rank": 8,
+          "releaseDate": "2026-10-02",
+          "title": "Quebec",
+          "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990"
         },
         {
           "artist": "Morgan Wallen",
@@ -357,7 +357,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 22 Oct 2026 08:33:02 +0000",
+        "observedAt": "Fri, 23 Oct 2026 08:29:13 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -500,9 +500,9 @@
       "year": 2025
     }
   },
-  "contentHash": "0e895e457d4df0b371787263fdf0da7a3f91d37fe26c327ea1b8ae2e6e6810cc",
+  "contentHash": "8a0724684f6d36cd2620931718365e031fc12447ef6c29c31d59a936494d070e",
   "country": "US",
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T08:33:01Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T08:29:12Z",
   "schemaVersion": 1
 }
