@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-23T08:29:12Z",
+        "observedAt": "2026-10-24T08:04:17Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-23T08:29:12Z",
+        "observedAt": "2026-10-24T08:04:17Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -241,19 +241,19 @@
           "url": "https://music.apple.com/gb/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Zach Bryan & Lana Del Rey",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944296",
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
+          "id": "6779097534",
           "rank": 10,
-          "releaseDate": "2026-10-15",
-          "title": "Lies (feat. Lana Del Rey)",
-          "url": "https://music.apple.com/gb/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/gb/album/stupid-song/6779097512?i=6779097534"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 23 Oct 2026 08:29:13 +0000",
+        "observedAt": "Sat, 24 Oct 2026 08:04:45 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-23T08:29:12Z",
+        "observedAt": "2026-10-24T08:04:17Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "aeea4fa49baa051eac8653b18ebc51b73fcc68a7cb79810b9e16f68e3cea5adc",
+  "contentHash": "9fd0628c8b9f2916baa8d8a94dc3e697c2e9f3b332fba4c7e305ddb33a2f6a11",
   "country": "GB",
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T08:29:12Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T08:04:17Z",
   "schemaVersion": 1
 }
