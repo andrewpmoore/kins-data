@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T16:20:58Z",
-  "workflowRunURL": "https://github.com/andrewpmoore/kins-data/actions/runs/40211231498",
+  "generatedAt": "2026-10-25T17:11:09Z",
+  "workflowRunURL": "https://github.com/andrewpmoore/kins-data/actions/runs/40215223354",
   "runStatus": [
     {
       "source": "appleMusic/AU",
@@ -123,8 +123,8 @@
     },
     {
       "source": "ssaNames/US",
-      "status": "error",
-      "detail": "Unable to fetch https://www.ssa.gov/oact/babynames/names.zip: HTTP Error 403: Forbidden"
+      "status": "ok",
+      "detail": "SSA-derived mirror · latest available birth year 2025; ranks only, no counts"
     },
     {
       "source": "theatricalBoxOffice/AU",

@@ -166,7 +166,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T16:20:58Z",
+        "observedAt": "2026-10-25T17:11:09Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -357,7 +357,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 16:21:28 +0000",
+        "observedAt": "Sun, 25 Oct 2026 17:11:10 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -365,7 +365,7 @@
       "title": "Top Songs"
     },
     "names": {
-      "id": "ssa-national-baby-names-2025-seed",
+      "id": "ssa-national-baby-names",
       "items": [
         {
           "category": "girl",
@@ -375,31 +375,31 @@
         },
         {
           "category": "girl",
-          "name": "Emma",
+          "name": "Charlotte",
           "rank": 2,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "name": "Amelia",
+          "name": "Emma",
           "rank": 3,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "name": "Charlotte",
+          "name": "Amelia",
           "rank": 4,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "name": "Mia",
+          "name": "Sophia",
           "rank": 5,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "name": "Sophia",
+          "name": "Mia",
           "rank": 6,
           "rankGroup": "girl"
         },
@@ -417,13 +417,13 @@
         },
         {
           "category": "girl",
-          "name": "Ava",
+          "name": "Sofia",
           "rank": 9,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "name": "Sofia",
+          "name": "Eliana",
           "rank": 10,
           "rankGroup": "girl"
         },
@@ -453,56 +453,56 @@
         },
         {
           "category": "boy",
-          "name": "James",
+          "name": "Henry",
           "rank": 5,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "name": "Henry",
+          "name": "James",
           "rank": 6,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "name": "Mateo",
+          "name": "Elijah",
           "rank": 7,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "name": "Elijah",
+          "name": "Mateo",
           "rank": 8,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "name": "Lucas",
+          "name": "William",
           "rank": 9,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "name": "William",
+          "name": "Lucas",
           "rank": 10,
           "rankGroup": "boy"
         }
       ],
       "source": {
         "kind": "nameRanking",
-        "metric": "national birth-name rank by sex; published top ten; exact spelling",
-        "observedAt": "2026-05-08",
-        "provider": "U.S. Social Security Administration",
+        "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
+        "observedAt": "2026-10-25T17:11:09Z",
+        "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
-        "url": "https://www.ssa.gov/oact/babynames/"
+        "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
       },
       "title": "Popular baby names for 2025 births",
       "year": 2025
     }
   },
-  "contentHash": "9ba75d029b03068f5099cb6f391ccd9a7a3a21f7c816726d3660bba973cbe264",
+  "contentHash": "2ef601ae1803b9195608541c7ce5c969bad17d4ffc9c470e3804ed1044ffd379",
   "country": "US",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T16:20:58Z",
+  "generatedAt": "2026-10-25T17:11:09Z",
   "schemaVersion": 1
 }
