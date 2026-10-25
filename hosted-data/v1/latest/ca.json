@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T08:21:22Z",
+        "observedAt": "2026-10-25T15:59:03Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -96,13 +96,13 @@
           "url": "https://music.apple.com/ca/album/quebec/6818209777?i=6818209990"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
+          "artist": "Drake & Don Toliver",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209989",
           "rank": 9,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/ca/album/patient-zero/6814997249?i=6814997425"
+          "releaseDate": "2026-10-02",
+          "title": "Solar Eclipse",
+          "url": "https://music.apple.com/ca/album/solar-eclipse/6818209777?i=6818209989"
         },
         {
           "artist": "STELLA LEFTY",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 08:22:16 +0000",
+        "observedAt": "Sun, 25 Oct 2026 15:59:07 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "85c8c5bfb0595891886a953434a7e8b74940ed3b6f47dfba772ba4d5473a19e5",
+  "contentHash": "8ae93cb2f491fc6b618ed52c453c991d96de358bba333a2b07d8294cbb539e66",
   "country": "CA",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T08:21:22Z",
+  "generatedAt": "2026-10-25T15:59:03Z",
   "schemaVersion": 1
 }

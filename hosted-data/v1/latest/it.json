@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T08:21:22Z",
+        "observedAt": "2026-10-25T15:59:03Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -192,37 +192,37 @@
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         },
         {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 8,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/it/album/housewife/6822497770?i=6822497774"
+        },
+        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451640",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2026-01-16",
           "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
           "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
         },
         {
-          "artist": "Shiva & Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ea/96/98ea96e6-0491-53e6-d04a-91159127bd2f/196874139097.jpg/100x100bb.jpg",
-          "id": "1891320360",
-          "rank": 9,
-          "releaseDate": "2026-04-09",
-          "title": "Bad Bad Bad",
-          "url": "https://music.apple.com/it/album/bad-bad-bad/1891320348?i=1891320360"
-        },
-        {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
           "rank": 10,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/it/album/housewife/6822497770?i=6822497774"
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/it/album/movin-to-the-sun/6769069923?i=6769070199"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 08:23:16 +0000",
+        "observedAt": "Sun, 25 Oct 2026 16:00:55 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-25T08:21:22Z",
+        "observedAt": "2026-10-25T15:59:03Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2025
     }
   },
-  "contentHash": "aa9bf5b388b6747bd305b15255ec995d61c7bcfc8a3f58616e13161d3ea325e8",
+  "contentHash": "cccae6c5a1d6fe3b054e6ae9c1c2b366cc1e5b535496c42cbb0f64d09803f9d6",
   "country": "IT",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T08:21:22Z",
+  "generatedAt": "2026-10-25T15:59:03Z",
   "schemaVersion": 1
 }

@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T08:21:22Z",
+        "observedAt": "2026-10-25T15:59:03Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -87,22 +87,22 @@
           "url": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
-          "artist": "The Killers",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/ef/5b/42ef5b97-a08f-9136-ce8e-176adc8ca28d/18UMGIM00359.rgb.jpg/100x100bb.jpg",
-          "id": "1442970583",
-          "rank": 3,
-          "releaseDate": "2003-09-23",
-          "title": "Mr. Brightside",
-          "url": "https://music.apple.com/de/album/mr-brightside/1442970218?i=1442970583"
-        },
-        {
           "artist": "Taylor Swift",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
           "id": "6814997425",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-09-24",
           "title": "Patient Zero",
           "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
+        },
+        {
+          "artist": "The Killers",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/ef/5b/42ef5b97-a08f-9136-ce8e-176adc8ca28d/18UMGIM00359.rgb.jpg/100x100bb.jpg",
+          "id": "1442970583",
+          "rank": 4,
+          "releaseDate": "2003-09-23",
+          "title": "Mr. Brightside",
+          "url": "https://music.apple.com/de/album/mr-brightside/1442970218?i=1442970583"
         },
         {
           "artist": "Shakira & Burna Boy",
@@ -162,7 +162,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 08:22:48 +0000",
+        "observedAt": "Sun, 25 Oct 2026 16:00:27 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-25T08:21:22Z",
+        "observedAt": "2026-10-25T15:59:03Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "2168a68c6b8a6cec5fcaf541bda1db4052ccc94256ccfdd37bf7824a18a76d85",
+  "contentHash": "f2101ad3587f8898f0cf758057f844f740670456a7e3c09ab97590467d9a9b44",
   "country": "DE",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T08:21:22Z",
+  "generatedAt": "2026-10-25T15:59:03Z",
   "schemaVersion": 1
 }

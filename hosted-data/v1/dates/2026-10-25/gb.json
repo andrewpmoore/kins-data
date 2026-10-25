@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T08:21:22Z",
+        "observedAt": "2026-10-25T15:59:03Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-25T08:21:22Z",
+        "observedAt": "2026-10-25T15:59:03Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -196,13 +196,13 @@
           "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
         },
         {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-          "id": "6805240960",
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
           "rank": 5,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960"
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
@@ -214,13 +214,13 @@
           "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
         },
         {
-          "artist": "HUGEL, Imael Angel & Ultra Naté",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
-          "id": "6769070199",
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
           "rank": 7,
-          "releaseDate": "2026-05-22",
-          "title": "Movin' To The Sun",
-          "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960"
         },
         {
           "artist": "Ella Langley",
@@ -253,7 +253,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 08:21:23 +0000",
+        "observedAt": "Sun, 25 Oct 2026 15:59:04 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-25T08:21:22Z",
+        "observedAt": "2026-10-25T15:59:03Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "ac799552f2be4c1eea0efa9d0f8999cc16f26910c9786d0b24d4805197a93ad1",
+  "contentHash": "275acfb0422ef4860c5f21761fa04ff9dc2103ebc693dc4514a9b939bd4fac9f",
   "country": "GB",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T08:21:22Z",
+  "generatedAt": "2026-10-25T15:59:03Z",
   "schemaVersion": 1
 }

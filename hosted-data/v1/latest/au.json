@@ -87,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T08:21:22Z",
+        "observedAt": "2026-10-25T15:59:03Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -231,13 +231,13 @@
           "url": "https://music.apple.com/au/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
+          "id": "6779097534",
           "rank": 5,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/au/album/stupid-song/6779097512?i=6779097534"
         },
         {
           "artist": "Zach Bryan & Lana Del Rey",
@@ -249,13 +249,13 @@
           "url": "https://music.apple.com/au/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
-          "id": "6779097534",
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
           "rank": 7,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/au/album/stupid-song/6779097512?i=6779097534"
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "STELLA LEFTY",
@@ -288,7 +288,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 08:22:44 +0000",
+        "observedAt": "Sun, 25 Oct 2026 15:59:07 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -296,9 +296,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "8227f5aabdcc37506fa1a3640f463882c3e4c78e2dd81b0a1576428c5dcc7ca7",
+  "contentHash": "63ae1377cde3500d3c28611df62da22cfe512e633e59b3b98c784d7b640e830c",
   "country": "AU",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T08:21:22Z",
+  "generatedAt": "2026-10-25T15:59:03Z",
   "schemaVersion": 1
 }

@@ -20,7 +20,7 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-25T08:21:22Z",
+  "generatedAt": "2026-10-25T15:59:03Z",
   "latestDate": "2026-10-25",
   "runStatus": [
     {
@@ -88,9 +88,8 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://www.the-numbers.com/box-office-chart/weekend/2026/10/23: HTTP Error 404: Not Found",
       "source": "theatricalBoxOffice/US",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "publicBooks/adultBooks/US",
@@ -105,9 +104,8 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10: HTTP Error 403: Forbidden",
       "source": "publicBooks/adultBooks/NZ",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "publicBooks/childrensBooks/NZ",
@@ -123,8 +121,9 @@
       "status": "ok"
     },
     {
+      "detail": "Invalid ZIP archive: File is not a zip file",
       "source": "governmentNames/CA",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "governmentNames/FR",
@@ -153,6 +152,11 @@
     {
       "detail": "latest published annual chart retained until its official replacement",
       "source": "namesFallback/US",
+      "status": "carried"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/CA",
       "status": "carried"
     },
     {
