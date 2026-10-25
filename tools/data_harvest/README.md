@@ -33,6 +33,15 @@ and commits the new static snapshot to this public repository. The app reads it 
 `https://raw.githubusercontent.com/andrewpmoore/kins-data/main/hosted-data/`, so no
 paid hosting plan or cross-repository write token is required.
 
+Each harvest also saves that run's feed outcomes in
+`hosted-data/feed-health/YYYY-MM-DD.json`. The
+`.github/workflows/feed-health-dashboard.yml` workflow publishes a static 28-day
+grid to GitHub Pages after a harvest. Enable **Settings → Pages → Build and
+deployment → Source → GitHub Actions** once, then open
+`https://andrewpmoore.github.io/kins-data/`. A dot means that feed had no recorded
+result for that date; hovering a tick or cross shows the provider detail, and the
+mark links to that day's Actions run.
+
 The weekly `keep-scheduled-workflows-active.yml` job records repository activity so
 GitHub does not disable schedules after 60 inactive days. The daily harvest compares
 each feed with the prior committed manifest. A newly failing feed creates an issue

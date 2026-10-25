@@ -46,6 +46,8 @@ jobs:
         run: python tools/data_harvest/harvest.py
       - name: Refresh annual TV, game winners and artwork
         run: python tools/data_harvest/media_archive.py
+      - name: Record daily feed health
+        run: python tools/data_harvest/feed_health_dashboard.py snapshot --date "$(date -u +%F)"
       - name: Detect newly failing feeds
         id: feed_failures
         run: |
