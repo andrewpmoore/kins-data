@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T08:33:01Z",
+  "workflowRunURL": "https://github.com/andrewpmoore/kins-data/actions/runs/39748549886",
+  "runStatus": [
+    {
+      "source": "annual/GB",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/AU",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/CA",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/DE",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/ES",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/FR",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/GB",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/IE",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/IT",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/US",
+      "status": "ok"
+    },
+    {
+      "source": "gameOfYear/WORLD",
+      "status": "ok"
+    },
+    {
+      "detail": "Invalid ZIP archive: File is not a zip file",
+      "source": "governmentNames/CA",
+      "status": "error"
+    },
+    {
+      "source": "governmentNames/DE",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/ES",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/FR",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/GB",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/IE",
+      "status": "ok"
+    },
+    {
+      "detail": "Unable to fetch https://www.istat.it/wp-content/themes/EGPbs5-child/contanomi/nati/index2022.php?type=years&callback=callbackY: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://www.istat.it/wp-content/themes/EGPbs5-child/contanomi/nati/index2022.php?type=years&callback=callbackY']' returned non-zero exit status 22.",
+      "source": "governmentNames/IT",
+      "status": "error"
+    },
+    {
+      "source": "governmentNames/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "mediaGames/WORLD",
+      "status": "ok"
+    },
+    {
+      "detail": "Unable to fetch https://www.barb.co.uk/tv-since-1981/2025/top10/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://www.barb.co.uk/tv-since-1981/2025/top10/']' returned non-zero exit status 22.",
+      "source": "mediaTelevision/GB",
+      "status": "error"
+    },
+    {
+      "source": "publicBooks/adultBooks/AU",
+      "status": "ok"
+    },
+    {
+      "detail": "BookHub ranking contains no ranked books",
+      "source": "publicBooks/adultBooks/NZ",
+      "status": "error"
+    },
+    {
+      "source": "publicBooks/adultBooks/US",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/childrensBooks/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/childrensBooks/US",
+      "status": "ok"
+    },
+    {
+      "detail": "Unable to fetch https://www.ssa.gov/oact/babynames/names.zip: HTTP Error 403: Forbidden",
+      "source": "ssaNames/US",
+      "status": "error"
+    },
+    {
+      "source": "theatricalBoxOffice/AU",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/DE",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/GB",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/IT",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/US",
+      "status": "ok"
+    }
+  ]
+}
