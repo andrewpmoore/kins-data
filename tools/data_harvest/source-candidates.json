@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-09-23",
+  "reviewedAt": "2026-10-25",
   "statusDefinitions": {
     "active": "Harvested now; output keeps the source territory and metric.",
     "candidate": "Public and promising; parser or redistribution review still required.",
@@ -85,6 +85,15 @@
           "metric": "UK bestseller charts",
           "cadence": "weekly",
           "notes": "Some chart detail is subscription-only; do not bypass it."
+        }
+      ],
+      "television": [
+        {
+          "status": "active",
+          "provider": "BARB",
+          "url": "https://www.barb.co.uk/tv-since-1981/{year}/top10/",
+          "metric": "UK annual most-watched broadcast, rank 1",
+          "cadence": "annual"
         }
       ]
     },
@@ -244,6 +253,16 @@
           "metric": "bookseller-network popular titles",
           "cadence": "current",
           "notes": "Not yet verified as a national audited unit-sales chart."
+        }
+      ],
+      "television": [
+        {
+          "status": "active",
+          "provider": "RTVE / Kantar Media",
+          "url": "https://www.rtve.es/rtve/20251230/11-crece-medio-punto-2025-obtiene-mejor-cuota-13-anos-la-1/16877996.shtml",
+          "metric": "annual most-watched programme reported by RTVE; 2025 audience average",
+          "cadence": "annual",
+          "notes": "One rank-one fact is published with source attribution; update the report URL when RTVE publishes the next annual review."
         }
       ]
     },

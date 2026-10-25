@@ -1961,8 +1961,14 @@ def harvest(config_path: Path, output: Path, cache_dir: Path, date: str, strict:
         try:
             annual = annual_charts(annual_path, int(date[:4]), country)
             snapshots[country]["charts"].update(annual)
-            if annual:
-                status.append({"source": f"annual/{country}", "status": "ok"})
+            for key, chart in annual.items():
+                source = "books" if key in {"adultBooks", "childrensBooks"} else "annual"
+                detail = ""
+                if source == "books":
+                    provider = chart.get("source", {}).get("provider", "Annual book chart")
+                    observed = chart.get("source", {}).get("observedAt")
+                    detail = f"{provider} annual snapshot" + (f" · source observed {observed}" if observed else "")
+                status.append({"source": f"{source}/{country}/{key}", "status": "ok", **({"detail": detail} if detail else {})})
         except (HarvestError, ValueError) as error:
             status.append({"source": f"annual/{country}", "status": "error", "detail": str(error)})
 

@@ -2,7 +2,7 @@
 """Publish annual TV/game facts and attributable artwork without an app release.
 
 Run after harvest.py. Reviewed seeds and previous valid years remain available;
-only exact-year BARB broadcasts and officially published D.I.C.E. winners update.
+only exact-year BARB/RTVE broadcasts and officially published D.I.C.E. winners update.
 TVmaze URL metadata is CC BY-SA (https://www.tvmaze.com/api#licensing).
 """
 from __future__ import annotations
@@ -52,6 +52,37 @@ def barb_television(year: int, observed: str) -> dict[str, Any]:
     return {"id": f"barb-television-{year}", "title": "UK most-watched broadcast", "year": year,
             "source": harvest.source("BARB", url, "GB", "Annual rank 1 · consolidated audience", observed, "annualTelevisionAudience"),
             "items": [{"rank": 1, "title": cells[1], "broadcastDate": cells[2], "channel": cells[3], "audience": audience}]}
+
+
+RTVE_TV_REPORTS = {
+    2025: "https://www.rtve.es/rtve/20251230/11-crece-medio-punto-2025-obtiene-mejor-cuota-13-anos-la-1/16877996.shtml",
+}
+
+
+def rtve_television(year: int, observed: str) -> dict[str, Any]:
+    """Read Spain's most-watched annual programme from RTVE's public report."""
+    url = RTVE_TV_REPORTS.get(year)
+    if not url:
+        raise harvest.HarvestError(f"RTVE has no configured annual report for {year}")
+    page = harvest.fetch(url).decode("utf-8")
+    content = " ".join(html.unescape(re.sub(r"<[^>]*>", " ", page)).split())
+    marker = re.search(r"el programa más visto del año", content, re.I)
+    if not marker:
+        raise harvest.HarvestError(f"RTVE report does not identify the most-watched programme for {year}")
+    marker_at = marker.start()
+    start = content.rfind("La final de la UEFA Nations League masculina", 0, marker_at)
+    if start < 0:
+        raise harvest.HarvestError("RTVE report's most-watched programme is not the expected Nations League final")
+    context = content[start:marker.end()]
+    match = re.search(r"promedió\s+([\d.]+)\s+espectadores", context, re.I)
+    if not match or not re.search(rf"{year}", content[:start]):
+        raise harvest.HarvestError("RTVE annual top-programme audience is incomplete or from another year")
+    audience = match[1].replace(".", "")
+    audience = f"{int(audience) / 1_000_000:.3f}m"
+    return {"id": f"rtve-television-{year}", "title": "Spain most-watched broadcast", "year": year,
+            "source": harvest.source("RTVE", url, "ES", "Annual most-watched programme · average viewers", observed, "annualTelevisionAudience"),
+            "items": [{"rank": 1, "title": "UEFA Nations League final (match, extra time & penalties)",
+                       "channel": "La 1", "audience": audience}]}
 
 
 def television_artwork(title: str) -> dict[str, str]:
@@ -109,7 +140,7 @@ def update_archive(output: Path, seed: Path, countries: list[str], date: str) ->
         if value.get("schemaVersion") != 1 or str(year) != path.parent.name:
             continue
         charts = {key: chart for key, chart in value.get("charts", {}).items()
-                  if (key == "games" and country == "WORLD") or (key == "television" and country == "GB")}
+                  if (key == "games" and country == "WORLD") or (key == "television" and country in {"GB", "ES"})}
         if charts:
             archive.setdefault(str(year), {}).setdefault(country, {}).update(charts)
     for year, territories in harvest.read_json(seed, {}).items():
@@ -131,6 +162,12 @@ def update_archive(output: Path, seed: Path, countries: list[str], date: str) ->
         status.append({"source": "mediaTelevision/GB", "status": "ok"})
     except (harvest.HarvestError, ValueError) as error:
         status.append({"source": "mediaTelevision/GB", "status": "error", "detail": str(error)})
+    try:
+        chart = rtve_television(current_year - 1, observed)
+        archive.setdefault(str(chart["year"]), {}).setdefault("ES", {})["television"] = chart
+        status.append({"source": "mediaTelevision/ES", "status": "ok"})
+    except (harvest.HarvestError, ValueError) as error:
+        status.append({"source": "mediaTelevision/ES", "status": "error", "detail": str(error)})
     # Daily harvest already checks this year's ceremony and last year's published
     # winner. Archive under the actual award year, never the snapshot's year.
     games = []

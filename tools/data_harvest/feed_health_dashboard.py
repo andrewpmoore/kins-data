@@ -15,6 +15,17 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_HISTORY = ROOT / "hosted-data" / "feed-health"
 
+SOURCE_LABELS = {
+    "books/GB/adultBooks": "Books · UK adult (NIQ annual snapshot)",
+    "books/GB/childrensBooks": "Books · UK children & YA (NIQ annual snapshot)",
+    "mediaTelevision/GB": "TV · UK (BARB annual audience)",
+    "mediaTelevision/ES": "TV · Spain (RTVE annual audience)",
+}
+
+
+def source_label(source: str) -> str:
+    return SOURCE_LABELS.get(source, source)
+
 
 def read_json(path: Path) -> dict[str, Any]:
     with path.open(encoding="utf-8") as handle:
@@ -82,6 +93,11 @@ def render(args: argparse.Namespace) -> None:
         snapshots[day.isoformat()] = snapshot
         feeds.update(latest_run_status_by_source(snapshot))
 
+    # Before the UK books had their own rows, the daily manifest exposed only
+    # annual/GB. Hide that legacy aggregate once its more useful split is present.
+    if any(source.startswith("books/GB/") for source in feeds):
+        feeds.discard("annual/GB")
+
     rows: list[str] = []
     latest_date = dates[-1].isoformat()
     latest_statuses = latest_run_status_by_source(snapshots.get(latest_date, {}))
@@ -95,7 +111,7 @@ def render(args: argparse.Namespace) -> None:
                 continue
             run_url = snapshots[date_key].get("workflowRunURL")
             detail = entry.get("detail") or ("Feed succeeded" if entry["status"] == "ok" else "Feed failed")
-            label = f"{source} — {detail}"
+            label = f"{source_label(source)} — {detail}"
             symbol = "✓" if entry["status"] == "ok" else "×"
             css = "success" if entry["status"] == "ok" else "failure"
             mark = f'<span class="{css}" title="{html.escape(label, quote=True)}" aria-label="{html.escape(label, quote=True)}">{symbol}</span>'
@@ -107,7 +123,7 @@ def render(args: argparse.Namespace) -> None:
             '<span class="state-bad">Failed</span>' if latest and latest["status"] == "error" else
             '<span class="state-quiet">No run today</span>'
         )
-        rows.append(f'<tr><th scope="row">{html.escape(source)}</th><td class="current">{state}</td>{"".join(cells)}</tr>')
+        rows.append(f'<tr><th scope="row" title="{html.escape(source, quote=True)}">{html.escape(source_label(source))}</th><td class="current">{state}</td>{"".join(cells)}</tr>')
 
     headers = "".join(
         f'<th scope="col" title="{day.strftime("%A, %d %B %Y")}"><span>{day.strftime("%a")}</span><br>{day.strftime("%d")}</th>'

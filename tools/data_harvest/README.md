@@ -90,7 +90,10 @@ references.
   structure from `manual.example.json`; a source, territory, metric and consecutive
   ranks are mandatory.
 - `annual.json` carries persistent annual records such as the current NIQ UK book
-  sales leaders. Updating it changes hosted results without an app release.
+  sales leaders. The health dashboard shows the adult and children's NIQ records
+  as separate UK book snapshot rows, including the date each source record covers.
+  They remain the latest published snapshot until NIQ publishes a replacement;
+  the daily check does not imply that the underlying chart is refreshed daily.
 - `source-candidates.json` is the audited backlog of public movie, book and game
   pages. It records why each source is active, still a candidate, limited, stale or
   unavailable so a public webpage is not mistaken for a national measured chart.
@@ -136,16 +139,23 @@ bundled fallback; a different title never inherits the previous title's artwork.
 
 `media-seed.json` supplies the reviewed historical TV/game archive and existing
 publisher/store artwork. Each scheduled run checks BARB's last completed annual
-UK table, and archives the latest officially published D.I.C.E. winner under its
-actual award year (2026 onward). Earlier BAFTA/TGA selections remain as reviewed.
+UK table and RTVE's latest configured annual report for Spain, and archives the
+latest officially published D.I.C.E. winner under its actual award year (2026
+onward). Earlier BAFTA/TGA selections remain as reviewed. The Spanish entry uses
+RTVE's public 2025 annual review, which identifies the UEFA Nations League final
+as the year's most-watched programme and reports its average audience. Add the
+new report URL to `RTVE_TV_REPORTS` when RTVE publishes its next annual review.
+Germany's AGF audience data is not republished because AGF's data terms restrict
+publication in searchable databases and archives.
 Unpublished years stay absent; a carried award does not become a new year's winner.
 Previous discovered years survive upstream failures. Country feeds contain their
 own TV record plus the global game record; `world.json` contains global games.
 
 New game artwork comes from the winning game's named image on the official award
-page. New TV posters require one exact UK-series match in TVmaze, with its source
-link and attribution. Live events and ambiguous or missing posters use the app's
-animated TV fallback. Sources that fail appear in the normal feed-health manifest.
+page. New UK TV posters require one exact UK-series match in TVmaze, with its
+source link and attribution. Live events and ambiguous or missing posters use
+the app's animated TV fallback. Sources that fail appear in the normal
+feed-health manifest.
 Artwork URLs, source links, provider names and optional verified YouTube trailer
 links travel with each item. `releaseYear` is distinct from the award year; it is
 omitted when unknown rather than inventing a release date.

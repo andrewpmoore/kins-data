@@ -23,9 +23,30 @@
       },
       "title": "The Game Awards · Game of the Year",
       "year": 2025
+    },
+    "television": {
+      "id": "rtve-television-2025",
+      "items": [
+        {
+          "audience": "8.321m",
+          "channel": "La 1",
+          "rank": 1,
+          "title": "UEFA Nations League final (match, extra time & penalties)"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual most-watched programme · average viewers",
+        "observedAt": "2026-10-25T00:00:00Z",
+        "provider": "RTVE",
+        "territory": "ES",
+        "url": "https://www.rtve.es/rtve/20251230/11-crece-medio-punto-2025-obtiene-mejor-cuota-13-anos-la-1/16877996.shtml"
+      },
+      "title": "Spain most-watched broadcast",
+      "year": 2025
     }
   },
-  "contentHash": "957cb75e9605e92de26e449f367843e5e3c5c52803665269c44d53180d697979",
+  "contentHash": "2d66ba23ca4a4e2c49718a9090800439ac7d2b56329f0fbae30d6207f69cdd76",
   "country": "es",
   "schemaVersion": 1,
   "year": 2025

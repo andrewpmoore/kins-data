@@ -4,10 +4,6 @@
   "workflowRunURL": "https://github.com/andrewpmoore/kins-data/actions/runs/39109649721",
   "runStatus": [
     {
-      "source": "annual/GB",
-      "status": "ok"
-    },
-    {
       "source": "appleMusic/AU",
       "status": "ok"
     },
@@ -46,6 +42,16 @@
     {
       "source": "appleMusic/US",
       "status": "ok"
+    },
+    {
+      "source": "books/GB/adultBooks",
+      "status": "ok",
+      "detail": "NIQ BookData annual snapshot · source observed 2026-05-30"
+    },
+    {
+      "source": "books/GB/childrensBooks",
+      "status": "ok",
+      "detail": "NIQ BookData annual snapshot · source observed 2026-05-30"
     },
     {
       "source": "gameOfYear/WORLD",
