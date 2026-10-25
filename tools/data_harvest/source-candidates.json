@@ -27,6 +27,16 @@
           "cadence": "weekly",
           "notes": "Adult and children's public rankings are harvested with rank, title, author, ISBN and week only."
         }
+      ],
+      "names": [
+        {
+          "status": "active",
+          "provider": "U.S. Social Security Administration via aruljohn/popular-baby-names mirror",
+          "url": "https://github.com/aruljohn/popular-baby-names",
+          "metric": "national top 1,000 exact-spelling ranks by sex; mirror omits counts",
+          "cadence": "annual",
+          "notes": "The mirror attributes the data to SSA and contains the 2025 release. Its 2025 top ten matches SSA's official page. The SSA ZIP remains a fallback for mirror outages."
+        }
       ]
     },
     "CA": {

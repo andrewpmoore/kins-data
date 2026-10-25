@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_HISTORY = ROOT / "hosted-data" / "feed-health"
 
 SOURCE_LABELS = {
+    "ssaNames/US": "Baby names · US (SSA)",
     "books/GB/adultBooks": "Books · UK adult (NIQ annual snapshot)",
     "books/GB/childrensBooks": "Books · UK children & YA (NIQ annual snapshot)",
     "mediaTelevision/GB": "TV · UK (BARB annual audience)",

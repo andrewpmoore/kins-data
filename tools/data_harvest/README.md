@@ -75,9 +75,13 @@ references.
 - SSA, ONS, Statistics Canada, INSEE, Ireland's CSO, New Zealand DIA/SmartStart,
   Spain's INE and Italy's Istat supply annual name rankings. Germany's GfdS public
   first-name table supplies a representative national top ten. Annual data is retained
-  in daily snapshots until a newer release replaces it. The SSA download sometimes
-  rejects automated clients, so a reviewed 2025 official top-ten seed is used only
-  until the full archive succeeds.
+  in daily snapshots until a newer release replaces it. SSA's archive ZIP returns
+  HTTP 403 to GitHub Actions, so the U.S. names adapter first reads the SSA-derived
+  top-1,000 ranking mirror at `aruljohn/popular-baby-names`; it checks the expected
+  latest birth year and falls back to the official SSA archive if the mirror is
+  unavailable. The mirror omits counts, so its chart reports ranks and exact
+  spellings only. Its 2025 top ten matches SSA's published list. The Data.gov
+  catalog identifies the underlying SSA dataset as public-domain/CC0.
 - The New York Times adapter is available but disabled. Its lists are editorial
   bestsellers, not national unit-sales totals, so the app does not use them as the
   requested national book-sales result.
