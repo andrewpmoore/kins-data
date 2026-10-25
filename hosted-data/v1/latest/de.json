@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-24T08:04:17Z",
+        "observedAt": "2026-10-25T08:21:22Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -105,13 +105,13 @@
           "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884101",
+          "artist": "Shakira & Burna Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
+          "id": "6768469976",
           "rank": 5,
-          "releaseDate": "2026-07-23",
-          "title": "Ain't In LA",
-          "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
+          "releaseDate": "2026-05-14",
+          "title": "Dai Dai",
+          "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
@@ -123,13 +123,13 @@
           "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
         },
         {
-          "artist": "Shakira & Burna Boy",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
-          "id": "6768469976",
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884101",
           "rank": 7,
-          "releaseDate": "2026-05-14",
-          "title": "Dai Dai",
-          "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
+          "releaseDate": "2026-07-23",
+          "title": "Ain't In LA",
+          "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
         },
         {
           "artist": "Ashe",
@@ -162,7 +162,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 24 Oct 2026 08:04:51 +0000",
+        "observedAt": "Sun, 25 Oct 2026 08:22:48 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-24T08:04:17Z",
+        "observedAt": "2026-10-25T08:21:22Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "20bc74eb291bfed4e9d427deff4e3defa05c3a7d1add0101522444da228cd115",
+  "contentHash": "2168a68c6b8a6cec5fcaf541bda1db4052ccc94256ccfdd37bf7824a18a76d85",
   "country": "DE",
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T08:04:17Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T08:21:22Z",
   "schemaVersion": 1
 }

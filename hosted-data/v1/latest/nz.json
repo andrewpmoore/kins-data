@@ -57,7 +57,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-24T08:04:17Z",
+        "observedAt": "2026-10-25T08:21:22Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -192,10 +192,19 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 4,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609507",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-09-26",
           "title": "So Easy (To Fall In Love)",
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
@@ -204,19 +213,10 @@
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
-        },
-        {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
-          "rank": 6,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
           "artist": "Olivia Dean",
@@ -228,10 +228,19 @@
           "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
         },
         {
+          "artist": "Zara Larsson",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/9c/e3/299ce303-0167-705f-fc85-4d3e52b63c32/196874028391.jpg/100x100bb.jpg",
+          "id": "1870962417",
+          "rank": 8,
+          "releaseDate": "2015-06-05",
+          "title": "Lush Life",
+          "url": "https://music.apple.com/nz/album/lush-life/1870962402?i=1870962417"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609514",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2025-09-26",
           "title": "A Couple Minutes",
           "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
@@ -240,25 +249,16 @@
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
           "id": "6779097534",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/nz/album/stupid-song/6779097512?i=6779097534"
-        },
-        {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609513",
-          "rank": 10,
-          "releaseDate": "2025-09-26",
-          "title": "Baby Steps",
-          "url": "https://music.apple.com/nz/album/baby-steps/1817609404?i=1817609513"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 24 Oct 2026 08:04:51 +0000",
+        "observedAt": "Sun, 25 Oct 2026 08:22:47 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -412,7 +412,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-10-24T08:04:17Z",
+        "observedAt": "2026-10-25T08:21:22Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -421,9 +421,9 @@
       "year": 2025
     }
   },
-  "contentHash": "e0a27a575b76d48b40b9a279f26ea06d7d6446cc598dae25ddf5b20d72c11ef3",
+  "contentHash": "6ed8e14765c0a3cdd5233524c527de32ccca132ea83ab77bd4379a9c2a2e8536",
   "country": "NZ",
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T08:04:17Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T08:21:22Z",
   "schemaVersion": 1
 }

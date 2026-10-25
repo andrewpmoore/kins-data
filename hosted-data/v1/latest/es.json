@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-24T08:04:17Z",
+        "observedAt": "2026-10-25T08:21:22Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -61,12 +61,12 @@
         },
         {
           "artist": "Quevedo & Elvis Crespo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
-          "id": "1894272112",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/2c/a4/e62ca4e7-d600-3965-5f66-77738458fc59/8718521179540.jpg/100x100bb.jpg",
+          "id": "1894270806",
           "rank": 5,
           "releaseDate": "2026-04-23",
           "title": "LA GRACIOSA",
-          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
+          "url": "https://music.apple.com/es/album/la-graciosa/1894270804?i=1894270806"
         },
         {
           "artist": "Lucho RK",
@@ -78,22 +78,22 @@
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338666",
-          "rank": 7,
-          "releaseDate": "2026-10-09",
-          "title": "SORDO DE UN PIE (interludio)",
-          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
-        },
-        {
           "artist": "Clarent & Quevedo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
           "id": "6816298049",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2025-10-01",
           "title": "Jukiar",
           "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338666",
+          "rank": 8,
+          "releaseDate": "2026-10-09",
+          "title": "SORDO DE UN PIE (interludio)",
+          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
         },
         {
           "artist": "Lucho RK",
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
         },
         {
-          "artist": "Lucho RK & Daniela Garsal",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338668",
+          "artist": "Aitana",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
+          "id": "1814146675",
           "rank": 10,
-          "releaseDate": "2026-10-08",
-          "title": "RESACA EMOCIONAL",
-          "url": "https://music.apple.com/es/album/resaca-emocional/6817338538?i=6817338668"
+          "releaseDate": "2025-05-29",
+          "title": "SUPERESTRELLA",
+          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 24 Oct 2026 08:04:52 +0000",
+        "observedAt": "Sun, 25 Oct 2026 08:23:15 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-24T08:04:17Z",
+        "observedAt": "2026-10-25T08:21:22Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "dd1827a66aa908fdf844fede48751db6c27d43ee5d206bb49b24180ecb5c6095",
+  "contentHash": "5cc6b19441046ef50f0a59a6a0d91b4cdb13529d2713a020d4e4b44eaf6b7bfe",
   "country": "ES",
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T08:04:17Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T08:21:22Z",
   "schemaVersion": 1
 }

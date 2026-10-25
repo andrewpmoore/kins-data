@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-24T08:04:17Z",
+        "observedAt": "2026-10-25T08:21:22Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -60,22 +60,22 @@
           "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
         },
         {
-          "artist": "Tiakola & Theodora",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/3a/2f/203a2f5e-6e22-833e-566c-015380e2bfde/1200214616663.jpg/100x100bb.jpg",
-          "id": "6812420993",
-          "rank": 5,
-          "releaseDate": "2026-09-23",
-          "title": "La Nocturne",
-          "url": "https://music.apple.com/fr/album/la-nocturne/6812420992?i=6812420993"
-        },
-        {
           "artist": "SCH & SDM",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/d1/65/ffd16555-639f-261a-f95b-988f7f75525e/1200220311767.jpg/100x100bb.jpg",
           "id": "6822787533",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-10-21",
           "title": "Professionnels",
           "url": "https://music.apple.com/fr/album/professionnels/6822787530?i=6822787533"
+        },
+        {
+          "artist": "Tiakola & Theodora",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/3a/2f/203a2f5e-6e22-833e-566c-015380e2bfde/1200214616663.jpg/100x100bb.jpg",
+          "id": "6812420993",
+          "rank": 6,
+          "releaseDate": "2026-09-23",
+          "title": "La Nocturne",
+          "url": "https://music.apple.com/fr/album/la-nocturne/6812420992?i=6812420993"
         },
         {
           "artist": "Jul",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 24 Oct 2026 08:04:52 +0000",
+        "observedAt": "Sun, 25 Oct 2026 08:23:15 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-10-24T08:04:17Z",
+        "observedAt": "2026-10-25T08:21:22Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "0bce2f3d3053c16ee7456223d88a625a40199bb3b0736792deb9d4333dc8c3ad",
+  "contentHash": "ae6f68b1b9616ed5bb0ba9ac1fe55788f11b9d51928a16f62835e074bea00495",
   "country": "FR",
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T08:04:17Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T08:21:22Z",
   "schemaVersion": 1
 }
