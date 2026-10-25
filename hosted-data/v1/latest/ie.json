@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T15:59:03Z",
+        "observedAt": "2026-10-25T16:20:58Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -78,19 +78,10 @@
           "url": "https://music.apple.com/ie/album/stop-the-wedding/6805240956?i=6805240960"
         },
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085376",
-          "rank": 7,
-          "releaseDate": "2026-10-16",
-          "title": "Demolition",
-          "url": "https://music.apple.com/ie/album/demolition/6792085051?i=6792085376"
-        },
-        {
           "artist": "Zach Bryan & Lana Del Rey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944296",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-10-15",
           "title": "Lies (feat. Lana Del Rey)",
           "url": "https://music.apple.com/ie/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
@@ -98,26 +89,35 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085384",
-          "rank": 9,
-          "releaseDate": "2026-09-30",
-          "title": "Tongue",
-          "url": "https://music.apple.com/ie/album/tongue/6792085051?i=6792085384"
+          "id": "6792085376",
+          "rank": 8,
+          "releaseDate": "2026-10-16",
+          "title": "Demolition",
+          "url": "https://music.apple.com/ie/album/demolition/6792085051?i=6792085376"
         },
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
           "id": "6792085054",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-10-16",
           "title": "Six Shot Morning",
           "url": "https://music.apple.com/ie/album/six-shot-morning/6792085051?i=6792085054"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085384",
+          "rank": 10,
+          "releaseDate": "2026-09-30",
+          "title": "Tongue",
+          "url": "https://music.apple.com/ie/album/tongue/6792085051?i=6792085384"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 15:59:34 +0000",
+        "observedAt": "Sun, 25 Oct 2026 16:21:54 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-25T15:59:03Z",
+        "observedAt": "2026-10-25T16:20:58Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "edde1097f5a1435731bb2e2eaa50bcef28f32499f06c496aeb5b67791c6b373e",
+  "contentHash": "f1475546554b1bda27b364c47bea8f12dcdf30e023dfcaf251ce4ce0fbd363a6",
   "country": "IE",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T15:59:03Z",
+  "generatedAt": "2026-10-25T16:20:58Z",
   "schemaVersion": 1
 }

@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T15:59:03Z",
+        "observedAt": "2026-10-25T16:20:58Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -96,22 +96,22 @@
           "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
         },
         {
-          "artist": "The Killers",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/ef/5b/42ef5b97-a08f-9136-ce8e-176adc8ca28d/18UMGIM00359.rgb.jpg/100x100bb.jpg",
-          "id": "1442970583",
-          "rank": 4,
-          "releaseDate": "2003-09-23",
-          "title": "Mr. Brightside",
-          "url": "https://music.apple.com/de/album/mr-brightside/1442970218?i=1442970583"
-        },
-        {
           "artist": "Shakira & Burna Boy",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
           "id": "6768469976",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-05-14",
           "title": "Dai Dai",
           "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
+        },
+        {
+          "artist": "The Killers",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/ef/5b/42ef5b97-a08f-9136-ce8e-176adc8ca28d/18UMGIM00359.rgb.jpg/100x100bb.jpg",
+          "id": "1442970583",
+          "rank": 5,
+          "releaseDate": "2003-09-23",
+          "title": "Mr. Brightside",
+          "url": "https://music.apple.com/de/album/mr-brightside/1442970218?i=1442970583"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
@@ -123,46 +123,46 @@
           "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884101",
-          "rank": 7,
-          "releaseDate": "2026-07-23",
-          "title": "Ain't In LA",
-          "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
-        },
-        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
           "id": "6805240960",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/de/album/stop-the-wedding/6805240956?i=6805240960"
         },
         {
-          "artist": "Capital Bra & Samra",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/97/d3/9397d3a5-4d94-e495-585a-d788266cb4e2/26UMGIM80769.rgb.jpg/100x100bb.jpg",
-          "id": "6786168480",
-          "rank": 9,
-          "releaseDate": null,
-          "title": "ASSALAMUALEIKUM",
-          "url": "https://music.apple.com/de/album/assalamualeikum/6786168471?i=6786168480"
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884101",
+          "rank": 8,
+          "releaseDate": "2026-07-23",
+          "title": "Ain't In LA",
+          "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
         },
         {
           "artist": "Temper City",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/100x100bb.jpg",
           "id": "1877803360",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-02-15",
           "title": "Self Aware",
           "url": "https://music.apple.com/de/album/self-aware/1877803357?i=1877803360"
+        },
+        {
+          "artist": "Capital Bra & Samra",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/97/d3/9397d3a5-4d94-e495-585a-d788266cb4e2/26UMGIM80769.rgb.jpg/100x100bb.jpg",
+          "id": "6786168480",
+          "rank": 10,
+          "releaseDate": null,
+          "title": "ASSALAMUALEIKUM",
+          "url": "https://music.apple.com/de/album/assalamualeikum/6786168471?i=6786168480"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 16:00:27 +0000",
+        "observedAt": "Sun, 25 Oct 2026 16:22:17 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-25T15:59:03Z",
+        "observedAt": "2026-10-25T16:20:58Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "f2101ad3587f8898f0cf758057f844f740670456a7e3c09ab97590467d9a9b44",
+  "contentHash": "2247f5f526f545d1bfb74c41e111806610e13d679abdfe29276d6d374e299a8e",
   "country": "DE",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T15:59:03Z",
+  "generatedAt": "2026-10-25T16:20:58Z",
   "schemaVersion": 1
 }

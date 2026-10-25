@@ -20,7 +20,7 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-25T15:59:03Z",
+  "generatedAt": "2026-10-25T16:20:58Z",
   "latestDate": "2026-10-25",
   "runStatus": [
     {
@@ -121,9 +121,8 @@
       "status": "ok"
     },
     {
-      "detail": "Invalid ZIP archive: File is not a zip file",
       "source": "governmentNames/CA",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "governmentNames/FR",
@@ -155,12 +154,13 @@
       "status": "carried"
     },
     {
-      "detail": "latest published annual chart retained until its official replacement",
-      "source": "namesFallback/CA",
-      "status": "carried"
+      "detail": "NIQ BookData annual snapshot · source observed 2026-05-30",
+      "source": "books/GB/adultBooks",
+      "status": "ok"
     },
     {
-      "source": "annual/GB",
+      "detail": "NIQ BookData annual snapshot · source observed 2026-05-30",
+      "source": "books/GB/childrensBooks",
       "status": "ok"
     },
     {

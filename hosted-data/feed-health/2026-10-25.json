@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T15:59:03Z",
-  "workflowRunURL": "https://github.com/andrewpmoore/kins-data/actions/runs/40209484883",
+  "generatedAt": "2026-10-25T16:20:58Z",
+  "workflowRunURL": "https://github.com/andrewpmoore/kins-data/actions/runs/40211231498",
   "runStatus": [
     {
       "source": "appleMusic/AU",
@@ -59,8 +59,7 @@
     },
     {
       "source": "governmentNames/CA",
-      "status": "error",
-      "detail": "Invalid ZIP archive: File is not a zip file"
+      "status": "ok"
     },
     {
       "source": "governmentNames/DE",
@@ -92,6 +91,10 @@
     },
     {
       "source": "mediaGames/WORLD",
+      "status": "ok"
+    },
+    {
+      "source": "mediaTelevision/ES",
       "status": "ok"
     },
     {
