@@ -43,7 +43,7 @@ jobs:
         run: python tools/data_harvest/import_legacy_data.py
       - name: Save previous feed health
         run: cp hosted-data/manifest.json "${RUNNER_TEMP}/previous-manifest.json"
-      - name: Harvest today's snapshots
+      - name: Harvest today's snapshots (SSA baby-name mirror fallback)
         env:
           NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
         run: python tools/data_harvest/harvest.py

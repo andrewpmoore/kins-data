@@ -1,63 +1,5 @@
 {
   "charts": {
-    "adultBooks": {
-      "id": "media-adultBooks-2026",
-      "items": [
-        {
-          "artworkProviderName": "Open Library",
-          "artworkSourceURL": "https://openlibrary.org/isbn/9781668236567",
-          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781668236567-L.jpg?default=false",
-          "author": "Allen Levi",
-          "coverProviderName": "Open Library",
-          "coverSourceURL": "https://openlibrary.org/isbn/9781668236567",
-          "coverURL": "https://covers.openlibrary.org/b/isbn/9781668236567-L.jpg?default=false",
-          "creator": "Allen Levi",
-          "rank": 1,
-          "scope": "US annual #1 print novel · calendar year",
-          "title": "Theo of Golden",
-          "url": "https://books.google.com/books?vid=ISBN:9781668236567"
-        }
-      ],
-      "source": {
-        "kind": "nationalBookSales",
-        "metric": "US annual #1 print novel · calendar year",
-        "observedAt": "2026-10-21",
-        "provider": "Publishers Weekly / Circana BookScan",
-        "territory": "US",
-        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2026-bestselling-books.html"
-      },
-      "title": "US print bestseller",
-      "year": 2026
-    },
-    "childrensBooks": {
-      "id": "media-childrensBooks-2026",
-      "items": [
-        {
-          "artworkProviderName": "Open Library",
-          "artworkSourceURL": "https://openlibrary.org/isbn/9780241743997",
-          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780241743997-L.jpg?default=false",
-          "author": "Richard Osman",
-          "coverProviderName": "Open Library",
-          "coverSourceURL": "https://openlibrary.org/isbn/9780241743997",
-          "coverURL": "https://covers.openlibrary.org/b/isbn/9780241743997-L.jpg?default=false",
-          "creator": "Richard Osman",
-          "rank": 1,
-          "scope": "US annual #1 children's bestseller · calendar year",
-          "title": "The Impossible Fortune",
-          "url": "https://books.google.com/books?vid=ISBN:9780241743997"
-        }
-      ],
-      "source": {
-        "kind": "nationalBookSales",
-        "metric": "US annual #1 children's bestseller · calendar year",
-        "observedAt": "2026-10-21",
-        "provider": "Publishers Weekly / Circana BookScan",
-        "territory": "US",
-        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2026-bestselling-books.html"
-      },
-      "title": "US children's bestseller",
-      "year": 2026
-    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -75,7 +17,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:56:37Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -84,7 +26,7 @@
       "year": 2026
     }
   },
-  "contentHash": "49bc98e5bfa4de1abc06c14da44d500deadce14b32e8598a41266e3eab42dad0",
+  "contentHash": "5e33b6cf54a148bd95dd95cbcd405b36f060dd5e47f129fdc488af7997fd9144",
   "country": "us",
   "schemaVersion": 1,
   "year": 2026

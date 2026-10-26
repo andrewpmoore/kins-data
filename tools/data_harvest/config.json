@@ -89,7 +89,8 @@
   "ssaNames": {
     "enabled": true,
     "limit": 10,
-    "refreshDays": 30
+    "refreshDays": 30,
+    "mirrorURL": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/{year}/girl_boy_names_{year}.json"
   },
   "governmentNames": [
     {

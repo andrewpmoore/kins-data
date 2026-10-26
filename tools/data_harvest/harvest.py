@@ -43,6 +43,7 @@ APPLE_CHART_URL = (
     "{country}/music/most-played/{limit}/songs.json"
 )
 SSA_NAMES_URL = "https://www.ssa.gov/oact/babynames/names.zip"
+SSA_MIRROR_URL = "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/{year}/girl_boy_names_{year}.json"
 NYT_LIST_URL = "https://api.nytimes.com/svc/books/v3/lists/current/{list_name}.json"
 APPLE_STORE_FEEDS = {
     "movies": ("topmovies", None, "Top Movies", "Apple Store chart position"),
@@ -935,6 +936,39 @@ def ssa_top_names(archive: bytes, limit: int) -> tuple[int, list[dict[str, Any]]
     return year, items
 
 
+def ssa_mirror_top_names(url_template: str, target_year: int, limit: int) -> tuple[int, list[dict[str, Any]], str]:
+    """Read the latest available SSA ranking from a public GitHub mirror.
+
+    The mirror publishes the top 1,000 names per sex in popularity order. It
+    omits counts, so this fallback preserves rank and exact spelling only.
+    """
+    errors = []
+    for candidate_year in range(target_year, max(1879, target_year - 3), -1):
+        url = url_template.format(year=candidate_year)
+        try:
+            value = json.loads(fetch(url))
+            year = int(value.get("year", 0))
+            if year != candidate_year:
+                raise HarvestError(f"SSA mirror year mismatch: requested {candidate_year}, got {year}")
+            girls, boys = value.get("girls"), value.get("boys")
+            if not isinstance(girls, list) or not isinstance(boys, list):
+                raise HarvestError("SSA mirror JSON has no girls/boys name lists")
+            items = []
+            for category, names in (("girl", girls), ("boy", boys)):
+                if len(names) < limit or any(not isinstance(name, str) or not name.strip() for name in names[:limit]):
+                    raise HarvestError(f"SSA mirror {category} list is incomplete for {candidate_year}")
+                if len(set(names[:limit])) != limit:
+                    raise HarvestError(f"SSA mirror {category} list contains duplicate names for {candidate_year}")
+                items.extend(
+                    {"rank": rank, "name": name, "category": category, "rankGroup": category}
+                    for rank, name in enumerate(names[:limit], start=1)
+                )
+            return year, items, url
+        except (HarvestError, UnicodeDecodeError, ValueError, TypeError, AttributeError) as error:
+            errors.append(f"{candidate_year}: {error}")
+    raise HarvestError("SSA GitHub mirror unavailable for recent years (" + "; ".join(errors) + ")")
+
+
 def cached_ssa_names(cache_dir: Path, refresh_days: int) -> bytes:
     cache_file = cache_dir / "ssa" / "names.zip"
     if cache_file.exists():
@@ -1814,23 +1848,40 @@ def harvest(config_path: Path, output: Path, cache_dir: Path, date: str, strict:
     names = config.get("ssaNames", {})
     if names.get("enabled", False) and "US" in snapshots:
         try:
-            archive = cached_ssa_names(cache_dir, int(names.get("refreshDays", 30)))
-            year, items = ssa_top_names(archive, max(1, min(int(names.get("limit", 10)), 1000)))
+            limit = max(1, min(int(names.get("limit", 10)), 1000))
+            year, items, mirror_url = ssa_mirror_top_names(
+                str(names.get("mirrorURL", SSA_MIRROR_URL)), int(date[:4]) - 1, limit
+            )
+            provider = "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)"
+            metric = "national birth-name rank by sex; exact spellings; counts omitted by mirror"
+            detail = f"SSA-derived mirror · latest available birth year {year}; ranks only, no counts"
+            chart_url = mirror_url
+        except HarvestError as mirror_error:
+            try:
+                archive = cached_ssa_names(cache_dir, int(names.get("refreshDays", 30)))
+                year, items = ssa_top_names(archive, max(1, min(int(names.get("limit", 10)), 1000)))
+                provider = "U.S. Social Security Administration"
+                metric = "national birth-name count; exact spellings; fewer than five occurrences suppressed"
+                detail = "Retrieved from SSA's national archive"
+                chart_url = "https://www.ssa.gov/oact/babynames/limits.html"
+            except (HarvestError, ValueError) as archive_error:
+                raise HarvestError(f"GitHub mirror failed: {mirror_error}; SSA archive fallback failed: {archive_error}") from archive_error
+        try:
             snapshots["US"]["charts"]["names"] = {
                 "id": "ssa-national-baby-names",
                 "title": f"Popular baby names for {year} births",
                 "year": year,
                 "source": source(
-                    "U.S. Social Security Administration",
-                    "https://www.ssa.gov/oact/babynames/limits.html",
+                    provider,
+                    chart_url,
                     "US",
-                    "national birth-name count; exact spellings; fewer than five occurrences suppressed",
+                    metric,
                     observed_at,
                     "nameRanking",
                 ),
                 "items": items,
             }
-            status.append({"source": "ssaNames/US", "status": "ok"})
+            status.append({"source": "ssaNames/US", "status": "ok", "detail": detail})
         except (HarvestError, ValueError) as error:
             status.append({"source": "ssaNames/US", "status": "error", "detail": str(error)})
 
@@ -1961,8 +2012,14 @@ def harvest(config_path: Path, output: Path, cache_dir: Path, date: str, strict:
         try:
             annual = annual_charts(annual_path, int(date[:4]), country)
             snapshots[country]["charts"].update(annual)
-            if annual:
-                status.append({"source": f"annual/{country}", "status": "ok"})
+            for key, chart in annual.items():
+                source_group = "books" if key in {"adultBooks", "childrensBooks"} else "annual"
+                detail = ""
+                if source_group == "books":
+                    provider = chart.get("source", {}).get("provider", "Annual book chart")
+                    observed = chart.get("source", {}).get("observedAt")
+                    detail = f"{provider} annual snapshot" + (f" · source observed {observed}" if observed else "")
+                status.append({"source": f"{source_group}/{country}/{key}", "status": "ok", **({"detail": detail} if detail else {})})
         except (HarvestError, ValueError) as error:
             status.append({"source": f"annual/{country}", "status": "error", "detail": str(error)})
 

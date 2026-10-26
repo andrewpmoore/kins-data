@@ -1,51 +1,5 @@
 {
   "charts": {
-    "adultBooks": {
-      "id": "media-adultBooks-2026",
-      "items": [
-        {
-          "author": "Stefania Auci",
-          "creator": "Stefania Auci",
-          "rank": 1,
-          "scope": "Classifica annuale AIE / GfK · Italia",
-          "title": "L'alba dei leoni",
-          "url": "https://books.google.com/books?q=L'alba+dei+leoni"
-        }
-      ],
-      "source": {
-        "kind": "nationalBookSales",
-        "metric": "Classifica annuale AIE / GfK · Italia",
-        "observedAt": "2026-10-21",
-        "provider": "Associazione Italiana Editori / GfK",
-        "territory": "IT",
-        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2026.aspx"
-      },
-      "title": "IT print bestseller",
-      "year": 2026
-    },
-    "childrensBooks": {
-      "id": "media-childrensBooks-2026",
-      "items": [
-        {
-          "author": "Pera Toons",
-          "creator": "Pera Toons",
-          "rank": 1,
-          "scope": "Classifica ragazzi AIE / GfK · Italia",
-          "title": "La sfida finale",
-          "url": "https://books.google.com/books?q=La+sfida+finale"
-        }
-      ],
-      "source": {
-        "kind": "nationalBookSales",
-        "metric": "Classifica ragazzi AIE / GfK · Italia",
-        "observedAt": "2026-10-21",
-        "provider": "Associazione Italiana Editori / GfK",
-        "territory": "IT",
-        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2026.aspx"
-      },
-      "title": "IT children's bestseller",
-      "year": 2026
-    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -63,7 +17,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:56:37Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -72,7 +26,7 @@
       "year": 2026
     }
   },
-  "contentHash": "669945db8b3363ee3ce22f18871e93befce27304d5004793c869296f000b24ee",
+  "contentHash": "5e33b6cf54a148bd95dd95cbcd405b36f060dd5e47f129fdc488af7997fd9144",
   "country": "it",
   "schemaVersion": 1,
   "year": 2026

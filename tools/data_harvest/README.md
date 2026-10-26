@@ -75,9 +75,13 @@ references.
 - SSA, ONS, Statistics Canada, INSEE, Ireland's CSO, New Zealand DIA/SmartStart,
   Spain's INE and Italy's Istat supply annual name rankings. Germany's GfdS public
   first-name table supplies a representative national top ten. Annual data is retained
-  in daily snapshots until a newer release replaces it. The SSA download sometimes
-  rejects automated clients, so a reviewed 2025 official top-ten seed is used only
-  until the full archive succeeds.
+  in daily snapshots until a newer release replaces it. SSA's archive ZIP returns
+  HTTP 403 to GitHub Actions, so the U.S. names adapter first reads the SSA-derived
+  top-1,000 ranking mirror at `aruljohn/popular-baby-names`; it checks the expected
+  latest birth year and falls back to the official SSA archive if the mirror is
+  unavailable. The mirror omits counts, so its chart reports ranks and exact
+  spellings only. Its 2025 top ten matches SSA's published list. The Data.gov
+  catalog identifies the underlying SSA dataset as public-domain/CC0.
 - The New York Times adapter is available but disabled. Its lists are editorial
   bestsellers, not national unit-sales totals, so the app does not use them as the
   requested national book-sales result.
@@ -90,7 +94,10 @@ references.
   structure from `manual.example.json`; a source, territory, metric and consecutive
   ranks are mandatory.
 - `annual.json` carries persistent annual records such as the current NIQ UK book
-  sales leaders. Updating it changes hosted results without an app release.
+  sales leaders. The health dashboard shows the adult and children's NIQ records
+  as separate UK book snapshot rows, including the date each source record covers.
+  They remain the latest published snapshot until NIQ publishes a replacement;
+  the daily check does not imply that the underlying chart is refreshed daily.
 - `source-candidates.json` is the audited backlog of public movie, book and game
   pages. It records why each source is active, still a candidate, limited, stale or
   unavailable so a public webpage is not mistaken for a national measured chart.
@@ -136,16 +143,23 @@ bundled fallback; a different title never inherits the previous title's artwork.
 
 `media-seed.json` supplies the reviewed historical TV/game archive and existing
 publisher/store artwork. Each scheduled run checks BARB's last completed annual
-UK table, and archives the latest officially published D.I.C.E. winner under its
-actual award year (2026 onward). Earlier BAFTA/TGA selections remain as reviewed.
+UK table and RTVE's latest configured annual report for Spain, and archives the
+latest officially published D.I.C.E. winner under its actual award year (2026
+onward). Earlier BAFTA/TGA selections remain as reviewed. The Spanish entry uses
+RTVE's public 2025 annual review, which identifies the UEFA Nations League final
+as the year's most-watched programme and reports its average audience. Add the
+new report URL to `RTVE_TV_REPORTS` when RTVE publishes its next annual review.
+Germany's AGF audience data is not republished because AGF's data terms restrict
+publication in searchable databases and archives.
 Unpublished years stay absent; a carried award does not become a new year's winner.
 Previous discovered years survive upstream failures. Country feeds contain their
 own TV record plus the global game record; `world.json` contains global games.
 
 New game artwork comes from the winning game's named image on the official award
-page. New TV posters require one exact UK-series match in TVmaze, with its source
-link and attribution. Live events and ambiguous or missing posters use the app's
-animated TV fallback. Sources that fail appear in the normal feed-health manifest.
+page. New UK TV posters require one exact UK-series match in TVmaze, with its
+source link and attribution. Live events and ambiguous or missing posters use
+the app's animated TV fallback. Sources that fail appear in the normal
+feed-health manifest.
 Artwork URLs, source links, provider names and optional verified YouTube trailer
 links travel with each item. `releaseYear` is distinct from the award year; it is
 omitted when unknown rather than inventing a release date.

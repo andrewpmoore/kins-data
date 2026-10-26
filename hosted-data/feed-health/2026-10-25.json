@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T17:11:09Z",
+  "workflowRunURL": "https://github.com/andrewpmoore/kins-data/actions/runs/40215223354",
+  "runStatus": [
+    {
+      "source": "appleMusic/AU",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/CA",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/DE",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/ES",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/FR",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/GB",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/IE",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/IT",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "appleMusic/US",
+      "status": "ok"
+    },
+    {
+      "source": "books/GB/adultBooks",
+      "status": "ok",
+      "detail": "NIQ BookData annual snapshot · source observed 2026-05-30"
+    },
+    {
+      "source": "books/GB/childrensBooks",
+      "status": "ok",
+      "detail": "NIQ BookData annual snapshot · source observed 2026-05-30"
+    },
+    {
+      "source": "gameOfYear/WORLD",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/CA",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/DE",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/ES",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/FR",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/GB",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/IE",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/IT",
+      "status": "ok"
+    },
+    {
+      "source": "governmentNames/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "mediaGames/WORLD",
+      "status": "ok"
+    },
+    {
+      "source": "mediaTelevision/ES",
+      "status": "ok"
+    },
+    {
+      "source": "mediaTelevision/GB",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/adultBooks/AU",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/adultBooks/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/adultBooks/US",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/childrensBooks/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "publicBooks/childrensBooks/US",
+      "status": "ok"
+    },
+    {
+      "source": "ssaNames/US",
+      "status": "ok",
+      "detail": "SSA-derived mirror · latest available birth year 2025; ranks only, no counts"
+    },
+    {
+      "source": "theatricalBoxOffice/AU",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/DE",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/GB",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/IT",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/NZ",
+      "status": "ok"
+    },
+    {
+      "source": "theatricalBoxOffice/US",
+      "status": "ok"
+    }
+  ]
+}

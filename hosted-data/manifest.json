@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-12T10:56:37Z",
-  "latestDate": "2026-10-12",
+  "generatedAt": "2026-10-26T08:49:46Z",
+  "latestDate": "2026-10-26",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -112,9 +112,9 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://www.ssa.gov/oact/babynames/names.zip: HTTP Error 403: Forbidden",
+      "detail": "SSA-derived mirror · latest available birth year 2025; ranks only, no counts",
       "source": "ssaNames/US",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "governmentNames/GB",
@@ -149,16 +149,21 @@
       "status": "ok"
     },
     {
-      "detail": "latest published annual chart retained until its official replacement",
-      "source": "namesFallback/US",
-      "status": "carried"
+      "detail": "NIQ BookData annual snapshot · source observed 2026-05-30",
+      "source": "books/GB/adultBooks",
+      "status": "ok"
     },
     {
-      "source": "annual/GB",
+      "detail": "NIQ BookData annual snapshot · source observed 2026-05-30",
+      "source": "books/GB/childrensBooks",
       "status": "ok"
     },
     {
       "source": "mediaTelevision/GB",
+      "status": "ok"
+    },
+    {
+      "source": "mediaTelevision/ES",
       "status": "ok"
     },
     {

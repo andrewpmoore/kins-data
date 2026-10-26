@@ -1,51 +1,5 @@
 {
   "charts": {
-    "adultBooks": {
-      "id": "media-adultBooks-2026",
-      "items": [
-        {
-          "author": "Sebastian Fitzek",
-          "creator": "Sebastian Fitzek",
-          "rank": 1,
-          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
-          "title": "Der Schlüssel",
-          "url": "https://books.google.com/books?q=Der+Schlüssel"
-        }
-      ],
-      "source": {
-        "kind": "nationalBookSales",
-        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
-        "observedAt": "2026-10-21",
-        "provider": "Spiegel / buchreport",
-        "territory": "DE",
-        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2026/"
-      },
-      "title": "DE print bestseller",
-      "year": 2026
-    },
-    "childrensBooks": {
-      "id": "media-childrensBooks-2026",
-      "items": [
-        {
-          "author": "Marc-Uwe Kling",
-          "creator": "Marc-Uwe Kling",
-          "rank": 1,
-          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
-          "title": "Das Neinhorn und der Schnapp",
-          "url": "https://books.google.com/books?q=Das+Neinhorn+und+der+Schnapp"
-        }
-      ],
-      "source": {
-        "kind": "nationalBookSales",
-        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
-        "observedAt": "2026-10-21",
-        "provider": "Spiegel / buchreport",
-        "territory": "DE",
-        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2026/"
-      },
-      "title": "DE children's bestseller",
-      "year": 2026
-    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -63,7 +17,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:56:37Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -72,7 +26,7 @@
       "year": 2026
     }
   },
-  "contentHash": "c469f9573b0af03172b778c632aa7891fcc3c1120d4f3f9e7d91c5c102cf2dae",
+  "contentHash": "5e33b6cf54a148bd95dd95cbcd405b36f060dd5e47f129fdc488af7997fd9144",
   "country": "de",
   "schemaVersion": 1,
   "year": 2026

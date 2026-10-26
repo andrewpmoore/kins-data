@@ -1,51 +1,5 @@
 {
   "charts": {
-    "adultBooks": {
-      "id": "media-adultBooks-2025",
-      "items": [
-        {
-          "author": "María Oruña",
-          "creator": "María Oruña",
-          "rank": 1,
-          "scope": "Libro de mayor venta · España",
-          "title": "El albatros negro",
-          "url": "https://books.google.com/books?q=El+albatros+negro"
-        }
-      ],
-      "source": {
-        "kind": "nationalBookSales",
-        "metric": "Libro de mayor venta · España",
-        "observedAt": "2026-10-21",
-        "provider": "FGEE / GfK",
-        "territory": "ES",
-        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2025.aspx"
-      },
-      "title": "ES print bestseller",
-      "year": 2025
-    },
-    "childrensBooks": {
-      "id": "media-childrensBooks-2025",
-      "items": [
-        {
-          "author": "Rebecca Yarros",
-          "creator": "Rebecca Yarros",
-          "rank": 1,
-          "scope": "Libro infantil y juvenil más vendido · España",
-          "title": "Alas de hierro",
-          "url": "https://books.google.com/books?q=Alas+de+hierro"
-        }
-      ],
-      "source": {
-        "kind": "nationalBookSales",
-        "metric": "Libro infantil y juvenil más vendido · España",
-        "observedAt": "2026-10-21",
-        "provider": "FGEE / GfK",
-        "territory": "ES",
-        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2025.aspx"
-      },
-      "title": "ES children's bestseller",
-      "year": 2025
-    },
     "games": {
       "id": "media-awardWinner-2025",
       "items": [
@@ -69,9 +23,30 @@
       },
       "title": "The Game Awards · Game of the Year",
       "year": 2025
+    },
+    "television": {
+      "id": "rtve-television-2025",
+      "items": [
+        {
+          "audience": "8.321m",
+          "channel": "La 1",
+          "rank": 1,
+          "title": "UEFA Nations League final (match, extra time & penalties)"
+        }
+      ],
+      "source": {
+        "kind": "annualTelevisionAudience",
+        "metric": "Annual most-watched programme · average viewers",
+        "observedAt": "2026-10-26T00:00:00Z",
+        "provider": "RTVE",
+        "territory": "ES",
+        "url": "https://www.rtve.es/rtve/20251230/11-crece-medio-punto-2025-obtiene-mejor-cuota-13-anos-la-1/16877996.shtml"
+      },
+      "title": "Spain most-watched broadcast",
+      "year": 2025
     }
   },
-  "contentHash": "c13a4bd1429487559c8be3f9466ead4506f2a1c43f8b4dcba06461c85c21ea21",
+  "contentHash": "92951f37652d685c1ccbfcabc245882954fce513759a4c49eed0f86bead00ec4",
   "country": "es",
   "schemaVersion": 1,
   "year": 2025

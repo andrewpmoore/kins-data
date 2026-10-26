@@ -1,0 +1,508 @@
+{
+  "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "publishers-weekly-adult-2026-10-19",
+      "items": [
+        {
+          "creator": "Freida McFadden",
+          "isbn13": "9781464249648",
+          "rank": 1,
+          "title": "The Witch"
+        },
+        {
+          "creator": "Rebecca Yarros",
+          "isbn13": "9781682818084",
+          "rank": 2,
+          "title": "Threshing Day (Wing and Claw Collection)"
+        },
+        {
+          "creator": "J. K. Rowling, Levi Pinfold",
+          "isbn13": "9780545791441",
+          "rank": 3,
+          "title": "Harry Potter and the Half-Blood Prince: The Illustrated Edition"
+        },
+        {
+          "creator": "Stephen King, Peter Straub",
+          "isbn13": "9781668233092",
+          "rank": 4,
+          "title": "Other Worlds Than These: A Talisman Novel"
+        },
+        {
+          "creator": "Allen Levi",
+          "isbn13": "9781668236512",
+          "rank": 5,
+          "title": "Theo of Golden"
+        },
+        {
+          "creator": "Grisham, John",
+          "isbn13": "9780385550543",
+          "rank": 6,
+          "title": "The French Illusion",
+          "url": "https://www.publishersweekly.com/9780385550543"
+        },
+        {
+          "creator": "Veronica Roth",
+          "isbn13": "9780063462540",
+          "rank": 7,
+          "title": "The Sixth Faction Deluxe Limited Edition"
+        },
+        {
+          "creator": "Barbara Kingsolver",
+          "isbn13": "9780063577541",
+          "rank": 8,
+          "title": "Partita",
+          "url": "https://www.publishersweekly.com/9780063577541"
+        },
+        {
+          "creator": "Colleen Hoover",
+          "isbn13": "9781538784051",
+          "rank": 9,
+          "title": "Verity"
+        },
+        {
+          "creator": "Manuel Garand",
+          "isbn13": "9781454961796",
+          "rank": 10,
+          "title": "Murdoku: 80 Murder Mystery Logic Puzzles"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Top 10 Overall",
+        "observedAt": "2026-10-19",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
+      },
+      "title": "Circana BookScan Top 10 Overall"
+    },
+    "childrensBooks": {
+      "audience": "children",
+      "id": "publishers-weekly-children-2026-10-19",
+      "items": [
+        {
+          "creator": "J. K. Rowling, Levi Pinfold",
+          "isbn13": "9780545791441",
+          "rank": 1,
+          "title": "Harry Potter and the Half-Blood Prince: The Illustrated Edition"
+        },
+        {
+          "creator": "Veronica Roth",
+          "isbn13": "9780063462540",
+          "rank": 2,
+          "title": "The Sixth Faction Deluxe Limited Edition"
+        },
+        {
+          "creator": "Stephenie Meyer",
+          "isbn13": "9780316599399",
+          "rank": 3,
+          "title": "New Moon: Deluxe Collector's Edition (Special)"
+        },
+        {
+          "creator": "Lynn Painter",
+          "isbn13": "9798347100217",
+          "rank": 4,
+          "title": "Trust Fall",
+          "url": "https://www.publishersweekly.com/9798347100217"
+        },
+        {
+          "creator": "Stuart Gibbs",
+          "isbn13": "9781665986717",
+          "rank": 5,
+          "title": "Spy School Goes East"
+        },
+        {
+          "creator": "Suzanne Collins",
+          "isbn13": "9781546171461",
+          "rank": 6,
+          "title": "Sunrise on the Reaping (the Hunger Games)",
+          "url": "https://www.publishersweekly.com/9781546171461"
+        },
+        {
+          "creator": "Hervé Commère",
+          "isbn13": "9798347119615",
+          "rank": 7,
+          "title": "21 Days of Fear: One Day, One Letter"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "isbn13": "9781419788109",
+          "rank": 8,
+          "title": "Rowley Jefferson's Awesome Friendly Spooky Stories 2: From the Creator of Diary of a Wimpy Kid"
+        },
+        {
+          "creator": "Raina Telgemeier, Adapted by, Raina Telgemeier, Gale Galligan, Adapted by, Gale Galligan, Ann M Martin",
+          "isbn13": "9781546174363",
+          "rank": 9,
+          "title": "Baby-Sitters on Board!: A Graphic Novel (the Baby-Sitters Club Super Special #1)"
+        },
+        {
+          "creator": "Rick Riordan, Annabelle Oh",
+          "isbn13": "9798217445981",
+          "rank": 10,
+          "title": "Camp Half-Blood: From the World of Percy Jackson: The Wild Zone"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Children's Frontlist Fiction",
+        "observedAt": "2026-10-19",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
+      },
+      "title": "Circana BookScan Children's Frontlist Fiction"
+    },
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-10-23T08:29:12Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "movies": {
+      "id": "the-numbers-us-2026-10-16",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Street Fighter",
+          "totalGross": "$30,775,377",
+          "url": "https://www.the-numbers.com/movie/Street-Fighter-(2026)",
+          "weekendGross": "$30,775,377"
+        },
+        {
+          "rank": 2,
+          "title": "You Can See Everything",
+          "totalGross": "$15,601,418",
+          "url": "https://www.the-numbers.com/movie/You-Can-See-Everything-(2026)",
+          "weekendGross": "$15,601,418"
+        },
+        {
+          "rank": 3,
+          "title": "Other Mommy",
+          "totalGross": "$44,709,120",
+          "url": "https://www.the-numbers.com/movie/Other-Mommy-(2026)",
+          "weekendGross": "$8,204,680"
+        },
+        {
+          "rank": 4,
+          "title": "Whalefall",
+          "totalGross": "$7,837,153",
+          "url": "https://www.the-numbers.com/movie/Whalefall-(2026)",
+          "weekendGross": "$7,837,153"
+        },
+        {
+          "rank": 5,
+          "title": "Sense and Sensibility",
+          "totalGross": "$7,203,465",
+          "url": "https://www.the-numbers.com/movie/Sense-and-Sensibility-(2026)",
+          "weekendGross": "$7,203,465"
+        },
+        {
+          "rank": 6,
+          "title": "Verity",
+          "totalGross": "$65,927,001",
+          "url": "https://www.the-numbers.com/movie/Verity-(2026)",
+          "weekendGross": "$6,046,599"
+        },
+        {
+          "rank": 7,
+          "title": "Resident Evil",
+          "totalGross": "$148,459,411",
+          "url": "https://www.the-numbers.com/movie/Resident-Evil-(2026)",
+          "weekendGross": "$5,501,456"
+        },
+        {
+          "rank": 8,
+          "title": "Heart of the Beast",
+          "totalGross": "$58,228,952",
+          "url": "https://www.the-numbers.com/movie/Heart-of-the-Beast-(2026)",
+          "weekendGross": "$4,740,501"
+        },
+        {
+          "rank": 9,
+          "title": "Jailer 2",
+          "totalGross": "$5,091,000",
+          "url": "https://www.the-numbers.com/movie/Jailer-2-(2026-India)",
+          "weekendGross": "$3,091,000"
+        },
+        {
+          "rank": 10,
+          "title": "Forgotten Island",
+          "totalGross": "$35,206,990",
+          "url": "https://www.the-numbers.com/movie/Forgotten-Island-(2026)",
+          "weekendGross": "$2,349,725"
+        }
+      ],
+      "reportPeriod": "2026-10-16/2026-10-18",
+      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/16",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "US theatrical weekend gross",
+        "observedAt": "2026-10-18",
+        "provider": "The Numbers",
+        "territory": "US",
+        "url": "https://www.the-numbers.com/box-office"
+      },
+      "title": "US weekend theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 1,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Zach Bryan & Lana Del Rey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944296",
+          "rank": 2,
+          "releaseDate": "2026-10-15",
+          "title": "Lies (feat. Lana Del Rey)",
+          "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 3,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 4,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Drake & Don Toliver",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209989",
+          "rank": 5,
+          "releaseDate": "2026-10-02",
+          "title": "Solar Eclipse",
+          "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
+          "id": "6807192825",
+          "rank": 6,
+          "releaseDate": "2026-09-03",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825"
+        },
+        {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
+          "rank": 7,
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209990",
+          "rank": 8,
+          "releaseDate": "2026-10-02",
+          "title": "Quebec",
+          "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+          "id": "6792676860",
+          "rank": 9,
+          "releaseDate": "2026-07-24",
+          "title": "Been By Now",
+          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
+          "artist": "Zach Bryan",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944289",
+          "rank": 10,
+          "releaseDate": "2026-10-16",
+          "title": "Lodi When",
+          "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Fri, 23 Oct 2026 08:29:13 +0000",
+        "provider": "Apple Music",
+        "territory": "US",
+        "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "ssa-national-baby-names-2025-seed",
+      "items": [
+        {
+          "category": "girl",
+          "name": "Olivia",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Emma",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Amelia",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Charlotte",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Mia",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sophia",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Isabella",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Evelyn",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Ava",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sofia",
+          "rank": 10,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "boy",
+          "name": "Liam",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Noah",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Oliver",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Theodore",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "James",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Henry",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Mateo",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Elijah",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Lucas",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "William",
+          "rank": 10,
+          "rankGroup": "boy"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national birth-name rank by sex; published top ten; exact spelling",
+        "observedAt": "2026-05-08",
+        "provider": "U.S. Social Security Administration",
+        "territory": "US",
+        "url": "https://www.ssa.gov/oact/babynames/"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "8a0724684f6d36cd2620931718365e031fc12447ef6c29c31d59a936494d070e",
+  "country": "US",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T08:29:12Z",
+  "schemaVersion": 1
+}

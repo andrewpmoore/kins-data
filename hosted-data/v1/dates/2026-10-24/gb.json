@@ -1,0 +1,424 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "niq-uk-adult-books-2026-to-05-30",
+      "items": [
+        {
+          "creator": "Freida McFadden",
+          "isbn13": "9780349132884",
+          "rank": 1,
+          "title": "The Housemaid"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print unit sales to 30 May 2026; £1 World Book Day editions excluded",
+        "observedAt": "2026-05-30",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2026/independent-bookshop-week-2026/"
+      },
+      "title": "UK print no. 1 · to 30 May 2026"
+    },
+    "childrensBooks": {
+      "id": "niq-uk-childrens-books-2026-to-05-30",
+      "items": [
+        {
+          "creator": "Coco Wyo",
+          "isbn13": "9780241764220",
+          "rank": 1,
+          "title": "Cozy Corner"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's & YA print unit sales to 30 May 2026; £1 World Book Day editions excluded",
+        "observedAt": "2026-05-30",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2026/independent-bookshop-week-2026/"
+      },
+      "title": "UK children's & YA no. 1 · to 30 May 2026"
+    },
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-10-24T08:04:17Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "movies": {
+      "id": "bfi-weekend-box-office-2026-10-18",
+      "items": [
+        {
+          "countryOfOrigin": "USA",
+          "distributor": "Paramount",
+          "rank": 1,
+          "title": "Street Fighter",
+          "weekendGross": "£2,313,689",
+          "weeksOnRelease": "1"
+        },
+        {
+          "countryOfOrigin": "Japan/USA",
+          "distributor": "Universal",
+          "rank": 2,
+          "title": "Forgotten Island",
+          "weekendGross": "£1,299,539",
+          "weeksOnRelease": "1"
+        },
+        {
+          "countryOfOrigin": "India",
+          "distributor": "TGS Cinemas",
+          "rank": 3,
+          "title": "Jailer 2",
+          "weekendGross": "£1,169,412",
+          "weeksOnRelease": "1"
+        },
+        {
+          "countryOfOrigin": "USA",
+          "distributor": "Sony Pictures",
+          "rank": 4,
+          "title": "Verity",
+          "weekendGross": "£1,094,503",
+          "weeksOnRelease": "3"
+        },
+        {
+          "countryOfOrigin": "USA",
+          "distributor": "Universal",
+          "rank": 5,
+          "title": "Other Mommy",
+          "weekendGross": "£934,095",
+          "weeksOnRelease": "2"
+        },
+        {
+          "countryOfOrigin": "UK",
+          "distributor": "Trafalgar Releasing",
+          "rank": 6,
+          "title": "Hadestown: The Musical (Musical)",
+          "weekendGross": "£623,906",
+          "weeksOnRelease": "2"
+        },
+        {
+          "countryOfOrigin": "USA",
+          "distributor": "Disney",
+          "rank": 7,
+          "title": "Whalefall",
+          "weekendGross": "£510,743",
+          "weeksOnRelease": "1"
+        },
+        {
+          "countryOfOrigin": "USA",
+          "distributor": "Paramount",
+          "rank": 8,
+          "title": "Heart Of The Beast",
+          "weekendGross": "£509,839",
+          "weeksOnRelease": "4"
+        },
+        {
+          "countryOfOrigin": "USA/Germany/France",
+          "distributor": "Sony Pictures",
+          "rank": 9,
+          "title": "Resident Evil",
+          "weekendGross": "£482,942",
+          "weeksOnRelease": "5"
+        },
+        {
+          "countryOfOrigin": "UK",
+          "distributor": "Universal",
+          "rank": 10,
+          "title": "Sense And Sensibility",
+          "weekendGross": "£311,458",
+          "weeksOnRelease": "4"
+        }
+      ],
+      "reportTitle": "Weekend box office report: 16 to 18 October 2026",
+      "reportURL": "https://core-cms.bfi.org.uk/media/45702/download",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
+        "observedAt": "2026-10-24T08:04:17Z",
+        "provider": "British Film Institute",
+        "territory": "GB",
+        "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
+      },
+      "title": "UK weekend theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 1,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
+          "rank": 2,
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373"
+        },
+        {
+          "artist": "SIENNA SPIRO",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
+          "id": "6769552411",
+          "rank": 3,
+          "releaseDate": "2026-07-02",
+          "title": "Great Expectation",
+          "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411"
+        },
+        {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
+          "rank": 4,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 5,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 6,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
+          "rank": 7,
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 8,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
+          "id": "6807192825",
+          "rank": 9,
+          "releaseDate": "2026-09-03",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/gb/album/nicole-kidman/6807192580?i=6807192825"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
+          "id": "6779097534",
+          "rank": 10,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/gb/album/stupid-song/6779097512?i=6779097534"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Sat, 24 Oct 2026 08:04:45 +0000",
+        "provider": "Apple Music",
+        "territory": "GB",
+        "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "ons-baby-names-england-wales",
+      "items": [
+        {
+          "category": "boy",
+          "count": 5957,
+          "name": "Muhammad",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 4075,
+          "name": "Noah",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3278,
+          "name": "Leo",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3266,
+          "name": "Luca",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3211,
+          "name": "Arthur",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3154,
+          "name": "Oliver",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3082,
+          "name": "George",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2798,
+          "name": "Oscar",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2638,
+          "name": "Theodore",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2526,
+          "name": "Freddie",
+          "rank": 10,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "girl",
+          "count": 2386,
+          "name": "Olivia",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2249,
+          "name": "Lily",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2153,
+          "name": "Amelia",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1959,
+          "name": "Isla",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1924,
+          "name": "Florence",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1802,
+          "name": "Freya",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1789,
+          "name": "Poppy",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1700,
+          "name": "Elsie",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1698,
+          "name": "Ivy",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1690,
+          "name": "Isabella",
+          "rank": 10,
+          "rankGroup": "girl"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
+        "observedAt": "2026-10-24T08:04:17Z",
+        "provider": "Office for National Statistics",
+        "territory": "GB",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "9fd0628c8b9f2916baa8d8a94dc3e697c2e9f3b332fba4c7e305ddb33a2f6a11",
+  "country": "GB",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T08:04:17Z",
+  "schemaVersion": 1
+}

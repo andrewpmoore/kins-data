@@ -2,73 +2,73 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-10-12",
+      "id": "bookhub-nielsen-indie-2026-10-26",
       "items": [
         {
           "category": "NZ Fiction",
-          "isbn13": "9781776951406",
+          "isbn13": "9781776923199",
           "rank": 1,
-          "title": "The Star Path: A Return to the World of The Whale Rider"
+          "title": "The Starving Bride"
         },
         {
           "category": "Fiction",
-          "isbn13": "9781529937831",
+          "isbn13": "9780571404728",
           "rank": 2,
-          "title": "Our Noble Selves"
-        },
-        {
-          "category": "Fantasy",
-          "isbn13": "9780349450612",
-          "rank": 3,
-          "title": "Threshing Day (Empyrean #3.5) (International Edition)"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9781035081295",
-          "rank": 4,
-          "title": "Exit Party"
+          "title": "Partita"
         },
         {
           "category": "Children & Young Adult",
           "isbn13": "9781037408724",
-          "rank": 5,
+          "rank": 3,
           "title": "Gruffalo Granny"
         },
         {
           "category": "NZ Non-fiction",
           "isbn13": "9781988550916",
-          "rank": 6,
+          "rank": 4,
           "title": "Dirty Work: The Taxpayers' Union and New Zealand's Hard Right"
         },
         {
-          "category": "Fiction",
-          "isbn13": "9780241814307",
-          "rank": 7,
-          "title": "The Things We Never Say"
+          "category": "Non-Fiction",
+          "isbn13": "9781991006868",
+          "rank": 5,
+          "title": "In the Room: A firsthand account of the Jacinda Ardern years"
         },
         {
           "category": "Non-Fiction",
-          "isbn13": "9780241848395",
+          "isbn13": "9781991006776",
+          "rank": 6,
+          "title": "Nothing But the Truth (HB)"
+        },
+        {
+          "category": "NZ Fiction",
+          "isbn13": "9781869715670",
+          "rank": 7,
+          "title": "A Siena Love Story"
+        },
+        {
+          "category": "Children & Young Adult",
+          "isbn13": "9781869715748",
           "rank": 8,
-          "title": "End Times Fascism: And the Fight for the Living World"
+          "title": "The Fate of Dragons (Dragonfall 1)"
         },
         {
-          "category": "Biography",
-          "isbn13": "9781991006349",
+          "category": "Children & Young Adult",
+          "isbn13": "9781869715564",
           "rank": 9,
-          "title": "That Woman"
+          "title": "The Anaconda Attack (Miles and Jones 1)"
         },
         {
-          "category": "Not a Book",
-          "isbn13": "9781682818084",
+          "category": "NZ Fiction",
+          "isbn13": "9781991348272",
           "rank": 10,
-          "title": "Threshing Day (Empyrean #3.5, novella) (Wing & Claw edition)"
+          "title": "Feral and Other Stories"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-10-12",
+        "observedAt": "2026-10-26",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -77,43 +77,43 @@
     },
     "childrensBooks": {
       "audience": "children",
-      "id": "booksellers-nz-children-2026-10-08",
+      "id": "booksellers-nz-children-2026-10-22",
       "items": [
+        {
+          "creator": "Deano Yipadee & Bruce Potter",
+          "isbn13": "9781775439295",
+          "rank": 1,
+          "title": "Nee Naw's Cracker Christmas"
+        },
+        {
+          "creator": "Sarina Clark & Alba Gil Celdran",
+          "isbn13": "9781869715748",
+          "rank": 2,
+          "title": "The Fate of Dragons (Dragonfall 1)"
+        },
+        {
+          "creator": "Sam Smith & César Lador",
+          "isbn13": "9781869715564",
+          "rank": 3,
+          "title": "The Anaconda Attack (Miles & Jones 1)"
+        },
+        {
+          "creator": "Fiona Farrell & David Elliot",
+          "isbn13": "9781991142276",
+          "rank": 4,
+          "title": "Once Upon a Harbour"
+        },
         {
           "creator": "Donovan Bixley",
           "isbn13": "9781869715724",
-          "rank": 1,
-          "title": "The Sweet As Looky Book"
-        },
-        {
-          "creator": "Lynley Dodd",
-          "isbn13": "9781776957545",
-          "rank": 2,
-          "title": "Schnitzel Von Krumm, Dogs Never Climb Trees"
-        },
-        {
-          "creator": "Deano Yipadee & Bruce Potter",
-          "isbn13": "9781775438069",
-          "rank": 3,
-          "title": "Moto Mike the Motorbike (Nee Naw and Friends)"
-        },
-        {
-          "creator": "Ruth Shaw & Deborah Hinde",
-          "isbn13": "9781991142504",
-          "rank": 4,
-          "title": "Millie from Milford"
-        },
-        {
-          "creator": "Lynley Dodd",
-          "isbn13": "9780143504450",
           "rank": 5,
-          "title": "Hairy Maclary from Donaldson's Dairy"
+          "title": "The Sweet As Looky Book"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "NZ Children and Teens",
-        "observedAt": "2026-10-08",
+        "observedAt": "2026-10-22",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
@@ -132,7 +132,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-12T10:56:37Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -141,95 +141,95 @@
       "year": 2026
     },
     "movies": {
-      "id": "box-office-mojo-nz-2026-10-04",
+      "id": "box-office-mojo-nz-2026-10-18",
       "items": [
         {
-          "distributor": "Amazon MGM Studios",
-          "rank": 1,
-          "title": "Verity",
-          "url": "https://www.boxofficemojo.com/release/rl2992013569/?ref_=bo_we_table_1",
-          "weekendGross": "$362,441",
-          "weeksOnRelease": "1"
-        },
-        {
           "distributor": "Paramount Pictures International",
-          "rank": 2,
-          "title": "Heart of the Beast",
-          "url": "https://www.boxofficemojo.com/release/rl145588225/?ref_=bo_we_table_2",
-          "weekendGross": "$276,640",
-          "weeksOnRelease": "2"
-        },
-        {
-          "distributor": "Zee Cinema",
-          "rank": 3,
-          "title": "Drishyam: The Conclusion",
-          "url": "https://www.boxofficemojo.com/release/rl2388033793/?ref_=bo_we_table_3",
-          "weekendGross": "$142,538",
+          "rank": 1,
+          "title": "Street Fighter",
+          "url": "https://www.boxofficemojo.com/release/rl2061795329/?ref_=bo_we_table_1",
+          "weekendGross": "$161,680",
           "weeksOnRelease": "1"
         },
         {
           "distributor": "Universal Pictures International (UPI)",
-          "rank": 4,
-          "title": "Forgotten Island",
-          "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_4",
-          "weekendGross": "$138,741",
-          "weeksOnRelease": "3"
-        },
-        {
-          "distributor": "Sony Pictures Releasing",
-          "rank": 5,
-          "title": "Resident Evil",
-          "url": "https://www.boxofficemojo.com/release/rl3444736257/?ref_=bo_we_table_5",
-          "weekendGross": "$94,398",
-          "weeksOnRelease": "3"
+          "rank": 2,
+          "title": "Sense and Sensibility",
+          "url": "https://www.boxofficemojo.com/release/rl2153152769/?ref_=bo_we_table_2",
+          "weekendGross": "$104,921",
+          "weeksOnRelease": "1"
         },
         {
           "distributor": "Paramount Pictures International",
-          "rank": 6,
-          "title": "PAW Patrol: The Dino Movie",
-          "url": "https://www.boxofficemojo.com/release/rl173637633/?ref_=bo_we_table_6",
-          "weekendGross": "$91,110",
+          "rank": 3,
+          "title": "Heart of the Beast",
+          "url": "https://www.boxofficemojo.com/release/rl145588225/?ref_=bo_we_table_3",
+          "weekendGross": "$103,702",
+          "weeksOnRelease": "4"
+        },
+        {
+          "distributor": "Wanderlust Films",
+          "rank": 4,
+          "title": "Jailer 2",
+          "url": "https://www.boxofficemojo.com/release/rl4183654657/?ref_=bo_we_table_4",
+          "weekendGross": "$101,489",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Amazon MGM Studios",
+          "rank": 5,
+          "title": "Verity",
+          "url": "https://www.boxofficemojo.com/release/rl2992013569/?ref_=bo_we_table_5",
+          "weekendGross": "$82,850",
           "weeksOnRelease": "3"
         },
         {
-          "distributor": "StudioCanal",
+          "distributor": "Walt Disney Pictures",
+          "rank": 6,
+          "title": "Hadestown: The Musical",
+          "url": "https://www.boxofficemojo.com/release/rl4200431873/?ref_=bo_we_table_6",
+          "weekendGross": "$46,307",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
           "rank": 7,
-          "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-          "url": "https://www.boxofficemojo.com/release/rl794198273/?ref_=bo_we_table_7",
-          "weekendGross": "$62,614",
+          "title": "Other Mommy",
+          "url": "https://www.boxofficemojo.com/release/rl341475585/?ref_=bo_we_table_7",
+          "weekendGross": "$39,345",
           "weeksOnRelease": "2"
         },
         {
-          "distributor": "Warner Bros.",
+          "distributor": "Walt Disney Pictures",
           "rank": 8,
-          "title": "Digger",
-          "url": "https://www.boxofficemojo.com/release/rl2404811009/?ref_=bo_we_table_8",
-          "weekendGross": "$59,996",
+          "title": "Whalefall",
+          "url": "https://www.boxofficemojo.com/release/rl3193798913/?ref_=bo_we_table_8",
+          "weekendGross": "$34,068",
           "weeksOnRelease": "1"
         },
         {
           "distributor": "Sony Pictures Releasing",
           "rank": 9,
-          "title": "Spider-Man: Brand New Day",
-          "url": "https://www.boxofficemojo.com/release/rl3829760257/?ref_=bo_we_table_9",
-          "weekendGross": "$49,426",
-          "weeksOnRelease": "10"
+          "title": "Resident Evil",
+          "url": "https://www.boxofficemojo.com/release/rl3444736257/?ref_=bo_we_table_9",
+          "weekendGross": "$27,714",
+          "weeksOnRelease": "5"
         },
         {
-          "distributor": "Pinnacle Films",
+          "distributor": "Universal Pictures International (UPI)",
           "rank": 10,
-          "title": "Coyote vs. Acme",
-          "url": "https://www.boxofficemojo.com/release/rl2454814977/?ref_=bo_we_table_10",
-          "weekendGross": "$48,397",
-          "weeksOnRelease": "3"
+          "title": "Forgotten Island",
+          "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_10",
+          "weekendGross": "$18,086",
+          "weeksOnRelease": "5"
         }
       ],
-      "reportPeriod": "October 1-4, 2026",
-      "reportURL": "https://www.boxofficemojo.com/weekend/2026W40/?area=NZ&ref_=bo_wey_table_1",
+      "reportPeriod": "October 15-18, 2026",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W42/?area=NZ&ref_=bo_wey_table_1",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "country weekend theatrical gross in local currency",
-        "observedAt": "2026-10-04",
+        "observedAt": "2026-10-18",
         "provider": "Box Office Mojo",
         "territory": "NZ",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=NZ"
@@ -240,49 +240,49 @@
       "id": "apple-music-most-played",
       "items": [
         {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 1,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 1,
+          "rank": 2,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 2,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 3,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 3,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/nz/album/patient-zero/6814997249?i=6814997425"
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
+          "id": "6807192825",
+          "rank": 4,
+          "releaseDate": "2026-09-03",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/nz/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609507",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-09-26",
           "title": "So Easy (To Fall In Love)",
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
-          "rank": 5,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
@@ -303,37 +303,37 @@
           "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
         },
         {
+          "artist": "Zara Larsson",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/9c/e3/299ce303-0167-705f-fc85-4d3e52b63c32/196874028391.jpg/100x100bb.jpg",
+          "id": "1870962417",
+          "rank": 8,
+          "releaseDate": "2015-06-05",
+          "title": "Lush Life",
+          "url": "https://music.apple.com/nz/album/lush-life/1870962402?i=1870962417"
+        },
+        {
+          "artist": "Zara Larsson",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/100x100bb.jpg",
+          "id": "1817499251",
+          "rank": 9,
+          "releaseDate": "2025-06-13",
+          "title": "Midnight Sun",
+          "url": "https://music.apple.com/nz/album/midnight-sun/1817499239?i=1817499251"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609514",
-          "rank": 8,
+          "rank": 10,
           "releaseDate": "2025-09-26",
           "title": "A Couple Minutes",
           "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 9,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884101",
-          "rank": 10,
-          "releaseDate": "2026-07-23",
-          "title": "Ain't In LA",
-          "url": "https://music.apple.com/nz/album/aint-in-la/6792883860?i=6792884101"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 12 Oct 2026 10:57:40 +0000",
+        "observedAt": "Mon, 26 Oct 2026 08:51:09 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -487,7 +487,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-10-12T10:56:37Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -496,9 +496,9 @@
       "year": 2025
     }
   },
-  "contentHash": "bad5619747b1d7ed52f2b12efe514bd4e53ca9822fcfcb6b35c027d9c4706eb6",
+  "contentHash": "27ceff63644427ae3ccf88074faecf8fafb4d45961fa35cb5acd83f3f022da1c",
   "country": "NZ",
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T10:56:37Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T08:49:46Z",
   "schemaVersion": 1
 }
