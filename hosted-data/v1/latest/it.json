@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -21,104 +21,104 @@
       "year": 2026
     },
     "movies": {
-      "id": "cinetel-national-week-2026-10-18",
+      "id": "cinetel-national-week-2026-10-25",
       "items": [
         {
-          "admissions": 193290,
+          "admissions": 199390,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
           "rank": 1,
           "releaseDate": "2026-10-15",
           "title": "JE SO' PAZZO",
-          "weekendGrossEUR": 1535128.9
+          "weekendGrossEUR": 1524922.61
         },
         {
-          "admissions": 156872,
-          "countryOfOrigin": "IRL",
-          "distributor": "UNIVERSAL",
-          "rank": 2,
-          "releaseDate": "2026-10-08",
-          "title": "MAMMINA (OTHER MOMMY)",
-          "weekendGrossEUR": 1304880.46
-        },
-        {
-          "admissions": 154009,
+          "admissions": 111005,
           "countryOfOrigin": "COP",
           "distributor": "01 DISTRIBUTION",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-10-08",
           "title": "L'ESTRANEA",
-          "weekendGrossEUR": 1108762.12
+          "weekendGrossEUR": 814901.56
         },
         {
-          "admissions": 79734,
+          "admissions": 93614,
           "countryOfOrigin": "GBR",
-          "distributor": "I WONDER PICTURES",
+          "distributor": "WARNER BROS. ITALIA",
+          "rank": 3,
+          "releaseDate": "2026-10-22",
+          "title": "CLAYFACE",
+          "weekendGrossEUR": 776253.45
+        },
+        {
+          "admissions": 89272,
+          "countryOfOrigin": "GBR",
+          "distributor": "UNIVERSAL",
           "rank": 4,
-          "releaseDate": "2026-09-28",
-          "title": "NAZA",
-          "weekendGrossEUR": 587031.74
+          "releaseDate": "2026-10-22",
+          "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
+          "weekendGrossEUR": 696833.39
         },
         {
-          "admissions": 59997,
+          "admissions": 64765,
+          "countryOfOrigin": "IRL",
+          "distributor": "UNIVERSAL",
+          "rank": 5,
+          "releaseDate": "2026-10-08",
+          "title": "MAMMINA (OTHER MOMMY)",
+          "weekendGrossEUR": 545634.88
+        },
+        {
+          "admissions": 48553,
+          "countryOfOrigin": "GBR",
+          "distributor": "ADLER ENTERTAINMENT",
+          "rank": 6,
+          "releaseDate": "2026-10-19",
+          "title": "TRAINSPOTTING (RIED.)",
+          "weekendGrossEUR": 398112.98
+        },
+        {
+          "admissions": 50715,
           "countryOfOrigin": "USA",
           "distributor": "I WONDER PICTURES",
-          "rank": 5,
-          "releaseDate": "2026-10-15",
-          "title": "PRIMETIME",
-          "weekendGrossEUR": 450647.39
-        },
-        {
-          "admissions": 53313,
-          "countryOfOrigin": "USA",
-          "distributor": "EAGLE PICTURES",
-          "rank": 6,
-          "releaseDate": "2026-09-24",
-          "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
-          "weekendGrossEUR": 423668.32
-        },
-        {
-          "admissions": 46112,
-          "countryOfOrigin": "USA",
-          "distributor": "EAGLE PICTURES",
           "rank": 7,
           "releaseDate": "2026-10-15",
-          "title": "STREET FIGHTER",
-          "weekendGrossEUR": 387484.06
+          "title": "PRIMETIME",
+          "weekendGrossEUR": 375204.63
         },
         {
-          "admissions": 46482,
+          "admissions": 47439,
           "countryOfOrigin": "USA",
-          "distributor": "WALT DISNEY S.M.P. ITALIA",
+          "distributor": "NOTORIOUS PICTURES",
           "rank": 8,
-          "releaseDate": "2026-10-15",
-          "title": "WHALEFALL: NELLA BALENA",
-          "weekendGrossEUR": 374117.44
+          "releaseDate": "2026-10-22",
+          "title": "WILDWOOD – I SEGRETI DEL BOSCO PROIBITO",
+          "weekendGrossEUR": 357720.72
         },
         {
-          "admissions": 41280,
+          "admissions": 39619,
           "countryOfOrigin": "ITA",
-          "distributor": "NEXO DIGITAL S.R.L.",
+          "distributor": "PIPER FILM",
           "rank": 9,
-          "releaseDate": "2026-10-15",
-          "title": "CARLO ACUTIS. IL GIOVANE SANTO",
-          "weekendGrossEUR": 370195.45
+          "releaseDate": "2026-10-08",
+          "title": "ZUSTISSIA",
+          "weekendGrossEUR": 276439.05
         },
         {
-          "admissions": 43007,
-          "countryOfOrigin": "USA",
-          "distributor": "EAGLE PICTURES",
+          "admissions": 38549,
+          "countryOfOrigin": "COP",
+          "distributor": "MUBI",
           "rank": 10,
-          "releaseDate": "2026-10-01",
-          "title": "VERITY",
-          "weekendGrossEUR": 328614.92
+          "releaseDate": "2026-10-16",
+          "title": "FATHERLAND",
+          "weekendGrossEUR": 260787.34
         }
       ],
-      "reportPeriod": "2026-10-12/2026-10-18",
+      "reportPeriod": "2026-10-19/2026-10-25",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "national weekly theatrical gross in euros",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Cinetel",
         "territory": "IT",
         "url": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D"
@@ -156,22 +156,22 @@
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
-          "id": "6820923138",
-          "rank": 4,
-          "releaseDate": "2026-10-16",
-          "title": "EMANUELE E ANDREA (feat. Shiva)",
-          "url": "https://music.apple.com/it/album/emanuele-e-andrea-feat-shiva/6820922785?i=6820923138"
-        },
-        {
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
+          "id": "6820923138",
+          "rank": 5,
+          "releaseDate": "2026-10-16",
+          "title": "EMANUELE E ANDREA (feat. Shiva)",
+          "url": "https://music.apple.com/it/album/emanuele-e-andrea-feat-shiva/6820922785?i=6820923138"
         },
         {
           "artist": "Geolier",
@@ -192,37 +192,37 @@
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         },
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 8,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/it/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451640",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-01-16",
           "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
           "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
         },
         {
-          "artist": "HUGEL, Imael Angel & Ultra Naté",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
-          "id": "6769070199",
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 9,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/it/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Shiva & Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ea/96/98ea96e6-0491-53e6-d04a-91159127bd2f/196874139097.jpg/100x100bb.jpg",
+          "id": "1891320360",
           "rank": 10,
-          "releaseDate": "2026-05-22",
-          "title": "Movin' To The Sun",
-          "url": "https://music.apple.com/it/album/movin-to-the-sun/6769069923?i=6769070199"
+          "releaseDate": "2026-04-09",
+          "title": "Bad Bad Bad",
+          "url": "https://music.apple.com/it/album/bad-bad-bad/1891320348?i=1891320360"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 17:13:24 +0000",
+        "observedAt": "Mon, 26 Oct 2026 08:51:40 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2025
     }
   },
-  "contentHash": "f28e49cfbbc7cb7c48573168d4ea8446f34d77ee11a13e9e6eabf2d7b01db9f5",
+  "contentHash": "b6bedf1af4a2dfa3eb768c844ad07c11cb68cdc9932348046634090ee9f2ceb0",
   "country": "IT",
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T17:11:09Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T08:49:46Z",
   "schemaVersion": 1
 }

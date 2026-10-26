@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -87,37 +87,37 @@
           "url": "https://music.apple.com/ca/album/janice-stfu/6769568449?i=6769568596"
         },
         {
-          "artist": "Drake",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-          "id": "6818209990",
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
+          "id": "6779097534",
           "rank": 8,
-          "releaseDate": "2026-10-02",
-          "title": "Quebec",
-          "url": "https://music.apple.com/ca/album/quebec/6818209777?i=6818209990"
-        },
-        {
-          "artist": "Drake & Don Toliver",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-          "id": "6818209989",
-          "rank": 9,
-          "releaseDate": "2026-10-02",
-          "title": "Solar Eclipse",
-          "url": "https://music.apple.com/ca/album/solar-eclipse/6818209777?i=6818209989"
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/ca/album/stupid-song/6779097512?i=6779097534"
         },
         {
           "artist": "STELLA LEFTY",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
           "id": "1884403093",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-03-27",
           "title": "Boston",
           "url": "https://music.apple.com/ca/album/boston/1884403092?i=1884403093"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 10,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/ca/album/patient-zero/6814997249?i=6814997425"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 17:11:37 +0000",
+        "observedAt": "Mon, 26 Oct 2026 08:51:05 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "bc593676c5290cd6a36da2fb0d8640b576605332e4ca25936f018efe649f92a5",
+  "contentHash": "2fe7a50bdac944bba329b76d04d94370aa90ce56cd1d4ee0083e3d2721f1c9ab",
   "country": "CA",
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T17:11:09Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T08:49:46Z",
   "schemaVersion": 1
 }

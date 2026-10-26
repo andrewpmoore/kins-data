@@ -87,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -231,22 +231,22 @@
           "url": "https://music.apple.com/au/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
-          "id": "6779097534",
-          "rank": 5,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/au/album/stupid-song/6779097512?i=6779097534"
-        },
-        {
           "artist": "Zach Bryan & Lana Del Rey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944296",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-10-15",
           "title": "Lies (feat. Lana Del Rey)",
           "url": "https://music.apple.com/au/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
+          "id": "6779097534",
+          "rank": 6,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/au/album/stupid-song/6779097512?i=6779097534"
         },
         {
           "artist": "Taylor Swift",
@@ -288,7 +288,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 17:12:04 +0000",
+        "observedAt": "Mon, 26 Oct 2026 08:51:06 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -296,9 +296,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "bb6488b275d342c657c603ff26424c1544ede6dcd0881ccbb41ba8e45edb1571",
+  "contentHash": "d52bfb57532be969f5812fca3572e0e2f9dc2367a28b4e381763491607c22ed1",
   "country": "AU",
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T17:11:09Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T08:49:46Z",
   "schemaVersion": 1
 }

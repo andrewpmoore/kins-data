@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -42,22 +42,22 @@
           "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
         },
         {
-          "artist": "La Pantera & Quevedo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
-          "id": "6823633156",
-          "rank": 3,
-          "releaseDate": "2026-10-23",
-          "title": "DOGGY",
-          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338546",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-10-09",
           "title": "CONTIGO",
           "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
+        },
+        {
+          "artist": "La Pantera & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
+          "id": "6823633156",
+          "rank": 4,
+          "releaseDate": "2026-10-23",
+          "title": "DOGGY",
+          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
         },
         {
           "artist": "Quevedo & Elvis Crespo",
@@ -78,19 +78,10 @@
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
-          "artist": "Clarent & Quevedo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
-          "id": "6816298049",
-          "rank": 7,
-          "releaseDate": "2025-10-01",
-          "title": "Jukiar",
-          "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338666",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-10-09",
           "title": "SORDO DE UN PIE (interludio)",
           "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
@@ -99,10 +90,19 @@
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
           "id": "6784833437",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-07-08",
           "title": "AIRE",
           "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
+        },
+        {
+          "artist": "Clarent & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f4/4e/9df44ed8-2e05-2da4-a4c4-e93be35104dc/1200220208883.jpg/100x100bb.jpg",
+          "id": "6816298049",
+          "rank": 9,
+          "releaseDate": "2025-10-01",
+          "title": "Jukiar",
+          "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
         },
         {
           "artist": "Aitana",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 17:13:23 +0000",
+        "observedAt": "Mon, 26 Oct 2026 08:51:40 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "5ca0d78c7def2de7c9871c8e3e3d96a3243275432c525ec445c390cb305c0a4f",
+  "contentHash": "115d6a7127ec050ca0736d84168f19ade31b6851b07ee79b519a947aa0afcd9c",
   "country": "ES",
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T17:11:09Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T08:49:46Z",
   "schemaVersion": 1
 }

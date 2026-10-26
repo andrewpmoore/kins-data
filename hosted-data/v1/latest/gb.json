@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -187,22 +187,22 @@
           "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411"
         },
         {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
+          "rank": 4,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
-          "artist": "HUGEL, Imael Angel & Ultra Naté",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
-          "id": "6769070199",
-          "rank": 5,
-          "releaseDate": "2026-05-22",
-          "title": "Movin' To The Sun",
-          "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
@@ -214,13 +214,13 @@
           "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
         },
         {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-          "id": "6805240960",
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
           "rank": 7,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960"
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
           "artist": "Ella Langley",
@@ -232,28 +232,28 @@
           "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
-          "id": "6807192825",
-          "rank": 9,
-          "releaseDate": "2026-09-03",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/gb/album/nicole-kidman/6807192580?i=6807192825"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
           "id": "6779097534",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/gb/album/stupid-song/6779097512?i=6779097534"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
+          "id": "6807192825",
+          "rank": 10,
+          "releaseDate": "2026-09-03",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/gb/album/nicole-kidman/6807192580?i=6807192825"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 25 Oct 2026 17:11:10 +0000",
+        "observedAt": "Mon, 26 Oct 2026 08:49:47 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-25T17:11:09Z",
+        "observedAt": "2026-10-26T08:49:46Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "5b1bce70bd074c15e4c411c4ee08b23cd156ad3af23feb8ce88c4c4dfeb94922",
+  "contentHash": "dbeea50598fc9de44452c3e8193c3254e367f06a854d8382d2196e9d2f66e05c",
   "country": "GB",
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T17:11:09Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T08:49:46Z",
   "schemaVersion": 1
 }
