@@ -417,7 +417,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "US",
         "url": "https://www.boxofficemojo.com/weekend/by-year/"
@@ -574,7 +574,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-17",
+        "observedAt": "2026-10-24",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -582,7 +582,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "e7ca1a00fb9a583ec8f8c50c79c9f55d44b9737a8e5cfddfac77ff54b71bbdad",
+  "contentHash": "47558cf083a75564192f3a715e3ede0d71e97938f7149362e58c517a93125410",
   "country": "us",
   "schemaVersion": 1,
   "year": 2013

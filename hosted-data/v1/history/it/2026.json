@@ -442,12 +442,23 @@
             }
           ],
           "startDate": "2026-09-24"
+        },
+        {
+          "endDate": "2026-10-28",
+          "items": [
+            {
+              "artist": "Geolier featuring Lazza",
+              "rank": 1,
+              "title": "Non sei più tu"
+            }
+          ],
+          "startDate": "2026-10-22"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-15",
+        "observedAt": "2026-10-22",
         "provider": "Wikipedia contributors",
         "territory": "IT",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
@@ -455,7 +466,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "596ec872d9b11e9833a0039ef5e543ea300308e660e8636c32a17b25a7a1a600",
+  "contentHash": "c8ef1fe0e281b44cd1d0da18d05d570e1437be2da5ca64cebb5661453ed9de18",
   "country": "it",
   "schemaVersion": 1,
   "year": 2026

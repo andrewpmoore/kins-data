@@ -475,7 +475,7 @@
           "startDate": "2026-09-17"
         },
         {
-          "endDate": "2026-10-21",
+          "endDate": "2026-10-28",
           "items": [
             {
               "artist": "Taylor Swift",
@@ -489,7 +489,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-15",
+        "observedAt": "2026-10-22",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -497,7 +497,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "db400adaf873abf2a921a686433acb517faad482dbe35795378dfc0e1388965c",
+  "contentHash": "018647b423d350546129eac580ac6708e7b5d3c9454abc4090a2c5c4d75f2edb",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2026

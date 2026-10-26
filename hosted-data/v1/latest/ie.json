@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -51,40 +51,40 @@
           "url": "https://music.apple.com/ie/album/japan/6792085051?i=6792085543"
         },
         {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-          "id": "6805240960",
-          "rank": 4,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/ie/album/stop-the-wedding/6805240956?i=6805240960"
-        },
-        {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
           "id": "6792085060",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-10-16",
           "title": "Mimesis",
           "url": "https://music.apple.com/ie/album/mimesis/6792085051?i=6792085060"
         },
         {
-          "artist": "Fontaines D.C. & ROSALÍA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085388",
-          "rank": 6,
-          "releaseDate": "2026-10-12",
-          "title": "Where Is Gone?",
-          "url": "https://music.apple.com/ie/album/where-is-gone/6792085051?i=6792085388"
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
+          "rank": 5,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/ie/album/stop-the-wedding/6805240956?i=6805240960"
         },
         {
           "artist": "Zach Bryan & Lana Del Rey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944296",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-15",
           "title": "Lies (feat. Lana Del Rey)",
           "url": "https://music.apple.com/ie/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+        },
+        {
+          "artist": "Fontaines D.C. & ROSALÍA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085388",
+          "rank": 7,
+          "releaseDate": "2026-10-12",
+          "title": "Where Is Gone?",
+          "url": "https://music.apple.com/ie/album/where-is-gone/6792085051?i=6792085388"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -107,17 +107,17 @@
         {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085384",
+          "id": "6792085054",
           "rank": 10,
-          "releaseDate": "2026-09-30",
-          "title": "Tongue",
-          "url": "https://music.apple.com/ie/album/tongue/6792085051?i=6792085384"
+          "releaseDate": "2026-10-16",
+          "title": "Six Shot Morning",
+          "url": "https://music.apple.com/ie/album/six-shot-morning/6792085051?i=6792085054"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 26 Oct 2026 08:51:07 +0000",
+        "observedAt": "Mon, 26 Oct 2026 15:26:59 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "de3c3e3c20ddc592c2ee037d98622bc089d5f60f22d7f3fc314c3dceb34710eb",
+  "contentHash": "63d6565ada91752bce2059ab14e510d60a726b943a24f15b578a6142359368c7",
   "country": "IE",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T08:49:46Z",
+  "generatedAt": "2026-10-26T15:22:48Z",
   "schemaVersion": 1
 }

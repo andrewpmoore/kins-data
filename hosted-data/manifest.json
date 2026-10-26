@@ -20,7 +20,7 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-26T08:49:46Z",
+  "generatedAt": "2026-10-26T15:22:48Z",
   "latestDate": "2026-10-26",
   "runStatus": [
     {
@@ -28,8 +28,9 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json']' returned non-zero exit status 22.",
       "source": "appleMusic/US",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "appleMusic/CA",
@@ -168,66 +169,6 @@
     },
     {
       "source": "mediaGames/WORLD",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-24)",
-      "source": "weeklyMusic/US",
-      "status": "ok"
-    },
-    {
-      "detail": "added 1 week(s); latest 2026-10-22",
-      "source": "weeklyMusic/GB",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-16)",
-      "source": "weeklyMusic/FR",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-16)",
-      "source": "weeklyMusic/DE",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-15)",
-      "source": "weeklyMusic/IT",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-16)",
-      "source": "weeklyMusic/ES",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-18)",
-      "source": "weeklyMovies/US",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-18)",
-      "source": "weeklyMovies/GB",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-18)",
-      "source": "weeklyMovies/FR",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-18)",
-      "source": "weeklyMovies/DE",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-18)",
-      "source": "weeklyMovies/IT",
-      "status": "ok"
-    },
-    {
-      "detail": "up to date (2026-10-18)",
-      "source": "weeklyMovies/ES",
       "status": "ok"
     }
   ],

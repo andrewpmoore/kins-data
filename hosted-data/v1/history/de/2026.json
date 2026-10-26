@@ -455,12 +455,23 @@
             }
           ],
           "startDate": "2026-10-02"
+        },
+        {
+          "endDate": "2026-10-29",
+          "items": [
+            {
+              "artist": "Tate McRae",
+              "rank": 1,
+              "title": "Housewife"
+            }
+          ],
+          "startDate": "2026-10-23"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-16",
+        "observedAt": "2026-10-23",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -468,7 +479,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "14c78ed3ba0ea93aa402ab9895f032babcda20b585f56882ec88c1d8312dad9f",
+  "contentHash": "3140702ba21dd15344b52d50f468c06099c19a28a22784f3d908429627e27957",
   "country": "de",
   "schemaVersion": 1,
   "year": 2026

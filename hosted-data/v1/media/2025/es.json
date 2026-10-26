@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2025",
+      "items": [
+        {
+          "author": "María Oruña",
+          "creator": "María Oruña",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "El albatros negro",
+          "url": "https://books.google.com/books?q=El+albatros+negro"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2025.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2025
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2025",
+      "items": [
+        {
+          "author": "Rebecca Yarros",
+          "creator": "Rebecca Yarros",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Alas de hierro",
+          "url": "https://books.google.com/books?q=Alas+de+hierro"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2025.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2025
+    },
     "games": {
       "id": "media-awardWinner-2025",
       "items": [
@@ -46,7 +92,7 @@
       "year": 2025
     }
   },
-  "contentHash": "92951f37652d685c1ccbfcabc245882954fce513759a4c49eed0f86bead00ec4",
+  "contentHash": "c57026fe898d26868ef8d91a2cea11319553c654c33a4debb1190494e4d4cf57",
   "country": "es",
   "schemaVersion": 1,
   "year": 2025

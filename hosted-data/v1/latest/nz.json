@@ -132,7 +132,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -258,22 +258,22 @@
           "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
-          "rank": 3,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
           "id": "6807192825",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-09-03",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/nz/album/nicole-kidman/6807192580?i=6807192825"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 4,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
           "artist": "Olivia Dean",
@@ -294,19 +294,10 @@
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
-          "id": "1814620247",
-          "rank": 7,
-          "releaseDate": "2025-05-30",
-          "title": "Nice To Each Other",
-          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
-        },
-        {
           "artist": "Zara Larsson",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/9c/e3/299ce303-0167-705f-fc85-4d3e52b63c32/196874028391.jpg/100x100bb.jpg",
           "id": "1870962417",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2015-06-05",
           "title": "Lush Life",
           "url": "https://music.apple.com/nz/album/lush-life/1870962402?i=1870962417"
@@ -315,10 +306,19 @@
           "artist": "Zara Larsson",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/100x100bb.jpg",
           "id": "1817499251",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2025-06-13",
           "title": "Midnight Sun",
           "url": "https://music.apple.com/nz/album/midnight-sun/1817499239?i=1817499251"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
+          "id": "1814620247",
+          "rank": 9,
+          "releaseDate": "2025-05-30",
+          "title": "Nice To Each Other",
+          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
         },
         {
           "artist": "Olivia Dean",
@@ -333,7 +333,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 26 Oct 2026 08:51:09 +0000",
+        "observedAt": "Mon, 26 Oct 2026 15:27:00 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -487,7 +487,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -496,9 +496,9 @@
       "year": 2025
     }
   },
-  "contentHash": "27ceff63644427ae3ccf88074faecf8fafb4d45961fa35cb5acd83f3f022da1c",
+  "contentHash": "bc379d0fcb6a93682a02372aca9cdd8c23b9e67535a9648fb0b9752b86cd852a",
   "country": "NZ",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T08:49:46Z",
+  "generatedAt": "2026-10-26T15:22:48Z",
   "schemaVersion": 1
 }

@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -33,10 +33,19 @@
           "url": "https://music.apple.com/fr/album/fille-a-papa/6809781922?i=6809781929"
         },
         {
+          "artist": "RnBoi",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/a8/8a/10a88a95-8c39-3dfd-e895-c675d8e23e88/5056556187172_cover.jpg/100x100bb.jpg",
+          "id": "6816893848",
+          "rank": 2,
+          "releaseDate": "2026-10-16",
+          "title": "J'assume",
+          "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
+        },
+        {
           "artist": "Tiakola",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7b/bf/0c7bbfe2-0a42-02ce-e4b4-3e065023cf05/ticket.kplujxum.jpg/100x100bb.jpg",
           "id": "6775967738",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2026-06-12",
           "title": "Mélo Décalé",
           "url": "https://music.apple.com/fr/album/m%C3%A9lo-d%C3%A9cal%C3%A9/6775967737?i=6775967738"
@@ -45,19 +54,10 @@
           "artist": "Mauvais Djo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/7a/dd/987add4e-71b9-6911-db56-6fabdde97e92/26UM1IM08423.rgb.jpg/100x100bb.jpg",
           "id": "6812266085",
-          "rank": 3,
+          "rank": 4,
           "releaseDate": "2026-09-18",
           "title": "4",
           "url": "https://music.apple.com/fr/album/4/6812266078?i=6812266085"
-        },
-        {
-          "artist": "RnBoi",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/a8/8a/10a88a95-8c39-3dfd-e895-c675d8e23e88/5056556187172_cover.jpg/100x100bb.jpg",
-          "id": "6816893848",
-          "rank": 4,
-          "releaseDate": "2026-10-16",
-          "title": "J'assume",
-          "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
         },
         {
           "artist": "Tiakola & Theodora",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 26 Oct 2026 08:51:39 +0000",
+        "observedAt": "Mon, 26 Oct 2026 15:27:00 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "4de687744333bb169e898bcbeab9bb3d100a9381d86f72b67032c31d88301d3d",
+  "contentHash": "803e0959ab8fb7235b49cd2af4c1b64ba77bd85105de64c5573251e0ab16ca49",
   "country": "FR",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T08:49:46Z",
+  "generatedAt": "2026-10-26T15:22:48Z",
   "schemaVersion": 1
 }

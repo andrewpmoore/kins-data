@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -192,22 +192,22 @@
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
-          "id": "1861451640",
-          "rank": 8,
-          "releaseDate": "2026-01-16",
-          "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
-          "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
-        },
-        {
           "artist": "Tate McRae",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-10-15",
           "title": "Housewife",
           "url": "https://music.apple.com/it/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451640",
+          "rank": 9,
+          "releaseDate": "2026-01-16",
+          "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
+          "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
         },
         {
           "artist": "Shiva & Geolier",
@@ -222,7 +222,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 26 Oct 2026 08:51:40 +0000",
+        "observedAt": "Mon, 26 Oct 2026 15:27:49 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2025
     }
   },
-  "contentHash": "b6bedf1af4a2dfa3eb768c844ad07c11cb68cdc9932348046634090ee9f2ceb0",
+  "contentHash": "4c3af5bcf8f7047458330215c11170b3f533c585bb311208d222c2f0944e8c0a",
   "country": "IT",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T08:49:46Z",
+  "generatedAt": "2026-10-26T15:22:48Z",
   "schemaVersion": 1
 }

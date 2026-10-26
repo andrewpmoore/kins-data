@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/es/album/jukiar/6816297798?i=6816298049"
         },
         {
-          "artist": "Aitana",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
-          "id": "1814146675",
+          "artist": "Lucho RK & Daniela Garsal",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338668",
           "rank": 10,
-          "releaseDate": "2025-05-29",
-          "title": "SUPERESTRELLA",
-          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
+          "releaseDate": "2026-10-08",
+          "title": "RESACA EMOCIONAL",
+          "url": "https://music.apple.com/es/album/resaca-emocional/6817338538?i=6817338668"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 26 Oct 2026 08:51:40 +0000",
+        "observedAt": "Mon, 26 Oct 2026 15:27:48 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-26T08:49:46Z",
+        "observedAt": "2026-10-26T15:22:48Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "115d6a7127ec050ca0736d84168f19ade31b6851b07ee79b519a947aa0afcd9c",
+  "contentHash": "38967086e1ff7ca58f119bb2aac4cb3cd813abced3616df592f9e87248d2773a",
   "country": "ES",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T08:49:46Z",
+  "generatedAt": "2026-10-26T15:22:48Z",
   "schemaVersion": 1
 }

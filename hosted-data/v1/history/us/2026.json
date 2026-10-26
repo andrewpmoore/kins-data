@@ -272,12 +272,22 @@
             }
           ],
           "startDate": "2026-10-18"
+        },
+        {
+          "endDate": "2026-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Clayface"
+            }
+          ],
+          "startDate": "2026-10-25"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "US",
         "url": "https://www.boxofficemojo.com/weekend/by-year/"
@@ -486,7 +496,7 @@
           "startDate": "2026-07-04"
         },
         {
-          "endDate": "2026-10-23",
+          "endDate": "2026-10-30",
           "items": [
             {
               "artist": "Taylor Swift",
@@ -500,7 +510,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-17",
+        "observedAt": "2026-10-24",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -508,7 +518,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "bd2f6ec61e22f80840c1debf439c61c62ae2f973d7c992caa19b36899b065a23",
+  "contentHash": "af6b9eba48491998c5fc83afc8b283b93b8401b065ecc895cd0cdca8d36d876c",
   "country": "us",
   "schemaVersion": 1,
   "year": 2026
