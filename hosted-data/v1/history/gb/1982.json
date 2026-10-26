@@ -1,10 +1,294 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1982-01-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Neighbors"
+            }
+          ],
+          "startDate": "1982-01-01"
+        },
+        {
+          "endDate": "1982-01-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Modern Problems"
+            }
+          ],
+          "startDate": "1982-01-03"
+        },
+        {
+          "endDate": "1982-01-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sharky's Machine"
+            }
+          ],
+          "startDate": "1982-01-10"
+        },
+        {
+          "endDate": "1982-01-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Absence of Malice"
+            }
+          ],
+          "startDate": "1982-01-17"
+        },
+        {
+          "endDate": "1982-02-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "On Golden Pond"
+            }
+          ],
+          "startDate": "1982-01-24"
+        },
+        {
+          "endDate": "1982-03-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "On Golden Pond"
+            }
+          ],
+          "startDate": "1982-02-21"
+        },
+        {
+          "endDate": "1982-03-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Richard Pryor: Live on the Sunset Strip"
+            }
+          ],
+          "startDate": "1982-03-14"
+        },
+        {
+          "endDate": "1982-05-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Porky's"
+            }
+          ],
+          "startDate": "1982-03-21"
+        },
+        {
+          "endDate": "1982-05-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Conan the Barbarian"
+            }
+          ],
+          "startDate": "1982-05-16"
+        },
+        {
+          "endDate": "1982-06-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Trek II: The Wrath of Khan"
+            }
+          ],
+          "startDate": "1982-06-06"
+        },
+        {
+          "endDate": "1982-07-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "E.T. the Extra-Terrestrial"
+            }
+          ],
+          "startDate": "1982-06-13"
+        },
+        {
+          "endDate": "1982-07-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "E.T. the Extra-Terrestrial"
+            }
+          ],
+          "startDate": "1982-07-11"
+        },
+        {
+          "endDate": "1982-07-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Best Little Whorehouse in Texas"
+            }
+          ],
+          "startDate": "1982-07-25"
+        },
+        {
+          "endDate": "1982-08-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "E.T. the Extra-Terrestrial"
+            }
+          ],
+          "startDate": "1982-08-01"
+        },
+        {
+          "endDate": "1982-08-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Friday the 13th Part III"
+            }
+          ],
+          "startDate": "1982-08-15"
+        },
+        {
+          "endDate": "1982-09-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "E.T. the Extra-Terrestrial"
+            }
+          ],
+          "startDate": "1982-08-22"
+        },
+        {
+          "endDate": "1982-09-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "E.T. the Extra-Terrestrial"
+            }
+          ],
+          "startDate": "1982-09-12"
+        },
+        {
+          "endDate": "1982-10-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Amityville II: The Possession"
+            }
+          ],
+          "startDate": "1982-09-26"
+        },
+        {
+          "endDate": "1982-10-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "E.T. the Extra-Terrestrial"
+            }
+          ],
+          "startDate": "1982-10-03"
+        },
+        {
+          "endDate": "1982-10-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "An Officer and a Gentleman"
+            }
+          ],
+          "startDate": "1982-10-10"
+        },
+        {
+          "endDate": "1982-10-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "E.T. the Extra-Terrestrial"
+            }
+          ],
+          "startDate": "1982-10-17"
+        },
+        {
+          "endDate": "1982-11-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "First Blood"
+            }
+          ],
+          "startDate": "1982-10-24"
+        },
+        {
+          "endDate": "1982-11-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Creepshow"
+            }
+          ],
+          "startDate": "1982-11-14"
+        },
+        {
+          "endDate": "1982-11-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Empire Strikes Back"
+            }
+          ],
+          "startDate": "1982-11-21"
+        },
+        {
+          "endDate": "1982-12-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "E.T. the Extra-Terrestrial"
+            }
+          ],
+          "startDate": "1982-11-28"
+        },
+        {
+          "endDate": "1982-12-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Toy"
+            }
+          ],
+          "startDate": "1982-12-12"
+        },
+        {
+          "endDate": "1982-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tootsie"
+            }
+          ],
+          "startDate": "1982-12-19"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1982-01-07",
+          "endDate": "1982-01-01",
           "items": [
             {
               "artist": "Tight Fit",
@@ -15,7 +299,172 @@
           "startDate": "1982-01-01"
         },
         {
-          "endDate": "1982-07-08",
+          "endDate": "1982-01-15",
+          "items": [
+            {
+              "artist": "The Human League",
+              "rank": 1,
+              "title": "Don't You Want Me"
+            }
+          ],
+          "startDate": "1982-01-02"
+        },
+        {
+          "endDate": "1982-01-29",
+          "items": [
+            {
+              "artist": "Bucks Fizz",
+              "rank": 1,
+              "title": "The Land of Make Believe"
+            }
+          ],
+          "startDate": "1982-01-16"
+        },
+        {
+          "endDate": "1982-02-05",
+          "items": [
+            {
+              "artist": "Shakin' Stevens",
+              "rank": 1,
+              "title": "Oh Julie"
+            }
+          ],
+          "startDate": "1982-01-30"
+        },
+        {
+          "endDate": "1982-02-12",
+          "items": [
+            {
+              "artist": "Kraftwerk",
+              "rank": 1,
+              "title": "The Model / Computer Love"
+            }
+          ],
+          "startDate": "1982-02-06"
+        },
+        {
+          "endDate": "1982-03-05",
+          "items": [
+            {
+              "artist": "The Jam",
+              "rank": 1,
+              "title": "Town Called Malice / Precious"
+            }
+          ],
+          "startDate": "1982-02-13"
+        },
+        {
+          "endDate": "1982-03-26",
+          "items": [
+            {
+              "artist": "Tight Fit",
+              "rank": 1,
+              "title": "The Lion Sleeps Tonight"
+            }
+          ],
+          "startDate": "1982-03-06"
+        },
+        {
+          "endDate": "1982-04-16",
+          "items": [
+            {
+              "artist": "Goombay Dance Band",
+              "rank": 1,
+              "title": "Seven Tears"
+            }
+          ],
+          "startDate": "1982-03-27"
+        },
+        {
+          "endDate": "1982-04-23",
+          "items": [
+            {
+              "artist": "Bucks Fizz",
+              "rank": 1,
+              "title": "My Camera Never Lies"
+            }
+          ],
+          "startDate": "1982-04-17"
+        },
+        {
+          "endDate": "1982-05-14",
+          "items": [
+            {
+              "artist": "Paul McCartney and Stevie Wonder",
+              "rank": 1,
+              "title": "Ebony and Ivory"
+            }
+          ],
+          "startDate": "1982-04-24"
+        },
+        {
+          "endDate": "1982-05-28",
+          "items": [
+            {
+              "artist": "Nicole",
+              "rank": 1,
+              "title": "A Little Peace"
+            }
+          ],
+          "startDate": "1982-05-15"
+        },
+        {
+          "endDate": "1982-05-31",
+          "items": [
+            {
+              "artist": "Madness",
+              "rank": 1,
+              "title": "House of Fun"
+            }
+          ],
+          "startDate": "1982-05-29"
+        },
+        {
+          "endDate": "1982-06-04",
+          "items": [
+            {
+              "artist": "Irene Cara",
+              "rank": 1,
+              "title": "Fame"
+            }
+          ],
+          "startDate": "1982-06-01"
+        },
+        {
+          "endDate": "1982-06-11",
+          "items": [
+            {
+              "artist": "Madness",
+              "rank": 1,
+              "title": "House of Fun"
+            }
+          ],
+          "startDate": "1982-06-05"
+        },
+        {
+          "endDate": "1982-06-25",
+          "items": [
+            {
+              "artist": "Adam Ant",
+              "rank": 1,
+              "title": "Goody Two Shoes"
+            }
+          ],
+          "startDate": "1982-06-12"
+        },
+        {
+          "endDate": "1982-07-01",
+          "items": [
+            {
+              "artist": "Charlene",
+              "rank": 1,
+              "title": "I've Never Been to Me"
+            }
+          ],
+          "startDate": "1982-06-26"
+        },
+        {
+          "endDate": "1982-07-02",
           "items": [
             {
               "artist": "Survivor",
@@ -24,12 +473,111 @@
             }
           ],
           "startDate": "1982-07-02"
+        },
+        {
+          "endDate": "1982-07-16",
+          "items": [
+            {
+              "artist": "Captain Sensible",
+              "rank": 1,
+              "title": "Happy Talk"
+            }
+          ],
+          "startDate": "1982-07-03"
+        },
+        {
+          "endDate": "1982-08-06",
+          "items": [
+            {
+              "artist": "Irene Cara",
+              "rank": 1,
+              "title": "Fame"
+            }
+          ],
+          "startDate": "1982-07-17"
+        },
+        {
+          "endDate": "1982-09-03",
+          "items": [
+            {
+              "artist": "Dexys Midnight Runners",
+              "rank": 1,
+              "title": "Come On Eileen"
+            }
+          ],
+          "startDate": "1982-08-07"
+        },
+        {
+          "endDate": "1982-10-01",
+          "items": [
+            {
+              "artist": "Survivor",
+              "rank": 1,
+              "title": "Eye of the Tiger"
+            }
+          ],
+          "startDate": "1982-09-04"
+        },
+        {
+          "endDate": "1982-10-22",
+          "items": [
+            {
+              "artist": "Musical Youth",
+              "rank": 1,
+              "title": "Pass the Dutchie"
+            }
+          ],
+          "startDate": "1982-10-02"
+        },
+        {
+          "endDate": "1982-11-12",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Do You Really Want to Hurt Me"
+            }
+          ],
+          "startDate": "1982-10-23"
+        },
+        {
+          "endDate": "1982-12-03",
+          "items": [
+            {
+              "artist": "Eddy Grant",
+              "rank": 1,
+              "title": "I Don't Wanna Dance"
+            }
+          ],
+          "startDate": "1982-11-13"
+        },
+        {
+          "endDate": "1982-12-17",
+          "items": [
+            {
+              "artist": "The Jam",
+              "rank": 1,
+              "title": "Beat Surrender"
+            }
+          ],
+          "startDate": "1982-12-04"
+        },
+        {
+          "endDate": "1982-12-31",
+          "items": [
+            {
+              "artist": "Renée and Renato",
+              "rank": 1,
+              "title": "Save Your Love"
+            }
+          ],
+          "startDate": "1982-12-18"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -37,7 +585,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "ab818222d5494e33b78b090f70cf691928e13d49ed2dec99c652d203ab25da87",
+  "contentHash": "65cc3194fb5bf31616d329b5fddb5dc33a5204d86cc4125df5ce0bf6de5f89f2",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1982

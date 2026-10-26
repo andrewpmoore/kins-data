@@ -1,0 +1,89 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2003",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788469602799",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788469602799-L.jpg?default=false",
+          "author": "René Goscinny et Albert Uderzo",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788469602799",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788469602799-L.jpg?default=false",
+          "creator": "René Goscinny et Albert Uderzo",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Astérix et la rentrée gauloise",
+          "url": "https://books.google.com/books?vid=ISBN:9788469602799"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2003"
+      },
+      "title": "FR print bestseller",
+      "year": 2003
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2003",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782070585212",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782070585212-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782070585212",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782070585212-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Harry Potter et l'Ordre du Phénix",
+          "url": "https://books.google.com/books?vid=ISBN:9782070585212"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2003"
+      },
+      "title": "FR children's bestseller",
+      "year": 2003
+    },
+    "games": {
+      "id": "media-awardWinner-2003",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2003&idGame=340",
+          "artworkURL": "https://www.interactive.org/images/games/2003_battlefield_1942_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2002,
+          "title": "Battlefield 1942"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2003&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2003
+    }
+  },
+  "contentHash": "67d2363ad476f62c42598e2eda58a7de57be9eac6bb8097aba9a4d0edc88ffce",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2003
+}

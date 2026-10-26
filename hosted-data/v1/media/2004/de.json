@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2004",
+      "items": [
+        {
+          "author": "Dan Brown",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Sakrileg",
+          "url": "https://books.google.com/books?q=Sakrileg"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2004/"
+      },
+      "title": "DE print bestseller",
+      "year": 2004
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2004",
+      "items": [
+        {
+          "author": "Cornelia Funke",
+          "creator": "Cornelia Funke",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Tintenblut",
+          "url": "https://books.google.com/books?q=Tintenblut"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2004/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2004
+    },
     "games": {
       "id": "media-awardWinner-2004",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2004
     }
   },
-  "contentHash": "6ea5262639f5fbb289a3ace565c5854bc0947578bee0635f0c75ced960c83de5",
+  "contentHash": "185e7954b56c3e0cd27274cf80d62efd529705f08338b5cc25396a448b2849fb",
   "country": "de",
   "schemaVersion": 1,
   "year": 2004

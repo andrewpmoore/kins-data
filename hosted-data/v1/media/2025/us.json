@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2025",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780702340581",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780702340581-L.jpg?default=false",
+          "author": "Suzanne Collins",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780702340581",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780702340581-L.jpg?default=false",
+          "creator": "Suzanne Collins",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "Sunrise on the Reaping",
+          "url": "https://books.google.com/books?vid=ISBN:9780702340581"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2025-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2025
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2025",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780702339189",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780702339189-L.jpg?default=false",
+          "author": "Dav Pilkey",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780702339189",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780702339189-L.jpg?default=false",
+          "creator": "Dav Pilkey",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Dog Man: Big Jim Begins",
+          "url": "https://books.google.com/books?vid=ISBN:9780702339189"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2025-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2025
+    },
     "games": {
       "id": "media-awardWinner-2025",
       "items": [
@@ -25,7 +83,7 @@
       "year": 2025
     }
   },
-  "contentHash": "957cb75e9605e92de26e449f367843e5e3c5c52803665269c44d53180d697979",
+  "contentHash": "daeba2d8125ce0d40a78786e2a81bc768b91ab20600a5fd3708366e6fcf1d17d",
   "country": "us",
   "schemaVersion": 1,
   "year": 2025

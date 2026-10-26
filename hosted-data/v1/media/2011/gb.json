@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2011",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780340896983",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780340896983-L.jpg?default=false",
+          "author": "David Nicholls",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780340896983",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780340896983-L.jpg?default=false",
+          "creator": "David Nicholls",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "One Day",
+          "url": "https://books.google.com/books?vid=ISBN:9780340896983"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.thebookseller.com/news/bookscan-2011-review"
+      },
+      "title": "UK print bestseller",
+      "year": 2011
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2011",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780141341880",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780141341880-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780141341880",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780141341880-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Diary of a Wimpy Kid: Cabin Fever",
+          "url": "https://books.google.com/books?vid=ISBN:9780141341880"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.thebookseller.com/news/bookscan-2011-review"
+      },
+      "title": "UK children's bestseller",
+      "year": 2011
+    },
     "games": {
       "id": "media-awardWinner-2011",
       "items": [
@@ -46,7 +104,7 @@
       "year": 2011
     }
   },
-  "contentHash": "ac2db93c71361c8ec68d44849040ba6453894472bd3e13f9931b7ab4c65cc32e",
+  "contentHash": "230d4222fb8f126b3c19c7fe4d974343f3d9b9a4e51e221f0d8c9c40129122e1",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2011

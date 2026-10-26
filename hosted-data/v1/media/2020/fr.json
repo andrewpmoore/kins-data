@@ -1,5 +1,57 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2020",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788491816577",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788491816577-L.jpg?default=false",
+          "author": "Guillaume Musso",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788491816577",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788491816577-L.jpg?default=false",
+          "creator": "Guillaume Musso",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "La Vie secrète des écrivains",
+          "url": "https://books.google.com/books?vid=ISBN:9788491816577"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2020"
+      },
+      "title": "FR print bestseller",
+      "year": 2020
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2020",
+      "items": [
+        {
+          "author": "Mr Tan et Diane Le Feyer",
+          "creator": "Mr Tan et Diane Le Feyer",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Mortelle Adèle: Chaud devant !",
+          "url": "https://books.google.com/books?q=Mortelle+Adèle:+Chaud+devant+!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2020"
+      },
+      "title": "FR children's bestseller",
+      "year": 2020
+    },
     "games": {
       "id": "media-awardWinner-2020",
       "items": [
@@ -9,7 +61,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
           "rank": 1,
           "releaseYear": 2020,
-          "title": "The Last of Us Part II"
+          "title": "The Last of Us Part II",
+          "trailerURL": "https://www.youtube.com/watch?v=W2Wnvvj33Wo"
         }
       ],
       "source": {
@@ -24,7 +77,7 @@
       "year": 2020
     }
   },
-  "contentHash": "78b50464dbf1dfd42d1763f26035ee41bc8333eb0f8b57b0d00a5f547fe69f55",
+  "contentHash": "80aecbf7a02f778615304ffe4645794574f708ad8926a769e0c2ff5fed76abbc",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2020

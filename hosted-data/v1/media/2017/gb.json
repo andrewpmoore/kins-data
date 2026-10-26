@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2017",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780718187729",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780718187729-L.jpg?default=false",
+          "author": "Jamie Oliver",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780718187729",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780718187729-L.jpg?default=false",
+          "creator": "Jamie Oliver",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "5 Ingredients: Quick & Easy Food",
+          "url": "https://books.google.com/books?vid=ISBN:9780718187729"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.thebookseller.com/news/jamie-oliver-tops-2017-bestseller-chart-697271"
+      },
+      "title": "UK print bestseller",
+      "year": 2017
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2017",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780008164614",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780008164614-L.jpg?default=false",
+          "author": "David Walliams",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780008164614",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780008164614-L.jpg?default=false",
+          "creator": "David Walliams",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Bad Dad",
+          "url": "https://books.google.com/books?vid=ISBN:9780008164614"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.thebookseller.com/news/jamie-oliver-tops-2017-bestseller-chart-697271"
+      },
+      "title": "UK children's bestseller",
+      "year": 2017
+    },
     "games": {
       "id": "media-awardWinner-2017",
       "items": [
@@ -9,7 +67,8 @@
           "artworkURL": "https://assets.nintendo.com/image/upload/c_fill,w_800/q_auto/f_jpg/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
           "rank": 1,
           "releaseYear": 2017,
-          "title": "The Legend of Zelda: Breath of the Wild"
+          "title": "The Legend of Zelda: Breath of the Wild",
+          "trailerURL": "https://www.youtube.com/watch?v=zw47_q9wbBE"
         }
       ],
       "source": {
@@ -49,7 +108,7 @@
       "year": 2017
     }
   },
-  "contentHash": "9032a085b460693d838f6c4b55c2d9346d2a04391c2215f3eb6d9e966b52d308",
+  "contentHash": "48c86084a7bcbaba14ae22c942ee506be016e8bb33e6c95d6d3162e3dbc1a4e6",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2017

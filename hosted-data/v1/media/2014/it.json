@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2014",
+      "items": [
+        {
+          "author": "Markus Zusak",
+          "creator": "Markus Zusak",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Storia di una ladra di libri",
+          "url": "https://books.google.com/books?q=Storia+di+una+ladra+di+libri"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2014.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2014
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2014",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Diario di una schiappa: Sfortuna nera",
+          "url": "https://books.google.com/books?q=Diario+di+una+schiappa:+Sfortuna+nera"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2014.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2014
+    },
     "games": {
       "id": "media-awardWinner-2014",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2014
     }
   },
-  "contentHash": "1390fcfba75d3416f0e27a1577d63d7292588e10d84607906c00c79c2279d88e",
+  "contentHash": "ed7a001e08c453cee1c42f0d2cd724e2dbe98c35634108e2fc455a6ff30dc231",
   "country": "it",
   "schemaVersion": 1,
   "year": 2014

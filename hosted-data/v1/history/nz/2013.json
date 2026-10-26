@@ -75,7 +75,7 @@
             {
               "artist": "Lorde",
               "rank": 1,
-              "title": "Royals\"†"
+              "title": "Royals"
             }
           ],
           "startDate": "2013-03-18"
@@ -90,6 +90,17 @@
             }
           ],
           "startDate": "2013-04-08"
+        },
+        {
+          "endDate": "2013-06-16",
+          "items": [
+            {
+              "artist": "Robin Thicke featuring T.I. and Pharrell Williams",
+              "rank": 1,
+              "title": "Blurred Lines"
+            }
+          ],
+          "startDate": "2013-04-22"
         },
         {
           "endDate": "2013-07-14",
@@ -119,7 +130,7 @@
             {
               "artist": "Ginny Blackmore",
               "rank": 1,
-              "title": "Bones\"†"
+              "title": "Bones"
             }
           ],
           "startDate": "2013-07-22"
@@ -130,7 +141,7 @@
             {
               "artist": "Jackie Thomas",
               "rank": 1,
-              "title": "It's Worth It\"†"
+              "title": "It's Worth It"
             }
           ],
           "startDate": "2013-07-29"
@@ -224,7 +235,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "f7a90876856a1e833c07f6446dec651559161f4473b2aeb05fbe0018a9c0c2f8",
+  "contentHash": "5595eef232d93f9205ad362891cbc79706852f3f2587d8ff5120e88356d2414b",
   "country": "nz",
   "schemaVersion": 1,
   "year": 2013

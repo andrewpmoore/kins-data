@@ -1,5 +1,239 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2001-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unbreakable"
+            }
+          ],
+          "startDate": "2001-01-01"
+        },
+        {
+          "endDate": "2001-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cast Away"
+            }
+          ],
+          "startDate": "2001-01-21"
+        },
+        {
+          "endDate": "2001-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "102 Dalmatians"
+            }
+          ],
+          "startDate": "2001-02-04"
+        },
+        {
+          "endDate": "2001-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What Women Want"
+            }
+          ],
+          "startDate": "2001-02-11"
+        },
+        {
+          "endDate": "2001-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hannibal"
+            }
+          ],
+          "startDate": "2001-02-18"
+        },
+        {
+          "endDate": "2001-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Chocolat"
+            }
+          ],
+          "startDate": "2001-03-11"
+        },
+        {
+          "endDate": "2001-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Torrente 2: Misión en Marbella"
+            }
+          ],
+          "startDate": "2001-03-18"
+        },
+        {
+          "endDate": "2001-05-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bridget Jones's Diary"
+            }
+          ],
+          "startDate": "2001-04-29"
+        },
+        {
+          "endDate": "2001-06-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mummy Returns"
+            }
+          ],
+          "startDate": "2001-05-13"
+        },
+        {
+          "endDate": "2001-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pearl Harbor"
+            }
+          ],
+          "startDate": "2001-06-03"
+        },
+        {
+          "endDate": "2001-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lara Croft: Tomb Raider"
+            }
+          ],
+          "startDate": "2001-06-24"
+        },
+        {
+          "endDate": "2001-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek"
+            }
+          ],
+          "startDate": "2001-07-08"
+        },
+        {
+          "endDate": "2001-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park III"
+            }
+          ],
+          "startDate": "2001-07-29"
+        },
+        {
+          "endDate": "2001-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Planet of the Apes"
+            }
+          ],
+          "startDate": "2001-08-12"
+        },
+        {
+          "endDate": "2001-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Others"
+            }
+          ],
+          "startDate": "2001-09-02"
+        },
+        {
+          "endDate": "2001-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moulin Rouge!"
+            }
+          ],
+          "startDate": "2001-10-21"
+        },
+        {
+          "endDate": "2001-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Others"
+            }
+          ],
+          "startDate": "2001-10-28"
+        },
+        {
+          "endDate": "2001-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Score"
+            }
+          ],
+          "startDate": "2001-11-04"
+        },
+        {
+          "endDate": "2001-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jeepers Creepers"
+            }
+          ],
+          "startDate": "2001-11-18"
+        },
+        {
+          "endDate": "2001-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Don't Say a Word"
+            }
+          ],
+          "startDate": "2001-11-25"
+        },
+        {
+          "endDate": "2001-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Philosopher's Stone"
+            }
+          ],
+          "startDate": "2001-12-02"
+        },
+        {
+          "endDate": "2001-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lord of the Rings: The Fellowship of the Ring"
+            }
+          ],
+          "startDate": "2001-12-23"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -31,7 +265,7 @@
             {
               "artist": "Reincidentes",
               "rank": 1,
-              "title": "La otra orilla"
+              "title": "La otra orilla (Un pueblo)"
             }
           ],
           "startDate": "2001-01-29"
@@ -282,7 +516,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2008-12-28",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "ES",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
@@ -290,7 +524,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "c4de0090397bbdf3c0bd2919361591867ca8372eb5e220826da4574d20dc02b4",
+  "contentHash": "89b9fb0ba223c9a4c04bf131257f23ccbcf7935606e06bd4badab0729e50ddc4",
   "country": "es",
   "schemaVersion": 1,
   "year": 2001

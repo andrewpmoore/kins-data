@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2010",
+      "items": [
+        {
+          "author": "Ken Follett",
+          "creator": "Ken Follett",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Sturz der Titanen",
+          "url": "https://books.google.com/books?q=Sturz+der+Titanen"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2010/"
+      },
+      "title": "DE print bestseller",
+      "year": 2010
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2010",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Gregs Tagebuch: Von Idioten umzingelt!",
+          "url": "https://books.google.com/books?q=Gregs+Tagebuch:+Von+Idioten+umzingelt!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2010/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2010
+    },
     "games": {
       "id": "media-awardWinner-2010",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2010
     }
   },
-  "contentHash": "7f18004fd51cb7b25f3958c4229ab18a7d0dffb3f8d34b22eb4fc2f0a6ba2c39",
+  "contentHash": "0f0905dd162f178c669c26be5878f5d501de6f17086449ae9b3052cdba55af6d",
   "country": "de",
   "schemaVersion": 1,
   "year": 2010

@@ -4,17 +4,6 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1998-01-04",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1998-01-01"
-        },
-        {
           "endDate": "1998-02-01",
           "items": [
             {
@@ -23,7 +12,7 @@
               "title": "It's Like That"
             }
           ],
-          "startDate": "1998-01-05"
+          "startDate": "1998-01-01"
         },
         {
           "endDate": "1998-05-03",
@@ -31,7 +20,7 @@
             {
               "artist": "Céline Dion",
               "rank": 1,
-              "title": "My Heart Will Go On\" †"
+              "title": "My Heart Will Go On"
             }
           ],
           "startDate": "1998-02-02"
@@ -128,7 +117,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -136,7 +125,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "369da1da1a7250d5dd837e602612aa77b746b3984f98e3ce63799e113d058f4a",
+  "contentHash": "350d0e5af2b94d0d55ad8176347ead6a4d0195b3aaaa31c6de8bab6e477e1b7d",
   "country": "de",
   "schemaVersion": 1,
   "year": 1998

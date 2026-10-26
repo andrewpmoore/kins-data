@@ -1,5 +1,239 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2012-01-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sherlock Holmes: A Game of Shadows"
+            }
+          ],
+          "startDate": "2012-01-01"
+        },
+        {
+          "endDate": "2012-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Intouchables"
+            }
+          ],
+          "startDate": "2012-01-15"
+        },
+        {
+          "endDate": "2012-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Turkish for Beginners"
+            }
+          ],
+          "startDate": "2012-03-18"
+        },
+        {
+          "endDate": "2012-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games"
+            }
+          ],
+          "startDate": "2012-03-25"
+        },
+        {
+          "endDate": "2012-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Battleship"
+            }
+          ],
+          "startDate": "2012-04-15"
+        },
+        {
+          "endDate": "2012-05-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Avengers"
+            }
+          ],
+          "startDate": "2012-04-29"
+        },
+        {
+          "endDate": "2012-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dictator"
+            }
+          ],
+          "startDate": "2012-05-20"
+        },
+        {
+          "endDate": "2012-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Men in Black 3"
+            }
+          ],
+          "startDate": "2012-05-27"
+        },
+        {
+          "endDate": "2012-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Amazing Spider-Man"
+            }
+          ],
+          "startDate": "2012-07-01"
+        },
+        {
+          "endDate": "2012-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ice Age: Continental Drift"
+            }
+          ],
+          "startDate": "2012-07-08"
+        },
+        {
+          "endDate": "2012-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dark Knight Rises"
+            }
+          ],
+          "startDate": "2012-07-29"
+        },
+        {
+          "endDate": "2012-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ted"
+            }
+          ],
+          "startDate": "2012-08-05"
+        },
+        {
+          "endDate": "2012-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Expendables 2"
+            }
+          ],
+          "startDate": "2012-09-02"
+        },
+        {
+          "endDate": "2012-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Step Up: Revolution"
+            }
+          ],
+          "startDate": "2012-09-09"
+        },
+        {
+          "endDate": "2012-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bourne Legacy"
+            }
+          ],
+          "startDate": "2012-09-16"
+        },
+        {
+          "endDate": "2012-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Resident Evil: Retribution"
+            }
+          ],
+          "startDate": "2012-09-23"
+        },
+        {
+          "endDate": "2012-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar 3: Europe's Most Wanted"
+            }
+          ],
+          "startDate": "2012-10-07"
+        },
+        {
+          "endDate": "2012-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Paranormal Activity 4"
+            }
+          ],
+          "startDate": "2012-10-21"
+        },
+        {
+          "endDate": "2012-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar 3: Europe's Most Wanted"
+            }
+          ],
+          "startDate": "2012-10-28"
+        },
+        {
+          "endDate": "2012-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Skyfall"
+            }
+          ],
+          "startDate": "2012-11-04"
+        },
+        {
+          "endDate": "2012-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Twilight Saga: Breaking Dawn - Part 2"
+            }
+          ],
+          "startDate": "2012-11-25"
+        },
+        {
+          "endDate": "2012-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hobbit: An Unexpected Journey"
+            }
+          ],
+          "startDate": "2012-12-16"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -7,7 +241,7 @@
           "endDate": "2012-01-05",
           "items": [
             {
-              "artist": "Gotye",
+              "artist": "Gotye (featuring Kimbra)",
               "rank": 1,
               "title": "Somebody That I Used to Know"
             }
@@ -31,7 +265,7 @@
             {
               "artist": "Michel Teló",
               "rank": 1,
-              "title": "Ai se eu te pego!\"†"
+              "title": "Ai se eu te pego!"
             }
           ],
           "startDate": "2012-02-03"
@@ -53,7 +287,7 @@
             {
               "artist": "Michel Teló",
               "rank": 1,
-              "title": "Ai se eu te pego!\"†"
+              "title": "Ai se eu te pego!"
             }
           ],
           "startDate": "2012-04-13"
@@ -152,7 +386,7 @@
             {
               "artist": "Asaf Avidan",
               "rank": 1,
-              "title": "One Day / Reckoning Song"
+              "title": "One Day / Reckoning Song (Wankelmut Rmx)"
             }
           ],
           "startDate": "2012-08-17"
@@ -174,7 +408,7 @@
             {
               "artist": "Asaf Avidan",
               "rank": 1,
-              "title": "One Day / Reckoning Song"
+              "title": "One Day / Reckoning Song (Wankelmut Rmx)"
             }
           ],
           "startDate": "2012-10-05"
@@ -227,7 +461,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -235,7 +469,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "613ba24af52448ff4a0797d6751df5557500db162ca679f921fd10bd51d006c1",
+  "contentHash": "51d41e6535a65dc475c2ac7081c776c869b20aa3565c888e7de0e4c32108697e",
   "country": "de",
   "schemaVersion": 1,
   "year": 2012

@@ -1,8 +1,197 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1968-02-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Valley of the Dolls"
+            }
+          ],
+          "startDate": "1968-01-01"
+        },
+        {
+          "endDate": "1968-03-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Guess Who's Coming to Dinner"
+            }
+          ],
+          "startDate": "1968-02-14"
+        },
+        {
+          "endDate": "1968-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Graduate"
+            }
+          ],
+          "startDate": "1968-03-13"
+        },
+        {
+          "endDate": "1968-06-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "2001: A Space Odyssey"
+            }
+          ],
+          "startDate": "1968-06-19"
+        },
+        {
+          "endDate": "1968-08-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Odd Couple"
+            }
+          ],
+          "startDate": "1968-06-26"
+        },
+        {
+          "endDate": "1968-09-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rosemary's Baby"
+            }
+          ],
+          "startDate": "1968-08-14"
+        },
+        {
+          "endDate": "1968-09-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "2001: A Space Odyssey"
+            }
+          ],
+          "startDate": "1968-09-11"
+        },
+        {
+          "endDate": "1968-09-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rosemary's Baby"
+            }
+          ],
+          "startDate": "1968-09-18"
+        },
+        {
+          "endDate": "1968-10-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rachel, Rachel"
+            }
+          ],
+          "startDate": "1968-09-25"
+        },
+        {
+          "endDate": "1968-10-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Barbarella"
+            }
+          ],
+          "startDate": "1968-10-16"
+        },
+        {
+          "endDate": "1968-12-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Funny Girl"
+            }
+          ],
+          "startDate": "1968-10-30"
+        },
+        {
+          "endDate": "1968-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Candy"
+            }
+          ],
+          "startDate": "1968-12-25"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
+        {
+          "endDate": "1968-01-05",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello, Goodbye"
+            }
+          ],
+          "startDate": "1968-01-01"
+        },
+        {
+          "endDate": "1968-01-09",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello Goodbye"
+            }
+          ],
+          "startDate": "1968-01-06"
+        },
+        {
+          "endDate": "1968-01-12",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello, Goodbye"
+            }
+          ],
+          "startDate": "1968-01-10"
+        },
+        {
+          "endDate": "1968-01-16",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Magical Mystery Tour"
+            }
+          ],
+          "startDate": "1968-01-13"
+        },
+        {
+          "endDate": "1968-01-19",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello, Goodbye"
+            }
+          ],
+          "startDate": "1968-01-17"
+        },
         {
           "endDate": "1968-01-26",
           "items": [
@@ -15,7 +204,7 @@
           "startDate": "1968-01-20"
         },
         {
-          "endDate": "1968-02-16",
+          "endDate": "1968-02-13",
           "items": [
             {
               "artist": "Love Affair",
@@ -26,7 +215,7 @@
           "startDate": "1968-01-27"
         },
         {
-          "endDate": "1968-03-01",
+          "endDate": "1968-02-27",
           "items": [
             {
               "artist": "Manfred Mann",
@@ -34,10 +223,21 @@
               "title": "Mighty Quinn"
             }
           ],
-          "startDate": "1968-02-17"
+          "startDate": "1968-02-14"
         },
         {
-          "endDate": "1968-03-29",
+          "endDate": "1968-03-01",
+          "items": [
+            {
+              "artist": "Esther & Abi Ofarim",
+              "rank": 1,
+              "title": "Cinderella Rockefella"
+            }
+          ],
+          "startDate": "1968-02-28"
+        },
+        {
+          "endDate": "1968-03-05",
           "items": [
             {
               "artist": "Esther and Abi Ofarim",
@@ -46,6 +246,149 @@
             }
           ],
           "startDate": "1968-03-02"
+        },
+        {
+          "endDate": "1968-03-08",
+          "items": [
+            {
+              "artist": "Esther & Abi Ofarim",
+              "rank": 1,
+              "title": "Cinderella Rockefella"
+            }
+          ],
+          "startDate": "1968-03-06"
+        },
+        {
+          "endDate": "1968-03-12",
+          "items": [
+            {
+              "artist": "Esther and Abi Ofarim",
+              "rank": 1,
+              "title": "Cinderella Rockefella"
+            }
+          ],
+          "startDate": "1968-03-09"
+        },
+        {
+          "endDate": "1968-03-15",
+          "items": [
+            {
+              "artist": "Esther & Abi Ofarim",
+              "rank": 1,
+              "title": "Cinderella Rockefella"
+            }
+          ],
+          "startDate": "1968-03-13"
+        },
+        {
+          "endDate": "1968-03-19",
+          "items": [
+            {
+              "artist": "Esther and Abi Ofarim",
+              "rank": 1,
+              "title": "Cinderella Rockefella"
+            }
+          ],
+          "startDate": "1968-03-16"
+        },
+        {
+          "endDate": "1968-03-22",
+          "items": [
+            {
+              "artist": "Dave Dee, Dozy, Beaky, Mick & Tich",
+              "rank": 1,
+              "title": "The Legend of Xanadu"
+            }
+          ],
+          "startDate": "1968-03-20"
+        },
+        {
+          "endDate": "1968-03-26",
+          "items": [
+            {
+              "artist": "Esther and Abi Ofarim",
+              "rank": 1,
+              "title": "Cinderella Rockefella"
+            }
+          ],
+          "startDate": "1968-03-23"
+        },
+        {
+          "endDate": "1968-03-29",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Lady Madonna"
+            }
+          ],
+          "startDate": "1968-03-27"
+        },
+        {
+          "endDate": "1968-04-02",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Delilah"
+            }
+          ],
+          "startDate": "1968-03-30"
+        },
+        {
+          "endDate": "1968-04-05",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Lady Madonna"
+            }
+          ],
+          "startDate": "1968-04-03"
+        },
+        {
+          "endDate": "1968-04-09",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Delilah"
+            }
+          ],
+          "startDate": "1968-04-06"
+        },
+        {
+          "endDate": "1968-04-12",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Congratulations"
+            }
+          ],
+          "startDate": "1968-04-10"
+        },
+        {
+          "endDate": "1968-04-16",
+          "items": [
+            {
+              "artist": "Louis Armstrong",
+              "rank": 1,
+              "title": "What a Wonderful World"
+            }
+          ],
+          "startDate": "1968-04-13"
+        },
+        {
+          "endDate": "1968-04-19",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Congratulations"
+            }
+          ],
+          "startDate": "1968-04-17"
         },
         {
           "endDate": "1968-05-17",
@@ -59,7 +402,7 @@
           "startDate": "1968-04-20"
         },
         {
-          "endDate": "1968-06-14",
+          "endDate": "1968-05-21",
           "items": [
             {
               "artist": "Gary Puckett & The Union Gap",
@@ -70,7 +413,84 @@
           "startDate": "1968-05-18"
         },
         {
-          "endDate": "1968-07-05",
+          "endDate": "1968-05-24",
+          "items": [
+            {
+              "artist": "Gary Puckett and the Union Gap",
+              "rank": 1,
+              "title": "Young Girl"
+            }
+          ],
+          "startDate": "1968-05-22"
+        },
+        {
+          "endDate": "1968-05-28",
+          "items": [
+            {
+              "artist": "Gary Puckett & The Union Gap",
+              "rank": 1,
+              "title": "Young Girl"
+            }
+          ],
+          "startDate": "1968-05-25"
+        },
+        {
+          "endDate": "1968-05-31",
+          "items": [
+            {
+              "artist": "Gary Puckett and the Union Gap",
+              "rank": 1,
+              "title": "Young Girl"
+            }
+          ],
+          "startDate": "1968-05-29"
+        },
+        {
+          "endDate": "1968-06-04",
+          "items": [
+            {
+              "artist": "Gary Puckett & The Union Gap",
+              "rank": 1,
+              "title": "Young Girl"
+            }
+          ],
+          "startDate": "1968-06-01"
+        },
+        {
+          "endDate": "1968-06-07",
+          "items": [
+            {
+              "artist": "Gary Puckett and the Union Gap",
+              "rank": 1,
+              "title": "Young Girl"
+            }
+          ],
+          "startDate": "1968-06-05"
+        },
+        {
+          "endDate": "1968-06-11",
+          "items": [
+            {
+              "artist": "Gary Puckett & The Union Gap",
+              "rank": 1,
+              "title": "Young Girl"
+            }
+          ],
+          "startDate": "1968-06-08"
+        },
+        {
+          "endDate": "1968-06-14",
+          "items": [
+            {
+              "artist": "Gary Puckett and the Union Gap",
+              "rank": 1,
+              "title": "Young Girl"
+            }
+          ],
+          "startDate": "1968-06-12"
+        },
+        {
+          "endDate": "1968-07-02",
           "items": [
             {
               "artist": "The Rolling Stones",
@@ -78,10 +498,21 @@
               "title": "Jumpin' Jack Flash"
             }
           ],
-          "startDate": "1968-06-22"
+          "startDate": "1968-06-15"
         },
         {
-          "endDate": "1968-07-26",
+          "endDate": "1968-07-05",
+          "items": [
+            {
+              "artist": "The Equals",
+              "rank": 1,
+              "title": "Baby, Come Back"
+            }
+          ],
+          "startDate": "1968-07-03"
+        },
+        {
+          "endDate": "1968-07-09",
           "items": [
             {
               "artist": "The Equals",
@@ -92,7 +523,62 @@
           "startDate": "1968-07-06"
         },
         {
-          "endDate": "1968-08-23",
+          "endDate": "1968-07-12",
+          "items": [
+            {
+              "artist": "The Equals",
+              "rank": 1,
+              "title": "Baby, Come Back"
+            }
+          ],
+          "startDate": "1968-07-10"
+        },
+        {
+          "endDate": "1968-07-16",
+          "items": [
+            {
+              "artist": "The Equals",
+              "rank": 1,
+              "title": "Baby Come Back"
+            }
+          ],
+          "startDate": "1968-07-13"
+        },
+        {
+          "endDate": "1968-07-19",
+          "items": [
+            {
+              "artist": "The Equals",
+              "rank": 1,
+              "title": "Baby, Come Back"
+            }
+          ],
+          "startDate": "1968-07-17"
+        },
+        {
+          "endDate": "1968-07-23",
+          "items": [
+            {
+              "artist": "The Equals",
+              "rank": 1,
+              "title": "Baby Come Back"
+            }
+          ],
+          "startDate": "1968-07-20"
+        },
+        {
+          "endDate": "1968-07-26",
+          "items": [
+            {
+              "artist": "Des O'Connor",
+              "rank": 1,
+              "title": "I Pretend"
+            }
+          ],
+          "startDate": "1968-07-24"
+        },
+        {
+          "endDate": "1968-08-13",
           "items": [
             {
               "artist": "Tommy James and the Shondells",
@@ -101,6 +587,39 @@
             }
           ],
           "startDate": "1968-07-27"
+        },
+        {
+          "endDate": "1968-08-16",
+          "items": [
+            {
+              "artist": "The Crazy World of Arthur Brown",
+              "rank": 1,
+              "title": "Fire"
+            }
+          ],
+          "startDate": "1968-08-14"
+        },
+        {
+          "endDate": "1968-08-23",
+          "items": [
+            {
+              "artist": "Tommy James and the Shondells",
+              "rank": 1,
+              "title": "Mony Mony"
+            }
+          ],
+          "startDate": "1968-08-17"
+        },
+        {
+          "endDate": "1968-08-26",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Help Yourself"
+            }
+          ],
+          "startDate": "1968-08-24"
         },
         {
           "endDate": "1968-08-27",
@@ -114,7 +633,7 @@
           "startDate": "1968-08-27"
         },
         {
-          "endDate": "1968-09-02",
+          "endDate": "1968-08-30",
           "items": [
             {
               "artist": "The Beach Boys",
@@ -125,7 +644,18 @@
           "startDate": "1968-08-28"
         },
         {
-          "endDate": "1968-09-13",
+          "endDate": "1968-09-02",
+          "items": [
+            {
+              "artist": "Tom Jones",
+              "rank": 1,
+              "title": "Help Yourself"
+            }
+          ],
+          "startDate": "1968-08-31"
+        },
+        {
+          "endDate": "1968-09-03",
           "items": [
             {
               "artist": "Aretha Franklin",
@@ -136,7 +666,29 @@
           "startDate": "1968-09-03"
         },
         {
-          "endDate": "1968-10-04",
+          "endDate": "1968-09-09",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "I've Gotta Get a Message to You"
+            }
+          ],
+          "startDate": "1968-09-04"
+        },
+        {
+          "endDate": "1968-09-10",
+          "items": [
+            {
+              "artist": "Aretha Franklin",
+              "rank": 1,
+              "title": "I Say a Little Prayer"
+            }
+          ],
+          "startDate": "1968-09-10"
+        },
+        {
+          "endDate": "1968-09-24",
           "items": [
             {
               "artist": "The Beatles",
@@ -144,10 +696,10 @@
               "title": "Hey Jude"
             }
           ],
-          "startDate": "1968-09-14"
+          "startDate": "1968-09-11"
         },
         {
-          "endDate": "1968-11-08",
+          "endDate": "1968-09-27",
           "items": [
             {
               "artist": "Mary Hopkin",
@@ -155,10 +707,32 @@
               "title": "Those Were the Days"
             }
           ],
-          "startDate": "1968-10-05"
+          "startDate": "1968-09-25"
         },
         {
-          "endDate": "1968-11-15",
+          "endDate": "1968-10-01",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hey Jude"
+            }
+          ],
+          "startDate": "1968-09-28"
+        },
+        {
+          "endDate": "1968-11-05",
+          "items": [
+            {
+              "artist": "Mary Hopkin",
+              "rank": 1,
+              "title": "Those Were the Days"
+            }
+          ],
+          "startDate": "1968-10-02"
+        },
+        {
+          "endDate": "1968-11-12",
           "items": [
             {
               "artist": "Joe Cocker",
@@ -166,7 +740,18 @@
               "title": "With a Little Help from My Friends"
             }
           ],
-          "startDate": "1968-11-09"
+          "startDate": "1968-11-06"
+        },
+        {
+          "endDate": "1968-12-10",
+          "items": [
+            {
+              "artist": "Hugo Montenegro",
+              "rank": 1,
+              "title": "The Good, the Bad and the Ugly"
+            }
+          ],
+          "startDate": "1968-11-13"
         },
         {
           "endDate": "1968-12-31",
@@ -177,13 +762,13 @@
               "title": "Lily the Pink"
             }
           ],
-          "startDate": "1968-12-14"
+          "startDate": "1968-12-11"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -191,7 +776,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "54680f947ec883a7346fe4e0777e4620ae29dd3f68eaa0ddbfa459ebd1d0f163",
+  "contentHash": "bbef66b933c149ce72415ec064d18481fec9643a32378347966f89bdb39f44a0",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1968

@@ -1,0 +1,606 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2023-02-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar: The Way of Water"
+            }
+          ],
+          "startDate": "2023-01-01"
+        },
+        {
+          "endDate": "2023-02-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ant-Man and the Wasp: Quantumania"
+            }
+          ],
+          "startDate": "2023-02-19"
+        },
+        {
+          "endDate": "2023-03-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mummies"
+            }
+          ],
+          "startDate": "2023-02-26"
+        },
+        {
+          "endDate": "2023-03-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Creed III"
+            }
+          ],
+          "startDate": "2023-03-05"
+        },
+        {
+          "endDate": "2023-03-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mari(dos)"
+            }
+          ],
+          "startDate": "2023-03-19"
+        },
+        {
+          "endDate": "2023-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "John Wick: Chapter 4"
+            }
+          ],
+          "startDate": "2023-03-26"
+        },
+        {
+          "endDate": "2023-04-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dungeons & Dragons: Honor Among Thieves"
+            }
+          ],
+          "startDate": "2023-04-02"
+        },
+        {
+          "endDate": "2023-04-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Super Mario Bros. Movie"
+            }
+          ],
+          "startDate": "2023-04-09"
+        },
+        {
+          "endDate": "2023-05-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Hell of a Holiday!"
+            }
+          ],
+          "startDate": "2023-04-30"
+        },
+        {
+          "endDate": "2023-05-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Guardians of the Galaxy Vol. 3"
+            }
+          ],
+          "startDate": "2023-05-07"
+        },
+        {
+          "endDate": "2023-05-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast X"
+            }
+          ],
+          "startDate": "2023-05-21"
+        },
+        {
+          "endDate": "2023-06-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Little Mermaid"
+            }
+          ],
+          "startDate": "2023-05-28"
+        },
+        {
+          "endDate": "2023-06-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Across the Spider-Verse"
+            }
+          ],
+          "startDate": "2023-06-04"
+        },
+        {
+          "endDate": "2023-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Flash"
+            }
+          ],
+          "startDate": "2023-06-18"
+        },
+        {
+          "endDate": "2023-07-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indiana Jones and the Dial of Destiny"
+            }
+          ],
+          "startDate": "2023-07-02"
+        },
+        {
+          "endDate": "2023-07-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Elemental"
+            }
+          ],
+          "startDate": "2023-07-16"
+        },
+        {
+          "endDate": "2023-08-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Barbie"
+            }
+          ],
+          "startDate": "2023-07-23"
+        },
+        {
+          "endDate": "2023-08-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Meg 2: The Trench"
+            }
+          ],
+          "startDate": "2023-08-06"
+        },
+        {
+          "endDate": "2023-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Championext"
+            }
+          ],
+          "startDate": "2023-08-20"
+        },
+        {
+          "endDate": "2023-09-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Equalizer 3"
+            }
+          ],
+          "startDate": "2023-09-03"
+        },
+        {
+          "endDate": "2023-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Nun II"
+            }
+          ],
+          "startDate": "2023-09-10"
+        },
+        {
+          "endDate": "2023-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Haunting in Venice"
+            }
+          ],
+          "startDate": "2023-09-17"
+        },
+        {
+          "endDate": "2023-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Creator"
+            }
+          ],
+          "startDate": "2023-10-01"
+        },
+        {
+          "endDate": "2023-10-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Exorcist: Believer"
+            }
+          ],
+          "startDate": "2023-10-08"
+        },
+        {
+          "endDate": "2023-10-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Taylor Swift: The Eras Tour"
+            }
+          ],
+          "startDate": "2023-10-15"
+        },
+        {
+          "endDate": "2023-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Killers of the Flower Moon"
+            }
+          ],
+          "startDate": "2023-10-22"
+        },
+        {
+          "endDate": "2023-11-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trolls Band Together"
+            }
+          ],
+          "startDate": "2023-10-29"
+        },
+        {
+          "endDate": "2023-11-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Five Nights at Freddy's"
+            }
+          ],
+          "startDate": "2023-11-05"
+        },
+        {
+          "endDate": "2023-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Marvels"
+            }
+          ],
+          "startDate": "2023-11-12"
+        },
+        {
+          "endDate": "2023-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games: The Ballad of Songbirds & Snakes"
+            }
+          ],
+          "startDate": "2023-11-19"
+        },
+        {
+          "endDate": "2023-12-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Napoleon"
+            }
+          ],
+          "startDate": "2023-11-26"
+        },
+        {
+          "endDate": "2023-12-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Moroccan Affair"
+            }
+          ],
+          "startDate": "2023-12-03"
+        },
+        {
+          "endDate": "2023-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonka"
+            }
+          ],
+          "startDate": "2023-12-10"
+        },
+        {
+          "endDate": "2023-12-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aquaman and the Lost Kingdom"
+            }
+          ],
+          "startDate": "2023-12-24"
+        },
+        {
+          "endDate": "2023-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonka"
+            }
+          ],
+          "startDate": "2023-12-31"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2023-01-05",
+          "items": [
+            {
+              "artist": "Manuel Turizo",
+              "rank": 1,
+              "title": "La Bachata"
+            }
+          ],
+          "startDate": "2023-01-01"
+        },
+        {
+          "endDate": "2023-02-23",
+          "items": [
+            {
+              "artist": "Bizarrap and Shakira",
+              "rank": 1,
+              "title": "Shakira: Bzrp Music Sessions, Vol. 53"
+            }
+          ],
+          "startDate": "2023-01-06"
+        },
+        {
+          "endDate": "2023-03-23",
+          "items": [
+            {
+              "artist": "Karol G and Shakira",
+              "rank": 1,
+              "title": "TQG"
+            }
+          ],
+          "startDate": "2023-02-24"
+        },
+        {
+          "endDate": "2023-04-13",
+          "items": [
+            {
+              "artist": "Rosalía and Rauw Alejandro",
+              "rank": 1,
+              "title": "Beso"
+            }
+          ],
+          "startDate": "2023-03-24"
+        },
+        {
+          "endDate": "2023-04-27",
+          "items": [
+            {
+              "artist": "Lola Índigo featuring Quevedo",
+              "rank": 1,
+              "title": "El Tonto"
+            }
+          ],
+          "startDate": "2023-04-14"
+        },
+        {
+          "endDate": "2023-05-04",
+          "items": [
+            {
+              "artist": "Saiko",
+              "rank": 1,
+              "title": "Supernova"
+            }
+          ],
+          "startDate": "2023-04-28"
+        },
+        {
+          "endDate": "2023-05-18",
+          "items": [
+            {
+              "artist": "Lola Índigo featuring Quevedo",
+              "rank": 1,
+              "title": "El Tonto"
+            }
+          ],
+          "startDate": "2023-05-05"
+        },
+        {
+          "endDate": "2023-05-25",
+          "items": [
+            {
+              "artist": "Shakira",
+              "rank": 1,
+              "title": "Acróstico"
+            }
+          ],
+          "startDate": "2023-05-19"
+        },
+        {
+          "endDate": "2023-06-08",
+          "items": [
+            {
+              "artist": "Bad Bunny",
+              "rank": 1,
+              "title": "Where She Goes"
+            }
+          ],
+          "startDate": "2023-05-26"
+        },
+        {
+          "endDate": "2023-06-22",
+          "items": [
+            {
+              "artist": "Saiko, Feid, Quevedo and Mora",
+              "rank": 1,
+              "title": "Polaris\" (Remix)"
+            }
+          ],
+          "startDate": "2023-06-09"
+        },
+        {
+          "endDate": "2023-06-29",
+          "items": [
+            {
+              "artist": "Bizarrap and Rauw Alejandro",
+              "rank": 1,
+              "title": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56"
+            }
+          ],
+          "startDate": "2023-06-23"
+        },
+        {
+          "endDate": "2023-07-06",
+          "items": [
+            {
+              "artist": "Myke Towers",
+              "rank": 1,
+              "title": "Lala"
+            }
+          ],
+          "startDate": "2023-06-30"
+        },
+        {
+          "endDate": "2023-08-31",
+          "items": [
+            {
+              "artist": "Quevedo",
+              "rank": 1,
+              "title": "Columbia"
+            }
+          ],
+          "startDate": "2023-07-07"
+        },
+        {
+          "endDate": "2023-09-21",
+          "items": [
+            {
+              "artist": "Mora and Saiko",
+              "rank": 1,
+              "title": "Reina"
+            }
+          ],
+          "startDate": "2023-09-01"
+        },
+        {
+          "endDate": "2023-09-28",
+          "items": [
+            {
+              "artist": "Quevedo and Saiko",
+              "rank": 1,
+              "title": "Buenas"
+            }
+          ],
+          "startDate": "2023-09-22"
+        },
+        {
+          "endDate": "2023-10-12",
+          "items": [
+            {
+              "artist": "Iñigo Quintero",
+              "rank": 1,
+              "title": "Si No Estás"
+            }
+          ],
+          "startDate": "2023-09-29"
+        },
+        {
+          "endDate": "2023-10-19",
+          "items": [
+            {
+              "artist": "Bad Bunny",
+              "rank": 1,
+              "title": "Mónaco"
+            }
+          ],
+          "startDate": "2023-10-13"
+        },
+        {
+          "endDate": "2023-11-30",
+          "items": [
+            {
+              "artist": "Iñigo Quintero",
+              "rank": 1,
+              "title": "Si No Estás"
+            }
+          ],
+          "startDate": "2023-10-20"
+        },
+        {
+          "endDate": "2023-12-28",
+          "items": [
+            {
+              "artist": "Dellafuente/Morad",
+              "rank": 1,
+              "title": "Manos Rotas"
+            }
+          ],
+          "startDate": "2023-12-01"
+        },
+        {
+          "endDate": "2023-12-31",
+          "items": [
+            {
+              "artist": "Dellafuente and Morad",
+              "rank": 1,
+              "title": "Manos Rotas"
+            }
+          ],
+          "startDate": "2023-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "1a7025c1c90180409f63b3b6cf141f2059cda00d13d76cda7d283dc5cbc98669",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2023
+}

@@ -108,7 +108,7 @@
             {
               "artist": "Elton John",
               "rank": 1,
-              "title": "Candle in the Wind '97\" / \"Something About the Way You Look Tonight\"♪"
+              "title": "Candle in the Wind '97 / Something About the Way You Look Tonight"
             }
           ],
           "startDate": "1997-10-11"
@@ -117,7 +117,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -125,7 +125,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "a0add16a7e57a7700716adb786ed1cf1247d0630424401ecf769fb15fae38ec9",
+  "contentHash": "1420beec46c9c06f3cdbacbb665d1e29f52bc8bb67158e5f140775c563a7431a",
   "country": "us",
   "schemaVersion": 1,
   "year": 1997

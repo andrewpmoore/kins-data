@@ -1,0 +1,559 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2003-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lord of the Rings: The Two Towers"
+            }
+          ],
+          "startDate": "2003-01-01"
+        },
+        {
+          "endDate": "2003-02-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "8 Mile"
+            }
+          ],
+          "startDate": "2003-01-19"
+        },
+        {
+          "endDate": "2003-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Catch Me If You Can"
+            }
+          ],
+          "startDate": "2003-02-02"
+        },
+        {
+          "endDate": "2003-02-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Two Weeks Notice"
+            }
+          ],
+          "startDate": "2003-02-09"
+        },
+        {
+          "endDate": "2003-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Ring"
+            }
+          ],
+          "startDate": "2003-02-23"
+        },
+        {
+          "endDate": "2003-03-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maid in Manhattan"
+            }
+          ],
+          "startDate": "2003-03-09"
+        },
+        {
+          "endDate": "2003-03-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Just Married"
+            }
+          ],
+          "startDate": "2003-03-23"
+        },
+        {
+          "endDate": "2003-04-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Recruit"
+            }
+          ],
+          "startDate": "2003-03-30"
+        },
+        {
+          "endDate": "2003-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Johnny English"
+            }
+          ],
+          "startDate": "2003-04-13"
+        },
+        {
+          "endDate": "2003-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X2: X-Men United"
+            }
+          ],
+          "startDate": "2003-05-04"
+        },
+        {
+          "endDate": "2003-06-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Matrix Reloaded"
+            }
+          ],
+          "startDate": "2003-05-25"
+        },
+        {
+          "endDate": "2003-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "2 Fast 2 Furious"
+            }
+          ],
+          "startDate": "2003-06-22"
+        },
+        {
+          "endDate": "2003-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bruce Almighty"
+            }
+          ],
+          "startDate": "2003-06-29"
+        },
+        {
+          "endDate": "2003-07-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Charlie's Angels: Full Throttle"
+            }
+          ],
+          "startDate": "2003-07-06"
+        },
+        {
+          "endDate": "2003-08-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hulk"
+            }
+          ],
+          "startDate": "2003-07-20"
+        },
+        {
+          "endDate": "2003-08-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terminator 3: Rise of the Machines"
+            }
+          ],
+          "startDate": "2003-08-03"
+        },
+        {
+          "endDate": "2003-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
+            }
+          ],
+          "startDate": "2003-08-10"
+        },
+        {
+          "endDate": "2003-08-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Wedding"
+            }
+          ],
+          "startDate": "2003-08-17"
+        },
+        {
+          "endDate": "2003-09-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
+            }
+          ],
+          "startDate": "2003-08-31"
+        },
+        {
+          "endDate": "2003-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Calendar Girls"
+            }
+          ],
+          "startDate": "2003-09-14"
+        },
+        {
+          "endDate": "2003-09-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Italian Job"
+            }
+          ],
+          "startDate": "2003-09-21"
+        },
+        {
+          "endDate": "2003-10-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Calendar Girls"
+            }
+          ],
+          "startDate": "2003-09-28"
+        },
+        {
+          "endDate": "2003-10-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys II"
+            }
+          ],
+          "startDate": "2003-10-05"
+        },
+        {
+          "endDate": "2003-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Finding Nemo"
+            }
+          ],
+          "startDate": "2003-10-12"
+        },
+        {
+          "endDate": "2003-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Matrix Revolutions"
+            }
+          ],
+          "startDate": "2003-11-09"
+        },
+        {
+          "endDate": "2003-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Love Actually"
+            }
+          ],
+          "startDate": "2003-11-23"
+        },
+        {
+          "endDate": "2003-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lord of the Rings: The Return of the King"
+            }
+          ],
+          "startDate": "2003-12-21"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2003-01-24",
+          "items": [
+            {
+              "artist": "Girls Aloud",
+              "rank": 1,
+              "title": "Sound of the Underground"
+            }
+          ],
+          "startDate": "2003-01-01"
+        },
+        {
+          "endDate": "2003-02-07",
+          "items": [
+            {
+              "artist": "David Sneddon",
+              "rank": 1,
+              "title": "Stop Living the Lie"
+            }
+          ],
+          "startDate": "2003-01-25"
+        },
+        {
+          "endDate": "2003-03-07",
+          "items": [
+            {
+              "artist": "t.A.T.u.",
+              "rank": 1,
+              "title": "All the Things She Said"
+            }
+          ],
+          "startDate": "2003-02-08"
+        },
+        {
+          "endDate": "2003-03-21",
+          "items": [
+            {
+              "artist": "Christina Aguilera",
+              "rank": 1,
+              "title": "Beautiful"
+            }
+          ],
+          "startDate": "2003-03-08"
+        },
+        {
+          "endDate": "2003-04-04",
+          "items": [
+            {
+              "artist": "Gareth Gates featuring The Kumars",
+              "rank": 1,
+              "title": "Spirit in the Sky"
+            }
+          ],
+          "startDate": "2003-03-22"
+        },
+        {
+          "endDate": "2003-05-02",
+          "items": [
+            {
+              "artist": "Room 5 featuring Oliver Cheatham",
+              "rank": 1,
+              "title": "Make Luv"
+            }
+          ],
+          "startDate": "2003-04-05"
+        },
+        {
+          "endDate": "2003-05-09",
+          "items": [
+            {
+              "artist": "Busted",
+              "rank": 1,
+              "title": "You Said No"
+            }
+          ],
+          "startDate": "2003-05-03"
+        },
+        {
+          "endDate": "2003-05-16",
+          "items": [
+            {
+              "artist": "Tomcraft",
+              "rank": 1,
+              "title": "Loneliness"
+            }
+          ],
+          "startDate": "2003-05-10"
+        },
+        {
+          "endDate": "2003-06-13",
+          "items": [
+            {
+              "artist": "R. Kelly",
+              "rank": 1,
+              "title": "Ignition"
+            }
+          ],
+          "startDate": "2003-05-17"
+        },
+        {
+          "endDate": "2003-07-11",
+          "items": [
+            {
+              "artist": "Evanescence",
+              "rank": 1,
+              "title": "Bring Me to Life"
+            }
+          ],
+          "startDate": "2003-06-14"
+        },
+        {
+          "endDate": "2003-08-01",
+          "items": [
+            {
+              "artist": "Beyoncé featuring Jay-Z",
+              "rank": 1,
+              "title": "Crazy in Love"
+            }
+          ],
+          "startDate": "2003-07-12"
+        },
+        {
+          "endDate": "2003-08-08",
+          "items": [
+            {
+              "artist": "Daniel Bedingfield",
+              "rank": 1,
+              "title": "Never Gonna Leave Your Side"
+            }
+          ],
+          "startDate": "2003-08-02"
+        },
+        {
+          "endDate": "2003-09-05",
+          "items": [
+            {
+              "artist": "Blu Cantrell featuring Sean Paul",
+              "rank": 1,
+              "title": "Breathe"
+            }
+          ],
+          "startDate": "2003-08-09"
+        },
+        {
+          "endDate": "2003-09-12",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Are You Ready for Love"
+            }
+          ],
+          "startDate": "2003-09-06"
+        },
+        {
+          "endDate": "2003-10-24",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas",
+              "rank": 1,
+              "title": "Where Is the Love?"
+            }
+          ],
+          "startDate": "2003-09-13"
+        },
+        {
+          "endDate": "2003-10-31",
+          "items": [
+            {
+              "artist": "Sugababes",
+              "rank": 1,
+              "title": "Hole in the Head"
+            }
+          ],
+          "startDate": "2003-10-25"
+        },
+        {
+          "endDate": "2003-11-14",
+          "items": [
+            {
+              "artist": "Fatman Scoop featuring the Crooklyn Clan",
+              "rank": 1,
+              "title": "Be Faithful"
+            }
+          ],
+          "startDate": "2003-11-01"
+        },
+        {
+          "endDate": "2003-11-21",
+          "items": [
+            {
+              "artist": "Kylie Minogue",
+              "rank": 1,
+              "title": "Slow"
+            }
+          ],
+          "startDate": "2003-11-15"
+        },
+        {
+          "endDate": "2003-11-28",
+          "items": [
+            {
+              "artist": "Busted",
+              "rank": 1,
+              "title": "Crashed the Wedding"
+            }
+          ],
+          "startDate": "2003-11-22"
+        },
+        {
+          "endDate": "2003-12-05",
+          "items": [
+            {
+              "artist": "Westlife",
+              "rank": 1,
+              "title": "Mandy"
+            }
+          ],
+          "startDate": "2003-11-29"
+        },
+        {
+          "endDate": "2003-12-19",
+          "items": [
+            {
+              "artist": "Will Young",
+              "rank": 1,
+              "title": "Leave Right Now"
+            }
+          ],
+          "startDate": "2003-12-06"
+        },
+        {
+          "endDate": "2003-12-26",
+          "items": [
+            {
+              "artist": "Ozzy and Kelly Osbourne",
+              "rank": 1,
+              "title": "Changes"
+            }
+          ],
+          "startDate": "2003-12-20"
+        },
+        {
+          "endDate": "2003-12-31",
+          "items": [
+            {
+              "artist": "Michael Andrews featuring Gary Jules",
+              "rank": 1,
+              "title": "Mad World"
+            }
+          ],
+          "startDate": "2003-12-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-15",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "16ee4a8fcf029aaf17b4e7b3b4f69289814715c0421c25b4ae0d21d5f81f74f0",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2003
+}

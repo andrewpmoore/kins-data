@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2011",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9785271460319",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9785271460319-L.jpg?default=false",
+          "author": "John Grisham",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9785271460319",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9785271460319-L.jpg?default=false",
+          "creator": "John Grisham",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Litigators",
+          "url": "https://books.google.com/books?vid=ISBN:9785271460319"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2011-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2011
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2011",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781419703683",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781419703683-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781419703683",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781419703683-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Diary of a Wimpy Kid: Cabin Fever",
+          "url": "https://books.google.com/books?vid=ISBN:9781419703683"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2011-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2011
+    },
     "games": {
       "id": "media-awardWinner-2011",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2011
     }
   },
-  "contentHash": "82a29fef93b9c9723e5c9b827143df174401517f7c311f2a3374fababd840d7f",
+  "contentHash": "b4a67c612538a20fb90f3f5f2b377c6847f62573a52d5cd99df303595687b4b7",
   "country": "us",
   "schemaVersion": 1,
   "year": 2011

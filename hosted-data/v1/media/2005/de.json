@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2005",
+      "items": [
+        {
+          "author": "Dan Brown",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Sakrileg",
+          "url": "https://books.google.com/books?q=Sakrileg"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2005/"
+      },
+      "title": "DE print bestseller",
+      "year": 2005
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2005",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Harry Potter und der Halbblutprinz",
+          "url": "https://books.google.com/books?q=Harry+Potter+und+der+Halbblutprinz"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2005/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2005
+    },
     "games": {
       "id": "media-awardWinner-2005",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2005
     }
   },
-  "contentHash": "2f8c36f4b92b1ffea55ac7f0e91fd97f3c3e91d8c9889be6f146ad77fb826f80",
+  "contentHash": "06da78cce4e76b7060afd8e8dd6ca55ef8ba8522b6df0f6336fc5ab78c1f9f02",
   "country": "de",
   "schemaVersion": 1,
   "year": 2005

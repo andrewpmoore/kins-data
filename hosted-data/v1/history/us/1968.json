@@ -152,7 +152,7 @@
             {
               "artist": "The Beatles",
               "rank": 1,
-              "title": "Hey Jude\"♪"
+              "title": "Hey Jude"
             }
           ],
           "startDate": "1968-09-28"
@@ -183,7 +183,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -191,7 +191,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "df12aa71d2da72a4cdb8eea385eeaa41220faff58f9b92092d9a2f7c531c0181",
+  "contentHash": "4c20c2d00bcbccbac7260d6b2827e3f7a19b19b8a492a7f21063ee80f1b0b809",
   "country": "us",
   "schemaVersion": 1,
   "year": 1968

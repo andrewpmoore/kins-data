@@ -1,10 +1,245 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1980-01-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Trek: The Motion Picture"
+            }
+          ],
+          "startDate": "1980-01-01"
+        },
+        {
+          "endDate": "1980-02-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kramer vs. Kramer"
+            }
+          ],
+          "startDate": "1980-01-09"
+        },
+        {
+          "endDate": "1980-02-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Silent Scream"
+            }
+          ],
+          "startDate": "1980-02-06"
+        },
+        {
+          "endDate": "1980-02-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Gigolo"
+            }
+          ],
+          "startDate": "1980-02-13"
+        },
+        {
+          "endDate": "1980-03-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cruising"
+            }
+          ],
+          "startDate": "1980-02-20"
+        },
+        {
+          "endDate": "1980-03-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fog"
+            }
+          ],
+          "startDate": "1980-03-05"
+        },
+        {
+          "endDate": "1980-03-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "All That Jazz"
+            }
+          ],
+          "startDate": "1980-03-12"
+        },
+        {
+          "endDate": "1980-03-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Coal Miner's Daughter"
+            }
+          ],
+          "startDate": "1980-03-19"
+        },
+        {
+          "endDate": "1980-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kramer vs. Kramer"
+            }
+          ],
+          "startDate": "1980-03-26"
+        },
+        {
+          "endDate": "1980-04-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Little Darlings"
+            }
+          ],
+          "startDate": "1980-04-02"
+        },
+        {
+          "endDate": "1980-05-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kramer vs. Kramer"
+            }
+          ],
+          "startDate": "1980-04-16"
+        },
+        {
+          "endDate": "1980-05-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Friday the 13th"
+            }
+          ],
+          "startDate": "1980-05-14"
+        },
+        {
+          "endDate": "1980-07-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Empire Strikes Back"
+            }
+          ],
+          "startDate": "1980-05-28"
+        },
+        {
+          "endDate": "1980-08-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Airplane!"
+            }
+          ],
+          "startDate": "1980-07-16"
+        },
+        {
+          "endDate": "1980-08-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dressed to Kill"
+            }
+          ],
+          "startDate": "1980-08-13"
+        },
+        {
+          "endDate": "1980-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Smokey and the Bandit II"
+            }
+          ],
+          "startDate": "1980-08-20"
+        },
+        {
+          "endDate": "1980-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Exterminator"
+            }
+          ],
+          "startDate": "1980-09-17"
+        },
+        {
+          "endDate": "1980-10-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hopscotch"
+            }
+          ],
+          "startDate": "1980-10-01"
+        },
+        {
+          "endDate": "1980-12-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Private Benjamin"
+            }
+          ],
+          "startDate": "1980-10-15"
+        },
+        {
+          "endDate": "1980-12-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Flash Gordon"
+            }
+          ],
+          "startDate": "1980-12-10"
+        },
+        {
+          "endDate": "1980-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stir Crazy"
+            }
+          ],
+          "startDate": "1980-12-17"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1980-01-15",
+          "endDate": "1980-01-01",
+          "items": [
+            {
+              "artist": "Pink Floyd",
+              "rank": 1,
+              "title": "Another Brick in the Wall (Part II)"
+            }
+          ],
+          "startDate": "1980-01-01"
+        },
+        {
+          "endDate": "1980-01-04",
           "items": [
             {
               "artist": "Pink Floyd",
@@ -12,13 +247,310 @@
               "title": "Another Brick in the Wall"
             }
           ],
-          "startDate": "1980-01-01"
+          "startDate": "1980-01-02"
+        },
+        {
+          "endDate": "1980-01-08",
+          "items": [
+            {
+              "artist": "Pink Floyd",
+              "rank": 1,
+              "title": "Another Brick in the Wall (Part II)"
+            }
+          ],
+          "startDate": "1980-01-05"
+        },
+        {
+          "endDate": "1980-01-11",
+          "items": [
+            {
+              "artist": "Pink Floyd",
+              "rank": 1,
+              "title": "Another Brick in the Wall"
+            }
+          ],
+          "startDate": "1980-01-09"
+        },
+        {
+          "endDate": "1980-01-18",
+          "items": [
+            {
+              "artist": "Pink Floyd",
+              "rank": 1,
+              "title": "Another Brick in the Wall (Part II)"
+            }
+          ],
+          "startDate": "1980-01-12"
+        },
+        {
+          "endDate": "1980-02-01",
+          "items": [
+            {
+              "artist": "Pretenders",
+              "rank": 1,
+              "title": "Brass in Pocket"
+            }
+          ],
+          "startDate": "1980-01-19"
+        },
+        {
+          "endDate": "1980-02-15",
+          "items": [
+            {
+              "artist": "The Special A.K.A.",
+              "rank": 1,
+              "title": "Too Much Too Young – The Special A.K.A. Live! (EP)"
+            }
+          ],
+          "startDate": "1980-02-02"
+        },
+        {
+          "endDate": "1980-02-29",
+          "items": [
+            {
+              "artist": "Kenny Rogers",
+              "rank": 1,
+              "title": "Coward of the County"
+            }
+          ],
+          "startDate": "1980-02-16"
+        },
+        {
+          "endDate": "1980-03-14",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "Atomic"
+            }
+          ],
+          "startDate": "1980-03-01"
+        },
+        {
+          "endDate": "1980-03-21",
+          "items": [
+            {
+              "artist": "Fern Kinney",
+              "rank": 1,
+              "title": "Together We Are Beautiful"
+            }
+          ],
+          "startDate": "1980-03-15"
+        },
+        {
+          "endDate": "1980-04-11",
+          "items": [
+            {
+              "artist": "The Jam",
+              "rank": 1,
+              "title": "Going Underground / Dreams of Children"
+            }
+          ],
+          "startDate": "1980-03-22"
+        },
+        {
+          "endDate": "1980-04-25",
+          "items": [
+            {
+              "artist": "The Detroit Spinners",
+              "rank": 1,
+              "title": "Working My Way Back to You – Forgive Me Girl"
+            }
+          ],
+          "startDate": "1980-04-12"
+        },
+        {
+          "endDate": "1980-05-02",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "Call Me"
+            }
+          ],
+          "startDate": "1980-04-26"
+        },
+        {
+          "endDate": "1980-05-16",
+          "items": [
+            {
+              "artist": "Dexys Midnight Runners",
+              "rank": 1,
+              "title": "Geno"
+            }
+          ],
+          "startDate": "1980-05-03"
+        },
+        {
+          "endDate": "1980-05-30",
+          "items": [
+            {
+              "artist": "Johnny Logan",
+              "rank": 1,
+              "title": "What's Another Year"
+            }
+          ],
+          "startDate": "1980-05-17"
+        },
+        {
+          "endDate": "1980-06-20",
+          "items": [
+            {
+              "artist": "The Mash",
+              "rank": 1,
+              "title": "Theme from MASH (Suicide is Painless)"
+            }
+          ],
+          "startDate": "1980-05-31"
+        },
+        {
+          "endDate": "1980-07-11",
+          "items": [
+            {
+              "artist": "Don McLean",
+              "rank": 1,
+              "title": "Crying"
+            }
+          ],
+          "startDate": "1980-06-21"
+        },
+        {
+          "endDate": "1980-07-25",
+          "items": [
+            {
+              "artist": "Olivia Newton-John and Electric Light Orchestra",
+              "rank": 1,
+              "title": "Xanadu"
+            }
+          ],
+          "startDate": "1980-07-12"
+        },
+        {
+          "endDate": "1980-08-08",
+          "items": [
+            {
+              "artist": "Odyssey",
+              "rank": 1,
+              "title": "Use It Up and Wear It Out"
+            }
+          ],
+          "startDate": "1980-07-26"
+        },
+        {
+          "endDate": "1980-08-22",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "The Winner Takes It All"
+            }
+          ],
+          "startDate": "1980-08-09"
+        },
+        {
+          "endDate": "1980-09-05",
+          "items": [
+            {
+              "artist": "David Bowie",
+              "rank": 1,
+              "title": "Ashes to Ashes"
+            }
+          ],
+          "startDate": "1980-08-23"
+        },
+        {
+          "endDate": "1980-09-12",
+          "items": [
+            {
+              "artist": "The Jam",
+              "rank": 1,
+              "title": "Start!"
+            }
+          ],
+          "startDate": "1980-09-06"
+        },
+        {
+          "endDate": "1980-09-26",
+          "items": [
+            {
+              "artist": "Kelly Marie",
+              "rank": 1,
+              "title": "Feels Like I'm in Love"
+            }
+          ],
+          "startDate": "1980-09-13"
+        },
+        {
+          "endDate": "1980-10-24",
+          "items": [
+            {
+              "artist": "The Police",
+              "rank": 1,
+              "title": "Don't Stand So Close to Me"
+            }
+          ],
+          "startDate": "1980-09-27"
+        },
+        {
+          "endDate": "1980-11-14",
+          "items": [
+            {
+              "artist": "Barbra Streisand",
+              "rank": 1,
+              "title": "Woman in Love"
+            }
+          ],
+          "startDate": "1980-10-25"
+        },
+        {
+          "endDate": "1980-11-28",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "The Tide Is High"
+            }
+          ],
+          "startDate": "1980-11-15"
+        },
+        {
+          "endDate": "1980-12-19",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Super Trouper"
+            }
+          ],
+          "startDate": "1980-11-29"
+        },
+        {
+          "endDate": "1980-12-26",
+          "items": [
+            {
+              "artist": "John Lennon",
+              "rank": 1,
+              "title": "(Just Like) Starting Over"
+            }
+          ],
+          "startDate": "1980-12-20"
+        },
+        {
+          "endDate": "1980-12-31",
+          "items": [
+            {
+              "artist": "St Winifred's School Choir",
+              "rank": 1,
+              "title": "There's No One Quite Like Grandma"
+            }
+          ],
+          "startDate": "1980-12-27"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -26,7 +558,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "78a39e2c546fd2446fed0646b84b796d045017091b5a62693a8540dc46ac35f3",
+  "contentHash": "4115042d2cf1167e751d5275b811e0b64bd13f79ae357383c472a0f4f8a1fbcf",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1980

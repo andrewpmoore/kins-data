@@ -34,6 +34,14 @@ COUNTRIES = {
     "NZ": ("nz", "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"),
     "US": ("us", "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"),
 }
+MOVIE_COUNTRIES = {
+    "DE": ("de", "https://www.boxofficemojo.com/weekend/by-year/?area=DE"),
+    "ES": ("es", "https://www.boxofficemojo.com/weekend/by-year/?area=ES"),
+    "FR": ("fr", "https://www.boxofficemojo.com/weekend/by-year/?area=FR"),
+    "GB": ("uk", "https://www.boxofficemojo.com/weekend/by-year/?area=GB"),
+    "IT": ("it", "https://www.boxofficemojo.com/weekend/by-year/?area=IT"),
+    "US": ("us", "https://www.boxofficemojo.com/weekend/by-year/"),
+}
 MONTH_KEYS = [
     "january_birthdays", "february_birthdays", "march_birthdays", "april_birthdays",
     "may_birthdays", "june_birthdays", "july_birthdays", "august_birthdays",
@@ -54,8 +62,14 @@ def atomic_json(path: Path, value: Any) -> None:
     temporary.replace(path)
 
 
+import re
+
+
 def clean_text(value: str | None) -> str:
-    return " ".join((value or "").strip().strip('"').split())
+    text = " ".join((value or "").strip().strip('"').split())
+    text = re.sub(r'"?\s*[♪‡♦†◁*]+\s*$', "", text).strip().strip('"')
+    text = re.sub(r'"\s*/\s*"', " / ", text)
+    return " ".join(text.split())
 
 
 def identity(title: str, artist: str) -> tuple[str, str]:
@@ -90,6 +104,35 @@ def read_rank_one_rows(path: Path) -> tuple[list[tuple[dt.date, str, str]], int]
     return accepted, ambiguous
 
 
+def read_movie_rank_one_rows(path: Path) -> tuple[list[tuple[dt.date, str]], int]:
+    """Return unambiguous date/film rows and the ambiguity count."""
+    if not path.exists():
+        return [], 0
+    by_date: dict[dt.date, dict[str, str]] = defaultdict(dict)
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        for row in csv.DictReader(handle):
+            if clean_text(row.get("rank")) != "1":
+                continue
+            try:
+                date = dt.date.fromisoformat(clean_text(row.get("date")))
+            except ValueError:
+                continue
+            title = clean_text(row.get("film") or row.get("title"))
+            if not title or date.year < 1940 or date > dt.date.today():
+                continue
+            by_date[date][title.casefold()] = title
+
+    accepted = []
+    ambiguous = 0
+    for date, values in sorted(by_date.items()):
+        if len(values) != 1:
+            ambiguous += 1
+            continue
+        title = next(iter(values.values()))
+        accepted.append((date, title))
+    return accepted, ambiguous
+
+
 def chart_periods(rows: list[tuple[dt.date, str, str]]) -> list[dict[str, Any]]:
     periods: list[dict[str, Any]] = []
     for index, (start, title, artist) in enumerate(rows):
@@ -99,6 +142,26 @@ def chart_periods(rows: list[tuple[dt.date, str, str]]) -> list[dict[str, Any]]:
         if end < start:
             continue
         item = {"rank": 1, "title": title, "artist": artist}
+        if (
+            periods
+            and periods[-1]["items"] == [item]
+            and dt.date.fromisoformat(periods[-1]["endDate"]) + dt.timedelta(days=1) == start
+        ):
+            periods[-1]["endDate"] = end.isoformat()
+        else:
+            periods.append({"startDate": start.isoformat(), "endDate": end.isoformat(), "items": [item]})
+    return periods
+
+
+def movie_chart_periods(rows: list[tuple[dt.date, str]]) -> list[dict[str, Any]]:
+    periods: list[dict[str, Any]] = []
+    for index, (start, title) in enumerate(rows):
+        end = start + dt.timedelta(days=6)
+        if index + 1 < len(rows):
+            end = min(end, rows[index + 1][0] - dt.timedelta(days=1))
+        if end < start:
+            continue
+        item = {"rank": 1, "title": title}
         if (
             periods
             and periods[-1]["items"] == [item]
@@ -143,25 +206,57 @@ def import_music(data_root: Path, output: Path) -> dict[str, dict[str, int]]:
         periods = chart_periods(rows)
         by_year = split_periods_by_year(periods)
         observed_at = rows[-1][0].isoformat() if rows else "unknown"
-        for year, year_periods in by_year.items():
-            chart = {
-                "id": "legacy-national-number-one-single",
-                "title": "Historical number-one single",
-                "source": {
-                    "provider": "Wikipedia contributors",
-                    "url": source_url,
-                    "territory": country,
-                    "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-                    "observedAt": observed_at,
-                    "kind": "nationalSinglesChart",
-                },
-                "periods": year_periods,
-            }
+
+        movie_rows: list[tuple[dt.date, str]] = []
+        movie_ambiguous = 0
+        movie_by_year: dict[int, list[dict[str, Any]]] = {}
+        movie_source_url = ""
+        movie_observed_at = "unknown"
+        if country in MOVIE_COUNTRIES:
+            movie_code, movie_source_url = MOVIE_COUNTRIES[country]
+            movie_rows, movie_ambiguous = read_movie_rank_one_rows(
+                data_root / "movies" / f"movies_{movie_code}.csv"
+            )
+            movie_periods = movie_chart_periods(movie_rows)
+            movie_by_year = split_periods_by_year(movie_periods)
+            movie_observed_at = movie_rows[-1][0].isoformat() if movie_rows else "unknown"
+
+        all_years = sorted(set(by_year.keys()) | set(movie_by_year.keys()))
+        for year in all_years:
+            charts: dict[str, Any] = {}
+            if year in by_year:
+                charts["music"] = {
+                    "id": "legacy-national-number-one-single",
+                    "title": "Historical number-one single",
+                    "source": {
+                        "provider": "Wikipedia contributors",
+                        "url": source_url,
+                        "territory": country,
+                        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+                        "observedAt": observed_at,
+                        "kind": "nationalSinglesChart",
+                    },
+                    "periods": by_year[year],
+                }
+            if year in movie_by_year:
+                charts["movies"] = {
+                    "id": "legacy-national-number-one-film",
+                    "title": "Historical number-one box office film",
+                    "source": {
+                        "provider": "Box Office Mojo / Wikipedia contributors",
+                        "url": movie_source_url,
+                        "territory": country,
+                        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+                        "observedAt": movie_observed_at,
+                        "kind": "theatricalBoxOffice",
+                    },
+                    "periods": movie_by_year[year],
+                }
             value = {
                 "schemaVersion": SCHEMA_VERSION,
                 "country": country.lower(),
                 "year": year,
-                "charts": {"music": chart},
+                "charts": charts,
             }
             value["contentHash"] = content_hash(value["charts"])
             atomic_json(country_output / f"{year}.json", value)
@@ -169,7 +264,9 @@ def import_music(data_root: Path, output: Path) -> dict[str, dict[str, int]]:
             "acceptedAnchors": len(rows),
             "ambiguousDatesOmitted": ambiguous,
             "periods": len(periods),
-            "years": len(by_year),
+            "years": len(all_years),
+            "movieAnchors": len(movie_rows),
+            "movieAmbiguousDatesOmitted": movie_ambiguous,
         }
     return summary
 

@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2017",
+      "items": [
+        {
+          "author": "Fernando Aramburu",
+          "creator": "Fernando Aramburu",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Patria",
+          "url": "https://books.google.com/books?q=Patria"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2017.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2017
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2017",
+      "items": [
+        {
+          "author": "Elena Favilli y Francesca Cavallo",
+          "creator": "Elena Favilli y Francesca Cavallo",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Cuentos de buenas noches para niñas rebeldes",
+          "url": "https://books.google.com/books?q=Cuentos+de+buenas+noches+para+niñas+rebeldes"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2017.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2017
+    },
     "games": {
       "id": "media-awardWinner-2017",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://assets.nintendo.com/image/upload/c_fill,w_800/q_auto/f_jpg/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
           "rank": 1,
           "releaseYear": 2017,
-          "title": "The Legend of Zelda: Breath of the Wild"
+          "title": "The Legend of Zelda: Breath of the Wild",
+          "trailerURL": "https://www.youtube.com/watch?v=zw47_q9wbBE"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2017
     }
   },
-  "contentHash": "be7be719f109d3fce02348ecc06e5cf11454bf83853e48a825070788fe983032",
+  "contentHash": "e93f7c15642a8e5ff9984d1bd0218732f86f08111b5c0d3770a86cd2b1d67fd8",
   "country": "es",
   "schemaVersion": 1,
   "year": 2017

@@ -1,5 +1,249 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2026-01-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar: Fire and Ash"
+            }
+          ],
+          "startDate": "2026-01-01"
+        },
+        {
+          "endDate": "2026-02-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Housemaid"
+            }
+          ],
+          "startDate": "2026-01-25"
+        },
+        {
+          "endDate": "2026-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wuthering Heights"
+            }
+          ],
+          "startDate": "2026-02-15"
+        },
+        {
+          "endDate": "2026-02-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "GOAT"
+            }
+          ],
+          "startDate": "2026-02-22"
+        },
+        {
+          "endDate": "2026-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Marty Supreme"
+            }
+          ],
+          "startDate": "2026-03-01"
+        },
+        {
+          "endDate": "2026-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hoppers"
+            }
+          ],
+          "startDate": "2026-03-08"
+        },
+        {
+          "endDate": "2026-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Project Hail Mary"
+            }
+          ],
+          "startDate": "2026-03-22"
+        },
+        {
+          "endDate": "2026-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Super Mario Galaxy Movie"
+            }
+          ],
+          "startDate": "2026-04-05"
+        },
+        {
+          "endDate": "2026-05-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Michael"
+            }
+          ],
+          "startDate": "2026-04-26"
+        },
+        {
+          "endDate": "2026-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Devil Wears Prada 2"
+            }
+          ],
+          "startDate": "2026-05-03"
+        },
+        {
+          "endDate": "2026-05-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Michael"
+            }
+          ],
+          "startDate": "2026-05-17"
+        },
+        {
+          "endDate": "2026-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: The Mandalorian and Grogu"
+            }
+          ],
+          "startDate": "2026-05-24"
+        },
+        {
+          "endDate": "2026-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scary Movie"
+            }
+          ],
+          "startDate": "2026-06-07"
+        },
+        {
+          "endDate": "2026-06-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disclosure Day"
+            }
+          ],
+          "startDate": "2026-06-14"
+        },
+        {
+          "endDate": "2026-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Backrooms"
+            }
+          ],
+          "startDate": "2026-06-21"
+        },
+        {
+          "endDate": "2026-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Minions & Monsters"
+            }
+          ],
+          "startDate": "2026-06-28"
+        },
+        {
+          "endDate": "2026-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moana"
+            }
+          ],
+          "startDate": "2026-07-12"
+        },
+        {
+          "endDate": "2026-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Odyssey"
+            }
+          ],
+          "startDate": "2026-07-19"
+        },
+        {
+          "endDate": "2026-09-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Brand New Day"
+            }
+          ],
+          "startDate": "2026-08-02"
+        },
+        {
+          "endDate": "2026-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Resident Evil"
+            }
+          ],
+          "startDate": "2026-09-20"
+        },
+        {
+          "endDate": "2026-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avengers: Endgame2026 Re-release"
+            }
+          ],
+          "startDate": "2026-09-27"
+        },
+        {
+          "endDate": "2026-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Verity"
+            }
+          ],
+          "startDate": "2026-10-04"
+        },
+        {
+          "endDate": "2026-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Whalefall"
+            }
+          ],
+          "startDate": "2026-10-18"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -79,12 +323,144 @@
             }
           ],
           "startDate": "2026-03-06"
+        },
+        {
+          "endDate": "2026-03-26",
+          "items": [
+            {
+              "artist": "Lacazette and Jazeek",
+              "rank": 1,
+              "title": "CDY"
+            }
+          ],
+          "startDate": "2026-03-13"
+        },
+        {
+          "endDate": "2026-04-02",
+          "items": [
+            {
+              "artist": "BTS",
+              "rank": 1,
+              "title": "Swim"
+            }
+          ],
+          "startDate": "2026-03-27"
+        },
+        {
+          "endDate": "2026-04-16",
+          "items": [
+            {
+              "artist": "Zara Larsson",
+              "rank": 1,
+              "title": "Lush Life"
+            }
+          ],
+          "startDate": "2026-04-03"
+        },
+        {
+          "endDate": "2026-04-23",
+          "items": [
+            {
+              "artist": "Tame Impala",
+              "rank": 1,
+              "title": "Dracula"
+            }
+          ],
+          "startDate": "2026-04-17"
+        },
+        {
+          "endDate": "2026-05-21",
+          "items": [
+            {
+              "artist": "Justin Bieber featuring Nicki Minaj",
+              "rank": 1,
+              "title": "Beauty and a Beat"
+            }
+          ],
+          "startDate": "2026-04-24"
+        },
+        {
+          "endDate": "2026-05-28",
+          "items": [
+            {
+              "artist": "Dara",
+              "rank": 1,
+              "title": "Bangaranga"
+            }
+          ],
+          "startDate": "2026-05-22"
+        },
+        {
+          "endDate": "2026-06-04",
+          "items": [
+            {
+              "artist": "Justin Bieber featuring Nicki Minaj",
+              "rank": 1,
+              "title": "Beauty and a Beat"
+            }
+          ],
+          "startDate": "2026-05-29"
+        },
+        {
+          "endDate": "2026-06-11",
+          "items": [
+            {
+              "artist": "Helene Fischer",
+              "rank": 1,
+              "title": "Heute Nacht"
+            }
+          ],
+          "startDate": "2026-06-05"
+        },
+        {
+          "endDate": "2026-06-18",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "I Knew It, I Knew You"
+            }
+          ],
+          "startDate": "2026-06-12"
+        },
+        {
+          "endDate": "2026-07-02",
+          "items": [
+            {
+              "artist": "KitschKrieg, Blumengarten and Shirin David",
+              "rank": 1,
+              "title": "Gut genug"
+            }
+          ],
+          "startDate": "2026-06-19"
+        },
+        {
+          "endDate": "2026-10-01",
+          "items": [
+            {
+              "artist": "Shakira and Burna Boy",
+              "rank": 1,
+              "title": "Dai Dai"
+            }
+          ],
+          "startDate": "2026-07-03"
+        },
+        {
+          "endDate": "2026-10-22",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Patient Zero"
+            }
+          ],
+          "startDate": "2026-10-02"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -92,7 +468,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "6462a06cdd02b81585a2ca5a703f214673cd9469cdafdaca20a7b4912890dec2",
+  "contentHash": "14c78ed3ba0ea93aa402ab9895f032babcda20b585f56882ec88c1d8312dad9f",
   "country": "de",
   "schemaVersion": 1,
   "year": 2026

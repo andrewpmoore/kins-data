@@ -1,5 +1,86 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2003",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780330485388",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780330485388-L.jpg?default=false",
+          "author": "Alice Sebold",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780330485388",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780330485388-L.jpg?default=false",
+          "creator": "Alice Sebold",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "The Lovely Bones",
+          "url": "https://books.google.com/books?vid=ISBN:9780330485388"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/uk/2003/dec/30/books.booksnews"
+      },
+      "title": "UK print bestseller",
+      "year": 2003
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2003",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780747551003",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780747551003-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780747551003",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780747551003-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Harry Potter and the Order of the Phoenix",
+          "url": "https://books.google.com/books?vid=ISBN:9780747551003"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/uk/2003/dec/30/books.booksnews"
+      },
+      "title": "UK children's bestseller",
+      "year": 2003
+    },
+    "games": {
+      "id": "media-awardWinner-2003",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2003&idGame=340",
+          "artworkURL": "https://www.interactive.org/images/games/2003_battlefield_1942_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2002,
+          "title": "Battlefield 1942"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2003&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2003
+    },
     "television": {
       "id": "media-annualTelevisionAudience-2003",
       "items": [
@@ -26,7 +107,7 @@
       "year": 2003
     }
   },
-  "contentHash": "1601f219d8ee5b45b255fe3b6173f84b6b04d21fa8cfa108af9f2e0b2162941d",
+  "contentHash": "7d0fe40b273bb3bb8b2018f800022ac5776ab1aaf5ab3de16ef8248b219c84a1",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2003

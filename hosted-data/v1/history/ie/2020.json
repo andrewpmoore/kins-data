@@ -37,6 +37,50 @@
           "startDate": "2020-04-10"
         },
         {
+          "endDate": "2020-05-28",
+          "items": [
+            {
+              "artist": "DaBaby featuring Roddy Ricch",
+              "rank": 1,
+              "title": "Rockstar"
+            }
+          ],
+          "startDate": "2020-05-22"
+        },
+        {
+          "endDate": "2020-06-11",
+          "items": [
+            {
+              "artist": "DaBaby featuring Roddy Ricch",
+              "rank": 1,
+              "title": "Rockstar"
+            }
+          ],
+          "startDate": "2020-06-05"
+        },
+        {
+          "endDate": "2020-06-25",
+          "items": [
+            {
+              "artist": "DaBaby featuring Roddy Ricch",
+              "rank": 1,
+              "title": "Rockstar"
+            }
+          ],
+          "startDate": "2020-06-19"
+        },
+        {
+          "endDate": "2020-07-09",
+          "items": [
+            {
+              "artist": "DaBaby featuring Roddy Ricch",
+              "rank": 1,
+              "title": "Rockstar"
+            }
+          ],
+          "startDate": "2020-07-03"
+        },
+        {
           "endDate": "2020-07-30",
           "items": [
             {
@@ -57,6 +101,17 @@
             }
           ],
           "startDate": "2020-08-14"
+        },
+        {
+          "endDate": "2020-09-17",
+          "items": [
+            {
+              "artist": "Cardi B featuring Megan Thee Stallion",
+              "rank": 1,
+              "title": "WAP"
+            }
+          ],
+          "startDate": "2020-09-11"
         },
         {
           "endDate": "2020-10-01",
@@ -92,6 +147,17 @@
           "startDate": "2020-10-23"
         },
         {
+          "endDate": "2020-11-26",
+          "items": [
+            {
+              "artist": "Billie Eilish",
+              "rank": 1,
+              "title": "Therefore I Am"
+            }
+          ],
+          "startDate": "2020-11-20"
+        },
+        {
           "endDate": "2020-12-31",
           "items": [
             {
@@ -114,7 +180,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "030f46231ad815698b1df3ff2431ce5af9ff9c6ac3d9d9c1c802dc79950544ed",
+  "contentHash": "2e138679b08b99a597787edcf3398ed3edfc27543d8c1740cdfe0f8fb2824e18",
   "country": "ie",
   "schemaVersion": 1,
   "year": 2020

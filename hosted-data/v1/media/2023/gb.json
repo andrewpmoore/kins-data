@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2023",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/works/OL29240850W",
+          "artworkURL": "https://covers.openlibrary.org/b/id/13415348-L.jpg?default=false",
+          "author": "Prince Harry",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/works/OL29240850W",
+          "coverURL": "https://covers.openlibrary.org/b/id/13415348-L.jpg?default=false",
+          "creator": "Prince Harry",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "Spare",
+          "url": "https://books.google.com/books?vid=ISBN:9780857504791"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2024/looking-back-at-2023-in-the-uk-and-ireland/"
+      },
+      "title": "UK print bestseller",
+      "year": 2023
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2023",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/works/OL82563W",
+          "artworkURL": "https://covers.openlibrary.org/b/id/15155833-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/works/OL82563W",
+          "coverURL": "https://covers.openlibrary.org/b/id/15155833-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Harry Potter and the Philosopher's Stone",
+          "url": "https://books.google.com/books?q=intitle%3A%22Harry+Potter+and+the+Philosopher%27s+Stone%22+inauthor%3A%22J.K.+Rowling%22"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "Bloomsbury / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.bloomsbury-ir.co.uk/docs/librariesprovider16/archives/annual_reports/prelim24.pdf"
+      },
+      "title": "UK children's bestseller",
+      "year": 2023
+    },
     "games": {
       "id": "media-awardWinner-2023",
       "items": [
@@ -9,7 +67,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
           "rank": 1,
           "releaseYear": 2023,
-          "title": "Baldur's Gate 3"
+          "title": "Baldur's Gate 3",
+          "trailerURL": "https://www.youtube.com/watch?v=XuCfkgaaa08"
         }
       ],
       "source": {
@@ -46,7 +105,7 @@
       "year": 2023
     }
   },
-  "contentHash": "ed9e164a4666e792ca43479f8fe48296599a2db50055f6f8031d52dc0d54411c",
+  "contentHash": "bd2ba2cbc336a386bdfc86cb07527d99b0b19e80d84cf09b7cdc3cb69ca6c28f",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2023

@@ -1,76 +1,418 @@
 {
   "charts": {
-    "music": {
-      "id": "legacy-national-number-one-single",
+    "movies": {
+      "id": "legacy-national-number-one-film",
       "periods": [
         {
-          "endDate": "2023-01-14",
+          "endDate": "2023-02-04",
           "items": [
             {
-              "artist": "Rihanna",
               "rank": 1,
-              "title": "Lift Me Up"
+              "title": "Avatar: The Way of Water"
             }
           ],
           "startDate": "2023-01-01"
         },
         {
-          "endDate": "2023-02-04",
+          "endDate": "2023-02-11",
           "items": [
             {
-              "artist": "Miley Cyrus",
               "rank": 1,
-              "title": "Flowers"
+              "title": "Asterix & Obelix: The Middle Kingdom"
             }
           ],
-          "startDate": "2023-01-29"
-        },
-        {
-          "endDate": "2023-02-18",
-          "items": [
-            {
-              "artist": "Miley Cyrus",
-              "rank": 1,
-              "title": "Flowers"
-            }
-          ],
-          "startDate": "2023-02-12"
+          "startDate": "2023-02-05"
         },
         {
           "endDate": "2023-03-04",
           "items": [
             {
-              "artist": "Miley Cyrus",
               "rank": 1,
-              "title": "Flowers"
+              "title": "Alibi.com 2"
             }
           ],
-          "startDate": "2023-02-26"
+          "startDate": "2023-02-12"
+        },
+        {
+          "endDate": "2023-03-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Creed III"
+            }
+          ],
+          "startDate": "2023-03-05"
+        },
+        {
+          "endDate": "2023-03-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scream VI"
+            }
+          ],
+          "startDate": "2023-03-12"
         },
         {
           "endDate": "2023-03-25",
           "items": [
             {
-              "artist": "Miley Cyrus",
               "rank": 1,
-              "title": "Flowers"
+              "title": "Creed III"
             }
           ],
           "startDate": "2023-03-19"
         },
         {
+          "endDate": "2023-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "On the Wandering Paths"
+            }
+          ],
+          "startDate": "2023-03-26"
+        },
+        {
+          "endDate": "2023-04-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shazam! Fury of the Gods"
+            }
+          ],
+          "startDate": "2023-04-02"
+        },
+        {
+          "endDate": "2023-05-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Super Mario Bros. Movie"
+            }
+          ],
+          "startDate": "2023-04-09"
+        },
+        {
+          "endDate": "2023-05-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Guardians of the Galaxy Vol. 3"
+            }
+          ],
+          "startDate": "2023-05-07"
+        },
+        {
+          "endDate": "2023-05-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast X"
+            }
+          ],
+          "startDate": "2023-05-21"
+        },
+        {
+          "endDate": "2023-06-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Little Mermaid"
+            }
+          ],
+          "startDate": "2023-05-28"
+        },
+        {
           "endDate": "2023-06-10",
           "items": [
             {
-              "artist": "Miley Cyrus",
               "rank": 1,
-              "title": "Flowers"
+              "title": "Spider-Man: Across the Spider-Verse"
             }
           ],
           "startDate": "2023-06-04"
         },
         {
-          "endDate": "2023-08-12",
+          "endDate": "2023-06-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers: Rise of the Beasts"
+            }
+          ],
+          "startDate": "2023-06-11"
+        },
+        {
+          "endDate": "2023-06-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Flash"
+            }
+          ],
+          "startDate": "2023-06-18"
+        },
+        {
+          "endDate": "2023-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Elemental"
+            }
+          ],
+          "startDate": "2023-06-25"
+        },
+        {
+          "endDate": "2023-07-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indiana Jones and the Dial of Destiny"
+            }
+          ],
+          "startDate": "2023-07-02"
+        },
+        {
+          "endDate": "2023-07-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Miraculous: Ladybug & Cat Noir, the Movie"
+            }
+          ],
+          "startDate": "2023-07-09"
+        },
+        {
+          "endDate": "2023-07-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible - Dead Reckoning Part One"
+            }
+          ],
+          "startDate": "2023-07-16"
+        },
+        {
+          "endDate": "2023-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Barbie"
+            }
+          ],
+          "startDate": "2023-07-23"
+        },
+        {
+          "endDate": "2023-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Equalizer 3"
+            }
+          ],
+          "startDate": "2023-09-03"
+        },
+        {
+          "endDate": "2023-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Nun II"
+            }
+          ],
+          "startDate": "2023-09-17"
+        },
+        {
+          "endDate": "2023-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Creator"
+            }
+          ],
+          "startDate": "2023-10-01"
+        },
+        {
+          "endDate": "2023-10-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The President's Wife"
+            }
+          ],
+          "startDate": "2023-10-08"
+        },
+        {
+          "endDate": "2023-10-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Exorcist: Believer"
+            }
+          ],
+          "startDate": "2023-10-15"
+        },
+        {
+          "endDate": "2023-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Difficult Year"
+            }
+          ],
+          "startDate": "2023-10-22"
+        },
+        {
+          "endDate": "2023-11-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trolls Band Together"
+            }
+          ],
+          "startDate": "2023-10-29"
+        },
+        {
+          "endDate": "2023-11-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Boy and the Heron"
+            }
+          ],
+          "startDate": "2023-11-05"
+        },
+        {
+          "endDate": "2023-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Marvels"
+            }
+          ],
+          "startDate": "2023-11-12"
+        },
+        {
+          "endDate": "2023-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games: The Ballad of Songbirds & Snakes"
+            }
+          ],
+          "startDate": "2023-11-19"
+        },
+        {
+          "endDate": "2023-12-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Napoleon"
+            }
+          ],
+          "startDate": "2023-11-26"
+        },
+        {
+          "endDate": "2023-12-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wish"
+            }
+          ],
+          "startDate": "2023-12-03"
+        },
+        {
+          "endDate": "2023-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonka"
+            }
+          ],
+          "startDate": "2023-12-17"
+        },
+        {
+          "endDate": "2023-12-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wish"
+            }
+          ],
+          "startDate": "2023-12-24"
+        },
+        {
+          "endDate": "2023-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonka"
+            }
+          ],
+          "startDate": "2023-12-31"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2023-01-05",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2023-01-01"
+        },
+        {
+          "endDate": "2023-01-12",
+          "items": [
+            {
+              "artist": "Zola",
+              "rank": 1,
+              "title": "Amber"
+            }
+          ],
+          "startDate": "2023-01-06"
+        },
+        {
+          "endDate": "2023-01-19",
+          "items": [
+            {
+              "artist": "Maes",
+              "rank": 1,
+              "title": "Galactic"
+            }
+          ],
+          "startDate": "2023-01-13"
+        },
+        {
+          "endDate": "2023-01-26",
+          "items": [
+            {
+              "artist": "Gaulois featuring Ninho",
+              "rank": 1,
+              "title": "Jolie"
+            }
+          ],
+          "startDate": "2023-01-20"
+        },
+        {
+          "endDate": "2023-02-23",
           "items": [
             {
               "artist": "Miley Cyrus",
@@ -78,32 +420,153 @@
               "title": "Flowers"
             }
           ],
-          "startDate": "2023-07-30"
+          "startDate": "2023-01-27"
         },
         {
-          "endDate": "2023-10-14",
+          "endDate": "2023-03-16",
           "items": [
             {
-              "artist": "Loreen",
+              "artist": "Hamza featuring Damso",
               "rank": 1,
-              "title": "Tattoo"
+              "title": "Nocif"
             }
           ],
-          "startDate": "2023-10-01"
+          "startDate": "2023-02-24"
         },
         {
-          "endDate": "2023-10-21",
+          "endDate": "2023-03-23",
           "items": [
             {
-              "artist": "Doja Cat",
+              "artist": "Miley Cyrus",
               "rank": 1,
-              "title": "Paint the Town Red"
+              "title": "Flowers"
             }
           ],
-          "startDate": "2023-10-15"
+          "startDate": "2023-03-17"
         },
         {
-          "endDate": "2023-11-04",
+          "endDate": "2023-03-30",
+          "items": [
+            {
+              "artist": "Zola",
+              "rank": 1,
+              "title": "Coeur De Ice"
+            }
+          ],
+          "startDate": "2023-03-24"
+        },
+        {
+          "endDate": "2023-04-20",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-03-31"
+        },
+        {
+          "endDate": "2023-05-04",
+          "items": [
+            {
+              "artist": "PLK",
+              "rank": 1,
+              "title": "Demain"
+            }
+          ],
+          "startDate": "2023-04-21"
+        },
+        {
+          "endDate": "2023-05-11",
+          "items": [
+            {
+              "artist": "Naps featuring Gazo and Ninho",
+              "rank": 1,
+              "title": "C'est carré le S"
+            }
+          ],
+          "startDate": "2023-05-05"
+        },
+        {
+          "endDate": "2023-05-18",
+          "items": [
+            {
+              "artist": "Ninho",
+              "rank": 1,
+              "title": "Freestyle Lvl Up 1"
+            }
+          ],
+          "startDate": "2023-05-12"
+        },
+        {
+          "endDate": "2023-06-01",
+          "items": [
+            {
+              "artist": "No Limit",
+              "rank": 1,
+              "title": "La Rue"
+            }
+          ],
+          "startDate": "2023-05-19"
+        },
+        {
+          "endDate": "2023-07-06",
+          "items": [
+            {
+              "artist": "SDM",
+              "rank": 1,
+              "title": "Bolide allemand"
+            }
+          ],
+          "startDate": "2023-06-02"
+        },
+        {
+          "endDate": "2023-07-20",
+          "items": [
+            {
+              "artist": "Ninho featuring Central Cee",
+              "rank": 1,
+              "title": "Eurostar"
+            }
+          ],
+          "startDate": "2023-07-07"
+        },
+        {
+          "endDate": "2023-08-31",
+          "items": [
+            {
+              "artist": "Soolking featuring Gazo",
+              "rank": 1,
+              "title": "Casanova"
+            }
+          ],
+          "startDate": "2023-07-21"
+        },
+        {
+          "endDate": "2023-09-14",
+          "items": [
+            {
+              "artist": "Dave and Tiakola",
+              "rank": 1,
+              "title": "Meridian"
+            }
+          ],
+          "startDate": "2023-09-01"
+        },
+        {
+          "endDate": "2023-10-19",
+          "items": [
+            {
+              "artist": "Jungeli featuring Abou Debeing, Alonzo, Lossa and Imen Es",
+              "rank": 1,
+              "title": "Petit Génie"
+            }
+          ],
+          "startDate": "2023-09-15"
+        },
+        {
+          "endDate": "2023-11-02",
           "items": [
             {
               "artist": "Iñigo Quintero",
@@ -111,35 +574,57 @@
               "title": "Si No Estás"
             }
           ],
-          "startDate": "2023-10-29"
+          "startDate": "2023-10-20"
         },
         {
-          "endDate": "2023-11-25",
+          "endDate": "2023-12-07",
           "items": [
             {
-              "artist": "Santa",
+              "artist": "Jungeli featuring Abou Debeing, Alonzo, Lossa and Imen Es",
               "rank": 1,
-              "title": "Popcorn salé\" ◁"
+              "title": "Petit Génie"
             }
           ],
-          "startDate": "2023-11-19"
+          "startDate": "2023-11-03"
+        },
+        {
+          "endDate": "2023-12-14",
+          "items": [
+            {
+              "artist": "Gazo and Tiakola",
+              "rank": 1,
+              "title": "Notre Dame"
+            }
+          ],
+          "startDate": "2023-12-08"
+        },
+        {
+          "endDate": "2023-12-28",
+          "items": [
+            {
+              "artist": "Jungeli featuring Abou Debeing, Alonzo, Lossa and Imen Es",
+              "rank": 1,
+              "title": "Petit Génie"
+            }
+          ],
+          "startDate": "2023-12-15"
         },
         {
           "endDate": "2023-12-31",
           "items": [
             {
-              "artist": "Santa",
+              "artist": "Mariah Carey",
               "rank": 1,
-              "title": "Popcorn salé\" ◁"
+              "title": "All I Want for Christmas Is You"
             }
           ],
-          "startDate": "2023-12-31"
+          "startDate": "2023-12-29"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-01",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -147,7 +632,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "33d8ff1a7fd74f1e6cfb0c624f5008f4d0e13ce637cd18648682708e5e7371b8",
+  "contentHash": "eed48620d6bf303e8f947174bf66b50582c843589bae7792c69614ea97cedb68",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2023

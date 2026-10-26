@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2025",
+      "items": [
+        {
+          "author": "Sebastian Fitzek",
+          "creator": "Sebastian Fitzek",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Der Nachbar",
+          "url": "https://books.google.com/books?q=Der+Nachbar"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2025/"
+      },
+      "title": "DE print bestseller",
+      "year": 2025
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2025",
+      "items": [
+        {
+          "author": "Margit Auer",
+          "creator": "Margit Auer",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Die Schule der magischen Tiere: Voll das Abenteuer!",
+          "url": "https://books.google.com/books?q=Die+Schule+der+magischen+Tiere:+Voll+das+Abenteuer!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2025/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2025
+    },
     "games": {
       "id": "media-awardWinner-2025",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2025
     }
   },
-  "contentHash": "957cb75e9605e92de26e449f367843e5e3c5c52803665269c44d53180d697979",
+  "contentHash": "5b8d233e2e58463ae723b05d6f35ff3c26e73955bac4bb0795381df04dddb81e",
   "country": "de",
   "schemaVersion": 1,
   "year": 2025

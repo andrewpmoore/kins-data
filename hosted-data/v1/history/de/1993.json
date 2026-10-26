@@ -4,17 +4,6 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1993-01-03",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1993-01-01"
-        },
-        {
           "endDate": "1993-01-17",
           "items": [
             {
@@ -23,7 +12,7 @@
               "title": "More and More"
             }
           ],
-          "startDate": "1993-01-04"
+          "startDate": "1993-01-01"
         },
         {
           "endDate": "1993-01-24",
@@ -53,7 +42,7 @@
             {
               "artist": "Ace of Base",
               "rank": 1,
-              "title": "All That She Wants\"†"
+              "title": "All That She Wants"
             }
           ],
           "startDate": "1993-03-08"
@@ -103,7 +92,7 @@
           "startDate": "1993-11-01"
         },
         {
-          "endDate": "1993-12-26",
+          "endDate": "1993-12-31",
           "items": [
             {
               "artist": "Meat Loaf",
@@ -112,23 +101,12 @@
             }
           ],
           "startDate": "1993-11-22"
-        },
-        {
-          "endDate": "1993-12-31",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1993-12-27"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -136,7 +114,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "938e7e0b234171f455dfec797fca243eefc6fab89e7f08b087283d70ecf62f3e",
+  "contentHash": "8f081416ba67c330513fec53b3fe1edc3b60e4d91ad07181a0c307e61443f3e0",
   "country": "de",
   "schemaVersion": 1,
   "year": 1993

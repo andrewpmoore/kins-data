@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2005",
+      "items": [
+        {
+          "author": "Andrea Camilleri",
+          "creator": "Andrea Camilleri",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Privo di titolo",
+          "url": "https://books.google.com/books?q=Privo+di+titolo"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2005.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2005
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2005",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Harry Potter e il principe mezzosangue",
+          "url": "https://books.google.com/books?q=Harry+Potter+e+il+principe+mezzosangue"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2005.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2005
+    },
     "games": {
       "id": "media-awardWinner-2005",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2005
     }
   },
-  "contentHash": "2f8c36f4b92b1ffea55ac7f0e91fd97f3c3e91d8c9889be6f146ad77fb826f80",
+  "contentHash": "448720e18cf2f438de00f65f02c1207feec4cc4d00d1493f02d2a30b791c5538",
   "country": "it",
   "schemaVersion": 1,
   "year": 2005

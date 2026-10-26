@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2002",
+      "items": [
+        {
+          "author": "Henning Mankell",
+          "creator": "Henning Mankell",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Die Rückkehr des Tanzlehrers",
+          "url": "https://books.google.com/books?q=Die+Rückkehr+des+Tanzlehrers"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2002/"
+      },
+      "title": "DE print bestseller",
+      "year": 2002
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2002",
+      "items": [
+        {
+          "author": "Joachim Masannek",
+          "creator": "Joachim Masannek",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Die Wilden Kerle",
+          "url": "https://books.google.com/books?q=Die+Wilden+Kerle"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2002/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2002
+    },
+    "games": {
+      "id": "media-awardWinner-2002",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2002&idGame=344",
+          "artworkURL": "https://www.interactive.org/images/games/2002_halo_combat_evolved_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2001,
+          "title": "Halo: Combat Evolved"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2002&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2002
+    }
+  },
+  "contentHash": "9cf78b09974f0fc661976794861bdd3c572e16328de4b3a802762c64b5325cd6",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2002
+}

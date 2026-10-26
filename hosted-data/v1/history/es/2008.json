@@ -1,5 +1,409 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2008-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Gangster"
+            }
+          ],
+          "startDate": "2008-01-01"
+        },
+        {
+          "endDate": "2008-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aliens vs. Predator: Requiem"
+            }
+          ],
+          "startDate": "2008-01-13"
+        },
+        {
+          "endDate": "2008-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Oxford Murders"
+            }
+          ],
+          "startDate": "2008-01-20"
+        },
+        {
+          "endDate": "2008-02-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mortadelo and Filemon: Mission - Save the Planet"
+            }
+          ],
+          "startDate": "2008-01-27"
+        },
+        {
+          "endDate": "2008-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Asterix at the Olympic Games"
+            }
+          ],
+          "startDate": "2008-02-10"
+        },
+        {
+          "endDate": "2008-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jumper"
+            }
+          ],
+          "startDate": "2008-02-17"
+        },
+        {
+          "endDate": "2008-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vantage Point"
+            }
+          ],
+          "startDate": "2008-03-02"
+        },
+        {
+          "endDate": "2008-03-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "10,000 BC"
+            }
+          ],
+          "startDate": "2008-03-09"
+        },
+        {
+          "endDate": "2008-03-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Horton Hears a Who!"
+            }
+          ],
+          "startDate": "2008-03-23"
+        },
+        {
+          "endDate": "2008-04-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Meet the Spartans"
+            }
+          ],
+          "startDate": "2008-03-30"
+        },
+        {
+          "endDate": "2008-04-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "21"
+            }
+          ],
+          "startDate": "2008-04-13"
+        },
+        {
+          "endDate": "2008-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Street Kings"
+            }
+          ],
+          "startDate": "2008-04-27"
+        },
+        {
+          "endDate": "2008-05-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Iron Man"
+            }
+          ],
+          "startDate": "2008-05-04"
+        },
+        {
+          "endDate": "2008-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What Happens in Vegas"
+            }
+          ],
+          "startDate": "2008-05-11"
+        },
+        {
+          "endDate": "2008-06-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indiana Jones and the Kingdom of the Crystal Skull"
+            }
+          ],
+          "startDate": "2008-05-25"
+        },
+        {
+          "endDate": "2008-06-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Happening"
+            }
+          ],
+          "startDate": "2008-06-15"
+        },
+        {
+          "endDate": "2008-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Incredible Hulk"
+            }
+          ],
+          "startDate": "2008-06-22"
+        },
+        {
+          "endDate": "2008-07-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chronicles of Narnia: Prince Caspian"
+            }
+          ],
+          "startDate": "2008-07-06"
+        },
+        {
+          "endDate": "2008-07-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kung Fu Panda"
+            }
+          ],
+          "startDate": "2008-07-13"
+        },
+        {
+          "endDate": "2008-08-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hancock"
+            }
+          ],
+          "startDate": "2008-07-20"
+        },
+        {
+          "endDate": "2008-08-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mummy: Tomb of the Dragon Emperor"
+            }
+          ],
+          "startDate": "2008-08-03"
+        },
+        {
+          "endDate": "2008-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "WALL·E"
+            }
+          ],
+          "startDate": "2008-08-10"
+        },
+        {
+          "endDate": "2008-08-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dark Knight"
+            }
+          ],
+          "startDate": "2008-08-17"
+        },
+        {
+          "endDate": "2008-08-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "You Don't Mess with the Zohan"
+            }
+          ],
+          "startDate": "2008-08-24"
+        },
+        {
+          "endDate": "2008-09-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hellboy II: The Golden Army"
+            }
+          ],
+          "startDate": "2008-08-31"
+        },
+        {
+          "endDate": "2008-09-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Che: Part One"
+            }
+          ],
+          "startDate": "2008-09-07"
+        },
+        {
+          "endDate": "2008-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wanted"
+            }
+          ],
+          "startDate": "2008-09-14"
+        },
+        {
+          "endDate": "2008-09-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vicky Cristina Barcelona"
+            }
+          ],
+          "startDate": "2008-09-21"
+        },
+        {
+          "endDate": "2008-10-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Boy in the Striped Pajamas"
+            }
+          ],
+          "startDate": "2008-09-28"
+        },
+        {
+          "endDate": "2008-10-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Burn After Reading"
+            }
+          ],
+          "startDate": "2008-10-12"
+        },
+        {
+          "endDate": "2008-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "High School Musical 3: Senior Year"
+            }
+          ],
+          "startDate": "2008-10-26"
+        },
+        {
+          "endDate": "2008-11-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Body of Lies"
+            }
+          ],
+          "startDate": "2008-11-09"
+        },
+        {
+          "endDate": "2008-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Saw V"
+            }
+          ],
+          "startDate": "2008-11-16"
+        },
+        {
+          "endDate": "2008-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Quantum of Solace"
+            }
+          ],
+          "startDate": "2008-11-23"
+        },
+        {
+          "endDate": "2008-12-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar: Escape 2 Africa"
+            }
+          ],
+          "startDate": "2008-11-30"
+        },
+        {
+          "endDate": "2008-12-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Twilight"
+            }
+          ],
+          "startDate": "2008-12-07"
+        },
+        {
+          "endDate": "2008-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Day the Earth Stood Still"
+            }
+          ],
+          "startDate": "2008-12-14"
+        },
+        {
+          "endDate": "2008-12-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Changeling"
+            }
+          ],
+          "startDate": "2008-12-21"
+        },
+        {
+          "endDate": "2008-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Australia"
+            }
+          ],
+          "startDate": "2008-12-28"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -62,7 +466,7 @@
           "endDate": "2008-05-17",
           "items": [
             {
-              "artist": "Madonna featuring Justin Timberlake",
+              "artist": "Madonna featuring Justin",
               "rank": 1,
               "title": "4 Minutes"
             }
@@ -84,7 +488,7 @@
           "endDate": "2008-06-21",
           "items": [
             {
-              "artist": "Madonna featuring Justin Timberlake",
+              "artist": "Madonna featuring Justin",
               "rank": 1,
               "title": "4 Minutes"
             }
@@ -152,7 +556,7 @@
             {
               "artist": "Cast Of High School Musical",
               "rank": 1,
-              "title": "Be Mine"
+              "title": "Be Mine\" [Holiday Pack]"
             }
           ],
           "startDate": "2008-10-05"
@@ -194,7 +598,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2008-12-28",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "ES",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
@@ -202,7 +606,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "00c4df0b6d117f28cf28adb3b9e330d1666314acc5c358db91eaba2285445bf6",
+  "contentHash": "0c217bb9f869e2d0c94b98c22a8c214e99438d4c09199b59e7efcba7dcd7e749",
   "country": "es",
   "schemaVersion": 1,
   "year": 2008

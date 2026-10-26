@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2004",
+      "items": [
+        {
+          "author": "Arturo Pérez-Reverte",
+          "creator": "Arturo Pérez-Reverte",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Cabo Trafalgar",
+          "url": "https://books.google.com/books?q=Cabo+Trafalgar"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2004.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2004
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2004",
+      "items": [
+        {
+          "author": "Laura Gallego",
+          "creator": "Laura Gallego",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Memorias de Idhún 1: La Resistencia",
+          "url": "https://books.google.com/books?q=Memorias+de+Idhún+1:+La+Resistencia"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2004.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2004
+    },
     "games": {
       "id": "media-awardWinner-2004",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2004
     }
   },
-  "contentHash": "6ea5262639f5fbb289a3ace565c5854bc0947578bee0635f0c75ced960c83de5",
+  "contentHash": "cf9c541f3e7940de7897643eb36058bb18f504f21f09d748bec44fee98d1f3a8",
   "country": "es",
   "schemaVersion": 1,
   "year": 2004

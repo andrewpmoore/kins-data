@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2015",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9789751417756",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9789751417756-L.jpg?default=false",
+          "author": "Jean-Yves Ferri et Didier Conrad",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9789751417756",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9789751417756-L.jpg?default=false",
+          "creator": "Jean-Yves Ferri et Didier Conrad",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Le Papyrus de César",
+          "url": "https://books.google.com/books?vid=ISBN:9789751417756"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2015"
+      },
+      "title": "FR print bestseller",
+      "year": 2015
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2015",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781627793513",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781627793513-L.jpg?default=false",
+          "author": "Riad Sattouf",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781627793513",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781627793513-L.jpg?default=false",
+          "creator": "Riad Sattouf",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "L'Arabe du futur 2",
+          "url": "https://books.google.com/books?vid=ISBN:9781627793513"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2015"
+      },
+      "title": "FR children's bestseller",
+      "year": 2015
+    },
     "games": {
       "id": "media-awardWinner-2015",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2015
     }
   },
-  "contentHash": "f8d2a7e5d573a9cc8f696d828bd3c6cd26d570a1de2c0fff1b6f50fe16f31f53",
+  "contentHash": "8fc3dca60d316e881fed2df6d256f14ea45c7c6e010817e8cea02ecf4d8924c6",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2015

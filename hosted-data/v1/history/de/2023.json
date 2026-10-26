@@ -1,5 +1,289 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2023-02-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar: The Way of Water"
+            }
+          ],
+          "startDate": "2023-01-01"
+        },
+        {
+          "endDate": "2023-03-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ant-Man and the Wasp: Quantumania"
+            }
+          ],
+          "startDate": "2023-02-19"
+        },
+        {
+          "endDate": "2023-03-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Creed III"
+            }
+          ],
+          "startDate": "2023-03-05"
+        },
+        {
+          "endDate": "2023-03-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sun and Concrete"
+            }
+          ],
+          "startDate": "2023-03-19"
+        },
+        {
+          "endDate": "2023-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "John Wick: Chapter 4"
+            }
+          ],
+          "startDate": "2023-03-26"
+        },
+        {
+          "endDate": "2023-04-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Manta, Manta: Legacy"
+            }
+          ],
+          "startDate": "2023-04-02"
+        },
+        {
+          "endDate": "2023-05-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Super Mario Bros. Movie"
+            }
+          ],
+          "startDate": "2023-04-09"
+        },
+        {
+          "endDate": "2023-05-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Guardians of the Galaxy Vol. 3"
+            }
+          ],
+          "startDate": "2023-05-07"
+        },
+        {
+          "endDate": "2023-06-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast X"
+            }
+          ],
+          "startDate": "2023-05-21"
+        },
+        {
+          "endDate": "2023-06-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Across the Spider-Verse"
+            }
+          ],
+          "startDate": "2023-06-04"
+        },
+        {
+          "endDate": "2023-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Elemental"
+            }
+          ],
+          "startDate": "2023-06-25"
+        },
+        {
+          "endDate": "2023-07-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indiana Jones and the Dial of Destiny"
+            }
+          ],
+          "startDate": "2023-07-02"
+        },
+        {
+          "endDate": "2023-07-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible - Dead Reckoning Part One"
+            }
+          ],
+          "startDate": "2023-07-16"
+        },
+        {
+          "endDate": "2023-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Barbie"
+            }
+          ],
+          "startDate": "2023-07-23"
+        },
+        {
+          "endDate": "2023-09-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Equalizer 3"
+            }
+          ],
+          "startDate": "2023-09-03"
+        },
+        {
+          "endDate": "2023-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Nun II"
+            }
+          ],
+          "startDate": "2023-09-24"
+        },
+        {
+          "endDate": "2023-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "PAW Patrol: The Mighty Movie"
+            }
+          ],
+          "startDate": "2023-10-01"
+        },
+        {
+          "endDate": "2023-10-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Weekend Rebels"
+            }
+          ],
+          "startDate": "2023-10-08"
+        },
+        {
+          "endDate": "2023-10-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Taylor Swift: The Eras Tour"
+            }
+          ],
+          "startDate": "2023-10-15"
+        },
+        {
+          "endDate": "2023-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Killers of the Flower Moon"
+            }
+          ],
+          "startDate": "2023-10-22"
+        },
+        {
+          "endDate": "2023-11-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Five Nights at Freddy's"
+            }
+          ],
+          "startDate": "2023-10-29"
+        },
+        {
+          "endDate": "2023-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Marvels"
+            }
+          ],
+          "startDate": "2023-11-12"
+        },
+        {
+          "endDate": "2023-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games: The Ballad of Songbirds & Snakes"
+            }
+          ],
+          "startDate": "2023-11-19"
+        },
+        {
+          "endDate": "2023-12-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Napoleon"
+            }
+          ],
+          "startDate": "2023-11-26"
+        },
+        {
+          "endDate": "2023-12-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wish"
+            }
+          ],
+          "startDate": "2023-12-03"
+        },
+        {
+          "endDate": "2023-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonka"
+            }
+          ],
+          "startDate": "2023-12-10"
+        },
+        {
+          "endDate": "2023-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aquaman and the Lost Kingdom"
+            }
+          ],
+          "startDate": "2023-12-24"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -20,7 +304,7 @@
             {
               "artist": "David Guetta and Bebe Rexha",
               "rank": 1,
-              "title": "I'm Good"
+              "title": "I'm Good (Blue)"
             }
           ],
           "startDate": "2023-01-06"
@@ -53,7 +337,7 @@
             {
               "artist": "Udo Lindenberg and Apache 207",
               "rank": 1,
-              "title": "Komet\" †"
+              "title": "Komet"
             }
           ],
           "startDate": "2023-02-03"
@@ -75,7 +359,7 @@
             {
               "artist": "Udo Lindenberg and Apache 207",
               "rank": 1,
-              "title": "Komet\" †"
+              "title": "Komet"
             }
           ],
           "startDate": "2023-04-14"
@@ -97,7 +381,7 @@
             {
               "artist": "Udo Lindenberg and Apache 207",
               "rank": 1,
-              "title": "Komet\" †"
+              "title": "Komet"
             }
           ],
           "startDate": "2023-05-05"
@@ -130,7 +414,7 @@
             {
               "artist": "Udo Lindenberg and Apache 207",
               "rank": 1,
-              "title": "Komet\" †"
+              "title": "Komet"
             }
           ],
           "startDate": "2023-07-07"
@@ -251,7 +535,7 @@
             {
               "artist": "Helene Fischer featuring Shirin David",
               "rank": 1,
-              "title": "Atemlos durch die Nacht"
+              "title": "Atemlos durch die Nacht\" (10 Year Anniversary Version)"
             }
           ],
           "startDate": "2023-12-01"
@@ -271,7 +555,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -279,7 +563,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1699e26c1d09e935f8b789b6da07bc781fa2d542b996fe97403b57a8f01c6f0d",
+  "contentHash": "8b80d3ea24cded2a6250c45e4b6c4389d1f0dfec2bfd3187b9e427b21dc2a26b",
   "country": "de",
   "schemaVersion": 1,
   "year": 2023

@@ -1,5 +1,57 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2016",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782845638082",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782845638082-L.jpg?default=false",
+          "author": "Guillaume Musso",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782845638082",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782845638082-L.jpg?default=false",
+          "creator": "Guillaume Musso",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "La Fille de Brooklyn",
+          "url": "https://books.google.com/books?vid=ISBN:9782845638082"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2016"
+      },
+      "title": "FR print bestseller",
+      "year": 2016
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2016",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Harry Potter et l'Enfant maudit",
+          "url": "https://books.google.com/books?q=Harry+Potter+et+l'Enfant+maudit"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2016"
+      },
+      "title": "FR children's bestseller",
+      "year": 2016
+    },
     "games": {
       "id": "media-awardWinner-2016",
       "items": [
@@ -9,7 +61,8 @@
           "artworkURL": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/py/PYPPVW0HVZSR1460160083444.jpg",
           "rank": 1,
           "releaseYear": 2016,
-          "title": "Overwatch"
+          "title": "Overwatch",
+          "trailerURL": "https://www.youtube.com/watch?v=pwFu8kEsUW4"
         }
       ],
       "source": {
@@ -24,7 +77,7 @@
       "year": 2016
     }
   },
-  "contentHash": "958dd7a15d32c50de750f16aee3f472d115cbfd3fab359a10dcea6c9a77f97e4",
+  "contentHash": "9a2d55f5b4f7efb56d707fc53fc98e9321d070206a159934e9f21ccafc7716f2",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2016

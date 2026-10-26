@@ -1,5 +1,369 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2018-01-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Coco"
+            }
+          ],
+          "startDate": "2018-01-01"
+        },
+        {
+          "endDate": "2018-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jumanji: Welcome to the Jungle"
+            }
+          ],
+          "startDate": "2018-01-07"
+        },
+        {
+          "endDate": "2018-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blessed Madness"
+            }
+          ],
+          "startDate": "2018-01-14"
+        },
+        {
+          "endDate": "2018-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Made in Italy"
+            }
+          ],
+          "startDate": "2018-01-28"
+        },
+        {
+          "endDate": "2018-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Post"
+            }
+          ],
+          "startDate": "2018-02-04"
+        },
+        {
+          "endDate": "2018-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fifty Shades Freed"
+            }
+          ],
+          "startDate": "2018-02-11"
+        },
+        {
+          "endDate": "2018-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "There's No Place Like Home"
+            }
+          ],
+          "startDate": "2018-02-18"
+        },
+        {
+          "endDate": "2018-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Red Sparrow"
+            }
+          ],
+          "startDate": "2018-03-04"
+        },
+        {
+          "endDate": "2018-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Shape of Water"
+            }
+          ],
+          "startDate": "2018-03-11"
+        },
+        {
+          "endDate": "2018-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tomb Raider"
+            }
+          ],
+          "startDate": "2018-03-18"
+        },
+        {
+          "endDate": "2018-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pacific Rim: Uprising"
+            }
+          ],
+          "startDate": "2018-03-25"
+        },
+        {
+          "endDate": "2018-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ready Player One"
+            }
+          ],
+          "startDate": "2018-04-01"
+        },
+        {
+          "endDate": "2018-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Den of Thieves"
+            }
+          ],
+          "startDate": "2018-04-08"
+        },
+        {
+          "endDate": "2018-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rampage"
+            }
+          ],
+          "startDate": "2018-04-15"
+        },
+        {
+          "endDate": "2018-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Loving Pablo"
+            }
+          ],
+          "startDate": "2018-04-22"
+        },
+        {
+          "endDate": "2018-05-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avengers: Infinity War"
+            }
+          ],
+          "startDate": "2018-04-29"
+        },
+        {
+          "endDate": "2018-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Deadpool 2"
+            }
+          ],
+          "startDate": "2018-05-20"
+        },
+        {
+          "endDate": "2018-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Solo: A Star Wars Story"
+            }
+          ],
+          "startDate": "2018-05-27"
+        },
+        {
+          "endDate": "2018-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic World: Fallen Kingdom"
+            }
+          ],
+          "startDate": "2018-06-10"
+        },
+        {
+          "endDate": "2018-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The First Purge"
+            }
+          ],
+          "startDate": "2018-07-08"
+        },
+        {
+          "endDate": "2018-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "12 Strong"
+            }
+          ],
+          "startDate": "2018-07-15"
+        },
+        {
+          "endDate": "2018-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Skyscraper"
+            }
+          ],
+          "startDate": "2018-07-22"
+        },
+        {
+          "endDate": "2018-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ocean's Eight"
+            }
+          ],
+          "startDate": "2018-07-29"
+        },
+        {
+          "endDate": "2018-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Meg"
+            }
+          ],
+          "startDate": "2018-08-12"
+        },
+        {
+          "endDate": "2018-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ant-Man and the Wasp"
+            }
+          ],
+          "startDate": "2018-08-19"
+        },
+        {
+          "endDate": "2018-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hotel Transylvania 3: Summer Vacation"
+            }
+          ],
+          "startDate": "2018-08-26"
+        },
+        {
+          "endDate": "2018-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mamma Mia! Here We Go Again"
+            }
+          ],
+          "startDate": "2018-09-09"
+        },
+        {
+          "endDate": "2018-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Incredibles 2"
+            }
+          ],
+          "startDate": "2018-09-23"
+        },
+        {
+          "endDate": "2018-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Venom"
+            }
+          ],
+          "startDate": "2018-10-07"
+        },
+        {
+          "endDate": "2018-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Star Is Born"
+            }
+          ],
+          "startDate": "2018-10-14"
+        },
+        {
+          "endDate": "2018-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Halloween"
+            }
+          ],
+          "startDate": "2018-10-28"
+        },
+        {
+          "endDate": "2018-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Nutcracker and the Four Realms"
+            }
+          ],
+          "startDate": "2018-11-04"
+        },
+        {
+          "endDate": "2018-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Beasts: The Crimes of Grindelwald"
+            }
+          ],
+          "startDate": "2018-11-18"
+        },
+        {
+          "endDate": "2018-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bohemian Rhapsody"
+            }
+          ],
+          "startDate": "2018-12-02"
+        },
+        {
+          "endDate": "2018-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mary Poppins Returns"
+            }
+          ],
+          "startDate": "2018-12-23"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -315,7 +679,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2021-12-24",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "IT",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
@@ -323,7 +687,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "2d4d74e7303c62c60ab80d2019cf72a8b9c10c62c1209dc1df0f183d422b6b80",
+  "contentHash": "4b13a5f29a5362ea3d5c404b8c657dc844e8d134b3a94c9bf10557cb66b0f019",
   "country": "it",
   "schemaVersion": 1,
   "year": 2018

@@ -1,8 +1,353 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1969-01-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Candy"
+            }
+          ],
+          "startDate": "1969-01-01"
+        },
+        {
+          "endDate": "1969-01-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bullitt"
+            }
+          ],
+          "startDate": "1969-01-15"
+        },
+        {
+          "endDate": "1969-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Funny Girl"
+            }
+          ],
+          "startDate": "1969-01-29"
+        },
+        {
+          "endDate": "1969-04-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Love Bug"
+            }
+          ],
+          "startDate": "1969-04-02"
+        },
+        {
+          "endDate": "1969-05-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Support Your Local Sheriff!"
+            }
+          ],
+          "startDate": "1969-04-23"
+        },
+        {
+          "endDate": "1969-05-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "99 Women"
+            }
+          ],
+          "startDate": "1969-05-07"
+        },
+        {
+          "endDate": "1969-05-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mad Room"
+            }
+          ],
+          "startDate": "1969-05-14"
+        },
+        {
+          "endDate": "1969-05-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Oliver!"
+            }
+          ],
+          "startDate": "1969-05-21"
+        },
+        {
+          "endDate": "1969-06-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Winning"
+            }
+          ],
+          "startDate": "1969-05-28"
+        },
+        {
+          "endDate": "1969-06-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Killing of Sister George"
+            }
+          ],
+          "startDate": "1969-06-04"
+        },
+        {
+          "endDate": "1969-06-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Longest Day"
+            }
+          ],
+          "startDate": "1969-06-11"
+        },
+        {
+          "endDate": "1969-06-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Winning"
+            }
+          ],
+          "startDate": "1969-06-18"
+        },
+        {
+          "endDate": "1969-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ice Station Zebra"
+            }
+          ],
+          "startDate": "1969-06-25"
+        },
+        {
+          "endDate": "1969-07-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Love Bug"
+            }
+          ],
+          "startDate": "1969-07-02"
+        },
+        {
+          "endDate": "1969-07-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The April Fools"
+            }
+          ],
+          "startDate": "1969-07-23"
+        },
+        {
+          "endDate": "1969-08-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What Ever Happened to Aunt Alice?"
+            }
+          ],
+          "startDate": "1969-07-30"
+        },
+        {
+          "endDate": "1969-08-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Midnight Cowboy"
+            }
+          ],
+          "startDate": "1969-08-06"
+        },
+        {
+          "endDate": "1969-08-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Goodbye, Columbus"
+            }
+          ],
+          "startDate": "1969-08-13"
+        },
+        {
+          "endDate": "1969-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Grit"
+            }
+          ],
+          "startDate": "1969-08-27"
+        },
+        {
+          "endDate": "1969-09-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Goodbye, Columbus"
+            }
+          ],
+          "startDate": "1969-09-03"
+        },
+        {
+          "endDate": "1969-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Daddy's Gone-A-Hunting"
+            }
+          ],
+          "startDate": "1969-09-10"
+        },
+        {
+          "endDate": "1969-09-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Grit"
+            }
+          ],
+          "startDate": "1969-09-17"
+        },
+        {
+          "endDate": "1969-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Learning Tree"
+            }
+          ],
+          "startDate": "1969-09-24"
+        },
+        {
+          "endDate": "1969-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bonnie and Clyde/Bullitt"
+            }
+          ],
+          "startDate": "1969-10-01"
+        },
+        {
+          "endDate": "1969-10-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Butch Cassidy and the Sundance Kid"
+            }
+          ],
+          "startDate": "1969-10-08"
+        },
+        {
+          "endDate": "1969-11-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Easy Rider"
+            }
+          ],
+          "startDate": "1969-10-22"
+        },
+        {
+          "endDate": "1969-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fanny Hill"
+            }
+          ],
+          "startDate": "1969-11-12"
+        },
+        {
+          "endDate": "1969-12-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Am Curious"
+            }
+          ],
+          "startDate": "1969-11-19"
+        },
+        {
+          "endDate": "1969-12-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Krakatoa, East of Java"
+            }
+          ],
+          "startDate": "1969-12-03"
+        },
+        {
+          "endDate": "1969-12-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Paint Your Wagon"
+            }
+          ],
+          "startDate": "1969-12-10"
+        },
+        {
+          "endDate": "1969-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Boy Named Charlie Brown"
+            }
+          ],
+          "startDate": "1969-12-17"
+        },
+        {
+          "endDate": "1969-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "On Her Majesty's Secret Service"
+            }
+          ],
+          "startDate": "1969-12-24"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
+        {
+          "endDate": "1969-01-03",
+          "items": [
+            {
+              "artist": "Marmalade",
+              "rank": 1,
+              "title": "Ob-La-Di, Ob-La-Da"
+            }
+          ],
+          "startDate": "1969-01-01"
+        },
         {
           "endDate": "1969-01-10",
           "items": [
@@ -12,10 +357,10 @@
               "title": "Lily the Pink"
             }
           ],
-          "startDate": "1969-01-01"
+          "startDate": "1969-01-04"
         },
         {
-          "endDate": "1969-01-24",
+          "endDate": "1969-01-28",
           "items": [
             {
               "artist": "Marmalade",
@@ -26,7 +371,7 @@
           "startDate": "1969-01-11"
         },
         {
-          "endDate": "1969-02-14",
+          "endDate": "1969-02-04",
           "items": [
             {
               "artist": "Fleetwood Mac",
@@ -34,10 +379,43 @@
               "title": "Albatross"
             }
           ],
-          "startDate": "1969-02-01"
+          "startDate": "1969-01-29"
         },
         {
-          "endDate": "1969-02-21",
+          "endDate": "1969-02-07",
+          "items": [
+            {
+              "artist": "The Move",
+              "rank": 1,
+              "title": "Blackberry Way"
+            }
+          ],
+          "startDate": "1969-02-05"
+        },
+        {
+          "endDate": "1969-02-11",
+          "items": [
+            {
+              "artist": "Fleetwood Mac",
+              "rank": 1,
+              "title": "Albatross"
+            }
+          ],
+          "startDate": "1969-02-08"
+        },
+        {
+          "endDate": "1969-02-14",
+          "items": [
+            {
+              "artist": "Amen Corner",
+              "rank": 1,
+              "title": "(If Paradise Is) Half as Nice"
+            }
+          ],
+          "startDate": "1969-02-12"
+        },
+        {
+          "endDate": "1969-02-18",
           "items": [
             {
               "artist": "The Move",
@@ -48,7 +426,18 @@
           "startDate": "1969-02-15"
         },
         {
-          "endDate": "1969-02-28",
+          "endDate": "1969-02-21",
+          "items": [
+            {
+              "artist": "Amen Corner",
+              "rank": 1,
+              "title": "(If Paradise Is) Half as Nice"
+            }
+          ],
+          "startDate": "1969-02-19"
+        },
+        {
+          "endDate": "1969-02-25",
           "items": [
             {
               "artist": "Amen Corner",
@@ -59,7 +448,40 @@
           "startDate": "1969-02-22"
         },
         {
-          "endDate": "1969-03-28",
+          "endDate": "1969-02-28",
+          "items": [
+            {
+              "artist": "Peter Sarstedt",
+              "rank": 1,
+              "title": "Where Do You Go To (My Lovely)?"
+            }
+          ],
+          "startDate": "1969-02-26"
+        },
+        {
+          "endDate": "1969-03-04",
+          "items": [
+            {
+              "artist": "Amen Corner",
+              "rank": 1,
+              "title": "Half as Nice"
+            }
+          ],
+          "startDate": "1969-03-01"
+        },
+        {
+          "endDate": "1969-03-07",
+          "items": [
+            {
+              "artist": "Peter Sarstedt",
+              "rank": 1,
+              "title": "Where Do You Go To (My Lovely)?"
+            }
+          ],
+          "startDate": "1969-03-05"
+        },
+        {
+          "endDate": "1969-03-11",
           "items": [
             {
               "artist": "Peter Sarstedt",
@@ -70,7 +492,51 @@
           "startDate": "1969-03-08"
         },
         {
-          "endDate": "1969-04-18",
+          "endDate": "1969-03-14",
+          "items": [
+            {
+              "artist": "Peter Sarstedt",
+              "rank": 1,
+              "title": "Where Do You Go To (My Lovely)?"
+            }
+          ],
+          "startDate": "1969-03-12"
+        },
+        {
+          "endDate": "1969-03-18",
+          "items": [
+            {
+              "artist": "Peter Sarstedt",
+              "rank": 1,
+              "title": "Where Do You Go To ?"
+            }
+          ],
+          "startDate": "1969-03-15"
+        },
+        {
+          "endDate": "1969-03-21",
+          "items": [
+            {
+              "artist": "Peter Sarstedt",
+              "rank": 1,
+              "title": "Where Do You Go To (My Lovely)?"
+            }
+          ],
+          "startDate": "1969-03-19"
+        },
+        {
+          "endDate": "1969-03-25",
+          "items": [
+            {
+              "artist": "Peter Sarstedt",
+              "rank": 1,
+              "title": "Where Do You Go To ?"
+            }
+          ],
+          "startDate": "1969-03-22"
+        },
+        {
+          "endDate": "1969-04-15",
           "items": [
             {
               "artist": "Marvin Gaye",
@@ -78,10 +544,43 @@
               "title": "I Heard It Through the Grapevine"
             }
           ],
-          "startDate": "1969-04-05"
+          "startDate": "1969-03-26"
         },
         {
-          "endDate": "1969-05-02",
+          "endDate": "1969-04-18",
+          "items": [
+            {
+              "artist": "Desmond Dekker and the Aces",
+              "rank": 1,
+              "title": "Israelites"
+            }
+          ],
+          "startDate": "1969-04-16"
+        },
+        {
+          "endDate": "1969-04-22",
+          "items": [
+            {
+              "artist": "Desmond Dekker & The Aces",
+              "rank": 1,
+              "title": "Israelites"
+            }
+          ],
+          "startDate": "1969-04-19"
+        },
+        {
+          "endDate": "1969-04-25",
+          "items": [
+            {
+              "artist": "The Beatles with Billy Preston",
+              "rank": 1,
+              "title": "Get Back"
+            }
+          ],
+          "startDate": "1969-04-23"
+        },
+        {
+          "endDate": "1969-04-29",
           "items": [
             {
               "artist": "Desmond Dekker & The Aces",
@@ -92,7 +591,7 @@
           "startDate": "1969-04-26"
         },
         {
-          "endDate": "1969-06-06",
+          "endDate": "1969-06-03",
           "items": [
             {
               "artist": "The Beatles with Billy Preston",
@@ -100,10 +599,10 @@
               "title": "Get Back"
             }
           ],
-          "startDate": "1969-05-03"
+          "startDate": "1969-04-30"
         },
         {
-          "endDate": "1969-06-20",
+          "endDate": "1969-06-10",
           "items": [
             {
               "artist": "Tommy Roe",
@@ -111,10 +610,10 @@
               "title": "Dizzy"
             }
           ],
-          "startDate": "1969-06-07"
+          "startDate": "1969-06-04"
         },
         {
-          "endDate": "1969-07-04",
+          "endDate": "1969-06-13",
           "items": [
             {
               "artist": "The Beatles",
@@ -122,7 +621,29 @@
               "title": "The Ballad of John and Yoko"
             }
           ],
-          "startDate": "1969-06-21"
+          "startDate": "1969-06-11"
+        },
+        {
+          "endDate": "1969-06-17",
+          "items": [
+            {
+              "artist": "Tommy Roe",
+              "rank": 1,
+              "title": "Dizzy"
+            }
+          ],
+          "startDate": "1969-06-14"
+        },
+        {
+          "endDate": "1969-07-01",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "The Ballad of John and Yoko"
+            }
+          ],
+          "startDate": "1969-06-18"
         },
         {
           "endDate": "1969-07-18",
@@ -133,15 +654,15 @@
               "title": "Something in the Air"
             }
           ],
-          "startDate": "1969-07-12"
+          "startDate": "1969-07-02"
         },
         {
-          "endDate": "1969-07-25",
+          "endDate": "1969-07-22",
           "items": [
             {
               "artist": "Elvis Presley",
               "rank": 1,
-              "title": "In the Ghetto\" ‡"
+              "title": "In the Ghetto"
             }
           ],
           "startDate": "1969-07-19"
@@ -155,7 +676,40 @@
               "title": "Honky Tonk Women"
             }
           ],
-          "startDate": "1969-07-26"
+          "startDate": "1969-07-23"
+        },
+        {
+          "endDate": "1969-08-05",
+          "items": [
+            {
+              "artist": "Joe Dolan",
+              "rank": 1,
+              "title": "Make Me an Island"
+            }
+          ],
+          "startDate": "1969-08-02"
+        },
+        {
+          "endDate": "1969-08-15",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Honky Tonk Women"
+            }
+          ],
+          "startDate": "1969-08-06"
+        },
+        {
+          "endDate": "1969-08-19",
+          "items": [
+            {
+              "artist": "Vanity Fare",
+              "rank": 1,
+              "title": "Early in the Morning"
+            }
+          ],
+          "startDate": "1969-08-16"
         },
         {
           "endDate": "1969-08-23",
@@ -166,10 +720,10 @@
               "title": "Honky Tonk Women"
             }
           ],
-          "startDate": "1969-08-13"
+          "startDate": "1969-08-20"
         },
         {
-          "endDate": "1969-09-13",
+          "endDate": "1969-08-29",
           "items": [
             {
               "artist": "Zager and Evans",
@@ -180,7 +734,62 @@
           "startDate": "1969-08-24"
         },
         {
-          "endDate": "1969-10-04",
+          "endDate": "1969-08-30",
+          "items": [
+            {
+              "artist": "Zager and Evans",
+              "rank": 1,
+              "title": "In The Year 2525"
+            }
+          ],
+          "startDate": "1969-08-30"
+        },
+        {
+          "endDate": "1969-09-05",
+          "items": [
+            {
+              "artist": "Zager and Evans",
+              "rank": 1,
+              "title": "In the Year 2525"
+            }
+          ],
+          "startDate": "1969-08-31"
+        },
+        {
+          "endDate": "1969-09-06",
+          "items": [
+            {
+              "artist": "Humble Pie",
+              "rank": 1,
+              "title": "Natural Born Bugie"
+            }
+          ],
+          "startDate": "1969-09-06"
+        },
+        {
+          "endDate": "1969-09-12",
+          "items": [
+            {
+              "artist": "Zager and Evans",
+              "rank": 1,
+              "title": "In the Year 2525"
+            }
+          ],
+          "startDate": "1969-09-07"
+        },
+        {
+          "endDate": "1969-09-13",
+          "items": [
+            {
+              "artist": "Zager and Evans",
+              "rank": 1,
+              "title": "In The Year 2525"
+            }
+          ],
+          "startDate": "1969-09-13"
+        },
+        {
+          "endDate": "1969-09-26",
           "items": [
             {
               "artist": "Creedence Clearwater Revival",
@@ -191,7 +800,40 @@
           "startDate": "1969-09-14"
         },
         {
-          "endDate": "1969-10-11",
+          "endDate": "1969-09-27",
+          "items": [
+            {
+              "artist": "Oliver",
+              "rank": 1,
+              "title": "Good Morning Starshine"
+            }
+          ],
+          "startDate": "1969-09-27"
+        },
+        {
+          "endDate": "1969-10-03",
+          "items": [
+            {
+              "artist": "Creedence Clearwater Revival",
+              "rank": 1,
+              "title": "Bad Moon Rising"
+            }
+          ],
+          "startDate": "1969-09-28"
+        },
+        {
+          "endDate": "1969-10-04",
+          "items": [
+            {
+              "artist": "Cliff Richard & Hank Marvin",
+              "rank": 1,
+              "title": "Throw Down a Line"
+            }
+          ],
+          "startDate": "1969-10-04"
+        },
+        {
+          "endDate": "1969-10-10",
           "items": [
             {
               "artist": "Jane Birkin and Serge Gainsbourg",
@@ -202,7 +844,18 @@
           "startDate": "1969-10-05"
         },
         {
-          "endDate": "1969-10-18",
+          "endDate": "1969-10-11",
+          "items": [
+            {
+              "artist": "Johnny Cash",
+              "rank": 1,
+              "title": "A Boy Named Sue"
+            }
+          ],
+          "startDate": "1969-10-11"
+        },
+        {
+          "endDate": "1969-10-17",
           "items": [
             {
               "artist": "Bobbie Gentry",
@@ -213,15 +866,48 @@
           "startDate": "1969-10-12"
         },
         {
-          "endDate": "1969-12-13",
+          "endDate": "1969-10-18",
+          "items": [
+            {
+              "artist": "Lou Christie",
+              "rank": 1,
+              "title": "I'm Gonna Make You Mine"
+            }
+          ],
+          "startDate": "1969-10-18"
+        },
+        {
+          "endDate": "1969-11-14",
           "items": [
             {
               "artist": "The Archies",
               "rank": 1,
-              "title": "Sugar, Sugar\" †"
+              "title": "Sugar, Sugar"
             }
           ],
           "startDate": "1969-10-19"
+        },
+        {
+          "endDate": "1969-11-15",
+          "items": [
+            {
+              "artist": "Jimmy Cliff",
+              "rank": 1,
+              "title": "Wonderful World, Beautiful People"
+            }
+          ],
+          "startDate": "1969-11-15"
+        },
+        {
+          "endDate": "1969-12-12",
+          "items": [
+            {
+              "artist": "The Archies",
+              "rank": 1,
+              "title": "Sugar, Sugar"
+            }
+          ],
+          "startDate": "1969-11-16"
         },
         {
           "endDate": "1969-12-31",
@@ -232,13 +918,13 @@
               "title": "Two Little Boys"
             }
           ],
-          "startDate": "1969-12-14"
+          "startDate": "1969-12-13"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -246,7 +932,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "42b98b00074e6fe2d59905b4072c783e22ad26eb77d74049bdf003a9edf247fc",
+  "contentHash": "718ea58df4184acf44369770f5b1a8e9999547b161b5a1304ec4277835828570",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1969

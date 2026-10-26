@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2011",
+      "items": [
+        {
+          "author": "E.L. James",
+          "creator": "E.L. James",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Cincuenta sombras de Grey",
+          "url": "https://books.google.com/books?q=Cincuenta+sombras+de+Grey"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2011.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2011
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2011",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Diario de Greg 1: Un pringao total",
+          "url": "https://books.google.com/books?q=Diario+de+Greg+1:+Un+pringao+total"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2011.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2011
+    },
     "games": {
       "id": "media-awardWinner-2011",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2011
     }
   },
-  "contentHash": "82a29fef93b9c9723e5c9b827143df174401517f7c311f2a3374fababd840d7f",
+  "contentHash": "03bf12fd87098a70f7492ebb594b629121f95f56b2a98407a02c7f559bd3e86f",
   "country": "es",
   "schemaVersion": 1,
   "year": 2011

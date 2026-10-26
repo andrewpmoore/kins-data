@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2019",
+      "items": [
+        {
+          "author": "Arturo Pérez-Reverte",
+          "creator": "Arturo Pérez-Reverte",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Sidi",
+          "url": "https://books.google.com/books?q=Sidi"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2019.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2019
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2019",
+      "items": [
+        {
+          "author": "Mikecrack",
+          "creator": "Mikecrack",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Los Compas y el diamantito legendario",
+          "url": "https://books.google.com/books?q=Los+Compas+y+el+diamantito+legendario"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2019.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2019
+    },
     "games": {
       "id": "media-awardWinner-2019",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
           "rank": 1,
           "releaseYear": 2019,
-          "title": "Sekiro: Shadows Die Twice"
+          "title": "Sekiro: Shadows Die Twice",
+          "trailerURL": "https://www.youtube.com/watch?v=UGPknmiLxGo"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2019
     }
   },
-  "contentHash": "bcec5317ff71d2a1c1cbcd1d98ca4e501a0d36833f51009d661f1942e4cadfde",
+  "contentHash": "d77a8f9be1e303baab401601f9c9240cd92fbadf24ad7c64e29b1f3bdbf197be",
   "country": "es",
   "schemaVersion": 1,
   "year": 2019

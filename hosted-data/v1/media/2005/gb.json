@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2005",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780099464464",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780099464464-L.jpg?default=false",
+          "author": "Audrey Niffenegger",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780099464464",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780099464464-L.jpg?default=false",
+          "creator": "Audrey Niffenegger",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "The Time Traveler's Wife",
+          "url": "https://books.google.com/books?vid=ISBN:9780099464464"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/uk/2005/dec/28/books.booksnews"
+      },
+      "title": "UK print bestseller",
+      "year": 2005
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2005",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780747581086",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780747581086-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780747581086",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780747581086-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Harry Potter and the Half-Blood Prince",
+          "url": "https://books.google.com/books?vid=ISBN:9780747581086"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/uk/2005/dec/28/books.booksnews"
+      },
+      "title": "UK children's bestseller",
+      "year": 2005
+    },
     "games": {
       "id": "media-awardWinner-2005",
       "items": [
@@ -49,7 +107,7 @@
       "year": 2005
     }
   },
-  "contentHash": "02fb70da649295e41967c7dcad6b83fdf6403a09591be19133d1031a42a8d02f",
+  "contentHash": "b08470e5115ca3042d6946bb449bde4dffeae2024ed9aadb4fea7a81d33f131b",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2005

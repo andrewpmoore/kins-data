@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2011",
+      "items": [
+        {
+          "author": "Roberto Saviano",
+          "creator": "Roberto Saviano",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Vieni via con me",
+          "url": "https://books.google.com/books?q=Vieni+via+con+me"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2011.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2011
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2011",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Diario di una schiappa: La legge dei grandi",
+          "url": "https://books.google.com/books?q=Diario+di+una+schiappa:+La+legge+dei+grandi"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2011.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2011
+    },
     "games": {
       "id": "media-awardWinner-2011",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2011
     }
   },
-  "contentHash": "82a29fef93b9c9723e5c9b827143df174401517f7c311f2a3374fababd840d7f",
+  "contentHash": "3f5d62162454b59f1caf3ceeb6e742119e40d727ce445e5bfaa5c12ac39f3f3f",
   "country": "it",
   "schemaVersion": 1,
   "year": 2011

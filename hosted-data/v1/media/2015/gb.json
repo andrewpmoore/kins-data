@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2015",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780857522320",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780857522320-L.jpg?default=false",
+          "author": "Paula Hawkins",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780857522320",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780857522320-L.jpg?default=false",
+          "creator": "Paula Hawkins",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "The Girl on the Train",
+          "url": "https://books.google.com/books?vid=ISBN:9780857522320"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2015/dec/22/colouring-books-boost-uk-print-book-sales-first-rise-since-2007"
+      },
+      "title": "UK print bestseller",
+      "year": 2015
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2015",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780008127640",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780008127640-L.jpg?default=false",
+          "author": "David Walliams",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780008127640",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780008127640-L.jpg?default=false",
+          "creator": "David Walliams",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Grandpa's Great Escape",
+          "url": "https://books.google.com/books?vid=ISBN:9780008127640"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2015/dec/22/colouring-books-boost-uk-print-book-sales-first-rise-since-2007"
+      },
+      "title": "UK children's bestseller",
+      "year": 2015
+    },
     "games": {
       "id": "media-awardWinner-2015",
       "items": [
@@ -49,7 +107,7 @@
       "year": 2015
     }
   },
-  "contentHash": "1a1d82e443b558c337d105a10f90bbeddaf476f47c048e195384e767fee6b8bb",
+  "contentHash": "36bfccec1e0a1d760f57b9d9394336d5d24a1d0105535e7633b399c2ffe96cc0",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2015

@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2001",
+      "items": [
+        {
+          "author": "Carlos Ruiz Zafón",
+          "creator": "Carlos Ruiz Zafón",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "La sombra del viento",
+          "url": "https://books.google.com/books?q=La+sombra+del+viento"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2001.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2001
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2001",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Harry Potter y la cámara secreta",
+          "url": "https://books.google.com/books?q=Harry+Potter+y+la+cámara+secreta"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2001.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2001
+    },
+    "games": {
+      "id": "media-awardWinner-2001",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2001&idGame=572",
+          "artworkURL": "https://www.interactive.org/images/games/2001_diablo_ii_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "Diablo II"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2001&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2001
+    }
+  },
+  "contentHash": "f478888bb310dd9b86033687e01f260e7c8e16b0e6c25788cc29eaa26d45a975",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2001
+}

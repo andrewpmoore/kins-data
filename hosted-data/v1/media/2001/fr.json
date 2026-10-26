@@ -1,0 +1,83 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2001",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9785983581029",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9785983581029-L.jpg?default=false",
+          "author": "Anna Gavalda",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9785983581029",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9785983581029-L.jpg?default=false",
+          "creator": "Anna Gavalda",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Je l'aimais",
+          "url": "https://books.google.com/books?vid=ISBN:9785983581029"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2001"
+      },
+      "title": "FR print bestseller",
+      "year": 2001
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2001",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Harry Potter et la Coupe de feu",
+          "url": "https://books.google.com/books?q=Harry+Potter+et+la+Coupe+de+feu"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2001"
+      },
+      "title": "FR children's bestseller",
+      "year": 2001
+    },
+    "games": {
+      "id": "media-awardWinner-2001",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2001&idGame=572",
+          "artworkURL": "https://www.interactive.org/images/games/2001_diablo_ii_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "Diablo II"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2001&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2001
+    }
+  },
+  "contentHash": "730cc6735517797635680c4a2d92f0b97ffa4a9dd8cd275a118bf8684c41d4de",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2001
+}

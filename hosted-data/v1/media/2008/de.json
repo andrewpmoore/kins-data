@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2008",
+      "items": [
+        {
+          "author": "Khaled Hosseini",
+          "creator": "Khaled Hosseini",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Drachenläufer",
+          "url": "https://books.google.com/books?q=Drachenläufer"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2008/"
+      },
+      "title": "DE print bestseller",
+      "year": 2008
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2008",
+      "items": [
+        {
+          "author": "Stephenie Meyer",
+          "creator": "Stephenie Meyer",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Bis(s) zum Morgengrauen",
+          "url": "https://books.google.com/books?q=Bis(s)+zum+Morgengrauen"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2008/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2008
+    },
+    "games": {
+      "id": "media-awardWinner-2008",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2008&idGame=925",
+          "artworkURL": "https://www.interactive.org/images/games/2008_call_of_duty_4_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2007,
+          "title": "Call of Duty 4: Modern Warfare"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2008&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2008
+    }
+  },
+  "contentHash": "69a3e8721c7e754a8cce5bc1c804b2f7627835265fbf957fc442f6357fa1880b",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2008
+}

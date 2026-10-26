@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2012",
+      "items": [
+        {
+          "author": "E.L. James",
+          "creator": "E.L. James",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Cinquanta sfumature di grigio",
+          "url": "https://books.google.com/books?q=Cinquanta+sfumature+di+grigio"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2012.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2012
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2012",
+      "items": [
+        {
+          "author": "John Green",
+          "creator": "John Green",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Colpa delle stelle",
+          "url": "https://books.google.com/books?q=Colpa+delle+stelle"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2012.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2012
+    },
     "games": {
       "id": "media-awardWinner-2012",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2012
     }
   },
-  "contentHash": "c911f6f3326771b9097f3a6c009f4d3b85e8b60497f2cecc4b9936a4278ba6bc",
+  "contentHash": "42c1b9e31e3eb83aaf7556bca8dfb1df2677bc3b2dfbcf2ea8daacef395efb31",
   "country": "it",
   "schemaVersion": 1,
   "year": 2012

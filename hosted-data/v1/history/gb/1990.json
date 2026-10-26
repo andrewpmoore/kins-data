@@ -1,10 +1,1295 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1990-01-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The War of the Roses"
+            }
+          ],
+          "startDate": "1990-01-01"
+        },
+        {
+          "endDate": "1990-01-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Back to the Future Part II"
+            }
+          ],
+          "startDate": "1990-01-05"
+        },
+        {
+          "endDate": "1990-01-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Born on the Fourth of July"
+            }
+          ],
+          "startDate": "1990-01-07"
+        },
+        {
+          "endDate": "1990-01-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The War of the Roses"
+            }
+          ],
+          "startDate": "1990-01-10"
+        },
+        {
+          "endDate": "1990-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "When Harry Met Sally"
+            }
+          ],
+          "startDate": "1990-01-12"
+        },
+        {
+          "endDate": "1990-01-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Born on the Fourth of July"
+            }
+          ],
+          "startDate": "1990-01-14"
+        },
+        {
+          "endDate": "1990-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The War of the Roses"
+            }
+          ],
+          "startDate": "1990-01-17"
+        },
+        {
+          "endDate": "1990-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Parenthood"
+            }
+          ],
+          "startDate": "1990-01-19"
+        },
+        {
+          "endDate": "1990-01-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Born on the Fourth of July"
+            }
+          ],
+          "startDate": "1990-01-21"
+        },
+        {
+          "endDate": "1990-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Rain"
+            }
+          ],
+          "startDate": "1990-01-24"
+        },
+        {
+          "endDate": "1990-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Parenthood"
+            }
+          ],
+          "startDate": "1990-01-26"
+        },
+        {
+          "endDate": "1990-01-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Driving Miss Daisy"
+            }
+          ],
+          "startDate": "1990-01-28"
+        },
+        {
+          "endDate": "1990-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Rain"
+            }
+          ],
+          "startDate": "1990-01-31"
+        },
+        {
+          "endDate": "1990-02-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Driving Miss Daisy"
+            }
+          ],
+          "startDate": "1990-02-04"
+        },
+        {
+          "endDate": "1990-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Rain"
+            }
+          ],
+          "startDate": "1990-02-07"
+        },
+        {
+          "endDate": "1990-02-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hard to Kill"
+            }
+          ],
+          "startDate": "1990-02-11"
+        },
+        {
+          "endDate": "1990-02-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Rain"
+            }
+          ],
+          "startDate": "1990-02-14"
+        },
+        {
+          "endDate": "1990-02-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Honey, I Shrunk the Kids"
+            }
+          ],
+          "startDate": "1990-02-16"
+        },
+        {
+          "endDate": "1990-02-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Born on the Fourth of July"
+            }
+          ],
+          "startDate": "1990-02-21"
+        },
+        {
+          "endDate": "1990-02-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Honey, I Shrunk the Kids"
+            }
+          ],
+          "startDate": "1990-02-23"
+        },
+        {
+          "endDate": "1990-02-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Driving Miss Daisy"
+            }
+          ],
+          "startDate": "1990-02-25"
+        },
+        {
+          "endDate": "1990-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tango & Cash"
+            }
+          ],
+          "startDate": "1990-02-28"
+        },
+        {
+          "endDate": "1990-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Honey, I Shrunk the Kids"
+            }
+          ],
+          "startDate": "1990-03-02"
+        },
+        {
+          "endDate": "1990-03-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunt for Red October"
+            }
+          ],
+          "startDate": "1990-03-04"
+        },
+        {
+          "endDate": "1990-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tango & Cash"
+            }
+          ],
+          "startDate": "1990-03-07"
+        },
+        {
+          "endDate": "1990-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Born on the Fourth of July"
+            }
+          ],
+          "startDate": "1990-03-09"
+        },
+        {
+          "endDate": "1990-03-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunt for Red October"
+            }
+          ],
+          "startDate": "1990-03-11"
+        },
+        {
+          "endDate": "1990-03-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tango & Cash"
+            }
+          ],
+          "startDate": "1990-03-14"
+        },
+        {
+          "endDate": "1990-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Born on the Fourth of July"
+            }
+          ],
+          "startDate": "1990-03-16"
+        },
+        {
+          "endDate": "1990-03-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunt for Red October"
+            }
+          ],
+          "startDate": "1990-03-18"
+        },
+        {
+          "endDate": "1990-03-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Look Who's Talking"
+            }
+          ],
+          "startDate": "1990-03-21"
+        },
+        {
+          "endDate": "1990-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Born on the Fourth of July"
+            }
+          ],
+          "startDate": "1990-03-23"
+        },
+        {
+          "endDate": "1990-03-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-03-25"
+        },
+        {
+          "endDate": "1990-03-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Look Who's Talking"
+            }
+          ],
+          "startDate": "1990-03-28"
+        },
+        {
+          "endDate": "1990-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The War of the Roses"
+            }
+          ],
+          "startDate": "1990-03-30"
+        },
+        {
+          "endDate": "1990-04-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-04-01"
+        },
+        {
+          "endDate": "1990-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Look Who's Talking"
+            }
+          ],
+          "startDate": "1990-04-04"
+        },
+        {
+          "endDate": "1990-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The War of the Roses"
+            }
+          ],
+          "startDate": "1990-04-06"
+        },
+        {
+          "endDate": "1990-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-04-08"
+        },
+        {
+          "endDate": "1990-04-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunt for Red October"
+            }
+          ],
+          "startDate": "1990-04-10"
+        },
+        {
+          "endDate": "1990-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Look Who's Talking"
+            }
+          ],
+          "startDate": "1990-04-11"
+        },
+        {
+          "endDate": "1990-04-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-04-15"
+        },
+        {
+          "endDate": "1990-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Look Who's Talking"
+            }
+          ],
+          "startDate": "1990-04-18"
+        },
+        {
+          "endDate": "1990-04-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-04-22"
+        },
+        {
+          "endDate": "1990-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Adventures of Milo and Otis"
+            }
+          ],
+          "startDate": "1990-04-25"
+        },
+        {
+          "endDate": "1990-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Look Who's Talking"
+            }
+          ],
+          "startDate": "1990-04-26"
+        },
+        {
+          "endDate": "1990-05-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-04-29"
+        },
+        {
+          "endDate": "1990-05-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Look Who's Talking"
+            }
+          ],
+          "startDate": "1990-05-02"
+        },
+        {
+          "endDate": "1990-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Krays"
+            }
+          ],
+          "startDate": "1990-05-03"
+        },
+        {
+          "endDate": "1990-05-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-05-06"
+        },
+        {
+          "endDate": "1990-05-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Krays"
+            }
+          ],
+          "startDate": "1990-05-10"
+        },
+        {
+          "endDate": "1990-05-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-05-13"
+        },
+        {
+          "endDate": "1990-05-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bird on a Wire"
+            }
+          ],
+          "startDate": "1990-05-20"
+        },
+        {
+          "endDate": "1990-06-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-05-23"
+        },
+        {
+          "endDate": "1990-06-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Total Recall"
+            }
+          ],
+          "startDate": "1990-06-03"
+        },
+        {
+          "endDate": "1990-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-06-06"
+        },
+        {
+          "endDate": "1990-06-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Another 48 Hrs."
+            }
+          ],
+          "startDate": "1990-06-10"
+        },
+        {
+          "endDate": "1990-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-06-13"
+        },
+        {
+          "endDate": "1990-06-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dick Tracy"
+            }
+          ],
+          "startDate": "1990-06-17"
+        },
+        {
+          "endDate": "1990-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-06-20"
+        },
+        {
+          "endDate": "1990-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dick Tracy"
+            }
+          ],
+          "startDate": "1990-06-24"
+        },
+        {
+          "endDate": "1990-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-06-28"
+        },
+        {
+          "endDate": "1990-07-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Days of Thunder"
+            }
+          ],
+          "startDate": "1990-07-01"
+        },
+        {
+          "endDate": "1990-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-07-04"
+        },
+        {
+          "endDate": "1990-07-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard 2"
+            }
+          ],
+          "startDate": "1990-07-08"
+        },
+        {
+          "endDate": "1990-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-07-11"
+        },
+        {
+          "endDate": "1990-07-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard 2"
+            }
+          ],
+          "startDate": "1990-07-15"
+        },
+        {
+          "endDate": "1990-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-07-18"
+        },
+        {
+          "endDate": "1990-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Back to the Future Part III"
+            }
+          ],
+          "startDate": "1990-07-19"
+        },
+        {
+          "endDate": "1990-07-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-07-22"
+        },
+        {
+          "endDate": "1990-07-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-07-25"
+        },
+        {
+          "endDate": "1990-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Back to the Future Part III"
+            }
+          ],
+          "startDate": "1990-07-26"
+        },
+        {
+          "endDate": "1990-07-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Presumed Innocent"
+            }
+          ],
+          "startDate": "1990-07-29"
+        },
+        {
+          "endDate": "1990-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pretty Woman"
+            }
+          ],
+          "startDate": "1990-08-01"
+        },
+        {
+          "endDate": "1990-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gremlins 2: The New Batch"
+            }
+          ],
+          "startDate": "1990-08-02"
+        },
+        {
+          "endDate": "1990-08-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-08-05"
+        },
+        {
+          "endDate": "1990-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-08-08"
+        },
+        {
+          "endDate": "1990-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gremlins 2: The New Batch"
+            }
+          ],
+          "startDate": "1990-08-09"
+        },
+        {
+          "endDate": "1990-08-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Flatliners"
+            }
+          ],
+          "startDate": "1990-08-12"
+        },
+        {
+          "endDate": "1990-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-08-15"
+        },
+        {
+          "endDate": "1990-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Total Recall"
+            }
+          ],
+          "startDate": "1990-08-16"
+        },
+        {
+          "endDate": "1990-08-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Exorcist III"
+            }
+          ],
+          "startDate": "1990-08-19"
+        },
+        {
+          "endDate": "1990-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-08-22"
+        },
+        {
+          "endDate": "1990-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Total Recall"
+            }
+          ],
+          "startDate": "1990-08-23"
+        },
+        {
+          "endDate": "1990-08-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Darkman"
+            }
+          ],
+          "startDate": "1990-08-26"
+        },
+        {
+          "endDate": "1990-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-08-29"
+        },
+        {
+          "endDate": "1990-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard 2"
+            }
+          ],
+          "startDate": "1990-08-30"
+        },
+        {
+          "endDate": "1990-09-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-09-09"
+        },
+        {
+          "endDate": "1990-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard 2"
+            }
+          ],
+          "startDate": "1990-09-12"
+        },
+        {
+          "endDate": "1990-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Memphis Belle"
+            }
+          ],
+          "startDate": "1990-09-13"
+        },
+        {
+          "endDate": "1990-09-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Postcards from the Edge"
+            }
+          ],
+          "startDate": "1990-09-16"
+        },
+        {
+          "endDate": "1990-09-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Days of Thunder"
+            }
+          ],
+          "startDate": "1990-09-19"
+        },
+        {
+          "endDate": "1990-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Memphis Belle"
+            }
+          ],
+          "startDate": "1990-09-20"
+        },
+        {
+          "endDate": "1990-09-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Goodfellas"
+            }
+          ],
+          "startDate": "1990-09-23"
+        },
+        {
+          "endDate": "1990-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Days of Thunder"
+            }
+          ],
+          "startDate": "1990-09-26"
+        },
+        {
+          "endDate": "1990-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Another 48 Hrs."
+            }
+          ],
+          "startDate": "1990-09-27"
+        },
+        {
+          "endDate": "1990-10-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pacific Heights"
+            }
+          ],
+          "startDate": "1990-09-30"
+        },
+        {
+          "endDate": "1990-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Days of Thunder"
+            }
+          ],
+          "startDate": "1990-10-03"
+        },
+        {
+          "endDate": "1990-10-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Presumed Innocent"
+            }
+          ],
+          "startDate": "1990-10-04"
+        },
+        {
+          "endDate": "1990-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Days of Thunder"
+            }
+          ],
+          "startDate": "1990-10-10"
+        },
+        {
+          "endDate": "1990-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-10-11"
+        },
+        {
+          "endDate": "1990-10-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Marked for Death"
+            }
+          ],
+          "startDate": "1990-10-14"
+        },
+        {
+          "endDate": "1990-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Days of Thunder"
+            }
+          ],
+          "startDate": "1990-10-17"
+        },
+        {
+          "endDate": "1990-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-10-18"
+        },
+        {
+          "endDate": "1990-10-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Marked for Death"
+            }
+          ],
+          "startDate": "1990-10-21"
+        },
+        {
+          "endDate": "1990-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Flatliners"
+            }
+          ],
+          "startDate": "1990-10-24"
+        },
+        {
+          "endDate": "1990-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-10-25"
+        },
+        {
+          "endDate": "1990-10-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Graveyard Shift"
+            }
+          ],
+          "startDate": "1990-10-28"
+        },
+        {
+          "endDate": "1990-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-10-31"
+        },
+        {
+          "endDate": "1990-11-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jacob's Ladder"
+            }
+          ],
+          "startDate": "1990-11-04"
+        },
+        {
+          "endDate": "1990-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-11-07"
+        },
+        {
+          "endDate": "1990-11-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Child's Play 2"
+            }
+          ],
+          "startDate": "1990-11-11"
+        },
+        {
+          "endDate": "1990-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-11-14"
+        },
+        {
+          "endDate": "1990-11-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone"
+            }
+          ],
+          "startDate": "1990-11-18"
+        },
+        {
+          "endDate": "1990-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-11-21"
+        },
+        {
+          "endDate": "1990-11-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone"
+            }
+          ],
+          "startDate": "1990-11-25"
+        },
+        {
+          "endDate": "1990-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-11-28"
+        },
+        {
+          "endDate": "1990-12-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone"
+            }
+          ],
+          "startDate": "1990-12-02"
+        },
+        {
+          "endDate": "1990-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost"
+            }
+          ],
+          "startDate": "1990-12-05"
+        },
+        {
+          "endDate": "1990-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-12-06"
+        },
+        {
+          "endDate": "1990-12-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone"
+            }
+          ],
+          "startDate": "1990-12-09"
+        },
+        {
+          "endDate": "1990-12-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Total Recall"
+            }
+          ],
+          "startDate": "1990-12-12"
+        },
+        {
+          "endDate": "1990-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles"
+            }
+          ],
+          "startDate": "1990-12-13"
+        },
+        {
+          "endDate": "1990-12-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone"
+            }
+          ],
+          "startDate": "1990-12-16"
+        },
+        {
+          "endDate": "1990-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Total Recall"
+            }
+          ],
+          "startDate": "1990-12-19"
+        },
+        {
+          "endDate": "1990-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone"
+            }
+          ],
+          "startDate": "1990-12-20"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1990-01-14",
+          "endDate": "1990-01-07",
+          "items": [
+            {
+              "artist": "Band Aid II",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "1990-01-01"
+        },
+        {
+          "endDate": "1990-01-12",
           "items": [
             {
               "artist": "Sinéad O'Connor",
@@ -15,7 +1300,73 @@
           "startDate": "1990-01-08"
         },
         {
-          "endDate": "1990-05-07",
+          "endDate": "1990-01-26",
+          "items": [
+            {
+              "artist": "New Kids on the Block",
+              "rank": 1,
+              "title": "Hangin' Tough"
+            }
+          ],
+          "startDate": "1990-01-13"
+        },
+        {
+          "endDate": "1990-02-02",
+          "items": [
+            {
+              "artist": "Kylie Minogue",
+              "rank": 1,
+              "title": "Tears on My Pillow"
+            }
+          ],
+          "startDate": "1990-01-27"
+        },
+        {
+          "endDate": "1990-03-02",
+          "items": [
+            {
+              "artist": "Sinéad O'Connor",
+              "rank": 1,
+              "title": "Nothing Compares 2 U"
+            }
+          ],
+          "startDate": "1990-02-03"
+        },
+        {
+          "endDate": "1990-03-30",
+          "items": [
+            {
+              "artist": "Beats International",
+              "rank": 1,
+              "title": "Dub Be Good to Me"
+            }
+          ],
+          "startDate": "1990-03-03"
+        },
+        {
+          "endDate": "1990-04-13",
+          "items": [
+            {
+              "artist": "Snap!",
+              "rank": 1,
+              "title": "The Power"
+            }
+          ],
+          "startDate": "1990-03-31"
+        },
+        {
+          "endDate": "1990-04-30",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Vogue"
+            }
+          ],
+          "startDate": "1990-04-14"
+        },
+        {
+          "endDate": "1990-05-04",
           "items": [
             {
               "artist": "Elton John",
@@ -26,7 +1377,95 @@
           "startDate": "1990-05-01"
         },
         {
-          "endDate": "1990-10-21",
+          "endDate": "1990-05-11",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Vogue"
+            }
+          ],
+          "startDate": "1990-05-05"
+        },
+        {
+          "endDate": "1990-06-08",
+          "items": [
+            {
+              "artist": "Adamski",
+              "rank": 1,
+              "title": "Killer"
+            }
+          ],
+          "startDate": "1990-05-12"
+        },
+        {
+          "endDate": "1990-06-22",
+          "items": [
+            {
+              "artist": "New Order",
+              "rank": 1,
+              "title": "World in Motion"
+            }
+          ],
+          "startDate": "1990-06-09"
+        },
+        {
+          "endDate": "1990-07-27",
+          "items": [
+            {
+              "artist": "Elton John",
+              "rank": 1,
+              "title": "Sacrifice / Healing Hands"
+            }
+          ],
+          "startDate": "1990-06-23"
+        },
+        {
+          "endDate": "1990-08-24",
+          "items": [
+            {
+              "artist": "Partners in Kryme",
+              "rank": 1,
+              "title": "Turtle Power"
+            }
+          ],
+          "startDate": "1990-07-28"
+        },
+        {
+          "endDate": "1990-09-14",
+          "items": [
+            {
+              "artist": "Bombalurina",
+              "rank": 1,
+              "title": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini"
+            }
+          ],
+          "startDate": "1990-08-25"
+        },
+        {
+          "endDate": "1990-09-28",
+          "items": [
+            {
+              "artist": "Steve Miller Band",
+              "rank": 1,
+              "title": "The Joker"
+            }
+          ],
+          "startDate": "1990-09-15"
+        },
+        {
+          "endDate": "1990-10-14",
+          "items": [
+            {
+              "artist": "Maria McKee",
+              "rank": 1,
+              "title": "Show Me Heaven"
+            }
+          ],
+          "startDate": "1990-09-29"
+        },
+        {
+          "endDate": "1990-10-19",
           "items": [
             {
               "artist": "The Righteous Brothers",
@@ -37,7 +1476,29 @@
           "startDate": "1990-10-15"
         },
         {
-          "endDate": "1990-11-04",
+          "endDate": "1990-10-26",
+          "items": [
+            {
+              "artist": "Maria McKee",
+              "rank": 1,
+              "title": "Show Me Heaven"
+            }
+          ],
+          "startDate": "1990-10-20"
+        },
+        {
+          "endDate": "1990-10-28",
+          "items": [
+            {
+              "artist": "The Beautiful South",
+              "rank": 1,
+              "title": "A Little Time"
+            }
+          ],
+          "startDate": "1990-10-27"
+        },
+        {
+          "endDate": "1990-11-02",
           "items": [
             {
               "artist": "Vanilla Ice",
@@ -46,12 +1507,45 @@
             }
           ],
           "startDate": "1990-10-29"
+        },
+        {
+          "endDate": "1990-11-30",
+          "items": [
+            {
+              "artist": "The Righteous Brothers",
+              "rank": 1,
+              "title": "Unchained Melody"
+            }
+          ],
+          "startDate": "1990-11-03"
+        },
+        {
+          "endDate": "1990-12-28",
+          "items": [
+            {
+              "artist": "Vanilla Ice",
+              "rank": 1,
+              "title": "Ice Ice Baby"
+            }
+          ],
+          "startDate": "1990-12-01"
+        },
+        {
+          "endDate": "1990-12-31",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Saviour's Day"
+            }
+          ],
+          "startDate": "1990-12-29"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -59,7 +1553,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "13dcfe32041e122c567804158d918720d8ac3ca456b9cdfc7be5f408f04501be",
+  "contentHash": "c44f348d6aa4a9ff080a053d5fb460882cce13f6580d7075c75475347dca2e3a",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1990

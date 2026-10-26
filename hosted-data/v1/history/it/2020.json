@@ -1,5 +1,229 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2020-01-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jumanji: The Next Level"
+            }
+          ],
+          "startDate": "2020-01-01"
+        },
+        {
+          "endDate": "2020-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tolo Tolo"
+            }
+          ],
+          "startDate": "2020-01-05"
+        },
+        {
+          "endDate": "2020-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hammamet"
+            }
+          ],
+          "startDate": "2020-01-19"
+        },
+        {
+          "endDate": "2020-02-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "1917"
+            }
+          ],
+          "startDate": "2020-01-26"
+        },
+        {
+          "endDate": "2020-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dolittle"
+            }
+          ],
+          "startDate": "2020-02-02"
+        },
+        {
+          "endDate": "2020-02-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn"
+            }
+          ],
+          "startDate": "2020-02-09"
+        },
+        {
+          "endDate": "2020-02-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sonic the Hedgehog"
+            }
+          ],
+          "startDate": "2020-02-16"
+        },
+        {
+          "endDate": "2020-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Best Years"
+            }
+          ],
+          "startDate": "2020-02-23"
+        },
+        {
+          "endDate": "2020-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hidden Away"
+            }
+          ],
+          "startDate": "2020-03-08"
+        },
+        {
+          "endDate": "2020-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Misérables"
+            }
+          ],
+          "startDate": "2020-06-14"
+        },
+        {
+          "endDate": "2020-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jojo Rabbit"
+            }
+          ],
+          "startDate": "2020-07-12"
+        },
+        {
+          "endDate": "2020-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Best Years"
+            }
+          ],
+          "startDate": "2020-07-19"
+        },
+        {
+          "endDate": "2020-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jojo Rabbit"
+            }
+          ],
+          "startDate": "2020-08-09"
+        },
+        {
+          "endDate": "2020-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hidden Away"
+            }
+          ],
+          "startDate": "2020-08-16"
+        },
+        {
+          "endDate": "2020-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Onward"
+            }
+          ],
+          "startDate": "2020-08-23"
+        },
+        {
+          "endDate": "2020-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tenet"
+            }
+          ],
+          "startDate": "2020-08-30"
+        },
+        {
+          "endDate": "2020-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "After We Collided"
+            }
+          ],
+          "startDate": "2020-09-06"
+        },
+        {
+          "endDate": "2020-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tenet"
+            }
+          ],
+          "startDate": "2020-09-13"
+        },
+        {
+          "endDate": "2020-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unhinged"
+            }
+          ],
+          "startDate": "2020-09-27"
+        },
+        {
+          "endDate": "2020-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Greenland"
+            }
+          ],
+          "startDate": "2020-10-11"
+        },
+        {
+          "endDate": "2020-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Out of My League"
+            }
+          ],
+          "startDate": "2020-10-25"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -130,7 +354,7 @@
             {
               "artist": "Anna, Madman and Gemitaiz",
               "rank": 1,
-              "title": "Bando"
+              "title": "Bando (Remix)"
             }
           ],
           "startDate": "2020-04-24"
@@ -315,7 +539,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2021-12-24",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "IT",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
@@ -323,7 +547,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "3e22c744a80c19ea0d0076e77bb0f7a8a3f5d4da7ef773c66895f64c668163b5",
+  "contentHash": "56ed1ca650a661a1f8c490b3836b9349638d18a5a459f28883595e230a023c99",
   "country": "it",
   "schemaVersion": 1,
   "year": 2020

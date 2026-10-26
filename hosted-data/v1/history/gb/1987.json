@@ -1,10 +1,293 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1987-01-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Golden Child"
+            }
+          ],
+          "startDate": "1987-01-01"
+        },
+        {
+          "endDate": "1987-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Crocodile Dundee"
+            }
+          ],
+          "startDate": "1987-02-15"
+        },
+        {
+          "endDate": "1987-05-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Platoon"
+            }
+          ],
+          "startDate": "1987-05-24"
+        },
+        {
+          "endDate": "1987-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Living Daylights"
+            }
+          ],
+          "startDate": "1987-08-02"
+        },
+        {
+          "endDate": "1987-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lethal Weapon"
+            }
+          ],
+          "startDate": "1987-09-06"
+        },
+        {
+          "endDate": "1987-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beverly Hills Cop II"
+            }
+          ],
+          "startDate": "1987-10-11"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1987-11-29",
+          "endDate": "1987-01-23",
+          "items": [
+            {
+              "artist": "Jackie Wilson",
+              "rank": 1,
+              "title": "Reet Petite"
+            }
+          ],
+          "startDate": "1987-01-01"
+        },
+        {
+          "endDate": "1987-02-06",
+          "items": [
+            {
+              "artist": "Steve \"Silk\" Hurley",
+              "rank": 1,
+              "title": "Jack Your Body"
+            }
+          ],
+          "startDate": "1987-01-24"
+        },
+        {
+          "endDate": "1987-02-20",
+          "items": [
+            {
+              "artist": "Aretha Franklin and George Michael",
+              "rank": 1,
+              "title": "I Knew You Were Waiting (For Me)"
+            }
+          ],
+          "startDate": "1987-02-07"
+        },
+        {
+          "endDate": "1987-03-13",
+          "items": [
+            {
+              "artist": "Ben E. King",
+              "rank": 1,
+              "title": "Stand by Me"
+            }
+          ],
+          "startDate": "1987-02-21"
+        },
+        {
+          "endDate": "1987-03-27",
+          "items": [
+            {
+              "artist": "Boy George",
+              "rank": 1,
+              "title": "Everything I Own"
+            }
+          ],
+          "startDate": "1987-03-14"
+        },
+        {
+          "endDate": "1987-04-03",
+          "items": [
+            {
+              "artist": "Mel and Kim",
+              "rank": 1,
+              "title": "Respectable"
+            }
+          ],
+          "startDate": "1987-03-28"
+        },
+        {
+          "endDate": "1987-04-24",
+          "items": [
+            {
+              "artist": "Ferry Aid",
+              "rank": 1,
+              "title": "Let It Be"
+            }
+          ],
+          "startDate": "1987-04-04"
+        },
+        {
+          "endDate": "1987-05-08",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "La Isla Bonita"
+            }
+          ],
+          "startDate": "1987-04-25"
+        },
+        {
+          "endDate": "1987-06-05",
+          "items": [
+            {
+              "artist": "Starship",
+              "rank": 1,
+              "title": "Nothing's Gonna Stop Us Now"
+            }
+          ],
+          "startDate": "1987-05-09"
+        },
+        {
+          "endDate": "1987-06-19",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Wanna Dance with Somebody (Who Loves Me)"
+            }
+          ],
+          "startDate": "1987-06-06"
+        },
+        {
+          "endDate": "1987-07-03",
+          "items": [
+            {
+              "artist": "The Firm",
+              "rank": 1,
+              "title": "Star Trekkin'"
+            }
+          ],
+          "startDate": "1987-06-20"
+        },
+        {
+          "endDate": "1987-07-24",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "It's a Sin"
+            }
+          ],
+          "startDate": "1987-07-04"
+        },
+        {
+          "endDate": "1987-07-31",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Who's That Girl"
+            }
+          ],
+          "startDate": "1987-07-25"
+        },
+        {
+          "endDate": "1987-08-14",
+          "items": [
+            {
+              "artist": "Los Lobos",
+              "rank": 1,
+              "title": "La Bamba"
+            }
+          ],
+          "startDate": "1987-08-01"
+        },
+        {
+          "endDate": "1987-08-28",
+          "items": [
+            {
+              "artist": "Michael Jackson and Siedah Garrett",
+              "rank": 1,
+              "title": "I Just Can't Stop Loving You"
+            }
+          ],
+          "startDate": "1987-08-15"
+        },
+        {
+          "endDate": "1987-10-02",
+          "items": [
+            {
+              "artist": "Rick Astley",
+              "rank": 1,
+              "title": "Never Gonna Give You Up"
+            }
+          ],
+          "startDate": "1987-08-29"
+        },
+        {
+          "endDate": "1987-10-16",
+          "items": [
+            {
+              "artist": "MARRS",
+              "rank": 1,
+              "title": "Pump Up the Volume"
+            }
+          ],
+          "startDate": "1987-10-03"
+        },
+        {
+          "endDate": "1987-11-13",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "You Win Again"
+            }
+          ],
+          "startDate": "1987-10-17"
+        },
+        {
+          "endDate": "1987-11-22",
+          "items": [
+            {
+              "artist": "T'Pau",
+              "rank": 1,
+              "title": "China in Your Hand"
+            }
+          ],
+          "startDate": "1987-11-14"
+        },
+        {
+          "endDate": "1987-11-27",
           "items": [
             {
               "artist": "The Pogues featuring Kirsty MacColl",
@@ -13,12 +296,34 @@
             }
           ],
           "startDate": "1987-11-23"
+        },
+        {
+          "endDate": "1987-12-18",
+          "items": [
+            {
+              "artist": "T'Pau",
+              "rank": 1,
+              "title": "China in Your Hand"
+            }
+          ],
+          "startDate": "1987-11-28"
+        },
+        {
+          "endDate": "1987-12-31",
+          "items": [
+            {
+              "artist": "Pet Shop Boys",
+              "rank": 1,
+              "title": "Always on My Mind"
+            }
+          ],
+          "startDate": "1987-12-19"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -26,7 +331,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "29ef04e680766540a6d8847813b5276c87c645bed70acdd6fd465f0ca5a99a78",
+  "contentHash": "91ddf8d8a1a7ee34bd6ac938ac71e4e6a927f1efe45f81bbf2d1261d54714492",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1987

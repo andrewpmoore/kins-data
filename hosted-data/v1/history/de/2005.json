@@ -1,5 +1,299 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2005-01-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ocean's Twelve"
+            }
+          ],
+          "startDate": "2005-01-01"
+        },
+        {
+          "endDate": "2005-01-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Closer"
+            }
+          ],
+          "startDate": "2005-01-16"
+        },
+        {
+          "endDate": "2005-02-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blade: Trinity"
+            }
+          ],
+          "startDate": "2005-01-23"
+        },
+        {
+          "endDate": "2005-02-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Aviator"
+            }
+          ],
+          "startDate": "2005-02-06"
+        },
+        {
+          "endDate": "2005-02-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Felix: Around the World"
+            }
+          ],
+          "startDate": "2005-02-13"
+        },
+        {
+          "endDate": "2005-03-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Meet the Fockers"
+            }
+          ],
+          "startDate": "2005-02-20"
+        },
+        {
+          "endDate": "2005-04-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hitch"
+            }
+          ],
+          "startDate": "2005-03-06"
+        },
+        {
+          "endDate": "2005-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Ring Two"
+            }
+          ],
+          "startDate": "2005-04-03"
+        },
+        {
+          "endDate": "2005-04-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Barefoot"
+            }
+          ],
+          "startDate": "2005-04-10"
+        },
+        {
+          "endDate": "2005-04-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Pacifier"
+            }
+          ],
+          "startDate": "2005-04-17"
+        },
+        {
+          "endDate": "2005-04-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Interpreter"
+            }
+          ],
+          "startDate": "2005-04-24"
+        },
+        {
+          "endDate": "2005-05-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "xXx: State of the Union"
+            }
+          ],
+          "startDate": "2005-05-01"
+        },
+        {
+          "endDate": "2005-05-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kingdom of Heaven"
+            }
+          ],
+          "startDate": "2005-05-08"
+        },
+        {
+          "endDate": "2005-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode III - Revenge of the Sith"
+            }
+          ],
+          "startDate": "2005-05-22"
+        },
+        {
+          "endDate": "2005-07-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Batman Begins"
+            }
+          ],
+          "startDate": "2005-06-19"
+        },
+        {
+          "endDate": "2005-07-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "War of the Worlds"
+            }
+          ],
+          "startDate": "2005-07-03"
+        },
+        {
+          "endDate": "2005-08-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar"
+            }
+          ],
+          "startDate": "2005-07-17"
+        },
+        {
+          "endDate": "2005-08-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sin City"
+            }
+          ],
+          "startDate": "2005-08-14"
+        },
+        {
+          "endDate": "2005-09-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Skeleton Key"
+            }
+          ],
+          "startDate": "2005-08-21"
+        },
+        {
+          "endDate": "2005-09-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bewitched"
+            }
+          ],
+          "startDate": "2005-09-04"
+        },
+        {
+          "endDate": "2005-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The White Massai"
+            }
+          ],
+          "startDate": "2005-09-18"
+        },
+        {
+          "endDate": "2005-10-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Brothers Grimm"
+            }
+          ],
+          "startDate": "2005-10-09"
+        },
+        {
+          "endDate": "2005-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wallace & Gromit: The Curse of the Were-Rabbit"
+            }
+          ],
+          "startDate": "2005-10-16"
+        },
+        {
+          "endDate": "2005-11-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Flightplan"
+            }
+          ],
+          "startDate": "2005-10-23"
+        },
+        {
+          "endDate": "2005-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "In Her Shoes"
+            }
+          ],
+          "startDate": "2005-11-13"
+        },
+        {
+          "endDate": "2005-12-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Goblet of Fire"
+            }
+          ],
+          "startDate": "2005-11-20"
+        },
+        {
+          "endDate": "2005-12-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+            }
+          ],
+          "startDate": "2005-12-11"
+        },
+        {
+          "endDate": "2005-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "King Kong"
+            }
+          ],
+          "startDate": "2005-12-18"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -20,7 +314,7 @@
             {
               "artist": "Schnappi",
               "rank": 1,
-              "title": "Schnappi, das Kleine Krokodil\"†"
+              "title": "Schnappi, das Kleine Krokodil"
             }
           ],
           "startDate": "2005-01-03"
@@ -194,7 +488,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -202,7 +496,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "f7527a91f50fcd9811ef928732bd2e0a1a2978c6567eb50a32de8245445ec307",
+  "contentHash": "43955b7f0f6f31cfc51162987cc58e8f0a2cbfb56f88c8fde881333026affa04",
   "country": "de",
   "schemaVersion": 1,
   "year": 2005

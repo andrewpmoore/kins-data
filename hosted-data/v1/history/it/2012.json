@@ -1,5 +1,329 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2012-01-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Puss in Boots"
+            }
+          ],
+          "startDate": "2012-01-01"
+        },
+        {
+          "endDate": "2012-01-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Immaturi - Il viaggio"
+            }
+          ],
+          "startDate": "2012-01-08"
+        },
+        {
+          "endDate": "2012-02-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Welcome to the North"
+            }
+          ],
+          "startDate": "2012-01-22"
+        },
+        {
+          "endDate": "2012-02-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Love Is in the Air"
+            }
+          ],
+          "startDate": "2012-02-12"
+        },
+        {
+          "endDate": "2012-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Journey 2: The Mysterious Island"
+            }
+          ],
+          "startDate": "2012-02-26"
+        },
+        {
+          "endDate": "2012-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Flat for Three"
+            }
+          ],
+          "startDate": "2012-03-04"
+        },
+        {
+          "endDate": "2012-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Intouchables"
+            }
+          ],
+          "startDate": "2012-03-18"
+        },
+        {
+          "endDate": "2012-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost Rider: Spirit of Vengeance"
+            }
+          ],
+          "startDate": "2012-03-25"
+        },
+        {
+          "endDate": "2012-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wrath of the Titans"
+            }
+          ],
+          "startDate": "2012-04-01"
+        },
+        {
+          "endDate": "2012-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Titanic2012 3D Release"
+            }
+          ],
+          "startDate": "2012-04-08"
+        },
+        {
+          "endDate": "2012-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Battleship"
+            }
+          ],
+          "startDate": "2012-04-15"
+        },
+        {
+          "endDate": "2012-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "To Rome with Love"
+            }
+          ],
+          "startDate": "2012-04-22"
+        },
+        {
+          "endDate": "2012-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Avengers"
+            }
+          ],
+          "startDate": "2012-04-29"
+        },
+        {
+          "endDate": "2012-05-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Reunion"
+            }
+          ],
+          "startDate": "2012-05-06"
+        },
+        {
+          "endDate": "2012-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dark Shadows"
+            }
+          ],
+          "startDate": "2012-05-13"
+        },
+        {
+          "endDate": "2012-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Men in Black 3"
+            }
+          ],
+          "startDate": "2012-05-27"
+        },
+        {
+          "endDate": "2012-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dictator"
+            }
+          ],
+          "startDate": "2012-06-17"
+        },
+        {
+          "endDate": "2012-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Amazing Spider-Man"
+            }
+          ],
+          "startDate": "2012-07-08"
+        },
+        {
+          "endDate": "2012-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Snow White and the Huntsman"
+            }
+          ],
+          "startDate": "2012-07-15"
+        },
+        {
+          "endDate": "2012-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Expendables 2"
+            }
+          ],
+          "startDate": "2012-08-19"
+        },
+        {
+          "endDate": "2012-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar 3: Europe's Most Wanted"
+            }
+          ],
+          "startDate": "2012-08-26"
+        },
+        {
+          "endDate": "2012-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dark Knight Rises"
+            }
+          ],
+          "startDate": "2012-09-09"
+        },
+        {
+          "endDate": "2012-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Prometheus"
+            }
+          ],
+          "startDate": "2012-09-16"
+        },
+        {
+          "endDate": "2012-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Magic Mike"
+            }
+          ],
+          "startDate": "2012-09-23"
+        },
+        {
+          "endDate": "2012-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ice Age: Continental Drift"
+            }
+          ],
+          "startDate": "2012-09-30"
+        },
+        {
+          "endDate": "2012-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ted"
+            }
+          ],
+          "startDate": "2012-10-14"
+        },
+        {
+          "endDate": "2012-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Viva l'Italia"
+            }
+          ],
+          "startDate": "2012-10-28"
+        },
+        {
+          "endDate": "2012-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Skyfall"
+            }
+          ],
+          "startDate": "2012-11-04"
+        },
+        {
+          "endDate": "2012-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Twilight Saga: Breaking Dawn - Part 2"
+            }
+          ],
+          "startDate": "2012-11-18"
+        },
+        {
+          "endDate": "2012-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rise of the Guardians"
+            }
+          ],
+          "startDate": "2012-12-02"
+        },
+        {
+          "endDate": "2012-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hobbit: An Unexpected Journey"
+            }
+          ],
+          "startDate": "2012-12-16"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -97,7 +421,7 @@
             {
               "artist": "Gusttavo Lima",
               "rank": 1,
-              "title": "Balada"
+              "title": "Balada (Tchê Tcherere Tchê Tchê)"
             }
           ],
           "startDate": "2012-06-04"
@@ -119,7 +443,7 @@
             {
               "artist": "Asaf Avidan",
               "rank": 1,
-              "title": "One Day / Reckoning Song"
+              "title": "One Day / Reckoning Song\" (Wankelmut Rmx)"
             }
           ],
           "startDate": "2012-10-15"
@@ -172,7 +496,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2021-12-24",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "IT",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
@@ -180,7 +504,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "97a575416f227fbac776a7c95fd970677711db751a732be3b7feffff0a52d0c2",
+  "contentHash": "6454ee3299c908b74915cecd9d74d4c51afd2a5b87ce6aa022edc054c610df70",
   "country": "it",
   "schemaVersion": 1,
   "year": 2012

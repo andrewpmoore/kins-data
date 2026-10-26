@@ -1,5 +1,339 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2015-01-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hobbit: The Battle of the Five Armies"
+            }
+          ],
+          "startDate": "2015-01-01"
+        },
+        {
+          "endDate": "2015-01-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Taken 3"
+            }
+          ],
+          "startDate": "2015-01-11"
+        },
+        {
+          "endDate": "2015-02-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Sniper"
+            }
+          ],
+          "startDate": "2015-01-18"
+        },
+        {
+          "endDate": "2015-02-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The SpongeBob Movie: Sponge Out of Water"
+            }
+          ],
+          "startDate": "2015-02-08"
+        },
+        {
+          "endDate": "2015-02-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fifty Shades of Grey"
+            }
+          ],
+          "startDate": "2015-02-15"
+        },
+        {
+          "endDate": "2015-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Focus"
+            }
+          ],
+          "startDate": "2015-03-01"
+        },
+        {
+          "endDate": "2015-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Chappie"
+            }
+          ],
+          "startDate": "2015-03-08"
+        },
+        {
+          "endDate": "2015-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cinderella"
+            }
+          ],
+          "startDate": "2015-03-15"
+        },
+        {
+          "endDate": "2015-03-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Divergent Series: Insurgent"
+            }
+          ],
+          "startDate": "2015-03-22"
+        },
+        {
+          "endDate": "2015-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home"
+            }
+          ],
+          "startDate": "2015-03-29"
+        },
+        {
+          "endDate": "2015-05-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Furious 7"
+            }
+          ],
+          "startDate": "2015-04-05"
+        },
+        {
+          "endDate": "2015-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avengers: Age of Ultron"
+            }
+          ],
+          "startDate": "2015-05-03"
+        },
+        {
+          "endDate": "2015-05-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pitch Perfect 2"
+            }
+          ],
+          "startDate": "2015-05-17"
+        },
+        {
+          "endDate": "2015-05-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tomorrowland"
+            }
+          ],
+          "startDate": "2015-05-24"
+        },
+        {
+          "endDate": "2015-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "San Andreas"
+            }
+          ],
+          "startDate": "2015-05-31"
+        },
+        {
+          "endDate": "2015-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spy"
+            }
+          ],
+          "startDate": "2015-06-07"
+        },
+        {
+          "endDate": "2015-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic World"
+            }
+          ],
+          "startDate": "2015-06-14"
+        },
+        {
+          "endDate": "2015-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inside Out"
+            }
+          ],
+          "startDate": "2015-07-05"
+        },
+        {
+          "endDate": "2015-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Minions"
+            }
+          ],
+          "startDate": "2015-07-12"
+        },
+        {
+          "endDate": "2015-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ant-Man"
+            }
+          ],
+          "startDate": "2015-07-19"
+        },
+        {
+          "endDate": "2015-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible - Rogue Nation"
+            }
+          ],
+          "startDate": "2015-08-02"
+        },
+        {
+          "endDate": "2015-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Straight Outta Compton"
+            }
+          ],
+          "startDate": "2015-08-16"
+        },
+        {
+          "endDate": "2015-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "War Room"
+            }
+          ],
+          "startDate": "2015-09-06"
+        },
+        {
+          "endDate": "2015-09-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Perfect Guy"
+            }
+          ],
+          "startDate": "2015-09-13"
+        },
+        {
+          "endDate": "2015-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maze Runner: The Scorch Trials"
+            }
+          ],
+          "startDate": "2015-09-20"
+        },
+        {
+          "endDate": "2015-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hotel Transylvania 2"
+            }
+          ],
+          "startDate": "2015-09-27"
+        },
+        {
+          "endDate": "2015-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Martian"
+            }
+          ],
+          "startDate": "2015-10-04"
+        },
+        {
+          "endDate": "2015-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Goosebumps"
+            }
+          ],
+          "startDate": "2015-10-18"
+        },
+        {
+          "endDate": "2015-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Martian"
+            }
+          ],
+          "startDate": "2015-10-25"
+        },
+        {
+          "endDate": "2015-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spectre"
+            }
+          ],
+          "startDate": "2015-11-08"
+        },
+        {
+          "endDate": "2015-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games: Mockingjay - Part 2"
+            }
+          ],
+          "startDate": "2015-11-22"
+        },
+        {
+          "endDate": "2015-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode VII - The Force Awakens"
+            }
+          ],
+          "startDate": "2015-12-20"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -20,7 +354,7 @@
             {
               "artist": "Mark Ronson featuring Bruno Mars",
               "rank": 1,
-              "title": "Uptown Funk\"♪"
+              "title": "Uptown Funk"
             }
           ],
           "startDate": "2015-01-17"
@@ -37,7 +371,18 @@
           "startDate": "2015-04-25"
         },
         {
-          "endDate": "2015-07-17",
+          "endDate": "2015-06-12",
+          "items": [
+            {
+              "artist": "Taylor Swift featuring Kendrick Lamar",
+              "rank": 1,
+              "title": "Bad Blood"
+            }
+          ],
+          "startDate": "2015-06-06"
+        },
+        {
+          "endDate": "2015-07-24",
           "items": [
             {
               "artist": "Wiz Khalifa featuring Charlie Puth",
@@ -51,7 +396,7 @@
           "endDate": "2015-08-21",
           "items": [
             {
-              "artist": "Omi",
+              "artist": "OMI",
               "rank": 1,
               "title": "Cheerleader"
             }
@@ -59,7 +404,7 @@
           "startDate": "2015-07-25"
         },
         {
-          "endDate": "2015-09-11",
+          "endDate": "2015-08-28",
           "items": [
             {
               "artist": "The Weeknd",
@@ -67,7 +412,29 @@
               "title": "Can't Feel My Face"
             }
           ],
-          "startDate": "2015-09-05"
+          "startDate": "2015-08-22"
+        },
+        {
+          "endDate": "2015-09-11",
+          "items": [
+            {
+              "artist": "OMI",
+              "rank": 1,
+              "title": "Cheerleader"
+            }
+          ],
+          "startDate": "2015-08-29"
+        },
+        {
+          "endDate": "2015-09-18",
+          "items": [
+            {
+              "artist": "The Weeknd",
+              "rank": 1,
+              "title": "Can't Feel My Face"
+            }
+          ],
+          "startDate": "2015-09-12"
         },
         {
           "endDate": "2015-09-25",
@@ -79,6 +446,17 @@
             }
           ],
           "startDate": "2015-09-19"
+        },
+        {
+          "endDate": "2015-10-02",
+          "items": [
+            {
+              "artist": "The Weeknd",
+              "rank": 1,
+              "title": "Can't Feel My Face"
+            }
+          ],
+          "startDate": "2015-09-26"
         },
         {
           "endDate": "2015-11-13",
@@ -106,7 +484,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -114,7 +492,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "a64f9402f90fcc49d3755159cece2802e571c0867b9dbe2463723bd2460980c8",
+  "contentHash": "c80caba51564943a92e03e3c231a4937295f24752343f27939f5d403957af407",
   "country": "us",
   "schemaVersion": 1,
   "year": 2015

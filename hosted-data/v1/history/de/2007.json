@@ -1,5 +1,309 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2007-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Night at the Museum"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Pursuit of Happyness"
+            }
+          ],
+          "startDate": "2007-01-21"
+        },
+        {
+          "endDate": "2007-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wild Guys 4"
+            }
+          ],
+          "startDate": "2007-02-04"
+        },
+        {
+          "endDate": "2007-02-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rocky Balboa"
+            }
+          ],
+          "startDate": "2007-02-11"
+        },
+        {
+          "endDate": "2007-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost Rider"
+            }
+          ],
+          "startDate": "2007-02-25"
+        },
+        {
+          "endDate": "2007-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Music and Lyrics"
+            }
+          ],
+          "startDate": "2007-03-11"
+        },
+        {
+          "endDate": "2007-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Vexxer"
+            }
+          ],
+          "startDate": "2007-03-18"
+        },
+        {
+          "endDate": "2007-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mr. Bean's Holiday"
+            }
+          ],
+          "startDate": "2007-04-01"
+        },
+        {
+          "endDate": "2007-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "300"
+            }
+          ],
+          "startDate": "2007-04-08"
+        },
+        {
+          "endDate": "2007-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mr. Bean's Holiday"
+            }
+          ],
+          "startDate": "2007-04-15"
+        },
+        {
+          "endDate": "2007-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wild Hogs"
+            }
+          ],
+          "startDate": "2007-04-22"
+        },
+        {
+          "endDate": "2007-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man 3"
+            }
+          ],
+          "startDate": "2007-05-06"
+        },
+        {
+          "endDate": "2007-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: At World's End"
+            }
+          ],
+          "startDate": "2007-05-27"
+        },
+        {
+          "endDate": "2007-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek the Third"
+            }
+          ],
+          "startDate": "2007-06-24"
+        },
+        {
+          "endDate": "2007-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Live Free or Die Hard"
+            }
+          ],
+          "startDate": "2007-07-01"
+        },
+        {
+          "endDate": "2007-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Order of the Phoenix"
+            }
+          ],
+          "startDate": "2007-07-15"
+        },
+        {
+          "endDate": "2007-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Simpsons Movie"
+            }
+          ],
+          "startDate": "2007-07-29"
+        },
+        {
+          "endDate": "2007-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers"
+            }
+          ],
+          "startDate": "2007-08-05"
+        },
+        {
+          "endDate": "2007-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Simpsons Movie"
+            }
+          ],
+          "startDate": "2007-08-12"
+        },
+        {
+          "endDate": "2007-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rush Hour 3"
+            }
+          ],
+          "startDate": "2007-08-19"
+        },
+        {
+          "endDate": "2007-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Knocked Up"
+            }
+          ],
+          "startDate": "2007-08-26"
+        },
+        {
+          "endDate": "2007-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bourne Ultimatum"
+            }
+          ],
+          "startDate": "2007-09-09"
+        },
+        {
+          "endDate": "2007-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Now Pronounce You Chuck & Larry"
+            }
+          ],
+          "startDate": "2007-09-30"
+        },
+        {
+          "endDate": "2007-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ratatouille"
+            }
+          ],
+          "startDate": "2007-10-07"
+        },
+        {
+          "endDate": "2007-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lissi und der wilde Kaiser"
+            }
+          ],
+          "startDate": "2007-10-28"
+        },
+        {
+          "endDate": "2007-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Gangster"
+            }
+          ],
+          "startDate": "2007-11-18"
+        },
+        {
+          "endDate": "2007-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Why Men Don't Listen and Women Can't Read Maps"
+            }
+          ],
+          "startDate": "2007-12-02"
+        },
+        {
+          "endDate": "2007-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Golden Compass"
+            }
+          ],
+          "startDate": "2007-12-09"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rabbit Without Ears"
+            }
+          ],
+          "startDate": "2007-12-23"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -9,7 +313,7 @@
             {
               "artist": "Nelly Furtado",
               "rank": 1,
-              "title": "All Good Things"
+              "title": "All Good Things (Come to an End)"
             }
           ],
           "startDate": "2007-01-01"
@@ -53,7 +357,7 @@
             {
               "artist": "DJ Ötzi featuring Nik P.",
               "rank": 1,
-              "title": "Ein Stern \"†"
+              "title": "Ein Stern (…der deinen Namen trägt)"
             }
           ],
           "startDate": "2007-03-02"
@@ -75,7 +379,7 @@
             {
               "artist": "DJ Ötzi featuring Nik P.",
               "rank": 1,
-              "title": "Ein Stern \"†"
+              "title": "Ein Stern (…der deinen Namen trägt)"
             }
           ],
           "startDate": "2007-05-11"
@@ -141,7 +445,7 @@
             {
               "artist": "Azad featuring Adel Tawil",
               "rank": 1,
-              "title": "Prison Break Anthem"
+              "title": "Prison Break Anthem (Ich Glaub an Dich)"
             }
           ],
           "startDate": "2007-08-17"
@@ -202,7 +506,7 @@
           "startDate": "2007-11-16"
         },
         {
-          "endDate": "2007-12-27",
+          "endDate": "2007-12-31",
           "items": [
             {
               "artist": "Timbaland featuring OneRepublic",
@@ -211,23 +515,12 @@
             }
           ],
           "startDate": "2007-11-23"
-        },
-        {
-          "endDate": "2007-12-31",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "2007-12-28"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -235,7 +528,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "f0ea165a27e3d381819d1ed851d60ac09618d6113e0bc167ae5bf1ecd23f4e25",
+  "contentHash": "1bcd89a9a910d1813941d3346d750f14edca2c5383ddd7d8204c3c5084895a31",
   "country": "de",
   "schemaVersion": 1,
   "year": 2007

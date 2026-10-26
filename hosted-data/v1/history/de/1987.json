@@ -4,17 +4,6 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1987-01-04",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1987-01-01"
-        },
-        {
           "endDate": "1987-01-18",
           "items": [
             {
@@ -23,7 +12,7 @@
               "title": "Walk Like an Egyptian"
             }
           ],
-          "startDate": "1987-01-05"
+          "startDate": "1987-01-01"
         },
         {
           "endDate": "1987-02-08",
@@ -119,7 +108,7 @@
             {
               "artist": "Desireless",
               "rank": 1,
-              "title": "Voyage Voyage\" †"
+              "title": "Voyage Voyage"
             }
           ],
           "startDate": "1987-08-31"
@@ -147,7 +136,7 @@
           "startDate": "1987-10-26"
         },
         {
-          "endDate": "1987-12-27",
+          "endDate": "1987-12-31",
           "items": [
             {
               "artist": "Rick Astley",
@@ -156,23 +145,12 @@
             }
           ],
           "startDate": "1987-12-07"
-        },
-        {
-          "endDate": "1987-12-31",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1987-12-28"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -180,7 +158,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "346fea73530b283eb5448490c18ef275ad5ebb1260da67be69152bcc8c4bfa0c",
+  "contentHash": "735a55571de7a03df4da7a784c2a29caf86a094a800b6af793eec475da94819b",
   "country": "de",
   "schemaVersion": 1,
   "year": 1987

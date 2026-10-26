@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2004",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788580416251",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788580416251-L.jpg?default=false",
+          "author": "Dan Brown",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788580416251",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788580416251-L.jpg?default=false",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Da Vinci Code",
+          "url": "https://books.google.com/books?vid=ISBN:9788580416251"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2004"
+      },
+      "title": "FR print bestseller",
+      "year": 2004
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2004",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782884713801",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782884713801-L.jpg?default=false",
+          "author": "Achdé et Laurent Gerra",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782884713801",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782884713801-L.jpg?default=false",
+          "creator": "Achdé et Laurent Gerra",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Lucky Luke : La Belle Province",
+          "url": "https://books.google.com/books?vid=ISBN:9782884713801"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2004"
+      },
+      "title": "FR children's bestseller",
+      "year": 2004
+    },
     "games": {
       "id": "media-awardWinner-2004",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2004
     }
   },
-  "contentHash": "6ea5262639f5fbb289a3ace565c5854bc0947578bee0635f0c75ced960c83de5",
+  "contentHash": "88c76d282d46d8f0c5191328b8cc974f48b3bd526d6f0e64a57797c196a79291",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2004

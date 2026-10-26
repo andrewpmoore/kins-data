@@ -1,0 +1,89 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2006",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782020847469",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782020847469-L.jpg?default=false",
+          "author": "Alain Mabanckou",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782020847469",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782020847469-L.jpg?default=false",
+          "creator": "Alain Mabanckou",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Mémoires de porc-épic",
+          "url": "https://books.google.com/books?vid=ISBN:9782020847469"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2006"
+      },
+      "title": "FR print bestseller",
+      "year": 2006
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2006",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782700232707",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782700232707-L.jpg?default=false",
+          "author": "Pierre Bottero",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782700232707",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782700232707-L.jpg?default=false",
+          "creator": "Pierre Bottero",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Le Pacte des Marchombres",
+          "url": "https://books.google.com/books?vid=ISBN:9782700232707"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2006"
+      },
+      "title": "FR children's bestseller",
+      "year": 2006
+    },
+    "games": {
+      "id": "media-awardWinner-2006",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2006&idGame=111",
+          "artworkURL": "https://www.interactive.org/images/games/2006_god_of_war_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2005,
+          "title": "God of War"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2006&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2006
+    }
+  },
+  "contentHash": "39aaa778741a551a3265f3f524e7a0e7545c59f7965d6b7d0e323ba851cb368d",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2006
+}

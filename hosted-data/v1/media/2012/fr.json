@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2012",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782754047159",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782754047159-L.jpg?default=false",
+          "author": "E.L. James",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782754047159",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782754047159-L.jpg?default=false",
+          "creator": "E.L. James",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Cinquante nuances de Grey",
+          "url": "https://books.google.com/books?vid=ISBN:9782754047159"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2012"
+      },
+      "title": "FR print bestseller",
+      "year": 2012
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2012",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781627656276",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781627656276-L.jpg?default=false",
+          "author": "Kiera Cass",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781627656276",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781627656276-L.jpg?default=false",
+          "creator": "Kiera Cass",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "La Sélection",
+          "url": "https://books.google.com/books?vid=ISBN:9781627656276"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2012"
+      },
+      "title": "FR children's bestseller",
+      "year": 2012
+    },
     "games": {
       "id": "media-awardWinner-2012",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2012
     }
   },
-  "contentHash": "c911f6f3326771b9097f3a6c009f4d3b85e8b60497f2cecc4b9936a4278ba6bc",
+  "contentHash": "6dd7749c252d4ab0416a5808be303edd7664561dfd647f87fc6db778f0fb907c",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2012

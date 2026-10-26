@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2025",
+      "items": [
+        {
+          "artworkProviderName": "Penguin",
+          "artworkSourceURL": "https://www.penguin.co.uk/books/453609/the-impossible-fortune-by-osman-richard/9781405975629",
+          "artworkURL": "https://cdn.penguin.co.uk/dam-assets/books/9781405975629/9781405975629-jacket-large.jpg",
+          "author": "Richard Osman",
+          "coverProviderName": "Penguin",
+          "coverSourceURL": "https://www.penguin.co.uk/books/453609/the-impossible-fortune-by-osman-richard/9781405975629",
+          "coverURL": "https://cdn.penguin.co.uk/dam-assets/books/9781405975629/9781405975629-jacket-large.jpg",
+          "creator": "Richard Osman",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "The Impossible Fortune",
+          "url": "https://books.google.com/books?vid=ISBN:9781405975629"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2026/bestsellers-and-trends-uk-and-ireland-2025/"
+      },
+      "title": "UK print bestseller",
+      "year": 2025
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2025",
+      "items": [
+        {
+          "artworkProviderName": "Scholastic",
+          "artworkSourceURL": "https://shop.scholastic.co.uk/products/The-Hunger-Games-Sunrise-on-the-Reaping-9780702340574",
+          "artworkURL": "https://d3ddkgxe55ca6c.cloudfront.net/assets/t1729082326/a/6f/8e/226960-ml-2260772.jpg",
+          "author": "Suzanne Collins",
+          "coverProviderName": "Scholastic",
+          "coverSourceURL": "https://shop.scholastic.co.uk/products/The-Hunger-Games-Sunrise-on-the-Reaping-9780702340574",
+          "coverURL": "https://d3ddkgxe55ca6c.cloudfront.net/assets/t1729082326/a/6f/8e/226960-ml-2260772.jpg",
+          "creator": "Suzanne Collins",
+          "rank": 1,
+          "scope": "UK children's & YA bestseller · calendar year",
+          "title": "Sunrise on the Reaping",
+          "url": "https://books.google.com/books?vid=ISBN:9780702340574"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's & YA bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.thebookseller.com/british-book-awards-content/childrens-publisher-of-the-year"
+      },
+      "title": "UK children's bestseller",
+      "year": 2025
+    },
     "games": {
       "id": "media-awardWinner-2025",
       "items": [
@@ -41,7 +99,7 @@
       "source": {
         "kind": "annualTelevisionAudience",
         "metric": "Annual rank 1 · consolidated audience",
-        "observedAt": "2026-10-12T00:00:00Z",
+        "observedAt": "2026-10-21T00:00:00Z",
         "provider": "BARB",
         "territory": "GB",
         "url": "https://www.barb.co.uk/tv-since-1981/2025/top10/"
@@ -50,7 +108,7 @@
       "year": 2025
     }
   },
-  "contentHash": "32841544992a25132be006e8878f9134781728072f16a5d098cbd9658bd84e1f",
+  "contentHash": "91c2a1cacaf4b25a1c2a10cd33eedb700c19e7b402a8fdac3cd09e8ebaca62f6",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2025

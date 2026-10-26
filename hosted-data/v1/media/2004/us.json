@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2004",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788580416251",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788580416251-L.jpg?default=false",
+          "author": "Dan Brown",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788580416251",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788580416251-L.jpg?default=false",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Da Vinci Code",
+          "url": "https://books.google.com/books?vid=ISBN:9788580416251"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2004-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2004
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2004",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780007157082",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780007157082-L.jpg?default=false",
+          "author": "Lemony Snicket",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780007157082",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780007157082-L.jpg?default=false",
+          "creator": "Lemony Snicket",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "The Bad Beginning",
+          "url": "https://books.google.com/books?vid=ISBN:9780007157082"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2004-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2004
+    },
     "games": {
       "id": "media-awardWinner-2004",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2004
     }
   },
-  "contentHash": "6ea5262639f5fbb289a3ace565c5854bc0947578bee0635f0c75ced960c83de5",
+  "contentHash": "19c080380eb729fbb3ff192ae573768f17d05f3b71a793ff14f3702c683f4192",
   "country": "us",
   "schemaVersion": 1,
   "year": 2004

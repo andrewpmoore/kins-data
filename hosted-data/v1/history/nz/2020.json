@@ -15,6 +15,17 @@
           "startDate": "2020-01-01"
         },
         {
+          "endDate": "2020-03-29",
+          "items": [
+            {
+              "artist": "L.A.B.",
+              "rank": 1,
+              "title": "In the Air"
+            }
+          ],
+          "startDate": "2020-03-09"
+        },
+        {
           "endDate": "2020-04-19",
           "items": [
             {
@@ -57,6 +68,28 @@
             }
           ],
           "startDate": "2020-05-04"
+        },
+        {
+          "endDate": "2020-08-23",
+          "items": [
+            {
+              "artist": "Jawsh 685 and Jason Derulo",
+              "rank": 1,
+              "title": "Savage Love"
+            }
+          ],
+          "startDate": "2020-06-29"
+        },
+        {
+          "endDate": "2020-12-31",
+          "items": [
+            {
+              "artist": "L.A.B.",
+              "rank": 1,
+              "title": "Why Oh Why"
+            }
+          ],
+          "startDate": "2020-12-14"
         }
       ],
       "source": {
@@ -70,7 +103,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "5d53d1fe6db50c4ffa4e02ce0efdbe34807db3a4e8a31fad0de9414c659d218d",
+  "contentHash": "f2f0f01c0572f3f756da18eb2e3a093fe10f7cebd4d08d6c863d223737d8aa9f",
   "country": "nz",
   "schemaVersion": 1,
   "year": 2020

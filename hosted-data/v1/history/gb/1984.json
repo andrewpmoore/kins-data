@@ -1,10 +1,294 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1984-01-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terms of Endearment"
+            }
+          ],
+          "startDate": "1984-01-08"
+        },
+        {
+          "endDate": "1984-02-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Silkwood"
+            }
+          ],
+          "startDate": "1984-01-29"
+        },
+        {
+          "endDate": "1984-02-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terms of Endearment"
+            }
+          ],
+          "startDate": "1984-02-05"
+        },
+        {
+          "endDate": "1984-02-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unfaithfully Yours"
+            }
+          ],
+          "startDate": "1984-02-12"
+        },
+        {
+          "endDate": "1984-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Footloose"
+            }
+          ],
+          "startDate": "1984-02-26"
+        },
+        {
+          "endDate": "1984-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Splash"
+            }
+          ],
+          "startDate": "1984-03-11"
+        },
+        {
+          "endDate": "1984-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Police Academy"
+            }
+          ],
+          "startDate": "1984-03-25"
+        },
+        {
+          "endDate": "1984-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Friday the 13th: The Final Chapter"
+            }
+          ],
+          "startDate": "1984-04-15"
+        },
+        {
+          "endDate": "1984-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Police Academy"
+            }
+          ],
+          "startDate": "1984-04-22"
+        },
+        {
+          "endDate": "1984-05-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Breakin'"
+            }
+          ],
+          "startDate": "1984-05-06"
+        },
+        {
+          "endDate": "1984-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Natural"
+            }
+          ],
+          "startDate": "1984-05-13"
+        },
+        {
+          "endDate": "1984-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Trek III: The Search for Spock"
+            }
+          ],
+          "startDate": "1984-06-03"
+        },
+        {
+          "endDate": "1984-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghostbusters"
+            }
+          ],
+          "startDate": "1984-06-10"
+        },
+        {
+          "endDate": "1984-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Purple Rain"
+            }
+          ],
+          "startDate": "1984-07-29"
+        },
+        {
+          "endDate": "1984-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghostbusters"
+            }
+          ],
+          "startDate": "1984-08-05"
+        },
+        {
+          "endDate": "1984-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Red Dawn"
+            }
+          ],
+          "startDate": "1984-08-12"
+        },
+        {
+          "endDate": "1984-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tightrope"
+            }
+          ],
+          "startDate": "1984-08-19"
+        },
+        {
+          "endDate": "1984-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tightrope"
+            }
+          ],
+          "startDate": "1984-09-09"
+        },
+        {
+          "endDate": "1984-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghostbusters"
+            }
+          ],
+          "startDate": "1984-09-16"
+        },
+        {
+          "endDate": "1984-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "All of Me"
+            }
+          ],
+          "startDate": "1984-09-23"
+        },
+        {
+          "endDate": "1984-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teachers"
+            }
+          ],
+          "startDate": "1984-10-14"
+        },
+        {
+          "endDate": "1984-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Terminator"
+            }
+          ],
+          "startDate": "1984-10-28"
+        },
+        {
+          "endDate": "1984-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Oh, God! You Devil"
+            }
+          ],
+          "startDate": "1984-11-11"
+        },
+        {
+          "endDate": "1984-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Missing in Action"
+            }
+          ],
+          "startDate": "1984-11-18"
+        },
+        {
+          "endDate": "1984-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Supergirl"
+            }
+          ],
+          "startDate": "1984-11-25"
+        },
+        {
+          "endDate": "1984-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Missing in Action"
+            }
+          ],
+          "startDate": "1984-12-02"
+        },
+        {
+          "endDate": "1984-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beverly Hills Cop"
+            }
+          ],
+          "startDate": "1984-12-09"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1984-01-07",
+          "endDate": "1984-01-06",
           "items": [
             {
               "artist": "Frankie Goes to Hollywood",
@@ -15,7 +299,95 @@
           "startDate": "1984-01-01"
         },
         {
-          "endDate": "1984-07-29",
+          "endDate": "1984-01-13",
+          "items": [
+            {
+              "artist": "The Flying Pickets",
+              "rank": 1,
+              "title": "Only You"
+            }
+          ],
+          "startDate": "1984-01-07"
+        },
+        {
+          "endDate": "1984-01-27",
+          "items": [
+            {
+              "artist": "Paul McCartney",
+              "rank": 1,
+              "title": "Pipes of Peace"
+            }
+          ],
+          "startDate": "1984-01-14"
+        },
+        {
+          "endDate": "1984-03-02",
+          "items": [
+            {
+              "artist": "Frankie Goes to Hollywood",
+              "rank": 1,
+              "title": "Relax"
+            }
+          ],
+          "startDate": "1984-01-28"
+        },
+        {
+          "endDate": "1984-03-23",
+          "items": [
+            {
+              "artist": "Nena",
+              "rank": 1,
+              "title": "99 Red Balloons"
+            }
+          ],
+          "startDate": "1984-03-03"
+        },
+        {
+          "endDate": "1984-05-04",
+          "items": [
+            {
+              "artist": "Lionel Richie",
+              "rank": 1,
+              "title": "Hello"
+            }
+          ],
+          "startDate": "1984-03-24"
+        },
+        {
+          "endDate": "1984-06-01",
+          "items": [
+            {
+              "artist": "Duran Duran",
+              "rank": 1,
+              "title": "The Reflex"
+            }
+          ],
+          "startDate": "1984-05-05"
+        },
+        {
+          "endDate": "1984-06-15",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Wake Me Up Before You Go-Go"
+            }
+          ],
+          "startDate": "1984-06-02"
+        },
+        {
+          "endDate": "1984-07-22",
+          "items": [
+            {
+              "artist": "Frankie Goes to Hollywood",
+              "rank": 1,
+              "title": "Two Tribes"
+            }
+          ],
+          "startDate": "1984-06-16"
+        },
+        {
+          "endDate": "1984-07-27",
           "items": [
             {
               "artist": "George Michael",
@@ -26,7 +398,73 @@
           "startDate": "1984-07-23"
         },
         {
-          "endDate": "1984-12-02",
+          "endDate": "1984-08-16",
+          "items": [
+            {
+              "artist": "Frankie Goes to Hollywood",
+              "rank": 1,
+              "title": "Two Tribes"
+            }
+          ],
+          "startDate": "1984-07-28"
+        },
+        {
+          "endDate": "1984-08-17",
+          "items": [
+            {
+              "artist": "Ray Parker, Jr.",
+              "rank": 1,
+              "title": "Ghostbusters"
+            }
+          ],
+          "startDate": "1984-08-17"
+        },
+        {
+          "endDate": "1984-09-07",
+          "items": [
+            {
+              "artist": "George Michael",
+              "rank": 1,
+              "title": "Careless Whisper"
+            }
+          ],
+          "startDate": "1984-08-18"
+        },
+        {
+          "endDate": "1984-10-19",
+          "items": [
+            {
+              "artist": "Stevie Wonder",
+              "rank": 1,
+              "title": "I Just Called to Say I Love You"
+            }
+          ],
+          "startDate": "1984-09-08"
+        },
+        {
+          "endDate": "1984-11-09",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Freedom"
+            }
+          ],
+          "startDate": "1984-10-20"
+        },
+        {
+          "endDate": "1984-11-27",
+          "items": [
+            {
+              "artist": "Chaka Khan",
+              "rank": 1,
+              "title": "I Feel for You"
+            }
+          ],
+          "startDate": "1984-11-10"
+        },
+        {
+          "endDate": "1984-11-30",
           "items": [
             {
               "artist": "Band Aid",
@@ -37,21 +475,54 @@
           "startDate": "1984-11-28"
         },
         {
-          "endDate": "1984-12-09",
+          "endDate": "1984-12-02",
+          "items": [
+            {
+              "artist": "Jim Diamond",
+              "rank": 1,
+              "title": "I Should Have Known Better"
+            }
+          ],
+          "startDate": "1984-12-01"
+        },
+        {
+          "endDate": "1984-12-07",
           "items": [
             {
               "artist": "Wham!",
               "rank": 1,
-              "title": "Last Christmas\" / \"Everything She Wants"
+              "title": "Last Christmas / Everything She Wants"
             }
           ],
           "startDate": "1984-12-03"
+        },
+        {
+          "endDate": "1984-12-14",
+          "items": [
+            {
+              "artist": "Frankie Goes to Hollywood",
+              "rank": 1,
+              "title": "The Power of Love"
+            }
+          ],
+          "startDate": "1984-12-08"
+        },
+        {
+          "endDate": "1984-12-31",
+          "items": [
+            {
+              "artist": "Band Aid",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "1984-12-15"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -59,7 +530,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "8ba38d401753e6ae85f76376c10cf1096d37123e24bcf33b49bac3a032f2162a",
+  "contentHash": "bffa0a388bc60a9ba6a613b5b92007078cddf6f771e8e5a64e3cee7a28dd37b3",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1984

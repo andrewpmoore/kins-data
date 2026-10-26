@@ -1,0 +1,553 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2000-01-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vacanze di Natale 2000"
+            }
+          ],
+          "startDate": "2000-01-01"
+        },
+        {
+          "endDate": "2000-01-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Beauty"
+            }
+          ],
+          "startDate": "2000-01-16"
+        },
+        {
+          "endDate": "2000-02-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sixth Sense"
+            }
+          ],
+          "startDate": "2000-01-30"
+        },
+        {
+          "endDate": "2000-03-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Toy Story 2"
+            }
+          ],
+          "startDate": "2000-02-13"
+        },
+        {
+          "endDate": "2000-03-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bone Collector"
+            }
+          ],
+          "startDate": "2000-03-05"
+        },
+        {
+          "endDate": "2000-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Green Mile"
+            }
+          ],
+          "startDate": "2000-03-12"
+        },
+        {
+          "endDate": "2000-04-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stuart Little"
+            }
+          ],
+          "startDate": "2000-04-02"
+        },
+        {
+          "endDate": "2000-04-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Erin Brockovich"
+            }
+          ],
+          "startDate": "2000-04-09"
+        },
+        {
+          "endDate": "2000-05-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pokémon: The First Movie"
+            }
+          ],
+          "startDate": "2000-04-23"
+        },
+        {
+          "endDate": "2000-06-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gladiator"
+            }
+          ],
+          "startDate": "2000-05-14"
+        },
+        {
+          "endDate": "2000-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scream 3"
+            }
+          ],
+          "startDate": "2000-06-18"
+        },
+        {
+          "endDate": "2000-08-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible 2"
+            }
+          ],
+          "startDate": "2000-07-02"
+        },
+        {
+          "endDate": "2000-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Perfect Storm"
+            }
+          ],
+          "startDate": "2000-08-27"
+        },
+        {
+          "endDate": "2000-09-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scary Movie"
+            }
+          ],
+          "startDate": "2000-09-17"
+        },
+        {
+          "endDate": "2000-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hollow Man"
+            }
+          ],
+          "startDate": "2000-09-24"
+        },
+        {
+          "endDate": "2000-10-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X-Men"
+            }
+          ],
+          "startDate": "2000-10-08"
+        },
+        {
+          "endDate": "2000-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Billy Elliot"
+            }
+          ],
+          "startDate": "2000-10-22"
+        },
+        {
+          "endDate": "2000-11-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Malèna"
+            }
+          ],
+          "startDate": "2000-10-29"
+        },
+        {
+          "endDate": "2000-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scary Movie"
+            }
+          ],
+          "startDate": "2000-11-05"
+        },
+        {
+          "endDate": "2000-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dinosaur"
+            }
+          ],
+          "startDate": "2000-11-19"
+        },
+        {
+          "endDate": "2000-12-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What Lies Beneath"
+            }
+          ],
+          "startDate": "2000-11-26"
+        },
+        {
+          "endDate": "2000-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ask Me If I'm Happy"
+            }
+          ],
+          "startDate": "2000-12-10"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2000-01-12",
+          "items": [
+            {
+              "artist": "Vasco Rossi",
+              "rank": 1,
+              "title": "La fine del millennio"
+            }
+          ],
+          "startDate": "2000-01-01"
+        },
+        {
+          "endDate": "2000-01-19",
+          "items": [
+            {
+              "artist": "Ronan Keating",
+              "rank": 1,
+              "title": "When You Say Nothing at All"
+            }
+          ],
+          "startDate": "2000-01-13"
+        },
+        {
+          "endDate": "2000-01-26",
+          "items": [
+            {
+              "artist": "Eiffel 65",
+              "rank": 1,
+              "title": "Move Your Body"
+            }
+          ],
+          "startDate": "2000-01-20"
+        },
+        {
+          "endDate": "2000-01-27",
+          "items": [
+            {
+              "artist": "Lene Marlin",
+              "rank": 1,
+              "title": "Where I'm Headed"
+            }
+          ],
+          "startDate": "2000-01-27"
+        },
+        {
+          "endDate": "2000-02-03",
+          "items": [
+            {
+              "artist": "Aqua",
+              "rank": 1,
+              "title": "Cartoon Heroes"
+            }
+          ],
+          "startDate": "2000-01-28"
+        },
+        {
+          "endDate": "2000-02-17",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "Go Let It Out"
+            }
+          ],
+          "startDate": "2000-02-04"
+        },
+        {
+          "endDate": "2000-02-24",
+          "items": [
+            {
+              "artist": "All Saints",
+              "rank": 1,
+              "title": "Pure Shores"
+            }
+          ],
+          "startDate": "2000-02-18"
+        },
+        {
+          "endDate": "2000-03-23",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "American Pie"
+            }
+          ],
+          "startDate": "2000-02-25"
+        },
+        {
+          "endDate": "2000-04-06",
+          "items": [
+            {
+              "artist": "Renato Zero",
+              "rank": 1,
+              "title": "Tutti gli zeri del mondo"
+            }
+          ],
+          "startDate": "2000-03-24"
+        },
+        {
+          "endDate": "2000-04-20",
+          "items": [
+            {
+              "artist": "Piero Pelù",
+              "rank": 1,
+              "title": "Io ci sarò"
+            }
+          ],
+          "startDate": "2000-04-07"
+        },
+        {
+          "endDate": "2000-04-27",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "American Pie"
+            }
+          ],
+          "startDate": "2000-04-21"
+        },
+        {
+          "endDate": "2000-05-04",
+          "items": [
+            {
+              "artist": "Bloodhound Gang",
+              "rank": 1,
+              "title": "The Bad Touch"
+            }
+          ],
+          "startDate": "2000-04-28"
+        },
+        {
+          "endDate": "2000-05-11",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "Oops!... I Did It Again"
+            }
+          ],
+          "startDate": "2000-05-05"
+        },
+        {
+          "endDate": "2000-06-08",
+          "items": [
+            {
+              "artist": "Bon Jovi",
+              "rank": 1,
+              "title": "It's My Life"
+            }
+          ],
+          "startDate": "2000-05-12"
+        },
+        {
+          "endDate": "2000-06-15",
+          "items": [
+            {
+              "artist": "Paola & Chiara",
+              "rank": 1,
+              "title": "Vamos a bailar (Esta vida nueva)"
+            }
+          ],
+          "startDate": "2000-06-09"
+        },
+        {
+          "endDate": "2000-06-29",
+          "items": [
+            {
+              "artist": "Bon Jovi",
+              "rank": 1,
+              "title": "It's My Life"
+            }
+          ],
+          "startDate": "2000-06-16"
+        },
+        {
+          "endDate": "2000-07-20",
+          "items": [
+            {
+              "artist": "Paola & Chiara",
+              "rank": 1,
+              "title": "Vamos a bailar (Esta vida nueva)"
+            }
+          ],
+          "startDate": "2000-06-30"
+        },
+        {
+          "endDate": "2000-08-17",
+          "items": [
+            {
+              "artist": "Bomfunk MC's",
+              "rank": 1,
+              "title": "Freestyler"
+            }
+          ],
+          "startDate": "2000-07-21"
+        },
+        {
+          "endDate": "2000-09-28",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Music"
+            }
+          ],
+          "startDate": "2000-08-18"
+        },
+        {
+          "endDate": "2000-10-05",
+          "items": [
+            {
+              "artist": "Eros Ramazzotti",
+              "rank": 1,
+              "title": "Fuoco nel fuoco"
+            }
+          ],
+          "startDate": "2000-09-29"
+        },
+        {
+          "endDate": "2000-10-26",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Beautiful Day"
+            }
+          ],
+          "startDate": "2000-10-06"
+        },
+        {
+          "endDate": "2000-11-02",
+          "items": [
+            {
+              "artist": "Ricky Martin",
+              "rank": 1,
+              "title": "She Bangs"
+            }
+          ],
+          "startDate": "2000-10-27"
+        },
+        {
+          "endDate": "2000-11-09",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Beautiful Day"
+            }
+          ],
+          "startDate": "2000-11-03"
+        },
+        {
+          "endDate": "2000-11-16",
+          "items": [
+            {
+              "artist": "Backstreet Boys",
+              "rank": 1,
+              "title": "Shape of My Heart"
+            }
+          ],
+          "startDate": "2000-11-10"
+        },
+        {
+          "endDate": "2000-12-07",
+          "items": [
+            {
+              "artist": "Lenny Kravitz",
+              "rank": 1,
+              "title": "Again"
+            }
+          ],
+          "startDate": "2000-11-17"
+        },
+        {
+          "endDate": "2000-12-14",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Don't Tell Me"
+            }
+          ],
+          "startDate": "2000-12-08"
+        },
+        {
+          "endDate": "2000-12-31",
+          "items": [
+            {
+              "artist": "Shivaree",
+              "rank": 1,
+              "title": "Goodnight Moon"
+            }
+          ],
+          "startDate": "2000-12-15"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-15",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "af1b52fcac3506b962167defcbbee8fc51797394be86037ee39b754c0ac5c5bd",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2000
+}

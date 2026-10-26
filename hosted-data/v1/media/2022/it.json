@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2022",
+      "items": [
+        {
+          "author": "Erin Doom",
+          "creator": "Erin Doom",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Il fabbricante di lacrime",
+          "url": "https://books.google.com/books?q=Il+fabbricante+di+lacrime"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2022.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2022
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2022",
+      "items": [
+        {
+          "author": "Erin Doom",
+          "creator": "Erin Doom",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Il fabbricante di lacrime",
+          "url": "https://books.google.com/books?q=Il+fabbricante+di+lacrime"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2022.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2022
+    },
     "games": {
       "id": "media-awardWinner-2022",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2022
     }
   },
-  "contentHash": "2a15c28c9a3e42c228238104bfa1b7f7b178552a06ca5983aaab424f09c987ce",
+  "contentHash": "084f760730a94092b044c6880e54ccb5c4798c77c551b925421605a6a4b25f1e",
   "country": "it",
   "schemaVersion": 1,
   "year": 2022

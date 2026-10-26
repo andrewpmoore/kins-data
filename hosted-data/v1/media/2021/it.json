@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2021",
+      "items": [
+        {
+          "author": "Stefania Auci",
+          "creator": "Stefania Auci",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "L'inverno dei leoni",
+          "url": "https://books.google.com/books?q=L'inverno+dei+leoni"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2021.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2021
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2021",
+      "items": [
+        {
+          "author": "Lyon Image",
+          "creator": "Lyon Image",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Le storie di paura",
+          "url": "https://books.google.com/books?q=Le+storie+di+paura"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2021.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2021
+    },
     "games": {
       "id": "media-awardWinner-2021",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2021
     }
   },
-  "contentHash": "496617ac6922b6d494103cfe96f8d173ce79a460811128b89512a151f689f0da",
+  "contentHash": "83105b7b9633fcf66f559c35f4d4efe201c0166370efecb489f1f1c8401e451f",
   "country": "it",
   "schemaVersion": 1,
   "year": 2021

@@ -4,7 +4,7 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1993-01-01",
+          "endDate": "1993-02-26",
           "items": [
             {
               "artist": "Whitney Houston",
@@ -13,17 +13,6 @@
             }
           ],
           "startDate": "1993-01-01"
-        },
-        {
-          "endDate": "1993-02-26",
-          "items": [
-            {
-              "artist": "Whitney Houston",
-              "rank": 1,
-              "title": "I Will Always Love You\"†"
-            }
-          ],
-          "startDate": "1993-01-02"
         },
         {
           "endDate": "1993-03-05",
@@ -213,7 +202,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "bd9e10becb7be63e517471ef78f3b0ede41b948675907cb4b94dcddf9b3de50d",
+  "contentHash": "68c96b26a07490d220d67d379afacd760d069f78effb5992793c929370cafc4f",
   "country": "ca",
   "schemaVersion": 1,
   "year": 1993

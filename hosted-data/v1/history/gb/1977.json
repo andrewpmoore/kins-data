@@ -1,10 +1,205 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1977-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "King Kong"
+            }
+          ],
+          "startDate": "1977-01-01"
+        },
+        {
+          "endDate": "1977-03-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rocky"
+            }
+          ],
+          "startDate": "1977-01-26"
+        },
+        {
+          "endDate": "1977-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Airport '77"
+            }
+          ],
+          "startDate": "1977-03-30"
+        },
+        {
+          "endDate": "1977-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rocky"
+            }
+          ],
+          "startDate": "1977-04-06"
+        },
+        {
+          "endDate": "1977-05-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It's Alive"
+            }
+          ],
+          "startDate": "1977-05-04"
+        },
+        {
+          "endDate": "1977-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Annie Hall"
+            }
+          ],
+          "startDate": "1977-05-11"
+        },
+        {
+          "endDate": "1977-05-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Greatest"
+            }
+          ],
+          "startDate": "1977-05-25"
+        },
+        {
+          "endDate": "1977-06-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars"
+            }
+          ],
+          "startDate": "1977-06-01"
+        },
+        {
+          "endDate": "1977-07-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Deep"
+            }
+          ],
+          "startDate": "1977-06-22"
+        },
+        {
+          "endDate": "1977-10-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars"
+            }
+          ],
+          "startDate": "1977-07-13"
+        },
+        {
+          "endDate": "1977-11-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Looking For Mr Goodbar"
+            }
+          ],
+          "startDate": "1977-10-26"
+        },
+        {
+          "endDate": "1977-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Oh, God!"
+            }
+          ],
+          "startDate": "1977-11-02"
+        },
+        {
+          "endDate": "1977-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Looking For Mr Goodbar"
+            }
+          ],
+          "startDate": "1977-11-09"
+        },
+        {
+          "endDate": "1977-12-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars"
+            }
+          ],
+          "startDate": "1977-11-30"
+        },
+        {
+          "endDate": "1977-12-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Oh, God!"
+            }
+          ],
+          "startDate": "1977-12-07"
+        },
+        {
+          "endDate": "1977-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars"
+            }
+          ],
+          "startDate": "1977-12-14"
+        },
+        {
+          "endDate": "1977-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Close Encounters of the Third Kind"
+            }
+          ],
+          "startDate": "1977-12-21"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1977-01-11",
+          "endDate": "1977-01-04",
+          "items": [
+            {
+              "artist": "Johnny Mathis",
+              "rank": 1,
+              "title": "When a Child Is Born (Soleado)"
+            }
+          ],
+          "startDate": "1977-01-01"
+        },
+        {
+          "endDate": "1977-01-07",
           "items": [
             {
               "artist": "Johnny Mathis",
@@ -12,7 +207,18 @@
               "title": "When a Child Is Born"
             }
           ],
-          "startDate": "1977-01-01"
+          "startDate": "1977-01-05"
+        },
+        {
+          "endDate": "1977-01-11",
+          "items": [
+            {
+              "artist": "Johnny Mathis",
+              "rank": 1,
+              "title": "When a Child Is Born (Soleado)"
+            }
+          ],
+          "startDate": "1977-01-08"
         },
         {
           "endDate": "1977-01-25",
@@ -26,7 +232,7 @@
           "startDate": "1977-01-12"
         },
         {
-          "endDate": "1977-02-01",
+          "endDate": "1977-01-28",
           "items": [
             {
               "artist": "Julie Covington",
@@ -45,10 +251,10 @@
               "title": "Don't Give Up on Us"
             }
           ],
-          "startDate": "1977-02-02"
+          "startDate": "1977-01-29"
         },
         {
-          "endDate": "1977-02-22",
+          "endDate": "1977-02-18",
           "items": [
             {
               "artist": "Julie Covington",
@@ -67,7 +273,7 @@
               "title": "When I Need You"
             }
           ],
-          "startDate": "1977-02-23"
+          "startDate": "1977-02-19"
         },
         {
           "endDate": "1977-03-22",
@@ -81,7 +287,7 @@
           "startDate": "1977-03-09"
         },
         {
-          "endDate": "1977-05-03",
+          "endDate": "1977-03-25",
           "items": [
             {
               "artist": "ABBA",
@@ -92,7 +298,29 @@
           "startDate": "1977-03-23"
         },
         {
-          "endDate": "1977-05-24",
+          "endDate": "1977-03-29",
+          "items": [
+            {
+              "artist": "The Manhattan Transfer",
+              "rank": 1,
+              "title": "Chanson D'Amour"
+            }
+          ],
+          "startDate": "1977-03-26"
+        },
+        {
+          "endDate": "1977-05-03",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Knowing Me, Knowing You"
+            }
+          ],
+          "startDate": "1977-03-30"
+        },
+        {
+          "endDate": "1977-05-20",
           "items": [
             {
               "artist": "Deniece Williams",
@@ -108,24 +336,35 @@
             {
               "artist": "Rod Stewart",
               "rank": 1,
-              "title": "I Don't Want to Talk About It\" / \"The First Cut Is the Deepest"
+              "title": "I Don't Want to Talk About It / The First Cut Is the Deepest"
             }
           ],
-          "startDate": "1977-05-25"
+          "startDate": "1977-05-21"
         },
         {
-          "endDate": "1977-06-21",
+          "endDate": "1977-06-17",
           "items": [
             {
               "artist": "Sex Pistols",
               "rank": 1,
-              "title": "God Save the Queen\" ‡"
+              "title": "God Save the Queen"
             }
           ],
           "startDate": "1977-06-15"
         },
         {
-          "endDate": "1977-07-05",
+          "endDate": "1977-06-21",
+          "items": [
+            {
+              "artist": "Kenny Rogers",
+              "rank": 1,
+              "title": "Lucille"
+            }
+          ],
+          "startDate": "1977-06-18"
+        },
+        {
+          "endDate": "1977-07-01",
           "items": [
             {
               "artist": "The Jacksons",
@@ -144,21 +383,32 @@
               "title": "So You Win Again"
             }
           ],
-          "startDate": "1977-07-06"
+          "startDate": "1977-07-02"
         },
         {
-          "endDate": "1977-07-19",
+          "endDate": "1977-07-15",
           "items": [
             {
               "artist": "Boney M.",
               "rank": 1,
-              "title": "Ma Baker\" ‡"
+              "title": "Ma Baker"
             }
           ],
           "startDate": "1977-07-13"
         },
         {
-          "endDate": "1977-08-23",
+          "endDate": "1977-07-19",
+          "items": [
+            {
+              "artist": "Hot Chocolate",
+              "rank": 1,
+              "title": "So You Win Again"
+            }
+          ],
+          "startDate": "1977-07-16"
+        },
+        {
+          "endDate": "1977-08-19",
           "items": [
             {
               "artist": "Donna Summer",
@@ -169,7 +419,7 @@
           "startDate": "1977-07-20"
         },
         {
-          "endDate": "1977-08-30",
+          "endDate": "1977-08-26",
           "items": [
             {
               "artist": "Brotherhood of Man",
@@ -177,7 +427,18 @@
               "title": "Angelo"
             }
           ],
-          "startDate": "1977-08-24"
+          "startDate": "1977-08-20"
+        },
+        {
+          "endDate": "1977-08-30",
+          "items": [
+            {
+              "artist": "The Floaters",
+              "rank": 1,
+              "title": "Float On"
+            }
+          ],
+          "startDate": "1977-08-27"
         },
         {
           "endDate": "1977-09-06",
@@ -191,18 +452,18 @@
           "startDate": "1977-08-31"
         },
         {
-          "endDate": "1977-09-27",
+          "endDate": "1977-09-09",
           "items": [
             {
               "artist": "Space",
               "rank": 1,
-              "title": "Magic Fly\" ‡"
+              "title": "Magic Fly"
             }
           ],
           "startDate": "1977-09-07"
         },
         {
-          "endDate": "1977-10-11",
+          "endDate": "1977-09-13",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -210,7 +471,51 @@
               "title": "Way Down"
             }
           ],
-          "startDate": "1977-09-28"
+          "startDate": "1977-09-10"
+        },
+        {
+          "endDate": "1977-09-16",
+          "items": [
+            {
+              "artist": "Space",
+              "rank": 1,
+              "title": "Magic Fly"
+            }
+          ],
+          "startDate": "1977-09-14"
+        },
+        {
+          "endDate": "1977-09-20",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Way Down"
+            }
+          ],
+          "startDate": "1977-09-17"
+        },
+        {
+          "endDate": "1977-09-23",
+          "items": [
+            {
+              "artist": "Space",
+              "rank": 1,
+              "title": "Magic Fly"
+            }
+          ],
+          "startDate": "1977-09-21"
+        },
+        {
+          "endDate": "1977-10-07",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Way Down"
+            }
+          ],
+          "startDate": "1977-09-24"
         },
         {
           "endDate": "1977-10-18",
@@ -221,10 +526,10 @@
               "title": "Silver Lady"
             }
           ],
-          "startDate": "1977-10-12"
+          "startDate": "1977-10-08"
         },
         {
-          "endDate": "1977-10-25",
+          "endDate": "1977-10-21",
           "items": [
             {
               "artist": "Baccara",
@@ -235,18 +540,29 @@
           "startDate": "1977-10-19"
         },
         {
-          "endDate": "1977-11-01",
+          "endDate": "1977-10-25",
+          "items": [
+            {
+              "artist": "David Soul",
+              "rank": 1,
+              "title": "Silver Lady"
+            }
+          ],
+          "startDate": "1977-10-22"
+        },
+        {
+          "endDate": "1977-10-28",
           "items": [
             {
               "artist": "Rod Stewart",
               "rank": 1,
-              "title": "You're in My Heart\" ‡"
+              "title": "You're in My Heart"
             }
           ],
           "startDate": "1977-10-26"
         },
         {
-          "endDate": "1977-11-08",
+          "endDate": "1977-11-04",
           "items": [
             {
               "artist": "Baccara",
@@ -254,7 +570,7 @@
               "title": "Yes Sir, I Can Boogie"
             }
           ],
-          "startDate": "1977-11-02"
+          "startDate": "1977-10-29"
         },
         {
           "endDate": "1977-11-10",
@@ -265,10 +581,10 @@
               "title": "The Name of the Game"
             }
           ],
-          "startDate": "1977-11-09"
+          "startDate": "1977-11-05"
         },
         {
-          "endDate": "1977-11-15",
+          "endDate": "1977-11-11",
           "items": [
             {
               "artist": "Wings",
@@ -287,21 +603,32 @@
               "title": "The Name of the Game"
             }
           ],
-          "startDate": "1977-11-16"
+          "startDate": "1977-11-12"
         },
         {
-          "endDate": "1977-11-29",
+          "endDate": "1977-11-25",
           "items": [
             {
               "artist": "Status Quo",
               "rank": 1,
-              "title": "Rockin' All Over the World\" ‡"
+              "title": "Rockin' All Over the World"
             }
           ],
           "startDate": "1977-11-23"
         },
         {
-          "endDate": "1977-12-31",
+          "endDate": "1977-11-29",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "The Name of the Game"
+            }
+          ],
+          "startDate": "1977-11-26"
+        },
+        {
+          "endDate": "1977-12-02",
           "items": [
             {
               "artist": "Wings",
@@ -310,12 +637,111 @@
             }
           ],
           "startDate": "1977-11-30"
+        },
+        {
+          "endDate": "1977-12-06",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1977-12-03"
+        },
+        {
+          "endDate": "1977-12-09",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre"
+            }
+          ],
+          "startDate": "1977-12-07"
+        },
+        {
+          "endDate": "1977-12-13",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1977-12-10"
+        },
+        {
+          "endDate": "1977-12-16",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre"
+            }
+          ],
+          "startDate": "1977-12-14"
+        },
+        {
+          "endDate": "1977-12-20",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1977-12-17"
+        },
+        {
+          "endDate": "1977-12-23",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre"
+            }
+          ],
+          "startDate": "1977-12-21"
+        },
+        {
+          "endDate": "1977-12-27",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1977-12-24"
+        },
+        {
+          "endDate": "1977-12-30",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre"
+            }
+          ],
+          "startDate": "1977-12-28"
+        },
+        {
+          "endDate": "1977-12-31",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1977-12-31"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -323,7 +749,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "78c2b9ec34770ef5e46e43bbc51eec1c46009914a6e5d0b6c3bc2104939655e5",
+  "contentHash": "f1da06f9aef7f39ff40d5975abb2df5d1b5408cabfa2dd1908fa2ec07d98d2f7",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1977

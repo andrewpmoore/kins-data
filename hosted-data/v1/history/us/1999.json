@@ -1,5 +1,29 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1999-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stuart Little"
+            }
+          ],
+          "startDate": "1999-12-26"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -53,7 +77,7 @@
             {
               "artist": "Cher",
               "rank": 1,
-              "title": "Believe\"♪"
+              "title": "Believe"
             }
           ],
           "startDate": "1999-03-13"
@@ -172,7 +196,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -180,7 +204,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "9b7500764c801c716f7b4e9618e5dccd215eeaf00143b90b668079be55bc3492",
+  "contentHash": "6819bf7ca2ea2bc22c34c7f365017cfa1ff395b22107acdefd9c3ea130151a8e",
   "country": "us",
   "schemaVersion": 1,
   "year": 1999

@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2011",
+      "items": [
+        {
+          "author": "Jonas Jonasson",
+          "creator": "Jonas Jonasson",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Der Hundertjährige, der aus dem Fenster stieg und verschwand",
+          "url": "https://books.google.com/books?q=Der+Hundertjährige,+der+aus+dem+Fenster+stieg+und+verschwand"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2011/"
+      },
+      "title": "DE print bestseller",
+      "year": 2011
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2011",
+      "items": [
+        {
+          "author": "Wolfgang Herrndorf",
+          "creator": "Wolfgang Herrndorf",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Tschick",
+          "url": "https://books.google.com/books?q=Tschick"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2011/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2011
+    },
     "games": {
       "id": "media-awardWinner-2011",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2011
     }
   },
-  "contentHash": "82a29fef93b9c9723e5c9b827143df174401517f7c311f2a3374fababd840d7f",
+  "contentHash": "1232c59ce962074773372d44b1f406c7f1dc0e3d556aa4e9c70db57376e9b9fe",
   "country": "de",
   "schemaVersion": 1,
   "year": 2011

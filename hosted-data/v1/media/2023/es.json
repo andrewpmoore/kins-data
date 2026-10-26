@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2023",
+      "items": [
+        {
+          "author": "Sonsoles Ónega",
+          "creator": "Sonsoles Ónega",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Las hijas de la criada",
+          "url": "https://books.google.com/books?q=Las+hijas+de+la+criada"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2023.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2023
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2023",
+      "items": [
+        {
+          "author": "Eloy Moreno",
+          "creator": "Eloy Moreno",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Invisible",
+          "url": "https://books.google.com/books?q=Invisible"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2023.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2023
+    },
     "games": {
       "id": "media-awardWinner-2023",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
           "rank": 1,
           "releaseYear": 2023,
-          "title": "Baldur's Gate 3"
+          "title": "Baldur's Gate 3",
+          "trailerURL": "https://www.youtube.com/watch?v=XuCfkgaaa08"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2023
     }
   },
-  "contentHash": "34928db673872a8f11b929f512488f621caf1e07907b38cd144ba7c3b598fea0",
+  "contentHash": "1ff8b35142d94fb13a537b09c19f24029cf94945497f30ccde0a250d89ce94ae",
   "country": "es",
   "schemaVersion": 1,
   "year": 2023

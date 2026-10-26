@@ -1,10 +1,254 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1958-02-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sayonara"
+            }
+          ],
+          "startDate": "1958-01-01"
+        },
+        {
+          "endDate": "1958-02-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Peyton Place"
+            }
+          ],
+          "startDate": "1958-02-05"
+        },
+        {
+          "endDate": "1958-02-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Farewell to Arms"
+            }
+          ],
+          "startDate": "1958-02-12"
+        },
+        {
+          "endDate": "1958-03-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Witness for the Prosecution"
+            }
+          ],
+          "startDate": "1958-02-26"
+        },
+        {
+          "endDate": "1958-03-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Brothers Karamazov"
+            }
+          ],
+          "startDate": "1958-03-12"
+        },
+        {
+          "endDate": "1958-04-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridge on the River Kwai"
+            }
+          ],
+          "startDate": "1958-03-19"
+        },
+        {
+          "endDate": "1958-04-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Young Lions"
+            }
+          ],
+          "startDate": "1958-04-23"
+        },
+        {
+          "endDate": "1958-05-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridge on the River Kwai"
+            }
+          ],
+          "startDate": "1958-04-30"
+        },
+        {
+          "endDate": "1958-06-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "South Pacific"
+            }
+          ],
+          "startDate": "1958-05-14"
+        },
+        {
+          "endDate": "1958-06-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "God's Little Acre"
+            }
+          ],
+          "startDate": "1958-06-04"
+        },
+        {
+          "endDate": "1958-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "South Pacific"
+            }
+          ],
+          "startDate": "1958-06-11"
+        },
+        {
+          "endDate": "1958-07-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Vikings"
+            }
+          ],
+          "startDate": "1958-07-02"
+        },
+        {
+          "endDate": "1958-08-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indiscreet"
+            }
+          ],
+          "startDate": "1958-07-23"
+        },
+        {
+          "endDate": "1958-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "South Pacific"
+            }
+          ],
+          "startDate": "1958-08-20"
+        },
+        {
+          "endDate": "1958-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cat on a Hot Tin Roof"
+            }
+          ],
+          "startDate": "1958-09-03"
+        },
+        {
+          "endDate": "1958-10-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Damn Yankees"
+            }
+          ],
+          "startDate": "1958-10-08"
+        },
+        {
+          "endDate": "1958-11-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cat on a Hot Tin Roof"
+            }
+          ],
+          "startDate": "1958-10-15"
+        },
+        {
+          "endDate": "1958-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "In Love and War"
+            }
+          ],
+          "startDate": "1958-11-12"
+        },
+        {
+          "endDate": "1958-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Last Hurrah"
+            }
+          ],
+          "startDate": "1958-11-19"
+        },
+        {
+          "endDate": "1958-12-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Houseboat"
+            }
+          ],
+          "startDate": "1958-11-26"
+        },
+        {
+          "endDate": "1958-12-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mardi Gras"
+            }
+          ],
+          "startDate": "1958-12-03"
+        },
+        {
+          "endDate": "1958-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "South Seas Adventure"
+            }
+          ],
+          "startDate": "1958-12-17"
+        },
+        {
+          "endDate": "1958-12-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Buccaneer"
+            }
+          ],
+          "startDate": "1958-12-24"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1958-01-10",
+          "endDate": "1958-01-09",
           "items": [
             {
               "artist": "Harry Belafonte",
@@ -15,18 +259,51 @@
           "startDate": "1958-01-01"
         },
         {
-          "endDate": "1958-01-17",
+          "endDate": "1958-01-10",
+          "items": [
+            {
+              "artist": "Jerry Lee Lewis",
+              "rank": 1,
+              "title": "Great Balls of Fire"
+            }
+          ],
+          "startDate": "1958-01-10"
+        },
+        {
+          "endDate": "1958-01-16",
           "items": [
             {
               "artist": "Johnny Otis Show",
               "rank": 1,
-              "title": "Ma He's Making Eyes at Me\" †"
+              "title": "Ma He's Making Eyes at Me"
             }
           ],
           "startDate": "1958-01-11"
         },
         {
-          "endDate": "1958-01-31",
+          "endDate": "1958-01-23",
+          "items": [
+            {
+              "artist": "Jerry Lee Lewis",
+              "rank": 1,
+              "title": "Great Balls of Fire"
+            }
+          ],
+          "startDate": "1958-01-17"
+        },
+        {
+          "endDate": "1958-01-24",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Jailhouse Rock"
+            }
+          ],
+          "startDate": "1958-01-24"
+        },
+        {
+          "endDate": "1958-01-30",
           "items": [
             {
               "artist": "Jerry Lee Lewis",
@@ -37,7 +314,7 @@
           "startDate": "1958-01-25"
         },
         {
-          "endDate": "1958-02-14",
+          "endDate": "1958-02-13",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -45,7 +322,7 @@
               "title": "Jailhouse Rock"
             }
           ],
-          "startDate": "1958-02-01"
+          "startDate": "1958-01-31"
         },
         {
           "endDate": "1958-02-27",
@@ -56,7 +333,7 @@
               "title": "The Story of My Life"
             }
           ],
-          "startDate": "1958-02-15"
+          "startDate": "1958-02-14"
         },
         {
           "endDate": "1958-02-28",
@@ -70,18 +347,161 @@
           "startDate": "1958-02-28"
         },
         {
-          "endDate": "1958-04-18",
+          "endDate": "1958-03-06",
           "items": [
             {
               "artist": "Perry Como",
               "rank": 1,
-              "title": "Magic Moments\" / \"Catch a Falling Star"
+              "title": "Magic Moments / Catch a Falling Star"
             }
           ],
           "startDate": "1958-03-01"
         },
         {
-          "endDate": "1958-05-16",
+          "endDate": "1958-03-07",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments"
+            }
+          ],
+          "startDate": "1958-03-07"
+        },
+        {
+          "endDate": "1958-03-13",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments / Catch a Falling Star"
+            }
+          ],
+          "startDate": "1958-03-08"
+        },
+        {
+          "endDate": "1958-03-14",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments"
+            }
+          ],
+          "startDate": "1958-03-14"
+        },
+        {
+          "endDate": "1958-03-20",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments / Catch a Falling Star"
+            }
+          ],
+          "startDate": "1958-03-15"
+        },
+        {
+          "endDate": "1958-03-21",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments"
+            }
+          ],
+          "startDate": "1958-03-21"
+        },
+        {
+          "endDate": "1958-03-27",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments / Catch a Falling Star"
+            }
+          ],
+          "startDate": "1958-03-22"
+        },
+        {
+          "endDate": "1958-03-28",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments"
+            }
+          ],
+          "startDate": "1958-03-28"
+        },
+        {
+          "endDate": "1958-04-03",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments / Catch a Falling Star"
+            }
+          ],
+          "startDate": "1958-03-29"
+        },
+        {
+          "endDate": "1958-04-04",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments"
+            }
+          ],
+          "startDate": "1958-04-04"
+        },
+        {
+          "endDate": "1958-04-10",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments / Catch a Falling Star"
+            }
+          ],
+          "startDate": "1958-04-05"
+        },
+        {
+          "endDate": "1958-04-11",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments"
+            }
+          ],
+          "startDate": "1958-04-11"
+        },
+        {
+          "endDate": "1958-04-17",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments / Catch a Falling Star"
+            }
+          ],
+          "startDate": "1958-04-12"
+        },
+        {
+          "endDate": "1958-04-18",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Magic Moments"
+            }
+          ],
+          "startDate": "1958-04-18"
+        },
+        {
+          "endDate": "1958-05-15",
           "items": [
             {
               "artist": "Marvin Rainwater",
@@ -92,7 +512,7 @@
           "startDate": "1958-04-19"
         },
         {
-          "endDate": "1958-06-27",
+          "endDate": "1958-06-26",
           "items": [
             {
               "artist": "Connie Francis",
@@ -100,10 +520,21 @@
               "title": "Who's Sorry Now"
             }
           ],
-          "startDate": "1958-05-17"
+          "startDate": "1958-05-16"
         },
         {
-          "endDate": "1958-08-29",
+          "endDate": "1958-06-27",
+          "items": [
+            {
+              "artist": "Vic Damone",
+              "rank": 1,
+              "title": "On the Street Where You Live"
+            }
+          ],
+          "startDate": "1958-06-27"
+        },
+        {
+          "endDate": "1958-07-03",
           "items": [
             {
               "artist": "The Everly Brothers",
@@ -114,7 +545,161 @@
           "startDate": "1958-06-28"
         },
         {
-          "endDate": "1958-09-26",
+          "endDate": "1958-07-04",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream / Claudette"
+            }
+          ],
+          "startDate": "1958-07-04"
+        },
+        {
+          "endDate": "1958-07-10",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream"
+            }
+          ],
+          "startDate": "1958-07-05"
+        },
+        {
+          "endDate": "1958-07-11",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream / Claudette"
+            }
+          ],
+          "startDate": "1958-07-11"
+        },
+        {
+          "endDate": "1958-07-17",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream"
+            }
+          ],
+          "startDate": "1958-07-12"
+        },
+        {
+          "endDate": "1958-07-18",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream / Claudette"
+            }
+          ],
+          "startDate": "1958-07-18"
+        },
+        {
+          "endDate": "1958-07-24",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream"
+            }
+          ],
+          "startDate": "1958-07-19"
+        },
+        {
+          "endDate": "1958-07-25",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream / Claudette"
+            }
+          ],
+          "startDate": "1958-07-25"
+        },
+        {
+          "endDate": "1958-07-31",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream"
+            }
+          ],
+          "startDate": "1958-07-26"
+        },
+        {
+          "endDate": "1958-08-01",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream / Claudette"
+            }
+          ],
+          "startDate": "1958-08-01"
+        },
+        {
+          "endDate": "1958-08-07",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream"
+            }
+          ],
+          "startDate": "1958-08-02"
+        },
+        {
+          "endDate": "1958-08-08",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream / Claudette"
+            }
+          ],
+          "startDate": "1958-08-08"
+        },
+        {
+          "endDate": "1958-08-14",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream"
+            }
+          ],
+          "startDate": "1958-08-09"
+        },
+        {
+          "endDate": "1958-08-15",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream / Claudette"
+            }
+          ],
+          "startDate": "1958-08-15"
+        },
+        {
+          "endDate": "1958-08-21",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream"
+            }
+          ],
+          "startDate": "1958-08-16"
+        },
+        {
+          "endDate": "1958-08-22",
           "items": [
             {
               "artist": "The Kalin Twins",
@@ -122,7 +707,29 @@
               "title": "When"
             }
           ],
-          "startDate": "1958-08-30"
+          "startDate": "1958-08-22"
+        },
+        {
+          "endDate": "1958-08-28",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "All I Have to Do Is Dream"
+            }
+          ],
+          "startDate": "1958-08-23"
+        },
+        {
+          "endDate": "1958-09-25",
+          "items": [
+            {
+              "artist": "The Kalin Twins",
+              "rank": 1,
+              "title": "When"
+            }
+          ],
+          "startDate": "1958-08-29"
         },
         {
           "endDate": "1958-10-31",
@@ -130,21 +737,76 @@
             {
               "artist": "Connie Francis",
               "rank": 1,
-              "title": "Stupid Cupid\" / \"Carolina Moon"
+              "title": "Stupid Cupid / Carolina Moon"
             }
           ],
-          "startDate": "1958-09-27"
+          "startDate": "1958-09-26"
+        },
+        {
+          "endDate": "1958-11-06",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Bird Dog"
+            }
+          ],
+          "startDate": "1958-11-01"
+        },
+        {
+          "endDate": "1958-11-07",
+          "items": [
+            {
+              "artist": "Tommy Edwards",
+              "rank": 1,
+              "title": "It's All in the Game"
+            }
+          ],
+          "startDate": "1958-11-07"
+        },
+        {
+          "endDate": "1958-11-13",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Bird Dog"
+            }
+          ],
+          "startDate": "1958-11-08"
+        },
+        {
+          "endDate": "1958-11-14",
+          "items": [
+            {
+              "artist": "Tommy Edwards",
+              "rank": 1,
+              "title": "It's All in the Game"
+            }
+          ],
+          "startDate": "1958-11-14"
+        },
+        {
+          "endDate": "1958-11-20",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Bird Dog"
+            }
+          ],
+          "startDate": "1958-11-15"
         },
         {
           "endDate": "1958-11-21",
           "items": [
             {
-              "artist": "The Everly Brothers",
+              "artist": "Tommy Edwards",
               "rank": 1,
-              "title": "Bird Dog\" †"
+              "title": "It's All in the Game"
             }
           ],
-          "startDate": "1958-11-01"
+          "startDate": "1958-11-21"
         },
         {
           "endDate": "1958-12-12",
@@ -172,7 +834,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -180,7 +842,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "3de9befa180cca3af232d61a92170957248af0cd340d98706bf2254d6577921b",
+  "contentHash": "cf622df561020ec7e3f5111c2c8bda69b6ec75b8b32e544e54ac03411902f76c",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1958

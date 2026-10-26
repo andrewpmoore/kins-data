@@ -1,10 +1,366 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2024-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonka"
+            }
+          ],
+          "startDate": "2024-01-01"
+        },
+        {
+          "endDate": "2024-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mean Girls"
+            }
+          ],
+          "startDate": "2024-01-14"
+        },
+        {
+          "endDate": "2024-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Argylle"
+            }
+          ],
+          "startDate": "2024-02-04"
+        },
+        {
+          "endDate": "2024-03-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bob Marley: One Love"
+            }
+          ],
+          "startDate": "2024-02-18"
+        },
+        {
+          "endDate": "2024-03-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dune: Part Two"
+            }
+          ],
+          "startDate": "2024-03-03"
+        },
+        {
+          "endDate": "2024-03-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kung Fu Panda 4"
+            }
+          ],
+          "startDate": "2024-03-10"
+        },
+        {
+          "endDate": "2024-03-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghostbusters: Frozen Empire"
+            }
+          ],
+          "startDate": "2024-03-24"
+        },
+        {
+          "endDate": "2024-04-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Godzilla X Kong: The New Empire"
+            }
+          ],
+          "startDate": "2024-03-31"
+        },
+        {
+          "endDate": "2024-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Civil War"
+            }
+          ],
+          "startDate": "2024-04-14"
+        },
+        {
+          "endDate": "2024-05-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Challengers"
+            }
+          ],
+          "startDate": "2024-04-28"
+        },
+        {
+          "endDate": "2024-05-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fall Guy"
+            }
+          ],
+          "startDate": "2024-05-05"
+        },
+        {
+          "endDate": "2024-05-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kingdom of the Planet of the Apes"
+            }
+          ],
+          "startDate": "2024-05-12"
+        },
+        {
+          "endDate": "2024-05-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "IF"
+            }
+          ],
+          "startDate": "2024-05-19"
+        },
+        {
+          "endDate": "2024-06-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Furiosa: A Mad Max Saga"
+            }
+          ],
+          "startDate": "2024-05-26"
+        },
+        {
+          "endDate": "2024-06-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Garfield Movie"
+            }
+          ],
+          "startDate": "2024-06-02"
+        },
+        {
+          "endDate": "2024-06-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys: Ride or Die"
+            }
+          ],
+          "startDate": "2024-06-09"
+        },
+        {
+          "endDate": "2024-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inside Out 2"
+            }
+          ],
+          "startDate": "2024-06-16"
+        },
+        {
+          "endDate": "2024-07-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Despicable Me 4"
+            }
+          ],
+          "startDate": "2024-07-07"
+        },
+        {
+          "endDate": "2024-07-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Twisters"
+            }
+          ],
+          "startDate": "2024-07-21"
+        },
+        {
+          "endDate": "2024-08-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Deadpool & Wolverine"
+            }
+          ],
+          "startDate": "2024-07-28"
+        },
+        {
+          "endDate": "2024-08-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Alien: Romulus"
+            }
+          ],
+          "startDate": "2024-08-18"
+        },
+        {
+          "endDate": "2024-09-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Deadpool & Wolverine"
+            }
+          ],
+          "startDate": "2024-08-25"
+        },
+        {
+          "endDate": "2024-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beetlejuice Beetlejuice"
+            }
+          ],
+          "startDate": "2024-09-08"
+        },
+        {
+          "endDate": "2024-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wild Robot"
+            }
+          ],
+          "startDate": "2024-09-29"
+        },
+        {
+          "endDate": "2024-10-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Joker: Folie à Deux"
+            }
+          ],
+          "startDate": "2024-10-06"
+        },
+        {
+          "endDate": "2024-10-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terrifier 3"
+            }
+          ],
+          "startDate": "2024-10-13"
+        },
+        {
+          "endDate": "2024-10-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Smile 2"
+            }
+          ],
+          "startDate": "2024-10-20"
+        },
+        {
+          "endDate": "2024-11-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Venom: The Last Dance"
+            }
+          ],
+          "startDate": "2024-10-27"
+        },
+        {
+          "endDate": "2024-11-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Red One"
+            }
+          ],
+          "startDate": "2024-11-17"
+        },
+        {
+          "endDate": "2024-11-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wicked"
+            }
+          ],
+          "startDate": "2024-11-24"
+        },
+        {
+          "endDate": "2024-12-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moana 2"
+            }
+          ],
+          "startDate": "2024-12-01"
+        },
+        {
+          "endDate": "2024-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sonic the Hedgehog 3"
+            }
+          ],
+          "startDate": "2024-12-22"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
+          "endDate": "2024-01-05",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2024-01-01"
+        },
+        {
           "endDate": "2024-01-12",
+          "items": [
+            {
+              "artist": "Brenda Lee",
+              "rank": 1,
+              "title": "Rockin' Around the Christmas Tree"
+            }
+          ],
+          "startDate": "2024-01-06"
+        },
+        {
+          "endDate": "2024-01-26",
           "items": [
             {
               "artist": "Jack Harlow",
@@ -12,7 +368,7 @@
               "title": "Lovin on Me"
             }
           ],
-          "startDate": "2024-01-06"
+          "startDate": "2024-01-13"
         },
         {
           "endDate": "2024-02-02",
@@ -26,6 +382,17 @@
           "startDate": "2024-01-27"
         },
         {
+          "endDate": "2024-02-09",
+          "items": [
+            {
+              "artist": "Jack Harlow",
+              "rank": 1,
+              "title": "Lovin on Me"
+            }
+          ],
+          "startDate": "2024-02-03"
+        },
+        {
           "endDate": "2024-02-16",
           "items": [
             {
@@ -35,6 +402,17 @@
             }
           ],
           "startDate": "2024-02-10"
+        },
+        {
+          "endDate": "2024-03-01",
+          "items": [
+            {
+              "artist": "Jack Harlow",
+              "rank": 1,
+              "title": "Lovin on Me"
+            }
+          ],
+          "startDate": "2024-02-17"
         },
         {
           "endDate": "2024-03-15",
@@ -51,7 +429,7 @@
           "endDate": "2024-03-22",
           "items": [
             {
-              "artist": "¥$: Ye and Ty Dolla Sign featuring Rich the Kid and Playboi Carti",
+              "artist": "¥$: Kanye West and Ty Dolla Sign featuring Rich the Kid and Playboi Carti",
               "rank": 1,
               "title": "Carnival"
             }
@@ -64,7 +442,7 @@
             {
               "artist": "Ariana Grande",
               "rank": 1,
-              "title": "We Can't Be Friends"
+              "title": "We Can't Be Friends (Wait for Your Love)"
             }
           ],
           "startDate": "2024-03-23"
@@ -75,7 +453,7 @@
             {
               "artist": "Teddy Swims",
               "rank": 1,
-              "title": "Lose Control\" ♪"
+              "title": "Lose Control"
             }
           ],
           "startDate": "2024-03-30"
@@ -133,7 +511,51 @@
               "title": "I Had Some Help"
             }
           ],
-          "startDate": "2024-06-08"
+          "startDate": "2024-05-25"
+        },
+        {
+          "endDate": "2024-07-05",
+          "items": [
+            {
+              "artist": "Sabrina Carpenter",
+              "rank": 1,
+              "title": "Please Please Please"
+            }
+          ],
+          "startDate": "2024-06-29"
+        },
+        {
+          "endDate": "2024-07-12",
+          "items": [
+            {
+              "artist": "Post Malone featuring Morgan Wallen",
+              "rank": 1,
+              "title": "I Had Some Help"
+            }
+          ],
+          "startDate": "2024-07-06"
+        },
+        {
+          "endDate": "2024-07-19",
+          "items": [
+            {
+              "artist": "Shaboozey",
+              "rank": 1,
+              "title": "A Bar Song (Tipsy)"
+            }
+          ],
+          "startDate": "2024-07-13"
+        },
+        {
+          "endDate": "2024-07-26",
+          "items": [
+            {
+              "artist": "Kendrick Lamar",
+              "rank": 1,
+              "title": "Not Like Us"
+            }
+          ],
+          "startDate": "2024-07-20"
         },
         {
           "endDate": "2024-11-01",
@@ -141,18 +563,29 @@
             {
               "artist": "Shaboozey",
               "rank": 1,
-              "title": "A Bar Song"
+              "title": "A Bar Song (Tipsy)"
             }
           ],
-          "startDate": "2024-07-13"
+          "startDate": "2024-07-27"
         },
         {
-          "endDate": "2024-11-22",
+          "endDate": "2024-11-08",
+          "items": [
+            {
+              "artist": "Morgan Wallen",
+              "rank": 1,
+              "title": "Love Somebody"
+            }
+          ],
+          "startDate": "2024-11-02"
+        },
+        {
+          "endDate": "2024-12-06",
           "items": [
             {
               "artist": "Shaboozey",
               "rank": 1,
-              "title": "A Bar Song"
+              "title": "A Bar Song (Tipsy)"
             }
           ],
           "startDate": "2024-11-09"
@@ -183,7 +616,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -191,7 +624,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "262c4969739c54d2824eee57251267d035242c402ba8e663fa5d6c131b1d472e",
+  "contentHash": "1e72922bc1855da5e481780f09a35eb2bede129514b51d6c596196712af816a6",
   "country": "us",
   "schemaVersion": 1,
   "year": 2024

@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2003",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2003&idGame=340",
+          "artworkURL": "https://www.interactive.org/images/games/2003_battlefield_1942_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2002,
+          "title": "Battlefield 1942"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2003&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2003
+    }
+  },
+  "contentHash": "89c014f95a6a6262c32b1f88ed319554a1221ee653914d551cc2f8517efd6f5e",
+  "country": "au",
+  "schemaVersion": 1,
+  "year": 2003
+}

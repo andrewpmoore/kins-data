@@ -1,10 +1,343 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1963-01-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mutiny on the Bounty"
+            }
+          ],
+          "startDate": "1963-01-01"
+        },
+        {
+          "endDate": "1963-01-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Taras Bulba"
+            }
+          ],
+          "startDate": "1963-01-02"
+        },
+        {
+          "endDate": "1963-01-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gypsy"
+            }
+          ],
+          "startDate": "1963-01-16"
+        },
+        {
+          "endDate": "1963-01-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mutiny on the Bounty"
+            }
+          ],
+          "startDate": "1963-01-23"
+        },
+        {
+          "endDate": "1963-02-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sodom and Gomorrah"
+            }
+          ],
+          "startDate": "1963-01-30"
+        },
+        {
+          "endDate": "1963-02-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lawrence of Arabia"
+            }
+          ],
+          "startDate": "1963-02-06"
+        },
+        {
+          "endDate": "1963-02-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "To Kill a Mockingbird"
+            }
+          ],
+          "startDate": "1963-02-20"
+        },
+        {
+          "endDate": "1963-03-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Son of Flubber"
+            }
+          ],
+          "startDate": "1963-02-27"
+        },
+        {
+          "endDate": "1963-03-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "To Kill a Mockingbird"
+            }
+          ],
+          "startDate": "1963-03-13"
+        },
+        {
+          "endDate": "1963-03-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Days of Wine and Roses"
+            }
+          ],
+          "startDate": "1963-03-20"
+        },
+        {
+          "endDate": "1963-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How the West Was Won"
+            }
+          ],
+          "startDate": "1963-03-27"
+        },
+        {
+          "endDate": "1963-04-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Birds"
+            }
+          ],
+          "startDate": "1963-04-10"
+        },
+        {
+          "endDate": "1963-06-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How the West Was Won"
+            }
+          ],
+          "startDate": "1963-04-24"
+        },
+        {
+          "endDate": "1963-06-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "55 Days at Peking"
+            }
+          ],
+          "startDate": "1963-06-05"
+        },
+        {
+          "endDate": "1963-07-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How the West Was Won"
+            }
+          ],
+          "startDate": "1963-06-12"
+        },
+        {
+          "endDate": "1963-10-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cleopatra"
+            }
+          ],
+          "startDate": "1963-07-03"
+        },
+        {
+          "endDate": "1963-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The V.I.P.s"
+            }
+          ],
+          "startDate": "1963-10-02"
+        },
+        {
+          "endDate": "1963-11-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cleopatra"
+            }
+          ],
+          "startDate": "1963-10-23"
+        },
+        {
+          "endDate": "1963-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mary, Mary"
+            }
+          ],
+          "startDate": "1963-11-06"
+        },
+        {
+          "endDate": "1963-11-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cleopatra"
+            }
+          ],
+          "startDate": "1963-11-20"
+        },
+        {
+          "endDate": "1963-12-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Under the Yum Yum Tree"
+            }
+          ],
+          "startDate": "1963-12-04"
+        },
+        {
+          "endDate": "1963-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It's a Mad, Mad, Mad, Mad World"
+            }
+          ],
+          "startDate": "1963-12-25"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1963-02-22",
+          "endDate": "1963-01-02",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Return to Sender"
+            }
+          ],
+          "startDate": "1963-01-01"
+        },
+        {
+          "endDate": "1963-01-04",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "The Next Time / Bachelor Boy"
+            }
+          ],
+          "startDate": "1963-01-03"
+        },
+        {
+          "endDate": "1963-01-09",
+          "items": [
+            {
+              "artist": "Cliff Richard and The Shadows",
+              "rank": 1,
+              "title": "The Next Time / Bachelor Boy"
+            }
+          ],
+          "startDate": "1963-01-05"
+        },
+        {
+          "endDate": "1963-01-11",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "The Next Time / Bachelor Boy"
+            }
+          ],
+          "startDate": "1963-01-10"
+        },
+        {
+          "endDate": "1963-01-16",
+          "items": [
+            {
+              "artist": "The Shadows",
+              "rank": 1,
+              "title": "Dance On!"
+            }
+          ],
+          "startDate": "1963-01-12"
+        },
+        {
+          "endDate": "1963-01-18",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "The Next Time / Bachelor Boy"
+            }
+          ],
+          "startDate": "1963-01-17"
+        },
+        {
+          "endDate": "1963-01-23",
+          "items": [
+            {
+              "artist": "Cliff Richard and The Shadows",
+              "rank": 1,
+              "title": "The Next Time / Bachelor Boy"
+            }
+          ],
+          "startDate": "1963-01-19"
+        },
+        {
+          "endDate": "1963-01-25",
+          "items": [
+            {
+              "artist": "The Shadows",
+              "rank": 1,
+              "title": "Dance On!"
+            }
+          ],
+          "startDate": "1963-01-24"
+        },
+        {
+          "endDate": "1963-01-30",
+          "items": [
+            {
+              "artist": "Cliff Richard and The Shadows",
+              "rank": 1,
+              "title": "The Next Time / Bachelor Boy"
+            }
+          ],
+          "startDate": "1963-01-26"
+        },
+        {
+          "endDate": "1963-02-20",
           "items": [
             {
               "artist": "Jet Harris and Tony Meehan",
@@ -12,10 +345,153 @@
               "title": "Diamonds"
             }
           ],
-          "startDate": "1963-02-02"
+          "startDate": "1963-01-31"
         },
         {
-          "endDate": "1963-04-26",
+          "endDate": "1963-03-01",
+          "items": [
+            {
+              "artist": "Frank Ifield",
+              "rank": 1,
+              "title": "The Wayward Wind"
+            }
+          ],
+          "startDate": "1963-02-21"
+        },
+        {
+          "endDate": "1963-03-06",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Please Please Me"
+            }
+          ],
+          "startDate": "1963-03-02"
+        },
+        {
+          "endDate": "1963-03-08",
+          "items": [
+            {
+              "artist": "Frank Ifield",
+              "rank": 1,
+              "title": "The Wayward Wind"
+            }
+          ],
+          "startDate": "1963-03-07"
+        },
+        {
+          "endDate": "1963-03-13",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Please Please Me"
+            }
+          ],
+          "startDate": "1963-03-09"
+        },
+        {
+          "endDate": "1963-03-15",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "Summer Holiday"
+            }
+          ],
+          "startDate": "1963-03-14"
+        },
+        {
+          "endDate": "1963-03-20",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Please Please Me"
+            }
+          ],
+          "startDate": "1963-03-16"
+        },
+        {
+          "endDate": "1963-03-22",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "Summer Holiday"
+            }
+          ],
+          "startDate": "1963-03-21"
+        },
+        {
+          "endDate": "1963-03-27",
+          "items": [
+            {
+              "artist": "Frank Ifield",
+              "rank": 1,
+              "title": "The Wayward Wind"
+            }
+          ],
+          "startDate": "1963-03-23"
+        },
+        {
+          "endDate": "1963-03-29",
+          "items": [
+            {
+              "artist": "The Shadows",
+              "rank": 1,
+              "title": "Foot Tapper"
+            }
+          ],
+          "startDate": "1963-03-28"
+        },
+        {
+          "endDate": "1963-04-03",
+          "items": [
+            {
+              "artist": "Cliff Richard and The Shadows",
+              "rank": 1,
+              "title": "Summer Holiday"
+            }
+          ],
+          "startDate": "1963-03-30"
+        },
+        {
+          "endDate": "1963-04-05",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "Summer Holiday"
+            }
+          ],
+          "startDate": "1963-04-04"
+        },
+        {
+          "endDate": "1963-04-10",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "How Do You Do It?"
+            }
+          ],
+          "startDate": "1963-04-06"
+        },
+        {
+          "endDate": "1963-04-12",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "How Do You Do It?"
+            }
+          ],
+          "startDate": "1963-04-11"
+        },
+        {
+          "endDate": "1963-04-17",
           "items": [
             {
               "artist": "Gerry & The Pacemakers",
@@ -26,6 +502,50 @@
           "startDate": "1963-04-13"
         },
         {
+          "endDate": "1963-04-19",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "How Do You Do It?"
+            }
+          ],
+          "startDate": "1963-04-18"
+        },
+        {
+          "endDate": "1963-04-24",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "How Do You Do It?"
+            }
+          ],
+          "startDate": "1963-04-20"
+        },
+        {
+          "endDate": "1963-04-26",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "How Do You Do It?"
+            }
+          ],
+          "startDate": "1963-04-25"
+        },
+        {
+          "endDate": "1963-05-01",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "How Do You Do It?"
+            }
+          ],
+          "startDate": "1963-04-27"
+        },
+        {
           "endDate": "1963-05-31",
           "items": [
             {
@@ -34,10 +554,153 @@
               "title": "From Me to You"
             }
           ],
-          "startDate": "1963-05-04"
+          "startDate": "1963-05-02"
         },
         {
-          "endDate": "1963-08-23",
+          "endDate": "1963-06-05",
+          "items": [
+            {
+              "artist": "Billy J. Kramer & The Dakotas",
+              "rank": 1,
+              "title": "Do You Want to Know a Secret"
+            }
+          ],
+          "startDate": "1963-06-01"
+        },
+        {
+          "endDate": "1963-06-14",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "From Me to You"
+            }
+          ],
+          "startDate": "1963-06-06"
+        },
+        {
+          "endDate": "1963-06-19",
+          "items": [
+            {
+              "artist": "Billy J. Kramer & The Dakotas",
+              "rank": 1,
+              "title": "Do You Want to Know a Secret"
+            }
+          ],
+          "startDate": "1963-06-15"
+        },
+        {
+          "endDate": "1963-06-21",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "I Like It"
+            }
+          ],
+          "startDate": "1963-06-20"
+        },
+        {
+          "endDate": "1963-06-26",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "I Like It"
+            }
+          ],
+          "startDate": "1963-06-22"
+        },
+        {
+          "endDate": "1963-06-28",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "I Like It"
+            }
+          ],
+          "startDate": "1963-06-27"
+        },
+        {
+          "endDate": "1963-07-03",
+          "items": [
+            {
+              "artist": "Billy J. Kramer & The Dakotas",
+              "rank": 1,
+              "title": "Do You Want to Know a Secret"
+            }
+          ],
+          "startDate": "1963-06-29"
+        },
+        {
+          "endDate": "1963-07-05",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "I Like It"
+            }
+          ],
+          "startDate": "1963-07-04"
+        },
+        {
+          "endDate": "1963-07-10",
+          "items": [
+            {
+              "artist": "Billy J. Kramer & The Dakotas",
+              "rank": 1,
+              "title": "Do You Want to Know a Secret"
+            }
+          ],
+          "startDate": "1963-07-06"
+        },
+        {
+          "endDate": "1963-07-12",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "I Like It"
+            }
+          ],
+          "startDate": "1963-07-11"
+        },
+        {
+          "endDate": "1963-07-17",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "I Like It"
+            }
+          ],
+          "startDate": "1963-07-13"
+        },
+        {
+          "endDate": "1963-07-31",
+          "items": [
+            {
+              "artist": "Frank Ifield",
+              "rank": 1,
+              "title": "Confessin'"
+            }
+          ],
+          "startDate": "1963-07-18"
+        },
+        {
+          "endDate": "1963-08-02",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "(You're the) Devil in Disguise"
+            }
+          ],
+          "startDate": "1963-08-01"
+        },
+        {
+          "endDate": "1963-08-21",
           "items": [
             {
               "artist": "The Searchers",
@@ -45,10 +708,21 @@
               "title": "Sweets for My Sweet"
             }
           ],
-          "startDate": "1963-08-10"
+          "startDate": "1963-08-03"
         },
         {
-          "endDate": "1963-09-06",
+          "endDate": "1963-08-23",
+          "items": [
+            {
+              "artist": "Billy J. Kramer and the Dakotas",
+              "rank": 1,
+              "title": "Bad to Me"
+            }
+          ],
+          "startDate": "1963-08-22"
+        },
+        {
+          "endDate": "1963-08-28",
           "items": [
             {
               "artist": "Billy J. Kramer & The Dakotas",
@@ -57,6 +731,39 @@
             }
           ],
           "startDate": "1963-08-24"
+        },
+        {
+          "endDate": "1963-08-30",
+          "items": [
+            {
+              "artist": "Billy J. Kramer and the Dakotas",
+              "rank": 1,
+              "title": "Bad to Me"
+            }
+          ],
+          "startDate": "1963-08-29"
+        },
+        {
+          "endDate": "1963-09-04",
+          "items": [
+            {
+              "artist": "Billy J. Kramer & The Dakotas",
+              "rank": 1,
+              "title": "Bad to Me"
+            }
+          ],
+          "startDate": "1963-08-31"
+        },
+        {
+          "endDate": "1963-09-06",
+          "items": [
+            {
+              "artist": "Billy J. Kramer and the Dakotas",
+              "rank": 1,
+              "title": "Bad to Me"
+            }
+          ],
+          "startDate": "1963-09-05"
         },
         {
           "endDate": "1963-10-04",
@@ -70,7 +777,73 @@
           "startDate": "1963-09-07"
         },
         {
-          "endDate": "1963-11-22",
+          "endDate": "1963-10-09",
+          "items": [
+            {
+              "artist": "Brian Poole and The Tremeloes",
+              "rank": 1,
+              "title": "Do You Love Me"
+            }
+          ],
+          "startDate": "1963-10-05"
+        },
+        {
+          "endDate": "1963-10-11",
+          "items": [
+            {
+              "artist": "Brian Poole and the Tremeloes",
+              "rank": 1,
+              "title": "Do You Love Me"
+            }
+          ],
+          "startDate": "1963-10-10"
+        },
+        {
+          "endDate": "1963-10-16",
+          "items": [
+            {
+              "artist": "Brian Poole and The Tremeloes",
+              "rank": 1,
+              "title": "Do You Love Me"
+            }
+          ],
+          "startDate": "1963-10-12"
+        },
+        {
+          "endDate": "1963-10-18",
+          "items": [
+            {
+              "artist": "Brian Poole and the Tremeloes",
+              "rank": 1,
+              "title": "Do You Love Me"
+            }
+          ],
+          "startDate": "1963-10-17"
+        },
+        {
+          "endDate": "1963-10-23",
+          "items": [
+            {
+              "artist": "Brian Poole and The Tremeloes",
+              "rank": 1,
+              "title": "Do You Love Me?"
+            }
+          ],
+          "startDate": "1963-10-19"
+        },
+        {
+          "endDate": "1963-10-25",
+          "items": [
+            {
+              "artist": "Brian Poole and the Tremeloes",
+              "rank": 1,
+              "title": "Do You Love Me"
+            }
+          ],
+          "startDate": "1963-10-24"
+        },
+        {
+          "endDate": "1963-10-30",
           "items": [
             {
               "artist": "Gerry & The Pacemakers",
@@ -79,6 +852,83 @@
             }
           ],
           "startDate": "1963-10-26"
+        },
+        {
+          "endDate": "1963-11-01",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1963-10-31"
+        },
+        {
+          "endDate": "1963-11-06",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1963-11-02"
+        },
+        {
+          "endDate": "1963-11-08",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1963-11-07"
+        },
+        {
+          "endDate": "1963-11-13",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1963-11-09"
+        },
+        {
+          "endDate": "1963-11-15",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1963-11-14"
+        },
+        {
+          "endDate": "1963-11-20",
+          "items": [
+            {
+              "artist": "Gerry & The Pacemakers",
+              "rank": 1,
+              "title": "You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1963-11-16"
+        },
+        {
+          "endDate": "1963-11-22",
+          "items": [
+            {
+              "artist": "Gerry and the Pacemakers",
+              "rank": 1,
+              "title": "You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1963-11-21"
         },
         {
           "endDate": "1963-12-06",
@@ -106,7 +956,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -114,7 +964,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "ad98ee05f961983e1d66a2f451be73fb68da5c10ffdb16091fbbabbcdddcbfbe",
+  "contentHash": "f4f9bfa638a8b7dbc776c78a94d3fd5476f24fa6493e46f7bf24d90cf678723f",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1963

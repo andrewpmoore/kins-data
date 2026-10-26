@@ -4,26 +4,15 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1997-01-05",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1997-01-01"
-        },
-        {
           "endDate": "1997-03-16",
           "items": [
             {
               "artist": "Andrea Bocelli and Sarah Brightman",
               "rank": 1,
-              "title": "Time to Say Goodbye\"†"
+              "title": "Time to Say Goodbye"
             }
           ],
-          "startDate": "1997-01-06"
+          "startDate": "1997-01-01"
         },
         {
           "endDate": "1997-05-04",
@@ -125,7 +114,7 @@
           "startDate": "1997-11-10"
         },
         {
-          "endDate": "1997-12-28",
+          "endDate": "1997-12-31",
           "items": [
             {
               "artist": "Run-D.M.C. vs. Jason Nevins",
@@ -134,23 +123,12 @@
             }
           ],
           "startDate": "1997-12-22"
-        },
-        {
-          "endDate": "1997-12-31",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1997-12-29"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -158,7 +136,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "c8355fb6783d77a6632c0e8842b1907bdf010315749f53aa017c2b0c39a95c51",
+  "contentHash": "a3e51cd329e14d50094ce41e948207ecb163f64a336a52b435023fd7de9db078",
   "country": "de",
   "schemaVersion": 1,
   "year": 1997

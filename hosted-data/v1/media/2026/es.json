@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2026",
+      "items": [
+        {
+          "author": "Javier Castillo",
+          "creator": "Javier Castillo",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "La isla de las sombras",
+          "url": "https://books.google.com/books?q=La+isla+de+las+sombras"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2026.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2026
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2026",
+      "items": [
+        {
+          "author": "Mikecrack",
+          "creator": "Mikecrack",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Los Compas y el secreto del templo",
+          "url": "https://books.google.com/books?q=Los+Compas+y+el+secreto+del+templo"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2026.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2026
+    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -26,7 +72,7 @@
       "year": 2026
     }
   },
-  "contentHash": "2569ba8147628669b4d3e095a1de6847eeec5f31965007a0bd2b62ca39431426",
+  "contentHash": "d04e317e94ebd60a67acc91dc0d629338739f2366ed9b81ee31a23bae7978315",
   "country": "es",
   "schemaVersion": 1,
   "year": 2026

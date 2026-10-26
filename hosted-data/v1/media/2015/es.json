@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2015",
+      "items": [
+        {
+          "author": "Paula Hawkins",
+          "creator": "Paula Hawkins",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "La chica del tren",
+          "url": "https://books.google.com/books?q=La+chica+del+tren"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2015.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2015
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2015",
+      "items": [
+        {
+          "author": "Antoine de Saint-Exupéry",
+          "creator": "Antoine de Saint-Exupéry",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "El principito",
+          "url": "https://books.google.com/books?q=El+principito"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2015.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2015
+    },
     "games": {
       "id": "media-awardWinner-2015",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2015
     }
   },
-  "contentHash": "f8d2a7e5d573a9cc8f696d828bd3c6cd26d570a1de2c0fff1b6f50fe16f31f53",
+  "contentHash": "f9d124537e6e6f6e7423af09c89dde1e9a7a6835e88450c159da1685f41faac4",
   "country": "es",
   "schemaVersion": 1,
   "year": 2015

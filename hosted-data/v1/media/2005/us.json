@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2005",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9789022989302",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9789022989302-L.jpg?default=false",
+          "author": "John Grisham",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9789022989302",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9789022989302-L.jpg?default=false",
+          "creator": "John Grisham",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Broker",
+          "url": "https://books.google.com/books?vid=ISBN:9789022989302"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2005-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2005
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2005",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780545791441",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780545791441-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780545791441",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780545791441-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Harry Potter and the Half-Blood Prince",
+          "url": "https://books.google.com/books?vid=ISBN:9780545791441"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2005-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2005
+    },
     "games": {
       "id": "media-awardWinner-2005",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2005
     }
   },
-  "contentHash": "2f8c36f4b92b1ffea55ac7f0e91fd97f3c3e91d8c9889be6f146ad77fb826f80",
+  "contentHash": "27bd7e0d33d56d4bb76af80dc5b1f8a71a932ae773b1480e5e304f1b704ae3b6",
   "country": "us",
   "schemaVersion": 1,
   "year": 2005

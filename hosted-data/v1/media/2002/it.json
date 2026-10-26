@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2002",
+      "items": [
+        {
+          "author": "Oriana Fallaci",
+          "creator": "Oriana Fallaci",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "La rabbia e l'orgoglio",
+          "url": "https://books.google.com/books?q=La+rabbia+e+l'orgoglio"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2002.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2002
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2002",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Harry Potter e il prigioniero di Azkaban",
+          "url": "https://books.google.com/books?q=Harry+Potter+e+il+prigioniero+di+Azkaban"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2002.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2002
+    },
+    "games": {
+      "id": "media-awardWinner-2002",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2002&idGame=344",
+          "artworkURL": "https://www.interactive.org/images/games/2002_halo_combat_evolved_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2001,
+          "title": "Halo: Combat Evolved"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2002&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2002
+    }
+  },
+  "contentHash": "4c7e5764aaaac1fd07965a2a1ee5c2c7870ae6f701ea44e86bace33131c7a1ef",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2002
+}

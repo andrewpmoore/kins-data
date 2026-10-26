@@ -1,10 +1,364 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2019-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aquaman"
+            }
+          ],
+          "startDate": "2019-01-01"
+        },
+        {
+          "endDate": "2019-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Upside"
+            }
+          ],
+          "startDate": "2019-01-13"
+        },
+        {
+          "endDate": "2019-02-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Glass"
+            }
+          ],
+          "startDate": "2019-01-20"
+        },
+        {
+          "endDate": "2019-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lego Movie 2: The Second Part"
+            }
+          ],
+          "startDate": "2019-02-10"
+        },
+        {
+          "endDate": "2019-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Alita: Battle Angel"
+            }
+          ],
+          "startDate": "2019-02-17"
+        },
+        {
+          "endDate": "2019-03-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How to Train Your Dragon: The Hidden World"
+            }
+          ],
+          "startDate": "2019-02-24"
+        },
+        {
+          "endDate": "2019-03-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Captain Marvel"
+            }
+          ],
+          "startDate": "2019-03-10"
+        },
+        {
+          "endDate": "2019-03-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Us"
+            }
+          ],
+          "startDate": "2019-03-24"
+        },
+        {
+          "endDate": "2019-04-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dumbo"
+            }
+          ],
+          "startDate": "2019-03-31"
+        },
+        {
+          "endDate": "2019-04-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shazam!"
+            }
+          ],
+          "startDate": "2019-04-07"
+        },
+        {
+          "endDate": "2019-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Curse of La Llorona"
+            }
+          ],
+          "startDate": "2019-04-21"
+        },
+        {
+          "endDate": "2019-05-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avengers: Endgame"
+            }
+          ],
+          "startDate": "2019-04-28"
+        },
+        {
+          "endDate": "2019-05-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "John Wick: Chapter 3 - Parabellum"
+            }
+          ],
+          "startDate": "2019-05-19"
+        },
+        {
+          "endDate": "2019-06-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "2019-05-26"
+        },
+        {
+          "endDate": "2019-06-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Godzilla: King of the Monsters"
+            }
+          ],
+          "startDate": "2019-06-02"
+        },
+        {
+          "endDate": "2019-06-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Secret Life of Pets 2"
+            }
+          ],
+          "startDate": "2019-06-09"
+        },
+        {
+          "endDate": "2019-06-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Men in Black: International"
+            }
+          ],
+          "startDate": "2019-06-16"
+        },
+        {
+          "endDate": "2019-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Toy Story 4"
+            }
+          ],
+          "startDate": "2019-06-23"
+        },
+        {
+          "endDate": "2019-07-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Far from Home"
+            }
+          ],
+          "startDate": "2019-07-07"
+        },
+        {
+          "endDate": "2019-08-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "2019-07-21"
+        },
+        {
+          "endDate": "2019-08-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast & Furious Presents: Hobbs & Shaw"
+            }
+          ],
+          "startDate": "2019-08-04"
+        },
+        {
+          "endDate": "2019-08-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Good Boys"
+            }
+          ],
+          "startDate": "2019-08-18"
+        },
+        {
+          "endDate": "2019-09-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Angel Has Fallen"
+            }
+          ],
+          "startDate": "2019-08-25"
+        },
+        {
+          "endDate": "2019-09-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It: Chapter Two"
+            }
+          ],
+          "startDate": "2019-09-08"
+        },
+        {
+          "endDate": "2019-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Downton Abbey"
+            }
+          ],
+          "startDate": "2019-09-22"
+        },
+        {
+          "endDate": "2019-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Abominable"
+            }
+          ],
+          "startDate": "2019-09-29"
+        },
+        {
+          "endDate": "2019-10-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Joker"
+            }
+          ],
+          "startDate": "2019-10-06"
+        },
+        {
+          "endDate": "2019-11-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maleficent: Mistress of Evil"
+            }
+          ],
+          "startDate": "2019-10-20"
+        },
+        {
+          "endDate": "2019-11-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terminator: Dark Fate"
+            }
+          ],
+          "startDate": "2019-11-03"
+        },
+        {
+          "endDate": "2019-11-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Midway"
+            }
+          ],
+          "startDate": "2019-11-10"
+        },
+        {
+          "endDate": "2019-11-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ford v Ferrari"
+            }
+          ],
+          "startDate": "2019-11-17"
+        },
+        {
+          "endDate": "2019-12-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Frozen II"
+            }
+          ],
+          "startDate": "2019-11-24"
+        },
+        {
+          "endDate": "2019-12-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jumanji: The Next Level"
+            }
+          ],
+          "startDate": "2019-12-15"
+        },
+        {
+          "endDate": "2019-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode IX - The Rise of Skywalker"
+            }
+          ],
+          "startDate": "2019-12-22"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2019-01-04",
+          "endDate": "2019-01-11",
           "items": [
             {
               "artist": "Ariana Grande",
@@ -26,6 +380,28 @@
           "startDate": "2019-01-12"
         },
         {
+          "endDate": "2019-01-25",
+          "items": [
+            {
+              "artist": "Post Malone and Swae Lee",
+              "rank": 1,
+              "title": "Sunflower"
+            }
+          ],
+          "startDate": "2019-01-19"
+        },
+        {
+          "endDate": "2019-02-01",
+          "items": [
+            {
+              "artist": "Halsey",
+              "rank": 1,
+              "title": "Without Me"
+            }
+          ],
+          "startDate": "2019-01-26"
+        },
+        {
           "endDate": "2019-03-08",
           "items": [
             {
@@ -37,7 +413,29 @@
           "startDate": "2019-02-02"
         },
         {
-          "endDate": "2019-03-29",
+          "endDate": "2019-03-15",
+          "items": [
+            {
+              "artist": "Lady Gaga and Bradley Cooper",
+              "rank": 1,
+              "title": "Shallow"
+            }
+          ],
+          "startDate": "2019-03-09"
+        },
+        {
+          "endDate": "2019-03-22",
+          "items": [
+            {
+              "artist": "Jonas Brothers",
+              "rank": 1,
+              "title": "Sucker"
+            }
+          ],
+          "startDate": "2019-03-16"
+        },
+        {
+          "endDate": "2019-04-12",
           "items": [
             {
               "artist": "Ariana Grande",
@@ -51,9 +449,9 @@
           "endDate": "2019-08-23",
           "items": [
             {
-              "artist": "Lil Nas X / Lil Nas X featuring Billy Ray Cyrus2",
+              "artist": "Lil Nas X featuring Billy Ray Cyrus",
               "rank": 1,
-              "title": "Old Town Road\" ♪"
+              "title": "Old Town Road"
             }
           ],
           "startDate": "2019-04-13"
@@ -92,6 +490,28 @@
           "startDate": "2019-09-07"
         },
         {
+          "endDate": "2019-10-25",
+          "items": [
+            {
+              "artist": "Travis Scott",
+              "rank": 1,
+              "title": "Highest in the Room"
+            }
+          ],
+          "startDate": "2019-10-19"
+        },
+        {
+          "endDate": "2019-11-01",
+          "items": [
+            {
+              "artist": "Lizzo",
+              "rank": 1,
+              "title": "Truth Hurts"
+            }
+          ],
+          "startDate": "2019-10-26"
+        },
+        {
           "endDate": "2019-11-08",
           "items": [
             {
@@ -103,7 +523,18 @@
           "startDate": "2019-11-02"
         },
         {
-          "endDate": "2019-11-22",
+          "endDate": "2019-11-15",
+          "items": [
+            {
+              "artist": "Selena Gomez",
+              "rank": 1,
+              "title": "Lose You to Love Me"
+            }
+          ],
+          "startDate": "2019-11-09"
+        },
+        {
+          "endDate": "2019-11-29",
           "items": [
             {
               "artist": "Lewis Capaldi",
@@ -125,6 +556,17 @@
           "startDate": "2019-11-30"
         },
         {
+          "endDate": "2019-12-20",
+          "items": [
+            {
+              "artist": "The Weeknd",
+              "rank": 1,
+              "title": "Heartless"
+            }
+          ],
+          "startDate": "2019-12-14"
+        },
+        {
           "endDate": "2019-12-31",
           "items": [
             {
@@ -139,7 +581,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -147,7 +589,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "eee1a4f0427cb803202936c66b10842a6adedfb6da0adde72474193c6918b36a",
+  "contentHash": "483ff7f55167e98b0350cce9e740b6bb344a0cf5e08d9d8e5630e1baf740283d",
   "country": "us",
   "schemaVersion": 1,
   "year": 2019

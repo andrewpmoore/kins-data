@@ -1,10 +1,349 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1983-02-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tootsie"
+            }
+          ],
+          "startDate": "1983-01-01"
+        },
+        {
+          "endDate": "1983-03-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tootsie"
+            }
+          ],
+          "startDate": "1983-02-27"
+        },
+        {
+          "endDate": "1983-03-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "High Road to China"
+            }
+          ],
+          "startDate": "1983-03-20"
+        },
+        {
+          "endDate": "1983-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spring Break"
+            }
+          ],
+          "startDate": "1983-03-27"
+        },
+        {
+          "endDate": "1983-04-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tootsie"
+            }
+          ],
+          "startDate": "1983-04-10"
+        },
+        {
+          "endDate": "1983-04-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lone Wolf McQuade"
+            }
+          ],
+          "startDate": "1983-04-17"
+        },
+        {
+          "endDate": "1983-05-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Flashdance"
+            }
+          ],
+          "startDate": "1983-04-24"
+        },
+        {
+          "endDate": "1983-05-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blue Thunder"
+            }
+          ],
+          "startDate": "1983-05-15"
+        },
+        {
+          "endDate": "1983-05-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spacehunter: Adventures in the Forbidden Zone"
+            }
+          ],
+          "startDate": "1983-05-22"
+        },
+        {
+          "endDate": "1983-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Return of the Jedi"
+            }
+          ],
+          "startDate": "1983-06-05"
+        },
+        {
+          "endDate": "1983-06-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Superman III"
+            }
+          ],
+          "startDate": "1983-06-19"
+        },
+        {
+          "endDate": "1983-07-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Return of the Jedi"
+            }
+          ],
+          "startDate": "1983-06-26"
+        },
+        {
+          "endDate": "1983-07-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Return of the Jedi"
+            }
+          ],
+          "startDate": "1983-07-10"
+        },
+        {
+          "endDate": "1983-07-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Staying Alive"
+            }
+          ],
+          "startDate": "1983-07-17"
+        },
+        {
+          "endDate": "1983-07-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jaws 3-D"
+            }
+          ],
+          "startDate": "1983-07-24"
+        },
+        {
+          "endDate": "1983-08-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "National Lampoon's Vacation"
+            }
+          ],
+          "startDate": "1983-07-31"
+        },
+        {
+          "endDate": "1983-08-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Easy Money"
+            }
+          ],
+          "startDate": "1983-08-21"
+        },
+        {
+          "endDate": "1983-09-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mr. Mom"
+            }
+          ],
+          "startDate": "1983-08-28"
+        },
+        {
+          "endDate": "1983-10-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mr. Mom"
+            }
+          ],
+          "startDate": "1983-09-11"
+        },
+        {
+          "endDate": "1983-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Big Chill"
+            }
+          ],
+          "startDate": "1983-10-02"
+        },
+        {
+          "endDate": "1983-11-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Never Say Never Again"
+            }
+          ],
+          "startDate": "1983-10-16"
+        },
+        {
+          "endDate": "1983-11-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Deal of the Century"
+            }
+          ],
+          "startDate": "1983-11-06"
+        },
+        {
+          "endDate": "1983-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Big Chill"
+            }
+          ],
+          "startDate": "1983-11-13"
+        },
+        {
+          "endDate": "1983-11-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Amityville 3-D"
+            }
+          ],
+          "startDate": "1983-11-20"
+        },
+        {
+          "endDate": "1983-12-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Christmas Story"
+            }
+          ],
+          "startDate": "1983-11-27"
+        },
+        {
+          "endDate": "1983-12-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terms of Endearment"
+            }
+          ],
+          "startDate": "1983-12-04"
+        },
+        {
+          "endDate": "1983-12-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sudden Impact"
+            }
+          ],
+          "startDate": "1983-12-11"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1983-03-13",
+          "endDate": "1983-01-14",
+          "items": [
+            {
+              "artist": "Renée and Renato",
+              "rank": 1,
+              "title": "Save Your Love"
+            }
+          ],
+          "startDate": "1983-01-01"
+        },
+        {
+          "endDate": "1983-01-28",
+          "items": [
+            {
+              "artist": "Phil Collins",
+              "rank": 1,
+              "title": "You Can't Hurry Love"
+            }
+          ],
+          "startDate": "1983-01-15"
+        },
+        {
+          "endDate": "1983-02-18",
+          "items": [
+            {
+              "artist": "Men at Work",
+              "rank": 1,
+              "title": "Down Under"
+            }
+          ],
+          "startDate": "1983-01-29"
+        },
+        {
+          "endDate": "1983-03-04",
+          "items": [
+            {
+              "artist": "Kajagoogoo",
+              "rank": 1,
+              "title": "Too Shy"
+            }
+          ],
+          "startDate": "1983-02-19"
+        },
+        {
+          "endDate": "1983-03-06",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Billie Jean"
+            }
+          ],
+          "startDate": "1983-03-05"
+        },
+        {
+          "endDate": "1983-03-11",
           "items": [
             {
               "artist": "New Order",
@@ -15,7 +354,117 @@
           "startDate": "1983-03-07"
         },
         {
-          "endDate": "1983-09-12",
+          "endDate": "1983-03-25",
+          "items": [
+            {
+              "artist": "Bonnie Tyler",
+              "rank": 1,
+              "title": "Total Eclipse of the Heart"
+            }
+          ],
+          "startDate": "1983-03-12"
+        },
+        {
+          "endDate": "1983-04-08",
+          "items": [
+            {
+              "artist": "Duran Duran",
+              "rank": 1,
+              "title": "Is There Something I Should Know?"
+            }
+          ],
+          "startDate": "1983-03-26"
+        },
+        {
+          "endDate": "1983-04-29",
+          "items": [
+            {
+              "artist": "David Bowie",
+              "rank": 1,
+              "title": "Let's Dance"
+            }
+          ],
+          "startDate": "1983-04-09"
+        },
+        {
+          "endDate": "1983-05-27",
+          "items": [
+            {
+              "artist": "Spandau Ballet",
+              "rank": 1,
+              "title": "True"
+            }
+          ],
+          "startDate": "1983-04-30"
+        },
+        {
+          "endDate": "1983-06-03",
+          "items": [
+            {
+              "artist": "New Edition",
+              "rank": 1,
+              "title": "Candy Girl"
+            }
+          ],
+          "startDate": "1983-05-28"
+        },
+        {
+          "endDate": "1983-07-01",
+          "items": [
+            {
+              "artist": "The Police",
+              "rank": 1,
+              "title": "Every Breath You Take"
+            }
+          ],
+          "startDate": "1983-06-04"
+        },
+        {
+          "endDate": "1983-07-22",
+          "items": [
+            {
+              "artist": "Rod Stewart",
+              "rank": 1,
+              "title": "Baby Jane"
+            }
+          ],
+          "startDate": "1983-07-02"
+        },
+        {
+          "endDate": "1983-08-12",
+          "items": [
+            {
+              "artist": "Paul Young",
+              "rank": 1,
+              "title": "Wherever I Lay My Hat (That's My Home)"
+            }
+          ],
+          "startDate": "1983-07-23"
+        },
+        {
+          "endDate": "1983-09-02",
+          "items": [
+            {
+              "artist": "KC and the Sunshine Band",
+              "rank": 1,
+              "title": "Give It Up"
+            }
+          ],
+          "startDate": "1983-08-13"
+        },
+        {
+          "endDate": "1983-09-05",
+          "items": [
+            {
+              "artist": "UB40",
+              "rank": 1,
+              "title": "Red Red Wine"
+            }
+          ],
+          "startDate": "1983-09-03"
+        },
+        {
+          "endDate": "1983-09-09",
           "items": [
             {
               "artist": "Culture Club",
@@ -26,7 +475,29 @@
           "startDate": "1983-09-06"
         },
         {
-          "endDate": "1983-10-06",
+          "endDate": "1983-09-23",
+          "items": [
+            {
+              "artist": "UB40",
+              "rank": 1,
+              "title": "Red Red Wine"
+            }
+          ],
+          "startDate": "1983-09-10"
+        },
+        {
+          "endDate": "1983-09-29",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Karma Chameleon"
+            }
+          ],
+          "startDate": "1983-09-24"
+        },
+        {
+          "endDate": "1983-09-30",
           "items": [
             {
               "artist": "Billy Joel",
@@ -35,12 +506,45 @@
             }
           ],
           "startDate": "1983-09-30"
+        },
+        {
+          "endDate": "1983-11-04",
+          "items": [
+            {
+              "artist": "Culture Club",
+              "rank": 1,
+              "title": "Karma Chameleon"
+            }
+          ],
+          "startDate": "1983-10-01"
+        },
+        {
+          "endDate": "1983-12-09",
+          "items": [
+            {
+              "artist": "Billy Joel",
+              "rank": 1,
+              "title": "Uptown Girl"
+            }
+          ],
+          "startDate": "1983-11-05"
+        },
+        {
+          "endDate": "1983-12-31",
+          "items": [
+            {
+              "artist": "The Flying Pickets",
+              "rank": 1,
+              "title": "Only You"
+            }
+          ],
+          "startDate": "1983-12-10"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -48,7 +552,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "a8d4b0c64fd17f88c15d09a8fb2ce2b55ef14c1be38add5c93b26b93b46d5666",
+  "contentHash": "3e73e88a25b41cd2e5c0579b5cd36448f815988dfecaf30934ead57fcbdb5285",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1983

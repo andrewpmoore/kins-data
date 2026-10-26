@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2022",
+      "items": [
+        {
+          "author": "Javier Castillo",
+          "creator": "Javier Castillo",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "El cuco de cristal",
+          "url": "https://books.google.com/books?q=El+cuco+de+cristal"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2022.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2022
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2022",
+      "items": [
+        {
+          "author": "Joana Marcús",
+          "creator": "Joana Marcús",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Antes de diciembre",
+          "url": "https://books.google.com/books?q=Antes+de+diciembre"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2022.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2022
+    },
     "games": {
       "id": "media-awardWinner-2022",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2022
     }
   },
-  "contentHash": "2a15c28c9a3e42c228238104bfa1b7f7b178552a06ca5983aaab424f09c987ce",
+  "contentHash": "168a8d276d5c70fe990f6b2ec54f439c4c69e620bb0e4106be9a6977ef4be22d",
   "country": "es",
   "schemaVersion": 1,
   "year": 2022

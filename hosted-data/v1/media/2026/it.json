@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2026",
+      "items": [
+        {
+          "author": "Stefania Auci",
+          "creator": "Stefania Auci",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "L'alba dei leoni",
+          "url": "https://books.google.com/books?q=L'alba+dei+leoni"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2026.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2026
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2026",
+      "items": [
+        {
+          "author": "Pera Toons",
+          "creator": "Pera Toons",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "La sfida finale",
+          "url": "https://books.google.com/books?q=La+sfida+finale"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2026.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2026
+    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -26,7 +72,7 @@
       "year": 2026
     }
   },
-  "contentHash": "2569ba8147628669b4d3e095a1de6847eeec5f31965007a0bd2b62ca39431426",
+  "contentHash": "669945db8b3363ee3ce22f18871e93befce27304d5004793c869296f000b24ee",
   "country": "it",
   "schemaVersion": 1,
   "year": 2026

@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2016",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781784161750",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781784161750-L.jpg?default=false",
+          "author": "Paula Hawkins",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781784161750",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781784161750-L.jpg?default=false",
+          "creator": "Paula Hawkins",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Girl on the Train",
+          "url": "https://books.google.com/books?vid=ISBN:9781784161750"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2016-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2016
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2016",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780540027347",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780540027347-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780540027347",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780540027347-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Harry Potter and the Cursed Child",
+          "url": "https://books.google.com/books?vid=ISBN:9780540027347"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2016-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2016
+    },
     "games": {
       "id": "media-awardWinner-2016",
       "items": [
@@ -9,7 +67,8 @@
           "artworkURL": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/py/PYPPVW0HVZSR1460160083444.jpg",
           "rank": 1,
           "releaseYear": 2016,
-          "title": "Overwatch"
+          "title": "Overwatch",
+          "trailerURL": "https://www.youtube.com/watch?v=pwFu8kEsUW4"
         }
       ],
       "source": {
@@ -24,7 +83,7 @@
       "year": 2016
     }
   },
-  "contentHash": "958dd7a15d32c50de750f16aee3f472d115cbfd3fab359a10dcea6c9a77f97e4",
+  "contentHash": "868e92478af1704966aebbf17e0763262796c8b952087537852e9f0fa8430675",
   "country": "us",
   "schemaVersion": 1,
   "year": 2016

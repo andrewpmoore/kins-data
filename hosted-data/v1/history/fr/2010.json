@@ -1,10 +1,396 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2010-02-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar"
+            }
+          ],
+          "startDate": "2010-01-01"
+        },
+        {
+          "endDate": "2010-02-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sherlock Holmes"
+            }
+          ],
+          "startDate": "2010-02-07"
+        },
+        {
+          "endDate": "2010-02-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar"
+            }
+          ],
+          "startDate": "2010-02-14"
+        },
+        {
+          "endDate": "2010-02-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Princess and the Frog"
+            }
+          ],
+          "startDate": "2010-02-21"
+        },
+        {
+          "endDate": "2010-03-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shutter Island"
+            }
+          ],
+          "startDate": "2010-02-28"
+        },
+        {
+          "endDate": "2010-03-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Round Up"
+            }
+          ],
+          "startDate": "2010-03-14"
+        },
+        {
+          "endDate": "2010-03-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Heartbreaker"
+            }
+          ],
+          "startDate": "2010-03-21"
+        },
+        {
+          "endDate": "2010-04-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Alice in Wonderland"
+            }
+          ],
+          "startDate": "2010-03-28"
+        },
+        {
+          "endDate": "2010-04-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Clash of the Titans"
+            }
+          ],
+          "startDate": "2010-04-11"
+        },
+        {
+          "endDate": "2010-04-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Extraordinary Adventures of Adèle Blanc-Sec"
+            }
+          ],
+          "startDate": "2010-04-18"
+        },
+        {
+          "endDate": "2010-05-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Camping 2"
+            }
+          ],
+          "startDate": "2010-04-25"
+        },
+        {
+          "endDate": "2010-05-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Iron Man 2"
+            }
+          ],
+          "startDate": "2010-05-02"
+        },
+        {
+          "endDate": "2010-05-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Camping 2"
+            }
+          ],
+          "startDate": "2010-05-09"
+        },
+        {
+          "endDate": "2010-05-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Robin Hood"
+            }
+          ],
+          "startDate": "2010-05-16"
+        },
+        {
+          "endDate": "2010-06-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Prince of Persia: The Sands of Time"
+            }
+          ],
+          "startDate": "2010-05-30"
+        },
+        {
+          "endDate": "2010-06-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sex and the City 2"
+            }
+          ],
+          "startDate": "2010-06-06"
+        },
+        {
+          "endDate": "2010-07-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The A-Team"
+            }
+          ],
+          "startDate": "2010-06-20"
+        },
+        {
+          "endDate": "2010-07-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek Forever After"
+            }
+          ],
+          "startDate": "2010-07-04"
+        },
+        {
+          "endDate": "2010-07-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Twilight Saga: Eclipse"
+            }
+          ],
+          "startDate": "2010-07-11"
+        },
+        {
+          "endDate": "2010-07-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Toy Story 3"
+            }
+          ],
+          "startDate": "2010-07-18"
+        },
+        {
+          "endDate": "2010-08-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inception"
+            }
+          ],
+          "startDate": "2010-07-25"
+        },
+        {
+          "endDate": "2010-08-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sorcerer's Apprentice"
+            }
+          ],
+          "startDate": "2010-08-15"
+        },
+        {
+          "endDate": "2010-08-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Expendables"
+            }
+          ],
+          "startDate": "2010-08-22"
+        },
+        {
+          "endDate": "2010-09-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Salt"
+            }
+          ],
+          "startDate": "2010-08-29"
+        },
+        {
+          "endDate": "2010-09-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Piranha 3D"
+            }
+          ],
+          "startDate": "2010-09-05"
+        },
+        {
+          "endDate": "2010-09-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Of Gods and Men"
+            }
+          ],
+          "startDate": "2010-09-12"
+        },
+        {
+          "endDate": "2010-10-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Resident Evil: Afterlife"
+            }
+          ],
+          "startDate": "2010-09-26"
+        },
+        {
+          "endDate": "2010-10-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Of Gods and Men"
+            }
+          ],
+          "startDate": "2010-10-03"
+        },
+        {
+          "endDate": "2010-10-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Despicable Me"
+            }
+          ],
+          "startDate": "2010-10-10"
+        },
+        {
+          "endDate": "2010-10-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Arthur 3: The War of the Two Worlds"
+            }
+          ],
+          "startDate": "2010-10-17"
+        },
+        {
+          "endDate": "2010-11-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Little White Lies"
+            }
+          ],
+          "startDate": "2010-10-24"
+        },
+        {
+          "endDate": "2010-11-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Potiche"
+            }
+          ],
+          "startDate": "2010-11-14"
+        },
+        {
+          "endDate": "2010-12-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Deathly Hallows: Part 1"
+            }
+          ],
+          "startDate": "2010-11-28"
+        },
+        {
+          "endDate": "2010-12-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader"
+            }
+          ],
+          "startDate": "2010-12-12"
+        },
+        {
+          "endDate": "2010-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tangled"
+            }
+          ],
+          "startDate": "2010-12-19"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2010-01-29",
+          "endDate": "2010-01-02",
+          "items": [
+            {
+              "artist": "Edward Maya feat. Vika Jigulina",
+              "rank": 1,
+              "title": "Stereo Love"
+            }
+          ],
+          "startDate": "2010-01-01"
+        },
+        {
+          "endDate": "2010-01-23",
+          "items": [
+            {
+              "artist": "Edward Maya & Vika Jigulina",
+              "rank": 1,
+              "title": "Stereo Love"
+            }
+          ],
+          "startDate": "2010-01-03"
+        },
+        {
+          "endDate": "2010-01-30",
           "items": [
             {
               "artist": "Lady Gaga",
@@ -12,32 +398,65 @@
               "title": "Bad Romance"
             }
           ],
-          "startDate": "2010-01-23"
+          "startDate": "2010-01-24"
         },
         {
-          "endDate": "2010-02-26",
+          "endDate": "2010-02-20",
           "items": [
             {
-              "artist": "Artists for Haiti",
+              "artist": "Christophe Maé",
               "rank": 1,
-              "title": "We Are the World 25 for Haiti"
+              "title": "Dingue, dingue, dingue"
             }
           ],
-          "startDate": "2010-02-20"
+          "startDate": "2010-01-31"
         },
         {
-          "endDate": "2010-03-19",
+          "endDate": "2010-03-06",
           "items": [
             {
-              "artist": "Cœur de pirate and Julien Doré",
+              "artist": "Kesha",
+              "rank": 1,
+              "title": "Tik Tok"
+            }
+          ],
+          "startDate": "2010-02-21"
+        },
+        {
+          "endDate": "2010-03-13",
+          "items": [
+            {
+              "artist": "Stromae",
+              "rank": 1,
+              "title": "Alors on danse"
+            }
+          ],
+          "startDate": "2010-03-07"
+        },
+        {
+          "endDate": "2010-03-20",
+          "items": [
+            {
+              "artist": "Cœur de pirate featuring Julien Doré",
               "rank": 1,
               "title": "Pour un infidèle"
             }
           ],
-          "startDate": "2010-03-13"
+          "startDate": "2010-03-14"
         },
         {
-          "endDate": "2010-04-16",
+          "endDate": "2010-05-15",
+          "items": [
+            {
+              "artist": "Stromae",
+              "rank": 1,
+              "title": "Alors on danse"
+            }
+          ],
+          "startDate": "2010-03-21"
+        },
+        {
+          "endDate": "2010-05-22",
           "items": [
             {
               "artist": "Justin Bieber featuring Ludacris",
@@ -45,76 +464,87 @@
               "title": "Baby"
             }
           ],
-          "startDate": "2010-04-10"
+          "startDate": "2010-05-16"
         },
         {
-          "endDate": "2010-04-30",
+          "endDate": "2010-05-29",
           "items": [
             {
-              "artist": "Remady",
+              "artist": "Stromae",
               "rank": 1,
-              "title": "No Superstar"
+              "title": "Alors on danse"
             }
           ],
-          "startDate": "2010-04-24"
+          "startDate": "2010-05-23"
         },
         {
-          "endDate": "2010-06-11",
+          "endDate": "2010-06-05",
           "items": [
             {
-              "artist": "Train",
+              "artist": "Justin Bieber featuring Ludacris",
               "rank": 1,
-              "title": "Hey, Soul Sister"
+              "title": "Baby"
             }
           ],
-          "startDate": "2010-06-05"
+          "startDate": "2010-05-30"
         },
         {
-          "endDate": "2010-07-02",
+          "endDate": "2010-06-19",
           "items": [
             {
-              "artist": "Zaz",
+              "artist": "Jessy Matador",
               "rank": 1,
-              "title": "Je veux"
+              "title": "Allez Ola Olé"
             }
           ],
-          "startDate": "2010-06-26"
+          "startDate": "2010-06-06"
         },
         {
-          "endDate": "2010-07-16",
+          "endDate": "2010-06-26",
           "items": [
             {
-              "artist": "K'naan and Féfé",
+              "artist": "David Guetta & Chris Willis featuring Fergie & LMFAO",
               "rank": 1,
-              "title": "Wavin' Flag"
+              "title": "Gettin' Over You"
             }
           ],
-          "startDate": "2010-07-10"
+          "startDate": "2010-06-20"
         },
         {
-          "endDate": "2010-07-30",
+          "endDate": "2010-07-17",
           "items": [
             {
-              "artist": "Fatal Bazooka",
+              "artist": "Jessy Matador",
               "rank": 1,
-              "title": "Ce matin va être une pure soirée"
+              "title": "Allez Ola Olé"
             }
           ],
-          "startDate": "2010-07-24"
+          "startDate": "2010-06-27"
         },
         {
-          "endDate": "2010-08-06",
+          "endDate": "2010-07-24",
           "items": [
             {
-              "artist": "Inna",
+              "artist": "Collectif Métissé",
               "rank": 1,
-              "title": "Amazing"
+              "title": "Debout pour danser"
             }
           ],
-          "startDate": "2010-07-31"
+          "startDate": "2010-07-18"
         },
         {
-          "endDate": "2010-08-20",
+          "endDate": "2010-09-04",
+          "items": [
+            {
+              "artist": "Shakira featuring Freshlyground",
+              "rank": 1,
+              "title": "Waka Waka (This Time for Africa)"
+            }
+          ],
+          "startDate": "2010-07-25"
+        },
+        {
+          "endDate": "2010-12-04",
           "items": [
             {
               "artist": "René la Taupe",
@@ -122,90 +552,35 @@
               "title": "Mignon Mignon"
             }
           ],
-          "startDate": "2010-08-14"
+          "startDate": "2010-09-05"
         },
         {
-          "endDate": "2010-09-10",
+          "endDate": "2010-12-25",
           "items": [
             {
-              "artist": "Yolanda Be Cool and DCUP",
+              "artist": "Mylène Farmer",
               "rank": 1,
-              "title": "We No Speak Americano"
+              "title": "Oui mais... non"
             }
           ],
-          "startDate": "2010-09-04"
-        },
-        {
-          "endDate": "2010-09-24",
-          "items": [
-            {
-              "artist": "Flo Rida featuring David Guetta",
-              "rank": 1,
-              "title": "Club Can't Handle Me"
-            }
-          ],
-          "startDate": "2010-09-18"
-        },
-        {
-          "endDate": "2010-10-15",
-          "items": [
-            {
-              "artist": "Soprano",
-              "rank": 1,
-              "title": "Hiro"
-            }
-          ],
-          "startDate": "2010-10-09"
-        },
-        {
-          "endDate": "2010-11-26",
-          "items": [
-            {
-              "artist": "Black Eyed Peas",
-              "rank": 1,
-              "title": "The Time"
-            }
-          ],
-          "startDate": "2010-11-20"
-        },
-        {
-          "endDate": "2010-12-17",
-          "items": [
-            {
-              "artist": "Rihanna featuring Drake",
-              "rank": 1,
-              "title": "What's My Name?"
-            }
-          ],
-          "startDate": "2010-12-11"
-        },
-        {
-          "endDate": "2010-12-24",
-          "items": [
-            {
-              "artist": "Israel Kamakawiwo'ole",
-              "rank": 1,
-              "title": "Over the Rainbow"
-            }
-          ],
-          "startDate": "2010-12-18"
+          "startDate": "2010-12-05"
         },
         {
           "endDate": "2010-12-31",
           "items": [
             {
-              "artist": "Katy Perry",
+              "artist": "IZ Kamakawiwoʻole",
               "rank": 1,
-              "title": "Firework"
+              "title": "Over the Rainbow"
             }
           ],
-          "startDate": "2010-12-25"
+          "startDate": "2010-12-26"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-01",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -213,7 +588,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "907186ac22af5c0b28298375843f4542d7e84e423b9c0285a10b85c6a9149bb1",
+  "contentHash": "2944f8e93ea53ea485ca27d5e85c32b326728d5f1789cff62b61e55052a9ec16",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2010

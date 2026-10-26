@@ -1,0 +1,638 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2001-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unbreakable"
+            }
+          ],
+          "startDate": "2001-01-01"
+        },
+        {
+          "endDate": "2001-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cast Away"
+            }
+          ],
+          "startDate": "2001-01-14"
+        },
+        {
+          "endDate": "2001-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What Women Want"
+            }
+          ],
+          "startDate": "2001-02-04"
+        },
+        {
+          "endDate": "2001-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hannibal"
+            }
+          ],
+          "startDate": "2001-02-18"
+        },
+        {
+          "endDate": "2001-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Enemy at the Gates"
+            }
+          ],
+          "startDate": "2001-03-18"
+        },
+        {
+          "endDate": "2001-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Miss Congeniality"
+            }
+          ],
+          "startDate": "2001-03-25"
+        },
+        {
+          "endDate": "2001-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rugrats in Paris"
+            }
+          ],
+          "startDate": "2001-04-08"
+        },
+        {
+          "endDate": "2001-05-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bridget Jones's Diary"
+            }
+          ],
+          "startDate": "2001-04-15"
+        },
+        {
+          "endDate": "2001-06-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mummy Returns"
+            }
+          ],
+          "startDate": "2001-05-20"
+        },
+        {
+          "endDate": "2001-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pearl Harbor"
+            }
+          ],
+          "startDate": "2001-06-03"
+        },
+        {
+          "endDate": "2001-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Evolution"
+            }
+          ],
+          "startDate": "2001-06-24"
+        },
+        {
+          "endDate": "2001-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek"
+            }
+          ],
+          "startDate": "2001-07-01"
+        },
+        {
+          "endDate": "2001-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lara Croft: Tomb Raider"
+            }
+          ],
+          "startDate": "2001-07-08"
+        },
+        {
+          "endDate": "2001-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek"
+            }
+          ],
+          "startDate": "2001-07-15"
+        },
+        {
+          "endDate": "2001-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park III"
+            }
+          ],
+          "startDate": "2001-07-22"
+        },
+        {
+          "endDate": "2001-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cats & Dogs"
+            }
+          ],
+          "startDate": "2001-08-05"
+        },
+        {
+          "endDate": "2001-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Planet of the Apes"
+            }
+          ],
+          "startDate": "2001-08-19"
+        },
+        {
+          "endDate": "2001-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Knight's Tale"
+            }
+          ],
+          "startDate": "2001-09-02"
+        },
+        {
+          "endDate": "2001-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moulin Rouge!"
+            }
+          ],
+          "startDate": "2001-09-09"
+        },
+        {
+          "endDate": "2001-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A.I. Artificial Intelligence"
+            }
+          ],
+          "startDate": "2001-09-23"
+        },
+        {
+          "endDate": "2001-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moulin Rouge!"
+            }
+          ],
+          "startDate": "2001-10-07"
+        },
+        {
+          "endDate": "2001-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Pie 2"
+            }
+          ],
+          "startDate": "2001-10-14"
+        },
+        {
+          "endDate": "2001-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Others"
+            }
+          ],
+          "startDate": "2001-11-04"
+        },
+        {
+          "endDate": "2001-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Philosopher's Stone"
+            }
+          ],
+          "startDate": "2001-11-18"
+        },
+        {
+          "endDate": "2001-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lord of the Rings: The Fellowship of the Ring"
+            }
+          ],
+          "startDate": "2001-12-23"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2001-01-12",
+          "items": [
+            {
+              "artist": "Bob the Builder",
+              "rank": 1,
+              "title": "Can We Fix It?"
+            }
+          ],
+          "startDate": "2001-01-01"
+        },
+        {
+          "endDate": "2001-01-19",
+          "items": [
+            {
+              "artist": "Rui da Silva featuring Cassandra",
+              "rank": 1,
+              "title": "Touch Me"
+            }
+          ],
+          "startDate": "2001-01-13"
+        },
+        {
+          "endDate": "2001-01-26",
+          "items": [
+            {
+              "artist": "Jennifer Lopez",
+              "rank": 1,
+              "title": "Love Don't Cost a Thing"
+            }
+          ],
+          "startDate": "2001-01-20"
+        },
+        {
+          "endDate": "2001-02-09",
+          "items": [
+            {
+              "artist": "Limp Bizkit",
+              "rank": 1,
+              "title": "Rollin'"
+            }
+          ],
+          "startDate": "2001-01-27"
+        },
+        {
+          "endDate": "2001-03-09",
+          "items": [
+            {
+              "artist": "Atomic Kitten",
+              "rank": 1,
+              "title": "Whole Again"
+            }
+          ],
+          "startDate": "2001-02-10"
+        },
+        {
+          "endDate": "2001-03-16",
+          "items": [
+            {
+              "artist": "Shaggy featuring RikRok",
+              "rank": 1,
+              "title": "It Wasn't Me"
+            }
+          ],
+          "startDate": "2001-03-10"
+        },
+        {
+          "endDate": "2001-03-23",
+          "items": [
+            {
+              "artist": "Westlife",
+              "rank": 1,
+              "title": "Uptown Girl"
+            }
+          ],
+          "startDate": "2001-03-17"
+        },
+        {
+          "endDate": "2001-04-13",
+          "items": [
+            {
+              "artist": "Hear'Say",
+              "rank": 1,
+              "title": "Pure and Simple"
+            }
+          ],
+          "startDate": "2001-03-24"
+        },
+        {
+          "endDate": "2001-04-27",
+          "items": [
+            {
+              "artist": "Emma Bunton",
+              "rank": 1,
+              "title": "What Took You So Long?"
+            }
+          ],
+          "startDate": "2001-04-14"
+        },
+        {
+          "endDate": "2001-05-04",
+          "items": [
+            {
+              "artist": "Destiny's Child",
+              "rank": 1,
+              "title": "Survivor"
+            }
+          ],
+          "startDate": "2001-04-28"
+        },
+        {
+          "endDate": "2001-05-11",
+          "items": [
+            {
+              "artist": "S Club 7",
+              "rank": 1,
+              "title": "Don't Stop Movin'"
+            }
+          ],
+          "startDate": "2001-05-05"
+        },
+        {
+          "endDate": "2001-05-25",
+          "items": [
+            {
+              "artist": "Geri Halliwell",
+              "rank": 1,
+              "title": "It's Raining Men"
+            }
+          ],
+          "startDate": "2001-05-12"
+        },
+        {
+          "endDate": "2001-06-01",
+          "items": [
+            {
+              "artist": "S Club 7",
+              "rank": 1,
+              "title": "Don't Stop Movin'"
+            }
+          ],
+          "startDate": "2001-05-26"
+        },
+        {
+          "endDate": "2001-06-08",
+          "items": [
+            {
+              "artist": "DJ Pied Piper and the Masters of Ceremonies",
+              "rank": 1,
+              "title": "Do You Really Like It?"
+            }
+          ],
+          "startDate": "2001-06-02"
+        },
+        {
+          "endDate": "2001-06-29",
+          "items": [
+            {
+              "artist": "Shaggy featuring Rayvon",
+              "rank": 1,
+              "title": "Angel"
+            }
+          ],
+          "startDate": "2001-06-09"
+        },
+        {
+          "endDate": "2001-07-06",
+          "items": [
+            {
+              "artist": "Christina Aguilera, Lil' Kim, Mýa and Pink",
+              "rank": 1,
+              "title": "Lady Marmalade"
+            }
+          ],
+          "startDate": "2001-06-30"
+        },
+        {
+          "endDate": "2001-07-13",
+          "items": [
+            {
+              "artist": "Hear'Say",
+              "rank": 1,
+              "title": "The Way to Your Love"
+            }
+          ],
+          "startDate": "2001-07-07"
+        },
+        {
+          "endDate": "2001-07-20",
+          "items": [
+            {
+              "artist": "Roger Sanchez",
+              "rank": 1,
+              "title": "Another Chance"
+            }
+          ],
+          "startDate": "2001-07-14"
+        },
+        {
+          "endDate": "2001-08-03",
+          "items": [
+            {
+              "artist": "Robbie Williams",
+              "rank": 1,
+              "title": "Eternity / The Road to Mandalay"
+            }
+          ],
+          "startDate": "2001-07-21"
+        },
+        {
+          "endDate": "2001-08-17",
+          "items": [
+            {
+              "artist": "Atomic Kitten",
+              "rank": 1,
+              "title": "Eternal Flame"
+            }
+          ],
+          "startDate": "2001-08-04"
+        },
+        {
+          "endDate": "2001-08-24",
+          "items": [
+            {
+              "artist": "So Solid Crew",
+              "rank": 1,
+              "title": "21 Seconds"
+            }
+          ],
+          "startDate": "2001-08-18"
+        },
+        {
+          "endDate": "2001-09-07",
+          "items": [
+            {
+              "artist": "Five",
+              "rank": 1,
+              "title": "Let's Dance"
+            }
+          ],
+          "startDate": "2001-08-25"
+        },
+        {
+          "endDate": "2001-09-14",
+          "items": [
+            {
+              "artist": "Blue",
+              "rank": 1,
+              "title": "Too Close"
+            }
+          ],
+          "startDate": "2001-09-08"
+        },
+        {
+          "endDate": "2001-09-21",
+          "items": [
+            {
+              "artist": "Bob the Builder",
+              "rank": 1,
+              "title": "Mambo No. 5"
+            }
+          ],
+          "startDate": "2001-09-15"
+        },
+        {
+          "endDate": "2001-09-28",
+          "items": [
+            {
+              "artist": "DJ Ötzi",
+              "rank": 1,
+              "title": "Hey Baby"
+            }
+          ],
+          "startDate": "2001-09-22"
+        },
+        {
+          "endDate": "2001-10-26",
+          "items": [
+            {
+              "artist": "Kylie Minogue",
+              "rank": 1,
+              "title": "Can't Get You Out of My Head"
+            }
+          ],
+          "startDate": "2001-09-29"
+        },
+        {
+          "endDate": "2001-11-16",
+          "items": [
+            {
+              "artist": "Afroman",
+              "rank": 1,
+              "title": "Because I Got High"
+            }
+          ],
+          "startDate": "2001-10-27"
+        },
+        {
+          "endDate": "2001-11-23",
+          "items": [
+            {
+              "artist": "Westlife",
+              "rank": 1,
+              "title": "Queen of My Heart"
+            }
+          ],
+          "startDate": "2001-11-17"
+        },
+        {
+          "endDate": "2001-11-30",
+          "items": [
+            {
+              "artist": "Blue",
+              "rank": 1,
+              "title": "If You Come Back"
+            }
+          ],
+          "startDate": "2001-11-24"
+        },
+        {
+          "endDate": "2001-12-07",
+          "items": [
+            {
+              "artist": "S Club 7",
+              "rank": 1,
+              "title": "Have You Ever"
+            }
+          ],
+          "startDate": "2001-12-01"
+        },
+        {
+          "endDate": "2001-12-21",
+          "items": [
+            {
+              "artist": "Daniel Bedingfield",
+              "rank": 1,
+              "title": "Gotta Get Thru This"
+            }
+          ],
+          "startDate": "2001-12-08"
+        },
+        {
+          "endDate": "2001-12-31",
+          "items": [
+            {
+              "artist": "Robbie Williams and Nicole Kidman",
+              "rank": 1,
+              "title": "Somethin' Stupid"
+            }
+          ],
+          "startDate": "2001-12-22"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-15",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "bfee953b43cf1fb006daf0e2539f9eeda206539361d150fc2cd8f6f4f6428583",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2001
+}

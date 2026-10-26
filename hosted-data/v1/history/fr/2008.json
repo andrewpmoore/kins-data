@@ -1,0 +1,514 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2008-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Am Legend"
+            }
+          ],
+          "startDate": "2008-01-01"
+        },
+        {
+          "endDate": "2008-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Into the Wild"
+            }
+          ],
+          "startDate": "2008-01-13"
+        },
+        {
+          "endDate": "2008-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Merry Widow"
+            }
+          ],
+          "startDate": "2008-01-20"
+        },
+        {
+          "endDate": "2008-02-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sweeney Todd: The Demon Barber of Fleet Street"
+            }
+          ],
+          "startDate": "2008-01-27"
+        },
+        {
+          "endDate": "2008-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Asterix at the Olympic Games"
+            }
+          ],
+          "startDate": "2008-02-03"
+        },
+        {
+          "endDate": "2008-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Paris"
+            }
+          ],
+          "startDate": "2008-02-24"
+        },
+        {
+          "endDate": "2008-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Welcome to the Sticks"
+            }
+          ],
+          "startDate": "2008-03-02"
+        },
+        {
+          "endDate": "2008-04-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disco"
+            }
+          ],
+          "startDate": "2008-04-06"
+        },
+        {
+          "endDate": "2008-04-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Welcome to the Sticks"
+            }
+          ],
+          "startDate": "2008-04-13"
+        },
+        {
+          "endDate": "2008-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cash"
+            }
+          ],
+          "startDate": "2008-04-27"
+        },
+        {
+          "endDate": "2008-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Iron Man"
+            }
+          ],
+          "startDate": "2008-05-04"
+        },
+        {
+          "endDate": "2008-06-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indiana Jones and the Kingdom of the Crystal Skull"
+            }
+          ],
+          "startDate": "2008-05-25"
+        },
+        {
+          "endDate": "2008-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Happening"
+            }
+          ],
+          "startDate": "2008-06-15"
+        },
+        {
+          "endDate": "2008-07-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chronicles of Narnia: Prince Caspian"
+            }
+          ],
+          "startDate": "2008-06-29"
+        },
+        {
+          "endDate": "2008-07-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hancock"
+            }
+          ],
+          "startDate": "2008-07-13"
+        },
+        {
+          "endDate": "2008-08-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Incredible Hulk"
+            }
+          ],
+          "startDate": "2008-07-27"
+        },
+        {
+          "endDate": "2008-08-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "WALL·E"
+            }
+          ],
+          "startDate": "2008-08-03"
+        },
+        {
+          "endDate": "2008-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mummy: Tomb of the Dragon Emperor"
+            }
+          ],
+          "startDate": "2008-08-10"
+        },
+        {
+          "endDate": "2008-09-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dark Knight"
+            }
+          ],
+          "startDate": "2008-08-17"
+        },
+        {
+          "endDate": "2008-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mamma Mia!"
+            }
+          ],
+          "startDate": "2008-09-14"
+        },
+        {
+          "endDate": "2008-09-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Let it Rain"
+            }
+          ],
+          "startDate": "2008-09-21"
+        },
+        {
+          "endDate": "2008-10-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Class"
+            }
+          ],
+          "startDate": "2008-09-28"
+        },
+        {
+          "endDate": "2008-10-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vicky Cristina Barcelona"
+            }
+          ],
+          "startDate": "2008-10-12"
+        },
+        {
+          "endDate": "2008-11-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mesrine: Killer Instinct"
+            }
+          ],
+          "startDate": "2008-10-26"
+        },
+        {
+          "endDate": "2008-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Quantum of Solace"
+            }
+          ],
+          "startDate": "2008-11-02"
+        },
+        {
+          "endDate": "2008-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Public Enemy"
+            }
+          ],
+          "startDate": "2008-11-23"
+        },
+        {
+          "endDate": "2008-12-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transporter 3"
+            }
+          ],
+          "startDate": "2008-11-30"
+        },
+        {
+          "endDate": "2008-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar: Escape 2 Africa"
+            }
+          ],
+          "startDate": "2008-12-07"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2008-01-04",
+          "items": [
+            {
+              "artist": "Fatal Bazooka & Yelle",
+              "rank": 1,
+              "title": "Parle à ma main"
+            }
+          ],
+          "startDate": "2008-01-01"
+        },
+        {
+          "endDate": "2008-01-25",
+          "items": [
+            {
+              "artist": "Fatal Bazooka featuring Yelle",
+              "rank": 1,
+              "title": "Parle à ma main"
+            }
+          ],
+          "startDate": "2008-01-05"
+        },
+        {
+          "endDate": "2008-03-21",
+          "items": [
+            {
+              "artist": "Sheryfa Luna",
+              "rank": 1,
+              "title": "Il avait les mots"
+            }
+          ],
+          "startDate": "2008-01-26"
+        },
+        {
+          "endDate": "2008-03-28",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "Bleeding Love"
+            }
+          ],
+          "startDate": "2008-03-22"
+        },
+        {
+          "endDate": "2008-04-04",
+          "items": [
+            {
+              "artist": "M. Pokora",
+              "rank": 1,
+              "title": "Dangerous"
+            }
+          ],
+          "startDate": "2008-03-29"
+        },
+        {
+          "endDate": "2008-04-11",
+          "items": [
+            {
+              "artist": "Laurent Wolf",
+              "rank": 1,
+              "title": "No Stress"
+            }
+          ],
+          "startDate": "2008-04-05"
+        },
+        {
+          "endDate": "2008-04-18",
+          "items": [
+            {
+              "artist": "Ch'ti DJ",
+              "rank": 1,
+              "title": "Hé, biloute ! Monte l'son ! Hein !"
+            }
+          ],
+          "startDate": "2008-04-12"
+        },
+        {
+          "endDate": "2008-07-04",
+          "items": [
+            {
+              "artist": "Enrique Iglesias & Nâdiya",
+              "rank": 1,
+              "title": "Tired of Being Sorry"
+            }
+          ],
+          "startDate": "2008-04-19"
+        },
+        {
+          "endDate": "2008-08-22",
+          "items": [
+            {
+              "artist": "William Baldé",
+              "rank": 1,
+              "title": "Rayon de soleil"
+            }
+          ],
+          "startDate": "2008-07-05"
+        },
+        {
+          "endDate": "2008-08-29",
+          "items": [
+            {
+              "artist": "Mylène Farmer",
+              "rank": 1,
+              "title": "Dégénération"
+            }
+          ],
+          "startDate": "2008-08-23"
+        },
+        {
+          "endDate": "2008-09-12",
+          "items": [
+            {
+              "artist": "William Baldé",
+              "rank": 1,
+              "title": "Rayon de soleil"
+            }
+          ],
+          "startDate": "2008-08-30"
+        },
+        {
+          "endDate": "2008-10-31",
+          "items": [
+            {
+              "artist": "Madcon",
+              "rank": 1,
+              "title": "Beggin'"
+            }
+          ],
+          "startDate": "2008-09-13"
+        },
+        {
+          "endDate": "2008-11-07",
+          "items": [
+            {
+              "artist": "Guru Josh Project",
+              "rank": 1,
+              "title": "Infinity 2008"
+            }
+          ],
+          "startDate": "2008-11-01"
+        },
+        {
+          "endDate": "2008-11-14",
+          "items": [
+            {
+              "artist": "Mylène Farmer",
+              "rank": 1,
+              "title": "Appelle mon numéro"
+            }
+          ],
+          "startDate": "2008-11-08"
+        },
+        {
+          "endDate": "2008-11-28",
+          "items": [
+            {
+              "artist": "Johnny Hallyday",
+              "rank": 1,
+              "title": "Ça n'finira jamais"
+            }
+          ],
+          "startDate": "2008-11-15"
+        },
+        {
+          "endDate": "2008-12-05",
+          "items": [
+            {
+              "artist": "Guru Josh Project",
+              "rank": 1,
+              "title": "Infinity 2008"
+            }
+          ],
+          "startDate": "2008-11-29"
+        },
+        {
+          "endDate": "2008-12-12",
+          "items": [
+            {
+              "artist": "Patrick Sébastien",
+              "rank": 1,
+              "title": "Ah... si tu pouvais fermer ta gueule..."
+            }
+          ],
+          "startDate": "2008-12-06"
+        },
+        {
+          "endDate": "2008-12-31",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "Womanizer"
+            }
+          ],
+          "startDate": "2008-12-13"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "5e35bd4d644c5a6baefebf0b053454e2328fe748655d8d94f5e505280be5e628",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2008
+}

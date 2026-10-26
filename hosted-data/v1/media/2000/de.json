@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2000",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Harry Potter und der Stein der Weisen",
+          "url": "https://books.google.com/books?q=Harry+Potter+und+der+Stein+der+Weisen"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2000/"
+      },
+      "title": "DE print bestseller",
+      "year": 2000
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2000",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Harry Potter und der Feuerkelch",
+          "url": "https://books.google.com/books?q=Harry+Potter+und+der+Feuerkelch"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2000/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2000
+    },
+    "games": {
+      "id": "media-awardWinner-2000",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=481",
+          "artworkURL": "https://www.interactive.org/images/games/2000_the_sims_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "The Sims"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2000&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2000
+    }
+  },
+  "contentHash": "19f7af28f53a44b9eca8e53a271a5460f3d4307698aa89a58b67f4625867a72c",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2000
+}

@@ -4,28 +4,6 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1989-01-01",
-          "items": [
-            {
-              "artist": "Bobby McFerrin",
-              "rank": 1,
-              "title": "Don't Worry, Be Happy"
-            }
-          ],
-          "startDate": "1989-01-01"
-        },
-        {
-          "endDate": "1989-01-08",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1989-01-02"
-        },
-        {
           "endDate": "1989-01-15",
           "items": [
             {
@@ -34,7 +12,7 @@
               "title": "Don't Worry, Be Happy"
             }
           ],
-          "startDate": "1989-01-09"
+          "startDate": "1989-01-01"
         },
         {
           "endDate": "1989-03-05",
@@ -64,7 +42,7 @@
             {
               "artist": "David Hasselhoff",
               "rank": 1,
-              "title": "Looking for Freedom\" †"
+              "title": "Looking for Freedom"
             }
           ],
           "startDate": "1989-04-03"
@@ -128,7 +106,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -136,7 +114,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "62121a7723695468a3144ac4324016cbe2f6d4de6f4b7d70748c9e9acaa87daf",
+  "contentHash": "800808a440823d51472bee0bbe5fa3caf0748ef2c06139cec79edc9b76b01af5",
   "country": "de",
   "schemaVersion": 1,
   "year": 1989

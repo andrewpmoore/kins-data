@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2002",
+      "items": [
+        {
+          "author": "Ken Follett",
+          "creator": "Ken Follett",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Los pilares de la tierra",
+          "url": "https://books.google.com/books?q=Los+pilares+de+la+tierra"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2002.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2002
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2002",
+      "items": [
+        {
+          "author": "Carlos Ruiz Zafón",
+          "creator": "Carlos Ruiz Zafón",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "El príncipe de la niebla",
+          "url": "https://books.google.com/books?q=El+príncipe+de+la+niebla"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2002.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2002
+    },
+    "games": {
+      "id": "media-awardWinner-2002",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2002&idGame=344",
+          "artworkURL": "https://www.interactive.org/images/games/2002_halo_combat_evolved_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2001,
+          "title": "Halo: Combat Evolved"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2002&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2002
+    }
+  },
+  "contentHash": "6ee3248289cc059a29a4b525279c22dff6cf637a860851a6037a227d61e4c3ea",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2002
+}

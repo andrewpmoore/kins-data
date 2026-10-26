@@ -1,10 +1,325 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1955-01-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "There's No Business Like Show Business"
+            }
+          ],
+          "startDate": "1955-01-01"
+        },
+        {
+          "endDate": "1955-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "20,000 Leagues Under the Sea"
+            }
+          ],
+          "startDate": "1955-01-12"
+        },
+        {
+          "endDate": "1955-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vera Cruz"
+            }
+          ],
+          "startDate": "1955-01-19"
+        },
+        {
+          "endDate": "1955-02-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "20,000 Leagues Under the Sea"
+            }
+          ],
+          "startDate": "1955-01-26"
+        },
+        {
+          "endDate": "1955-02-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges at Toko-Ri"
+            }
+          ],
+          "startDate": "1955-02-02"
+        },
+        {
+          "endDate": "1955-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Battle Cry"
+            }
+          ],
+          "startDate": "1955-02-23"
+        },
+        {
+          "endDate": "1955-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Country Girl"
+            }
+          ],
+          "startDate": "1955-03-02"
+        },
+        {
+          "endDate": "1955-03-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Battle Cry"
+            }
+          ],
+          "startDate": "1955-03-09"
+        },
+        {
+          "endDate": "1955-04-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Country Girl"
+            }
+          ],
+          "startDate": "1955-03-16"
+        },
+        {
+          "endDate": "1955-04-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Man Called Peter"
+            }
+          ],
+          "startDate": "1955-04-13"
+        },
+        {
+          "endDate": "1955-04-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "East of Eden"
+            }
+          ],
+          "startDate": "1955-04-20"
+        },
+        {
+          "endDate": "1955-05-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blackboard Jungle"
+            }
+          ],
+          "startDate": "1955-04-27"
+        },
+        {
+          "endDate": "1955-05-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Prodigal"
+            }
+          ],
+          "startDate": "1955-05-11"
+        },
+        {
+          "endDate": "1955-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blackboard Jungle"
+            }
+          ],
+          "startDate": "1955-05-18"
+        },
+        {
+          "endDate": "1955-06-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Strategic Air Command"
+            }
+          ],
+          "startDate": "1955-05-25"
+        },
+        {
+          "endDate": "1955-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Love Me or Leave Me"
+            }
+          ],
+          "startDate": "1955-06-15"
+        },
+        {
+          "endDate": "1955-07-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Seven Year Itch"
+            }
+          ],
+          "startDate": "1955-06-29"
+        },
+        {
+          "endDate": "1955-07-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Not as a Stranger"
+            }
+          ],
+          "startDate": "1955-07-13"
+        },
+        {
+          "endDate": "1955-08-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mister Roberts"
+            }
+          ],
+          "startDate": "1955-07-27"
+        },
+        {
+          "endDate": "1955-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "To Catch a Thief"
+            }
+          ],
+          "startDate": "1955-08-31"
+        },
+        {
+          "endDate": "1955-10-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cinerama Holiday"
+            }
+          ],
+          "startDate": "1955-09-21"
+        },
+        {
+          "endDate": "1955-11-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "To Hell and Back"
+            }
+          ],
+          "startDate": "1955-10-05"
+        },
+        {
+          "endDate": "1955-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trial"
+            }
+          ],
+          "startDate": "1955-11-02"
+        },
+        {
+          "endDate": "1955-11-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cinerama Holiday"
+            }
+          ],
+          "startDate": "1955-11-09"
+        },
+        {
+          "endDate": "1955-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Guys and Dolls"
+            }
+          ],
+          "startDate": "1955-11-16"
+        },
+        {
+          "endDate": "1955-12-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Tender Trap"
+            }
+          ],
+          "startDate": "1955-11-30"
+        },
+        {
+          "endDate": "1955-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Guys and Dolls"
+            }
+          ],
+          "startDate": "1955-12-14"
+        },
+        {
+          "endDate": "1955-12-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cinerama Holiday"
+            }
+          ],
+          "startDate": "1955-12-21"
+        },
+        {
+          "endDate": "1955-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Guys and Dolls"
+            }
+          ],
+          "startDate": "1955-12-28"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1955-01-12",
+          "endDate": "1955-01-05",
+          "items": [
+            {
+              "artist": "Winifred Atwell",
+              "rank": 1,
+              "title": "Let's Have Another Party"
+            }
+          ],
+          "startDate": "1955-01-01"
+        },
+        {
+          "endDate": "1955-01-06",
           "items": [
             {
               "artist": "Dickie Valentine with The Stargazers",
@@ -12,10 +327,109 @@
               "title": "The Finger of Suspicion"
             }
           ],
-          "startDate": "1955-01-01"
+          "startDate": "1955-01-06"
         },
         {
-          "endDate": "1955-06-30",
+          "endDate": "1955-01-13",
+          "items": [
+            {
+              "artist": "Dickie Valentine with the Stargazers",
+              "rank": 1,
+              "title": "The Finger of Suspicion"
+            }
+          ],
+          "startDate": "1955-01-07"
+        },
+        {
+          "endDate": "1955-01-20",
+          "items": [
+            {
+              "artist": "Rosemary Clooney",
+              "rank": 1,
+              "title": "Mambo Italiano"
+            }
+          ],
+          "startDate": "1955-01-14"
+        },
+        {
+          "endDate": "1955-02-03",
+          "items": [
+            {
+              "artist": "Dickie Valentine with the Stargazers",
+              "rank": 1,
+              "title": "The Finger of Suspicion"
+            }
+          ],
+          "startDate": "1955-01-21"
+        },
+        {
+          "endDate": "1955-02-17",
+          "items": [
+            {
+              "artist": "Rosemary Clooney",
+              "rank": 1,
+              "title": "Mambo Italiano"
+            }
+          ],
+          "startDate": "1955-02-04"
+        },
+        {
+          "endDate": "1955-03-10",
+          "items": [
+            {
+              "artist": "Ruby Murray",
+              "rank": 1,
+              "title": "Softly, Softly"
+            }
+          ],
+          "startDate": "1955-02-18"
+        },
+        {
+          "endDate": "1955-04-28",
+          "items": [
+            {
+              "artist": "Tennessee Ernie Ford",
+              "rank": 1,
+              "title": "Give Me Your Word"
+            }
+          ],
+          "startDate": "1955-03-11"
+        },
+        {
+          "endDate": "1955-05-12",
+          "items": [
+            {
+              "artist": "Pérez Prado and his Orchestra",
+              "rank": 1,
+              "title": "Cherry Pink (and Apple Blossom White)"
+            }
+          ],
+          "startDate": "1955-04-29"
+        },
+        {
+          "endDate": "1955-05-26",
+          "items": [
+            {
+              "artist": "Tony Bennett",
+              "rank": 1,
+              "title": "Stranger in Paradise"
+            }
+          ],
+          "startDate": "1955-05-13"
+        },
+        {
+          "endDate": "1955-06-23",
+          "items": [
+            {
+              "artist": "Eddie Calvert",
+              "rank": 1,
+              "title": "Cherry Pink (and Apple Blossom White)"
+            }
+          ],
+          "startDate": "1955-05-27"
+        },
+        {
+          "endDate": "1955-07-14",
           "items": [
             {
               "artist": "Jimmy Young",
@@ -24,12 +438,78 @@
             }
           ],
           "startDate": "1955-06-24"
+        },
+        {
+          "endDate": "1955-07-28",
+          "items": [
+            {
+              "artist": "Alma Cogan",
+              "rank": 1,
+              "title": "Dreamboat"
+            }
+          ],
+          "startDate": "1955-07-15"
+        },
+        {
+          "endDate": "1955-10-13",
+          "items": [
+            {
+              "artist": "Slim Whitman",
+              "rank": 1,
+              "title": "Rose Marie"
+            }
+          ],
+          "startDate": "1955-07-29"
+        },
+        {
+          "endDate": "1955-11-10",
+          "items": [
+            {
+              "artist": "Jimmy Young",
+              "rank": 1,
+              "title": "The Man from Laramie"
+            }
+          ],
+          "startDate": "1955-10-14"
+        },
+        {
+          "endDate": "1955-11-24",
+          "items": [
+            {
+              "artist": "The Johnston Brothers",
+              "rank": 1,
+              "title": "Hernando's Hideaway"
+            }
+          ],
+          "startDate": "1955-11-11"
+        },
+        {
+          "endDate": "1955-12-15",
+          "items": [
+            {
+              "artist": "Bill Haley & His Comets",
+              "rank": 1,
+              "title": "Rock Around the Clock"
+            }
+          ],
+          "startDate": "1955-11-25"
+        },
+        {
+          "endDate": "1955-12-31",
+          "items": [
+            {
+              "artist": "Dickie Valentine",
+              "rank": 1,
+              "title": "Christmas Alphabet"
+            }
+          ],
+          "startDate": "1955-12-16"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -37,7 +517,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "5dccd1729987e5e51128bd55293c03c99255bceabd0753cb3b14b24414496416",
+  "contentHash": "a6b86d5c495b7eae4ab0fe7c3fe67eaeeb7bf3b0fa8d87383bcbd7f1eb9407be",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1955

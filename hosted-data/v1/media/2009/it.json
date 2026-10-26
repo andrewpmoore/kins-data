@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2009",
+      "items": [
+        {
+          "author": "Stieg Larsson",
+          "creator": "Stieg Larsson",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Uomini che odiano le donne",
+          "url": "https://books.google.com/books?q=Uomini+che+odiano+le+donne"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2009.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2009
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2009",
+      "items": [
+        {
+          "author": "Stephenie Meyer",
+          "creator": "Stephenie Meyer",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "New Moon",
+          "url": "https://books.google.com/books?q=New+Moon"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2009.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2009
+    },
     "games": {
       "id": "media-awardWinner-2009",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2009
     }
   },
-  "contentHash": "b00960c6ec7882d708349384c9fb321deef642ea008191c9a96a94127a260635",
+  "contentHash": "dcc6b14dbe6db3c90b75cd0807a1e58f1c6d53c8e3ad7eccad34a5ce8329af14",
   "country": "it",
   "schemaVersion": 1,
   "year": 2009

@@ -470,7 +470,7 @@ date,rank,song,artist
 1965-01-01,1,"Oh, Pretty Woman",Roy Orbison
 1965-01-02,1,Kleine Annabell,Ronny
 1965-01-09,1,Kleine Annabell,Ronny
-1965-01-15,1,"Kenn ein Land"" / ""Kleine Annabell",Ronny
+1965-01-15,1,Kenn ein Land / Kleine Annabell,Ronny
 1965-01-16,1,"Oh, Pretty Woman",Roy Orbison
 1965-01-23,1,"Oh, Pretty Woman",Roy Orbison
 1965-01-30,1,Das ist die Frage aller Fragen,Cliff Richard
@@ -479,7 +479,7 @@ date,rank,song,artist
 1965-02-13,1,Das ist die Frage aller Fragen,Cliff Richard
 1965-02-20,1,Das ist die Frage aller Fragen,Cliff Richard
 1965-02-27,1,Kleine Annabell,Ronny
-1965-03-01,1,"Kenn ein Land"" / ""Kleine Annabell",Ronny
+1965-03-01,1,Kenn ein Land / Kleine Annabell,Ronny
 1965-03-06,1,Kleine Annabell,Ronny
 1965-03-13,1,Das war mein schönster Tanz,Bernd Spier
 1965-03-15,1,Downtown,Petula Clark
@@ -490,7 +490,6 @@ date,rank,song,artist
 1965-04-17,1,Downtown,Petula Clark
 1965-04-24,1,Downtown,Petula Clark
 1965-05-01,1,The Last Time,The Rolling Stones
-1965-05-01,1,Downtown,Petula Clark
 1965-05-08,1,Downtown,Petula Clark
 1965-05-15,1,Downtown,Petula Clark
 1965-05-22,1,The Last Time,The Rolling Stones
@@ -531,7 +530,6 @@ date,rank,song,artist
 1966-01-01,1,Get Off of My Cloud,The Rolling Stones
 1966-01-08,1,Get Off of My Cloud,The Rolling Stones
 1966-01-15,1,"Marmor, Stein und Eisen bricht",Drafi Deutscher
-1966-01-15,1,Get Off of My Cloud,The Rolling Stones
 1966-01-22,1,"Marmor, Stein und Eisen bricht",Drafi Deutscher
 1966-01-29,1,"Marmor, Stein und Eisen bricht",Drafi Deutscher
 1966-02-01,1,Yesterday Man,Chris Andrews
@@ -776,9 +774,9 @@ date,rank,song,artist
 1969-11-15,1,"Sugar, Sugar",The Archies
 1969-11-22,1,"Sugar, Sugar",The Archies
 1969-11-29,1,"Sugar, Sugar",The Archies
-1969-12-01,1,"Come Together"" / ""Something",The Beatles
-1969-12-06,1,"Come Together"" / ""Something",The Beatles
-1969-12-13,1,"Come Together"" / ""Something",The Beatles
+1969-12-01,1,Come Together / Something,The Beatles
+1969-12-06,1,Come Together / Something,The Beatles
+1969-12-13,1,Come Together / Something,The Beatles
 1969-12-15,1,"Sugar, Sugar",The Archies
 1969-12-20,1,"Sugar, Sugar",The Archies
 1969-12-27,1,"Sugar, Sugar",The Archies
@@ -1306,20 +1304,20 @@ date,rank,song,artist
 1979-12-31,1,Maybe,Thom Pace
 1980-01-07,1,Maybe,Thom Pace
 1980-01-14,1,Maybe,Thom Pace
-1980-01-21,1,"Sun of Jamaica"" †",Goombay Dance Band
-1980-01-28,1,"Sun of Jamaica"" †",Goombay Dance Band
+1980-01-21,1,Sun of Jamaica,Goombay Dance Band
+1980-01-28,1,Sun of Jamaica,Goombay Dance Band
 1980-02-04,1,Another Brick in the Wall Part II,Pink Floyd
 1980-02-11,1,Another Brick in the Wall Part II,Pink Floyd
 1980-02-18,1,Another Brick in the Wall Part II,Pink Floyd
-1980-02-25,1,"Sun of Jamaica"" †",Goombay Dance Band
+1980-02-25,1,Sun of Jamaica,Goombay Dance Band
 1980-03-03,1,Another Brick in the Wall Part II,Pink Floyd
-1980-03-10,1,"Sun of Jamaica"" †",Goombay Dance Band
-1980-03-17,1,"Sun of Jamaica"" †",Goombay Dance Band
-1980-03-24,1,"Sun of Jamaica"" †",Goombay Dance Band
-1980-03-31,1,"Sun of Jamaica"" †",Goombay Dance Band
-1980-04-07,1,"Sun of Jamaica"" †",Goombay Dance Band
+1980-03-10,1,Sun of Jamaica,Goombay Dance Band
+1980-03-17,1,Sun of Jamaica,Goombay Dance Band
+1980-03-24,1,Sun of Jamaica,Goombay Dance Band
+1980-03-31,1,Sun of Jamaica,Goombay Dance Band
+1980-04-07,1,Sun of Jamaica,Goombay Dance Band
 1980-04-14,1,It's a Real Good Feeling,Peter Kent
-1980-04-21,1,"Sun of Jamaica"" †",Goombay Dance Band
+1980-04-21,1,Sun of Jamaica,Goombay Dance Band
 1980-04-28,1,Weekend,Earth & Fire
 1980-05-05,1,Weekend,Earth & Fire
 1980-05-12,1,Weekend,Earth & Fire
@@ -1390,14 +1388,14 @@ date,rank,song,artist
 1981-08-10,1,Bette Davis Eyes,Kim Carnes
 1981-08-17,1,Bette Davis Eyes,Kim Carnes
 1981-08-24,1,Bette Davis Eyes,Kim Carnes
-1981-08-31,1,"Dance Little Bird "" †",Electronica's
-1981-09-07,1,"Dance Little Bird "" †",Electronica's
-1981-09-14,1,"Dance Little Bird "" †",Electronica's
-1981-09-21,1,"Dance Little Bird "" †",Electronica's
-1981-09-28,1,"Dance Little Bird "" †",Electronica's
-1981-10-05,1,"Dance Little Bird "" †",Electronica's
-1981-10-12,1,"Dance Little Bird "" †",Electronica's
-1981-10-19,1,"Dance Little Bird "" †",Electronica's
+1981-08-31,1,Dance Little Bird,Electronica's
+1981-09-07,1,Dance Little Bird,Electronica's
+1981-09-14,1,Dance Little Bird,Electronica's
+1981-09-21,1,Dance Little Bird,Electronica's
+1981-09-28,1,Dance Little Bird,Electronica's
+1981-10-05,1,Dance Little Bird,Electronica's
+1981-10-12,1,Dance Little Bird,Electronica's
+1981-10-19,1,Dance Little Bird,Electronica's
 1981-10-26,1,"Ja, wenn wir alle Englein wären",Fred Sonnenschein und seine Freunde
 1981-11-02,1,"Ja, wenn wir alle Englein wären",Fred Sonnenschein und seine Freunde
 1981-11-09,1,"Ja, wenn wir alle Englein wären",Fred Sonnenschein und seine Freunde
@@ -1435,11 +1433,11 @@ date,rank,song,artist
 1982-06-21,1,Ebony and Ivory,Paul McCartney & Stevie Wonder
 1982-06-28,1,Ebony and Ivory,Paul McCartney & Stevie Wonder
 1982-07-05,1,Ebony and Ivory,Paul McCartney & Stevie Wonder
-1982-07-12,1,"Maid of Orleans "" †",OMD
-1982-07-19,1,"Maid of Orleans "" †",OMD
-1982-07-26,1,"Maid of Orleans "" †",OMD
+1982-07-12,1,Maid of Orleans,OMD
+1982-07-19,1,Maid of Orleans,OMD
+1982-07-26,1,Maid of Orleans,OMD
 1982-08-02,1,Ich will Spaß,Markus
-1982-08-09,1,"Maid of Orleans "" †",OMD
+1982-08-09,1,Maid of Orleans,OMD
 1982-08-16,1,Ich will Spaß,Markus
 1982-08-23,1,Adiós Amor,Andy Borg
 1982-08-30,1,Adiós Amor,Andy Borg
@@ -1464,14 +1462,14 @@ date,rank,song,artist
 1983-01-10,1,Do You Really Want to Hurt Me?,Culture Club
 1983-01-17,1,Do You Really Want to Hurt Me?,Culture Club
 1983-01-24,1,Do You Really Want to Hurt Me?,Culture Club
-1983-01-31,1,"Major Tom "" †",Peter Schilling
-1983-02-07,1,"Major Tom "" †",Peter Schilling
-1983-02-14,1,"Major Tom "" †",Peter Schilling
-1983-02-21,1,"Major Tom "" †",Peter Schilling
-1983-02-28,1,"Major Tom "" †",Peter Schilling
-1983-03-07,1,"Major Tom "" †",Peter Schilling
-1983-03-14,1,"Major Tom "" †",Peter Schilling
-1983-03-21,1,"Major Tom "" †",Peter Schilling
+1983-01-31,1,Major Tom,Peter Schilling
+1983-02-07,1,Major Tom,Peter Schilling
+1983-02-14,1,Major Tom,Peter Schilling
+1983-02-21,1,Major Tom,Peter Schilling
+1983-02-28,1,Major Tom,Peter Schilling
+1983-03-07,1,Major Tom,Peter Schilling
+1983-03-14,1,Major Tom,Peter Schilling
+1983-03-21,1,Major Tom,Peter Schilling
 1983-03-28,1,99 Luftballons,Nena
 1983-04-04,1,Too Shy,Kajagoogoo
 1983-04-11,1,Too Shy,Kajagoogoo
@@ -1536,12 +1534,12 @@ date,rank,song,artist
 1984-05-28,1,Send Me an Angel,Real Life
 1984-06-04,1,Send Me an Angel,Real Life
 1984-06-11,1,Send Me an Angel,Real Life
-1984-06-18,1,"Self Control"" †",Laura Branigan
-1984-06-25,1,"Self Control"" †",Laura Branigan
-1984-07-02,1,"Self Control"" †",Laura Branigan
-1984-07-09,1,"Self Control"" †",Laura Branigan
-1984-07-16,1,"Self Control"" †",Laura Branigan
-1984-07-23,1,"Self Control"" †",Laura Branigan
+1984-06-18,1,Self Control,Laura Branigan
+1984-06-25,1,Self Control,Laura Branigan
+1984-07-02,1,Self Control,Laura Branigan
+1984-07-09,1,Self Control,Laura Branigan
+1984-07-16,1,Self Control,Laura Branigan
+1984-07-23,1,Self Control,Laura Branigan
 1984-07-30,1,Two Tribes,Frankie Goes to Hollywood
 1984-08-06,1,High Energy,Evelyn Thomas
 1984-08-13,1,High Energy,Evelyn Thomas
@@ -1564,7 +1562,7 @@ date,rank,song,artist
 1984-12-10,1,Wild Boys,Duran Duran
 1984-12-17,1,Wild Boys,Duran Duran
 1984-12-24,1,Wild Boys,Duran Duran
-1984-12-31,1,No release,No release
+1984-12-31,1,Wild Boys,Duran Duran
 1985-01-07,1,Do They Know It's Christmas?,Band Aid
 1985-01-14,1,Do They Know It's Christmas?,Band Aid
 1985-01-21,1,One Night in Bangkok,Murray Head
@@ -1579,13 +1577,13 @@ date,rank,song,artist
 1985-03-25,1,"You're My Heart, You're My Soul",Modern Talking
 1985-04-01,1,"You're My Heart, You're My Soul",Modern Talking
 1985-04-08,1,"You're My Heart, You're My Soul",Modern Talking
-1985-04-15,1,"Live Is Life"" †",Opus
-1985-04-22,1,"Live Is Life"" †",Opus
-1985-04-29,1,"Live Is Life"" †",Opus
-1985-05-06,1,"Live Is Life"" †",Opus
-1985-05-13,1,"Live Is Life"" †",Opus
-1985-05-20,1,"Live Is Life"" †",Opus
-1985-05-27,1,"Live Is Life"" †",Opus
+1985-04-15,1,Live Is Life,Opus
+1985-04-22,1,Live Is Life,Opus
+1985-04-29,1,Live Is Life,Opus
+1985-05-06,1,Live Is Life,Opus
+1985-05-13,1,Live Is Life,Opus
+1985-05-20,1,Live Is Life,Opus
+1985-05-27,1,Live Is Life,Opus
 1985-06-03,1,You Can Win If You Want,Modern Talking
 1985-06-10,1,19,Paul Hardcastle
 1985-06-17,1,19,Paul Hardcastle
@@ -1616,16 +1614,16 @@ date,rank,song,artist
 1985-12-09,1,Take On Me,A-ha
 1985-12-16,1,Nikita,Elton John
 1985-12-23,1,Nikita,Elton John
-1985-12-30,1,No release,No release
+1985-12-30,1,Nikita,Elton John
 1986-01-06,1,Nikita,Elton John
-1986-01-13,1,"Jeanny"" †",Falco
-1986-01-20,1,"Jeanny"" †",Falco
-1986-01-27,1,"Jeanny"" †",Falco
-1986-02-03,1,"Jeanny"" †",Falco
-1986-02-10,1,"Jeanny"" †",Falco
-1986-02-17,1,"Jeanny"" †",Falco
-1986-02-24,1,"Jeanny"" †",Falco
-1986-03-03,1,"Jeanny"" †",Falco
+1986-01-13,1,Jeanny,Falco
+1986-01-20,1,Jeanny,Falco
+1986-01-27,1,Jeanny,Falco
+1986-02-03,1,Jeanny,Falco
+1986-02-10,1,Jeanny,Falco
+1986-02-17,1,Jeanny,Falco
+1986-02-24,1,Jeanny,Falco
+1986-03-03,1,Jeanny,Falco
 1986-03-10,1,Brother Louie,Modern Talking
 1986-03-17,1,Brother Louie,Modern Talking
 1986-03-24,1,Brother Louie,Modern Talking
@@ -1668,7 +1666,7 @@ date,rank,song,artist
 1986-12-08,1,In the Army Now,Status Quo
 1986-12-15,1,In the Army Now,Status Quo
 1986-12-22,1,Walk Like an Egyptian,The Bangles
-1986-12-29,1,No release,No release
+1986-12-29,1,Walk Like an Egyptian,The Bangles
 1987-01-05,1,Walk Like an Egyptian,The Bangles
 1987-01-12,1,Walk Like an Egyptian,The Bangles
 1987-01-19,1,Showing Out,Mel and Kim
@@ -1703,11 +1701,11 @@ date,rank,song,artist
 1987-08-10,1,It's a Sin,Pet Shop Boys
 1987-08-17,1,It's a Sin,Pet Shop Boys
 1987-08-24,1,It's a Sin,Pet Shop Boys
-1987-08-31,1,"Voyage Voyage"" †",Desireless
-1987-09-07,1,"Voyage Voyage"" †",Desireless
-1987-09-14,1,"Voyage Voyage"" †",Desireless
-1987-09-21,1,"Voyage Voyage"" †",Desireless
-1987-09-28,1,"Voyage Voyage"" †",Desireless
+1987-08-31,1,Voyage Voyage,Desireless
+1987-09-07,1,Voyage Voyage,Desireless
+1987-09-14,1,Voyage Voyage,Desireless
+1987-09-21,1,Voyage Voyage,Desireless
+1987-09-28,1,Voyage Voyage,Desireless
 1987-10-05,1,Never Gonna Give You Up,Rick Astley
 1987-10-12,1,Never Gonna Give You Up,Rick Astley
 1987-10-19,1,Never Gonna Give You Up,Rick Astley
@@ -1720,7 +1718,7 @@ date,rank,song,artist
 1987-12-07,1,Whenever You Need Somebody,Rick Astley
 1987-12-14,1,Whenever You Need Somebody,Rick Astley
 1987-12-21,1,Whenever You Need Somebody,Rick Astley
-1987-12-28,1,No release,No release
+1987-12-28,1,Whenever You Need Somebody,Rick Astley
 1988-01-04,1,Whenever You Need Somebody,Rick Astley
 1988-01-11,1,Always on My Mind,Pet Shop Boys
 1988-01-18,1,Always on My Mind,Pet Shop Boys
@@ -1754,12 +1752,12 @@ date,rank,song,artist
 1988-08-01,1,Im Nin'Alu,Ofra Haza
 1988-08-08,1,Im Nin'Alu,Ofra Haza
 1988-08-15,1,The Twist,The Fat Boys & Chubby Checker
-1988-08-22,1,"Girl You Know It's True"" †",Milli Vanilli
-1988-08-29,1,"Girl You Know It's True"" †",Milli Vanilli
-1988-09-05,1,"Girl You Know It's True"" †",Milli Vanilli
-1988-09-12,1,"Girl You Know It's True"" †",Milli Vanilli
-1988-09-19,1,"Girl You Know It's True"" †",Milli Vanilli
-1988-09-26,1,"Girl You Know It's True"" †",Milli Vanilli
+1988-08-22,1,Girl You Know It's True,Milli Vanilli
+1988-08-29,1,Girl You Know It's True,Milli Vanilli
+1988-09-05,1,Girl You Know It's True,Milli Vanilli
+1988-09-12,1,Girl You Know It's True,Milli Vanilli
+1988-09-19,1,Girl You Know It's True,Milli Vanilli
+1988-09-26,1,Girl You Know It's True,Milli Vanilli
 1988-10-03,1,Hand in Hand,Koreana
 1988-10-10,1,Hand in Hand,Koreana
 1988-10-17,1,Hand in Hand,Koreana
@@ -1773,7 +1771,7 @@ date,rank,song,artist
 1988-12-12,1,"Don't Worry, Be Happy",Bobby McFerrin
 1988-12-19,1,"Don't Worry, Be Happy",Bobby McFerrin
 1988-12-26,1,"Don't Worry, Be Happy",Bobby McFerrin
-1989-01-02,1,No release,No release
+1989-01-02,1,"Don't Worry, Be Happy",Bobby McFerrin
 1989-01-09,1,"Don't Worry, Be Happy",Bobby McFerrin
 1989-01-16,1,First Time,Robin Beck
 1989-01-23,1,First Time,Robin Beck
@@ -1786,14 +1784,14 @@ date,rank,song,artist
 1989-03-13,1,Something's Gotten Hold of My Heart,Marc Almond featuring Gene Pitney
 1989-03-20,1,Something's Gotten Hold of My Heart,Marc Almond featuring Gene Pitney
 1989-03-27,1,Something's Gotten Hold of My Heart,Marc Almond featuring Gene Pitney
-1989-04-03,1,"Looking for Freedom"" †",David Hasselhoff
-1989-04-10,1,"Looking for Freedom"" †",David Hasselhoff
-1989-04-17,1,"Looking for Freedom"" †",David Hasselhoff
-1989-04-24,1,"Looking for Freedom"" †",David Hasselhoff
-1989-05-01,1,"Looking for Freedom"" †",David Hasselhoff
-1989-05-08,1,"Looking for Freedom"" †",David Hasselhoff
-1989-05-15,1,"Looking for Freedom"" †",David Hasselhoff
-1989-05-22,1,"Looking for Freedom"" †",David Hasselhoff
+1989-04-03,1,Looking for Freedom,David Hasselhoff
+1989-04-10,1,Looking for Freedom,David Hasselhoff
+1989-04-17,1,Looking for Freedom,David Hasselhoff
+1989-04-24,1,Looking for Freedom,David Hasselhoff
+1989-05-01,1,Looking for Freedom,David Hasselhoff
+1989-05-08,1,Looking for Freedom,David Hasselhoff
+1989-05-15,1,Looking for Freedom,David Hasselhoff
+1989-05-22,1,Looking for Freedom,David Hasselhoff
 1989-05-29,1,The Look,Roxette
 1989-06-05,1,The Look,Roxette
 1989-06-12,1,The Look,Roxette
@@ -1825,7 +1823,7 @@ date,rank,song,artist
 1989-12-11,1,Another Day in Paradise,Phil Collins
 1989-12-18,1,Another Day in Paradise,Phil Collins
 1989-12-25,1,Another Day in Paradise,Phil Collins
-1990-01-01,1,No release,No release
+1990-01-01,1,Another Day in Paradise,Phil Collins
 1990-01-08,1,Another Day in Paradise,Phil Collins
 1990-01-15,1,Another Day in Paradise,Phil Collins
 1990-01-22,1,Another Day in Paradise,Phil Collins
@@ -1845,22 +1843,22 @@ date,rank,song,artist
 1990-04-30,1,Nothing Compares 2 U,Sinéad O'Connor
 1990-05-07,1,Nothing Compares 2 U,Sinéad O'Connor
 1990-05-14,1,Nothing Compares 2 U,Sinéad O'Connor
-1990-05-21,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-05-28,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-06-04,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-06-11,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-06-18,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-06-25,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-07-02,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-07-09,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-07-16,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-07-23,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-07-30,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-08-06,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-08-13,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-08-20,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-08-27,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
-1990-09-03,1,"Verdammt, Ich Lieb' Dich"" †",Matthias Reim
+1990-05-21,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-05-28,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-06-04,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-06-11,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-06-18,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-06-25,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-07-02,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-07-09,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-07-16,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-07-23,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-07-30,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-08-06,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-08-13,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-08-20,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-08-27,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
+1990-09-03,1,"Verdammt, Ich Lieb' Dich",Matthias Reim
 1990-09-10,1,Tom's Diner,DNA featuring Suzanne Vega
 1990-09-17,1,Tom's Diner,DNA featuring Suzanne Vega
 1990-09-24,1,Tom's Diner,DNA featuring Suzanne Vega
@@ -1877,7 +1875,7 @@ date,rank,song,artist
 1990-12-10,1,Sadeness Part I,Enigma
 1990-12-17,1,Sadeness Part I,Enigma
 1990-12-24,1,Sadeness Part I,Enigma
-1990-12-31,1,No release,No release
+1990-12-31,1,Sadeness Part I,Enigma
 1991-01-07,1,Sadeness Part I,Enigma
 1991-01-14,1,Sadeness Part I,Enigma
 1991-01-21,1,Sadeness Part I,Enigma
@@ -1899,17 +1897,17 @@ date,rank,song,artist
 1991-05-13,1,Joyride,Roxette
 1991-05-20,1,Joyride,Roxette
 1991-05-27,1,Joyride,Roxette
-1991-06-03,1,"Wind of Change"" †",Scorpions
-1991-06-10,1,"Wind of Change"" †",Scorpions
-1991-06-17,1,"Wind of Change"" †",Scorpions
-1991-06-24,1,"Wind of Change"" †",Scorpions
-1991-07-01,1,"Wind of Change"" †",Scorpions
-1991-07-08,1,"Wind of Change"" †",Scorpions
-1991-07-15,1,"Wind of Change"" †",Scorpions
-1991-07-22,1,"Wind of Change"" †",Scorpions
-1991-07-29,1,"Wind of Change"" †",Scorpions
-1991-08-05,1,"Wind of Change"" †",Scorpions
-1991-08-12,1,"Wind of Change"" †",Scorpions
+1991-06-03,1,Wind of Change,Scorpions
+1991-06-10,1,Wind of Change,Scorpions
+1991-06-17,1,Wind of Change,Scorpions
+1991-06-24,1,Wind of Change,Scorpions
+1991-07-01,1,Wind of Change,Scorpions
+1991-07-08,1,Wind of Change,Scorpions
+1991-07-15,1,Wind of Change,Scorpions
+1991-07-22,1,Wind of Change,Scorpions
+1991-07-29,1,Wind of Change,Scorpions
+1991-08-05,1,Wind of Change,Scorpions
+1991-08-12,1,Wind of Change,Scorpions
 1991-08-19,1,Bacardi Feeling,Kate Yanai
 1991-08-26,1,Bacardi Feeling,Kate Yanai
 1991-09-02,1,Bacardi Feeling,Kate Yanai
@@ -1929,7 +1927,7 @@ date,rank,song,artist
 1991-12-09,1,Let's Talk About Sex,Salt-n-Pepa
 1991-12-16,1,Let's Talk About Sex,Salt-n-Pepa
 1991-12-23,1,Let's Talk About Sex,Salt-n-Pepa
-1991-12-30,1,No release,No release
+1991-12-30,1,Let's Talk About Sex,Salt-n-Pepa
 1992-01-06,1,Let's Talk About Sex,Salt-n-Pepa
 1992-01-13,1,Let's Talk About Sex,Salt-n-Pepa
 1992-01-20,1,Let's Talk About Sex,Salt-n-Pepa
@@ -1950,16 +1948,16 @@ date,rank,song,artist
 1992-05-04,1,To Be with You,Mr. Big
 1992-05-11,1,To Be with You,Mr. Big
 1992-05-18,1,To Be with You,Mr. Big
-1992-05-25,1,"Rhythm Is a Dancer"" †",Snap!
-1992-06-01,1,"Rhythm Is a Dancer"" †",Snap!
-1992-06-08,1,"Rhythm Is a Dancer"" †",Snap!
-1992-06-15,1,"Rhythm Is a Dancer"" †",Snap!
-1992-06-22,1,"Rhythm Is a Dancer"" †",Snap!
-1992-06-29,1,"Rhythm Is a Dancer"" †",Snap!
-1992-07-06,1,"Rhythm Is a Dancer"" †",Snap!
-1992-07-13,1,"Rhythm Is a Dancer"" †",Snap!
-1992-07-20,1,"Rhythm Is a Dancer"" †",Snap!
-1992-07-27,1,"Rhythm Is a Dancer"" †",Snap!
+1992-05-25,1,Rhythm Is a Dancer,Snap!
+1992-06-01,1,Rhythm Is a Dancer,Snap!
+1992-06-08,1,Rhythm Is a Dancer,Snap!
+1992-06-15,1,Rhythm Is a Dancer,Snap!
+1992-06-22,1,Rhythm Is a Dancer,Snap!
+1992-06-29,1,Rhythm Is a Dancer,Snap!
+1992-07-06,1,Rhythm Is a Dancer,Snap!
+1992-07-13,1,Rhythm Is a Dancer,Snap!
+1992-07-20,1,Rhythm Is a Dancer,Snap!
+1992-07-27,1,Rhythm Is a Dancer,Snap!
 1992-08-03,1,It's My Life,Dr. Alban
 1992-08-10,1,It's My Life,Dr. Alban
 1992-08-17,1,It's My Life,Dr. Alban
@@ -1981,7 +1979,7 @@ date,rank,song,artist
 1992-12-07,1,Sweat,Inner Circle
 1992-12-14,1,Sweat,Inner Circle
 1992-12-21,1,More and More,Captain Hollywood Project
-1992-12-28,1,No release,No release
+1992-12-28,1,More and More,Captain Hollywood Project
 1993-01-04,1,More and More,Captain Hollywood Project
 1993-01-11,1,More and More,Captain Hollywood Project
 1993-01-18,1,Would I Lie to You?,Charles & Eddie
@@ -1991,14 +1989,14 @@ date,rank,song,artist
 1993-02-15,1,I Will Always Love You,Whitney Houston
 1993-02-22,1,I Will Always Love You,Whitney Houston
 1993-03-01,1,I Will Always Love You,Whitney Houston
-1993-03-08,1,"All That She Wants""†",Ace of Base
-1993-03-15,1,"All That She Wants""†",Ace of Base
-1993-03-22,1,"All That She Wants""†",Ace of Base
-1993-03-29,1,"All That She Wants""†",Ace of Base
-1993-04-05,1,"All That She Wants""†",Ace of Base
-1993-04-12,1,"All That She Wants""†",Ace of Base
-1993-04-19,1,"All That She Wants""†",Ace of Base
-1993-04-26,1,"All That She Wants""†",Ace of Base
+1993-03-08,1,All That She Wants,Ace of Base
+1993-03-15,1,All That She Wants,Ace of Base
+1993-03-22,1,All That She Wants,Ace of Base
+1993-03-29,1,All That She Wants,Ace of Base
+1993-04-05,1,All That She Wants,Ace of Base
+1993-04-12,1,All That She Wants,Ace of Base
+1993-04-19,1,All That She Wants,Ace of Base
+1993-04-26,1,All That She Wants,Ace of Base
 1993-05-03,1,Informer,Snow
 1993-05-10,1,Informer,Snow
 1993-05-17,1,Informer,Snow
@@ -2033,7 +2031,7 @@ date,rank,song,artist
 1993-12-06,1,I'd Do Anything for Love,Meat Loaf
 1993-12-13,1,I'd Do Anything for Love,Meat Loaf
 1993-12-20,1,I'd Do Anything for Love,Meat Loaf
-1993-12-27,1,No release,No release
+1993-12-27,1,I'd Do Anything for Love,Meat Loaf
 1994-01-03,1,I'd Do Anything for Love,Meat Loaf
 1994-01-10,1,I'd Do Anything for Love,Meat Loaf
 1994-01-17,1,I'd Do Anything for Love,Meat Loaf
@@ -2053,10 +2051,10 @@ date,rank,song,artist
 1994-04-25,1,Streets of Philadelphia,Bruce Springsteen
 1994-05-02,1,Streets of Philadelphia,Bruce Springsteen
 1994-05-09,1,Streets of Philadelphia,Bruce Springsteen
-1994-05-16,1,"Without You"" †",Mariah Carey
-1994-05-23,1,"Without You"" †",Mariah Carey
-1994-05-30,1,"Without You"" †",Mariah Carey
-1994-06-06,1,"Without You"" †",Mariah Carey
+1994-05-16,1,Without You,Mariah Carey
+1994-05-23,1,Without You,Mariah Carey
+1994-05-30,1,Without You,Mariah Carey
+1994-06-06,1,Without You,Mariah Carey
 1994-06-13,1,United,Prince Ital Joe & Marky Mark
 1994-06-20,1,United,Prince Ital Joe & Marky Mark
 1994-06-27,1,United,Prince Ital Joe & Marky Mark
@@ -2085,24 +2083,24 @@ date,rank,song,artist
 1994-12-05,1,Cotton Eye Joe,Rednex
 1994-12-12,1,Cotton Eye Joe,Rednex
 1994-12-19,1,Cotton Eye Joe,Rednex
-1994-12-26,1,No release,No release
+1994-12-26,1,Cotton Eye Joe,Rednex
 1995-01-02,1,Cotton Eye Joe,Rednex
 1995-01-09,1,Cotton Eye Joe,Rednex
 1995-01-16,1,Tears Don't Lie,Mark 'Oh
 1995-01-23,1,Tears Don't Lie,Mark 'Oh
 1995-01-30,1,Tears Don't Lie,Mark 'Oh
 1995-02-06,1,Zombie,The Cranberries
-1995-02-13,1,"Conquest of Paradise""†",Vangelis
-1995-02-20,1,"Conquest of Paradise""†",Vangelis
-1995-02-27,1,"Conquest of Paradise""†",Vangelis
-1995-03-06,1,"Conquest of Paradise""†",Vangelis
-1995-03-13,1,"Conquest of Paradise""†",Vangelis
-1995-03-20,1,"Conquest of Paradise""†",Vangelis
-1995-03-27,1,"Conquest of Paradise""†",Vangelis
-1995-04-03,1,"Conquest of Paradise""†",Vangelis
-1995-04-10,1,"Conquest of Paradise""†",Vangelis
-1995-04-17,1,"Conquest of Paradise""†",Vangelis
-1995-04-24,1,"Conquest of Paradise""†",Vangelis
+1995-02-13,1,Conquest of Paradise,Vangelis
+1995-02-20,1,Conquest of Paradise,Vangelis
+1995-02-27,1,Conquest of Paradise,Vangelis
+1995-03-06,1,Conquest of Paradise,Vangelis
+1995-03-13,1,Conquest of Paradise,Vangelis
+1995-03-20,1,Conquest of Paradise,Vangelis
+1995-03-27,1,Conquest of Paradise,Vangelis
+1995-04-03,1,Conquest of Paradise,Vangelis
+1995-04-10,1,Conquest of Paradise,Vangelis
+1995-04-17,1,Conquest of Paradise,Vangelis
+1995-04-24,1,Conquest of Paradise,Vangelis
 1995-05-01,1,Back for Good,Take That
 1995-05-08,1,Back for Good,Take That
 1995-05-15,1,Back for Good,Take That
@@ -2138,7 +2136,7 @@ date,rank,song,artist
 1995-12-11,1,Earth Song,Michael Jackson
 1995-12-18,1,Earth Song,Michael Jackson
 1995-12-25,1,Earth Song,Michael Jackson
-1996-01-01,1,No release,No release
+1996-01-01,1,Earth Song,Michael Jackson
 1996-01-08,1,Earth Song,Michael Jackson
 1996-01-15,1,Earth Song,Michael Jackson
 1996-01-22,1,Gangsta's Paradise,Coolio featuring L.V.
@@ -2164,16 +2162,16 @@ date,rank,song,artist
 1996-06-10,1,Macarena,Los del Rio
 1996-06-17,1,Macarena,Los del Rio
 1996-06-24,1,Macarena,Los del Rio
-1996-07-01,1,"Killing Me Softly"" †",The Fugees
-1996-07-08,1,"Killing Me Softly"" †",The Fugees
-1996-07-15,1,"Killing Me Softly"" †",The Fugees
-1996-07-22,1,"Killing Me Softly"" †",The Fugees
-1996-07-29,1,"Killing Me Softly"" †",The Fugees
-1996-08-05,1,"Killing Me Softly"" †",The Fugees
-1996-08-12,1,"Killing Me Softly"" †",The Fugees
-1996-08-19,1,"Killing Me Softly"" †",The Fugees
+1996-07-01,1,Killing Me Softly,The Fugees
+1996-07-08,1,Killing Me Softly,The Fugees
+1996-07-15,1,Killing Me Softly,The Fugees
+1996-07-22,1,Killing Me Softly,The Fugees
+1996-07-29,1,Killing Me Softly,The Fugees
+1996-08-05,1,Killing Me Softly,The Fugees
+1996-08-12,1,Killing Me Softly,The Fugees
+1996-08-19,1,Killing Me Softly,The Fugees
 1996-08-26,1,I Can't Help Myself,The Kelly Family
-1996-09-02,1,"Killing Me Softly"" †",The Fugees
+1996-09-02,1,Killing Me Softly,The Fugees
 1996-09-09,1,I Can't Help Myself,The Kelly Family
 1996-09-16,1,Wannabe,Spice Girls
 1996-09-23,1,Wannabe,Spice Girls
@@ -2190,17 +2188,17 @@ date,rank,song,artist
 1996-12-09,1,Verpiss' dich,Tic Tac Toe
 1996-12-16,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
 1996-12-23,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
-1996-12-30,1,No release,No release
-1997-01-06,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
-1997-01-13,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
-1997-01-20,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
-1997-01-27,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
-1997-02-03,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
-1997-02-10,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
-1997-02-17,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
-1997-02-24,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
-1997-03-03,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
-1997-03-10,1,"Time to Say Goodbye""†",Andrea Bocelli and Sarah Brightman
+1996-12-30,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-01-06,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-01-13,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-01-20,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-01-27,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-02-03,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-02-10,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-02-17,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-02-24,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-03-03,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
+1997-03-10,1,Time to Say Goodbye,Andrea Bocelli and Sarah Brightman
 1997-03-17,1,Warum?,Tic Tac Toe
 1997-03-24,1,Warum?,Tic Tac Toe
 1997-03-31,1,Warum?,Tic Tac Toe
@@ -2242,24 +2240,24 @@ date,rank,song,artist
 1997-12-08,1,Barbie Girl,Aqua
 1997-12-15,1,Barbie Girl,Aqua
 1997-12-22,1,It's Like That,Run-D.M.C. vs. Jason Nevins
-1997-12-29,1,No release,No release
+1997-12-29,1,It's Like That,Run-D.M.C. vs. Jason Nevins
 1998-01-05,1,It's Like That,Run-D.M.C. vs. Jason Nevins
 1998-01-12,1,It's Like That,Run-D.M.C. vs. Jason Nevins
 1998-01-19,1,It's Like That,Run-D.M.C. vs. Jason Nevins
 1998-01-26,1,It's Like That,Run-D.M.C. vs. Jason Nevins
-1998-02-02,1,"My Heart Will Go On"" †",Céline Dion
-1998-02-09,1,"My Heart Will Go On"" †",Céline Dion
-1998-02-16,1,"My Heart Will Go On"" †",Céline Dion
-1998-02-23,1,"My Heart Will Go On"" †",Céline Dion
-1998-03-02,1,"My Heart Will Go On"" †",Céline Dion
-1998-03-09,1,"My Heart Will Go On"" †",Céline Dion
-1998-03-16,1,"My Heart Will Go On"" †",Céline Dion
-1998-03-23,1,"My Heart Will Go On"" †",Céline Dion
-1998-03-30,1,"My Heart Will Go On"" †",Céline Dion
-1998-04-06,1,"My Heart Will Go On"" †",Céline Dion
-1998-04-13,1,"My Heart Will Go On"" †",Céline Dion
-1998-04-20,1,"My Heart Will Go On"" †",Céline Dion
-1998-04-27,1,"My Heart Will Go On"" †",Céline Dion
+1998-02-02,1,My Heart Will Go On,Céline Dion
+1998-02-09,1,My Heart Will Go On,Céline Dion
+1998-02-16,1,My Heart Will Go On,Céline Dion
+1998-02-23,1,My Heart Will Go On,Céline Dion
+1998-03-02,1,My Heart Will Go On,Céline Dion
+1998-03-09,1,My Heart Will Go On,Céline Dion
+1998-03-16,1,My Heart Will Go On,Céline Dion
+1998-03-23,1,My Heart Will Go On,Céline Dion
+1998-03-30,1,My Heart Will Go On,Céline Dion
+1998-04-06,1,My Heart Will Go On,Céline Dion
+1998-04-13,1,My Heart Will Go On,Céline Dion
+1998-04-20,1,My Heart Will Go On,Céline Dion
+1998-04-27,1,My Heart Will Go On,Céline Dion
 1998-05-04,1,Männer sind Schweine,Die Ärzte
 1998-05-11,1,Männer sind Schweine,Die Ärzte
 1998-05-18,1,Männer sind Schweine,Die Ärzte
@@ -2295,7 +2293,7 @@ date,rank,song,artist
 1998-12-14,1,Believe,Cher
 1998-12-21,1,Believe,Cher
 1998-12-28,1,Hijo de la Luna,Loona
-1999-01-04,1,No release,No release
+1999-01-04,1,Hijo de la Luna,Loona
 1999-01-11,1,Hijo de la Luna,Loona
 1999-01-18,1,Big Big World,Emilia
 1999-01-25,1,Big Big World,Emilia
@@ -2316,17 +2314,17 @@ date,rank,song,artist
 1999-05-10,1,Flat Beat,Mr. Oizo
 1999-05-17,1,I Want It That Way,Backstreet Boys
 1999-05-24,1,I Want It That Way,Backstreet Boys
-1999-05-31,1,"Mambo Nº 5"" †",Lou Bega
-1999-06-07,1,"Mambo Nº 5"" †",Lou Bega
-1999-06-14,1,"Mambo Nº 5"" †",Lou Bega
-1999-06-21,1,"Mambo Nº 5"" †",Lou Bega
-1999-06-28,1,"Mambo Nº 5"" †",Lou Bega
-1999-07-05,1,"Mambo Nº 5"" †",Lou Bega
-1999-07-12,1,"Mambo Nº 5"" †",Lou Bega
-1999-07-19,1,"Mambo Nº 5"" †",Lou Bega
-1999-07-26,1,"Mambo Nº 5"" †",Lou Bega
-1999-08-02,1,"Mambo Nº 5"" †",Lou Bega
-1999-08-09,1,"Mambo Nº 5"" †",Lou Bega
+1999-05-31,1,Mambo Nº 5,Lou Bega
+1999-06-07,1,Mambo Nº 5,Lou Bega
+1999-06-14,1,Mambo Nº 5,Lou Bega
+1999-06-21,1,Mambo Nº 5,Lou Bega
+1999-06-28,1,Mambo Nº 5,Lou Bega
+1999-07-05,1,Mambo Nº 5,Lou Bega
+1999-07-12,1,Mambo Nº 5,Lou Bega
+1999-07-19,1,Mambo Nº 5,Lou Bega
+1999-07-26,1,Mambo Nº 5,Lou Bega
+1999-08-02,1,Mambo Nº 5,Lou Bega
+1999-08-09,1,Mambo Nº 5,Lou Bega
 1999-08-16,1,Blue,Eiffel 65
 1999-08-23,1,Blue,Eiffel 65
 1999-08-30,1,Blue,Eiffel 65
@@ -2347,28 +2345,28 @@ date,rank,song,artist
 1999-12-13,1,Maschen-Draht-Zaun,Stefan Raab
 1999-12-20,1,Maschen-Draht-Zaun,Stefan Raab
 1999-12-27,1,Maschen-Draht-Zaun,Stefan Raab
-2000-01-03,1,No release,No release
+2000-01-03,1,Maschen-Draht-Zaun,Stefan Raab
 2000-01-10,1,Maschen-Draht-Zaun,Stefan Raab
 2000-01-17,1,Maschen-Draht-Zaun,Stefan Raab
 2000-01-24,1,Join Me,HIM
 2000-01-31,1,Join Me,HIM
 2000-02-07,1,Join Me,HIM
 2000-02-14,1,Join Me,HIM
-2000-02-21,1,My Heart Goes Boom,French Affair
-2000-02-28,1,My Heart Goes Boom,French Affair
-2000-03-06,1,My Heart Goes Boom,French Affair
+2000-02-21,1,My Heart Goes Boom (La Di Da Da),French Affair
+2000-02-28,1,My Heart Goes Boom (La Di Da Da),French Affair
+2000-03-06,1,My Heart Goes Boom (La Di Da Da),French Affair
 2000-03-13,1,American Pie,Madonna
 2000-03-20,1,Maria Maria,Santana featuring The Product G&B
 2000-03-27,1,Maria Maria,Santana featuring The Product G&B
 2000-04-03,1,Maria Maria,Santana featuring The Product G&B
 2000-04-10,1,Maria Maria,Santana featuring The Product G&B
-2000-04-17,1,"Anton aus Tirol"" †",Anton featuring DJ Ötzi
+2000-04-17,1,Anton aus Tirol,Anton featuring DJ Ötzi
 2000-04-24,1,Leb!,Die 3. Generation
 2000-05-01,1,Leb!,Die 3. Generation
-2000-05-08,1,Ich Vermiss Dich,Zlatko
-2000-05-15,1,Ich Vermiss Dich,Zlatko
-2000-05-22,1,Ich Vermiss Dich,Zlatko
-2000-05-29,1,Ich Vermiss Dich,Zlatko
+2000-05-08,1,Ich Vermiss Dich (Wie die Hölle),Zlatko
+2000-05-15,1,Ich Vermiss Dich (Wie die Hölle),Zlatko
+2000-05-22,1,Ich Vermiss Dich (Wie die Hölle),Zlatko
+2000-05-29,1,Ich Vermiss Dich (Wie die Hölle),Zlatko
 2000-06-05,1,Freestyler,Bomfunk MC's
 2000-06-12,1,Freestyler,Bomfunk MC's
 2000-06-19,1,Freestyler,Bomfunk MC's
@@ -2376,12 +2374,12 @@ date,rank,song,artist
 2000-07-03,1,Großer Bruder,Zlatko and Jürgen
 2000-07-10,1,Großer Bruder,Zlatko and Jürgen
 2000-07-17,1,Großer Bruder,Zlatko and Jürgen
-2000-07-24,1,Around the World,ATC
-2000-07-31,1,Around the World,ATC
-2000-08-07,1,Around the World,ATC
-2000-08-14,1,Around the World,ATC
-2000-08-21,1,Around the World,ATC
-2000-08-28,1,Around the World,ATC
+2000-07-24,1,Around the World (La La La La La),ATC
+2000-07-31,1,Around the World (La La La La La),ATC
+2000-08-07,1,Around the World (La La La La La),ATC
+2000-08-14,1,Around the World (La La La La La),ATC
+2000-08-21,1,Around the World (La La La La La),ATC
+2000-08-28,1,Around the World (La La La La La),ATC
 2000-09-04,1,Lucky,Britney Spears
 2000-09-11,1,Lucky,Britney Spears
 2000-09-18,1,Lucky,Britney Spears
@@ -2399,19 +2397,19 @@ date,rank,song,artist
 2000-12-11,1,Es ist geil ein Arschloch zu sein,Christian
 2000-12-18,1,Es ist geil ein Arschloch zu sein,Christian
 2000-12-25,1,Es ist geil ein Arschloch zu sein,Christian
-2001-01-01,1,No release,No release
+2001-01-01,1,Es ist geil ein Arschloch zu sein,Christian
 2001-01-08,1,Es ist geil ein Arschloch zu sein,Christian
 2001-01-15,1,Es ist geil ein Arschloch zu sein,Christian
 2001-01-22,1,Es ist geil ein Arschloch zu sein,Christian
 2001-01-29,1,Stan,Eminem featuring Dido
 2001-02-05,1,Ms. Jackson,Outkast
 2001-02-12,1,Ms. Jackson,Outkast
-2001-02-19,1,"Daylight in Your Eyes"" †",No Angels
-2001-02-26,1,"Daylight in Your Eyes"" †",No Angels
-2001-03-05,1,"Daylight in Your Eyes"" †",No Angels
-2001-03-12,1,"Daylight in Your Eyes"" †",No Angels
-2001-03-19,1,"Daylight in Your Eyes"" †",No Angels
-2001-03-26,1,"Daylight in Your Eyes"" †",No Angels
+2001-02-19,1,Daylight in Your Eyes,No Angels
+2001-02-26,1,Daylight in Your Eyes,No Angels
+2001-03-05,1,Daylight in Your Eyes,No Angels
+2001-03-12,1,Daylight in Your Eyes,No Angels
+2001-03-19,1,Daylight in Your Eyes,No Angels
+2001-03-26,1,Daylight in Your Eyes,No Angels
 2001-04-02,1,Butterfly,Crazy Town
 2001-04-09,1,Butterfly,Crazy Town
 2001-04-16,1,Butterfly,Crazy Town
@@ -2451,7 +2449,7 @@ date,rank,song,artist
 2001-12-10,1,From Sarah with Love,Sarah Connor
 2001-12-17,1,I Believe,Bro'Sis
 2001-12-24,1,I Believe,Bro'Sis
-2001-12-31,1,No release,No release
+2001-12-31,1,I Believe,Bro'Sis
 2002-01-07,1,I Believe,Bro'Sis
 2002-01-14,1,I Believe,Bro'Sis
 2002-01-21,1,I Believe,Bro'Sis
@@ -2489,13 +2487,13 @@ date,rank,song,artist
 2002-09-02,1,Mensch,Herbert Grönemeyer
 2002-09-09,1,Mensch,Herbert Grönemeyer
 2002-09-16,1,Mensch,Herbert Grönemeyer
-2002-09-23,1,"The Ketchup Song "" †",Las Ketchup
-2002-09-30,1,"The Ketchup Song "" †",Las Ketchup
-2002-10-07,1,"The Ketchup Song "" †",Las Ketchup
-2002-10-14,1,"The Ketchup Song "" †",Las Ketchup
-2002-10-21,1,"The Ketchup Song "" †",Las Ketchup
-2002-10-28,1,"The Ketchup Song "" †",Las Ketchup
-2002-11-04,1,"The Ketchup Song "" †",Las Ketchup
+2002-09-23,1,The Ketchup Song (Aserejé),Las Ketchup
+2002-09-30,1,The Ketchup Song (Aserejé),Las Ketchup
+2002-10-07,1,The Ketchup Song (Aserejé),Las Ketchup
+2002-10-14,1,The Ketchup Song (Aserejé),Las Ketchup
+2002-10-21,1,The Ketchup Song (Aserejé),Las Ketchup
+2002-10-28,1,The Ketchup Song (Aserejé),Las Ketchup
+2002-11-04,1,The Ketchup Song (Aserejé),Las Ketchup
 2002-11-11,1,Dilemma,Nelly featuring Kelly Rowland
 2002-11-18,1,Dilemma,Nelly featuring Kelly Rowland
 2002-11-25,1,Der Steuersong,Die Gerd-Show
@@ -2503,14 +2501,14 @@ date,rank,song,artist
 2002-12-09,1,Der Steuersong,Die Gerd-Show
 2002-12-16,1,Der Steuersong,Die Gerd-Show
 2002-12-23,1,Der Steuersong,Die Gerd-Show
-2002-12-30,1,No release,No release
+2002-12-30,1,Der Steuersong,Die Gerd-Show
 2003-01-06,1,Der Steuersong,Die Gerd-Show
-2003-01-13,1,"We Have a Dream"" †",Deutschland sucht den Superstar
-2003-01-20,1,"We Have a Dream"" †",Deutschland sucht den Superstar
-2003-01-27,1,"We Have a Dream"" †",Deutschland sucht den Superstar
-2003-02-03,1,"We Have a Dream"" †",Deutschland sucht den Superstar
-2003-02-10,1,"We Have a Dream"" †",Deutschland sucht den Superstar
-2003-02-17,1,"We Have a Dream"" †",Deutschland sucht den Superstar
+2003-01-13,1,We Have a Dream,Deutschland sucht den Superstar
+2003-01-20,1,We Have a Dream,Deutschland sucht den Superstar
+2003-01-27,1,We Have a Dream,Deutschland sucht den Superstar
+2003-02-03,1,We Have a Dream,Deutschland sucht den Superstar
+2003-02-10,1,We Have a Dream,Deutschland sucht den Superstar
+2003-02-17,1,We Have a Dream,Deutschland sucht den Superstar
 2003-02-24,1,All the Things She Said,t.A.T.u.
 2003-03-03,1,All the Things She Said,t.A.T.u.
 2003-03-10,1,All the Things She Said,t.A.T.u.
@@ -2521,7 +2519,7 @@ date,rank,song,artist
 2003-04-14,1,You Drive Me Crazy,Daniel K
 2003-04-21,1,Take Me Tonight,Alexander
 2003-04-28,1,You Drive Me Crazy,Daniel K
-2003-05-05,1,No Angel,No Angels
+2003-05-05,1,No Angel (It's All in Your Mind),No Angels
 2003-05-12,1,In da Club,50 Cent
 2003-05-19,1,Für dich,Yvonne Catterfeld
 2003-05-26,1,Für dich,Yvonne Catterfeld
@@ -2529,7 +2527,7 @@ date,rank,song,artist
 2003-06-09,1,Für dich,Yvonne Catterfeld
 2003-06-16,1,Für dich,Yvonne Catterfeld
 2003-06-23,1,Für dich,Yvonne Catterfeld
-2003-06-30,1,Ich kenne nichts,RZA featuring Xavier Naidoo
+2003-06-30,1,Ich kenne nichts (das so schön ist wie du),RZA featuring Xavier Naidoo
 2003-07-07,1,Aicha,Outlandish
 2003-07-14,1,Aicha,Outlandish
 2003-07-21,1,Aicha,Outlandish
@@ -2538,9 +2536,9 @@ date,rank,song,artist
 2003-08-11,1,In the Shadows,The Rasmus
 2003-08-18,1,Ich denk an dich,Pur
 2003-08-25,1,Burger Dance,DJ Ötzi featuring Eric Dikeb
-2003-09-01,1,Never Leave You,Lumidee featuring Busta Rhymes and Fabolous
+2003-09-01,1,"Never Leave You (Uh Oooh, Uh Oooh)",Lumidee featuring Busta Rhymes and Fabolous
 2003-09-08,1,Angel of Berlin,Martin Kesici
-2003-09-15,1,Never Leave You,Lumidee featuring Busta Rhymes and Fabolous
+2003-09-15,1,"Never Leave You (Uh Oooh, Uh Oooh)",Lumidee featuring Busta Rhymes and Fabolous
 2003-09-22,1,Angel of Berlin,Martin Kesici
 2003-09-29,1,Unrockbar,Die Ärzte
 2003-10-06,1,White Flag,Dido
@@ -2555,7 +2553,7 @@ date,rank,song,artist
 2003-12-08,1,Schick mir 'nen Engel,Overground
 2003-12-15,1,Music Is the Key,Sarah Connor and Naturally 7
 2003-12-22,1,Shut Up,The Black Eyed Peas
-2003-12-29,1,No release,No release
+2003-12-29,1,Shut Up,The Black Eyed Peas
 2004-01-05,1,Shut Up,The Black Eyed Peas
 2004-01-12,1,Shut Up,The Black Eyed Peas
 2004-01-19,1,Shut Up,The Black Eyed Peas
@@ -2575,23 +2573,23 @@ date,rank,song,artist
 2004-04-26,1,Yeah!,Usher featuring Ludacris and Lil' Jon
 2004-05-03,1,Yeah!,Usher featuring Ludacris and Lil' Jon
 2004-05-10,1,I Don't Wanna Know,Mario Winans featuring Diddy and Enya
-2004-05-17,1,Fuck It,Eamon
-2004-05-24,1,Fuck It,Eamon
-2004-05-31,1,Fuck It,Eamon
-2004-06-07,1,"Dragostea Din Tei"" †",O-Zone
-2004-06-14,1,"Dragostea Din Tei"" †",O-Zone
-2004-06-21,1,"Dragostea Din Tei"" †",O-Zone
-2004-06-28,1,"Dragostea Din Tei"" †",O-Zone
-2004-07-05,1,"Dragostea Din Tei"" †",O-Zone
-2004-07-12,1,"Dragostea Din Tei"" †",O-Zone
-2004-07-19,1,"Dragostea Din Tei"" †",O-Zone
-2004-07-26,1,"Dragostea Din Tei"" †",O-Zone
-2004-08-02,1,"Dragostea Din Tei"" †",O-Zone
-2004-08-09,1,"Dragostea Din Tei"" †",O-Zone
-2004-08-16,1,"Dragostea Din Tei"" †",O-Zone
-2004-08-23,1,"Dragostea Din Tei"" †",O-Zone
-2004-08-30,1,"Dragostea Din Tei"" †",O-Zone
-2004-09-06,1,"Dragostea Din Tei"" †",O-Zone
+2004-05-17,1,Fuck It (I Don't Want You Back),Eamon
+2004-05-24,1,Fuck It (I Don't Want You Back),Eamon
+2004-05-31,1,Fuck It (I Don't Want You Back),Eamon
+2004-06-07,1,Dragostea Din Tei,O-Zone
+2004-06-14,1,Dragostea Din Tei,O-Zone
+2004-06-21,1,Dragostea Din Tei,O-Zone
+2004-06-28,1,Dragostea Din Tei,O-Zone
+2004-07-05,1,Dragostea Din Tei,O-Zone
+2004-07-12,1,Dragostea Din Tei,O-Zone
+2004-07-19,1,Dragostea Din Tei,O-Zone
+2004-07-26,1,Dragostea Din Tei,O-Zone
+2004-08-02,1,Dragostea Din Tei,O-Zone
+2004-08-09,1,Dragostea Din Tei,O-Zone
+2004-08-16,1,Dragostea Din Tei,O-Zone
+2004-08-23,1,Dragostea Din Tei,O-Zone
+2004-08-30,1,Dragostea Din Tei,O-Zone
+2004-09-06,1,Dragostea Din Tei,O-Zone
 2004-09-13,1,Obsesión,Aventura
 2004-09-20,1,Obsesión,Aventura
 2004-09-27,1,Obsesión,Aventura
@@ -2608,16 +2606,16 @@ date,rank,song,artist
 2004-12-13,1,Living to Love You,Sarah Connor
 2004-12-20,1,Living to Love You,Sarah Connor
 2004-12-27,1,Sweetest Poison,Nu Pagadi
-2005-01-03,1,"Schnappi, das Kleine Krokodil""†",Schnappi
-2005-01-10,1,"Schnappi, das Kleine Krokodil""†",Schnappi
-2005-01-17,1,"Schnappi, das Kleine Krokodil""†",Schnappi
-2005-01-24,1,"Schnappi, das Kleine Krokodil""†",Schnappi
-2005-01-31,1,"Schnappi, das Kleine Krokodil""†",Schnappi
-2005-02-07,1,"Schnappi, das Kleine Krokodil""†",Schnappi
-2005-02-14,1,"Schnappi, das Kleine Krokodil""†",Schnappi
-2005-02-21,1,"Schnappi, das Kleine Krokodil""†",Schnappi
-2005-02-28,1,"Schnappi, das Kleine Krokodil""†",Schnappi
-2005-03-07,1,"Schnappi, das Kleine Krokodil""†",Schnappi
+2005-01-03,1,"Schnappi, das Kleine Krokodil",Schnappi
+2005-01-10,1,"Schnappi, das Kleine Krokodil",Schnappi
+2005-01-17,1,"Schnappi, das Kleine Krokodil",Schnappi
+2005-01-24,1,"Schnappi, das Kleine Krokodil",Schnappi
+2005-01-31,1,"Schnappi, das Kleine Krokodil",Schnappi
+2005-02-07,1,"Schnappi, das Kleine Krokodil",Schnappi
+2005-02-14,1,"Schnappi, das Kleine Krokodil",Schnappi
+2005-02-21,1,"Schnappi, das Kleine Krokodil",Schnappi
+2005-02-28,1,"Schnappi, das Kleine Krokodil",Schnappi
+2005-03-07,1,"Schnappi, das Kleine Krokodil",Schnappi
 2005-03-14,1,Liebe ist,Nena
 2005-03-21,1,From Zero to Hero,Sarah Connor
 2005-03-28,1,Liebe ist,Nena
@@ -2666,14 +2664,14 @@ date,rank,song,artist
 2006-01-20,1,Big City Life,Mattafix
 2006-01-27,1,Big City Life,Mattafix
 2006-02-03,1,Big City Life,Mattafix
-2006-02-10,1,I Belong to You,Eros Ramazzotti and Anastacia
-2006-02-17,1,"Love Generation""†","Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
-2006-02-24,1,I Belong to You,Eros Ramazzotti and Anastacia
-2006-03-03,1,"Love Generation""†","Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
-2006-03-10,1,"Love Generation""†","Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
-2006-03-17,1,"Love Generation""†","Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
+2006-02-10,1,I Belong to You (Il Ritmo Della Passione),Eros Ramazzotti and Anastacia
+2006-02-17,1,Love Generation,"Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
+2006-02-24,1,I Belong to You (Il Ritmo Della Passione),Eros Ramazzotti and Anastacia
+2006-03-03,1,Love Generation,"Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
+2006-03-10,1,Love Generation,"Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
+2006-03-17,1,Love Generation,"Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
 2006-03-24,1,Rette Mich,Tokio Hotel
-2006-03-31,1,"Love Generation""†","Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
+2006-03-31,1,Love Generation,"Bob Sinclar presents Goleo VI featuring Gary ""Nesta"" Pine"
 2006-04-07,1,I Still Burn,Tobias Regner
 2006-04-14,1,I Still Burn,Tobias Regner
 2006-04-21,1,I Still Burn,Tobias Regner
@@ -2696,7 +2694,7 @@ date,rank,song,artist
 2006-08-18,1,Danke,Xavier Naidoo
 2006-08-25,1,Danke,Xavier Naidoo
 2006-09-01,1,Danke,Xavier Naidoo
-2006-09-08,1,"Der letzte Tag""/""Wir Schließen Uns Ein",Tokio Hotel
+2006-09-08,1,Der letzte Tag / Wir Schließen Uns Ein,Tokio Hotel
 2006-09-15,1,Rudebox,Robbie Williams
 2006-09-22,1,SexyBack,Justin Timberlake
 2006-09-29,1,SexyBack,Justin Timberlake
@@ -2712,27 +2710,27 @@ date,rank,song,artist
 2006-12-08,1,Das Beste,Silbermond
 2006-12-15,1,Shame,Monrose
 2006-12-22,1,Shame,Monrose
-2006-12-29,1,All Good Things,Nelly Furtado
-2007-01-05,1,All Good Things,Nelly Furtado
-2007-01-12,1,All Good Things,Nelly Furtado
-2007-01-19,1,All Good Things,Nelly Furtado
-2007-01-26,1,All Good Things,Nelly Furtado
-2007-02-02,1,All Good Things,Nelly Furtado
+2006-12-29,1,All Good Things (Come to an End),Nelly Furtado
+2007-01-05,1,All Good Things (Come to an End),Nelly Furtado
+2007-01-12,1,All Good Things (Come to an End),Nelly Furtado
+2007-01-19,1,All Good Things (Come to an End),Nelly Furtado
+2007-01-26,1,All Good Things (Come to an End),Nelly Furtado
+2007-02-02,1,All Good Things (Come to an End),Nelly Furtado
 2007-02-09,1,Übers Ende der Welt,Tokio Hotel
 2007-02-16,1,Stück vom Himmel,Herbert Grönemeyer
 2007-02-23,1,"Wenn Nicht Jetzt, Wann Dann?",Höhner
-2007-03-02,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
-2007-03-09,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
-2007-03-16,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
-2007-03-23,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
-2007-03-30,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
-2007-04-06,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
-2007-04-13,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
-2007-04-20,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
-2007-04-27,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
+2007-03-02,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
+2007-03-09,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
+2007-03-16,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
+2007-03-23,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
+2007-03-30,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
+2007-04-06,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
+2007-04-13,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
+2007-04-20,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
+2007-04-27,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
 2007-05-04,1,Beautiful Liar,Beyoncé and Shakira
-2007-05-11,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
-2007-05-18,1,"Ein Stern ""†",DJ Ötzi featuring Nik P.
+2007-05-11,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
+2007-05-18,1,Ein Stern (…der deinen Namen trägt),DJ Ötzi featuring Nik P.
 2007-05-25,1,Now or Never,Mark Medlock
 2007-06-01,1,Now or Never,Mark Medlock
 2007-06-08,1,Umbrella,Rihanna featuring Jay-Z
@@ -2745,7 +2743,7 @@ date,rank,song,artist
 2007-07-27,1,You Can Get It,Mark Medlock featuring Dieter Bohlen
 2007-08-03,1,You Can Get It,Mark Medlock featuring Dieter Bohlen
 2007-08-10,1,You Can Get It,Mark Medlock featuring Dieter Bohlen
-2007-08-17,1,Prison Break Anthem,Azad featuring Adel Tawil
+2007-08-17,1,Prison Break Anthem (Ich Glaub an Dich),Azad featuring Adel Tawil
 2007-08-24,1,Hamma!,Culcha Candela
 2007-08-31,1,Hamma!,Culcha Candela
 2007-09-07,1,Hamma!,Culcha Candela
@@ -2764,10 +2762,10 @@ date,rank,song,artist
 2007-12-07,1,Apologize,Timbaland featuring OneRepublic
 2007-12-14,1,Apologize,Timbaland featuring OneRepublic
 2007-12-21,1,Apologize,Timbaland featuring OneRepublic
-2007-12-28,1,No release,No release
-2008-01-04,1,"Apologize"" †",Timbaland featuring OneRepublic
-2008-01-11,1,"Apologize"" †",Timbaland featuring OneRepublic
-2008-01-18,1,"Apologize"" †",Timbaland featuring OneRepublic
+2007-12-28,1,Apologize,Timbaland featuring OneRepublic
+2008-01-04,1,Apologize,Timbaland featuring OneRepublic
+2008-01-11,1,Apologize,Timbaland featuring OneRepublic
+2008-01-18,1,Apologize,Timbaland featuring OneRepublic
 2008-01-25,1,Bleeding Love,Leona Lewis
 2008-02-01,1,Bleeding Love,Leona Lewis
 2008-02-08,1,Bleeding Love,Leona Lewis
@@ -2827,22 +2825,22 @@ date,rank,song,artist
 2009-02-20,1,Broken Strings,James Morrison featuring Nelly Furtado
 2009-02-27,1,Broken Strings,James Morrison featuring Nelly Furtado
 2009-03-06,1,Irgendwas bleibt,Silbermond
-2009-03-13,1,"Poker Face"" †",Lady Gaga
-2009-03-20,1,"Poker Face"" †",Lady Gaga
-2009-03-27,1,"Poker Face"" †",Lady Gaga
-2009-04-03,1,"Poker Face"" †",Lady Gaga
-2009-04-10,1,"Poker Face"" †",Lady Gaga
-2009-04-17,1,"Poker Face"" †",Lady Gaga
-2009-04-24,1,"Poker Face"" †",Lady Gaga
-2009-05-01,1,"Poker Face"" †",Lady Gaga
-2009-05-08,1,"Poker Face"" †",Lady Gaga
-2009-05-15,1,"Poker Face"" †",Lady Gaga
-2009-05-22,1,"Poker Face"" †",Lady Gaga
+2009-03-13,1,Poker Face,Lady Gaga
+2009-03-20,1,Poker Face,Lady Gaga
+2009-03-27,1,Poker Face,Lady Gaga
+2009-04-03,1,Poker Face,Lady Gaga
+2009-04-10,1,Poker Face,Lady Gaga
+2009-04-17,1,Poker Face,Lady Gaga
+2009-04-24,1,Poker Face,Lady Gaga
+2009-05-01,1,Poker Face,Lady Gaga
+2009-05-08,1,Poker Face,Lady Gaga
+2009-05-15,1,Poker Face,Lady Gaga
+2009-05-22,1,Poker Face,Lady Gaga
 2009-05-29,1,Anything but Love,Daniel Schuhmacher
 2009-06-05,1,Anything but Love,Daniel Schuhmacher
 2009-06-12,1,Anything but Love,Daniel Schuhmacher
-2009-06-19,1,"Poker Face"" †",Lady Gaga
-2009-06-26,1,"Poker Face"" †",Lady Gaga
+2009-06-19,1,Poker Face,Lady Gaga
+2009-06-26,1,Poker Face,Lady Gaga
 2009-07-03,1,Jungle Drum,Emilíana Torrini
 2009-07-10,1,Jungle Drum,Emilíana Torrini
 2009-07-17,1,Jungle Drum,Emilíana Torrini
@@ -2867,9 +2865,9 @@ date,rank,song,artist
 2009-11-27,1,Pflaster,Ich + Ich
 2009-12-04,1,Pflaster,Ich + Ich
 2009-12-11,1,Meet Me Halfway,The Black Eyed Peas
-2009-12-18,1,I Will Love You Monday,Aura Dione
+2009-12-18,1,I Will Love You Monday (365),Aura Dione
 2009-12-25,1,I Like,Keri Hilson
-2010-01-01,1,I Will Love You Monday,Aura Dione
+2010-01-01,1,I Will Love You Monday (365),Aura Dione
 2010-01-08,1,I Like,Keri Hilson
 2010-01-15,1,Bad Romance,Lady Gaga
 2010-01-22,1,I Like,Keri Hilson
@@ -2894,12 +2892,12 @@ date,rank,song,artist
 2010-06-04,1,Wavin' Flag,K'naan
 2010-06-11,1,Satellite,Lena
 2010-06-18,1,Wavin' Flag,K'naan
-2010-06-25,1,Waka Waka,Shakira featuring Freshlyground
-2010-07-02,1,Waka Waka,Shakira featuring Freshlyground
-2010-07-09,1,Waka Waka,Shakira featuring Freshlyground
-2010-07-16,1,Waka Waka,Shakira featuring Freshlyground
-2010-07-23,1,Waka Waka,Shakira featuring Freshlyground
-2010-07-30,1,Waka Waka,Shakira featuring Freshlyground
+2010-06-25,1,Waka Waka (This Time for Africa),Shakira featuring Freshlyground
+2010-07-02,1,Waka Waka (This Time for Africa),Shakira featuring Freshlyground
+2010-07-09,1,Waka Waka (This Time for Africa),Shakira featuring Freshlyground
+2010-07-16,1,Waka Waka (This Time for Africa),Shakira featuring Freshlyground
+2010-07-23,1,Waka Waka (This Time for Africa),Shakira featuring Freshlyground
+2010-07-30,1,Waka Waka (This Time for Africa),Shakira featuring Freshlyground
 2010-08-06,1,We No Speak Americano,Yolanda Be Cool & DCUP
 2010-08-13,1,We No Speak Americano,Yolanda Be Cool & DCUP
 2010-08-20,1,We No Speak Americano,Yolanda Be Cool & DCUP
@@ -2909,23 +2907,23 @@ date,rank,song,artist
 2010-09-17,1,We No Speak Americano,Yolanda Be Cool & DCUP
 2010-09-24,1,Love the Way You Lie,Eminem featuring Rihanna
 2010-10-01,1,Love the Way You Lie,Eminem featuring Rihanna
-2010-10-08,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-10-15,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-10-22,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-10-29,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-11-05,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-11-12,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-11-19,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-11-26,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-12-03,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
+2010-10-08,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-10-15,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-10-22,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-10-29,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-11-05,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-11-12,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-11-19,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-11-26,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-12-03,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
 2010-12-10,1,We Are the People,Empire of the Sun
-2010-12-17,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-12-24,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2010-12-31,1,"Somewhere Over the Rainbow/What a Wonderful World"" †","Israel ""IZ"" Kamakawiwoʻole"
-2011-01-07,1,The Time,The Black Eyed Peas
-2011-01-14,1,The Time,The Black Eyed Peas
-2011-01-21,1,The Time,The Black Eyed Peas
-2011-01-28,1,The Time,The Black Eyed Peas
+2010-12-17,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-12-24,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2010-12-31,1,Somewhere Over the Rainbow/What a Wonderful World,"Israel ""IZ"" Kamakawiwoʻole"
+2011-01-07,1,The Time (Dirty Bit),The Black Eyed Peas
+2011-01-14,1,The Time (Dirty Bit),The Black Eyed Peas
+2011-01-21,1,The Time (Dirty Bit),The Black Eyed Peas
+2011-01-28,1,The Time (Dirty Bit),The Black Eyed Peas
 2011-02-04,1,Rolling in the Deep,Adele
 2011-02-11,1,Rolling in the Deep,Adele
 2011-02-18,1,Grenade,Bruno Mars
@@ -2936,18 +2934,18 @@ date,rank,song,artist
 2011-03-25,1,Born This Way,Lady Gaga
 2011-04-01,1,Grenade,Bruno Mars
 2011-04-08,1,Grenade,Bruno Mars
-2011-04-15,1,"On the Floor""†",Jennifer Lopez
-2011-04-22,1,"On the Floor""†",Jennifer Lopez
-2011-04-29,1,"On the Floor""†",Jennifer Lopez
-2011-05-06,1,"On the Floor""†",Jennifer Lopez
-2011-05-13,1,"On the Floor""†",Jennifer Lopez
+2011-04-15,1,On the Floor,Jennifer Lopez (featuring Pitbull)
+2011-04-22,1,On the Floor,Jennifer Lopez (featuring Pitbull)
+2011-04-29,1,On the Floor,Jennifer Lopez (featuring Pitbull)
+2011-05-06,1,On the Floor,Jennifer Lopez (featuring Pitbull)
+2011-05-13,1,On the Floor,Jennifer Lopez (featuring Pitbull)
 2011-05-20,1,Call My Name,Pietro Lombardi
 2011-05-27,1,Call My Name,Pietro Lombardi
 2011-06-03,1,Call My Name,Pietro Lombardi
 2011-06-10,1,Call My Name,Pietro Lombardi
-2011-06-17,1,Party Rock Anthem,LMFAO
-2011-06-24,1,Party Rock Anthem,LMFAO
-2011-07-01,1,"On the Floor"" †",Jennifer Lopez
+2011-06-17,1,Party Rock Anthem,LMFAO (featuring Lauren Bennett and GoonRock)
+2011-06-24,1,Party Rock Anthem,LMFAO (featuring Lauren Bennett and GoonRock)
+2011-07-01,1,On the Floor,Jennifer Lopez (featuring Pitbull)
 2011-07-08,1,Mr. Saxobeat,Alexandra Stan
 2011-07-15,1,Mr. Saxobeat,Alexandra Stan
 2011-07-22,1,Mr. Saxobeat,Alexandra Stan
@@ -2955,7 +2953,7 @@ date,rank,song,artist
 2011-08-05,1,Mr. Saxobeat,Alexandra Stan
 2011-08-12,1,Mr. Saxobeat,Alexandra Stan
 2011-08-19,1,Mr. Saxobeat,Alexandra Stan
-2011-08-26,1,Danza Kuduro,Lucenzo
+2011-08-26,1,Danza Kuduro,Lucenzo (featuring Don Omar)
 2011-09-02,1,New Age,Marlon Roudette
 2011-09-09,1,New Age,Marlon Roudette
 2011-09-16,1,New Age,Marlon Roudette
@@ -2964,31 +2962,31 @@ date,rank,song,artist
 2011-10-07,1,New Age,Marlon Roudette
 2011-10-14,1,New Age,Marlon Roudette
 2011-10-21,1,New Age,Marlon Roudette
-2011-10-28,1,We Found Love,Rihanna
+2011-10-28,1,We Found Love,Rihanna (featuring Calvin Harris)
 2011-11-04,1,Geronimo,Aura Dione
-2011-11-11,1,We Found Love,Rihanna
-2011-11-18,1,We Found Love,Rihanna
+2011-11-11,1,We Found Love,Rihanna (featuring Calvin Harris)
+2011-11-18,1,We Found Love,Rihanna (featuring Calvin Harris)
 2011-11-25,1,Good Feeling,Flo Rida
-2011-12-02,1,We Found Love,Rihanna
+2011-12-02,1,We Found Love,Rihanna (featuring Calvin Harris)
 2011-12-09,1,Video Games,Lana Del Rey
 2011-12-16,1,Video Games,Lana Del Rey
 2011-12-23,1,Video Games,Lana Del Rey
-2011-12-30,1,Somebody That I Used to Know,Gotye
+2011-12-30,1,Somebody That I Used to Know,Gotye (featuring Kimbra)
 2012-01-06,1,Somebody That I Used to Know,Gotye featuring Kimbra
 2012-01-13,1,Somebody That I Used to Know,Gotye featuring Kimbra
 2012-01-20,1,Somebody That I Used to Know,Gotye featuring Kimbra
 2012-01-27,1,Somebody That I Used to Know,Gotye featuring Kimbra
-2012-02-03,1,"Ai se eu te pego!""†",Michel Teló
-2012-02-10,1,"Ai se eu te pego!""†",Michel Teló
-2012-02-17,1,"Ai se eu te pego!""†",Michel Teló
-2012-02-24,1,"Ai se eu te pego!""†",Michel Teló
-2012-03-02,1,"Ai se eu te pego!""†",Michel Teló
-2012-03-09,1,"Ai se eu te pego!""†",Michel Teló
-2012-03-16,1,"Ai se eu te pego!""†",Michel Teló
-2012-03-23,1,"Ai se eu te pego!""†",Michel Teló
-2012-03-30,1,"Ai se eu te pego!""†",Michel Teló
+2012-02-03,1,Ai se eu te pego!,Michel Teló
+2012-02-10,1,Ai se eu te pego!,Michel Teló
+2012-02-17,1,Ai se eu te pego!,Michel Teló
+2012-02-24,1,Ai se eu te pego!,Michel Teló
+2012-03-02,1,Ai se eu te pego!,Michel Teló
+2012-03-09,1,Ai se eu te pego!,Michel Teló
+2012-03-16,1,Ai se eu te pego!,Michel Teló
+2012-03-23,1,Ai se eu te pego!,Michel Teló
+2012-03-30,1,Ai se eu te pego!,Michel Teló
 2012-04-06,1,Heart Skips a Beat,Olly Murs featuring Rizzle Kicks
-2012-04-13,1,"Ai se eu te pego!""†",Michel Teló
+2012-04-13,1,Ai se eu te pego!,Michel Teló
 2012-04-20,1,Heart Skips a Beat,Olly Murs featuring Rizzle Kicks
 2012-04-27,1,Too Close,Alex Clare
 2012-05-04,1,Too Close,Alex Clare
@@ -3006,14 +3004,14 @@ date,rank,song,artist
 2012-07-27,1,I Follow Rivers,Lykke Li
 2012-08-03,1,I Follow Rivers,Lykke Li
 2012-08-10,1,I Follow Rivers,Lykke Li
-2012-08-17,1,One Day / Reckoning Song,Asaf Avidan
-2012-08-24,1,One Day / Reckoning Song,Asaf Avidan
-2012-08-31,1,One Day / Reckoning Song,Asaf Avidan
-2012-09-07,1,One Day / Reckoning Song,Asaf Avidan
-2012-09-14,1,One Day / Reckoning Song,Asaf Avidan
-2012-09-21,1,One Day / Reckoning Song,Asaf Avidan
+2012-08-17,1,One Day / Reckoning Song (Wankelmut Rmx),Asaf Avidan
+2012-08-24,1,One Day / Reckoning Song (Wankelmut Rmx),Asaf Avidan
+2012-08-31,1,One Day / Reckoning Song (Wankelmut Rmx),Asaf Avidan
+2012-09-07,1,One Day / Reckoning Song (Wankelmut Rmx),Asaf Avidan
+2012-09-14,1,One Day / Reckoning Song (Wankelmut Rmx),Asaf Avidan
+2012-09-21,1,One Day / Reckoning Song (Wankelmut Rmx),Asaf Avidan
 2012-09-28,1,Lila Wolken,"Marteria, Yasha & Miss Platnum"
-2012-10-05,1,One Day / Reckoning Song,Asaf Avidan
+2012-10-05,1,One Day / Reckoning Song (Wankelmut Rmx),Asaf Avidan
 2012-10-12,1,Gangnam Style,PSY
 2012-10-19,1,Skyfall,Adele
 2012-10-26,1,Gangnam Style,PSY
@@ -3054,16 +3052,16 @@ date,rank,song,artist
 2013-06-28,1,Blurred Lines,Robin Thicke featuring T.I. and Pharrell
 2013-07-05,1,Blurred Lines,Robin Thicke featuring T.I. and Pharrell
 2013-07-12,1,Whatever,Cro
-2013-07-19,1,"Wake Me Up!""†",Avicii
-2013-07-26,1,"Wake Me Up!""†",Avicii
-2013-08-02,1,"Wake Me Up!""†",Avicii
-2013-08-09,1,"Wake Me Up!""†",Avicii
-2013-08-16,1,"Wake Me Up!""†",Avicii
-2013-08-23,1,"Wake Me Up!""†",Avicii
-2013-08-30,1,"Wake Me Up!""†",Avicii
-2013-09-06,1,"Wake Me Up!""†",Avicii
-2013-09-13,1,"Wake Me Up!""†",Avicii
-2013-09-20,1,"Wake Me Up!""†",Avicii
+2013-07-19,1,Wake Me Up!,Avicii
+2013-07-26,1,Wake Me Up!,Avicii
+2013-08-02,1,Wake Me Up!,Avicii
+2013-08-09,1,Wake Me Up!,Avicii
+2013-08-16,1,Wake Me Up!,Avicii
+2013-08-23,1,Wake Me Up!,Avicii
+2013-08-30,1,Wake Me Up!,Avicii
+2013-09-06,1,Wake Me Up!,Avicii
+2013-09-13,1,Wake Me Up!,Avicii
+2013-09-20,1,Wake Me Up!,Avicii
 2013-09-27,1,Talk Dirty,Jason Derulo featuring 2 Chainz
 2013-10-04,1,Talk Dirty,Jason Derulo featuring 2 Chainz
 2013-10-11,1,Talk Dirty,Jason Derulo featuring 2 Chainz
@@ -3086,12 +3084,12 @@ date,rank,song,artist
 2014-02-07,1,Happy,Pharrell Williams
 2014-02-14,1,Happy,Pharrell Williams
 2014-02-21,1,Happy,Pharrell Williams
-2014-02-28,1,Waves,Mr Probz
+2014-02-28,1,"Waves"" (Robin Schulz Remix)",Mr Probz
 2014-03-07,1,Happy,Pharrell Williams
 2014-03-14,1,Happy,Pharrell Williams
-2014-03-21,1,Waves,Mr Probz
-2014-03-28,1,Waves,Mr Probz
-2014-04-04,1,Waves,Mr Probz
+2014-03-21,1,"Waves"" (Robin Schulz Remix)",Mr Probz
+2014-03-28,1,"Waves"" (Robin Schulz Remix)",Mr Probz
+2014-04-04,1,"Waves"" (Robin Schulz Remix)",Mr Probz
 2014-04-11,1,Rather Be,Clean Bandit featuring Jess Glynne
 2014-04-18,1,Rather Be,Clean Bandit featuring Jess Glynne
 2014-04-25,1,Rather Be,Clean Bandit featuring Jess Glynne
@@ -3102,11 +3100,11 @@ date,rank,song,artist
 2014-05-30,1,Traum,Cro
 2014-06-06,1,Traum,Cro
 2014-06-13,1,Traum,Cro
-2014-06-20,1,Prayer in C,Lilly Wood and the Prick & Robin Schulz
-2014-06-27,1,Prayer in C,Lilly Wood and the Prick & Robin Schulz
-2014-07-04,1,Prayer in C,Lilly Wood and the Prick & Robin Schulz
-2014-07-11,1,Prayer in C,Lilly Wood and the Prick & Robin Schulz
-2014-07-18,1,Prayer in C,Lilly Wood and the Prick & Robin Schulz
+2014-06-20,1,"Prayer in C"" (Robin Schulz Remix)",Lilly Wood and the Prick & Robin Schulz
+2014-06-27,1,"Prayer in C"" (Robin Schulz Remix)",Lilly Wood and the Prick & Robin Schulz
+2014-07-04,1,"Prayer in C"" (Robin Schulz Remix)",Lilly Wood and the Prick & Robin Schulz
+2014-07-11,1,"Prayer in C"" (Robin Schulz Remix)",Lilly Wood and the Prick & Robin Schulz
+2014-07-18,1,"Prayer in C"" (Robin Schulz Remix)",Lilly Wood and the Prick & Robin Schulz
 2014-07-25,1,Auf uns,Andreas Bourani
 2014-08-01,1,When the Beat Drops Out,Marlon Roudette
 2014-08-08,1,When the Beat Drops Out,Marlon Roudette
@@ -3126,8 +3124,8 @@ date,rank,song,artist
 2014-11-14,1,All About That Bass,Meghan Trainor
 2014-11-21,1,Dangerous,David Guetta featuring Sam Martin
 2014-11-28,1,Dangerous,David Guetta featuring Sam Martin
-2014-12-05,1,Do They Know It's Christmas?,Band Aid 30 Germany
-2014-12-12,1,Do They Know It's Christmas?,Band Aid 30 Germany
+2014-12-05,1,"Do They Know It's Christmas?"" (German Version)",Band Aid 30 Germany
+2014-12-12,1,"Do They Know It's Christmas?"" (German Version)",Band Aid 30 Germany
 2014-12-19,1,Dangerous,David Guetta featuring Sam Martin
 2014-12-26,1,Dangerous,David Guetta featuring Sam Martin
 2015-01-02,1,Dangerous,David Guetta featuring Sam Martin
@@ -3136,7 +3134,7 @@ date,rank,song,artist
 2015-01-23,1,Outside,Calvin Harris featuring Ellie Goulding
 2015-01-30,1,The Hanging Tree,James Newton Howard featuring Jennifer Lawrence
 2015-02-06,1,The Hanging Tree,James Newton Howard featuring Jennifer Lawrence
-2015-02-13,1,"Cheerleader""  †",OMI
+2015-02-13,1,"Cheerleader"" (Felix Jaehn Remix)",OMI
 2015-02-20,1,Love Me like You Do,Ellie Goulding
 2015-02-27,1,Love Me like You Do,Ellie Goulding
 2015-03-06,1,Love Me like You Do,Ellie Goulding
@@ -3149,14 +3147,14 @@ date,rank,song,artist
 2015-04-24,1,See You Again,Wiz Khalifa featuring Charlie Puth
 2015-05-01,1,See You Again,Wiz Khalifa featuring Charlie Puth
 2015-05-05,1,See You Again,Wiz Khalifa featuring Charlie Puth
-2015-05-08,1,Ain't Nobody,Felix Jaehn featuring Jasmine Thompson
-2015-05-15,1,Ain't Nobody,Felix Jaehn featuring Jasmine Thompson
-2015-05-22,1,Ain't Nobody,Felix Jaehn featuring Jasmine Thompson
-2015-05-29,1,Ain't Nobody,Felix Jaehn featuring Jasmine Thompson
-2015-06-05,1,Ain't Nobody,Felix Jaehn featuring Jasmine Thompson
-2015-06-12,1,Ain't Nobody,Felix Jaehn featuring Jasmine Thompson
-2015-06-19,1,Ain't Nobody,Felix Jaehn featuring Jasmine Thompson
-2015-06-26,1,Ain't Nobody,Felix Jaehn featuring Jasmine Thompson
+2015-05-08,1,Ain't Nobody (Loves Me Better),Felix Jaehn featuring Jasmine Thompson
+2015-05-15,1,Ain't Nobody (Loves Me Better),Felix Jaehn featuring Jasmine Thompson
+2015-05-22,1,Ain't Nobody (Loves Me Better),Felix Jaehn featuring Jasmine Thompson
+2015-05-29,1,Ain't Nobody (Loves Me Better),Felix Jaehn featuring Jasmine Thompson
+2015-06-05,1,Ain't Nobody (Loves Me Better),Felix Jaehn featuring Jasmine Thompson
+2015-06-12,1,Ain't Nobody (Loves Me Better),Felix Jaehn featuring Jasmine Thompson
+2015-06-19,1,Ain't Nobody (Loves Me Better),Felix Jaehn featuring Jasmine Thompson
+2015-06-26,1,Ain't Nobody (Loves Me Better),Felix Jaehn featuring Jasmine Thompson
 2015-07-03,1,Bye Bye,Cro
 2015-07-10,1,Bye Bye,Cro
 2015-07-17,1,Bye Bye,Cro
@@ -3185,20 +3183,20 @@ date,rank,song,artist
 2015-12-25,1,Hello,Adele
 2016-01-01,1,Hello,Adele
 2016-01-08,1,Hello,Adele
-2016-01-15,1,Catch & Release,Matt Simons
+2016-01-15,1,Catch & Release (Deepend Remix),Matt Simons
 2016-01-22,1,Stimme,EFF
 2016-01-29,1,Stimme,EFF
 2016-02-05,1,Stimme,EFF
-2016-02-12,1,"Faded"" †",Alan Walker
-2016-02-19,1,"Faded"" †",Alan Walker
-2016-02-26,1,"Faded"" †",Alan Walker
-2016-03-04,1,"Faded"" †",Alan Walker
-2016-03-11,1,"Faded"" †",Alan Walker
-2016-03-18,1,"Faded"" †",Alan Walker
-2016-03-25,1,"Faded"" †",Alan Walker
-2016-04-01,1,"Faded"" †",Alan Walker
-2016-04-08,1,"Faded"" †",Alan Walker
-2016-04-15,1,"Faded"" †",Alan Walker
+2016-02-12,1,Faded,Alan Walker
+2016-02-19,1,Faded,Alan Walker
+2016-02-26,1,Faded,Alan Walker
+2016-03-04,1,Faded,Alan Walker
+2016-03-11,1,Faded,Alan Walker
+2016-03-18,1,Faded,Alan Walker
+2016-03-25,1,Faded,Alan Walker
+2016-04-01,1,Faded,Alan Walker
+2016-04-08,1,Faded,Alan Walker
+2016-04-15,1,Faded,Alan Walker
 2016-04-22,1,Cheap Thrills,Sia featuring Sean Paul
 2016-04-29,1,Cheap Thrills,Sia featuring Sean Paul
 2016-05-06,1,One Dance,Drake featuring Wizkid & Kyla
@@ -3210,16 +3208,16 @@ date,rank,song,artist
 2016-06-17,1,This One's for You,David Guetta featuring Zara Larsson
 2016-06-24,1,This Girl,Kungs vs. Cookin' on 3 Burners
 2016-07-01,1,This Girl,Kungs vs. Cookin' on 3 Burners
-2016-07-08,1,Don't Be So Shy,Imany
-2016-07-15,1,Don't Be So Shy,Imany
-2016-07-22,1,Don't Be So Shy,Imany
-2016-07-29,1,Don't Be So Shy,Imany
-2016-08-05,1,Don't Be So Shy,Imany
-2016-08-12,1,Don't Be So Shy,Imany
-2016-08-19,1,Don't Be So Shy,Imany
-2016-08-26,1,Don't Be So Shy,Imany
-2016-09-02,1,Don't Be So Shy,Imany
-2016-09-09,1,Don't Be So Shy,Imany
+2016-07-08,1,Don't Be So Shy (Filatov & Karas Remix),Imany
+2016-07-15,1,Don't Be So Shy (Filatov & Karas Remix),Imany
+2016-07-22,1,Don't Be So Shy (Filatov & Karas Remix),Imany
+2016-07-29,1,Don't Be So Shy (Filatov & Karas Remix),Imany
+2016-08-05,1,Don't Be So Shy (Filatov & Karas Remix),Imany
+2016-08-12,1,Don't Be So Shy (Filatov & Karas Remix),Imany
+2016-08-19,1,Don't Be So Shy (Filatov & Karas Remix),Imany
+2016-08-26,1,Don't Be So Shy (Filatov & Karas Remix),Imany
+2016-09-02,1,Don't Be So Shy (Filatov & Karas Remix),Imany
+2016-09-09,1,Don't Be So Shy (Filatov & Karas Remix),Imany
 2016-09-16,1,Let Me Love You,DJ Snake featuring Justin Bieber
 2016-09-23,1,Let Me Love You,DJ Snake featuring Justin Bieber
 2016-09-30,1,Human,Rag'n'Bone Man
@@ -3237,21 +3235,21 @@ date,rank,song,artist
 2016-12-23,1,Human,Rag'n'Bone Man
 2016-12-30,1,Rockabye,Clean Bandit featuring Sean Paul & Anne-Marie
 2017-01-06,1,Rockabye,Clean Bandit featuring Sean Paul and Anne-Marie
-2017-01-13,1,"Shape of You"" †",Ed Sheeran
-2017-01-20,1,"Shape of You"" †",Ed Sheeran
-2017-01-27,1,"Shape of You"" †",Ed Sheeran
-2017-02-03,1,"Shape of You"" †",Ed Sheeran
-2017-02-10,1,"Shape of You"" †",Ed Sheeran
-2017-02-17,1,"Shape of You"" †",Ed Sheeran
-2017-02-24,1,"Shape of You"" †",Ed Sheeran
-2017-03-03,1,"Shape of You"" †",Ed Sheeran
-2017-03-10,1,"Shape of You"" †",Ed Sheeran
-2017-03-17,1,"Shape of You"" †",Ed Sheeran
-2017-03-24,1,"Shape of You"" †",Ed Sheeran
-2017-03-31,1,"Shape of You"" †",Ed Sheeran
-2017-04-07,1,"Shape of You"" †",Ed Sheeran
-2017-04-14,1,"Shape of You"" †",Ed Sheeran
-2017-04-21,1,"Shape of You"" †",Ed Sheeran
+2017-01-13,1,Shape of You,Ed Sheeran
+2017-01-20,1,Shape of You,Ed Sheeran
+2017-01-27,1,Shape of You,Ed Sheeran
+2017-02-03,1,Shape of You,Ed Sheeran
+2017-02-10,1,Shape of You,Ed Sheeran
+2017-02-17,1,Shape of You,Ed Sheeran
+2017-02-24,1,Shape of You,Ed Sheeran
+2017-03-03,1,Shape of You,Ed Sheeran
+2017-03-10,1,Shape of You,Ed Sheeran
+2017-03-17,1,Shape of You,Ed Sheeran
+2017-03-24,1,Shape of You,Ed Sheeran
+2017-03-31,1,Shape of You,Ed Sheeran
+2017-04-07,1,Shape of You,Ed Sheeran
+2017-04-14,1,Shape of You,Ed Sheeran
+2017-04-21,1,Shape of You,Ed Sheeran
 2017-04-28,1,Despacito,Luis Fonsi featuring Daddy Yankee
 2017-05-05,1,Despacito,Luis Fonsi featuring Daddy Yankee
 2017-05-12,1,Despacito,Luis Fonsi featuring Daddy Yankee
@@ -3275,7 +3273,7 @@ date,rank,song,artist
 2017-09-15,1,Señorita,Kay One featuring Pietro Lombardi
 2017-09-22,1,Señorita,Kay One featuring Pietro Lombardi
 2017-09-29,1,Señorita,Kay One featuring Pietro Lombardi
-2017-10-06,1,Sturmmaske auf,Kollegah and Farid Bang
+2017-10-06,1,Sturmmaske auf (Intro),Kollegah and Farid Bang
 2017-10-13,1,Was du Liebe nennst,Bausa
 2017-10-20,1,Was du Liebe nennst,Bausa
 2017-10-27,1,Was du Liebe nennst,Bausa
@@ -3312,24 +3310,24 @@ date,rank,song,artist
 2018-06-01,1,One Night Stand,Capital Bra
 2018-06-08,1,One Night Stand,Capital Bra
 2018-06-15,1,Berlin lebt,Capital Bra
-2018-06-22,1,Je ne parle pas français,Namika featuring Black M
-2018-06-29,1,Je ne parle pas français,Namika featuring Black M
+2018-06-22,1,Je ne parle pas français (Beatgees Remix),Namika featuring Black M
+2018-06-29,1,Je ne parle pas français (Beatgees Remix),Namika featuring Black M
 2018-07-06,1,Solo,Clean Bandit featuring Demi Lovato
 2018-07-13,1,Für euch alle,Bushido featuring Samra and Capital Bra
-2018-07-20,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
-2018-07-27,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
-2018-08-03,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
+2018-07-20,1,In My Mind,Dynoro and Gigi D'Agostino
+2018-07-27,1,In My Mind,Dynoro and Gigi D'Agostino
+2018-08-03,1,In My Mind,Dynoro and Gigi D'Agostino
 2018-08-10,1,Melodien,Capital Bra featuring Juju
-2018-08-17,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
-2018-08-24,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
-2018-08-31,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
-2018-09-07,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
-2018-09-14,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
+2018-08-17,1,In My Mind,Dynoro and Gigi D'Agostino
+2018-08-24,1,In My Mind,Dynoro and Gigi D'Agostino
+2018-08-31,1,In My Mind,Dynoro and Gigi D'Agostino
+2018-09-07,1,In My Mind,Dynoro and Gigi D'Agostino
+2018-09-14,1,In My Mind,Dynoro and Gigi D'Agostino
 2018-09-21,1,Kokain,Bonez MC and RAF Camora featuring Gzuz
-2018-09-28,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
-2018-10-05,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
+2018-09-28,1,In My Mind,Dynoro and Gigi D'Agostino
+2018-10-05,1,In My Mind,Dynoro and Gigi D'Agostino
 2018-10-12,1,500 PS,Bonez MC and RAF Camora
-2018-10-19,1,"In My Mind"" †",Dynoro and Gigi D'Agostino
+2018-10-19,1,In My Mind,Dynoro and Gigi D'Agostino
 2018-10-26,1,Roli Glitzer Glitzer,Capital Bra featuring Luciano and Eno
 2018-11-02,1,Standard,"KitschKrieg featuring Trettmann, Gringo, Ufo361 and Gzuz"
 2018-11-09,1,Standard,"KitschKrieg featuring Trettmann, Gringo, Ufo361 and Gzuz"
@@ -3356,14 +3354,14 @@ date,rank,song,artist
 2019-04-05,1,Deutschland,Rammstein
 2019-04-12,1,Harami,Samra
 2019-04-19,1,Deutschland,Rammstein
-2019-04-26,1,"Old Town Road"" †",Lil Nas X
-2019-05-03,1,"Old Town Road"" †",Lil Nas X
+2019-04-26,1,Old Town Road,Lil Nas X
+2019-05-03,1,Old Town Road,Lil Nas X
 2019-05-10,1,Vermissen,Juju featuring Henning May
 2019-05-17,1,Vermissen,Juju featuring Henning May
 2019-05-24,1,Wieder Lila,Samra and Capital Bra
 2019-05-31,1,Wieder Lila,Samra and Capital Bra
-2019-06-07,1,"Old Town Road"" †",Lil Nas X
-2019-06-14,1,"Old Town Road"" †",Lil Nas X
+2019-06-07,1,Old Town Road,Lil Nas X
+2019-06-14,1,Old Town Road,Lil Nas X
 2019-06-21,1,Royal Rumble,"Kalazh44, Capital Bra and Samra featuring Nimo and Luciano"
 2019-06-28,1,Tilidin,Capital Bra and Samra
 2019-07-05,1,Tilidin,Capital Bra and Samra
@@ -3393,22 +3391,22 @@ date,rank,song,artist
 2019-12-20,1,Dance Monkey,Tones and I
 2019-12-27,1,All I Want for Christmas Is You,Mariah Carey
 2020-01-03,1,Dance Monkey,Tones and I
-2020-01-10,1,"Blinding Lights"" †",The Weeknd
-2020-01-17,1,"Blinding Lights"" †",The Weeknd
+2020-01-10,1,Blinding Lights,The Weeknd
+2020-01-17,1,Blinding Lights,The Weeknd
 2020-01-24,1,Kein Wort,Juju and Loredana
 2020-01-31,1,Kein Wort,Juju and Loredana
 2020-02-07,1,Baby,Joker Bra and Vize
-2020-02-14,1,"Blinding Lights"" †",The Weeknd
-2020-02-21,1,"Blinding Lights"" †",The Weeknd
-2020-02-28,1,"Blinding Lights"" †",The Weeknd
-2020-03-06,1,"Blinding Lights"" †",The Weeknd
+2020-02-14,1,Blinding Lights,The Weeknd
+2020-02-21,1,Blinding Lights,The Weeknd
+2020-02-28,1,Blinding Lights,The Weeknd
+2020-03-06,1,Blinding Lights,The Weeknd
 2020-03-13,1,Angst,Loredana featuring Rymez
-2020-03-20,1,"Blinding Lights"" †",The Weeknd
-2020-03-27,1,"Blinding Lights"" †",The Weeknd
+2020-03-20,1,Blinding Lights,The Weeknd
+2020-03-27,1,Blinding Lights,The Weeknd
 2020-04-03,1,Du bist mein,"Loredana, Zuna and SRNO"
 2020-04-10,1,Eine Nacht,Ramon Roselly
-2020-04-17,1,"Blinding Lights"" †",The Weeknd
-2020-04-24,1,"Blinding Lights"" †",The Weeknd
+2020-04-17,1,Blinding Lights,The Weeknd
+2020-04-24,1,Blinding Lights,The Weeknd
 2020-05-01,1,90-60-111,Shirin David
 2020-05-08,1,Nicht verdient,Capital Bra and Loredana
 2020-05-15,1,Fame,Apache 207
@@ -3424,8 +3422,8 @@ date,rank,song,artist
 2020-07-24,1,Bläulich,Apache 207
 2020-07-31,1,Unterwegs,Apache 207
 2020-08-07,1,Sie ruft,Apache 207
-2020-08-14,1,Savage Love,Jawsh 685 and Jason Derulo
-2020-08-21,1,Savage Love,Jawsh 685 and Jason Derulo
+2020-08-14,1,Savage Love (Laxed – Siren Beat),Jawsh 685 and Jason Derulo
+2020-08-21,1,Savage Love (Laxed – Siren Beat),Jawsh 685 and Jason Derulo
 2020-08-28,1,Frühstück in Paris,Capital Bra and Cro
 2020-09-04,1,Unterwegs,KitschKrieg featuring Jamule
 2020-09-11,1,Fuckst mich nur ab,Bonez MC
@@ -3438,7 +3436,7 @@ date,rank,song,artist
 2020-10-30,1,Angeklagt,Bonez MC
 2020-11-06,1,Angeklagt,Bonez MC
 2020-11-13,1,Angeklagt,Bonez MC
-2020-11-20,1,Kennst du das ?!,Samra
+2020-11-20,1,Kennst du das ?!,Samra
 2020-11-27,1,Mood,24kGoldn featuring Iann Dior
 2020-12-04,1,All I Want for Christmas Is You,Mariah Carey
 2020-12-11,1,All I Want for Christmas Is You,Mariah Carey
@@ -3451,18 +3449,18 @@ date,rank,song,artist
 2021-01-29,1,Ohne dich,Kasimir1441 featuring Badmómzjay and Wildbwoys
 2021-02-05,1,Ohne dich,Kasimir1441 featuring Badmómzjay and Wildbwoys
 2021-02-12,1,Ohne dich,Kasimir1441 featuring Badmómzjay and Wildbwoys
-2021-02-19,1,"Wellerman"" †",Nathan Evans
+2021-02-19,1,Wellerman,Nathan Evans
 2021-02-26,1,Madonna,Bausa featuring Apache 207
-2021-03-05,1,"Wellerman"" †",Nathan Evans
-2021-03-12,1,"Wellerman"" †",Nathan Evans
-2021-03-19,1,"Wellerman"" †",Nathan Evans
-2021-03-26,1,"Wellerman"" †",Nathan Evans
-2021-04-02,1,"Wellerman"" †",Nathan Evans
-2021-04-09,1,"Wellerman"" †",Nathan Evans
-2021-04-16,1,"Wellerman"" †",Nathan Evans
-2021-04-23,1,"Wellerman"" †",Nathan Evans
-2021-04-30,1,Best Friend,Saweetie featuring Doja Cat and Katja Krasavice
-2021-05-07,1,"Wellerman"" †",Nathan Evans
+2021-03-05,1,Wellerman,Nathan Evans
+2021-03-12,1,Wellerman,Nathan Evans
+2021-03-19,1,Wellerman,Nathan Evans
+2021-03-26,1,Wellerman,Nathan Evans
+2021-04-02,1,Wellerman,Nathan Evans
+2021-04-09,1,Wellerman,Nathan Evans
+2021-04-16,1,Wellerman,Nathan Evans
+2021-04-23,1,Wellerman,Nathan Evans
+2021-04-30,1,Best Friend (Remix),Saweetie featuring Doja Cat and Katja Krasavice
+2021-05-07,1,Wellerman,Nathan Evans
 2021-05-14,1,Extasy,Bonez MC featuring Frauenarzt
 2021-05-21,1,Ich darf das,Shirin David
 2021-05-28,1,Ich darf das,Shirin David
@@ -3490,7 +3488,7 @@ date,rank,song,artist
 2021-10-29,1,Shivers,Ed Sheeran
 2021-11-05,1,Be A Hoe/Break A Hoe,Shirin David and Kitty Kat
 2021-11-12,1,Raindrops,Katja Krasavice and Leony
-2021-11-19,1,Der letzte Song,Kummer featuring Fred Rabe
+2021-11-19,1,Der letzte Song (Alles wird gut),Kummer featuring Fred Rabe
 2021-11-26,1,Easy on Me,Adele
 2021-12-03,1,All I Want for Christmas Is You,Mariah Carey
 2021-12-10,1,All I Want for Christmas Is You,Mariah Carey
@@ -3499,7 +3497,7 @@ date,rank,song,artist
 2021-12-31,1,Last Christmas,Wham!
 2022-01-07,1,ABCDEFU,Gayle
 2022-01-14,1,ABCDEFU,Gayle
-2022-01-21,1,Der letzte Song,Kummer featuring Fred Rabe
+2022-01-21,1,Der letzte Song (Alles wird gut),Kummer featuring Fred Rabe
 2022-01-28,1,ABCDEFU,Gayle
 2022-02-04,1,ABCDEFU,Gayle
 2022-02-11,1,ABCDEFU,Gayle
@@ -3521,15 +3519,15 @@ date,rank,song,artist
 2022-06-03,1,Beautiful Girl,Luciano
 2022-06-10,1,Beautiful Girl,Luciano
 2022-06-17,1,Ohne Benzin,Domiziana
-2022-06-24,1,"Layla"" †",DJ Robin & Schürze
-2022-07-01,1,"Layla"" †",DJ Robin & Schürze
-2022-07-08,1,"Layla"" †",DJ Robin & Schürze
-2022-07-15,1,"Layla"" †",DJ Robin & Schürze
-2022-07-22,1,"Layla"" †",DJ Robin & Schürze
-2022-07-29,1,"Layla"" †",DJ Robin & Schürze
-2022-08-05,1,"Layla"" †",DJ Robin & Schürze
-2022-08-12,1,"Layla"" †",DJ Robin & Schürze
-2022-08-19,1,"Layla"" †",DJ Robin & Schürze
+2022-06-24,1,Layla,DJ Robin & Schürze
+2022-07-01,1,Layla,DJ Robin & Schürze
+2022-07-08,1,Layla,DJ Robin & Schürze
+2022-07-15,1,Layla,DJ Robin & Schürze
+2022-07-22,1,Layla,DJ Robin & Schürze
+2022-07-29,1,Layla,DJ Robin & Schürze
+2022-08-05,1,Layla,DJ Robin & Schürze
+2022-08-12,1,Layla,DJ Robin & Schürze
+2022-08-19,1,Layla,DJ Robin & Schürze
 2022-08-26,1,Wildberry Lillet,Nina Chuba
 2022-09-02,1,Wildberry Lillet,Nina Chuba
 2022-09-09,1,Nachts wach,Miksu/Macloud & Makko
@@ -3549,38 +3547,38 @@ date,rank,song,artist
 2022-12-16,1,All I Want for Christmas Is You,Mariah Carey
 2022-12-23,1,All I Want for Christmas Is You,Mariah Carey
 2022-12-30,1,Last Christmas,Wham!
-2023-01-06,1,I'm Good,David Guetta and Bebe Rexha
+2023-01-06,1,I'm Good (Blue),David Guetta and Bebe Rexha
 2023-01-13,1,Sie weiß,Ayliva featuring Mero
 2023-01-20,1,Sie weiß,Ayliva featuring Mero
 2023-01-27,1,Flowers,Miley Cyrus
-2023-02-03,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-02-10,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-02-17,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-02-24,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-03-03,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-03-10,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-03-17,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-03-24,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-03-31,1,"Komet"" †",Udo Lindenberg and Apache 207
+2023-02-03,1,Komet,Udo Lindenberg and Apache 207
+2023-02-10,1,Komet,Udo Lindenberg and Apache 207
+2023-02-17,1,Komet,Udo Lindenberg and Apache 207
+2023-02-24,1,Komet,Udo Lindenberg and Apache 207
+2023-03-03,1,Komet,Udo Lindenberg and Apache 207
+2023-03-10,1,Komet,Udo Lindenberg and Apache 207
+2023-03-17,1,Komet,Udo Lindenberg and Apache 207
+2023-03-24,1,Komet,Udo Lindenberg and Apache 207
+2023-03-31,1,Komet,Udo Lindenberg and Apache 207
 2023-04-07,1,All Night,RAF Camora featuring Luciano
-2023-04-14,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-04-21,1,"Komet"" †",Udo Lindenberg and Apache 207
+2023-04-14,1,Komet,Udo Lindenberg and Apache 207
+2023-04-21,1,Komet,Udo Lindenberg and Apache 207
 2023-04-28,1,Icecream,Twenty4tim
-2023-05-05,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-05-12,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-05-19,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-05-26,1,"Komet"" †",Udo Lindenberg and Apache 207
+2023-05-05,1,Komet,Udo Lindenberg and Apache 207
+2023-05-12,1,Komet,Udo Lindenberg and Apache 207
+2023-05-19,1,Komet,Udo Lindenberg and Apache 207
+2023-05-26,1,Komet,Udo Lindenberg and Apache 207
 2023-06-02,1,Hot or Not,Twenty4tim featuring Kitty Kat
 2023-06-09,1,Friesenjung,Ski Aggu featuring Joost and Otto Waalkes
 2023-06-16,1,Friesenjung,Ski Aggu featuring Joost and Otto Waalkes
 2023-06-23,1,Friesenjung,Ski Aggu featuring Joost and Otto Waalkes
 2023-06-30,1,Friesenjung,Ski Aggu featuring Joost and Otto Waalkes
-2023-07-07,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-07-14,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-07-21,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-07-28,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-08-04,1,"Komet"" †",Udo Lindenberg and Apache 207
-2023-08-11,1,"Komet"" †",Udo Lindenberg and Apache 207
+2023-07-07,1,Komet,Udo Lindenberg and Apache 207
+2023-07-14,1,Komet,Udo Lindenberg and Apache 207
+2023-07-21,1,Komet,Udo Lindenberg and Apache 207
+2023-07-28,1,Komet,Udo Lindenberg and Apache 207
+2023-08-04,1,Komet,Udo Lindenberg and Apache 207
+2023-08-11,1,Komet,Udo Lindenberg and Apache 207
 2023-08-18,1,Summertime,Kontra K featuring Lana Del Rey
 2023-08-25,1,Mädchen auf dem Pferd,"Luca-Dante Spadafora, Niklas Dee and Octavian"
 2023-09-01,1,9 bis 9,Sira featuring Bausa and Badchieff
@@ -3596,7 +3594,7 @@ date,rank,song,artist
 2023-11-10,1,Now and Then,The Beatles
 2023-11-17,1,Die Sonne,Kontra K featuring Santos
 2023-11-24,1,Prada,"Cassö, Raye and D-Block Europe"
-2023-12-01,1,Atemlos durch die Nacht,Helene Fischer featuring Shirin David
+2023-12-01,1,"Atemlos durch die Nacht"" (10 Year Anniversary Version)",Helene Fischer featuring Shirin David
 2023-12-08,1,All I Want for Christmas Is You,Mariah Carey
 2023-12-15,1,All I Want for Christmas Is You,Mariah Carey
 2023-12-22,1,All I Want for Christmas Is You,Mariah Carey
@@ -3614,10 +3612,10 @@ date,rank,song,artist
 2024-03-15,1,Beautiful Things,Benson Boone
 2024-03-22,1,Beautiful Things,Benson Boone
 2024-03-29,1,Beautiful Things,Benson Boone
-2024-04-05,1,"I Like the Way You Kiss Me"" †",Artemas
-2024-04-12,1,"I Like the Way You Kiss Me"" †",Artemas
-2024-04-19,1,"I Like the Way You Kiss Me"" †",Artemas
-2024-04-26,1,"I Like the Way You Kiss Me"" †",Artemas
+2024-04-05,1,I Like the Way You Kiss Me,Artemas
+2024-04-12,1,I Like the Way You Kiss Me,Artemas
+2024-04-19,1,I Like the Way You Kiss Me,Artemas
+2024-04-26,1,I Like the Way You Kiss Me,Artemas
 2024-05-03,1,Wunder,Ayliva featuring Apache 207
 2024-05-10,1,Wunder,Ayliva featuring Apache 207
 2024-05-17,1,Wunder,Ayliva featuring Apache 207
@@ -3659,22 +3657,22 @@ date,rank,song,artist
 2025-01-24,1,APT.,Rosé and Bruno Mars
 2025-01-31,1,APT.,Rosé and Bruno Mars
 2025-02-07,1,Tau mich auf,Zartmann
-2025-02-14,1,"Wackelkontakt""†",Oimara
-2025-02-21,1,"Wackelkontakt""†",Oimara
-2025-02-28,1,"Wackelkontakt""†",Oimara
-2025-03-07,1,"Wackelkontakt""†",Oimara
-2025-03-14,1,"Wackelkontakt""†",Oimara
-2025-03-21,1,"Wackelkontakt""†",Oimara
-2025-03-28,1,"Wackelkontakt""†",Oimara
+2025-02-14,1,Wackelkontakt,Oimara
+2025-02-21,1,Wackelkontakt,Oimara
+2025-02-28,1,Wackelkontakt,Oimara
+2025-03-07,1,Wackelkontakt,Oimara
+2025-03-14,1,Wackelkontakt,Oimara
+2025-03-21,1,Wackelkontakt,Oimara
+2025-03-28,1,Wackelkontakt,Oimara
 2025-04-04,1,Tau mich auf,Zartmann
 2025-04-11,1,Akon,Jazeek
 2025-04-18,1,Akon,Jazeek
 2025-04-25,1,Akon,Jazeek
 2025-05-02,1,Akon,Jazeek
-2025-05-09,1,Shababs im VIP,Pashanim featuring Ceren
-2025-05-16,1,Shababs im VIP,Pashanim featuring Ceren
-2025-05-23,1,Shababs im VIP,Pashanim featuring Ceren
-2025-05-30,1,Shababs im VIP,Pashanim featuring Ceren
+2025-05-09,1,Shabab(e)s im VIP,Pashanim featuring Ceren
+2025-05-16,1,Shabab(e)s im VIP,Pashanim featuring Ceren
+2025-05-23,1,Shabab(e)s im VIP,Pashanim featuring Ceren
+2025-05-30,1,Shabab(e)s im VIP,Pashanim featuring Ceren
 2025-06-06,1,Ordinary,Alex Warren
 2025-06-13,1,Ordinary,Alex Warren
 2025-06-20,1,Ordinary,Alex Warren
@@ -3715,3 +3713,35 @@ date,rank,song,artist
 2026-02-20,1,Karnevalsmaus,Druckluft
 2026-02-27,1,Opalite,Taylor Swift
 2026-03-06,1,Lush Life,Zara Larsson
+2026-03-13,1,CDY,Lacazette and Jazeek
+2026-03-20,1,CDY,Lacazette and Jazeek
+2026-03-27,1,Swim,BTS
+2026-04-03,1,Lush Life,Zara Larsson
+2026-04-10,1,Lush Life,Zara Larsson
+2026-04-17,1,Dracula,Tame Impala
+2026-04-24,1,Beauty and a Beat,Justin Bieber featuring Nicki Minaj
+2026-05-01,1,Beauty and a Beat,Justin Bieber featuring Nicki Minaj
+2026-05-08,1,Beauty and a Beat,Justin Bieber featuring Nicki Minaj
+2026-05-15,1,Beauty and a Beat,Justin Bieber featuring Nicki Minaj
+2026-05-22,1,Bangaranga,Dara
+2026-05-29,1,Beauty and a Beat,Justin Bieber featuring Nicki Minaj
+2026-06-05,1,Heute Nacht,Helene Fischer
+2026-06-12,1,"I Knew It, I Knew You",Taylor Swift
+2026-06-19,1,Gut genug,"KitschKrieg, Blumengarten and Shirin David"
+2026-06-26,1,Gut genug,"KitschKrieg, Blumengarten and Shirin David"
+2026-07-03,1,Dai Dai,Shakira and Burna Boy
+2026-07-10,1,Dai Dai,Shakira and Burna Boy
+2026-07-17,1,Dai Dai,Shakira and Burna Boy
+2026-07-24,1,Dai Dai,Shakira and Burna Boy
+2026-07-31,1,Dai Dai,Shakira and Burna Boy
+2026-08-07,1,Dai Dai,Shakira and Burna Boy
+2026-08-14,1,Dai Dai,Shakira and Burna Boy
+2026-08-21,1,Dai Dai,Shakira and Burna Boy
+2026-08-28,1,Dai Dai,Shakira and Burna Boy
+2026-09-04,1,Dai Dai,Shakira and Burna Boy
+2026-09-11,1,Dai Dai,Shakira and Burna Boy
+2026-09-18,1,Dai Dai,Shakira and Burna Boy
+2026-09-25,1,Dai Dai,Shakira and Burna Boy
+2026-10-02,1,Patient Zero,Taylor Swift
+2026-10-09,1,Patient Zero,Taylor Swift
+2026-10-16,1,Patient Zero,Taylor Swift

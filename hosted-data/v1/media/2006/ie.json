@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2006",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2006&idGame=111",
+          "artworkURL": "https://www.interactive.org/images/games/2006_god_of_war_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2005,
+          "title": "God of War"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2006&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2006
+    }
+  },
+  "contentHash": "cb8df5d43a54469f25292cc2df5746bec9d759bd45de154a212cc47211f0a7ea",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2006
+}

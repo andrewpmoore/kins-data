@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2024",
+      "items": [
+        {
+          "author": "Aldo Cazzullo",
+          "creator": "Aldo Cazzullo",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Il Dio dei nostri padri",
+          "url": "https://books.google.com/books?q=Il+Dio+dei+nostri+padri"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2024.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2024
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2024",
+      "items": [
+        {
+          "author": "Pera Toons",
+          "creator": "Pera Toons",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Una vita per l'arte",
+          "url": "https://books.google.com/books?q=Una+vita+per+l'arte"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2024.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2024
+    },
     "games": {
       "id": "media-awardWinner-2024",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2024
     }
   },
-  "contentHash": "601026df6b3a0ad7fd941d21e8bf46631d3e7ea93b6e09bad6b54bdba32cf2fd",
+  "contentHash": "3079e6921780d497793fd1bddbece67429432319afcd17b476d6722dfe0c7640",
   "country": "it",
   "schemaVersion": 1,
   "year": 2024

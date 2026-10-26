@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2026",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/works/OL27729743W",
+          "artworkURL": "https://covers.openlibrary.org/b/id/15105883-L.jpg?default=false",
+          "author": "Freida McFadden",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/works/OL27729743W",
+          "coverURL": "https://covers.openlibrary.org/b/id/15105883-L.jpg?default=false",
+          "creator": "Freida McFadden",
+          "rank": 1,
+          "scope": "UK print no. 1 · to 30 May 2026",
+          "title": "The Housemaid",
+          "url": "https://books.google.com/books?vid=ISBN:9780349132884"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print no. 1 · to 30 May 2026",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2026/independent-bookshop-week-2026/"
+      },
+      "title": "UK print bestseller",
+      "year": 2026
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2026",
+      "items": [
+        {
+          "artworkProviderName": "Penguin",
+          "artworkSourceURL": "https://www.penguin.co.uk/books/470701/cozy-corner-by-wyo-coco/9780241764220",
+          "artworkURL": "https://cdn.penguin.co.uk/dam-assets/books/9780241764220/9780241764220-jacket-large.jpg",
+          "author": "Coco Wyo",
+          "coverProviderName": "Penguin",
+          "coverSourceURL": "https://www.penguin.co.uk/books/470701/cozy-corner-by-wyo-coco/9780241764220",
+          "coverURL": "https://cdn.penguin.co.uk/dam-assets/books/9780241764220/9780241764220-jacket-large.jpg",
+          "creator": "Coco Wyo",
+          "rank": 1,
+          "scope": "UK children's & YA no. 1 · to 30 May 2026",
+          "title": "Cozy Corner",
+          "url": "https://books.google.com/books?vid=ISBN:9780241764220"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's & YA no. 1 · to 30 May 2026",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2026/independent-bookshop-week-2026/"
+      },
+      "title": "UK children's bestseller",
+      "year": 2026
+    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -26,7 +84,7 @@
       "year": 2026
     }
   },
-  "contentHash": "2569ba8147628669b4d3e095a1de6847eeec5f31965007a0bd2b62ca39431426",
+  "contentHash": "506127e2b05108544a488fd6feb8796434ffb616c42a2eb66878cb1b544d180d",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2026

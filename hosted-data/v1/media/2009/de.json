@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2009",
+      "items": [
+        {
+          "author": "Dan Brown",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Das verlorene Symbol",
+          "url": "https://books.google.com/books?q=Das+verlorene+Symbol"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2009/"
+      },
+      "title": "DE print bestseller",
+      "year": 2009
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2009",
+      "items": [
+        {
+          "author": "Stephenie Meyer",
+          "creator": "Stephenie Meyer",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Bis(s) zur Mittagsstunde",
+          "url": "https://books.google.com/books?q=Bis(s)+zur+Mittagsstunde"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2009/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2009
+    },
     "games": {
       "id": "media-awardWinner-2009",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2009
     }
   },
-  "contentHash": "b00960c6ec7882d708349384c9fb321deef642ea008191c9a96a94127a260635",
+  "contentHash": "748bd385cbcb1778233e0d46593fcef40e40135324ffa5919f854cc4c7ab249b",
   "country": "de",
   "schemaVersion": 1,
   "year": 2009

@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2008",
+      "items": [
+        {
+          "author": "Paolo Giordano",
+          "creator": "Paolo Giordano",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "La solitudine dei numeri primi",
+          "url": "https://books.google.com/books?q=La+solitudine+dei+numeri+primi"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2008.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2008
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2008",
+      "items": [
+        {
+          "author": "Stephenie Meyer",
+          "creator": "Stephenie Meyer",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Twilight",
+          "url": "https://books.google.com/books?q=Twilight"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2008.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2008
+    },
+    "games": {
+      "id": "media-awardWinner-2008",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2008&idGame=925",
+          "artworkURL": "https://www.interactive.org/images/games/2008_call_of_duty_4_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2007,
+          "title": "Call of Duty 4: Modern Warfare"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2008&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2008
+    }
+  },
+  "contentHash": "e2ed1680139fa53308c91d155d62ff27ffc656c412c00ac79fe6f6c43b3b6bdd",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2008
+}

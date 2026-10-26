@@ -9,7 +9,7 @@
             {
               "artist": "Whitney Houston",
               "rank": 1,
-              "title": "I Will Always Love You\"♪"
+              "title": "I Will Always Love You"
             }
           ],
           "startDate": "1993-01-01"
@@ -128,7 +128,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -136,7 +136,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "6c3c7ff34f2febb77967e21fa59c42160a9467141dfdee545c1531adcbf764a5",
+  "contentHash": "47d690e64c7e7631643ebf6771556f06e4e7259066a982c71dfe1cf5f9436ca1",
   "country": "us",
   "schemaVersion": 1,
   "year": 1993

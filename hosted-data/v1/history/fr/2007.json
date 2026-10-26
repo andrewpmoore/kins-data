@@ -1,0 +1,599 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2007-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Arthur and the Invisibles"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Snake"
+            }
+          ],
+          "startDate": "2007-01-14"
+        },
+        {
+          "endDate": "2007-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jacquou le croquant"
+            }
+          ],
+          "startDate": "2007-01-21"
+        },
+        {
+          "endDate": "2007-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rocky Balboa"
+            }
+          ],
+          "startDate": "2007-01-28"
+        },
+        {
+          "endDate": "2007-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blood Diamond"
+            }
+          ],
+          "startDate": "2007-02-04"
+        },
+        {
+          "endDate": "2007-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Night at the Museum"
+            }
+          ],
+          "startDate": "2007-02-11"
+        },
+        {
+          "endDate": "2007-02-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Taxi 4"
+            }
+          ],
+          "startDate": "2007-02-18"
+        },
+        {
+          "endDate": "2007-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Vie En Rose"
+            }
+          ],
+          "startDate": "2007-02-25"
+        },
+        {
+          "endDate": "2007-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "300"
+            }
+          ],
+          "startDate": "2007-03-25"
+        },
+        {
+          "endDate": "2007-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hunting and Gathering"
+            }
+          ],
+          "startDate": "2007-04-01"
+        },
+        {
+          "endDate": "2007-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Price to Pay"
+            }
+          ],
+          "startDate": "2007-04-08"
+        },
+        {
+          "endDate": "2007-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mr. Bean's Holiday"
+            }
+          ],
+          "startDate": "2007-04-22"
+        },
+        {
+          "endDate": "2007-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man 3"
+            }
+          ],
+          "startDate": "2007-05-06"
+        },
+        {
+          "endDate": "2007-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: At World's End"
+            }
+          ],
+          "startDate": "2007-05-27"
+        },
+        {
+          "endDate": "2007-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek the Third"
+            }
+          ],
+          "startDate": "2007-06-17"
+        },
+        {
+          "endDate": "2007-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Live Free or Die Hard"
+            }
+          ],
+          "startDate": "2007-07-08"
+        },
+        {
+          "endDate": "2007-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Order of the Phoenix"
+            }
+          ],
+          "startDate": "2007-07-15"
+        },
+        {
+          "endDate": "2007-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Simpsons Movie"
+            }
+          ],
+          "startDate": "2007-07-29"
+        },
+        {
+          "endDate": "2007-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ratatouille"
+            }
+          ],
+          "startDate": "2007-08-05"
+        },
+        {
+          "endDate": "2007-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost Rider"
+            }
+          ],
+          "startDate": "2007-09-16"
+        },
+        {
+          "endDate": "2007-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bourne Ultimatum"
+            }
+          ],
+          "startDate": "2007-09-23"
+        },
+        {
+          "endDate": "2007-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "99 Francs"
+            }
+          ],
+          "startDate": "2007-09-30"
+        },
+        {
+          "endDate": "2007-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Secret"
+            }
+          ],
+          "startDate": "2007-10-07"
+        },
+        {
+          "endDate": "2007-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rush Hour 3"
+            }
+          ],
+          "startDate": "2007-10-21"
+        },
+        {
+          "endDate": "2007-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Le coeur des hommes 2"
+            }
+          ],
+          "startDate": "2007-10-28"
+        },
+        {
+          "endDate": "2007-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Eastern Promises"
+            }
+          ],
+          "startDate": "2007-11-11"
+        },
+        {
+          "endDate": "2007-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Gangster"
+            }
+          ],
+          "startDate": "2007-11-18"
+        },
+        {
+          "endDate": "2007-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Saw IV"
+            }
+          ],
+          "startDate": "2007-11-25"
+        },
+        {
+          "endDate": "2007-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Enchanted"
+            }
+          ],
+          "startDate": "2007-12-02"
+        },
+        {
+          "endDate": "2007-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Golden Compass"
+            }
+          ],
+          "startDate": "2007-12-09"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Am Legend"
+            }
+          ],
+          "startDate": "2007-12-23"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2007-01-19",
+          "items": [
+            {
+              "artist": "Fatal Bazooka",
+              "rank": 1,
+              "title": "Fous ta cagoule"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-02-16",
+          "items": [
+            {
+              "artist": "Kamini",
+              "rank": 1,
+              "title": "Marly-Gomont"
+            }
+          ],
+          "startDate": "2007-01-20"
+        },
+        {
+          "endDate": "2007-03-09",
+          "items": [
+            {
+              "artist": "Yannick Noah",
+              "rank": 1,
+              "title": "Aux arbres citoyens"
+            }
+          ],
+          "startDate": "2007-02-17"
+        },
+        {
+          "endDate": "2007-04-13",
+          "items": [
+            {
+              "artist": "Fatal Bazooka & Vitoo",
+              "rank": 1,
+              "title": "Mauvaise foi nocturne"
+            }
+          ],
+          "startDate": "2007-03-10"
+        },
+        {
+          "endDate": "2007-04-20",
+          "items": [
+            {
+              "artist": "Cascada",
+              "rank": 1,
+              "title": "Miracle"
+            }
+          ],
+          "startDate": "2007-04-14"
+        },
+        {
+          "endDate": "2007-04-27",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "Et s'il n'en restait qu'une (je serais celle-là)"
+            }
+          ],
+          "startDate": "2007-04-21"
+        },
+        {
+          "endDate": "2007-05-04",
+          "items": [
+            {
+              "artist": "Beyoncé & Shakira",
+              "rank": 1,
+              "title": "Beautiful Liar"
+            }
+          ],
+          "startDate": "2007-04-28"
+        },
+        {
+          "endDate": "2007-05-11",
+          "items": [
+            {
+              "artist": "Tony Parker",
+              "rank": 1,
+              "title": "Balance-toi"
+            }
+          ],
+          "startDate": "2007-05-05"
+        },
+        {
+          "endDate": "2007-05-18",
+          "items": [
+            {
+              "artist": "Beyoncé & Shakira",
+              "rank": 1,
+              "title": "Beautiful Liar"
+            }
+          ],
+          "startDate": "2007-05-12"
+        },
+        {
+          "endDate": "2007-05-25",
+          "items": [
+            {
+              "artist": "Christophe Maé",
+              "rank": 1,
+              "title": "On s'attache"
+            }
+          ],
+          "startDate": "2007-05-19"
+        },
+        {
+          "endDate": "2007-06-01",
+          "items": [
+            {
+              "artist": "Nelly Furtado",
+              "rank": 1,
+              "title": "Say It Right"
+            }
+          ],
+          "startDate": "2007-05-26"
+        },
+        {
+          "endDate": "2007-06-15",
+          "items": [
+            {
+              "artist": "Christophe Willem",
+              "rank": 1,
+              "title": "Double je"
+            }
+          ],
+          "startDate": "2007-06-02"
+        },
+        {
+          "endDate": "2007-06-22",
+          "items": [
+            {
+              "artist": "Grégory Lemarchal",
+              "rank": 1,
+              "title": "De temps en temps"
+            }
+          ],
+          "startDate": "2007-06-16"
+        },
+        {
+          "endDate": "2007-07-06",
+          "items": [
+            {
+              "artist": "Christophe Willem",
+              "rank": 1,
+              "title": "Double je"
+            }
+          ],
+          "startDate": "2007-06-23"
+        },
+        {
+          "endDate": "2007-07-20",
+          "items": [
+            {
+              "artist": "Mika",
+              "rank": 1,
+              "title": "Relax, Take It Easy"
+            }
+          ],
+          "startDate": "2007-07-07"
+        },
+        {
+          "endDate": "2007-08-10",
+          "items": [
+            {
+              "artist": "Christophe Willem",
+              "rank": 1,
+              "title": "Double Je"
+            }
+          ],
+          "startDate": "2007-07-21"
+        },
+        {
+          "endDate": "2007-08-24",
+          "items": [
+            {
+              "artist": "Patrick Fiori, Jean-Jacques Goldman & Christine Ricol",
+              "rank": 1,
+              "title": "4 Mots sur un piano"
+            }
+          ],
+          "startDate": "2007-08-11"
+        },
+        {
+          "endDate": "2007-10-12",
+          "items": [
+            {
+              "artist": "Koxie",
+              "rank": 1,
+              "title": "Garçon"
+            }
+          ],
+          "startDate": "2007-08-25"
+        },
+        {
+          "endDate": "2007-10-19",
+          "items": [
+            {
+              "artist": "Ora Mate",
+              "rank": 1,
+              "title": "Kamate"
+            }
+          ],
+          "startDate": "2007-10-13"
+        },
+        {
+          "endDate": "2007-10-26",
+          "items": [
+            {
+              "artist": "Melissa M",
+              "rank": 1,
+              "title": "Elle"
+            }
+          ],
+          "startDate": "2007-10-20"
+        },
+        {
+          "endDate": "2007-11-09",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Don't Stop the Music"
+            }
+          ],
+          "startDate": "2007-10-27"
+        },
+        {
+          "endDate": "2007-12-07",
+          "items": [
+            {
+              "artist": "Sheryfa Luna",
+              "rank": 1,
+              "title": "Quelque part"
+            }
+          ],
+          "startDate": "2007-11-10"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "artist": "Fatal Bazooka & Yelle",
+              "rank": 1,
+              "title": "Parle à ma main"
+            }
+          ],
+          "startDate": "2007-12-08"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9d4f0112c132914ee188c9841f6664f0b5c7f9f2fc8354666210b88ba0c16895",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2007
+}

@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2001",
+      "items": [
+        {
+          "author": "Oriana Fallaci",
+          "creator": "Oriana Fallaci",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "La rabbia e l'orgoglio",
+          "url": "https://books.google.com/books?q=La+rabbia+e+l'orgoglio"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2001.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2001
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2001",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Harry Potter e la camera dei segreti",
+          "url": "https://books.google.com/books?q=Harry+Potter+e+la+camera+dei+segreti"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2001.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2001
+    },
+    "games": {
+      "id": "media-awardWinner-2001",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2001&idGame=572",
+          "artworkURL": "https://www.interactive.org/images/games/2001_diablo_ii_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "Diablo II"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2001&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2001
+    }
+  },
+  "contentHash": "44058c76388c35965e776ee11fcf92e08ec37196df646f81c3cb3406a06d4c08",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2001
+}

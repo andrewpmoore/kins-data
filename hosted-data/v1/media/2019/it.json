@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2019",
+      "items": [
+        {
+          "author": "Stefania Auci",
+          "creator": "Stefania Auci",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "I leoni di Sicilia",
+          "url": "https://books.google.com/books?q=I+leoni+di+Sicilia"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2019.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2019
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2019",
+      "items": [
+        {
+          "author": "Guido Lombardi",
+          "creator": "Guido Lombardi",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Il ladro di giorni",
+          "url": "https://books.google.com/books?q=Il+ladro+di+giorni"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2019.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2019
+    },
     "games": {
       "id": "media-awardWinner-2019",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
           "rank": 1,
           "releaseYear": 2019,
-          "title": "Sekiro: Shadows Die Twice"
+          "title": "Sekiro: Shadows Die Twice",
+          "trailerURL": "https://www.youtube.com/watch?v=UGPknmiLxGo"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2019
     }
   },
-  "contentHash": "bcec5317ff71d2a1c1cbcd1d98ca4e501a0d36833f51009d661f1942e4cadfde",
+  "contentHash": "75d375208b0c843e0a414dabfb39dea37f80e5a1602a9b6a9431704b22b633c5",
   "country": "it",
   "schemaVersion": 1,
   "year": 2019

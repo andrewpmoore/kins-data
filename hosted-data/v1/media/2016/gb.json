@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2016",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781784161101",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781784161101-L.jpg?default=false",
+          "author": "Paula Hawkins",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781784161101",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781784161101-L.jpg?default=false",
+          "creator": "Paula Hawkins",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "The Girl on the Train",
+          "url": "https://books.google.com/books?vid=ISBN:9781784161101"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2017/jan/03/harry-potter-and-the-cursed-child-uk-bestselling-book-of-2016"
+      },
+      "title": "UK print bestseller",
+      "year": 2016
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2016",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780751565355",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780751565355-L.jpg?default=false",
+          "author": "J.K. Rowling, John Tiffany and Jack Thorne",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780751565355",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780751565355-L.jpg?default=false",
+          "creator": "J.K. Rowling, John Tiffany and Jack Thorne",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Harry Potter and the Cursed Child",
+          "url": "https://books.google.com/books?vid=ISBN:9780751565355"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2017/jan/03/harry-potter-and-the-cursed-child-uk-bestselling-book-of-2016"
+      },
+      "title": "UK children's bestseller",
+      "year": 2016
+    },
     "games": {
       "id": "media-awardWinner-2016",
       "items": [
@@ -9,7 +67,8 @@
           "artworkURL": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/py/PYPPVW0HVZSR1460160083444.jpg",
           "rank": 1,
           "releaseYear": 2016,
-          "title": "Overwatch"
+          "title": "Overwatch",
+          "trailerURL": "https://www.youtube.com/watch?v=pwFu8kEsUW4"
         }
       ],
       "source": {
@@ -49,7 +108,7 @@
       "year": 2016
     }
   },
-  "contentHash": "c8d63ea837bd38162cb2583714d970a38ea3a10f6b8a000958871fcb21c169d8",
+  "contentHash": "9945bc8f0a5af40f960e62515fd9e02a43eac1fe7707bf0f85b721d2c624d884",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2016

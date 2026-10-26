@@ -7,9 +7,9 @@
           "endDate": "1985-01-06",
           "items": [
             {
-              "artist": "No release",
+              "artist": "Duran Duran",
               "rank": 1,
-              "title": "No release"
+              "title": "Wild Boys"
             }
           ],
           "startDate": "1985-01-01"
@@ -64,7 +64,7 @@
             {
               "artist": "Opus",
               "rank": 1,
-              "title": "Live Is Life\" †"
+              "title": "Live Is Life"
             }
           ],
           "startDate": "1985-04-15"
@@ -147,7 +147,7 @@
           "startDate": "1985-11-11"
         },
         {
-          "endDate": "1985-12-29",
+          "endDate": "1985-12-31",
           "items": [
             {
               "artist": "Elton John",
@@ -156,23 +156,12 @@
             }
           ],
           "startDate": "1985-12-16"
-        },
-        {
-          "endDate": "1985-12-31",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1985-12-30"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -180,7 +169,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "16f2805f9dacd18be29d99311252efd094474c1a57a3490dae705e58bbdef84a",
+  "contentHash": "4ac9b97550d69f395dacc3fd3ece96566c470e02f1e311e3fb537209a1076864",
   "country": "de",
   "schemaVersion": 1,
   "year": 1985

@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2009",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780593054277",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780593054277-L.jpg?default=false",
+          "author": "Dan Brown",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780593054277",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780593054277-L.jpg?default=false",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "The Lost Symbol",
+          "url": "https://books.google.com/books?vid=ISBN:9780593054277"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2009/dec/30/decade-bestsellers-dan-brown"
+      },
+      "title": "UK print bestseller",
+      "year": 2009
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2009",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781905654284",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781905654284-L.jpg?default=false",
+          "author": "Stephenie Meyer",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781905654284",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781905654284-L.jpg?default=false",
+          "creator": "Stephenie Meyer",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Breaking Dawn",
+          "url": "https://books.google.com/books?vid=ISBN:9781905654284"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2009/dec/30/decade-bestsellers-dan-brown"
+      },
+      "title": "UK children's bestseller",
+      "year": 2009
+    },
     "games": {
       "id": "media-awardWinner-2009",
       "items": [
@@ -49,7 +107,7 @@
       "year": 2009
     }
   },
-  "contentHash": "ad32f998486f4ac3a10dbfb044aa4a8fd13e2a6fecf78dc0795e4cc85732e229",
+  "contentHash": "decfcd826fd5156237e6e652f7014a2449901666aa0cb500c76cfb03922ac970",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2009

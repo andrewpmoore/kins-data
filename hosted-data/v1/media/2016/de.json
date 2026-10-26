@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2016",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Harry Potter und das verwunschene Kind",
+          "url": "https://books.google.com/books?q=Harry+Potter+und+das+verwunschene+Kind"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2016/"
+      },
+      "title": "DE print bestseller",
+      "year": 2016
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2016",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Gregs Tagebuch 11: Alles Käse!",
+          "url": "https://books.google.com/books?q=Gregs+Tagebuch+11:+Alles+Käse!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2016/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2016
+    },
     "games": {
       "id": "media-awardWinner-2016",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/py/PYPPVW0HVZSR1460160083444.jpg",
           "rank": 1,
           "releaseYear": 2016,
-          "title": "Overwatch"
+          "title": "Overwatch",
+          "trailerURL": "https://www.youtube.com/watch?v=pwFu8kEsUW4"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2016
     }
   },
-  "contentHash": "958dd7a15d32c50de750f16aee3f472d115cbfd3fab359a10dcea6c9a77f97e4",
+  "contentHash": "83f4b4db8bb32e23ab54d2824c2bcd326588f5683403368db839e5fde82ed0ee",
   "country": "de",
   "schemaVersion": 1,
   "year": 2016

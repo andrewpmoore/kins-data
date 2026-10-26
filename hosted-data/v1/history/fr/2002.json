@@ -1,0 +1,587 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2002-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lord of the Rings: The Fellowship of the Ring"
+            }
+          ],
+          "startDate": "2002-01-01"
+        },
+        {
+          "endDate": "2002-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spy Game"
+            }
+          ],
+          "startDate": "2002-01-13"
+        },
+        {
+          "endDate": "2002-02-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vanilla Sky"
+            }
+          ],
+          "startDate": "2002-01-27"
+        },
+        {
+          "endDate": "2002-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Asterix & Obelix: Mission Cleopatra"
+            }
+          ],
+          "startDate": "2002-02-03"
+        },
+        {
+          "endDate": "2002-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ocean's Eleven"
+            }
+          ],
+          "startDate": "2002-02-17"
+        },
+        {
+          "endDate": "2002-03-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Asterix & Obelix: Mission Cleopatra"
+            }
+          ],
+          "startDate": "2002-02-24"
+        },
+        {
+          "endDate": "2002-03-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Monsters, Inc."
+            }
+          ],
+          "startDate": "2002-03-24"
+        },
+        {
+          "endDate": "2002-04-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Race"
+            }
+          ],
+          "startDate": "2002-03-31"
+        },
+        {
+          "endDate": "2002-04-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Monsters, Inc."
+            }
+          ],
+          "startDate": "2002-04-07"
+        },
+        {
+          "endDate": "2002-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dead Weight"
+            }
+          ],
+          "startDate": "2002-04-14"
+        },
+        {
+          "endDate": "2002-05-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shooting Stars"
+            }
+          ],
+          "startDate": "2002-04-28"
+        },
+        {
+          "endDate": "2002-05-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Panic Room"
+            }
+          ],
+          "startDate": "2002-05-05"
+        },
+        {
+          "endDate": "2002-05-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Steal"
+            }
+          ],
+          "startDate": "2002-05-12"
+        },
+        {
+          "endDate": "2002-06-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode II - Attack of the Clones"
+            }
+          ],
+          "startDate": "2002-05-19"
+        },
+        {
+          "endDate": "2002-06-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man"
+            }
+          ],
+          "startDate": "2002-06-16"
+        },
+        {
+          "endDate": "2002-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Le Raid"
+            }
+          ],
+          "startDate": "2002-06-30"
+        },
+        {
+          "endDate": "2002-07-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man"
+            }
+          ],
+          "startDate": "2002-07-07"
+        },
+        {
+          "endDate": "2002-08-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scooby-Doo"
+            }
+          ],
+          "startDate": "2002-07-14"
+        },
+        {
+          "endDate": "2002-09-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Men in Black II"
+            }
+          ],
+          "startDate": "2002-08-11"
+        },
+        {
+          "endDate": "2002-09-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Adversary"
+            }
+          ],
+          "startDate": "2002-09-08"
+        },
+        {
+          "endDate": "2002-09-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Road to Perdition"
+            }
+          ],
+          "startDate": "2002-09-15"
+        },
+        {
+          "endDate": "2002-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blanche"
+            }
+          ],
+          "startDate": "2002-09-22"
+        },
+        {
+          "endDate": "2002-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bourne Identity"
+            }
+          ],
+          "startDate": "2002-09-29"
+        },
+        {
+          "endDate": "2002-10-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Minority Report"
+            }
+          ],
+          "startDate": "2002-10-06"
+        },
+        {
+          "endDate": "2002-10-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Signs"
+            }
+          ],
+          "startDate": "2002-10-20"
+        },
+        {
+          "endDate": "2002-11-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stuart Little 2"
+            }
+          ],
+          "startDate": "2002-10-27"
+        },
+        {
+          "endDate": "2002-11-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Red Dragon"
+            }
+          ],
+          "startDate": "2002-11-03"
+        },
+        {
+          "endDate": "2002-11-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Insomnia"
+            }
+          ],
+          "startDate": "2002-11-10"
+        },
+        {
+          "endDate": "2002-11-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Housekeeper"
+            }
+          ],
+          "startDate": "2002-11-17"
+        },
+        {
+          "endDate": "2002-12-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Another Day"
+            }
+          ],
+          "startDate": "2002-11-24"
+        },
+        {
+          "endDate": "2002-12-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Chamber of Secrets"
+            }
+          ],
+          "startDate": "2002-12-08"
+        },
+        {
+          "endDate": "2002-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lord of the Rings: The Two Towers"
+            }
+          ],
+          "startDate": "2002-12-22"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2002-02-08",
+          "items": [
+            {
+              "artist": "Star Academy",
+              "rank": 1,
+              "title": "La musique"
+            }
+          ],
+          "startDate": "2002-01-01"
+        },
+        {
+          "endDate": "2002-02-22",
+          "items": [
+            {
+              "artist": "Star Academy",
+              "rank": 1,
+              "title": "Gimme! Gimme! Gimme! (A Man After Midnight)"
+            }
+          ],
+          "startDate": "2002-02-09"
+        },
+        {
+          "endDate": "2002-03-08",
+          "items": [
+            {
+              "artist": "Marc Lavoine and Cristina Marocco",
+              "rank": 1,
+              "title": "J'ai tout oublié"
+            }
+          ],
+          "startDate": "2002-02-23"
+        },
+        {
+          "endDate": "2002-03-29",
+          "items": [
+            {
+              "artist": "Rohff",
+              "rank": 1,
+              "title": "Qui est l'exemple?"
+            }
+          ],
+          "startDate": "2002-03-09"
+        },
+        {
+          "endDate": "2002-04-12",
+          "items": [
+            {
+              "artist": "Shakira",
+              "rank": 1,
+              "title": "Whenever, Wherever"
+            }
+          ],
+          "startDate": "2002-03-30"
+        },
+        {
+          "endDate": "2002-04-26",
+          "items": [
+            {
+              "artist": "Shakira",
+              "rank": 1,
+              "title": "Whenever, Wherever"
+            }
+          ],
+          "startDate": "2002-04-14"
+        },
+        {
+          "endDate": "2002-05-03",
+          "items": [
+            {
+              "artist": "Johnny Hallyday",
+              "rank": 1,
+              "title": "Tous ensemble"
+            }
+          ],
+          "startDate": "2002-04-27"
+        },
+        {
+          "endDate": "2002-06-14",
+          "items": [
+            {
+              "artist": "Bratisla Boys",
+              "rank": 1,
+              "title": "Stach Stach"
+            }
+          ],
+          "startDate": "2002-05-04"
+        },
+        {
+          "endDate": "2002-07-05",
+          "items": [
+            {
+              "artist": "Marlène Duval and Phil Barney",
+              "rank": 1,
+              "title": "Un enfant de toi"
+            }
+          ],
+          "startDate": "2002-06-15"
+        },
+        {
+          "endDate": "2002-07-12",
+          "items": [
+            {
+              "artist": "Bratisla Boys",
+              "rank": 1,
+              "title": "Stach Stach"
+            }
+          ],
+          "startDate": "2002-07-06"
+        },
+        {
+          "endDate": "2002-07-19",
+          "items": [
+            {
+              "artist": "Félicien",
+              "rank": 1,
+              "title": "Cum-cum mania"
+            }
+          ],
+          "startDate": "2002-07-13"
+        },
+        {
+          "endDate": "2002-07-26",
+          "items": [
+            {
+              "artist": "Indochine",
+              "rank": 1,
+              "title": "J'ai demandé à la lune"
+            }
+          ],
+          "startDate": "2002-07-20"
+        },
+        {
+          "endDate": "2002-08-16",
+          "items": [
+            {
+              "artist": "Bratisla Boys",
+              "rank": 1,
+              "title": "Stach stach"
+            }
+          ],
+          "startDate": "2002-07-27"
+        },
+        {
+          "endDate": "2002-09-13",
+          "items": [
+            {
+              "artist": "MC Solaar",
+              "rank": 1,
+              "title": "Inch'Allah"
+            }
+          ],
+          "startDate": "2002-08-17"
+        },
+        {
+          "endDate": "2002-11-15",
+          "items": [
+            {
+              "artist": "Las Ketchup",
+              "rank": 1,
+              "title": "Asereje"
+            }
+          ],
+          "startDate": "2002-09-14"
+        },
+        {
+          "endDate": "2002-11-22",
+          "items": [
+            {
+              "artist": "Johnny Hallyday",
+              "rank": 1,
+              "title": "Marie"
+            }
+          ],
+          "startDate": "2002-11-16"
+        },
+        {
+          "endDate": "2002-11-29",
+          "items": [
+            {
+              "artist": "Las Ketchup",
+              "rank": 1,
+              "title": "Asereje"
+            }
+          ],
+          "startDate": "2002-11-23"
+        },
+        {
+          "endDate": "2002-12-06",
+          "items": [
+            {
+              "artist": "Whatfor",
+              "rank": 1,
+              "title": "Plus haut"
+            }
+          ],
+          "startDate": "2002-11-30"
+        },
+        {
+          "endDate": "2002-12-13",
+          "items": [
+            {
+              "artist": "Las Ketchup",
+              "rank": 1,
+              "title": "Asereje"
+            }
+          ],
+          "startDate": "2002-12-07"
+        },
+        {
+          "endDate": "2002-12-27",
+          "items": [
+            {
+              "artist": "Johnny Hallyday",
+              "rank": 1,
+              "title": "Marie"
+            }
+          ],
+          "startDate": "2002-12-14"
+        },
+        {
+          "endDate": "2002-12-31",
+          "items": [
+            {
+              "artist": "Star Academy 2",
+              "rank": 1,
+              "title": "Paris Latino"
+            }
+          ],
+          "startDate": "2002-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f71414ee6e825ef3cee387ccfb78ee8289280e5c4891d706241b9699d658c5de",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2002
+}

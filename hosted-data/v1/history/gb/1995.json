@@ -1,10 +1,2078 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1995-01-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1995-01-01"
+        },
+        {
+          "endDate": "1995-01-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Interview with the Vampire"
+            }
+          ],
+          "startDate": "1995-01-04"
+        },
+        {
+          "endDate": "1995-01-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Specialist"
+            }
+          ],
+          "startDate": "1995-01-05"
+        },
+        {
+          "endDate": "1995-01-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1995-01-06"
+        },
+        {
+          "endDate": "1995-01-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Un indien dans la ville"
+            }
+          ],
+          "startDate": "1995-01-10"
+        },
+        {
+          "endDate": "1995-01-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1995-01-11"
+        },
+        {
+          "endDate": "1995-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Timecop"
+            }
+          ],
+          "startDate": "1995-01-12"
+        },
+        {
+          "endDate": "1995-01-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1995-01-13"
+        },
+        {
+          "endDate": "1995-01-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1995-01-15"
+        },
+        {
+          "endDate": "1995-01-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Un indien dans la ville"
+            }
+          ],
+          "startDate": "1995-01-17"
+        },
+        {
+          "endDate": "1995-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disclosure"
+            }
+          ],
+          "startDate": "1995-01-18"
+        },
+        {
+          "endDate": "1995-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stargate"
+            }
+          ],
+          "startDate": "1995-01-19"
+        },
+        {
+          "endDate": "1995-01-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1995-01-20"
+        },
+        {
+          "endDate": "1995-01-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Un indien dans la ville"
+            }
+          ],
+          "startDate": "1995-01-24"
+        },
+        {
+          "endDate": "1995-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disclosure"
+            }
+          ],
+          "startDate": "1995-01-25"
+        },
+        {
+          "endDate": "1995-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Interview with the Vampire"
+            }
+          ],
+          "startDate": "1995-01-26"
+        },
+        {
+          "endDate": "1995-01-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1995-01-27"
+        },
+        {
+          "endDate": "1995-01-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Un indien dans la ville"
+            }
+          ],
+          "startDate": "1995-01-31"
+        },
+        {
+          "endDate": "1995-02-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terminal Velocity"
+            }
+          ],
+          "startDate": "1995-02-01"
+        },
+        {
+          "endDate": "1995-02-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Interview with the Vampire"
+            }
+          ],
+          "startDate": "1995-02-02"
+        },
+        {
+          "endDate": "1995-02-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1995-02-03"
+        },
+        {
+          "endDate": "1995-02-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stargate"
+            }
+          ],
+          "startDate": "1995-02-07"
+        },
+        {
+          "endDate": "1995-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terminal Velocity"
+            }
+          ],
+          "startDate": "1995-02-08"
+        },
+        {
+          "endDate": "1995-02-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Interview with the Vampire"
+            }
+          ],
+          "startDate": "1995-02-09"
+        },
+        {
+          "endDate": "1995-02-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1995-02-10"
+        },
+        {
+          "endDate": "1995-02-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "French Twist"
+            }
+          ],
+          "startDate": "1995-02-14"
+        },
+        {
+          "endDate": "1995-02-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nell"
+            }
+          ],
+          "startDate": "1995-02-15"
+        },
+        {
+          "endDate": "1995-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Trek Generations"
+            }
+          ],
+          "startDate": "1995-02-16"
+        },
+        {
+          "endDate": "1995-02-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mary Shelley's Frankenstein"
+            }
+          ],
+          "startDate": "1995-02-17"
+        },
+        {
+          "endDate": "1995-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "French Twist"
+            }
+          ],
+          "startDate": "1995-02-21"
+        },
+        {
+          "endDate": "1995-02-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stargate"
+            }
+          ],
+          "startDate": "1995-02-22"
+        },
+        {
+          "endDate": "1995-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Trek Generations"
+            }
+          ],
+          "startDate": "1995-02-23"
+        },
+        {
+          "endDate": "1995-02-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mary Shelley's Frankenstein"
+            }
+          ],
+          "startDate": "1995-02-24"
+        },
+        {
+          "endDate": "1995-02-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "French Twist"
+            }
+          ],
+          "startDate": "1995-02-28"
+        },
+        {
+          "endDate": "1995-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stargate"
+            }
+          ],
+          "startDate": "1995-03-01"
+        },
+        {
+          "endDate": "1995-03-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Natural Born Killers"
+            }
+          ],
+          "startDate": "1995-03-02"
+        },
+        {
+          "endDate": "1995-03-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1995-03-03"
+        },
+        {
+          "endDate": "1995-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "French Twist"
+            }
+          ],
+          "startDate": "1995-03-07"
+        },
+        {
+          "endDate": "1995-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Legends of the Fall"
+            }
+          ],
+          "startDate": "1995-03-08"
+        },
+        {
+          "endDate": "1995-03-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Natural Born Killers"
+            }
+          ],
+          "startDate": "1995-03-09"
+        },
+        {
+          "endDate": "1995-03-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1995-03-10"
+        },
+        {
+          "endDate": "1995-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "French Twist"
+            }
+          ],
+          "startDate": "1995-03-14"
+        },
+        {
+          "endDate": "1995-03-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Legends of the Fall"
+            }
+          ],
+          "startDate": "1995-03-15"
+        },
+        {
+          "endDate": "1995-03-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disclosure"
+            }
+          ],
+          "startDate": "1995-03-16"
+        },
+        {
+          "endDate": "1995-03-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1995-03-17"
+        },
+        {
+          "endDate": "1995-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A French Woman"
+            }
+          ],
+          "startDate": "1995-03-21"
+        },
+        {
+          "endDate": "1995-03-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dumb and Dumber"
+            }
+          ],
+          "startDate": "1995-03-22"
+        },
+        {
+          "endDate": "1995-03-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disclosure"
+            }
+          ],
+          "startDate": "1995-03-23"
+        },
+        {
+          "endDate": "1995-03-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1995-03-24"
+        },
+        {
+          "endDate": "1995-03-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Misérables"
+            }
+          ],
+          "startDate": "1995-03-28"
+        },
+        {
+          "endDate": "1995-03-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dumb and Dumber"
+            }
+          ],
+          "startDate": "1995-03-29"
+        },
+        {
+          "endDate": "1995-03-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disclosure"
+            }
+          ],
+          "startDate": "1995-03-30"
+        },
+        {
+          "endDate": "1995-04-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1995-03-31"
+        },
+        {
+          "endDate": "1995-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Misérables"
+            }
+          ],
+          "startDate": "1995-04-04"
+        },
+        {
+          "endDate": "1995-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Trek Generations"
+            }
+          ],
+          "startDate": "1995-04-05"
+        },
+        {
+          "endDate": "1995-04-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disclosure"
+            }
+          ],
+          "startDate": "1995-04-06"
+        },
+        {
+          "endDate": "1995-04-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1995-04-07"
+        },
+        {
+          "endDate": "1995-04-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Hundred and One Dalmatians"
+            }
+          ],
+          "startDate": "1995-04-11"
+        },
+        {
+          "endDate": "1995-04-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1995-04-14"
+        },
+        {
+          "endDate": "1995-04-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Hundred and One Dalmatians"
+            }
+          ],
+          "startDate": "1995-04-18"
+        },
+        {
+          "endDate": "1995-04-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dumb and Dumber"
+            }
+          ],
+          "startDate": "1995-04-19"
+        },
+        {
+          "endDate": "1995-04-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1995-04-21"
+        },
+        {
+          "endDate": "1995-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Hundred and One Dalmatians"
+            }
+          ],
+          "startDate": "1995-04-25"
+        },
+        {
+          "endDate": "1995-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dumb and Dumber"
+            }
+          ],
+          "startDate": "1995-04-26"
+        },
+        {
+          "endDate": "1995-05-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1995-04-28"
+        },
+        {
+          "endDate": "1995-05-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Hundred and One Dalmatians"
+            }
+          ],
+          "startDate": "1995-05-02"
+        },
+        {
+          "endDate": "1995-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys"
+            }
+          ],
+          "startDate": "1995-05-03"
+        },
+        {
+          "endDate": "1995-05-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Legends of the Fall"
+            }
+          ],
+          "startDate": "1995-05-04"
+        },
+        {
+          "endDate": "1995-05-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1995-05-05"
+        },
+        {
+          "endDate": "1995-05-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Hundred and One Dalmatians"
+            }
+          ],
+          "startDate": "1995-05-09"
+        },
+        {
+          "endDate": "1995-05-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "While You Were Sleeping"
+            }
+          ],
+          "startDate": "1995-05-10"
+        },
+        {
+          "endDate": "1995-05-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Muriel's Wedding"
+            }
+          ],
+          "startDate": "1995-05-11"
+        },
+        {
+          "endDate": "1995-05-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Outbreak"
+            }
+          ],
+          "startDate": "1995-05-12"
+        },
+        {
+          "endDate": "1995-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shallow Grave"
+            }
+          ],
+          "startDate": "1995-05-16"
+        },
+        {
+          "endDate": "1995-05-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "While You Were Sleeping"
+            }
+          ],
+          "startDate": "1995-05-17"
+        },
+        {
+          "endDate": "1995-05-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Muriel's Wedding"
+            }
+          ],
+          "startDate": "1995-05-18"
+        },
+        {
+          "endDate": "1995-05-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Outbreak"
+            }
+          ],
+          "startDate": "1995-05-19"
+        },
+        {
+          "endDate": "1995-05-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The City of Lost Children"
+            }
+          ],
+          "startDate": "1995-05-23"
+        },
+        {
+          "endDate": "1995-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "While You Were Sleeping"
+            }
+          ],
+          "startDate": "1995-05-24"
+        },
+        {
+          "endDate": "1995-05-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Street Fighter"
+            }
+          ],
+          "startDate": "1995-05-25"
+        },
+        {
+          "endDate": "1995-05-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Outbreak"
+            }
+          ],
+          "startDate": "1995-05-26"
+        },
+        {
+          "endDate": "1995-05-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The City of Lost Children"
+            }
+          ],
+          "startDate": "1995-05-30"
+        },
+        {
+          "endDate": "1995-05-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-05-31"
+        },
+        {
+          "endDate": "1995-06-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rob Roy"
+            }
+          ],
+          "startDate": "1995-06-01"
+        },
+        {
+          "endDate": "1995-06-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Outbreak"
+            }
+          ],
+          "startDate": "1995-06-02"
+        },
+        {
+          "endDate": "1995-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Haine"
+            }
+          ],
+          "startDate": "1995-06-06"
+        },
+        {
+          "endDate": "1995-06-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-06-07"
+        },
+        {
+          "endDate": "1995-06-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rob Roy"
+            }
+          ],
+          "startDate": "1995-06-08"
+        },
+        {
+          "endDate": "1995-06-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Outbreak"
+            }
+          ],
+          "startDate": "1995-06-09"
+        },
+        {
+          "endDate": "1995-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Haine"
+            }
+          ],
+          "startDate": "1995-06-13"
+        },
+        {
+          "endDate": "1995-06-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-06-14"
+        },
+        {
+          "endDate": "1995-06-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Brady Bunch Movie"
+            }
+          ],
+          "startDate": "1995-06-15"
+        },
+        {
+          "endDate": "1995-06-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Outbreak"
+            }
+          ],
+          "startDate": "1995-06-16"
+        },
+        {
+          "endDate": "1995-06-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Haine"
+            }
+          ],
+          "startDate": "1995-06-20"
+        },
+        {
+          "endDate": "1995-06-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Braveheart"
+            }
+          ],
+          "startDate": "1995-06-21"
+        },
+        {
+          "endDate": "1995-06-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys"
+            }
+          ],
+          "startDate": "1995-06-22"
+        },
+        {
+          "endDate": "1995-06-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Batman Forever"
+            }
+          ],
+          "startDate": "1995-06-23"
+        },
+        {
+          "endDate": "1995-06-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pocahontas"
+            }
+          ],
+          "startDate": "1995-06-25"
+        },
+        {
+          "endDate": "1995-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Haine"
+            }
+          ],
+          "startDate": "1995-06-27"
+        },
+        {
+          "endDate": "1995-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Casper"
+            }
+          ],
+          "startDate": "1995-06-28"
+        },
+        {
+          "endDate": "1995-06-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys"
+            }
+          ],
+          "startDate": "1995-06-29"
+        },
+        {
+          "endDate": "1995-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Batman Forever"
+            }
+          ],
+          "startDate": "1995-06-30"
+        },
+        {
+          "endDate": "1995-07-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-07-02"
+        },
+        {
+          "endDate": "1995-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sleeping Beauty"
+            }
+          ],
+          "startDate": "1995-07-04"
+        },
+        {
+          "endDate": "1995-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Batman Forever"
+            }
+          ],
+          "startDate": "1995-07-05"
+        },
+        {
+          "endDate": "1995-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Congo"
+            }
+          ],
+          "startDate": "1995-07-06"
+        },
+        {
+          "endDate": "1995-07-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-07-07"
+        },
+        {
+          "endDate": "1995-07-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-07-09"
+        },
+        {
+          "endDate": "1995-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys"
+            }
+          ],
+          "startDate": "1995-07-11"
+        },
+        {
+          "endDate": "1995-07-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Batman Forever"
+            }
+          ],
+          "startDate": "1995-07-12"
+        },
+        {
+          "endDate": "1995-07-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "First Knight"
+            }
+          ],
+          "startDate": "1995-07-13"
+        },
+        {
+          "endDate": "1995-07-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-07-14"
+        },
+        {
+          "endDate": "1995-07-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-07-16"
+        },
+        {
+          "endDate": "1995-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys"
+            }
+          ],
+          "startDate": "1995-07-18"
+        },
+        {
+          "endDate": "1995-07-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Batman Forever"
+            }
+          ],
+          "startDate": "1995-07-19"
+        },
+        {
+          "endDate": "1995-07-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-07-21"
+        },
+        {
+          "endDate": "1995-07-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-07-23"
+        },
+        {
+          "endDate": "1995-07-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Batman Forever"
+            }
+          ],
+          "startDate": "1995-07-25"
+        },
+        {
+          "endDate": "1995-07-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-07-28"
+        },
+        {
+          "endDate": "1995-07-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Waterworld"
+            }
+          ],
+          "startDate": "1995-07-30"
+        },
+        {
+          "endDate": "1995-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Batman Forever"
+            }
+          ],
+          "startDate": "1995-08-01"
+        },
+        {
+          "endDate": "1995-08-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Under Siege 2"
+            }
+          ],
+          "startDate": "1995-08-02"
+        },
+        {
+          "endDate": "1995-08-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Casper"
+            }
+          ],
+          "startDate": "1995-08-03"
+        },
+        {
+          "endDate": "1995-08-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-08-04"
+        },
+        {
+          "endDate": "1995-08-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Waterworld"
+            }
+          ],
+          "startDate": "1995-08-06"
+        },
+        {
+          "endDate": "1995-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-08-08"
+        },
+        {
+          "endDate": "1995-08-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Species"
+            }
+          ],
+          "startDate": "1995-08-09"
+        },
+        {
+          "endDate": "1995-08-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Casper"
+            }
+          ],
+          "startDate": "1995-08-10"
+        },
+        {
+          "endDate": "1995-08-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Waterworld"
+            }
+          ],
+          "startDate": "1995-08-11"
+        },
+        {
+          "endDate": "1995-08-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dangerous Minds"
+            }
+          ],
+          "startDate": "1995-08-13"
+        },
+        {
+          "endDate": "1995-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-08-15"
+        },
+        {
+          "endDate": "1995-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Species"
+            }
+          ],
+          "startDate": "1995-08-16"
+        },
+        {
+          "endDate": "1995-08-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Waterworld"
+            }
+          ],
+          "startDate": "1995-08-17"
+        },
+        {
+          "endDate": "1995-08-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-08-18"
+        },
+        {
+          "endDate": "1995-08-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mortal Kombat"
+            }
+          ],
+          "startDate": "1995-08-20"
+        },
+        {
+          "endDate": "1995-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "First Knight"
+            }
+          ],
+          "startDate": "1995-08-22"
+        },
+        {
+          "endDate": "1995-08-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Judge Dredd"
+            }
+          ],
+          "startDate": "1995-08-23"
+        },
+        {
+          "endDate": "1995-08-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-08-24"
+        },
+        {
+          "endDate": "1995-08-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Waterworld"
+            }
+          ],
+          "startDate": "1995-08-25"
+        },
+        {
+          "endDate": "1995-08-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mortal Kombat"
+            }
+          ],
+          "startDate": "1995-08-27"
+        },
+        {
+          "endDate": "1995-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-08-29"
+        },
+        {
+          "endDate": "1995-08-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-08-30"
+        },
+        {
+          "endDate": "1995-08-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Die Hard with a Vengeance"
+            }
+          ],
+          "startDate": "1995-08-31"
+        },
+        {
+          "endDate": "1995-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Waterworld"
+            }
+          ],
+          "startDate": "1995-09-01"
+        },
+        {
+          "endDate": "1995-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dumb and Dumber"
+            }
+          ],
+          "startDate": "1995-09-03"
+        },
+        {
+          "endDate": "1995-09-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-09-06"
+        },
+        {
+          "endDate": "1995-09-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "While You Were Sleeping"
+            }
+          ],
+          "startDate": "1995-09-07"
+        },
+        {
+          "endDate": "1995-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Crimson Tide"
+            }
+          ],
+          "startDate": "1995-09-12"
+        },
+        {
+          "endDate": "1995-09-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-09-13"
+        },
+        {
+          "endDate": "1995-09-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Braveheart"
+            }
+          ],
+          "startDate": "1995-09-14"
+        },
+        {
+          "endDate": "1995-09-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Waterworld"
+            }
+          ],
+          "startDate": "1995-09-15"
+        },
+        {
+          "endDate": "1995-09-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges of Madison County"
+            }
+          ],
+          "startDate": "1995-09-19"
+        },
+        {
+          "endDate": "1995-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Waterworld"
+            }
+          ],
+          "startDate": "1995-09-20"
+        },
+        {
+          "endDate": "1995-09-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Braveheart"
+            }
+          ],
+          "startDate": "1995-09-21"
+        },
+        {
+          "endDate": "1995-09-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges of Madison County"
+            }
+          ],
+          "startDate": "1995-09-22"
+        },
+        {
+          "endDate": "1995-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Horseman on the Roof"
+            }
+          ],
+          "startDate": "1995-09-26"
+        },
+        {
+          "endDate": "1995-09-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Clueless"
+            }
+          ],
+          "startDate": "1995-09-27"
+        },
+        {
+          "endDate": "1995-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-09-28"
+        },
+        {
+          "endDate": "1995-10-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges of Madison County"
+            }
+          ],
+          "startDate": "1995-09-29"
+        },
+        {
+          "endDate": "1995-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Horseman on the Roof"
+            }
+          ],
+          "startDate": "1995-10-03"
+        },
+        {
+          "endDate": "1995-10-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pocahontas"
+            }
+          ],
+          "startDate": "1995-10-04"
+        },
+        {
+          "endDate": "1995-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-10-05"
+        },
+        {
+          "endDate": "1995-10-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges of Madison County"
+            }
+          ],
+          "startDate": "1995-10-06"
+        },
+        {
+          "endDate": "1995-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Horseman on the Roof"
+            }
+          ],
+          "startDate": "1995-10-10"
+        },
+        {
+          "endDate": "1995-10-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dangerous Minds"
+            }
+          ],
+          "startDate": "1995-10-11"
+        },
+        {
+          "endDate": "1995-10-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-10-12"
+        },
+        {
+          "endDate": "1995-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Anges gardiens"
+            }
+          ],
+          "startDate": "1995-10-17"
+        },
+        {
+          "endDate": "1995-10-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges of Madison County"
+            }
+          ],
+          "startDate": "1995-10-18"
+        },
+        {
+          "endDate": "1995-10-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pocahontas"
+            }
+          ],
+          "startDate": "1995-10-19"
+        },
+        {
+          "endDate": "1995-10-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Anges gardiens"
+            }
+          ],
+          "startDate": "1995-10-24"
+        },
+        {
+          "endDate": "1995-10-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges of Madison County"
+            }
+          ],
+          "startDate": "1995-10-30"
+        },
+        {
+          "endDate": "1995-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Anges gardiens"
+            }
+          ],
+          "startDate": "1995-10-31"
+        },
+        {
+          "endDate": "1995-11-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Assassins"
+            }
+          ],
+          "startDate": "1995-11-01"
+        },
+        {
+          "endDate": "1995-11-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pocahontas"
+            }
+          ],
+          "startDate": "1995-11-02"
+        },
+        {
+          "endDate": "1995-11-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges of Madison County"
+            }
+          ],
+          "startDate": "1995-11-06"
+        },
+        {
+          "endDate": "1995-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Anges gardiens"
+            }
+          ],
+          "startDate": "1995-11-07"
+        },
+        {
+          "endDate": "1995-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Seven"
+            }
+          ],
+          "startDate": "1995-11-08"
+        },
+        {
+          "endDate": "1995-11-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "French Kiss"
+            }
+          ],
+          "startDate": "1995-11-09"
+        },
+        {
+          "endDate": "1995-11-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges of Madison County"
+            }
+          ],
+          "startDate": "1995-11-13"
+        },
+        {
+          "endDate": "1995-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-11-14"
+        },
+        {
+          "endDate": "1995-11-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Seven"
+            }
+          ],
+          "startDate": "1995-11-15"
+        },
+        {
+          "endDate": "1995-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Crimson Tide"
+            }
+          ],
+          "startDate": "1995-11-16"
+        },
+        {
+          "endDate": "1995-11-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bridges of Madison County"
+            }
+          ],
+          "startDate": "1995-11-20"
+        },
+        {
+          "endDate": "1995-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apollo 13"
+            }
+          ],
+          "startDate": "1995-11-21"
+        },
+        {
+          "endDate": "1995-11-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Crimson Tide"
+            }
+          ],
+          "startDate": "1995-11-23"
+        },
+        {
+          "endDate": "1995-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Species"
+            }
+          ],
+          "startDate": "1995-11-27"
+        },
+        {
+          "endDate": "1995-12-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "GoldenEye"
+            }
+          ],
+          "startDate": "1995-11-30"
+        },
+        {
+          "endDate": "1995-12-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "While You Were Sleeping"
+            }
+          ],
+          "startDate": "1995-12-04"
+        },
+        {
+          "endDate": "1995-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pocahontas"
+            }
+          ],
+          "startDate": "1995-12-05"
+        },
+        {
+          "endDate": "1995-12-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ace Ventura: When Nature Calls"
+            }
+          ],
+          "startDate": "1995-12-06"
+        },
+        {
+          "endDate": "1995-12-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "GoldenEye"
+            }
+          ],
+          "startDate": "1995-12-07"
+        },
+        {
+          "endDate": "1995-12-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Godzilla vs. Destoroyah"
+            }
+          ],
+          "startDate": "1995-12-11"
+        },
+        {
+          "endDate": "1995-12-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pocahontas"
+            }
+          ],
+          "startDate": "1995-12-12"
+        },
+        {
+          "endDate": "1995-12-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ace Ventura: When Nature Calls"
+            }
+          ],
+          "startDate": "1995-12-13"
+        },
+        {
+          "endDate": "1995-12-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "GoldenEye"
+            }
+          ],
+          "startDate": "1995-12-14"
+        },
+        {
+          "endDate": "1995-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pocahontas"
+            }
+          ],
+          "startDate": "1995-12-19"
+        },
+        {
+          "endDate": "1995-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Babe"
+            }
+          ],
+          "startDate": "1995-12-20"
+        },
+        {
+          "endDate": "1995-12-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Viaggi di nozze"
+            }
+          ],
+          "startDate": "1995-12-24"
+        },
+        {
+          "endDate": "1995-12-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "GoldenEye"
+            }
+          ],
+          "startDate": "1995-12-25"
+        },
+        {
+          "endDate": "1995-12-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Babe"
+            }
+          ],
+          "startDate": "1995-12-27"
+        },
+        {
+          "endDate": "1995-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Viaggi di nozze"
+            }
+          ],
+          "startDate": "1995-12-31"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1995-04-02",
+          "endDate": "1995-01-13",
+          "items": [
+            {
+              "artist": "East 17",
+              "rank": 1,
+              "title": "Stay Another Day"
+            }
+          ],
+          "startDate": "1995-01-01"
+        },
+        {
+          "endDate": "1995-02-03",
+          "items": [
+            {
+              "artist": "Rednex",
+              "rank": 1,
+              "title": "Cotton Eye Joe"
+            }
+          ],
+          "startDate": "1995-01-14"
+        },
+        {
+          "endDate": "1995-03-24",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "Think Twice"
+            }
+          ],
+          "startDate": "1995-02-04"
+        },
+        {
+          "endDate": "1995-03-26",
+          "items": [
+            {
+              "artist": "Cher, Chrissie Hynde and Neneh Cherry with Eric Clapton",
+              "rank": 1,
+              "title": "Love Can Build a Bridge"
+            }
+          ],
+          "startDate": "1995-03-25"
+        },
+        {
+          "endDate": "1995-03-31",
           "items": [
             {
               "artist": "Take That",
@@ -15,7 +2083,84 @@
           "startDate": "1995-03-27"
         },
         {
-          "endDate": "1995-08-27",
+          "endDate": "1995-04-07",
+          "items": [
+            {
+              "artist": "The Outhere Brothers",
+              "rank": 1,
+              "title": "Don't Stop (Wiggle Wiggle)"
+            }
+          ],
+          "startDate": "1995-04-01"
+        },
+        {
+          "endDate": "1995-05-05",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Back for Good"
+            }
+          ],
+          "startDate": "1995-04-08"
+        },
+        {
+          "endDate": "1995-05-12",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "Some Might Say"
+            }
+          ],
+          "startDate": "1995-05-06"
+        },
+        {
+          "endDate": "1995-05-19",
+          "items": [
+            {
+              "artist": "Livin' Joy",
+              "rank": 1,
+              "title": "Dreamer"
+            }
+          ],
+          "startDate": "1995-05-13"
+        },
+        {
+          "endDate": "1995-07-07",
+          "items": [
+            {
+              "artist": "Robson & Jerome",
+              "rank": 1,
+              "title": "Unchained Melody / White Cliffs of Dover"
+            }
+          ],
+          "startDate": "1995-05-20"
+        },
+        {
+          "endDate": "1995-08-04",
+          "items": [
+            {
+              "artist": "The Outhere Brothers",
+              "rank": 1,
+              "title": "Boom Boom Boom"
+            }
+          ],
+          "startDate": "1995-07-08"
+        },
+        {
+          "endDate": "1995-08-20",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Never Forget"
+            }
+          ],
+          "startDate": "1995-08-05"
+        },
+        {
+          "endDate": "1995-08-25",
           "items": [
             {
               "artist": "The Rembrandts",
@@ -26,7 +2171,29 @@
           "startDate": "1995-08-21"
         },
         {
-          "endDate": "1995-09-24",
+          "endDate": "1995-09-08",
+          "items": [
+            {
+              "artist": "Blur",
+              "rank": 1,
+              "title": "Country House"
+            }
+          ],
+          "startDate": "1995-08-26"
+        },
+        {
+          "endDate": "1995-09-17",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "You Are Not Alone"
+            }
+          ],
+          "startDate": "1995-09-09"
+        },
+        {
+          "endDate": "1995-09-22",
           "items": [
             {
               "artist": "Simply Red",
@@ -37,7 +2204,29 @@
           "startDate": "1995-09-18"
         },
         {
-          "endDate": "1995-10-12",
+          "endDate": "1995-09-29",
+          "items": [
+            {
+              "artist": "Shaggy",
+              "rank": 1,
+              "title": "Boombastic"
+            }
+          ],
+          "startDate": "1995-09-23"
+        },
+        {
+          "endDate": "1995-10-05",
+          "items": [
+            {
+              "artist": "Simply Red",
+              "rank": 1,
+              "title": "Fairground"
+            }
+          ],
+          "startDate": "1995-09-30"
+        },
+        {
+          "endDate": "1995-10-06",
           "items": [
             {
               "artist": "Everything but the Girl",
@@ -48,7 +2237,18 @@
           "startDate": "1995-10-06"
         },
         {
-          "endDate": "1995-10-22",
+          "endDate": "1995-10-15",
+          "items": [
+            {
+              "artist": "Simply Red",
+              "rank": 1,
+              "title": "Fairground"
+            }
+          ],
+          "startDate": "1995-10-07"
+        },
+        {
+          "endDate": "1995-10-20",
           "items": [
             {
               "artist": "Coolio ft. L.V.",
@@ -59,7 +2259,62 @@
           "startDate": "1995-10-16"
         },
         {
-          "endDate": "1995-11-19",
+          "endDate": "1995-10-27",
+          "items": [
+            {
+              "artist": "Simply Red",
+              "rank": 1,
+              "title": "Fairground"
+            }
+          ],
+          "startDate": "1995-10-21"
+        },
+        {
+          "endDate": "1995-10-29",
+          "items": [
+            {
+              "artist": "Coolio featuring L.V.",
+              "rank": 1,
+              "title": "Gangsta's Paradise"
+            }
+          ],
+          "startDate": "1995-10-28"
+        },
+        {
+          "endDate": "1995-11-03",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "Wonderwall"
+            }
+          ],
+          "startDate": "1995-10-30"
+        },
+        {
+          "endDate": "1995-11-10",
+          "items": [
+            {
+              "artist": "Coolio featuring L.V.",
+              "rank": 1,
+              "title": "Gangsta's Paradise"
+            }
+          ],
+          "startDate": "1995-11-04"
+        },
+        {
+          "endDate": "1995-11-12",
+          "items": [
+            {
+              "artist": "Robson & Jerome",
+              "rank": 1,
+              "title": "I Believe / Up on the Roof"
+            }
+          ],
+          "startDate": "1995-11-11"
+        },
+        {
+          "endDate": "1995-11-17",
           "items": [
             {
               "artist": "Boyzone",
@@ -70,7 +2325,18 @@
           "startDate": "1995-11-13"
         },
         {
-          "endDate": "1995-12-03",
+          "endDate": "1995-11-26",
+          "items": [
+            {
+              "artist": "Robson & Jerome",
+              "rank": 1,
+              "title": "I Believe / Up on the Roof"
+            }
+          ],
+          "startDate": "1995-11-18"
+        },
+        {
+          "endDate": "1995-12-01",
           "items": [
             {
               "artist": "Michael Jackson",
@@ -79,12 +2345,34 @@
             }
           ],
           "startDate": "1995-11-27"
+        },
+        {
+          "endDate": "1995-12-08",
+          "items": [
+            {
+              "artist": "Robson & Jerome",
+              "rank": 1,
+              "title": "I Believe / Up on the Roof"
+            }
+          ],
+          "startDate": "1995-12-02"
+        },
+        {
+          "endDate": "1995-12-31",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Earth Song"
+            }
+          ],
+          "startDate": "1995-12-09"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -92,7 +2380,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1a27772f997f9775b793b010d2bdfb0026704a385e61db717a0846a834093a69",
+  "contentHash": "29496fba5e4ff67e2b7e7c4d554d8ba250f1eae2ddeadbe9201acc8829eeab88",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1995

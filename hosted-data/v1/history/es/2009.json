@@ -1,5 +1,349 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2009-01-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Australia"
+            }
+          ],
+          "startDate": "2009-01-01"
+        },
+        {
+          "endDate": "2009-01-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Seven Pounds"
+            }
+          ],
+          "startDate": "2009-01-18"
+        },
+        {
+          "endDate": "2009-02-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Valkyrie"
+            }
+          ],
+          "startDate": "2009-02-01"
+        },
+        {
+          "endDate": "2009-02-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Curious Case of Benjamin Button"
+            }
+          ],
+          "startDate": "2009-02-08"
+        },
+        {
+          "endDate": "2009-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Slumdog Millionaire"
+            }
+          ],
+          "startDate": "2009-03-01"
+        },
+        {
+          "endDate": "2009-03-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gran Torino"
+            }
+          ],
+          "startDate": "2009-03-08"
+        },
+        {
+          "endDate": "2009-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sex, Party & Lies"
+            }
+          ],
+          "startDate": "2009-03-29"
+        },
+        {
+          "endDate": "2009-04-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast & Furious"
+            }
+          ],
+          "startDate": "2009-04-05"
+        },
+        {
+          "endDate": "2009-04-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Monsters vs. Aliens"
+            }
+          ],
+          "startDate": "2009-04-12"
+        },
+        {
+          "endDate": "2009-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "State of Play"
+            }
+          ],
+          "startDate": "2009-04-19"
+        },
+        {
+          "endDate": "2009-05-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Brain Drain"
+            }
+          ],
+          "startDate": "2009-04-26"
+        },
+        {
+          "endDate": "2009-05-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X-Men Origins: Wolverine"
+            }
+          ],
+          "startDate": "2009-05-03"
+        },
+        {
+          "endDate": "2009-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hannah Montana: The Movie"
+            }
+          ],
+          "startDate": "2009-05-10"
+        },
+        {
+          "endDate": "2009-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Angels & Demons"
+            }
+          ],
+          "startDate": "2009-05-17"
+        },
+        {
+          "endDate": "2009-06-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terminator Salvation"
+            }
+          ],
+          "startDate": "2009-06-07"
+        },
+        {
+          "endDate": "2009-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inkheart"
+            }
+          ],
+          "startDate": "2009-06-21"
+        },
+        {
+          "endDate": "2009-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers: Revenge of the Fallen"
+            }
+          ],
+          "startDate": "2009-06-28"
+        },
+        {
+          "endDate": "2009-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ice Age: Dawn of the Dinosaurs"
+            }
+          ],
+          "startDate": "2009-07-05"
+        },
+        {
+          "endDate": "2009-07-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Half-Blood Prince"
+            }
+          ],
+          "startDate": "2009-07-19"
+        },
+        {
+          "endDate": "2009-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Taking of Pelham 123"
+            }
+          ],
+          "startDate": "2009-07-26"
+        },
+        {
+          "endDate": "2009-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Up"
+            }
+          ],
+          "startDate": "2009-08-02"
+        },
+        {
+          "endDate": "2009-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Public Enemies"
+            }
+          ],
+          "startDate": "2009-08-16"
+        },
+        {
+          "endDate": "2009-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Up"
+            }
+          ],
+          "startDate": "2009-08-30"
+        },
+        {
+          "endDate": "2009-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "He's Just Not That Into You"
+            }
+          ],
+          "startDate": "2009-09-06"
+        },
+        {
+          "endDate": "2009-09-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "District 9"
+            }
+          ],
+          "startDate": "2009-09-13"
+        },
+        {
+          "endDate": "2009-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inglourious Basterds"
+            }
+          ],
+          "startDate": "2009-09-20"
+        },
+        {
+          "endDate": "2009-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "²"
+            }
+          ],
+          "startDate": "2009-10-04"
+        },
+        {
+          "endDate": "2009-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Agora"
+            }
+          ],
+          "startDate": "2009-10-11"
+        },
+        {
+          "endDate": "2009-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cell 211"
+            }
+          ],
+          "startDate": "2009-11-08"
+        },
+        {
+          "endDate": "2009-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "2012"
+            }
+          ],
+          "startDate": "2009-11-15"
+        },
+        {
+          "endDate": "2009-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Twilight Saga: New Moon"
+            }
+          ],
+          "startDate": "2009-11-22"
+        },
+        {
+          "endDate": "2009-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spanish Movie"
+            }
+          ],
+          "startDate": "2009-12-06"
+        },
+        {
+          "endDate": "2009-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar"
+            }
+          ],
+          "startDate": "2009-12-20"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -13,12 +357,155 @@
             }
           ],
           "startDate": "2009-01-01"
+        },
+        {
+          "endDate": "2009-01-17",
+          "items": [
+            {
+              "artist": "Carlos Baute feat. Marta Sanchez",
+              "rank": 1,
+              "title": "Colgando en tus manos"
+            }
+          ],
+          "startDate": "2009-01-04"
+        },
+        {
+          "endDate": "2009-06-27",
+          "items": [
+            {
+              "artist": "Carlos Baute feat. Marta Sanchez",
+              "rank": 1,
+              "title": "Colgando en tus manos"
+            }
+          ],
+          "startDate": "2009-01-19"
+        },
+        {
+          "endDate": "2009-07-04",
+          "items": [
+            {
+              "artist": "Macaco",
+              "rank": 1,
+              "title": "Moving"
+            }
+          ],
+          "startDate": "2009-06-28"
+        },
+        {
+          "endDate": "2009-07-11",
+          "items": [
+            {
+              "artist": "Carlos Baute feat. Marta Sanchez",
+              "rank": 1,
+              "title": "Colgando En Tus Manos"
+            }
+          ],
+          "startDate": "2009-07-05"
+        },
+        {
+          "endDate": "2009-07-18",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Thriller"
+            }
+          ],
+          "startDate": "2009-07-12"
+        },
+        {
+          "endDate": "2009-07-25",
+          "items": [
+            {
+              "artist": "Carlos Baute feat. Marta Sanchez",
+              "rank": 1,
+              "title": "Colgando En Tus Manos"
+            }
+          ],
+          "startDate": "2009-07-19"
+        },
+        {
+          "endDate": "2009-08-01",
+          "items": [
+            {
+              "artist": "Inna",
+              "rank": 1,
+              "title": "Hot"
+            }
+          ],
+          "startDate": "2009-07-26"
+        },
+        {
+          "endDate": "2009-09-19",
+          "items": [
+            {
+              "artist": "Pitbull",
+              "rank": 1,
+              "title": "I Know You Want Me (Calle Ocho)"
+            }
+          ],
+          "startDate": "2009-08-02"
+        },
+        {
+          "endDate": "2009-10-17",
+          "items": [
+            {
+              "artist": "David Bisbal",
+              "rank": 1,
+              "title": "Esclavo de Sus Besos"
+            }
+          ],
+          "startDate": "2009-09-20"
+        },
+        {
+          "endDate": "2009-11-21",
+          "items": [
+            {
+              "artist": "Manuel Carrasco & Malú",
+              "rank": 1,
+              "title": "Que Nadie"
+            }
+          ],
+          "startDate": "2009-10-18"
+        },
+        {
+          "endDate": "2009-11-28",
+          "items": [
+            {
+              "artist": "Buraka Som Sistema",
+              "rank": 1,
+              "title": "Kalemba (Wegue-Wegue)"
+            }
+          ],
+          "startDate": "2009-11-22"
+        },
+        {
+          "endDate": "2009-12-05",
+          "items": [
+            {
+              "artist": "Alejandro Sanz feat. Alicia Keys",
+              "rank": 1,
+              "title": "Looking for Paradise"
+            }
+          ],
+          "startDate": "2009-11-29"
+        },
+        {
+          "endDate": "2009-12-31",
+          "items": [
+            {
+              "artist": "Buraka Som Sistema",
+              "rank": 1,
+              "title": "Kalemba (Wegue-Wegue)"
+            }
+          ],
+          "startDate": "2009-12-06"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2008-12-28",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "ES",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
@@ -26,7 +513,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "cc1d1358b2abc27faaa179f7e132a5a8db3b272712707931ffa8fd06cd522a69",
+  "contentHash": "d56b99fea19f0b22bc7997be289517c472a2f39c11a83270b856f88562ba0589",
   "country": "es",
   "schemaVersion": 1,
   "year": 2009

@@ -1,0 +1,490 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2007-01-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Christmas in New York"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Casino Royale"
+            }
+          ],
+          "startDate": "2007-01-07"
+        },
+        {
+          "endDate": "2007-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Pursuit of Happyness"
+            }
+          ],
+          "startDate": "2007-01-14"
+        },
+        {
+          "endDate": "2007-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Manual of Love 2"
+            }
+          ],
+          "startDate": "2007-01-21"
+        },
+        {
+          "endDate": "2007-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Night at the Museum"
+            }
+          ],
+          "startDate": "2007-02-04"
+        },
+        {
+          "endDate": "2007-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Notte prima degli esami - Oggi"
+            }
+          ],
+          "startDate": "2007-02-18"
+        },
+        {
+          "endDate": "2007-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Borat"
+            }
+          ],
+          "startDate": "2007-03-04"
+        },
+        {
+          "endDate": "2007-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ho voglia di te"
+            }
+          ],
+          "startDate": "2007-03-11"
+        },
+        {
+          "endDate": "2007-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "300"
+            }
+          ],
+          "startDate": "2007-03-25"
+        },
+        {
+          "endDate": "2007-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mr. Bean's Holiday"
+            }
+          ],
+          "startDate": "2007-04-08"
+        },
+        {
+          "endDate": "2007-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "My Brother Is an Only Child"
+            }
+          ],
+          "startDate": "2007-04-22"
+        },
+        {
+          "endDate": "2007-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Epic Movie"
+            }
+          ],
+          "startDate": "2007-04-29"
+        },
+        {
+          "endDate": "2007-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man 3"
+            }
+          ],
+          "startDate": "2007-05-06"
+        },
+        {
+          "endDate": "2007-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: At World's End"
+            }
+          ],
+          "startDate": "2007-05-27"
+        },
+        {
+          "endDate": "2007-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ocean's Thirteen"
+            }
+          ],
+          "startDate": "2007-06-10"
+        },
+        {
+          "endDate": "2007-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Four: Rise of the Silver Surfer"
+            }
+          ],
+          "startDate": "2007-06-17"
+        },
+        {
+          "endDate": "2007-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers"
+            }
+          ],
+          "startDate": "2007-07-01"
+        },
+        {
+          "endDate": "2007-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Order of the Phoenix"
+            }
+          ],
+          "startDate": "2007-07-15"
+        },
+        {
+          "endDate": "2007-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disturbia"
+            }
+          ],
+          "startDate": "2007-08-19"
+        },
+        {
+          "endDate": "2007-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "In the Land of Women"
+            }
+          ],
+          "startDate": "2007-08-26"
+        },
+        {
+          "endDate": "2007-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek the Third"
+            }
+          ],
+          "startDate": "2007-09-02"
+        },
+        {
+          "endDate": "2007-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Simpsons Movie"
+            }
+          ],
+          "startDate": "2007-09-16"
+        },
+        {
+          "endDate": "2007-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Michael Clayton"
+            }
+          ],
+          "startDate": "2007-10-07"
+        },
+        {
+          "endDate": "2007-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "SMS - Sotto mentite spoglie"
+            }
+          ],
+          "startDate": "2007-10-14"
+        },
+        {
+          "endDate": "2007-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ratatouille"
+            }
+          ],
+          "startDate": "2007-10-21"
+        },
+        {
+          "endDate": "2007-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Come tu mi vuoi"
+            }
+          ],
+          "startDate": "2007-11-11"
+        },
+        {
+          "endDate": "2007-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Matrimonio alle Bahamas"
+            }
+          ],
+          "startDate": "2007-11-18"
+        },
+        {
+          "endDate": "2007-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Winx Club: The Secret of the Lost Kingdom"
+            }
+          ],
+          "startDate": "2007-12-02"
+        },
+        {
+          "endDate": "2007-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Enchanted"
+            }
+          ],
+          "startDate": "2007-12-09"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Natale in crociera"
+            }
+          ],
+          "startDate": "2007-12-16"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2007-01-04",
+          "items": [
+            {
+              "artist": "U2 and Green Day",
+              "rank": 1,
+              "title": "The Saints Are Coming"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-01-11",
+          "items": [
+            {
+              "artist": "Laura Pausini",
+              "rank": 1,
+              "title": "Io canto"
+            }
+          ],
+          "startDate": "2007-01-05"
+        },
+        {
+          "endDate": "2007-02-08",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Window in the Skies"
+            }
+          ],
+          "startDate": "2007-01-12"
+        },
+        {
+          "endDate": "2007-02-22",
+          "items": [
+            {
+              "artist": "Brenda and Daniele Battaglia",
+              "rank": 1,
+              "title": "Vorrei dirti che è facile"
+            }
+          ],
+          "startDate": "2007-02-09"
+        },
+        {
+          "endDate": "2007-03-01",
+          "items": [
+            {
+              "artist": "Mika",
+              "rank": 1,
+              "title": "Grace Kelly"
+            }
+          ],
+          "startDate": "2007-02-23"
+        },
+        {
+          "endDate": "2007-03-08",
+          "items": [
+            {
+              "artist": "Paolo Meneguzzi",
+              "rank": 1,
+              "title": "Musica"
+            }
+          ],
+          "startDate": "2007-03-02"
+        },
+        {
+          "endDate": "2007-03-22",
+          "items": [
+            {
+              "artist": "Jennifer Lopez",
+              "rank": 1,
+              "title": "Qué Hiciste"
+            }
+          ],
+          "startDate": "2007-03-09"
+        },
+        {
+          "endDate": "2007-03-29",
+          "items": [
+            {
+              "artist": "Fabrizio Moro",
+              "rank": 1,
+              "title": "Pensa"
+            }
+          ],
+          "startDate": "2007-03-23"
+        },
+        {
+          "endDate": "2007-04-12",
+          "items": [
+            {
+              "artist": "Avril Lavigne",
+              "rank": 1,
+              "title": "Girlfriend"
+            }
+          ],
+          "startDate": "2007-03-30"
+        },
+        {
+          "endDate": "2007-05-10",
+          "items": [
+            {
+              "artist": "Beyoncé and Shakira",
+              "rank": 1,
+              "title": "Beautiful Liar"
+            }
+          ],
+          "startDate": "2007-04-13"
+        },
+        {
+          "endDate": "2007-10-04",
+          "items": [
+            {
+              "artist": "Vasco Rossi",
+              "rank": 1,
+              "title": "Vasco Extended Play"
+            }
+          ],
+          "startDate": "2007-05-11"
+        },
+        {
+          "endDate": "2007-12-20",
+          "items": [
+            {
+              "artist": "Eros Ramazzotti and Ricky Martin",
+              "rank": 1,
+              "title": "Non siamo soli"
+            }
+          ],
+          "startDate": "2007-10-05"
+        },
+        {
+          "endDate": "2007-12-27",
+          "items": [
+            {
+              "artist": "Vasco Rossi",
+              "rank": 1,
+              "title": "The Singles Collection - Limited Tour Edition"
+            }
+          ],
+          "startDate": "2007-12-21"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "artist": "Ligabue",
+              "rank": 1,
+              "title": "Niente paura"
+            }
+          ],
+          "startDate": "2007-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-15",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "a1170a0f7b7efe543dc43ac35c92d0cadba8cb64e1d1409dc52b221237dc3023",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2007
+}

@@ -1,0 +1,32 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1999-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vacanze di Natale 2000"
+            }
+          ],
+          "startDate": "1999-12-26"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
+      },
+      "title": "Historical number-one box office film"
+    }
+  },
+  "contentHash": "a48556d9e11cb15443ca4cef11ee5af7ca82ac8c8c145788165e58bada0f4794",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 1999
+}

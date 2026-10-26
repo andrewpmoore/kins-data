@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2009",
+      "items": [
+        {
+          "author": "Stieg Larsson",
+          "creator": "Stieg Larsson",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "La reina en el palacio de las corrientes de aire",
+          "url": "https://books.google.com/books?q=La+reina+en+el+palacio+de+las+corrientes+de+aire"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2009.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2009
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2009",
+      "items": [
+        {
+          "author": "Stephenie Meyer",
+          "creator": "Stephenie Meyer",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Luna nueva",
+          "url": "https://books.google.com/books?q=Luna+nueva"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2009.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2009
+    },
     "games": {
       "id": "media-awardWinner-2009",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2009
     }
   },
-  "contentHash": "b00960c6ec7882d708349384c9fb321deef642ea008191c9a96a94127a260635",
+  "contentHash": "75269f7ef77c572d626ae82115bb3438d0a2c4ae8d329021f324fc7097f0c561",
   "country": "es",
   "schemaVersion": 1,
   "year": 2009

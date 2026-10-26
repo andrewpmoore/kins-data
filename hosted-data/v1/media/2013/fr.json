@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2013",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788421679159",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788421679159-L.jpg?default=false",
+          "author": "Jean-Yves Ferri et Didier Conrad",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788421679159",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788421679159-L.jpg?default=false",
+          "creator": "Jean-Yves Ferri et Didier Conrad",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Astérix chez les Pictes",
+          "url": "https://books.google.com/books?vid=ISBN:9788421679159"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2013"
+      },
+      "title": "FR print bestseller",
+      "year": 2013
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2013",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788937833762",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788937833762-L.jpg?default=false",
+          "author": "John Green",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788937833762",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788937833762-L.jpg?default=false",
+          "creator": "John Green",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Nos étoiles contraires",
+          "url": "https://books.google.com/books?vid=ISBN:9788937833762"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2013"
+      },
+      "title": "FR children's bestseller",
+      "year": 2013
+    },
     "games": {
       "id": "media-awardWinner-2013",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2013
     }
   },
-  "contentHash": "a11749413e2ced9337e1b27cf13fec2dc0365bf8eb7c600cce00b0f3ae5b942a",
+  "contentHash": "f64ff279ef79068e5aa5b0e6416df527cfa321400589b3c19793775be8a5883c",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2013

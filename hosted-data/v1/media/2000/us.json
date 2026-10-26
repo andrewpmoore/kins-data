@@ -1,0 +1,89 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2000",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780385339674",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780385339674-L.jpg?default=false",
+          "author": "John Grisham",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780385339674",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780385339674-L.jpg?default=false",
+          "creator": "John Grisham",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Brethren",
+          "url": "https://books.google.com/books?vid=ISBN:9780385339674"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2000-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2000
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2000",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788478888641",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788478888641-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788478888641",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788478888641-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Harry Potter and the Goblet of Fire",
+          "url": "https://books.google.com/books?vid=ISBN:9788478888641"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2000-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2000
+    },
+    "games": {
+      "id": "media-awardWinner-2000",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=481",
+          "artworkURL": "https://www.interactive.org/images/games/2000_the_sims_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "The Sims"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2000&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2000
+    }
+  },
+  "contentHash": "aa78861670b76c40ec48b046c4f5a19904455a574b6746d2086867fd83f002f9",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2000
+}

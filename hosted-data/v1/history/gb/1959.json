@@ -1,10 +1,324 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1959-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Buccaneer"
+            }
+          ],
+          "startDate": "1959-01-07"
+        },
+        {
+          "endDate": "1959-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Auntie Mame"
+            }
+          ],
+          "startDate": "1959-01-14"
+        },
+        {
+          "endDate": "1959-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Some Came Running"
+            }
+          ],
+          "startDate": "1959-01-28"
+        },
+        {
+          "endDate": "1959-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Auntie Mame"
+            }
+          ],
+          "startDate": "1959-02-04"
+        },
+        {
+          "endDate": "1959-02-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Separate Tables"
+            }
+          ],
+          "startDate": "1959-02-18"
+        },
+        {
+          "endDate": "1959-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sleeping Beauty"
+            }
+          ],
+          "startDate": "1959-02-25"
+        },
+        {
+          "endDate": "1959-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Separate Tables"
+            }
+          ],
+          "startDate": "1959-03-04"
+        },
+        {
+          "endDate": "1959-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sleeping Beauty"
+            }
+          ],
+          "startDate": "1959-03-11"
+        },
+        {
+          "endDate": "1959-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rio Bravo"
+            }
+          ],
+          "startDate": "1959-03-25"
+        },
+        {
+          "endDate": "1959-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Some Like It Hot"
+            }
+          ],
+          "startDate": "1959-04-01"
+        },
+        {
+          "endDate": "1959-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Imitation of Life"
+            }
+          ],
+          "startDate": "1959-04-22"
+        },
+        {
+          "endDate": "1959-06-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Some Like It Hot"
+            }
+          ],
+          "startDate": "1959-05-06"
+        },
+        {
+          "endDate": "1959-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pork Chop Hill"
+            }
+          ],
+          "startDate": "1959-06-03"
+        },
+        {
+          "endDate": "1959-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Young Philadelphians"
+            }
+          ],
+          "startDate": "1959-06-10"
+        },
+        {
+          "endDate": "1959-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ask Any Girl"
+            }
+          ],
+          "startDate": "1959-06-17"
+        },
+        {
+          "endDate": "1959-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Say One for Me"
+            }
+          ],
+          "startDate": "1959-06-24"
+        },
+        {
+          "endDate": "1959-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Horse Soldiers"
+            }
+          ],
+          "startDate": "1959-07-01"
+        },
+        {
+          "endDate": "1959-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Nun's Story"
+            }
+          ],
+          "startDate": "1959-07-08"
+        },
+        {
+          "endDate": "1959-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Hole in the Head"
+            }
+          ],
+          "startDate": "1959-07-22"
+        },
+        {
+          "endDate": "1959-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Nun's Story"
+            }
+          ],
+          "startDate": "1959-07-29"
+        },
+        {
+          "endDate": "1959-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Anatomy of a Murder"
+            }
+          ],
+          "startDate": "1959-08-05"
+        },
+        {
+          "endDate": "1959-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "North by Northwest"
+            }
+          ],
+          "startDate": "1959-08-12"
+        },
+        {
+          "endDate": "1959-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "That Kind of Woman"
+            }
+          ],
+          "startDate": "1959-09-30"
+        },
+        {
+          "endDate": "1959-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "But Not for Me"
+            }
+          ],
+          "startDate": "1959-10-07"
+        },
+        {
+          "endDate": "1959-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The FBI Story"
+            }
+          ],
+          "startDate": "1959-10-14"
+        },
+        {
+          "endDate": "1959-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pillow Talk"
+            }
+          ],
+          "startDate": "1959-10-21"
+        },
+        {
+          "endDate": "1959-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Summer Place"
+            }
+          ],
+          "startDate": "1959-12-02"
+        },
+        {
+          "endDate": "1959-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pillow Talk"
+            }
+          ],
+          "startDate": "1959-12-16"
+        },
+        {
+          "endDate": "1959-12-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "On the Beach"
+            }
+          ],
+          "startDate": "1959-12-23"
+        },
+        {
+          "endDate": "1959-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Solomon and Sheba"
+            }
+          ],
+          "startDate": "1959-12-30"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1959-01-30",
+          "endDate": "1959-01-22",
           "items": [
             {
               "artist": "Conway Twitty",
@@ -15,18 +329,106 @@
           "startDate": "1959-01-01"
         },
         {
-          "endDate": "1959-02-20",
+          "endDate": "1959-01-23",
+          "items": [
+            {
+              "artist": "Jane Morgan",
+              "rank": 1,
+              "title": "The Day the Rains Came"
+            }
+          ],
+          "startDate": "1959-01-23"
+        },
+        {
+          "endDate": "1959-01-29",
+          "items": [
+            {
+              "artist": "Conway Twitty",
+              "rank": 1,
+              "title": "It's Only Make Believe"
+            }
+          ],
+          "startDate": "1959-01-24"
+        },
+        {
+          "endDate": "1959-01-30",
           "items": [
             {
               "artist": "Elvis Presley",
               "rank": 1,
-              "title": "I Got Stung\" / \"One Night"
+              "title": "One Night / I Got Stung"
+            }
+          ],
+          "startDate": "1959-01-30"
+        },
+        {
+          "endDate": "1959-02-05",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "I Got Stung / One Night"
             }
           ],
           "startDate": "1959-01-31"
         },
         {
-          "endDate": "1959-02-27",
+          "endDate": "1959-02-06",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "One Night / I Got Stung"
+            }
+          ],
+          "startDate": "1959-02-06"
+        },
+        {
+          "endDate": "1959-02-12",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "I Got Stung / One Night"
+            }
+          ],
+          "startDate": "1959-02-07"
+        },
+        {
+          "endDate": "1959-02-13",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "One Night / I Got Stung"
+            }
+          ],
+          "startDate": "1959-02-13"
+        },
+        {
+          "endDate": "1959-02-19",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "I Got Stung / One Night"
+            }
+          ],
+          "startDate": "1959-02-14"
+        },
+        {
+          "endDate": "1959-02-20",
+          "items": [
+            {
+              "artist": "Shirley Bassey",
+              "rank": 1,
+              "title": "As I Love You"
+            }
+          ],
+          "startDate": "1959-02-20"
+        },
+        {
+          "endDate": "1959-02-26",
           "items": [
             {
               "artist": "Shirley Bassey with Wally Stott & His Orchestra",
@@ -37,7 +439,18 @@
           "startDate": "1959-02-21"
         },
         {
-          "endDate": "1959-03-27",
+          "endDate": "1959-02-27",
+          "items": [
+            {
+              "artist": "Shirley Bassey",
+              "rank": 1,
+              "title": "As I Love You"
+            }
+          ],
+          "startDate": "1959-02-27"
+        },
+        {
+          "endDate": "1959-03-05",
           "items": [
             {
               "artist": "The Platters",
@@ -48,6 +461,50 @@
           "startDate": "1959-02-28"
         },
         {
+          "endDate": "1959-03-06",
+          "items": [
+            {
+              "artist": "Shirley Bassey",
+              "rank": 1,
+              "title": "As I Love You"
+            }
+          ],
+          "startDate": "1959-03-06"
+        },
+        {
+          "endDate": "1959-03-12",
+          "items": [
+            {
+              "artist": "The Platters",
+              "rank": 1,
+              "title": "Smoke Gets in Your Eyes"
+            }
+          ],
+          "startDate": "1959-03-07"
+        },
+        {
+          "endDate": "1959-03-13",
+          "items": [
+            {
+              "artist": "Shirley Bassey",
+              "rank": 1,
+              "title": "As I Love You"
+            }
+          ],
+          "startDate": "1959-03-13"
+        },
+        {
+          "endDate": "1959-03-26",
+          "items": [
+            {
+              "artist": "The Platters",
+              "rank": 1,
+              "title": "Smoke Gets in Your Eyes"
+            }
+          ],
+          "startDate": "1959-03-14"
+        },
+        {
           "endDate": "1959-04-17",
           "items": [
             {
@@ -56,10 +513,10 @@
               "title": "Side Saddle"
             }
           ],
-          "startDate": "1959-03-28"
+          "startDate": "1959-03-27"
         },
         {
-          "endDate": "1959-05-22",
+          "endDate": "1959-04-23",
           "items": [
             {
               "artist": "Buddy Holly",
@@ -70,15 +527,180 @@
           "startDate": "1959-04-18"
         },
         {
-          "endDate": "1959-06-19",
+          "endDate": "1959-04-24",
+          "items": [
+            {
+              "artist": "Buddy Holly",
+              "rank": 1,
+              "title": "It Doesn't Matter Anymore"
+            }
+          ],
+          "startDate": "1959-04-24"
+        },
+        {
+          "endDate": "1959-04-30",
+          "items": [
+            {
+              "artist": "Buddy Holly",
+              "rank": 1,
+              "title": "It Doesn't Matter Any More"
+            }
+          ],
+          "startDate": "1959-04-25"
+        },
+        {
+          "endDate": "1959-05-01",
+          "items": [
+            {
+              "artist": "Buddy Holly",
+              "rank": 1,
+              "title": "It Doesn't Matter Anymore"
+            }
+          ],
+          "startDate": "1959-05-01"
+        },
+        {
+          "endDate": "1959-05-07",
+          "items": [
+            {
+              "artist": "Buddy Holly",
+              "rank": 1,
+              "title": "It Doesn't Matter Any More"
+            }
+          ],
+          "startDate": "1959-05-02"
+        },
+        {
+          "endDate": "1959-05-08",
+          "items": [
+            {
+              "artist": "Buddy Holly",
+              "rank": 1,
+              "title": "It Doesn't Matter Anymore"
+            }
+          ],
+          "startDate": "1959-05-08"
+        },
+        {
+          "endDate": "1959-05-14",
+          "items": [
+            {
+              "artist": "Buddy Holly",
+              "rank": 1,
+              "title": "It Doesn't Matter Any More"
+            }
+          ],
+          "startDate": "1959-05-09"
+        },
+        {
+          "endDate": "1959-05-15",
           "items": [
             {
               "artist": "Elvis Presley",
               "rank": 1,
-              "title": "A Fool Such As I\" / \"I Need Your Love Tonight"
+              "title": "A Fool Such as I / I Need Your Love Tonight"
+            }
+          ],
+          "startDate": "1959-05-15"
+        },
+        {
+          "endDate": "1959-05-21",
+          "items": [
+            {
+              "artist": "Buddy Holly",
+              "rank": 1,
+              "title": "It Doesn't Matter Any More"
+            }
+          ],
+          "startDate": "1959-05-16"
+        },
+        {
+          "endDate": "1959-05-22",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Fool Such as I / I Need Your Love Tonight"
+            }
+          ],
+          "startDate": "1959-05-22"
+        },
+        {
+          "endDate": "1959-05-28",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Fool Such As I / I Need Your Love Tonight"
             }
           ],
           "startDate": "1959-05-23"
+        },
+        {
+          "endDate": "1959-05-29",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Fool Such as I / I Need Your Love Tonight"
+            }
+          ],
+          "startDate": "1959-05-29"
+        },
+        {
+          "endDate": "1959-06-04",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Fool Such As I / I Need Your Love Tonight"
+            }
+          ],
+          "startDate": "1959-05-30"
+        },
+        {
+          "endDate": "1959-06-05",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Fool Such as I / I Need Your Love Tonight"
+            }
+          ],
+          "startDate": "1959-06-05"
+        },
+        {
+          "endDate": "1959-06-11",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Fool Such As I / I Need Your Love Tonight"
+            }
+          ],
+          "startDate": "1959-06-06"
+        },
+        {
+          "endDate": "1959-06-12",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Fool Such as I / I Need Your Love Tonight"
+            }
+          ],
+          "startDate": "1959-06-12"
+        },
+        {
+          "endDate": "1959-06-18",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "A Fool Such As I / I Need Your Love Tonight"
+            }
+          ],
+          "startDate": "1959-06-13"
         },
         {
           "endDate": "1959-06-26",
@@ -89,10 +711,10 @@
               "title": "Roulette"
             }
           ],
-          "startDate": "1959-06-20"
+          "startDate": "1959-06-19"
         },
         {
-          "endDate": "1959-07-10",
+          "endDate": "1959-07-30",
           "items": [
             {
               "artist": "Bobby Darin",
@@ -103,7 +725,18 @@
           "startDate": "1959-06-27"
         },
         {
-          "endDate": "1959-08-14",
+          "endDate": "1959-07-31",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Drifters",
+              "rank": 1,
+              "title": "Living Doll"
+            }
+          ],
+          "startDate": "1959-07-31"
+        },
+        {
+          "endDate": "1959-08-06",
           "items": [
             {
               "artist": "Cliff Richard",
@@ -114,7 +747,40 @@
           "startDate": "1959-08-01"
         },
         {
-          "endDate": "1959-10-16",
+          "endDate": "1959-08-07",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Drifters",
+              "rank": 1,
+              "title": "Living Doll"
+            }
+          ],
+          "startDate": "1959-08-07"
+        },
+        {
+          "endDate": "1959-08-13",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Living Doll"
+            }
+          ],
+          "startDate": "1959-08-08"
+        },
+        {
+          "endDate": "1959-09-04",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Drifters",
+              "rank": 1,
+              "title": "Living Doll"
+            }
+          ],
+          "startDate": "1959-08-14"
+        },
+        {
+          "endDate": "1959-10-08",
           "items": [
             {
               "artist": "Craig Douglas",
@@ -125,7 +791,40 @@
           "startDate": "1959-09-05"
         },
         {
-          "endDate": "1959-12-04",
+          "endDate": "1959-10-09",
+          "items": [
+            {
+              "artist": "Jerry Keller",
+              "rank": 1,
+              "title": "Here Comes Summer"
+            }
+          ],
+          "startDate": "1959-10-09"
+        },
+        {
+          "endDate": "1959-10-15",
+          "items": [
+            {
+              "artist": "Craig Douglas",
+              "rank": 1,
+              "title": "Only Sixteen"
+            }
+          ],
+          "startDate": "1959-10-10"
+        },
+        {
+          "endDate": "1959-10-16",
+          "items": [
+            {
+              "artist": "Bobby Darin",
+              "rank": 1,
+              "title": "Mack the Knife"
+            }
+          ],
+          "startDate": "1959-10-16"
+        },
+        {
+          "endDate": "1959-10-22",
           "items": [
             {
               "artist": "Cliff Richard",
@@ -136,7 +835,150 @@
           "startDate": "1959-10-17"
         },
         {
-          "endDate": "1959-12-11",
+          "endDate": "1959-10-23",
+          "items": [
+            {
+              "artist": "Bobby Darin",
+              "rank": 1,
+              "title": "Mack the Knife"
+            }
+          ],
+          "startDate": "1959-10-23"
+        },
+        {
+          "endDate": "1959-10-29",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-10-24"
+        },
+        {
+          "endDate": "1959-10-30",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-10-30"
+        },
+        {
+          "endDate": "1959-11-05",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-10-31"
+        },
+        {
+          "endDate": "1959-11-06",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-11-06"
+        },
+        {
+          "endDate": "1959-11-12",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-11-07"
+        },
+        {
+          "endDate": "1959-11-13",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-11-13"
+        },
+        {
+          "endDate": "1959-11-19",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-11-14"
+        },
+        {
+          "endDate": "1959-11-20",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-11-20"
+        },
+        {
+          "endDate": "1959-11-26",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-11-21"
+        },
+        {
+          "endDate": "1959-11-27",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-11-27"
+        },
+        {
+          "endDate": "1959-12-03",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "Travellin' Light"
+            }
+          ],
+          "startDate": "1959-11-28"
+        },
+        {
+          "endDate": "1959-12-04",
+          "items": [
+            {
+              "artist": "Adam Faith",
+              "rank": 1,
+              "title": "What Do You Want?"
+            }
+          ],
+          "startDate": "1959-12-04"
+        },
+        {
+          "endDate": "1959-12-10",
           "items": [
             {
               "artist": "Emile Ford",
@@ -147,7 +989,18 @@
           "startDate": "1959-12-05"
         },
         {
-          "endDate": "1959-12-31",
+          "endDate": "1959-12-11",
+          "items": [
+            {
+              "artist": "Adam Faith",
+              "rank": 1,
+              "title": "What Do You Want?"
+            }
+          ],
+          "startDate": "1959-12-11"
+        },
+        {
+          "endDate": "1959-12-17",
           "items": [
             {
               "artist": "Adam Faith",
@@ -156,12 +1009,56 @@
             }
           ],
           "startDate": "1959-12-12"
+        },
+        {
+          "endDate": "1959-12-18",
+          "items": [
+            {
+              "artist": "Emile Ford and the Checkmates",
+              "rank": 1,
+              "title": "What Do You Want to Make Those Eyes at Me For?"
+            }
+          ],
+          "startDate": "1959-12-18"
+        },
+        {
+          "endDate": "1959-12-24",
+          "items": [
+            {
+              "artist": "Adam Faith",
+              "rank": 1,
+              "title": "What Do You Want"
+            }
+          ],
+          "startDate": "1959-12-19"
+        },
+        {
+          "endDate": "1959-12-25",
+          "items": [
+            {
+              "artist": "Emile Ford and the Checkmates",
+              "rank": 1,
+              "title": "What Do You Want to Make Those Eyes at Me For?"
+            }
+          ],
+          "startDate": "1959-12-25"
+        },
+        {
+          "endDate": "1959-12-31",
+          "items": [
+            {
+              "artist": "Adam Faith",
+              "rank": 1,
+              "title": "What Do You Want"
+            }
+          ],
+          "startDate": "1959-12-26"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -169,7 +1066,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "39d639104172b6858374df138b190e5ec8afb31c1c8229d9a813acd5b1939553",
+  "contentHash": "d764e43af840e809763c2b8209808d20e1ef581ff4a38c9260a5f09c64ea2d63",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1959

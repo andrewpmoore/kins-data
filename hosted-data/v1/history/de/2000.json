@@ -1,30 +1,402 @@
 {
   "charts": {
-    "music": {
-      "id": "legacy-national-number-one-single",
+    "movies": {
+      "id": "legacy-national-number-one-film",
       "periods": [
         {
-          "endDate": "2000-01-02",
+          "endDate": "2000-01-29",
           "items": [
             {
-              "artist": "Stefan Raab",
               "rank": 1,
-              "title": "Maschen-Draht-Zaun"
+              "title": "American Pie - Wie ein heißer Apfelkuchen"
             }
           ],
           "startDate": "2000-01-01"
         },
         {
-          "endDate": "2000-01-09",
+          "endDate": "2000-02-12",
           "items": [
             {
-              "artist": "No release",
               "rank": 1,
-              "title": "No release"
+              "title": "Toy Story 2"
             }
           ],
-          "startDate": "2000-01-03"
+          "startDate": "2000-01-30"
         },
+        {
+          "endDate": "2000-02-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Beach"
+            }
+          ],
+          "startDate": "2000-02-13"
+        },
+        {
+          "endDate": "2000-03-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sleepy Hollow"
+            }
+          ],
+          "startDate": "2000-02-20"
+        },
+        {
+          "endDate": "2000-03-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Beauty"
+            }
+          ],
+          "startDate": "2000-03-12"
+        },
+        {
+          "endDate": "2000-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Otto - Der Katastrofenfilm"
+            }
+          ],
+          "startDate": "2000-03-26"
+        },
+        {
+          "endDate": "2000-04-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Cider House Rules"
+            }
+          ],
+          "startDate": "2000-04-02"
+        },
+        {
+          "endDate": "2000-04-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Erin Brockovich"
+            }
+          ],
+          "startDate": "2000-04-09"
+        },
+        {
+          "endDate": "2000-04-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pokémon: The First Movie - Mewtwo Strikes Back"
+            }
+          ],
+          "startDate": "2000-04-16"
+        },
+        {
+          "endDate": "2000-05-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stuart Little"
+            }
+          ],
+          "startDate": "2000-04-30"
+        },
+        {
+          "endDate": "2000-05-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "28 Days"
+            }
+          ],
+          "startDate": "2000-05-07"
+        },
+        {
+          "endDate": "2000-05-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission to Mars"
+            }
+          ],
+          "startDate": "2000-05-14"
+        },
+        {
+          "endDate": "2000-06-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gladiator"
+            }
+          ],
+          "startDate": "2000-05-21"
+        },
+        {
+          "endDate": "2000-06-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Romeo Must Die"
+            }
+          ],
+          "startDate": "2000-06-04"
+        },
+        {
+          "endDate": "2000-06-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gladiator"
+            }
+          ],
+          "startDate": "2000-06-11"
+        },
+        {
+          "endDate": "2000-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scream 3"
+            }
+          ],
+          "startDate": "2000-06-18"
+        },
+        {
+          "endDate": "2000-07-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible 2"
+            }
+          ],
+          "startDate": "2000-07-02"
+        },
+        {
+          "endDate": "2000-07-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Der Sturm"
+            }
+          ],
+          "startDate": "2000-07-16"
+        },
+        {
+          "endDate": "2000-08-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Der Patriot"
+            }
+          ],
+          "startDate": "2000-07-30"
+        },
+        {
+          "endDate": "2000-08-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Chicken Run - Hennen rennen"
+            }
+          ],
+          "startDate": "2000-08-06"
+        },
+        {
+          "endDate": "2000-08-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nur noch 60 Sekunden"
+            }
+          ],
+          "startDate": "2000-08-13"
+        },
+        {
+          "endDate": "2000-08-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Road Trip"
+            }
+          ],
+          "startDate": "2000-08-20"
+        },
+        {
+          "endDate": "2000-09-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X-Men"
+            }
+          ],
+          "startDate": "2000-08-27"
+        },
+        {
+          "endDate": "2000-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "U-571"
+            }
+          ],
+          "startDate": "2000-09-10"
+        },
+        {
+          "endDate": "2000-09-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Final Destination"
+            }
+          ],
+          "startDate": "2000-09-17"
+        },
+        {
+          "endDate": "2000-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schatten der Wahrheit"
+            }
+          ],
+          "startDate": "2000-09-24"
+        },
+        {
+          "endDate": "2000-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scary Movie"
+            }
+          ],
+          "startDate": "2000-10-01"
+        },
+        {
+          "endDate": "2000-10-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hollow Man"
+            }
+          ],
+          "startDate": "2000-10-08"
+        },
+        {
+          "endDate": "2000-10-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scary Movie"
+            }
+          ],
+          "startDate": "2000-10-15"
+        },
+        {
+          "endDate": "2000-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shaft"
+            }
+          ],
+          "startDate": "2000-10-22"
+        },
+        {
+          "endDate": "2000-11-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Space Cowboys"
+            }
+          ],
+          "startDate": "2000-10-29"
+        },
+        {
+          "endDate": "2000-11-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Girls United"
+            }
+          ],
+          "startDate": "2000-11-05"
+        },
+        {
+          "endDate": "2000-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dinosaurier"
+            }
+          ],
+          "startDate": "2000-11-12"
+        },
+        {
+          "endDate": "2000-12-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "3 Engel für Charlie"
+            }
+          ],
+          "startDate": "2000-11-26"
+        },
+        {
+          "endDate": "2000-12-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Meet the Parents"
+            }
+          ],
+          "startDate": "2000-12-03"
+        },
+        {
+          "endDate": "2000-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The 6th Day"
+            }
+          ],
+          "startDate": "2000-12-17"
+        },
+        {
+          "endDate": "2000-12-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Meet the Parents"
+            }
+          ],
+          "startDate": "2000-12-24"
+        },
+        {
+          "endDate": "2000-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unbreakable - Unzerbrechlich"
+            }
+          ],
+          "startDate": "2000-12-31"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
         {
           "endDate": "2000-01-23",
           "items": [
@@ -34,7 +406,7 @@
               "title": "Maschen-Draht-Zaun"
             }
           ],
-          "startDate": "2000-01-10"
+          "startDate": "2000-01-01"
         },
         {
           "endDate": "2000-02-20",
@@ -53,7 +425,7 @@
             {
               "artist": "French Affair",
               "rank": 1,
-              "title": "My Heart Goes Boom"
+              "title": "My Heart Goes Boom (La Di Da Da)"
             }
           ],
           "startDate": "2000-02-21"
@@ -86,7 +458,7 @@
             {
               "artist": "Anton featuring DJ Ötzi",
               "rank": 1,
-              "title": "Anton aus Tirol\" †"
+              "title": "Anton aus Tirol"
             }
           ],
           "startDate": "2000-04-17"
@@ -108,7 +480,7 @@
             {
               "artist": "Zlatko",
               "rank": 1,
-              "title": "Ich Vermiss Dich"
+              "title": "Ich Vermiss Dich (Wie die Hölle)"
             }
           ],
           "startDate": "2000-05-08"
@@ -141,7 +513,7 @@
             {
               "artist": "ATC",
               "rank": 1,
-              "title": "Around the World"
+              "title": "Around the World (La La La La La)"
             }
           ],
           "startDate": "2000-07-24"
@@ -183,7 +555,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -191,7 +563,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "da339e53249f18349582cdba75a98ab38dfa342b2ec191bdf71bd9e5888a76b5",
+  "contentHash": "6a626ccd38711403137e493b588dcae06d87f1ad9ecb5df55227d24dd34d1e6d",
   "country": "de",
   "schemaVersion": 1,
   "year": 2000

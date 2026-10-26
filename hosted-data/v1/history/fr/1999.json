@@ -1,0 +1,32 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1999-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sixième Sens"
+            }
+          ],
+          "startDate": "1999-12-26"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    }
+  },
+  "contentHash": "e582a5b0739f268828f24200970ac20c0b9cabdccb24d2126da924a74e6aea75",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 1999
+}

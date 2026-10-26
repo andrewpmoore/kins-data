@@ -1,186 +1,377 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2020-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode IX - The Rise of Skywalker"
+            }
+          ],
+          "startDate": "2020-01-01"
+        },
+        {
+          "endDate": "2020-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "1917"
+            }
+          ],
+          "startDate": "2020-01-19"
+        },
+        {
+          "endDate": "2020-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys for Life"
+            }
+          ],
+          "startDate": "2020-01-26"
+        },
+        {
+          "endDate": "2020-02-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn"
+            }
+          ],
+          "startDate": "2020-02-09"
+        },
+        {
+          "endDate": "2020-02-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sonic the Hedgehog"
+            }
+          ],
+          "startDate": "2020-02-16"
+        },
+        {
+          "endDate": "2020-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Call of the Wild"
+            }
+          ],
+          "startDate": "2020-03-01"
+        },
+        {
+          "endDate": "2020-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Onward"
+            }
+          ],
+          "startDate": "2020-03-08"
+        },
+        {
+          "endDate": "2020-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How to Be a Good Wife"
+            }
+          ],
+          "startDate": "2020-03-15"
+        },
+        {
+          "endDate": "2020-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Simply Black"
+            }
+          ],
+          "startDate": "2020-07-12"
+        },
+        {
+          "endDate": "2020-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Divorce Club"
+            }
+          ],
+          "startDate": "2020-07-19"
+        },
+        {
+          "endDate": "2020-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scoob!"
+            }
+          ],
+          "startDate": "2020-08-02"
+        },
+        {
+          "endDate": "2020-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les blagues de Toto"
+            }
+          ],
+          "startDate": "2020-08-09"
+        },
+        {
+          "endDate": "2020-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Greenland"
+            }
+          ],
+          "startDate": "2020-08-23"
+        },
+        {
+          "endDate": "2020-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tenet"
+            }
+          ],
+          "startDate": "2020-08-30"
+        },
+        {
+          "endDate": "2020-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Antebellum"
+            }
+          ],
+          "startDate": "2020-09-27"
+        },
+        {
+          "endDate": "2020-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "My Cousin"
+            }
+          ],
+          "startDate": "2020-10-04"
+        },
+        {
+          "endDate": "2020-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The ABCs of Love"
+            }
+          ],
+          "startDate": "2020-10-11"
+        },
+        {
+          "endDate": "2020-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "30 jours max"
+            }
+          ],
+          "startDate": "2020-10-18"
+        },
+        {
+          "endDate": "2020-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bye Bye Morons"
+            }
+          ],
+          "startDate": "2020-10-25"
+        },
+        {
+          "endDate": "2020-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Antebellum"
+            }
+          ],
+          "startDate": "2020-11-01"
+        },
+        {
+          "endDate": "2020-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The New Mutants"
+            }
+          ],
+          "startDate": "2020-11-08"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2020-01-17",
+          "endDate": "2020-01-23",
           "items": [
             {
-              "artist": "Major Lazer featuring J Balvin and El Alfa",
+              "artist": "Gradur featuring Heuss l'Enfoiré",
               "rank": 1,
-              "title": "Que Calor"
+              "title": "Ne reviens pas"
             }
           ],
-          "startDate": "2020-01-11"
+          "startDate": "2020-01-01"
         },
         {
-          "endDate": "2020-01-31",
+          "endDate": "2020-02-13",
           "items": [
             {
-              "artist": "Alicia Keys",
+              "artist": "Gambi featuring Heuss l'Enfoiré",
               "rank": 1,
-              "title": "Underdog"
+              "title": "Dans l'espace"
             }
           ],
-          "startDate": "2020-01-25"
+          "startDate": "2020-01-24"
         },
         {
-          "endDate": "2020-02-21",
+          "endDate": "2020-02-20",
           "items": [
             {
-              "artist": "Billie Eilish and Khalid",
+              "artist": "Gradur featuring Heuss l'Enfoiré",
               "rank": 1,
-              "title": "Lovely"
+              "title": "Ne reviens pas"
             }
           ],
-          "startDate": "2020-02-15"
+          "startDate": "2020-02-14"
         },
         {
-          "endDate": "2020-03-13",
+          "endDate": "2020-02-27",
           "items": [
             {
-              "artist": "BTS",
+              "artist": "The Weeknd",
               "rank": 1,
-              "title": "On"
+              "title": "Blinding Lights"
             }
           ],
-          "startDate": "2020-03-07"
+          "startDate": "2020-02-21"
         },
         {
-          "endDate": "2020-03-20",
+          "endDate": "2020-03-12",
           "items": [
             {
-              "artist": "Lady Gaga",
+              "artist": "Naps featuring Ninho",
               "rank": 1,
-              "title": "Stupid Love"
+              "title": "6.3"
             }
           ],
-          "startDate": "2020-03-14"
+          "startDate": "2020-02-28"
         },
         {
-          "endDate": "2020-04-17",
+          "endDate": "2020-04-23",
           "items": [
             {
-              "artist": "Kygo, Zara Larsson and Tyga",
+              "artist": "Ninho",
               "rank": 1,
-              "title": "Like It Is"
+              "title": "Lettre à une femme"
             }
           ],
-          "startDate": "2020-04-11"
+          "startDate": "2020-03-13"
         },
         {
-          "endDate": "2020-07-17",
+          "endDate": "2020-05-14",
           "items": [
             {
-              "artist": "Julien Doré",
+              "artist": "The Weeknd",
               "rank": 1,
-              "title": "La fièvre"
+              "title": "Blinding Lights"
             }
           ],
-          "startDate": "2020-07-11"
+          "startDate": "2020-04-24"
         },
         {
-          "endDate": "2020-07-24",
+          "endDate": "2020-05-28",
           "items": [
             {
-              "artist": "Louane",
+              "artist": "Booba featuring Zed",
               "rank": 1,
-              "title": "Donne-moi ton coeur"
+              "title": "Jauné"
             }
           ],
-          "startDate": "2020-07-18"
+          "startDate": "2020-05-15"
         },
         {
-          "endDate": "2020-08-14",
+          "endDate": "2020-06-11",
           "items": [
             {
-              "artist": "Jawsh 685 and Jason Derulo",
+              "artist": "Hatik",
               "rank": 1,
-              "title": "Savage Love"
+              "title": "Angela"
             }
           ],
-          "startDate": "2020-08-08"
+          "startDate": "2020-05-29"
         },
         {
-          "endDate": "2020-08-21",
+          "endDate": "2020-07-16",
           "items": [
             {
-              "artist": "Wes and Robin Schulz",
+              "artist": "Bosh",
               "rank": 1,
-              "title": "Alane"
+              "title": "Djomb"
             }
           ],
-          "startDate": "2020-08-15"
+          "startDate": "2020-06-12"
         },
         {
-          "endDate": "2020-09-04",
+          "endDate": "2020-07-23",
           "items": [
             {
-              "artist": "Miley Cyrus",
+              "artist": "Dadju and Ninho",
               "rank": 1,
-              "title": "Midnight Sky"
+              "title": "Grand bain"
             }
           ],
-          "startDate": "2020-08-29"
+          "startDate": "2020-07-17"
         },
         {
-          "endDate": "2020-09-11",
+          "endDate": "2020-08-20",
           "items": [
             {
-              "artist": "BTS",
+              "artist": "Aya Nakamura",
               "rank": 1,
-              "title": "Dynamite"
+              "title": "Jolie nana"
             }
           ],
-          "startDate": "2020-09-05"
+          "startDate": "2020-07-24"
         },
         {
-          "endDate": "2020-10-02",
+          "endDate": "2020-11-12",
           "items": [
             {
-              "artist": "David Guetta and Sia",
+              "artist": "Jul featuring SCH, Naps, Kofs, Elams, Solda, Houari and Soso Maness",
               "rank": 1,
-              "title": "Let's Love"
+              "title": "Bande organisée"
             }
           ],
-          "startDate": "2020-09-26"
+          "startDate": "2020-08-21"
         },
         {
-          "endDate": "2020-10-09",
-          "items": [
-            {
-              "artist": "Mylène Farmer",
-              "rank": 1,
-              "title": "L'âme dans l'eau"
-            }
-          ],
-          "startDate": "2020-10-03"
-        },
-        {
-          "endDate": "2020-11-06",
-          "items": [
-            {
-              "artist": "U2",
-              "rank": 1,
-              "title": "One"
-            }
-          ],
-          "startDate": "2020-10-31"
-        },
-        {
-          "endDate": "2020-11-13",
-          "items": [
-            {
-              "artist": "Ariana Grande",
-              "rank": 1,
-              "title": "Positions"
-            }
-          ],
-          "startDate": "2020-11-07"
-        },
-        {
-          "endDate": "2020-11-27",
+          "endDate": "2020-11-19",
           "items": [
             {
               "artist": "Booba",
@@ -188,13 +379,68 @@
               "title": "5G"
             }
           ],
-          "startDate": "2020-11-21"
+          "startDate": "2020-11-13"
+        },
+        {
+          "endDate": "2020-11-26",
+          "items": [
+            {
+              "artist": "Aya Nakamura featuring Stormzy",
+              "rank": 1,
+              "title": "Plus jamais"
+            }
+          ],
+          "startDate": "2020-11-20"
+        },
+        {
+          "endDate": "2020-12-03",
+          "items": [
+            {
+              "artist": "Zola featuring SCH",
+              "rank": 1,
+              "title": "9 1 1 3"
+            }
+          ],
+          "startDate": "2020-11-27"
+        },
+        {
+          "endDate": "2020-12-10",
+          "items": [
+            {
+              "artist": "Dinos featuring Nekfeu",
+              "rank": 1,
+              "title": "Moins un"
+            }
+          ],
+          "startDate": "2020-12-04"
+        },
+        {
+          "endDate": "2020-12-17",
+          "items": [
+            {
+              "artist": "Dua Lipa and Angèle",
+              "rank": 1,
+              "title": "Fever"
+            }
+          ],
+          "startDate": "2020-12-11"
+        },
+        {
+          "endDate": "2020-12-31",
+          "items": [
+            {
+              "artist": "Jul and SCH",
+              "rank": 1,
+              "title": "Mother Fuck"
+            }
+          ],
+          "startDate": "2020-12-18"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-01",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -202,7 +448,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "0e29a34d9b808e601523e8c82cc9ee0a9f9c03ce291b50f25d7a98ade2ba5096",
+  "contentHash": "c672991f9acb09bfd5493ec50e9ec08cffa2f9e3d2de8395965cfc59bf1c558a",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2020

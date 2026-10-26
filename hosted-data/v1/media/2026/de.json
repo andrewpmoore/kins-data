@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2026",
+      "items": [
+        {
+          "author": "Sebastian Fitzek",
+          "creator": "Sebastian Fitzek",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Der Schlüssel",
+          "url": "https://books.google.com/books?q=Der+Schlüssel"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2026/"
+      },
+      "title": "DE print bestseller",
+      "year": 2026
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2026",
+      "items": [
+        {
+          "author": "Marc-Uwe Kling",
+          "creator": "Marc-Uwe Kling",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Das Neinhorn und der Schnapp",
+          "url": "https://books.google.com/books?q=Das+Neinhorn+und+der+Schnapp"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2026/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2026
+    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -26,7 +72,7 @@
       "year": 2026
     }
   },
-  "contentHash": "2569ba8147628669b4d3e095a1de6847eeec5f31965007a0bd2b62ca39431426",
+  "contentHash": "c469f9573b0af03172b778c632aa7891fcc3c1120d4f3f9e7d91c5c102cf2dae",
   "country": "de",
   "schemaVersion": 1,
   "year": 2026

@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2012",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781101911600",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781101911600-L.jpg?default=false",
+          "author": "E.L. James",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781101911600",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781101911600-L.jpg?default=false",
+          "creator": "E.L. James",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "Fifty Shades of Grey",
+          "url": "https://books.google.com/books?vid=ISBN:9781101911600"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2012-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2012
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2012",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780141358086",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780141358086-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780141358086",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780141358086-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "The Third Wheel",
+          "url": "https://books.google.com/books?vid=ISBN:9780141358086"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2012-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2012
+    },
     "games": {
       "id": "media-awardWinner-2012",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2012
     }
   },
-  "contentHash": "c911f6f3326771b9097f3a6c009f4d3b85e8b60497f2cecc4b9936a4278ba6bc",
+  "contentHash": "66c9481f183f47d79c8dc8f6b465658677e5e5a69126f71d21c488c25a9c4791",
   "country": "us",
   "schemaVersion": 1,
   "year": 2012

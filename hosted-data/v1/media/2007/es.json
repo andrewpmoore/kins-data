@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2007",
+      "items": [
+        {
+          "author": "Ildefonso Falcones",
+          "creator": "Ildefonso Falcones",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "La catedral del mar",
+          "url": "https://books.google.com/books?q=La+catedral+del+mar"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2007.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2007
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2007",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Harry Potter y las reliquias de la muerte",
+          "url": "https://books.google.com/books?q=Harry+Potter+y+las+reliquias+de+la+muerte"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2007.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2007
+    },
     "games": {
       "id": "media-awardWinner-2007",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2007
     }
   },
-  "contentHash": "987f42981a3cdac1a829b7112e70d738bce29798d0e42741fad54b8641bd3270",
+  "contentHash": "6411bf139e0fc077aebfdd1e55269a26db7a3769f879d97ce5e4f8eac618d117",
   "country": "es",
   "schemaVersion": 1,
   "year": 2007

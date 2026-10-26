@@ -1,10 +1,1859 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1993-01-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone 2: Lost in New York"
+            }
+          ],
+          "startDate": "1993-01-01"
+        },
+        {
+          "endDate": "1993-01-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bram Stoker's Dracula"
+            }
+          ],
+          "startDate": "1993-01-06"
+        },
+        {
+          "endDate": "1993-01-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beauty and the Beast"
+            }
+          ],
+          "startDate": "1993-01-07"
+        },
+        {
+          "endDate": "1993-01-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone 2: Lost in New York"
+            }
+          ],
+          "startDate": "1993-01-08"
+        },
+        {
+          "endDate": "1993-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bodyguard"
+            }
+          ],
+          "startDate": "1993-01-12"
+        },
+        {
+          "endDate": "1993-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bram Stoker's Dracula"
+            }
+          ],
+          "startDate": "1993-01-13"
+        },
+        {
+          "endDate": "1993-01-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bodyguard"
+            }
+          ],
+          "startDate": "1993-01-14"
+        },
+        {
+          "endDate": "1993-01-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone 2: Lost in New York"
+            }
+          ],
+          "startDate": "1993-01-15"
+        },
+        {
+          "endDate": "1993-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bodyguard"
+            }
+          ],
+          "startDate": "1993-01-17"
+        },
+        {
+          "endDate": "1993-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bram Stoker's Dracula"
+            }
+          ],
+          "startDate": "1993-01-19"
+        },
+        {
+          "endDate": "1993-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bodyguard"
+            }
+          ],
+          "startDate": "1993-01-20"
+        },
+        {
+          "endDate": "1993-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bram Stoker's Dracula"
+            }
+          ],
+          "startDate": "1993-01-26"
+        },
+        {
+          "endDate": "1993-02-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bodyguard"
+            }
+          ],
+          "startDate": "1993-01-27"
+        },
+        {
+          "endDate": "1993-02-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-02-02"
+        },
+        {
+          "endDate": "1993-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bodyguard"
+            }
+          ],
+          "startDate": "1993-02-03"
+        },
+        {
+          "endDate": "1993-02-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bram Stoker's Dracula"
+            }
+          ],
+          "startDate": "1993-02-04"
+        },
+        {
+          "endDate": "1993-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bodyguard"
+            }
+          ],
+          "startDate": "1993-02-05"
+        },
+        {
+          "endDate": "1993-02-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-02-09"
+        },
+        {
+          "endDate": "1993-02-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bodyguard"
+            }
+          ],
+          "startDate": "1993-02-10"
+        },
+        {
+          "endDate": "1993-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-02-16"
+        },
+        {
+          "endDate": "1993-02-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unforgiven"
+            }
+          ],
+          "startDate": "1993-02-17"
+        },
+        {
+          "endDate": "1993-02-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bodyguard"
+            }
+          ],
+          "startDate": "1993-02-19"
+        },
+        {
+          "endDate": "1993-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-02-23"
+        },
+        {
+          "endDate": "1993-02-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unforgiven"
+            }
+          ],
+          "startDate": "1993-02-24"
+        },
+        {
+          "endDate": "1993-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Few Good Men"
+            }
+          ],
+          "startDate": "1993-02-26"
+        },
+        {
+          "endDate": "1993-03-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-03-02"
+        },
+        {
+          "endDate": "1993-03-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unforgiven"
+            }
+          ],
+          "startDate": "1993-03-03"
+        },
+        {
+          "endDate": "1993-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Few Good Men"
+            }
+          ],
+          "startDate": "1993-03-05"
+        },
+        {
+          "endDate": "1993-03-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-03-09"
+        },
+        {
+          "endDate": "1993-03-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Last of the Mohicans"
+            }
+          ],
+          "startDate": "1993-03-10"
+        },
+        {
+          "endDate": "1993-03-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-03-16"
+        },
+        {
+          "endDate": "1993-03-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Last of the Mohicans"
+            }
+          ],
+          "startDate": "1993-03-17"
+        },
+        {
+          "endDate": "1993-03-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-03-23"
+        },
+        {
+          "endDate": "1993-03-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scent of a Woman"
+            }
+          ],
+          "startDate": "1993-03-24"
+        },
+        {
+          "endDate": "1993-03-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Last of the Mohicans"
+            }
+          ],
+          "startDate": "1993-03-26"
+        },
+        {
+          "endDate": "1993-03-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-03-30"
+        },
+        {
+          "endDate": "1993-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forever Young"
+            }
+          ],
+          "startDate": "1993-03-31"
+        },
+        {
+          "endDate": "1993-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Last of the Mohicans"
+            }
+          ],
+          "startDate": "1993-04-02"
+        },
+        {
+          "endDate": "1993-04-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-04-06"
+        },
+        {
+          "endDate": "1993-04-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Loaded Weapon 1"
+            }
+          ],
+          "startDate": "1993-04-07"
+        },
+        {
+          "endDate": "1993-04-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Last of the Mohicans"
+            }
+          ],
+          "startDate": "1993-04-09"
+        },
+        {
+          "endDate": "1993-04-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Jungle Book"
+            }
+          ],
+          "startDate": "1993-04-13"
+        },
+        {
+          "endDate": "1993-04-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Reckless Kelly"
+            }
+          ],
+          "startDate": "1993-04-14"
+        },
+        {
+          "endDate": "1993-04-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Last of the Mohicans"
+            }
+          ],
+          "startDate": "1993-04-16"
+        },
+        {
+          "endDate": "1993-04-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Jungle Book"
+            }
+          ],
+          "startDate": "1993-04-20"
+        },
+        {
+          "endDate": "1993-04-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Reckless Kelly"
+            }
+          ],
+          "startDate": "1993-04-21"
+        },
+        {
+          "endDate": "1993-04-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "RoboCop 3"
+            }
+          ],
+          "startDate": "1993-04-23"
+        },
+        {
+          "endDate": "1993-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Jungle Book"
+            }
+          ],
+          "startDate": "1993-04-27"
+        },
+        {
+          "endDate": "1993-04-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indecent Proposal"
+            }
+          ],
+          "startDate": "1993-04-28"
+        },
+        {
+          "endDate": "1993-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sister Act"
+            }
+          ],
+          "startDate": "1993-04-30"
+        },
+        {
+          "endDate": "1993-05-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-05-04"
+        },
+        {
+          "endDate": "1993-05-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indecent Proposal"
+            }
+          ],
+          "startDate": "1993-05-05"
+        },
+        {
+          "endDate": "1993-05-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sister Act"
+            }
+          ],
+          "startDate": "1993-05-07"
+        },
+        {
+          "endDate": "1993-05-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-05-11"
+        },
+        {
+          "endDate": "1993-05-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indecent Proposal"
+            }
+          ],
+          "startDate": "1993-05-12"
+        },
+        {
+          "endDate": "1993-05-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sister Act"
+            }
+          ],
+          "startDate": "1993-05-14"
+        },
+        {
+          "endDate": "1993-05-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indecent Proposal"
+            }
+          ],
+          "startDate": "1993-05-18"
+        },
+        {
+          "endDate": "1993-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Under Siege"
+            }
+          ],
+          "startDate": "1993-05-21"
+        },
+        {
+          "endDate": "1993-05-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-05-25"
+        },
+        {
+          "endDate": "1993-05-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indecent Proposal"
+            }
+          ],
+          "startDate": "1993-05-26"
+        },
+        {
+          "endDate": "1993-06-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-06-01"
+        },
+        {
+          "endDate": "1993-06-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Falling Down"
+            }
+          ],
+          "startDate": "1993-06-02"
+        },
+        {
+          "endDate": "1993-06-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indecent Proposal"
+            }
+          ],
+          "startDate": "1993-06-04"
+        },
+        {
+          "endDate": "1993-06-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-06-08"
+        },
+        {
+          "endDate": "1993-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-06-09"
+        },
+        {
+          "endDate": "1993-06-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-06-10"
+        },
+        {
+          "endDate": "1993-06-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indecent Proposal"
+            }
+          ],
+          "startDate": "1993-06-11"
+        },
+        {
+          "endDate": "1993-06-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-06-15"
+        },
+        {
+          "endDate": "1993-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-06-16"
+        },
+        {
+          "endDate": "1993-06-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-06-17"
+        },
+        {
+          "endDate": "1993-06-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indecent Proposal"
+            }
+          ],
+          "startDate": "1993-06-18"
+        },
+        {
+          "endDate": "1993-06-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fanfan"
+            }
+          ],
+          "startDate": "1993-06-22"
+        },
+        {
+          "endDate": "1993-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-06-23"
+        },
+        {
+          "endDate": "1993-06-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-06-24"
+        },
+        {
+          "endDate": "1993-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indecent Proposal"
+            }
+          ],
+          "startDate": "1993-06-25"
+        },
+        {
+          "endDate": "1993-06-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Made in America"
+            }
+          ],
+          "startDate": "1993-06-29"
+        },
+        {
+          "endDate": "1993-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-06-30"
+        },
+        {
+          "endDate": "1993-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-07-01"
+        },
+        {
+          "endDate": "1993-07-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hot Shots! Part Deux"
+            }
+          ],
+          "startDate": "1993-07-02"
+        },
+        {
+          "endDate": "1993-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1993-07-04"
+        },
+        {
+          "endDate": "1993-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Made in America"
+            }
+          ],
+          "startDate": "1993-07-06"
+        },
+        {
+          "endDate": "1993-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-07-07"
+        },
+        {
+          "endDate": "1993-07-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-07-08"
+        },
+        {
+          "endDate": "1993-07-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hot Shots! Part Deux"
+            }
+          ],
+          "startDate": "1993-07-09"
+        },
+        {
+          "endDate": "1993-07-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "RoboCop 3"
+            }
+          ],
+          "startDate": "1993-07-13"
+        },
+        {
+          "endDate": "1993-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1993-07-14"
+        },
+        {
+          "endDate": "1993-07-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-07-15"
+        },
+        {
+          "endDate": "1993-07-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hot Shots! Part Deux"
+            }
+          ],
+          "startDate": "1993-07-16"
+        },
+        {
+          "endDate": "1993-07-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-07-20"
+        },
+        {
+          "endDate": "1993-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1993-07-21"
+        },
+        {
+          "endDate": "1993-07-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-07-22"
+        },
+        {
+          "endDate": "1993-07-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-07-23"
+        },
+        {
+          "endDate": "1993-07-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-07-27"
+        },
+        {
+          "endDate": "1993-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Firm"
+            }
+          ],
+          "startDate": "1993-07-28"
+        },
+        {
+          "endDate": "1993-07-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-07-29"
+        },
+        {
+          "endDate": "1993-08-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-07-30"
+        },
+        {
+          "endDate": "1993-08-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-08-03"
+        },
+        {
+          "endDate": "1993-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Firm"
+            }
+          ],
+          "startDate": "1993-08-04"
+        },
+        {
+          "endDate": "1993-08-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-08-05"
+        },
+        {
+          "endDate": "1993-08-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-08-06"
+        },
+        {
+          "endDate": "1993-08-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Les Visiteurs"
+            }
+          ],
+          "startDate": "1993-08-10"
+        },
+        {
+          "endDate": "1993-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sleepless in Seattle"
+            }
+          ],
+          "startDate": "1993-08-11"
+        },
+        {
+          "endDate": "1993-08-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-08-12"
+        },
+        {
+          "endDate": "1993-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-08-13"
+        },
+        {
+          "endDate": "1993-08-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Last Action Hero"
+            }
+          ],
+          "startDate": "1993-08-17"
+        },
+        {
+          "endDate": "1993-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-08-18"
+        },
+        {
+          "endDate": "1993-08-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-08-19"
+        },
+        {
+          "endDate": "1993-08-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-08-20"
+        },
+        {
+          "endDate": "1993-08-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Last Action Hero"
+            }
+          ],
+          "startDate": "1993-08-24"
+        },
+        {
+          "endDate": "1993-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-08-25"
+        },
+        {
+          "endDate": "1993-08-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-08-26"
+        },
+        {
+          "endDate": "1993-08-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-08-27"
+        },
+        {
+          "endDate": "1993-08-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hot Shots! Part Deux"
+            }
+          ],
+          "startDate": "1993-08-31"
+        },
+        {
+          "endDate": "1993-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-09-01"
+        },
+        {
+          "endDate": "1993-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-09-02"
+        },
+        {
+          "endDate": "1993-09-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-09-03"
+        },
+        {
+          "endDate": "1993-09-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-09-07"
+        },
+        {
+          "endDate": "1993-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-09-08"
+        },
+        {
+          "endDate": "1993-09-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Piano"
+            }
+          ],
+          "startDate": "1993-09-09"
+        },
+        {
+          "endDate": "1993-09-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-09-10"
+        },
+        {
+          "endDate": "1993-09-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-09-14"
+        },
+        {
+          "endDate": "1993-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-09-15"
+        },
+        {
+          "endDate": "1993-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-09-16"
+        },
+        {
+          "endDate": "1993-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-09-17"
+        },
+        {
+          "endDate": "1993-09-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-09-21"
+        },
+        {
+          "endDate": "1993-09-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-09-22"
+        },
+        {
+          "endDate": "1993-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-09-24"
+        },
+        {
+          "endDate": "1993-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-09-29"
+        },
+        {
+          "endDate": "1993-10-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-10-01"
+        },
+        {
+          "endDate": "1993-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Germinal"
+            }
+          ],
+          "startDate": "1993-10-05"
+        },
+        {
+          "endDate": "1993-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-10-06"
+        },
+        {
+          "endDate": "1993-10-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-10-08"
+        },
+        {
+          "endDate": "1993-10-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Germinal"
+            }
+          ],
+          "startDate": "1993-10-12"
+        },
+        {
+          "endDate": "1993-10-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-10-13"
+        },
+        {
+          "endDate": "1993-10-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-10-15"
+        },
+        {
+          "endDate": "1993-10-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Germinal"
+            }
+          ],
+          "startDate": "1993-10-19"
+        },
+        {
+          "endDate": "1993-10-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-10-20"
+        },
+        {
+          "endDate": "1993-10-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-10-22"
+        },
+        {
+          "endDate": "1993-10-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-10-26"
+        },
+        {
+          "endDate": "1993-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "In the Line of Fire"
+            }
+          ],
+          "startDate": "1993-10-27"
+        },
+        {
+          "endDate": "1993-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Firm"
+            }
+          ],
+          "startDate": "1993-10-28"
+        },
+        {
+          "endDate": "1993-11-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fugitive"
+            }
+          ],
+          "startDate": "1993-10-29"
+        },
+        {
+          "endDate": "1993-11-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-11-02"
+        },
+        {
+          "endDate": "1993-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rising Sun"
+            }
+          ],
+          "startDate": "1993-11-03"
+        },
+        {
+          "endDate": "1993-11-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1993-11-04"
+        },
+        {
+          "endDate": "1993-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sliver"
+            }
+          ],
+          "startDate": "1993-11-05"
+        },
+        {
+          "endDate": "1993-11-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-11-09"
+        },
+        {
+          "endDate": "1993-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rising Sun"
+            }
+          ],
+          "startDate": "1993-11-10"
+        },
+        {
+          "endDate": "1993-11-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1993-11-11"
+        },
+        {
+          "endDate": "1993-11-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sliver"
+            }
+          ],
+          "startDate": "1993-11-12"
+        },
+        {
+          "endDate": "1993-11-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-11-16"
+        },
+        {
+          "endDate": "1993-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Point of No Return"
+            }
+          ],
+          "startDate": "1993-11-17"
+        },
+        {
+          "endDate": "1993-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Man Without a Face"
+            }
+          ],
+          "startDate": "1993-11-18"
+        },
+        {
+          "endDate": "1993-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sliver"
+            }
+          ],
+          "startDate": "1993-11-19"
+        },
+        {
+          "endDate": "1993-11-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic Park"
+            }
+          ],
+          "startDate": "1993-11-23"
+        },
+        {
+          "endDate": "1993-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Malice"
+            }
+          ],
+          "startDate": "1993-11-24"
+        },
+        {
+          "endDate": "1993-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rising Sun"
+            }
+          ],
+          "startDate": "1993-11-25"
+        },
+        {
+          "endDate": "1993-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sliver"
+            }
+          ],
+          "startDate": "1993-11-26"
+        },
+        {
+          "endDate": "1993-11-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-11-30"
+        },
+        {
+          "endDate": "1993-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Addams Family Values"
+            }
+          ],
+          "startDate": "1993-12-01"
+        },
+        {
+          "endDate": "1993-12-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rising Sun"
+            }
+          ],
+          "startDate": "1993-12-02"
+        },
+        {
+          "endDate": "1993-12-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sliver"
+            }
+          ],
+          "startDate": "1993-12-03"
+        },
+        {
+          "endDate": "1993-12-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-12-07"
+        },
+        {
+          "endDate": "1993-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Demolition Man"
+            }
+          ],
+          "startDate": "1993-12-08"
+        },
+        {
+          "endDate": "1993-12-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-12-09"
+        },
+        {
+          "endDate": "1993-12-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1993-12-10"
+        },
+        {
+          "endDate": "1993-12-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-12-14"
+        },
+        {
+          "endDate": "1993-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Demolition Man"
+            }
+          ],
+          "startDate": "1993-12-15"
+        },
+        {
+          "endDate": "1993-12-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-12-16"
+        },
+        {
+          "endDate": "1993-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1993-12-17"
+        },
+        {
+          "endDate": "1993-12-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-12-21"
+        },
+        {
+          "endDate": "1993-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1993-12-22"
+        },
+        {
+          "endDate": "1993-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-12-23"
+        },
+        {
+          "endDate": "1993-12-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1993-12-24"
+        },
+        {
+          "endDate": "1993-12-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1993-12-28"
+        },
+        {
+          "endDate": "1993-12-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1993-12-29"
+        },
+        {
+          "endDate": "1993-12-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Son of the Pink Panther"
+            }
+          ],
+          "startDate": "1993-12-30"
+        },
+        {
+          "endDate": "1993-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1993-12-31"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1993-05-16",
+          "endDate": "1993-02-12",
+          "items": [
+            {
+              "artist": "Whitney Houston",
+              "rank": 1,
+              "title": "I Will Always Love You"
+            }
+          ],
+          "startDate": "1993-01-01"
+        },
+        {
+          "endDate": "1993-03-19",
+          "items": [
+            {
+              "artist": "2 Unlimited",
+              "rank": 1,
+              "title": "No Limit"
+            }
+          ],
+          "startDate": "1993-02-13"
+        },
+        {
+          "endDate": "1993-04-02",
+          "items": [
+            {
+              "artist": "Shaggy",
+              "rank": 1,
+              "title": "Oh Carolina"
+            }
+          ],
+          "startDate": "1993-03-20"
+        },
+        {
+          "endDate": "1993-04-30",
+          "items": [
+            {
+              "artist": "The Bluebells",
+              "rank": 1,
+              "title": "Young at Heart"
+            }
+          ],
+          "startDate": "1993-04-03"
+        },
+        {
+          "endDate": "1993-05-09",
+          "items": [
+            {
+              "artist": "George Michael and Queen with Lisa Stansfield",
+              "rank": 1,
+              "title": "Five Live (EP)"
+            }
+          ],
+          "startDate": "1993-05-01"
+        },
+        {
+          "endDate": "1993-05-14",
           "items": [
             {
               "artist": "UB40",
@@ -15,7 +1864,95 @@
           "startDate": "1993-05-10"
         },
         {
-          "endDate": "1993-10-03",
+          "endDate": "1993-05-21",
+          "items": [
+            {
+              "artist": "George Michael and Queen with Lisa Stansfield",
+              "rank": 1,
+              "title": "Five Live (EP)"
+            }
+          ],
+          "startDate": "1993-05-15"
+        },
+        {
+          "endDate": "1993-06-11",
+          "items": [
+            {
+              "artist": "Ace of Base",
+              "rank": 1,
+              "title": "All That She Wants"
+            }
+          ],
+          "startDate": "1993-05-22"
+        },
+        {
+          "endDate": "1993-06-25",
+          "items": [
+            {
+              "artist": "UB40",
+              "rank": 1,
+              "title": "(I Can't Help) Falling in Love With You"
+            }
+          ],
+          "startDate": "1993-06-12"
+        },
+        {
+          "endDate": "1993-07-16",
+          "items": [
+            {
+              "artist": "Gabrielle",
+              "rank": 1,
+              "title": "Dreams"
+            }
+          ],
+          "startDate": "1993-06-26"
+        },
+        {
+          "endDate": "1993-08-13",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Pray"
+            }
+          ],
+          "startDate": "1993-07-17"
+        },
+        {
+          "endDate": "1993-08-27",
+          "items": [
+            {
+              "artist": "Freddie Mercury",
+              "rank": 1,
+              "title": "Living on My Own"
+            }
+          ],
+          "startDate": "1993-08-14"
+        },
+        {
+          "endDate": "1993-09-24",
+          "items": [
+            {
+              "artist": "Culture Beat",
+              "rank": 1,
+              "title": "Mr. Vain"
+            }
+          ],
+          "startDate": "1993-08-28"
+        },
+        {
+          "endDate": "1993-09-26",
+          "items": [
+            {
+              "artist": "DJ Jazzy Jeff & the Fresh Prince",
+              "rank": 1,
+              "title": "Boom! Shake the Room"
+            }
+          ],
+          "startDate": "1993-09-25"
+        },
+        {
+          "endDate": "1993-10-01",
           "items": [
             {
               "artist": "Meat Loaf",
@@ -26,7 +1963,40 @@
           "startDate": "1993-09-27"
         },
         {
-          "endDate": "1993-11-28",
+          "endDate": "1993-10-08",
+          "items": [
+            {
+              "artist": "DJ Jazzy Jeff & the Fresh Prince",
+              "rank": 1,
+              "title": "Boom! Shake the Room"
+            }
+          ],
+          "startDate": "1993-10-02"
+        },
+        {
+          "endDate": "1993-10-22",
+          "items": [
+            {
+              "artist": "Take That featuring Lulu",
+              "rank": 1,
+              "title": "Relight My Fire"
+            }
+          ],
+          "startDate": "1993-10-09"
+        },
+        {
+          "endDate": "1993-11-21",
+          "items": [
+            {
+              "artist": "Meat Loaf",
+              "rank": 1,
+              "title": "I'd Do Anything for Love (But I Won't Do That)"
+            }
+          ],
+          "startDate": "1993-10-23"
+        },
+        {
+          "endDate": "1993-11-26",
           "items": [
             {
               "artist": "Mr Blobby",
@@ -37,7 +2007,18 @@
           "startDate": "1993-11-22"
         },
         {
-          "endDate": "1993-12-12",
+          "endDate": "1993-12-05",
+          "items": [
+            {
+              "artist": "Meat Loaf",
+              "rank": 1,
+              "title": "I'd Do Anything for Love (But I Won't Do That)"
+            }
+          ],
+          "startDate": "1993-11-27"
+        },
+        {
+          "endDate": "1993-12-10",
           "items": [
             {
               "artist": "Take That",
@@ -46,12 +2027,45 @@
             }
           ],
           "startDate": "1993-12-06"
+        },
+        {
+          "endDate": "1993-12-17",
+          "items": [
+            {
+              "artist": "Mr Blobby",
+              "rank": 1,
+              "title": "Mr Blobby"
+            }
+          ],
+          "startDate": "1993-12-11"
+        },
+        {
+          "endDate": "1993-12-24",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Babe"
+            }
+          ],
+          "startDate": "1993-12-18"
+        },
+        {
+          "endDate": "1993-12-31",
+          "items": [
+            {
+              "artist": "Mr Blobby",
+              "rank": 1,
+              "title": "Mr Blobby"
+            }
+          ],
+          "startDate": "1993-12-25"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -59,7 +2073,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "875688a5a9e0a89ac4ec06bf77c8b8d436cc265e77c6deddd045213d5946d772",
+  "contentHash": "4e20dd58a80582e51c41023aeb3df877bfb55f964ec9e45f71f33c1da141cf07",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1993

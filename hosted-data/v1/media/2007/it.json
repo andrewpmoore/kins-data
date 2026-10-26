@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2007",
+      "items": [
+        {
+          "author": "Khaled Hosseini",
+          "creator": "Khaled Hosseini",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Il cacciatore di aquiloni",
+          "url": "https://books.google.com/books?q=Il+cacciatore+di+aquiloni"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2007.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2007
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2007",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Harry Potter e i Doni della Morte",
+          "url": "https://books.google.com/books?q=Harry+Potter+e+i+Doni+della+Morte"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2007.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2007
+    },
     "games": {
       "id": "media-awardWinner-2007",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2007
     }
   },
-  "contentHash": "987f42981a3cdac1a829b7112e70d738bce29798d0e42741fad54b8641bd3270",
+  "contentHash": "ab8fce7818ab30428a05f99d9fdbd2e402c4cffa11f5a9520311c34d0c21f833",
   "country": "it",
   "schemaVersion": 1,
   "year": 2007

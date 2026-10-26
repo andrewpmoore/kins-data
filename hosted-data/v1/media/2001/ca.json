@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2001",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2001&idGame=572",
+          "artworkURL": "https://www.interactive.org/images/games/2001_diablo_ii_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "Diablo II"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2001&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2001
+    }
+  },
+  "contentHash": "e1ad353211f52d1714dddb9bb5e26516d870df062c7caeb1e1bfbabb138385c1",
+  "country": "ca",
+  "schemaVersion": 1,
+  "year": 2001
+}

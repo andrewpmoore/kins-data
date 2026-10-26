@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2005",
+      "items": [
+        {
+          "author": "Stieg Larsson",
+          "creator": "Stieg Larsson",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Los hombres que no amaban a las mujeres",
+          "url": "https://books.google.com/books?q=Los+hombres+que+no+amaban+a+las+mujeres"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2005.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2005
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2005",
+      "items": [
+        {
+          "author": "Laura Gallego",
+          "creator": "Laura Gallego",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Memorias de Idhún 2: Tríada",
+          "url": "https://books.google.com/books?q=Memorias+de+Idhún+2:+Tríada"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2005.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2005
+    },
     "games": {
       "id": "media-awardWinner-2005",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2005
     }
   },
-  "contentHash": "2f8c36f4b92b1ffea55ac7f0e91fd97f3c3e91d8c9889be6f146ad77fb826f80",
+  "contentHash": "e9f9cd624d04e8815387c230d48dc0dc824b59c705b00760d7623941f3f2c71d",
   "country": "es",
   "schemaVersion": 1,
   "year": 2005

@@ -15,6 +15,39 @@
           "startDate": "2022-01-21"
         },
         {
+          "endDate": "2022-03-24",
+          "items": [
+            {
+              "artist": "Dave",
+              "rank": 1,
+              "title": "Starlight"
+            }
+          ],
+          "startDate": "2022-03-18"
+        },
+        {
+          "endDate": "2022-04-14",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "As It Was"
+            }
+          ],
+          "startDate": "2022-04-08"
+        },
+        {
+          "endDate": "2022-04-28",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "As It Was"
+            }
+          ],
+          "startDate": "2022-04-22"
+        },
+        {
           "endDate": "2022-07-14",
           "items": [
             {
@@ -59,6 +92,39 @@
           "startDate": "2022-09-23"
         },
         {
+          "endDate": "2022-10-06",
+          "items": [
+            {
+              "artist": "Sam Smith and Kim Petras",
+              "rank": 1,
+              "title": "Unholy"
+            }
+          ],
+          "startDate": "2022-09-30"
+        },
+        {
+          "endDate": "2022-11-24",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Anti-Hero"
+            }
+          ],
+          "startDate": "2022-11-18"
+        },
+        {
+          "endDate": "2022-12-08",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Anti-Hero"
+            }
+          ],
+          "startDate": "2022-12-02"
+        },
+        {
           "endDate": "2022-12-29",
           "items": [
             {
@@ -81,7 +147,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "f8f072237a8e6071269f385850238c9240d413cf1813e6c9c7cad38865b1e421",
+  "contentHash": "0953016b48b8ae54ff01c385e701012d3cd12f5baf261ee72a30f4059250fb81",
   "country": "ie",
   "schemaVersion": 1,
   "year": 2022

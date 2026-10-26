@@ -31,7 +31,7 @@
             {
               "artist": "Ronny",
               "rank": 1,
-              "title": "Kenn ein Land\" / \"Kleine Annabell"
+              "title": "Kenn ein Land / Kleine Annabell"
             }
           ],
           "startDate": "1965-01-15"
@@ -75,7 +75,7 @@
             {
               "artist": "Ronny",
               "rank": 1,
-              "title": "Kenn ein Land\" / \"Kleine Annabell"
+              "title": "Kenn ein Land / Kleine Annabell"
             }
           ],
           "startDate": "1965-03-01"
@@ -134,6 +134,17 @@
             }
           ],
           "startDate": "1965-03-27"
+        },
+        {
+          "endDate": "1965-05-07",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "The Last Time"
+            }
+          ],
+          "startDate": "1965-05-01"
         },
         {
           "endDate": "1965-05-21",
@@ -260,7 +271,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -268,7 +279,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "19517b46913bbdceda0c3a717337f0862de2653b6717a2474a033fb79f5e46b9",
+  "contentHash": "74e07c5ef2059015ce9198f8a27d83ec2baeda7d6e7c29169ef59a49a95c0d0a",
   "country": "de",
   "schemaVersion": 1,
   "year": 1965

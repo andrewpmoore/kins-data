@@ -1,145 +1,533 @@
 {
   "charts": {
-    "music": {
-      "id": "legacy-national-number-one-single",
+    "movies": {
+      "id": "legacy-national-number-one-film",
       "periods": [
         {
-          "endDate": "2025-01-04",
+          "endDate": "2025-02-01",
           "items": [
             {
-              "artist": "Rosé and Bruno Mars",
               "rank": 1,
-              "title": "Apt.\" ◁"
+              "title": "Mufasa: The Lion King"
             }
           ],
           "startDate": "2025-01-01"
         },
         {
-          "endDate": "2025-02-01",
+          "endDate": "2025-02-08",
           "items": [
             {
-              "artist": "Rosé and Bruno Mars",
               "rank": 1,
-              "title": "Apt.\" ◁"
+              "title": "A Complete Unknown"
             }
           ],
-          "startDate": "2025-01-19"
+          "startDate": "2025-02-02"
         },
         {
-          "endDate": "2025-02-22",
+          "endDate": "2025-02-15",
           "items": [
             {
-              "artist": "Rosé and Bruno Mars",
               "rank": 1,
-              "title": "Apt.\" ◁"
+              "title": "God Save the Tuche"
             }
           ],
           "startDate": "2025-02-09"
         },
         {
+          "endDate": "2025-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Captain America: Brave New World"
+            }
+          ],
+          "startDate": "2025-02-16"
+        },
+        {
           "endDate": "2025-03-22",
           "items": [
             {
-              "artist": "Rosé and Bruno Mars",
               "rank": 1,
-              "title": "Apt.\" ◁"
+              "title": "Mickey 17"
             }
           ],
-          "startDate": "2025-03-02"
+          "startDate": "2025-03-09"
         },
         {
-          "endDate": "2025-04-12",
+          "endDate": "2025-03-29",
           "items": [
             {
-              "artist": "Doechii",
               "rank": 1,
-              "title": "Anxiety"
+              "title": "Snow White"
+            }
+          ],
+          "startDate": "2025-03-23"
+        },
+        {
+          "endDate": "2025-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Once Upon My Mother"
+            }
+          ],
+          "startDate": "2025-03-30"
+        },
+        {
+          "endDate": "2025-04-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Minecraft Movie"
             }
           ],
           "startDate": "2025-04-06"
         },
         {
-          "endDate": "2025-05-10",
+          "endDate": "2025-05-03",
           "items": [
             {
-              "artist": "Lola Young",
               "rank": 1,
-              "title": "Messy"
+              "title": "Star Wars: Episode III - Revenge of the Sith20th anniversary"
+            }
+          ],
+          "startDate": "2025-04-27"
+        },
+        {
+          "endDate": "2025-05-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Thunderbolts"
             }
           ],
           "startDate": "2025-05-04"
         },
         {
+          "endDate": "2025-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Final Destination: Bloodlines"
+            }
+          ],
+          "startDate": "2025-05-18"
+        },
+        {
+          "endDate": "2025-06-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lilo & Stitch"
+            }
+          ],
+          "startDate": "2025-05-25"
+        },
+        {
+          "endDate": "2025-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How to Train Your Dragon"
+            }
+          ],
+          "startDate": "2025-06-15"
+        },
+        {
+          "endDate": "2025-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "F1: The Movie"
+            }
+          ],
+          "startDate": "2025-06-29"
+        },
+        {
           "endDate": "2025-07-19",
           "items": [
             {
-              "artist": "Bleu Soleil and Luiza",
               "rank": 1,
-              "title": "Soleil bleu"
+              "title": "Jurassic World: Rebirth"
             }
           ],
-          "startDate": "2025-07-13"
+          "startDate": "2025-07-06"
         },
         {
-          "endDate": "2025-08-02",
+          "endDate": "2025-07-26",
           "items": [
             {
-              "artist": "Bleu Soleil and Luiza",
               "rank": 1,
-              "title": "Soleil bleu"
+              "title": "Smurfs"
+            }
+          ],
+          "startDate": "2025-07-20"
+        },
+        {
+          "endDate": "2025-08-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fantastic Four: First Steps"
             }
           ],
           "startDate": "2025-07-27"
         },
         {
+          "endDate": "2025-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Weapons"
+            }
+          ],
+          "startDate": "2025-08-10"
+        },
+        {
+          "endDate": "2025-08-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Karate Kid: Legends"
+            }
+          ],
+          "startDate": "2025-08-17"
+        },
+        {
+          "endDate": "2025-09-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bad Guys 2"
+            }
+          ],
+          "startDate": "2025-08-24"
+        },
+        {
           "endDate": "2025-09-13",
           "items": [
             {
-              "artist": "Bleu Soleil and Luiza",
               "rank": 1,
-              "title": "Soleil bleu"
+              "title": "Prime Rush"
             }
           ],
           "startDate": "2025-09-07"
         },
         {
+          "endDate": "2025-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Conjuring: Last Rites"
+            }
+          ],
+          "startDate": "2025-09-14"
+        },
+        {
+          "endDate": "2025-10-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle"
+            }
+          ],
+          "startDate": "2025-09-21"
+        },
+        {
+          "endDate": "2025-10-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Battle After Another"
+            }
+          ],
+          "startDate": "2025-10-05"
+        },
+        {
+          "endDate": "2025-10-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tron: Ares"
+            }
+          ],
+          "startDate": "2025-10-12"
+        },
+        {
+          "endDate": "2025-10-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dog 51"
+            }
+          ],
+          "startDate": "2025-10-19"
+        },
+        {
           "endDate": "2025-11-01",
           "items": [
             {
-              "artist": "Bleu Soleil and Luiza",
               "rank": 1,
-              "title": "Soleil bleu"
+              "title": "Kaamelott: The Second Chapter"
             }
           ],
           "startDate": "2025-10-26"
         },
         {
-          "endDate": "2025-11-29",
+          "endDate": "2025-11-08",
           "items": [
             {
-              "artist": "Bleu Soleil and Luiza",
               "rank": 1,
-              "title": "Soleil bleu"
+              "title": "The Richest Woman in the World"
+            }
+          ],
+          "startDate": "2025-11-02"
+        },
+        {
+          "endDate": "2025-11-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Class Reunion"
+            }
+          ],
+          "startDate": "2025-11-09"
+        },
+        {
+          "endDate": "2025-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Now You See Me: Now You Don't"
             }
           ],
           "startDate": "2025-11-16"
         },
         {
-          "endDate": "2025-12-13",
+          "endDate": "2025-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wicked: For Good"
+            }
+          ],
+          "startDate": "2025-11-23"
+        },
+        {
+          "endDate": "2025-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Zootopia 2"
+            }
+          ],
+          "startDate": "2025-11-30"
+        },
+        {
+          "endDate": "2025-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar: Fire and Ash"
+            }
+          ],
+          "startDate": "2025-12-21"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2025-01-23",
+          "items": [
+            {
+              "artist": "Gazo",
+              "rank": 1,
+              "title": "Nanani Nanana"
+            }
+          ],
+          "startDate": "2025-01-01"
+        },
+        {
+          "endDate": "2025-01-30",
+          "items": [
+            {
+              "artist": "Bad Bunny",
+              "rank": 1,
+              "title": "DTMF"
+            }
+          ],
+          "startDate": "2025-01-24"
+        },
+        {
+          "endDate": "2025-03-13",
+          "items": [
+            {
+              "artist": "Gims",
+              "rank": 1,
+              "title": "Ciel"
+            }
+          ],
+          "startDate": "2025-01-31"
+        },
+        {
+          "endDate": "2025-04-17",
+          "items": [
+            {
+              "artist": "Gims",
+              "rank": 1,
+              "title": "Ninao"
+            }
+          ],
+          "startDate": "2025-03-14"
+        },
+        {
+          "endDate": "2025-04-24",
+          "items": [
+            {
+              "artist": "Werenoi, Damso and Ninho",
+              "rank": 1,
+              "title": "Triple V"
+            }
+          ],
+          "startDate": "2025-04-18"
+        },
+        {
+          "endDate": "2025-05-01",
+          "items": [
+            {
+              "artist": "Gims",
+              "rank": 1,
+              "title": "Ninao"
+            }
+          ],
+          "startDate": "2025-04-25"
+        },
+        {
+          "endDate": "2025-05-08",
+          "items": [
+            {
+              "artist": "Jul",
+              "rank": 1,
+              "title": "Phénoménal"
+            }
+          ],
+          "startDate": "2025-05-02"
+        },
+        {
+          "endDate": "2025-05-15",
+          "items": [
+            {
+              "artist": "Gims",
+              "rank": 1,
+              "title": "Ninao"
+            }
+          ],
+          "startDate": "2025-05-09"
+        },
+        {
+          "endDate": "2025-06-26",
+          "items": [
+            {
+              "artist": "Hamza",
+              "rank": 1,
+              "title": "Kyky2bondy"
+            }
+          ],
+          "startDate": "2025-05-16"
+        },
+        {
+          "endDate": "2025-07-17",
+          "items": [
+            {
+              "artist": "Gims and Jul",
+              "rank": 1,
+              "title": "Air Force blanche"
+            }
+          ],
+          "startDate": "2025-06-27"
+        },
+        {
+          "endDate": "2025-08-21",
           "items": [
             {
               "artist": "Bleu Soleil and Luiza",
               "rank": 1,
-              "title": "Soleil bleu"
+              "title": "Soleil Bleu"
             }
           ],
-          "startDate": "2025-12-07"
+          "startDate": "2025-07-18"
+        },
+        {
+          "endDate": "2025-09-18",
+          "items": [
+            {
+              "artist": "Gims and La Mano 1.9",
+              "rank": 1,
+              "title": "Parisienne"
+            }
+          ],
+          "startDate": "2025-08-22"
+        },
+        {
+          "endDate": "2025-09-25",
+          "items": [
+            {
+              "artist": "GP Explorer, Gims, La MANO 1.9 and SCH",
+              "rank": 1,
+              "title": "Un Monde à L'Autre"
+            }
+          ],
+          "startDate": "2025-09-19"
+        },
+        {
+          "endDate": "2025-10-09",
+          "items": [
+            {
+              "artist": "Gims and La Mano 1.9",
+              "rank": 1,
+              "title": "Parisienne"
+            }
+          ],
+          "startDate": "2025-09-26"
+        },
+        {
+          "endDate": "2025-10-16",
+          "items": [
+            {
+              "artist": "GP Explorer, Gims, La MANO 1.9 and SCH",
+              "rank": 1,
+              "title": "Un Monde à L'Autre"
+            }
+          ],
+          "startDate": "2025-10-10"
+        },
+        {
+          "endDate": "2025-12-31",
+          "items": [
+            {
+              "artist": "Disiz, Theodora",
+              "rank": 1,
+              "title": "Melodrama"
+            }
+          ],
+          "startDate": "2025-10-17"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-01",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -147,7 +535,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "3c25f89516d71d653f9be1339a187b6eafa51f39649fff33e1d3ddbfcfc6401e",
+  "contentHash": "3d394d62c9339a83e9f612c4b586ccbda7accec91cf7a9de290450d3ce2485d1",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2025

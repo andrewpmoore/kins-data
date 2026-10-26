@@ -1,5 +1,189 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1972-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Diamonds Are Forever"
+            }
+          ],
+          "startDate": "1972-01-01"
+        },
+        {
+          "endDate": "1972-02-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The French Connection"
+            }
+          ],
+          "startDate": "1972-02-09"
+        },
+        {
+          "endDate": "1972-02-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dirty Harry"
+            }
+          ],
+          "startDate": "1972-02-23"
+        },
+        {
+          "endDate": "1972-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Last Picture Show"
+            }
+          ],
+          "startDate": "1972-03-01"
+        },
+        {
+          "endDate": "1972-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hospital"
+            }
+          ],
+          "startDate": "1972-03-08"
+        },
+        {
+          "endDate": "1972-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dirty Harry"
+            }
+          ],
+          "startDate": "1972-03-15"
+        },
+        {
+          "endDate": "1972-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Godfather"
+            }
+          ],
+          "startDate": "1972-03-22"
+        },
+        {
+          "endDate": "1972-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Butterflies Are Free"
+            }
+          ],
+          "startDate": "1972-08-30"
+        },
+        {
+          "endDate": "1972-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Godfather"
+            }
+          ],
+          "startDate": "1972-09-06"
+        },
+        {
+          "endDate": "1972-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Super Fly"
+            }
+          ],
+          "startDate": "1972-09-27"
+        },
+        {
+          "endDate": "1972-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The New Centurions"
+            }
+          ],
+          "startDate": "1972-10-11"
+        },
+        {
+          "endDate": "1972-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Slaughter"
+            }
+          ],
+          "startDate": "1972-10-25"
+        },
+        {
+          "endDate": "1972-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Deliverance"
+            }
+          ],
+          "startDate": "1972-11-01"
+        },
+        {
+          "endDate": "1972-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Valachi Papers"
+            }
+          ],
+          "startDate": "1972-11-08"
+        },
+        {
+          "endDate": "1972-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lady Sings the Blues"
+            }
+          ],
+          "startDate": "1972-11-22"
+        },
+        {
+          "endDate": "1972-12-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Man of La Mancha"
+            }
+          ],
+          "startDate": "1972-12-20"
+        },
+        {
+          "endDate": "1972-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Poseidon Adventure"
+            }
+          ],
+          "startDate": "1972-12-27"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -9,13 +193,13 @@
             {
               "artist": "Benny Hill",
               "rank": 1,
-              "title": "Ernie"
+              "title": "Ernie (The Fastest Milkman in the West)"
             }
           ],
           "startDate": "1972-01-01"
         },
         {
-          "endDate": "1972-02-01",
+          "endDate": "1972-01-07",
           "items": [
             {
               "artist": "The New Seekers",
@@ -26,12 +210,89 @@
           "startDate": "1972-01-05"
         },
         {
-          "endDate": "1972-02-08",
+          "endDate": "1972-01-11",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "I'd Like to Teach the World to Sing (In Perfect Harmony)"
+            }
+          ],
+          "startDate": "1972-01-08"
+        },
+        {
+          "endDate": "1972-01-14",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "I'd Like to Teach the World to Sing"
+            }
+          ],
+          "startDate": "1972-01-12"
+        },
+        {
+          "endDate": "1972-01-18",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "I'd Like to Teach the World to Sing (In Perfect Harmony)"
+            }
+          ],
+          "startDate": "1972-01-15"
+        },
+        {
+          "endDate": "1972-01-21",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "I'd Like to Teach the World to Sing"
+            }
+          ],
+          "startDate": "1972-01-19"
+        },
+        {
+          "endDate": "1972-01-25",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "I'd Like to Teach the World to Sing (In Perfect Harmony)"
+            }
+          ],
+          "startDate": "1972-01-22"
+        },
+        {
+          "endDate": "1972-01-28",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "I'd Like to Teach the World to Sing"
+            }
+          ],
+          "startDate": "1972-01-26"
+        },
+        {
+          "endDate": "1972-02-01",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "I'd Like to Teach the World to Sing (In Perfect Harmony)"
+            }
+          ],
+          "startDate": "1972-01-29"
+        },
+        {
+          "endDate": "1972-02-04",
           "items": [
             {
               "artist": "America",
               "rank": 1,
-              "title": "A Horse with No Name\" ‡"
+              "title": "A Horse with No Name"
             }
           ],
           "startDate": "1972-02-02"
@@ -45,7 +306,7 @@
               "title": "Telegram Sam"
             }
           ],
-          "startDate": "1972-02-09"
+          "startDate": "1972-02-05"
         },
         {
           "endDate": "1972-02-29",
@@ -59,18 +320,29 @@
           "startDate": "1972-02-16"
         },
         {
-          "endDate": "1972-03-07",
+          "endDate": "1972-03-03",
           "items": [
             {
               "artist": "Don McLean",
               "rank": 1,
-              "title": "American Pie\" ‡"
+              "title": "American Pie"
             }
           ],
           "startDate": "1972-03-01"
         },
         {
-          "endDate": "1972-04-18",
+          "endDate": "1972-03-07",
+          "items": [
+            {
+              "artist": "Chicory Tip",
+              "rank": 1,
+              "title": "Son of My Father"
+            }
+          ],
+          "startDate": "1972-03-04"
+        },
+        {
+          "endDate": "1972-04-14",
           "items": [
             {
               "artist": "Nilsson",
@@ -89,10 +361,10 @@
               "title": "Amazing Grace"
             }
           ],
-          "startDate": "1972-04-19"
+          "startDate": "1972-04-15"
         },
         {
-          "endDate": "1972-06-13",
+          "endDate": "1972-05-19",
           "items": [
             {
               "artist": "T.Rex",
@@ -103,7 +375,84 @@
           "startDate": "1972-05-17"
         },
         {
-          "endDate": "1972-07-04",
+          "endDate": "1972-05-23",
+          "items": [
+            {
+              "artist": "T. Rex",
+              "rank": 1,
+              "title": "Metal Guru"
+            }
+          ],
+          "startDate": "1972-05-20"
+        },
+        {
+          "endDate": "1972-05-26",
+          "items": [
+            {
+              "artist": "T.Rex",
+              "rank": 1,
+              "title": "Metal Guru"
+            }
+          ],
+          "startDate": "1972-05-24"
+        },
+        {
+          "endDate": "1972-05-30",
+          "items": [
+            {
+              "artist": "T. Rex",
+              "rank": 1,
+              "title": "Metal Guru"
+            }
+          ],
+          "startDate": "1972-05-27"
+        },
+        {
+          "endDate": "1972-06-02",
+          "items": [
+            {
+              "artist": "T.Rex",
+              "rank": 1,
+              "title": "Metal Guru"
+            }
+          ],
+          "startDate": "1972-05-31"
+        },
+        {
+          "endDate": "1972-06-06",
+          "items": [
+            {
+              "artist": "T. Rex",
+              "rank": 1,
+              "title": "Metal Guru"
+            }
+          ],
+          "startDate": "1972-06-03"
+        },
+        {
+          "endDate": "1972-06-09",
+          "items": [
+            {
+              "artist": "T.Rex",
+              "rank": 1,
+              "title": "Metal Guru"
+            }
+          ],
+          "startDate": "1972-06-07"
+        },
+        {
+          "endDate": "1972-06-13",
+          "items": [
+            {
+              "artist": "T. Rex",
+              "rank": 1,
+              "title": "Metal Guru"
+            }
+          ],
+          "startDate": "1972-06-10"
+        },
+        {
+          "endDate": "1972-06-30",
           "items": [
             {
               "artist": "Don McLean",
@@ -114,7 +463,7 @@
           "startDate": "1972-06-14"
         },
         {
-          "endDate": "1972-07-11",
+          "endDate": "1972-07-07",
           "items": [
             {
               "artist": "Slade",
@@ -122,7 +471,7 @@
               "title": "Take Me Bak 'Ome"
             }
           ],
-          "startDate": "1972-07-05"
+          "startDate": "1972-07-01"
         },
         {
           "endDate": "1972-08-08",
@@ -133,7 +482,7 @@
               "title": "Puppy Love"
             }
           ],
-          "startDate": "1972-07-12"
+          "startDate": "1972-07-08"
         },
         {
           "endDate": "1972-08-29",
@@ -147,7 +496,7 @@
           "startDate": "1972-08-09"
         },
         {
-          "endDate": "1972-09-12",
+          "endDate": "1972-09-08",
           "items": [
             {
               "artist": "Rod Stewart",
@@ -166,15 +515,15 @@
               "title": "Mama Weer All Crazee Now"
             }
           ],
-          "startDate": "1972-09-13"
+          "startDate": "1972-09-09"
         },
         {
-          "endDate": "1972-10-03",
+          "endDate": "1972-09-29",
           "items": [
             {
               "artist": "T. Rex",
               "rank": 1,
-              "title": "Children of the Revolution\" ‡"
+              "title": "Children of the Revolution"
             }
           ],
           "startDate": "1972-09-27"
@@ -188,7 +537,7 @@
               "title": "How Can I Be Sure"
             }
           ],
-          "startDate": "1972-10-04"
+          "startDate": "1972-09-30"
         },
         {
           "endDate": "1972-11-02",
@@ -202,7 +551,7 @@
           "startDate": "1972-10-11"
         },
         {
-          "endDate": "1972-11-07",
+          "endDate": "1972-11-03",
           "items": [
             {
               "artist": "Simon Park",
@@ -211,6 +560,17 @@
             }
           ],
           "startDate": "1972-11-03"
+        },
+        {
+          "endDate": "1972-11-07",
+          "items": [
+            {
+              "artist": "Lieutenant Pigeon",
+              "rank": 1,
+              "title": "Mouldy Old Dough"
+            }
+          ],
+          "startDate": "1972-11-04"
         },
         {
           "endDate": "1972-11-21",
@@ -235,15 +595,26 @@
           "startDate": "1972-11-22"
         },
         {
-          "endDate": "1972-12-19",
+          "endDate": "1972-12-15",
           "items": [
             {
               "artist": "Slade",
               "rank": 1,
-              "title": "Gudbuy T'Jane\" ‡"
+              "title": "Gudbuy T'Jane"
             }
           ],
           "startDate": "1972-12-13"
+        },
+        {
+          "endDate": "1972-12-19",
+          "items": [
+            {
+              "artist": "Chuck Berry",
+              "rank": 1,
+              "title": "My Ding-a-Ling"
+            }
+          ],
+          "startDate": "1972-12-16"
         },
         {
           "endDate": "1972-12-31",
@@ -260,7 +631,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -268,7 +639,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "cf6e5315bf509aa1fce0cb5fe823e6e55bb7b0005afeec4aff5d0565646d9487",
+  "contentHash": "e8fc2cc498f4502658345e3c7c13e347e6a5a3d88ae41cc9a65fffc13a5c8045",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1972

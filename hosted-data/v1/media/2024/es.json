@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2024",
+      "items": [
+        {
+          "author": "Eduardo Mendoza",
+          "creator": "Eduardo Mendoza",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Tres enigmas para la organización",
+          "url": "https://books.google.com/books?q=Tres+enigmas+para+la+organización"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2024.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2024
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2024",
+      "items": [
+        {
+          "author": "Rebecca Yarros",
+          "creator": "Rebecca Yarros",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Alas de sangre",
+          "url": "https://books.google.com/books?q=Alas+de+sangre"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2024.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2024
+    },
     "games": {
       "id": "media-awardWinner-2024",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2024
     }
   },
-  "contentHash": "601026df6b3a0ad7fd941d21e8bf46631d3e7ea93b6e09bad6b54bdba32cf2fd",
+  "contentHash": "f4d86135ee3c6852fef7c03849b086727c45e663aec38475ec0d2bcb993df700",
   "country": "es",
   "schemaVersion": 1,
   "year": 2024

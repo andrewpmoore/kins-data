@@ -4,17 +4,6 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1986-01-05",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1986-01-01"
-        },
-        {
           "endDate": "1986-01-12",
           "items": [
             {
@@ -23,7 +12,7 @@
               "title": "Nikita"
             }
           ],
-          "startDate": "1986-01-06"
+          "startDate": "1986-01-01"
         },
         {
           "endDate": "1986-03-09",
@@ -31,7 +20,7 @@
             {
               "artist": "Falco",
               "rank": 1,
-              "title": "Jeanny\" †"
+              "title": "Jeanny"
             }
           ],
           "startDate": "1986-01-13"
@@ -147,7 +136,7 @@
           "startDate": "1986-11-24"
         },
         {
-          "endDate": "1986-12-28",
+          "endDate": "1986-12-31",
           "items": [
             {
               "artist": "The Bangles",
@@ -156,23 +145,12 @@
             }
           ],
           "startDate": "1986-12-22"
-        },
-        {
-          "endDate": "1986-12-31",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1986-12-29"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -180,7 +158,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "e3cf7aa9166f0a59b8babfa74cbd775dc0460c2919be4372d99f9790d40e0e23",
+  "contentHash": "eda301d3bf25458ed09aef5ceaaa5cd90cd54441490593a97a7d472486d24921",
   "country": "de",
   "schemaVersion": 1,
   "year": 1986

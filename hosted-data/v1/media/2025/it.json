@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2025",
+      "items": [
+        {
+          "author": "Dan Brown",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "L'ultimo segreto",
+          "url": "https://books.google.com/books?q=L'ultimo+segreto"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2025.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2025
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2025",
+      "items": [
+        {
+          "author": "Pera Toons",
+          "creator": "Pera Toons",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Giochi di parole e misteri",
+          "url": "https://books.google.com/books?q=Giochi+di+parole+e+misteri"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2025.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2025
+    },
     "games": {
       "id": "media-awardWinner-2025",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2025
     }
   },
-  "contentHash": "957cb75e9605e92de26e449f367843e5e3c5c52803665269c44d53180d697979",
+  "contentHash": "524a699ad79335b1e6d126c823fc8fe71f025313e6745e1caf3777e4da1f63b7",
   "country": "it",
   "schemaVersion": 1,
   "year": 2025

@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2007",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782221107133",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782221107133-L.jpg?default=false",
+          "author": "Marc Levy",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782221107133",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782221107133-L.jpg?default=false",
+          "creator": "Marc Levy",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Les Enfants de la liberté",
+          "url": "https://books.google.com/books?vid=ISBN:9782221107133"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2007"
+      },
+      "title": "FR print bestseller",
+      "year": 2007
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2007",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9791193790748",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9791193790748-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9791193790748",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9791193790748-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Harry Potter et les Reliques de la Mort",
+          "url": "https://books.google.com/books?vid=ISBN:9791193790748"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2007"
+      },
+      "title": "FR children's bestseller",
+      "year": 2007
+    },
     "games": {
       "id": "media-awardWinner-2007",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2007
     }
   },
-  "contentHash": "987f42981a3cdac1a829b7112e70d738bce29798d0e42741fad54b8641bd3270",
+  "contentHash": "e46b04e85a5959f110b3f703710a85d577a98c74921dc62e82fc7c9b66e26a49",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2007

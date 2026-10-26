@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2024",
+      "items": [
+        {
+          "artworkProviderName": "Penguin",
+          "artworkSourceURL": "https://www.penguin.co.uk/books/453504/we-solve-murders-by-osman-richard/9780241608361",
+          "artworkURL": "https://cdn.penguin.co.uk/dam-assets/books/9780241997482/9780241997482-jacket-large.jpg",
+          "author": "Richard Osman",
+          "coverProviderName": "Penguin",
+          "coverSourceURL": "https://www.penguin.co.uk/books/453504/we-solve-murders-by-osman-richard/9780241608361",
+          "coverURL": "https://cdn.penguin.co.uk/dam-assets/books/9780241997482/9780241997482-jacket-large.jpg",
+          "creator": "Richard Osman",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "We Solve Murders",
+          "url": "https://books.google.com/books?vid=ISBN:9780241608361"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2025/bestsellers-trends-in-the-uk-ireland-in-2024/"
+      },
+      "title": "UK print bestseller",
+      "year": 2024
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2024",
+      "items": [
+        {
+          "artworkProviderName": "Puffin",
+          "artworkSourceURL": "https://www.penguin.co.uk/books/451936/diary-of-a-wimpy-kid-hot-mess-book-19-by-kinney-jeff/9780241583081",
+          "artworkURL": "https://cdn.penguin.co.uk/dam-assets/books/9780241583180/9780241583180-jacket-large.jpg",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Puffin",
+          "coverSourceURL": "https://www.penguin.co.uk/books/451936/diary-of-a-wimpy-kid-hot-mess-book-19-by-kinney-jeff/9780241583081",
+          "coverURL": "https://cdn.penguin.co.uk/dam-assets/books/9780241583180/9780241583180-jacket-large.jpg",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Hot Mess",
+          "url": "https://books.google.com/books?vid=ISBN:9780241583081"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://nielseniq.com/global/en/insights/commentary/2025/bestsellers-trends-in-the-uk-ireland-in-2024/"
+      },
+      "title": "UK children's bestseller",
+      "year": 2024
+    },
     "games": {
       "id": "media-awardWinner-2024",
       "items": [
@@ -50,7 +108,7 @@
       "year": 2024
     }
   },
-  "contentHash": "81190a190c0de3c6399666eeefc47418577000a1e5ed87f1432b679fbe06818b",
+  "contentHash": "0481e885dcf589364d47e15174f1b4d2ede2f5d8228942267488460c78b23df7",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2024

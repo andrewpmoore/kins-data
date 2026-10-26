@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2013",
+      "items": [
+        {
+          "author": "Khaled Hosseini",
+          "creator": "Khaled Hosseini",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "E l'eco rispose",
+          "url": "https://books.google.com/books?q=E+l'eco+rispose"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2013.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2013
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2013",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Diario di una schiappa: Si salvi chi può!",
+          "url": "https://books.google.com/books?q=Diario+di+una+schiappa:+Si+salvi+chi+può!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2013.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2013
+    },
     "games": {
       "id": "media-awardWinner-2013",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2013
     }
   },
-  "contentHash": "a11749413e2ced9337e1b27cf13fec2dc0365bf8eb7c600cce00b0f3ae5b942a",
+  "contentHash": "2bc6c714a2892cd693343cd18dba187e35c184c84962fdfc9a3b499a85cc4f08",
   "country": "it",
   "schemaVersion": 1,
   "year": 2013

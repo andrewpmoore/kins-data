@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2021",
+      "items": [
+        {
+          "author": "María Dueñas",
+          "creator": "María Dueñas",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Sira",
+          "url": "https://books.google.com/books?q=Sira"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2021.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2021
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2021",
+      "items": [
+        {
+          "author": "Mikecrack",
+          "creator": "Mikecrack",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Los Compas y la cámara del tiempo",
+          "url": "https://books.google.com/books?q=Los+Compas+y+la+cámara+del+tiempo"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2021.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2021
+    },
     "games": {
       "id": "media-awardWinner-2021",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2021
     }
   },
-  "contentHash": "496617ac6922b6d494103cfe96f8d173ce79a460811128b89512a151f689f0da",
+  "contentHash": "6545f54775f53ec9370d3fd85ca1b4c5b76b858d50af2b12391d55805c678e41",
   "country": "es",
   "schemaVersion": 1,
   "year": 2021

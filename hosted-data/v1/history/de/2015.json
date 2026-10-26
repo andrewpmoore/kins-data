@@ -1,5 +1,229 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2015-01-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hobbit: The Battle of the Five Armies"
+            }
+          ],
+          "startDate": "2015-01-01"
+        },
+        {
+          "endDate": "2015-02-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Head Full of Honey"
+            }
+          ],
+          "startDate": "2015-01-04"
+        },
+        {
+          "endDate": "2015-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fifty Shades of Grey"
+            }
+          ],
+          "startDate": "2015-02-15"
+        },
+        {
+          "endDate": "2015-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cinderella"
+            }
+          ],
+          "startDate": "2015-03-15"
+        },
+        {
+          "endDate": "2015-03-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shaun the Sheep Movie"
+            }
+          ],
+          "startDate": "2015-03-22"
+        },
+        {
+          "endDate": "2015-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Manny"
+            }
+          ],
+          "startDate": "2015-03-29"
+        },
+        {
+          "endDate": "2015-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Furious 7"
+            }
+          ],
+          "startDate": "2015-04-05"
+        },
+        {
+          "endDate": "2015-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avengers: Age of Ultron"
+            }
+          ],
+          "startDate": "2015-04-26"
+        },
+        {
+          "endDate": "2015-05-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pitch Perfect 2"
+            }
+          ],
+          "startDate": "2015-05-17"
+        },
+        {
+          "endDate": "2015-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "San Andreas"
+            }
+          ],
+          "startDate": "2015-05-31"
+        },
+        {
+          "endDate": "2015-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spy"
+            }
+          ],
+          "startDate": "2015-06-07"
+        },
+        {
+          "endDate": "2015-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic World"
+            }
+          ],
+          "startDate": "2015-06-14"
+        },
+        {
+          "endDate": "2015-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Minions"
+            }
+          ],
+          "startDate": "2015-07-05"
+        },
+        {
+          "endDate": "2015-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible - Rogue Nation"
+            }
+          ],
+          "startDate": "2015-08-09"
+        },
+        {
+          "endDate": "2015-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Straight Outta Compton"
+            }
+          ],
+          "startDate": "2015-08-30"
+        },
+        {
+          "endDate": "2015-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Suck Me Shakespeer 2"
+            }
+          ],
+          "startDate": "2015-09-13"
+        },
+        {
+          "endDate": "2015-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inside Out"
+            }
+          ],
+          "startDate": "2015-10-04"
+        },
+        {
+          "endDate": "2015-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Look Who's Back"
+            }
+          ],
+          "startDate": "2015-10-25"
+        },
+        {
+          "endDate": "2015-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spectre"
+            }
+          ],
+          "startDate": "2015-11-08"
+        },
+        {
+          "endDate": "2015-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games: Mockingjay - Part 2"
+            }
+          ],
+          "startDate": "2015-11-22"
+        },
+        {
+          "endDate": "2015-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode VII - The Force Awakens"
+            }
+          ],
+          "startDate": "2015-12-20"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -53,7 +277,7 @@
             {
               "artist": "OMI",
               "rank": 1,
-              "title": "Cheerleader\" †"
+              "title": "Cheerleader\" (Felix Jaehn Remix)"
             }
           ],
           "startDate": "2015-02-13"
@@ -97,7 +321,7 @@
             {
               "artist": "Felix Jaehn featuring Jasmine Thompson",
               "rank": 1,
-              "title": "Ain't Nobody"
+              "title": "Ain't Nobody (Loves Me Better)"
             }
           ],
           "startDate": "2015-05-08"
@@ -205,7 +429,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -213,7 +437,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "b6ffb8326ac8782a1b5a25772a11b7b8c70c1865828a1b59f2136fca05f7bb76",
+  "contentHash": "38e7750fa00798d7a8eaa08cdf0e090411eda67e552bc31b50f99b9c92507fb5",
   "country": "de",
   "schemaVersion": 1,
   "year": 2015

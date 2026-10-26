@@ -1,0 +1,33 @@
+{
+  "charts": {
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2009-12-31",
+          "items": [
+            {
+              "artist": "Stan Walker",
+              "rank": 1,
+              "title": "Black Box"
+            }
+          ],
+          "startDate": "2009-12-07"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-03-07",
+        "provider": "Wikipedia contributors",
+        "territory": "NZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_New_Zealand"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "03ce13d19513a5926f3c56a8fbb8bb0521be37423c7fccb2c40b0e904758fc00",
+  "country": "nz",
+  "schemaVersion": 1,
+  "year": 2009
+}

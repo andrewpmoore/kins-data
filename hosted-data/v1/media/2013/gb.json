@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2013",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780340919392",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780340919392-L.jpg?default=false",
+          "author": "Alex Ferguson",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780340919392",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780340919392-L.jpg?default=false",
+          "creator": "Alex Ferguson",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "My Autobiography",
+          "url": "https://books.google.com/books?vid=ISBN:9780340919392"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.thebookseller.com/news/ferguson-tops-2013-bestsellers"
+      },
+      "title": "UK print bestseller",
+      "year": 2013
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2013",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780007453566",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780007453566-L.jpg?default=false",
+          "author": "David Walliams",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780007453566",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780007453566-L.jpg?default=false",
+          "creator": "David Walliams",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Demon Dentist",
+          "url": "https://books.google.com/books?vid=ISBN:9780007453566"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.thebookseller.com/news/ferguson-tops-2013-bestsellers"
+      },
+      "title": "UK children's bestseller",
+      "year": 2013
+    },
     "games": {
       "id": "media-awardWinner-2013",
       "items": [
@@ -46,7 +104,7 @@
       "year": 2013
     }
   },
-  "contentHash": "9b7dfb4a2b06cfac8ad0cb2791cd86b60d4cdc5539d5c68dbbcf25d65ded786a",
+  "contentHash": "c8479350db8584f6f6299f29bfa38dbb257bf8a1d90f4f30c12141c6a6fb87de",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2013

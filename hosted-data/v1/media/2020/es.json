@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2020",
+      "items": [
+        {
+          "author": "Javier Castillo",
+          "creator": "Javier Castillo",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "La chica de nieve",
+          "url": "https://books.google.com/books?q=La+chica+de+nieve"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2020.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2020
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2020",
+      "items": [
+        {
+          "author": "Mikecrack",
+          "creator": "Mikecrack",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Los Compas escapan de la prisión",
+          "url": "https://books.google.com/books?q=Los+Compas+escapan+de+la+prisión"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2020.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2020
+    },
     "games": {
       "id": "media-awardWinner-2020",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
           "rank": 1,
           "releaseYear": 2020,
-          "title": "The Last of Us Part II"
+          "title": "The Last of Us Part II",
+          "trailerURL": "https://www.youtube.com/watch?v=W2Wnvvj33Wo"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2020
     }
   },
-  "contentHash": "78b50464dbf1dfd42d1763f26035ee41bc8333eb0f8b57b0d00a5f547fe69f55",
+  "contentHash": "5b4fb13f79032c345ba9e17318274d3081ea04a676c785dde7542722f120715d",
   "country": "es",
   "schemaVersion": 1,
   "year": 2020

@@ -1,5 +1,419 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2007-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Night at the Museum"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stomp the Yard"
+            }
+          ],
+          "startDate": "2007-01-14"
+        },
+        {
+          "endDate": "2007-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Epic Movie"
+            }
+          ],
+          "startDate": "2007-01-28"
+        },
+        {
+          "endDate": "2007-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Messengers"
+            }
+          ],
+          "startDate": "2007-02-04"
+        },
+        {
+          "endDate": "2007-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Norbit"
+            }
+          ],
+          "startDate": "2007-02-11"
+        },
+        {
+          "endDate": "2007-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost Rider"
+            }
+          ],
+          "startDate": "2007-02-18"
+        },
+        {
+          "endDate": "2007-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wild Hogs"
+            }
+          ],
+          "startDate": "2007-03-04"
+        },
+        {
+          "endDate": "2007-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "300"
+            }
+          ],
+          "startDate": "2007-03-11"
+        },
+        {
+          "endDate": "2007-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "TMNT"
+            }
+          ],
+          "startDate": "2007-03-25"
+        },
+        {
+          "endDate": "2007-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blades of Glory"
+            }
+          ],
+          "startDate": "2007-04-01"
+        },
+        {
+          "endDate": "2007-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disturbia"
+            }
+          ],
+          "startDate": "2007-04-15"
+        },
+        {
+          "endDate": "2007-05-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man 3"
+            }
+          ],
+          "startDate": "2007-05-06"
+        },
+        {
+          "endDate": "2007-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek the Third"
+            }
+          ],
+          "startDate": "2007-05-20"
+        },
+        {
+          "endDate": "2007-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: At World's End"
+            }
+          ],
+          "startDate": "2007-05-27"
+        },
+        {
+          "endDate": "2007-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ocean's Thirteen"
+            }
+          ],
+          "startDate": "2007-06-10"
+        },
+        {
+          "endDate": "2007-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Four: Rise of the Silver Surfer"
+            }
+          ],
+          "startDate": "2007-06-17"
+        },
+        {
+          "endDate": "2007-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Evan Almighty"
+            }
+          ],
+          "startDate": "2007-06-24"
+        },
+        {
+          "endDate": "2007-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ratatouille"
+            }
+          ],
+          "startDate": "2007-07-01"
+        },
+        {
+          "endDate": "2007-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers"
+            }
+          ],
+          "startDate": "2007-07-08"
+        },
+        {
+          "endDate": "2007-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Order of the Phoenix"
+            }
+          ],
+          "startDate": "2007-07-15"
+        },
+        {
+          "endDate": "2007-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Now Pronounce You Chuck & Larry"
+            }
+          ],
+          "startDate": "2007-07-22"
+        },
+        {
+          "endDate": "2007-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Simpsons Movie"
+            }
+          ],
+          "startDate": "2007-07-29"
+        },
+        {
+          "endDate": "2007-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bourne Ultimatum"
+            }
+          ],
+          "startDate": "2007-08-05"
+        },
+        {
+          "endDate": "2007-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rush Hour 3"
+            }
+          ],
+          "startDate": "2007-08-12"
+        },
+        {
+          "endDate": "2007-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Superbad"
+            }
+          ],
+          "startDate": "2007-08-19"
+        },
+        {
+          "endDate": "2007-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Halloween"
+            }
+          ],
+          "startDate": "2007-09-02"
+        },
+        {
+          "endDate": "2007-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "3:10 to Yuma"
+            }
+          ],
+          "startDate": "2007-09-09"
+        },
+        {
+          "endDate": "2007-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Brave One"
+            }
+          ],
+          "startDate": "2007-09-16"
+        },
+        {
+          "endDate": "2007-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Resident Evil: Extinction"
+            }
+          ],
+          "startDate": "2007-09-23"
+        },
+        {
+          "endDate": "2007-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Game Plan"
+            }
+          ],
+          "startDate": "2007-09-30"
+        },
+        {
+          "endDate": "2007-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Why Did I Get Married?"
+            }
+          ],
+          "startDate": "2007-10-14"
+        },
+        {
+          "endDate": "2007-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "30 Days of Night"
+            }
+          ],
+          "startDate": "2007-10-21"
+        },
+        {
+          "endDate": "2007-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Saw IV"
+            }
+          ],
+          "startDate": "2007-10-28"
+        },
+        {
+          "endDate": "2007-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Gangster"
+            }
+          ],
+          "startDate": "2007-11-04"
+        },
+        {
+          "endDate": "2007-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bee Movie"
+            }
+          ],
+          "startDate": "2007-11-11"
+        },
+        {
+          "endDate": "2007-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beowulf"
+            }
+          ],
+          "startDate": "2007-11-18"
+        },
+        {
+          "endDate": "2007-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Enchanted"
+            }
+          ],
+          "startDate": "2007-11-25"
+        },
+        {
+          "endDate": "2007-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Golden Compass"
+            }
+          ],
+          "startDate": "2007-12-09"
+        },
+        {
+          "endDate": "2007-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Am Legend"
+            }
+          ],
+          "startDate": "2007-12-16"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "National Treasure: Book of Secrets"
+            }
+          ],
+          "startDate": "2007-12-23"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -9,7 +423,7 @@
             {
               "artist": "Beyoncé",
               "rank": 1,
-              "title": "Irreplaceable\"♪"
+              "title": "Irreplaceable"
             }
           ],
           "startDate": "2007-01-01"
@@ -31,7 +445,7 @@
             {
               "artist": "Justin Timberlake",
               "rank": 1,
-              "title": "What Goes Around... Comes Around"
+              "title": "What Goes Around...Comes Around"
             }
           ],
           "startDate": "2007-03-03"
@@ -75,7 +489,7 @@
             {
               "artist": "Timbaland featuring Nelly Furtado and Justin Timberlake",
               "rank": 1,
-              "title": "Give It To Me"
+              "title": "Give It to Me"
             }
           ],
           "startDate": "2007-04-21"
@@ -101,6 +515,28 @@
             }
           ],
           "startDate": "2007-05-12"
+        },
+        {
+          "endDate": "2007-06-01",
+          "items": [
+            {
+              "artist": "T-Pain featuring Yung Joc",
+              "rank": 1,
+              "title": "Buy U a Drank (Shawty Snappin')"
+            }
+          ],
+          "startDate": "2007-05-26"
+        },
+        {
+          "endDate": "2007-06-08",
+          "items": [
+            {
+              "artist": "Maroon 5",
+              "rank": 1,
+              "title": "Makes Me Wonder"
+            }
+          ],
+          "startDate": "2007-06-02"
         },
         {
           "endDate": "2007-07-27",
@@ -150,20 +586,31 @@
           "endDate": "2007-09-28",
           "items": [
             {
-              "artist": "Soulja Boy",
+              "artist": "Soulja Boy Tell 'Em",
               "rank": 1,
-              "title": "Crank That"
+              "title": "Crank That (Soulja Boy)"
             }
           ],
           "startDate": "2007-09-15"
         },
         {
-          "endDate": "2007-11-02",
+          "endDate": "2007-10-05",
           "items": [
             {
-              "artist": "Soulja Boy",
+              "artist": "Kanye West",
               "rank": 1,
-              "title": "Crank That"
+              "title": "Stronger"
+            }
+          ],
+          "startDate": "2007-09-29"
+        },
+        {
+          "endDate": "2007-11-09",
+          "items": [
+            {
+              "artist": "Soulja Boy Tell 'Em",
+              "rank": 1,
+              "title": "Crank That (Soulja Boy)"
             }
           ],
           "startDate": "2007-10-06"
@@ -194,7 +641,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -202,7 +649,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "c3d76e5616113e25c409b946067ac18df2c4a86a0141e393329a4045d3547885",
+  "contentHash": "c07bf66d9523aed12f9bd2fcbfa2cfd8246693630d23fac4065cc728e3b75d79",
   "country": "us",
   "schemaVersion": 1,
   "year": 2007

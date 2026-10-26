@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2022",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781471156267",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781471156267-L.jpg?default=false",
+          "author": "Colleen Hoover",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781471156267",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781471156267-L.jpg?default=false",
+          "creator": "Colleen Hoover",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "It Ends with Us",
+          "url": "https://books.google.com/books?vid=ISBN:9781471156267"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.thebookseller.com/features/fiction-dominates-annual-bestseller-lists-as-hoover-and-osman-run-riot-at-the-top"
+      },
+      "title": "UK print bestseller",
+      "year": 2022
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2022",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/works/OL27720434W",
+          "artworkURL": "https://covers.openlibrary.org/b/id/12726645-L.jpg?default=false",
+          "author": "David Walliams",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/works/OL27720434W",
+          "coverURL": "https://covers.openlibrary.org/b/id/12726645-L.jpg?default=false",
+          "creator": "David Walliams",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "The World's Worst Pets",
+          "url": "https://books.google.com/books?vid=ISBN:9780008305802"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "LoveReading4Kids / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.lovereading4kids.co.uk/audiobooks/author/david-walliams"
+      },
+      "title": "UK children's bestseller",
+      "year": 2022
+    },
     "games": {
       "id": "media-awardWinner-2022",
       "items": [
@@ -47,7 +105,7 @@
       "year": 2022
     }
   },
-  "contentHash": "4fc0c35e930a780b6dba1c5583d3839087a31745fb6b1cb8e08d2b55f8a52729",
+  "contentHash": "e928be6e2b4b74c80b4f79e7fafddbf7e519b1314845c86541aaf17b147d993f",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2022

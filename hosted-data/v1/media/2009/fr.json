@@ -1,5 +1,57 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2009",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788184985580",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788184985580-L.jpg?default=false",
+          "author": "Dan Brown",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788184985580",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788184985580-L.jpg?default=false",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Le Symbole perdu",
+          "url": "https://books.google.com/books?vid=ISBN:9788184985580"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2009"
+      },
+      "title": "FR print bestseller",
+      "year": 2009
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2009",
+      "items": [
+        {
+          "author": "René Goscinny",
+          "creator": "René Goscinny",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Le Petit Nicolas: La Bande du Petit Nicolas",
+          "url": "https://books.google.com/books?q=Le+Petit+Nicolas:+La+Bande+du+Petit+Nicolas"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2009"
+      },
+      "title": "FR children's bestseller",
+      "year": 2009
+    },
     "games": {
       "id": "media-awardWinner-2009",
       "items": [
@@ -24,7 +76,7 @@
       "year": 2009
     }
   },
-  "contentHash": "b00960c6ec7882d708349384c9fb321deef642ea008191c9a96a94127a260635",
+  "contentHash": "c9f32136d340dcd4240f4d0ccd8e054fd3a90b726fa5c2e705800f8c03f0151f",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2009

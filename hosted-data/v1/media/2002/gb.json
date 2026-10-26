@@ -1,5 +1,86 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2002",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780297843313",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780297843313-L.jpg?default=false",
+          "author": "Trinny Woodall and Susannah Constantine",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780297843313",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780297843313-L.jpg?default=false",
+          "creator": "Trinny Woodall and Susannah Constantine",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "What Not to Wear",
+          "url": "https://books.google.com/books?vid=ISBN:9780297843313"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2002/dec/28/news"
+      },
+      "title": "UK print bestseller",
+      "year": 2002
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2002",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780141312125",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780141312125-L.jpg?default=false",
+          "author": "Eoin Colfer",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780141312125",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780141312125-L.jpg?default=false",
+          "creator": "Eoin Colfer",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Artemis Fowl",
+          "url": "https://books.google.com/books?vid=ISBN:9780141312125"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2002/dec/28/news"
+      },
+      "title": "UK children's bestseller",
+      "year": 2002
+    },
+    "games": {
+      "id": "media-awardWinner-2002",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2002&idGame=344",
+          "artworkURL": "https://www.interactive.org/images/games/2002_halo_combat_evolved_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2001,
+          "title": "Halo: Combat Evolved"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2002&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2002
+    },
     "television": {
       "id": "media-annualTelevisionAudience-2002",
       "items": [
@@ -26,7 +107,7 @@
       "year": 2002
     }
   },
-  "contentHash": "72c8e31db1c112d9e627206cd3fe139c2f60d1df5eb5e3f519f62766bbee67b4",
+  "contentHash": "a96668acdae91c959526c691085d865565af08171ed90195c43928b9f7bb92b4",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2002

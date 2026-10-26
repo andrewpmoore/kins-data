@@ -86,7 +86,7 @@
             {
               "artist": "Laura Branigan",
               "rank": 1,
-              "title": "Self Control\" †"
+              "title": "Self Control"
             }
           ],
           "startDate": "1984-06-18"
@@ -147,7 +147,7 @@
           "startDate": "1984-11-12"
         },
         {
-          "endDate": "1984-12-30",
+          "endDate": "1984-12-31",
           "items": [
             {
               "artist": "Duran Duran",
@@ -156,23 +156,12 @@
             }
           ],
           "startDate": "1984-12-10"
-        },
-        {
-          "endDate": "1984-12-31",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1984-12-31"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -180,7 +169,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "8db0b5df2993bb165f3a80d78b118a32f81cd0559c0bee30c2babe74d16c1018",
+  "contentHash": "44df3ffa311808373f94612107ecf0f39402fa330d6562d451d50d6a09c7ff4d",
   "country": "de",
   "schemaVersion": 1,
   "year": 1984

@@ -1,0 +1,505 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2022-01-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: No Way Home"
+            }
+          ],
+          "startDate": "2022-01-01"
+        },
+        {
+          "endDate": "2022-01-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wolf and the Lion"
+            }
+          ],
+          "startDate": "2022-01-23"
+        },
+        {
+          "endDate": "2022-02-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nightmare Alley"
+            }
+          ],
+          "startDate": "2022-01-30"
+        },
+        {
+          "endDate": "2022-02-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Death on the Nile"
+            }
+          ],
+          "startDate": "2022-02-13"
+        },
+        {
+          "endDate": "2022-03-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Uncharted"
+            }
+          ],
+          "startDate": "2022-02-20"
+        },
+        {
+          "endDate": "2022-04-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Batman"
+            }
+          ],
+          "startDate": "2022-03-06"
+        },
+        {
+          "endDate": "2022-04-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Morbius"
+            }
+          ],
+          "startDate": "2022-04-03"
+        },
+        {
+          "endDate": "2022-05-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Beasts: The Secrets of Dumbledore"
+            }
+          ],
+          "startDate": "2022-04-24"
+        },
+        {
+          "endDate": "2022-05-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Strange in the Multiverse of Madness"
+            }
+          ],
+          "startDate": "2022-05-08"
+        },
+        {
+          "endDate": "2022-06-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Top Gun: Maverick"
+            }
+          ],
+          "startDate": "2022-05-22"
+        },
+        {
+          "endDate": "2022-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic World: Dominion"
+            }
+          ],
+          "startDate": "2022-06-05"
+        },
+        {
+          "endDate": "2022-06-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lightyear"
+            }
+          ],
+          "startDate": "2022-06-19"
+        },
+        {
+          "endDate": "2022-07-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Elvis"
+            }
+          ],
+          "startDate": "2022-06-26"
+        },
+        {
+          "endDate": "2022-08-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Thor: Love and Thunder"
+            }
+          ],
+          "startDate": "2022-07-10"
+        },
+        {
+          "endDate": "2022-08-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nope"
+            }
+          ],
+          "startDate": "2022-08-14"
+        },
+        {
+          "endDate": "2022-09-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Minions: The Rise of Gru"
+            }
+          ],
+          "startDate": "2022-08-21"
+        },
+        {
+          "endDate": "2022-10-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar2022 Re-release"
+            }
+          ],
+          "startDate": "2022-09-25"
+        },
+        {
+          "endDate": "2022-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dragon Ball Super: Super Hero"
+            }
+          ],
+          "startDate": "2022-10-02"
+        },
+        {
+          "endDate": "2022-10-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ticket to Paradise"
+            }
+          ],
+          "startDate": "2022-10-09"
+        },
+        {
+          "endDate": "2022-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hummingbird"
+            }
+          ],
+          "startDate": "2022-10-16"
+        },
+        {
+          "endDate": "2022-10-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Adam"
+            }
+          ],
+          "startDate": "2022-10-23"
+        },
+        {
+          "endDate": "2022-11-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Strangeness"
+            }
+          ],
+          "startDate": "2022-10-30"
+        },
+        {
+          "endDate": "2022-12-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Panther: Wakanda Forever"
+            }
+          ],
+          "startDate": "2022-11-13"
+        },
+        {
+          "endDate": "2022-12-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vicini di casa"
+            }
+          ],
+          "startDate": "2022-12-04"
+        },
+        {
+          "endDate": "2022-12-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Puss in Boots: The Last Wish"
+            }
+          ],
+          "startDate": "2022-12-11"
+        },
+        {
+          "endDate": "2022-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar: The Way of Water"
+            }
+          ],
+          "startDate": "2022-12-18"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2022-01-12",
+          "items": [
+            {
+              "artist": "Marracash and Gué Pequeno",
+              "rank": 1,
+              "title": "∞ Love"
+            }
+          ],
+          "startDate": "2022-01-01"
+        },
+        {
+          "endDate": "2022-01-26",
+          "items": [
+            {
+              "artist": "Sick Luke, Tha Supreme and Sfera Ebbasta",
+              "rank": 1,
+              "title": "Solite pare"
+            }
+          ],
+          "startDate": "2022-01-13"
+        },
+        {
+          "endDate": "2022-02-02",
+          "items": [
+            {
+              "artist": "Rkomi and Elodie",
+              "rank": 1,
+              "title": "La coda del diavolo"
+            }
+          ],
+          "startDate": "2022-01-27"
+        },
+        {
+          "endDate": "2022-04-13",
+          "items": [
+            {
+              "artist": "Mahmood and Blanco",
+              "rank": 1,
+              "title": "Brividi"
+            }
+          ],
+          "startDate": "2022-02-03"
+        },
+        {
+          "endDate": "2022-04-20",
+          "items": [
+            {
+              "artist": "Lazza and Sfera Ebbasta",
+              "rank": 1,
+              "title": "Piove"
+            }
+          ],
+          "startDate": "2022-04-14"
+        },
+        {
+          "endDate": "2022-06-08",
+          "items": [
+            {
+              "artist": "Rhove",
+              "rank": 1,
+              "title": "Shakerando"
+            }
+          ],
+          "startDate": "2022-04-21"
+        },
+        {
+          "endDate": "2022-07-20",
+          "items": [
+            {
+              "artist": "Fedez, Tananai and Mara Sattei",
+              "rank": 1,
+              "title": "La dolce vita"
+            }
+          ],
+          "startDate": "2022-06-09"
+        },
+        {
+          "endDate": "2022-07-27",
+          "items": [
+            {
+              "artist": "Tha Supreme featuring Lazza and Sfera Ebbasta",
+              "rank": 1,
+              "title": "S!r!"
+            }
+          ],
+          "startDate": "2022-07-21"
+        },
+        {
+          "endDate": "2022-08-31",
+          "items": [
+            {
+              "artist": "Fedez, Tananai and Mara Sattei",
+              "rank": 1,
+              "title": "La dolce vita"
+            }
+          ],
+          "startDate": "2022-07-28"
+        },
+        {
+          "endDate": "2022-09-14",
+          "items": [
+            {
+              "artist": "Pinguini Tattici Nucleari",
+              "rank": 1,
+              "title": "Giovani Wannabe"
+            }
+          ],
+          "startDate": "2022-09-01"
+        },
+        {
+          "endDate": "2022-10-05",
+          "items": [
+            {
+              "artist": "James Hype and Miggy Dela Rosa featuring Lazza",
+              "rank": 1,
+              "title": "Ferrari"
+            }
+          ],
+          "startDate": "2022-09-15"
+        },
+        {
+          "endDate": "2022-10-12",
+          "items": [
+            {
+              "artist": "Pinguini Tattici Nucleari",
+              "rank": 1,
+              "title": "Ricordi"
+            }
+          ],
+          "startDate": "2022-10-06"
+        },
+        {
+          "endDate": "2022-10-19",
+          "items": [
+            {
+              "artist": "Måneskin",
+              "rank": 1,
+              "title": "The Loneliest"
+            }
+          ],
+          "startDate": "2022-10-13"
+        },
+        {
+          "endDate": "2022-10-26",
+          "items": [
+            {
+              "artist": "Pinguini Tattici Nucleari",
+              "rank": 1,
+              "title": "Ricordi"
+            }
+          ],
+          "startDate": "2022-10-20"
+        },
+        {
+          "endDate": "2022-11-02",
+          "items": [
+            {
+              "artist": "Måneskin",
+              "rank": 1,
+              "title": "The Loneliest"
+            }
+          ],
+          "startDate": "2022-10-27"
+        },
+        {
+          "endDate": "2022-11-30",
+          "items": [
+            {
+              "artist": "Bizarrap and Quevedo",
+              "rank": 1,
+              "title": "Quevedo: Bzrp Music Sessions, Vol. 52"
+            }
+          ],
+          "startDate": "2022-11-03"
+        },
+        {
+          "endDate": "2022-12-07",
+          "items": [
+            {
+              "artist": "Shiva featuring Sfera Ebbasta",
+              "rank": 1,
+              "title": "Alleluia"
+            }
+          ],
+          "startDate": "2022-12-01"
+        },
+        {
+          "endDate": "2022-12-28",
+          "items": [
+            {
+              "artist": "Bizarrap and Quevedo",
+              "rank": 1,
+              "title": "Quevedo: Bzrp Music Sessions, Vol. 52"
+            }
+          ],
+          "startDate": "2022-12-08"
+        },
+        {
+          "endDate": "2022-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2022-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-15",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "30f8cd18a6ae681bbf70cf040d24027002503001908ac1aa4949d7356e2cfe60",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2022
+}

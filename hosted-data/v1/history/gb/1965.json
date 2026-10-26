@@ -1,10 +1,154 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1965-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Goldfinger"
+            }
+          ],
+          "startDate": "1965-01-01"
+        },
+        {
+          "endDate": "1965-04-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "My Fair Lady"
+            }
+          ],
+          "startDate": "1965-02-17"
+        },
+        {
+          "endDate": "1965-04-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1965-04-07"
+        },
+        {
+          "endDate": "1965-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "My Fair Lady"
+            }
+          ],
+          "startDate": "1965-04-21"
+        },
+        {
+          "endDate": "1965-06-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1965-04-28"
+        },
+        {
+          "endDate": "1965-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Yellow Rolls-Royce"
+            }
+          ],
+          "startDate": "1965-06-23"
+        },
+        {
+          "endDate": "1965-07-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What's New Pussycat?"
+            }
+          ],
+          "startDate": "1965-07-07"
+        },
+        {
+          "endDate": "1965-07-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1965-07-21"
+        },
+        {
+          "endDate": "1965-08-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sandpiper"
+            }
+          ],
+          "startDate": "1965-07-28"
+        },
+        {
+          "endDate": "1965-10-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1965-08-11"
+        },
+        {
+          "endDate": "1965-11-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Great Race"
+            }
+          ],
+          "startDate": "1965-10-20"
+        },
+        {
+          "endDate": "1965-12-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1965-11-03"
+        },
+        {
+          "endDate": "1965-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Thunderball"
+            }
+          ],
+          "startDate": "1965-12-29"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1965-01-15",
+          "endDate": "1965-01-13",
           "items": [
             {
               "artist": "The Beatles",
@@ -13,6 +157,17 @@
             }
           ],
           "startDate": "1965-01-01"
+        },
+        {
+          "endDate": "1965-01-15",
+          "items": [
+            {
+              "artist": "Georgie Fame and the Blue Flames",
+              "rank": 1,
+              "title": "Yeh, Yeh"
+            }
+          ],
+          "startDate": "1965-01-14"
         },
         {
           "endDate": "1965-01-20",
@@ -56,7 +211,7 @@
               "title": "You've Lost That Lovin' Feelin'"
             }
           ],
-          "startDate": "1965-02-06"
+          "startDate": "1965-01-30"
         },
         {
           "endDate": "1965-02-19",
@@ -92,7 +247,7 @@
           "startDate": "1965-03-06"
         },
         {
-          "endDate": "1965-04-09",
+          "endDate": "1965-04-07",
           "items": [
             {
               "artist": "The Rolling Stones",
@@ -103,6 +258,149 @@
           "startDate": "1965-03-13"
         },
         {
+          "endDate": "1965-04-09",
+          "items": [
+            {
+              "artist": "Unit 4 + 2",
+              "rank": 1,
+              "title": "Concrete and Clay"
+            }
+          ],
+          "startDate": "1965-04-08"
+        },
+        {
+          "endDate": "1965-04-14",
+          "items": [
+            {
+              "artist": "The Yardbirds",
+              "rank": 1,
+              "title": "For Your Love"
+            }
+          ],
+          "startDate": "1965-04-10"
+        },
+        {
+          "endDate": "1965-04-16",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Minute You're Gone"
+            }
+          ],
+          "startDate": "1965-04-15"
+        },
+        {
+          "endDate": "1965-04-21",
+          "items": [
+            {
+              "artist": "The Yardbirds",
+              "rank": 1,
+              "title": "For Your Love"
+            }
+          ],
+          "startDate": "1965-04-17"
+        },
+        {
+          "endDate": "1965-04-23",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Ticket to Ride"
+            }
+          ],
+          "startDate": "1965-04-22"
+        },
+        {
+          "endDate": "1965-04-28",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Minute You're Gone"
+            }
+          ],
+          "startDate": "1965-04-24"
+        },
+        {
+          "endDate": "1965-04-30",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Ticket to Ride"
+            }
+          ],
+          "startDate": "1965-04-29"
+        },
+        {
+          "endDate": "1965-05-05",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Minute You're Gone"
+            }
+          ],
+          "startDate": "1965-05-01"
+        },
+        {
+          "endDate": "1965-05-07",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Ticket to Ride"
+            }
+          ],
+          "startDate": "1965-05-06"
+        },
+        {
+          "endDate": "1965-05-12",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Minute You're Gone"
+            }
+          ],
+          "startDate": "1965-05-08"
+        },
+        {
+          "endDate": "1965-05-14",
+          "items": [
+            {
+              "artist": "Roger Miller",
+              "rank": 1,
+              "title": "King of the Road"
+            }
+          ],
+          "startDate": "1965-05-13"
+        },
+        {
+          "endDate": "1965-05-19",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Minute You're Gone"
+            }
+          ],
+          "startDate": "1965-05-15"
+        },
+        {
+          "endDate": "1965-05-26",
+          "items": [
+            {
+              "artist": "Jackie Trent",
+              "rank": 1,
+              "title": "Where Are You Now"
+            }
+          ],
+          "startDate": "1965-05-20"
+        },
+        {
           "endDate": "1965-06-11",
           "items": [
             {
@@ -111,7 +409,29 @@
               "title": "Long Live Love"
             }
           ],
-          "startDate": "1965-05-29"
+          "startDate": "1965-05-27"
+        },
+        {
+          "endDate": "1965-06-23",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Crying in the Chapel"
+            }
+          ],
+          "startDate": "1965-06-12"
+        },
+        {
+          "endDate": "1965-06-25",
+          "items": [
+            {
+              "artist": "The Hollies",
+              "rank": 1,
+              "title": "I'm Alive"
+            }
+          ],
+          "startDate": "1965-06-24"
         },
         {
           "endDate": "1965-07-02",
@@ -122,7 +442,7 @@
               "title": "Crying in the Chapel"
             }
           ],
-          "startDate": "1965-06-19"
+          "startDate": "1965-06-26"
         },
         {
           "endDate": "1965-07-16",
@@ -147,7 +467,7 @@
           "startDate": "1965-07-17"
         },
         {
-          "endDate": "1965-08-27",
+          "endDate": "1965-08-25",
           "items": [
             {
               "artist": "The Beatles",
@@ -158,7 +478,7 @@
           "startDate": "1965-07-31"
         },
         {
-          "endDate": "1965-09-03",
+          "endDate": "1965-09-08",
           "items": [
             {
               "artist": "Sonny & Cher",
@@ -166,10 +486,21 @@
               "title": "I Got You Babe"
             }
           ],
-          "startDate": "1965-08-28"
+          "startDate": "1965-08-26"
         },
         {
-          "endDate": "1965-09-24",
+          "endDate": "1965-09-10",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "(I Can't Get No) Satisfaction"
+            }
+          ],
+          "startDate": "1965-09-09"
+        },
+        {
+          "endDate": "1965-09-15",
           "items": [
             {
               "artist": "The Rolling Stones",
@@ -180,7 +511,40 @@
           "startDate": "1965-09-11"
         },
         {
-          "endDate": "1965-11-05",
+          "endDate": "1965-09-17",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "(I Can't Get No) Satisfaction"
+            }
+          ],
+          "startDate": "1965-09-16"
+        },
+        {
+          "endDate": "1965-09-22",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Satisfaction"
+            }
+          ],
+          "startDate": "1965-09-18"
+        },
+        {
+          "endDate": "1965-09-24",
+          "items": [
+            {
+              "artist": "The Walker Brothers",
+              "rank": 1,
+              "title": "Make It Easy on Yourself"
+            }
+          ],
+          "startDate": "1965-09-23"
+        },
+        {
+          "endDate": "1965-11-03",
           "items": [
             {
               "artist": "Ken Dodd",
@@ -188,10 +552,43 @@
               "title": "Tears"
             }
           ],
-          "startDate": "1965-10-02"
+          "startDate": "1965-09-25"
         },
         {
-          "endDate": "1965-12-10",
+          "endDate": "1965-11-05",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Get Off of My Cloud"
+            }
+          ],
+          "startDate": "1965-11-04"
+        },
+        {
+          "endDate": "1965-11-10",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Get Off My Cloud"
+            }
+          ],
+          "startDate": "1965-11-06"
+        },
+        {
+          "endDate": "1965-11-24",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Get Off of My Cloud"
+            }
+          ],
+          "startDate": "1965-11-11"
+        },
+        {
+          "endDate": "1965-11-26",
           "items": [
             {
               "artist": "The Seekers",
@@ -199,7 +596,29 @@
               "title": "The Carnival Is Over"
             }
           ],
-          "startDate": "1965-12-04"
+          "startDate": "1965-11-25"
+        },
+        {
+          "endDate": "1965-12-01",
+          "items": [
+            {
+              "artist": "Len Barry",
+              "rank": 1,
+              "title": "1-2-3"
+            }
+          ],
+          "startDate": "1965-11-27"
+        },
+        {
+          "endDate": "1965-12-15",
+          "items": [
+            {
+              "artist": "The Seekers",
+              "rank": 1,
+              "title": "The Carnival Is Over"
+            }
+          ],
+          "startDate": "1965-12-02"
         },
         {
           "endDate": "1965-12-31",
@@ -207,16 +626,16 @@
             {
               "artist": "The Beatles",
               "rank": 1,
-              "title": "Day Tripper\" / \"We Can Work It Out"
+              "title": "Day Tripper / We Can Work It Out"
             }
           ],
-          "startDate": "1965-12-18"
+          "startDate": "1965-12-16"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -224,7 +643,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "7471d729b51a673d694272ea022130e7dee243336f5e14a55a66fc757fa72c4d",
+  "contentHash": "ef2e6391f2cd6dedfb475217ac89729c5c801a894526cefaac7f34b203aa9ec8",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1965

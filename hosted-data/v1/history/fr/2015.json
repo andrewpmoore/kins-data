@@ -1,26 +1,24 @@
 {
   "charts": {
-    "music": {
-      "id": "legacy-national-number-one-single",
+    "movies": {
+      "id": "legacy-national-number-one-film",
       "periods": [
         {
           "endDate": "2015-01-24",
           "items": [
             {
-              "artist": "Hozier",
               "rank": 1,
-              "title": "Take Me to Church"
+              "title": "The Bélier Family"
             }
           ],
-          "startDate": "2015-01-18"
+          "startDate": "2015-01-01"
         },
         {
-          "endDate": "2015-01-31",
+          "endDate": "2015-02-07",
           "items": [
             {
-              "artist": "Taylor Swift",
               "rank": 1,
-              "title": "Shake It Off"
+              "title": "Taken 3"
             }
           ],
           "startDate": "2015-01-25"
@@ -29,15 +27,289 @@
           "endDate": "2015-02-14",
           "items": [
             {
-              "artist": "AronChupa",
               "rank": 1,
-              "title": "I'm an Albatraoz"
+              "title": "Daddy or Mommy"
             }
           ],
           "startDate": "2015-02-08"
         },
         {
-          "endDate": "2015-03-14",
+          "endDate": "2015-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fifty Shades of Grey"
+            }
+          ],
+          "startDate": "2015-02-15"
+        },
+        {
+          "endDate": "2015-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Sniper"
+            }
+          ],
+          "startDate": "2015-02-22"
+        },
+        {
+          "endDate": "2015-03-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Divergent Series: Insurgent"
+            }
+          ],
+          "startDate": "2015-03-22"
+        },
+        {
+          "endDate": "2015-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cinderella"
+            }
+          ],
+          "startDate": "2015-03-29"
+        },
+        {
+          "endDate": "2015-04-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Furious 7"
+            }
+          ],
+          "startDate": "2015-04-05"
+        },
+        {
+          "endDate": "2015-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Animal Kingdom: Let's Go Ape"
+            }
+          ],
+          "startDate": "2015-04-19"
+        },
+        {
+          "endDate": "2015-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avengers: Age of Ultron"
+            }
+          ],
+          "startDate": "2015-04-26"
+        },
+        {
+          "endDate": "2015-05-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mad Max: Fury Road"
+            }
+          ],
+          "startDate": "2015-05-17"
+        },
+        {
+          "endDate": "2015-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "San Andreas"
+            }
+          ],
+          "startDate": "2015-05-31"
+        },
+        {
+          "endDate": "2015-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic World"
+            }
+          ],
+          "startDate": "2015-06-14"
+        },
+        {
+          "endDate": "2015-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Serial Teachers 2"
+            }
+          ],
+          "startDate": "2015-07-05"
+        },
+        {
+          "endDate": "2015-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Minions"
+            }
+          ],
+          "startDate": "2015-07-12"
+        },
+        {
+          "endDate": "2015-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Four"
+            }
+          ],
+          "startDate": "2015-08-09"
+        },
+        {
+          "endDate": "2015-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible - Rogue Nation"
+            }
+          ],
+          "startDate": "2015-08-16"
+        },
+        {
+          "endDate": "2015-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Brand New Testament"
+            }
+          ],
+          "startDate": "2015-09-06"
+        },
+        {
+          "endDate": "2015-09-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Transporter Refueled"
+            }
+          ],
+          "startDate": "2015-09-13"
+        },
+        {
+          "endDate": "2015-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Marguerite"
+            }
+          ],
+          "startDate": "2015-09-20"
+        },
+        {
+          "endDate": "2015-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Everest"
+            }
+          ],
+          "startDate": "2015-09-27"
+        },
+        {
+          "endDate": "2015-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maze Runner: The Scorch Trials"
+            }
+          ],
+          "startDate": "2015-10-11"
+        },
+        {
+          "endDate": "2015-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The New Adventures of Aladdin"
+            }
+          ],
+          "startDate": "2015-10-18"
+        },
+        {
+          "endDate": "2015-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Martian"
+            }
+          ],
+          "startDate": "2015-11-08"
+        },
+        {
+          "endDate": "2015-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spectre"
+            }
+          ],
+          "startDate": "2015-11-15"
+        },
+        {
+          "endDate": "2015-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games: Mockingjay - Part 2"
+            }
+          ],
+          "startDate": "2015-11-22"
+        },
+        {
+          "endDate": "2015-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Babysitting 2"
+            }
+          ],
+          "startDate": "2015-12-06"
+        },
+        {
+          "endDate": "2015-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode VII - The Force Awakens"
+            }
+          ],
+          "startDate": "2015-12-20"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2015-03-07",
+          "items": [
+            {
+              "artist": "Mark Ronson featuring Bruno Mars",
+              "rank": 1,
+              "title": "Uptown Funk"
+            }
+          ],
+          "startDate": "2015-01-01"
+        },
+        {
+          "endDate": "2015-03-21",
           "items": [
             {
               "artist": "Louane",
@@ -48,81 +320,59 @@
           "startDate": "2015-03-08"
         },
         {
-          "endDate": "2015-03-28",
+          "endDate": "2015-05-16",
           "items": [
             {
               "artist": "Omi",
               "rank": 1,
-              "title": "Cheerleader"
+              "title": "Cheerleader\" (Felix Jaehn Remix)"
             }
           ],
           "startDate": "2015-03-22"
         },
         {
-          "endDate": "2015-04-04",
+          "endDate": "2015-05-30",
           "items": [
             {
-              "artist": "Rihanna",
+              "artist": "Marina Kaye",
               "rank": 1,
-              "title": "Bitch Better Have My Money"
+              "title": "Homeless"
             }
           ],
-          "startDate": "2015-03-29"
-        },
-        {
-          "endDate": "2015-04-18",
-          "items": [
-            {
-              "artist": "Wiz Khalifa featuring Charlie Puth",
-              "rank": 1,
-              "title": "See You Again"
-            }
-          ],
-          "startDate": "2015-04-12"
-        },
-        {
-          "endDate": "2015-04-25",
-          "items": [
-            {
-              "artist": "Kygo featuring Conrad Sewell",
-              "rank": 1,
-              "title": "Firestone"
-            }
-          ],
-          "startDate": "2015-04-19"
-        },
-        {
-          "endDate": "2015-05-02",
-          "items": [
-            {
-              "artist": "Zara Larsson",
-              "rank": 1,
-              "title": "Uncover"
-            }
-          ],
-          "startDate": "2015-04-26"
+          "startDate": "2015-05-17"
         },
         {
           "endDate": "2015-06-13",
           "items": [
             {
-              "artist": "Jason Derulo",
+              "artist": "Omi",
               "rank": 1,
-              "title": "Want to Want Me"
+              "title": "Cheerleader\" (Felix Jaehn Remix)"
             }
           ],
-          "startDate": "2015-06-07"
+          "startDate": "2015-05-31"
         },
         {
-          "endDate": "2015-07-18",
+          "endDate": "2015-07-25",
           "items": [
             {
-              "artist": "Maître Gims",
+              "artist": "Feder featuring Lyse",
               "rank": 1,
-              "title": "Laissez passer"
+              "title": "Goodbye"
             }
           ],
-          "startDate": "2015-07-12"
+          "startDate": "2015-06-14"
+        },
+        {
+          "endDate": "2015-08-01",
+          "items": [
+            {
+              "artist": "Kygo featuring Parson James",
+              "rank": 1,
+              "title": "Stole the Show"
+            }
+          ],
+          "startDate": "2015-07-26"
         },
         {
           "endDate": "2015-08-08",
@@ -136,7 +386,7 @@
           "startDate": "2015-08-02"
         },
         {
-          "endDate": "2015-08-15",
+          "endDate": "2015-08-29",
           "items": [
             {
               "artist": "Nicky Jam featuring Enrique Iglesias",
@@ -147,29 +397,29 @@
           "startDate": "2015-08-09"
         },
         {
-          "endDate": "2015-08-29",
+          "endDate": "2015-09-05",
           "items": [
             {
-              "artist": "Lost Frequencies featuring Janieck Devy",
+              "artist": "Mylène Farmer & Sting",
               "rank": 1,
-              "title": "Reality"
+              "title": "Stolen Car"
             }
           ],
-          "startDate": "2015-08-23"
+          "startDate": "2015-08-30"
         },
         {
-          "endDate": "2015-09-12",
+          "endDate": "2015-09-26",
           "items": [
             {
-              "artist": "Booba and Benash",
+              "artist": "Nicky Jam featuring Enrique Iglesias",
               "rank": 1,
-              "title": "Validée"
+              "title": "El Perdón"
             }
           ],
           "startDate": "2015-09-06"
         },
         {
-          "endDate": "2015-10-03",
+          "endDate": "2015-10-10",
           "items": [
             {
               "artist": "L.E.J",
@@ -180,43 +430,43 @@
           "startDate": "2015-09-27"
         },
         {
-          "endDate": "2015-10-10",
+          "endDate": "2015-10-17",
           "items": [
             {
-              "artist": "Josef Salvat",
+              "artist": "Mylène Farmer & Sting",
               "rank": 1,
-              "title": "Open Season"
+              "title": "Stolen Car"
             }
           ],
-          "startDate": "2015-10-04"
+          "startDate": "2015-10-11"
         },
         {
-          "endDate": "2015-11-07",
+          "endDate": "2015-10-24",
           "items": [
             {
-              "artist": "Mokobé and Gradur",
+              "artist": "Charlie Puth featuring Meghan Trainor",
               "rank": 1,
-              "title": "Wesh"
+              "title": "Marvin Gaye"
             }
           ],
-          "startDate": "2015-11-01"
+          "startDate": "2015-10-18"
         },
         {
-          "endDate": "2015-12-12",
+          "endDate": "2015-12-31",
           "items": [
             {
-              "artist": "Marc Lavoine and Bambou",
+              "artist": "Adele",
               "rank": 1,
-              "title": "Dis-moi que l'amour"
+              "title": "Hello"
             }
           ],
-          "startDate": "2015-12-06"
+          "startDate": "2015-10-25"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-01",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -224,7 +474,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "147f61c9587e2d6c558eef1c41b19714c7f227374aad4036751cdb68f1bc7e4e",
+  "contentHash": "be71cefcc1888c88e25140593f2ba823ad2fd9deed144356f4687c7c84d2d5f5",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2015

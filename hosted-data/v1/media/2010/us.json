@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2010",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788375541496",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788375541496-L.jpg?default=false",
+          "author": "Stieg Larsson",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788375541496",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788375541496-L.jpg?default=false",
+          "creator": "Stieg Larsson",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Girl Who Kicked the Hornet's Nest",
+          "url": "https://books.google.com/books?vid=ISBN:9788375541496"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2010-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2010
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2010",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782021060119",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782021060119-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782021060119",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782021060119-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Diary of a Wimpy Kid: The Ugly Truth",
+          "url": "https://books.google.com/books?vid=ISBN:9782021060119"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2010-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2010
+    },
     "games": {
       "id": "media-awardWinner-2010",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2010
     }
   },
-  "contentHash": "7f18004fd51cb7b25f3958c4229ab18a7d0dffb3f8d34b22eb4fc2f0a6ba2c39",
+  "contentHash": "cc62e8679f79f4496f13c27793cd539241f5cb250e8e2c277699da0455a42a87",
   "country": "us",
   "schemaVersion": 1,
   "year": 2010

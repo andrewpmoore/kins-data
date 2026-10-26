@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2008",
+      "items": [
+        {
+          "author": "Carlos Ruiz Zafón",
+          "creator": "Carlos Ruiz Zafón",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "El juego del ángel",
+          "url": "https://books.google.com/books?q=El+juego+del+ángel"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2008.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2008
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2008",
+      "items": [
+        {
+          "author": "Stephenie Meyer",
+          "creator": "Stephenie Meyer",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Crepúsculo",
+          "url": "https://books.google.com/books?q=Crepúsculo"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2008.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2008
+    },
+    "games": {
+      "id": "media-awardWinner-2008",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2008&idGame=925",
+          "artworkURL": "https://www.interactive.org/images/games/2008_call_of_duty_4_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2007,
+          "title": "Call of Duty 4: Modern Warfare"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2008&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2008
+    }
+  },
+  "contentHash": "626eaba7301d55a3554647ad7eb570de3c32ebac24d729a750d1e1e4b55cdc36",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2008
+}

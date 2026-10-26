@@ -1,10 +1,2011 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1994-01-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1994-01-01"
+        },
+        {
+          "endDate": "1994-01-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1994-01-04"
+        },
+        {
+          "endDate": "1994-01-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-01-05"
+        },
+        {
+          "endDate": "1994-01-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1994-01-06"
+        },
+        {
+          "endDate": "1994-01-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1994-01-07"
+        },
+        {
+          "endDate": "1994-01-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1994-01-11"
+        },
+        {
+          "endDate": "1994-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-01-12"
+        },
+        {
+          "endDate": "1994-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1994-01-13"
+        },
+        {
+          "endDate": "1994-01-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1994-01-14"
+        },
+        {
+          "endDate": "1994-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Striking Distance"
+            }
+          ],
+          "startDate": "1994-01-18"
+        },
+        {
+          "endDate": "1994-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-01-19"
+        },
+        {
+          "endDate": "1994-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "1994-01-20"
+        },
+        {
+          "endDate": "1994-01-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1994-01-21"
+        },
+        {
+          "endDate": "1994-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Striking Distance"
+            }
+          ],
+          "startDate": "1994-01-24"
+        },
+        {
+          "endDate": "1994-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-01-26"
+        },
+        {
+          "endDate": "1994-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tombstone"
+            }
+          ],
+          "startDate": "1994-01-27"
+        },
+        {
+          "endDate": "1994-01-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1994-01-28"
+        },
+        {
+          "endDate": "1994-02-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Vengeance d'une blonde"
+            }
+          ],
+          "startDate": "1994-02-01"
+        },
+        {
+          "endDate": "1994-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-02-02"
+        },
+        {
+          "endDate": "1994-02-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1994-02-04"
+        },
+        {
+          "endDate": "1994-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Demolition Man"
+            }
+          ],
+          "startDate": "1994-02-08"
+        },
+        {
+          "endDate": "1994-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-02-09"
+        },
+        {
+          "endDate": "1994-02-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1994-02-11"
+        },
+        {
+          "endDate": "1994-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-02-15"
+        },
+        {
+          "endDate": "1994-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cliffhanger"
+            }
+          ],
+          "startDate": "1994-02-18"
+        },
+        {
+          "endDate": "1994-02-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-02-22"
+        },
+        {
+          "endDate": "1994-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Good Son"
+            }
+          ],
+          "startDate": "1994-02-23"
+        },
+        {
+          "endDate": "1994-02-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-02-24"
+        },
+        {
+          "endDate": "1994-02-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cool Runnings"
+            }
+          ],
+          "startDate": "1994-02-25"
+        },
+        {
+          "endDate": "1994-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-03-01"
+        },
+        {
+          "endDate": "1994-03-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schindler's List"
+            }
+          ],
+          "startDate": "1994-03-02"
+        },
+        {
+          "endDate": "1994-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-03-03"
+        },
+        {
+          "endDate": "1994-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schindler's List"
+            }
+          ],
+          "startDate": "1994-03-04"
+        },
+        {
+          "endDate": "1994-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-03-08"
+        },
+        {
+          "endDate": "1994-03-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cool Runnings"
+            }
+          ],
+          "startDate": "1994-03-09"
+        },
+        {
+          "endDate": "1994-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Philadelphia"
+            }
+          ],
+          "startDate": "1994-03-10"
+        },
+        {
+          "endDate": "1994-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schindler's List"
+            }
+          ],
+          "startDate": "1994-03-11"
+        },
+        {
+          "endDate": "1994-03-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Cité de la peur"
+            }
+          ],
+          "startDate": "1994-03-15"
+        },
+        {
+          "endDate": "1994-03-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Pelican Brief"
+            }
+          ],
+          "startDate": "1994-03-16"
+        },
+        {
+          "endDate": "1994-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schindler's List"
+            }
+          ],
+          "startDate": "1994-03-17"
+        },
+        {
+          "endDate": "1994-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Three Musketeers"
+            }
+          ],
+          "startDate": "1994-03-18"
+        },
+        {
+          "endDate": "1994-03-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Cité de la peur"
+            }
+          ],
+          "startDate": "1994-03-22"
+        },
+        {
+          "endDate": "1994-03-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Pelican Brief"
+            }
+          ],
+          "startDate": "1994-03-23"
+        },
+        {
+          "endDate": "1994-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schindler's List"
+            }
+          ],
+          "startDate": "1994-03-24"
+        },
+        {
+          "endDate": "1994-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Aristocats"
+            }
+          ],
+          "startDate": "1994-04-05"
+        },
+        {
+          "endDate": "1994-04-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lightning Jack"
+            }
+          ],
+          "startDate": "1994-04-06"
+        },
+        {
+          "endDate": "1994-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beethoven's 2nd"
+            }
+          ],
+          "startDate": "1994-04-07"
+        },
+        {
+          "endDate": "1994-04-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schindler's List"
+            }
+          ],
+          "startDate": "1994-04-08"
+        },
+        {
+          "endDate": "1994-04-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Aristocats"
+            }
+          ],
+          "startDate": "1994-04-12"
+        },
+        {
+          "endDate": "1994-04-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lightning Jack"
+            }
+          ],
+          "startDate": "1994-04-13"
+        },
+        {
+          "endDate": "1994-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schindler's List"
+            }
+          ],
+          "startDate": "1994-04-14"
+        },
+        {
+          "endDate": "1994-04-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-04-15"
+        },
+        {
+          "endDate": "1994-04-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Aristocats"
+            }
+          ],
+          "startDate": "1994-04-19"
+        },
+        {
+          "endDate": "1994-04-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cool Runnings"
+            }
+          ],
+          "startDate": "1994-04-20"
+        },
+        {
+          "endDate": "1994-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schindler's List"
+            }
+          ],
+          "startDate": "1994-04-21"
+        },
+        {
+          "endDate": "1994-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-04-22"
+        },
+        {
+          "endDate": "1994-04-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Aristocats"
+            }
+          ],
+          "startDate": "1994-04-26"
+        },
+        {
+          "endDate": "1994-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Intersection"
+            }
+          ],
+          "startDate": "1994-04-27"
+        },
+        {
+          "endDate": "1994-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Schindler's List"
+            }
+          ],
+          "startDate": "1994-04-28"
+        },
+        {
+          "endDate": "1994-05-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-04-29"
+        },
+        {
+          "endDate": "1994-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cool Runnings"
+            }
+          ],
+          "startDate": "1994-05-03"
+        },
+        {
+          "endDate": "1994-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ace Ventura: Pet Detective"
+            }
+          ],
+          "startDate": "1994-05-04"
+        },
+        {
+          "endDate": "1994-05-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-05-06"
+        },
+        {
+          "endDate": "1994-05-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "With Honors"
+            }
+          ],
+          "startDate": "1994-05-08"
+        },
+        {
+          "endDate": "1994-05-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-05-10"
+        },
+        {
+          "endDate": "1994-05-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ace Ventura: Pet Detective"
+            }
+          ],
+          "startDate": "1994-05-12"
+        },
+        {
+          "endDate": "1994-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-05-13"
+        },
+        {
+          "endDate": "1994-05-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-05-17"
+        },
+        {
+          "endDate": "1994-05-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-05-20"
+        },
+        {
+          "endDate": "1994-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Reine Margot"
+            }
+          ],
+          "startDate": "1994-05-24"
+        },
+        {
+          "endDate": "1994-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-05-25"
+        },
+        {
+          "endDate": "1994-05-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-05-27"
+        },
+        {
+          "endDate": "1994-05-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Grosse Fatigue"
+            }
+          ],
+          "startDate": "1994-05-31"
+        },
+        {
+          "endDate": "1994-06-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-06-01"
+        },
+        {
+          "endDate": "1994-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-06-03"
+        },
+        {
+          "endDate": "1994-06-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Grosse Fatigue"
+            }
+          ],
+          "startDate": "1994-06-07"
+        },
+        {
+          "endDate": "1994-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-06-08"
+        },
+        {
+          "endDate": "1994-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mrs. Doubtfire"
+            }
+          ],
+          "startDate": "1994-06-10"
+        },
+        {
+          "endDate": "1994-06-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-06-14"
+        },
+        {
+          "endDate": "1994-06-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maverick"
+            }
+          ],
+          "startDate": "1994-06-15"
+        },
+        {
+          "endDate": "1994-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-06-16"
+        },
+        {
+          "endDate": "1994-06-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Major League II"
+            }
+          ],
+          "startDate": "1994-06-17"
+        },
+        {
+          "endDate": "1994-06-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-06-21"
+        },
+        {
+          "endDate": "1994-06-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maverick"
+            }
+          ],
+          "startDate": "1994-06-22"
+        },
+        {
+          "endDate": "1994-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-06-23"
+        },
+        {
+          "endDate": "1994-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Major League II"
+            }
+          ],
+          "startDate": "1994-06-24"
+        },
+        {
+          "endDate": "1994-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-06-28"
+        },
+        {
+          "endDate": "1994-06-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maverick"
+            }
+          ],
+          "startDate": "1994-06-29"
+        },
+        {
+          "endDate": "1994-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-06-30"
+        },
+        {
+          "endDate": "1994-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Major League II"
+            }
+          ],
+          "startDate": "1994-07-01"
+        },
+        {
+          "endDate": "1994-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-07-05"
+        },
+        {
+          "endDate": "1994-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-07-06"
+        },
+        {
+          "endDate": "1994-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-07-07"
+        },
+        {
+          "endDate": "1994-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wyatt Earp"
+            }
+          ],
+          "startDate": "1994-07-08"
+        },
+        {
+          "endDate": "1994-07-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-07-12"
+        },
+        {
+          "endDate": "1994-07-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-07-13"
+        },
+        {
+          "endDate": "1994-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-07-14"
+        },
+        {
+          "endDate": "1994-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wyatt Earp"
+            }
+          ],
+          "startDate": "1994-07-15"
+        },
+        {
+          "endDate": "1994-07-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-07-19"
+        },
+        {
+          "endDate": "1994-07-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-07-20"
+        },
+        {
+          "endDate": "1994-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maverick"
+            }
+          ],
+          "startDate": "1994-07-21"
+        },
+        {
+          "endDate": "1994-07-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pom Poko"
+            }
+          ],
+          "startDate": "1994-07-22"
+        },
+        {
+          "endDate": "1994-07-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-07-26"
+        },
+        {
+          "endDate": "1994-07-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-07-27"
+        },
+        {
+          "endDate": "1994-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Flintstones"
+            }
+          ],
+          "startDate": "1994-07-28"
+        },
+        {
+          "endDate": "1994-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-07-29"
+        },
+        {
+          "endDate": "1994-08-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Weddings and a Funeral"
+            }
+          ],
+          "startDate": "1994-08-02"
+        },
+        {
+          "endDate": "1994-08-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-08-03"
+        },
+        {
+          "endDate": "1994-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Flintstones"
+            }
+          ],
+          "startDate": "1994-08-04"
+        },
+        {
+          "endDate": "1994-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-08-05"
+        },
+        {
+          "endDate": "1994-08-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maverick"
+            }
+          ],
+          "startDate": "1994-08-09"
+        },
+        {
+          "endDate": "1994-08-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-08-10"
+        },
+        {
+          "endDate": "1994-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Flintstones"
+            }
+          ],
+          "startDate": "1994-08-11"
+        },
+        {
+          "endDate": "1994-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-08-12"
+        },
+        {
+          "endDate": "1994-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maverick"
+            }
+          ],
+          "startDate": "1994-08-16"
+        },
+        {
+          "endDate": "1994-08-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-08-17"
+        },
+        {
+          "endDate": "1994-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-08-18"
+        },
+        {
+          "endDate": "1994-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-08-19"
+        },
+        {
+          "endDate": "1994-08-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beverly Hills Cop III"
+            }
+          ],
+          "startDate": "1994-08-23"
+        },
+        {
+          "endDate": "1994-08-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-08-24"
+        },
+        {
+          "endDate": "1994-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1994-08-25"
+        },
+        {
+          "endDate": "1994-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-08-26"
+        },
+        {
+          "endDate": "1994-08-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-08-30"
+        },
+        {
+          "endDate": "1994-08-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-08-31"
+        },
+        {
+          "endDate": "1994-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1994-09-01"
+        },
+        {
+          "endDate": "1994-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-09-02"
+        },
+        {
+          "endDate": "1994-09-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-09-06"
+        },
+        {
+          "endDate": "1994-09-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-09-07"
+        },
+        {
+          "endDate": "1994-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1994-09-08"
+        },
+        {
+          "endDate": "1994-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "When a Man Loves a Woman"
+            }
+          ],
+          "startDate": "1994-09-09"
+        },
+        {
+          "endDate": "1994-09-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-09-13"
+        },
+        {
+          "endDate": "1994-09-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-09-14"
+        },
+        {
+          "endDate": "1994-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1994-09-15"
+        },
+        {
+          "endDate": "1994-09-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-09-16"
+        },
+        {
+          "endDate": "1994-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Léon: The Professional"
+            }
+          ],
+          "startDate": "1994-09-20"
+        },
+        {
+          "endDate": "1994-09-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Flintstones"
+            }
+          ],
+          "startDate": "1994-09-21"
+        },
+        {
+          "endDate": "1994-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Clear and Present Danger"
+            }
+          ],
+          "startDate": "1994-09-22"
+        },
+        {
+          "endDate": "1994-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-09-23"
+        },
+        {
+          "endDate": "1994-09-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Léon: The Professional"
+            }
+          ],
+          "startDate": "1994-09-27"
+        },
+        {
+          "endDate": "1994-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Flintstones"
+            }
+          ],
+          "startDate": "1994-09-28"
+        },
+        {
+          "endDate": "1994-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Clear and Present Danger"
+            }
+          ],
+          "startDate": "1994-09-29"
+        },
+        {
+          "endDate": "1994-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-09-30"
+        },
+        {
+          "endDate": "1994-10-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Léon: The Professional"
+            }
+          ],
+          "startDate": "1994-10-04"
+        },
+        {
+          "endDate": "1994-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-10-05"
+        },
+        {
+          "endDate": "1994-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-10-06"
+        },
+        {
+          "endDate": "1994-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-10-07"
+        },
+        {
+          "endDate": "1994-10-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1994-10-11"
+        },
+        {
+          "endDate": "1994-10-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Clear and Present Danger"
+            }
+          ],
+          "startDate": "1994-10-12"
+        },
+        {
+          "endDate": "1994-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1994-10-13"
+        },
+        {
+          "endDate": "1994-10-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-10-14"
+        },
+        {
+          "endDate": "1994-10-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Muriel's Wedding"
+            }
+          ],
+          "startDate": "1994-10-19"
+        },
+        {
+          "endDate": "1994-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-10-20"
+        },
+        {
+          "endDate": "1994-10-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-10-21"
+        },
+        {
+          "endDate": "1994-10-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Specialist"
+            }
+          ],
+          "startDate": "1994-10-26"
+        },
+        {
+          "endDate": "1994-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-10-27"
+        },
+        {
+          "endDate": "1994-11-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-10-28"
+        },
+        {
+          "endDate": "1994-11-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Muriel's Wedding"
+            }
+          ],
+          "startDate": "1994-11-02"
+        },
+        {
+          "endDate": "1994-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-11-03"
+        },
+        {
+          "endDate": "1994-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-11-04"
+        },
+        {
+          "endDate": "1994-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1994-11-08"
+        },
+        {
+          "endDate": "1994-11-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Muriel's Wedding"
+            }
+          ],
+          "startDate": "1994-11-09"
+        },
+        {
+          "endDate": "1994-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mary Shelley's Frankenstein"
+            }
+          ],
+          "startDate": "1994-11-10"
+        },
+        {
+          "endDate": "1994-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-11-11"
+        },
+        {
+          "endDate": "1994-11-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Specialist"
+            }
+          ],
+          "startDate": "1994-11-15"
+        },
+        {
+          "endDate": "1994-11-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Muriel's Wedding"
+            }
+          ],
+          "startDate": "1994-11-16"
+        },
+        {
+          "endDate": "1994-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mary Shelley's Frankenstein"
+            }
+          ],
+          "startDate": "1994-11-17"
+        },
+        {
+          "endDate": "1994-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-11-18"
+        },
+        {
+          "endDate": "1994-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Specialist"
+            }
+          ],
+          "startDate": "1994-11-22"
+        },
+        {
+          "endDate": "1994-11-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1994-11-23"
+        },
+        {
+          "endDate": "1994-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-11-24"
+        },
+        {
+          "endDate": "1994-11-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-11-25"
+        },
+        {
+          "endDate": "1994-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-11-29"
+        },
+        {
+          "endDate": "1994-11-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1994-11-30"
+        },
+        {
+          "endDate": "1994-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Highlander III: The Sorcerer"
+            }
+          ],
+          "startDate": "1994-12-01"
+        },
+        {
+          "endDate": "1994-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "True Lies"
+            }
+          ],
+          "startDate": "1994-12-02"
+        },
+        {
+          "endDate": "1994-12-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-12-06"
+        },
+        {
+          "endDate": "1994-12-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forrest Gump"
+            }
+          ],
+          "startDate": "1994-12-07"
+        },
+        {
+          "endDate": "1994-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Miracle on 34th Street"
+            }
+          ],
+          "startDate": "1994-12-08"
+        },
+        {
+          "endDate": "1994-12-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-12-09"
+        },
+        {
+          "endDate": "1994-12-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-12-13"
+        },
+        {
+          "endDate": "1994-12-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1994-12-14"
+        },
+        {
+          "endDate": "1994-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Miracle on 34th Street"
+            }
+          ],
+          "startDate": "1994-12-15"
+        },
+        {
+          "endDate": "1994-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-12-16"
+        },
+        {
+          "endDate": "1994-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-12-20"
+        },
+        {
+          "endDate": "1994-12-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mask"
+            }
+          ],
+          "startDate": "1994-12-21"
+        },
+        {
+          "endDate": "1994-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Miracle on 34th Street"
+            }
+          ],
+          "startDate": "1994-12-22"
+        },
+        {
+          "endDate": "1994-12-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-12-23"
+        },
+        {
+          "endDate": "1994-12-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "1994-12-27"
+        },
+        {
+          "endDate": "1994-12-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Interview with the Vampire"
+            }
+          ],
+          "startDate": "1994-12-28"
+        },
+        {
+          "endDate": "1994-12-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Miracle on 34th Street"
+            }
+          ],
+          "startDate": "1994-12-29"
+        },
+        {
+          "endDate": "1994-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Speed"
+            }
+          ],
+          "startDate": "1994-12-30"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1994-05-10",
+          "endDate": "1994-01-07",
+          "items": [
+            {
+              "artist": "Mr Blobby",
+              "rank": 1,
+              "title": "Mr Blobby"
+            }
+          ],
+          "startDate": "1994-01-01"
+        },
+        {
+          "endDate": "1994-01-21",
+          "items": [
+            {
+              "artist": "Chaka Demus & Pliers featuring Jack Radics and Taxi Gang",
+              "rank": 1,
+              "title": "Twist and Shout"
+            }
+          ],
+          "startDate": "1994-01-08"
+        },
+        {
+          "endDate": "1994-02-18",
+          "items": [
+            {
+              "artist": "D:Ream",
+              "rank": 1,
+              "title": "Things Can Only Get Better"
+            }
+          ],
+          "startDate": "1994-01-22"
+        },
+        {
+          "endDate": "1994-03-18",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Without You"
+            }
+          ],
+          "startDate": "1994-02-19"
+        },
+        {
+          "endDate": "1994-04-08",
+          "items": [
+            {
+              "artist": "Doop",
+              "rank": 1,
+              "title": "Doop"
+            }
+          ],
+          "startDate": "1994-03-19"
+        },
+        {
+          "endDate": "1994-04-22",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Everything Changes"
+            }
+          ],
+          "startDate": "1994-04-09"
+        },
+        {
+          "endDate": "1994-05-03",
+          "items": [
+            {
+              "artist": "Prince",
+              "rank": 1,
+              "title": "The Most Beautiful Girl in the World"
+            }
+          ],
+          "startDate": "1994-04-23"
+        },
+        {
+          "endDate": "1994-05-06",
           "items": [
             {
               "artist": "Wet Wet Wet",
@@ -15,7 +2016,51 @@
           "startDate": "1994-05-04"
         },
         {
-          "endDate": "1994-06-12",
+          "endDate": "1994-05-13",
+          "items": [
+            {
+              "artist": "Tony Di Bart",
+              "rank": 1,
+              "title": "The Real Thing"
+            }
+          ],
+          "startDate": "1994-05-07"
+        },
+        {
+          "endDate": "1994-05-20",
+          "items": [
+            {
+              "artist": "Stiltskin",
+              "rank": 1,
+              "title": "Inside"
+            }
+          ],
+          "startDate": "1994-05-14"
+        },
+        {
+          "endDate": "1994-06-03",
+          "items": [
+            {
+              "artist": "Manchester United F.C.",
+              "rank": 1,
+              "title": "Come On You Reds"
+            }
+          ],
+          "startDate": "1994-05-21"
+        },
+        {
+          "endDate": "1994-06-05",
+          "items": [
+            {
+              "artist": "Wet Wet Wet",
+              "rank": 1,
+              "title": "Love Is All Around"
+            }
+          ],
+          "startDate": "1994-06-04"
+        },
+        {
+          "endDate": "1994-06-10",
           "items": [
             {
               "artist": "All-4-One",
@@ -24,6 +2069,17 @@
             }
           ],
           "startDate": "1994-06-06"
+        },
+        {
+          "endDate": "1994-09-11",
+          "items": [
+            {
+              "artist": "Wet Wet Wet",
+              "rank": 1,
+              "title": "Love Is All Around"
+            }
+          ],
+          "startDate": "1994-06-11"
         },
         {
           "endDate": "1994-09-18",
@@ -37,7 +2093,7 @@
           "startDate": "1994-09-12"
         },
         {
-          "endDate": "1994-09-25",
+          "endDate": "1994-09-23",
           "items": [
             {
               "artist": "Pato Banton",
@@ -48,7 +2104,18 @@
           "startDate": "1994-09-19"
         },
         {
-          "endDate": "1994-10-16",
+          "endDate": "1994-10-09",
+          "items": [
+            {
+              "artist": "Whigfield",
+              "rank": 1,
+              "title": "Saturday Night"
+            }
+          ],
+          "startDate": "1994-09-24"
+        },
+        {
+          "endDate": "1994-10-14",
           "items": [
             {
               "artist": "Céline Dion",
@@ -59,7 +2126,62 @@
           "startDate": "1994-10-10"
         },
         {
-          "endDate": "1994-12-18",
+          "endDate": "1994-10-28",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "Sure"
+            }
+          ],
+          "startDate": "1994-10-15"
+        },
+        {
+          "endDate": "1994-11-20",
+          "items": [
+            {
+              "artist": "Pato Banton featuring Ali and Robin Campbell",
+              "rank": 1,
+              "title": "Baby Come Back"
+            }
+          ],
+          "startDate": "1994-10-29"
+        },
+        {
+          "endDate": "1994-11-25",
+          "items": [
+            {
+              "artist": "Robson Green & Jerome Flynn",
+              "rank": 1,
+              "title": "Unchained Melody / White Cliffs of Dover"
+            }
+          ],
+          "startDate": "1994-11-21"
+        },
+        {
+          "endDate": "1994-12-09",
+          "items": [
+            {
+              "artist": "Baby D",
+              "rank": 1,
+              "title": "Let Me Be Your Fantasy"
+            }
+          ],
+          "startDate": "1994-11-26"
+        },
+        {
+          "endDate": "1994-12-11",
+          "items": [
+            {
+              "artist": "East 17",
+              "rank": 1,
+              "title": "Stay Another Day"
+            }
+          ],
+          "startDate": "1994-12-10"
+        },
+        {
+          "endDate": "1994-12-16",
           "items": [
             {
               "artist": "Rednex",
@@ -68,12 +2190,23 @@
             }
           ],
           "startDate": "1994-12-12"
+        },
+        {
+          "endDate": "1994-12-31",
+          "items": [
+            {
+              "artist": "East 17",
+              "rank": 1,
+              "title": "Stay Another Day"
+            }
+          ],
+          "startDate": "1994-12-17"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -81,7 +2214,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "514b8a5cc32adc27dc26dfa614d9d0bd3a3cda1067d29b75310f3212bba1d422",
+  "contentHash": "6a89496dd3483163637db2c088d7d4430568089fb0c4038dccfd171efbf38779",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1994

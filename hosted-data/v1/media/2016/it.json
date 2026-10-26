@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2016",
+      "items": [
+        {
+          "author": "Paula Hawkins",
+          "creator": "Paula Hawkins",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "La ragazza del treno",
+          "url": "https://books.google.com/books?q=La+ragazza+del+treno"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2016.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2016
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2016",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Harry Potter e la maledizione dell'erede",
+          "url": "https://books.google.com/books?q=Harry+Potter+e+la+maledizione+dell'erede"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2016.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2016
+    },
     "games": {
       "id": "media-awardWinner-2016",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/py/PYPPVW0HVZSR1460160083444.jpg",
           "rank": 1,
           "releaseYear": 2016,
-          "title": "Overwatch"
+          "title": "Overwatch",
+          "trailerURL": "https://www.youtube.com/watch?v=pwFu8kEsUW4"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2016
     }
   },
-  "contentHash": "958dd7a15d32c50de750f16aee3f472d115cbfd3fab359a10dcea6c9a77f97e4",
+  "contentHash": "4e933e1f123c2acafe6cd75cf54f7c8d4e5f3bc8b997342b6190dd5f655f9084",
   "country": "it",
   "schemaVersion": 1,
   "year": 2016

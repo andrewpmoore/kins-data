@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2012",
+      "items": [
+        {
+          "author": "Jonas Jonasson",
+          "creator": "Jonas Jonasson",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Der Hundertjährige, der aus dem Fenster stieg und verschwand",
+          "url": "https://books.google.com/books?q=Der+Hundertjährige,+der+aus+dem+Fenster+stieg+und+verschwand"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2012/"
+      },
+      "title": "DE print bestseller",
+      "year": 2012
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2012",
+      "items": [
+        {
+          "author": "Finn-Ole Heinrich",
+          "creator": "Finn-Ole Heinrich",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Frerk, du Zwerg!",
+          "url": "https://books.google.com/books?q=Frerk,+du+Zwerg!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2012/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2012
+    },
     "games": {
       "id": "media-awardWinner-2012",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2012
     }
   },
-  "contentHash": "c911f6f3326771b9097f3a6c009f4d3b85e8b60497f2cecc4b9936a4278ba6bc",
+  "contentHash": "02b305e8736dcbff4674d8b85657de1e3aa98627a70b19156b24f24d0b3bd026",
   "country": "de",
   "schemaVersion": 1,
   "year": 2012

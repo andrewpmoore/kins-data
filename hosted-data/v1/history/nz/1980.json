@@ -4,6 +4,17 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
+          "endDate": "1980-01-01",
+          "items": [
+            {
+              "artist": "Jon Stevens",
+              "rank": 1,
+              "title": "Jezebel"
+            }
+          ],
+          "startDate": "1980-01-01"
+        },
+        {
           "endDate": "1980-01-04",
           "items": [
             {
@@ -686,7 +697,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "2d2239adffaf912dcc7acffade85eb67b07bd426cbfe9bf62152bfe1d8187f23",
+  "contentHash": "4e1c5ebb6de7c16973daac5322a86ba43536940d939dd2eb1b275f10807079f9",
   "country": "nz",
   "schemaVersion": 1,
   "year": 1980

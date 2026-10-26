@@ -1,5 +1,279 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1976-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dog Day Afternoon"
+            }
+          ],
+          "startDate": "1976-01-01"
+        },
+        {
+          "endDate": "1976-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Adventures of the Wilderness Family"
+            }
+          ],
+          "startDate": "1976-01-14"
+        },
+        {
+          "endDate": "1976-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dog Day Afternoon"
+            }
+          ],
+          "startDate": "1976-01-21"
+        },
+        {
+          "endDate": "1976-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sunshine Boys"
+            }
+          ],
+          "startDate": "1976-01-28"
+        },
+        {
+          "endDate": "1976-03-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Flew Over the Cuckoo's Nest"
+            }
+          ],
+          "startDate": "1976-02-11"
+        },
+        {
+          "endDate": "1976-03-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Taxi Driver"
+            }
+          ],
+          "startDate": "1976-03-24"
+        },
+        {
+          "endDate": "1976-04-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Flew Over the Cuckoo's Nest"
+            }
+          ],
+          "startDate": "1976-03-31"
+        },
+        {
+          "endDate": "1976-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "All the President's Men"
+            }
+          ],
+          "startDate": "1976-04-14"
+        },
+        {
+          "endDate": "1976-05-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bad News Bears"
+            }
+          ],
+          "startDate": "1976-04-28"
+        },
+        {
+          "endDate": "1976-05-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "All the President's Men"
+            }
+          ],
+          "startDate": "1976-05-05"
+        },
+        {
+          "endDate": "1976-06-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Missouri Breaks"
+            }
+          ],
+          "startDate": "1976-05-26"
+        },
+        {
+          "endDate": "1976-06-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mother, Jugs & Speed"
+            }
+          ],
+          "startDate": "1976-06-16"
+        },
+        {
+          "endDate": "1976-06-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Midway"
+            }
+          ],
+          "startDate": "1976-06-23"
+        },
+        {
+          "endDate": "1976-08-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Omen"
+            }
+          ],
+          "startDate": "1976-06-30"
+        },
+        {
+          "endDate": "1976-08-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Exorcist"
+            }
+          ],
+          "startDate": "1976-08-04"
+        },
+        {
+          "endDate": "1976-09-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Silent Movie"
+            }
+          ],
+          "startDate": "1976-08-11"
+        },
+        {
+          "endDate": "1976-09-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Survive!"
+            }
+          ],
+          "startDate": "1976-09-08"
+        },
+        {
+          "endDate": "1976-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Obsession"
+            }
+          ],
+          "startDate": "1976-09-15"
+        },
+        {
+          "endDate": "1976-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Alice in Wonderland"
+            }
+          ],
+          "startDate": "1976-09-29"
+        },
+        {
+          "endDate": "1976-10-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Burnt Offerings"
+            }
+          ],
+          "startDate": "1976-10-06"
+        },
+        {
+          "endDate": "1976-10-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Alice in Wonderland"
+            }
+          ],
+          "startDate": "1976-10-13"
+        },
+        {
+          "endDate": "1976-11-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Marathon Man"
+            }
+          ],
+          "startDate": "1976-10-20"
+        },
+        {
+          "endDate": "1976-11-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Front"
+            }
+          ],
+          "startDate": "1976-11-10"
+        },
+        {
+          "endDate": "1976-11-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Two-Minute Warning"
+            }
+          ],
+          "startDate": "1976-11-17"
+        },
+        {
+          "endDate": "1976-12-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Carrie"
+            }
+          ],
+          "startDate": "1976-11-24"
+        },
+        {
+          "endDate": "1976-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "King Kong"
+            }
+          ],
+          "startDate": "1976-12-22"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -15,15 +289,26 @@
           "startDate": "1976-01-01"
         },
         {
-          "endDate": "1976-01-27",
+          "endDate": "1976-01-23",
           "items": [
             {
               "artist": "Sailor",
               "rank": 1,
-              "title": "A Glass of Champagne\" ‡"
+              "title": "A Glass of Champagne"
             }
           ],
           "startDate": "1976-01-21"
+        },
+        {
+          "endDate": "1976-01-27",
+          "items": [
+            {
+              "artist": "Queen",
+              "rank": 1,
+              "title": "Bohemian Rhapsody"
+            }
+          ],
+          "startDate": "1976-01-24"
         },
         {
           "endDate": "1976-02-10",
@@ -48,7 +333,7 @@
           "startDate": "1976-02-11"
         },
         {
-          "endDate": "1976-03-02",
+          "endDate": "1976-02-20",
           "items": [
             {
               "artist": "The Four Seasons",
@@ -57,6 +342,39 @@
             }
           ],
           "startDate": "1976-02-18"
+        },
+        {
+          "endDate": "1976-02-24",
+          "items": [
+            {
+              "artist": "The Four Seasons",
+              "rank": 1,
+              "title": "December, 1963 (Oh, What a Night)"
+            }
+          ],
+          "startDate": "1976-02-21"
+        },
+        {
+          "endDate": "1976-02-27",
+          "items": [
+            {
+              "artist": "The Four Seasons",
+              "rank": 1,
+              "title": "December, 1963"
+            }
+          ],
+          "startDate": "1976-02-25"
+        },
+        {
+          "endDate": "1976-03-02",
+          "items": [
+            {
+              "artist": "The Four Seasons",
+              "rank": 1,
+              "title": "December, 1963 (Oh, What a Night)"
+            }
+          ],
+          "startDate": "1976-02-28"
         },
         {
           "endDate": "1976-03-04",
@@ -70,7 +388,7 @@
           "startDate": "1976-03-03"
         },
         {
-          "endDate": "1976-03-09",
+          "endDate": "1976-03-05",
           "items": [
             {
               "artist": "Brotherhood of Man",
@@ -81,7 +399,18 @@
           "startDate": "1976-03-05"
         },
         {
-          "endDate": "1976-03-23",
+          "endDate": "1976-03-09",
+          "items": [
+            {
+              "artist": "Tina Charles",
+              "rank": 1,
+              "title": "I Love to Love (But My Baby Loves to Dance)"
+            }
+          ],
+          "startDate": "1976-03-06"
+        },
+        {
+          "endDate": "1976-03-12",
           "items": [
             {
               "artist": "Tina Charles",
@@ -90,6 +419,39 @@
             }
           ],
           "startDate": "1976-03-10"
+        },
+        {
+          "endDate": "1976-03-16",
+          "items": [
+            {
+              "artist": "Tina Charles",
+              "rank": 1,
+              "title": "I Love to Love (But My Baby Loves to Dance)"
+            }
+          ],
+          "startDate": "1976-03-13"
+        },
+        {
+          "endDate": "1976-03-19",
+          "items": [
+            {
+              "artist": "Tina Charles",
+              "rank": 1,
+              "title": "I Love to Love"
+            }
+          ],
+          "startDate": "1976-03-17"
+        },
+        {
+          "endDate": "1976-03-23",
+          "items": [
+            {
+              "artist": "Tina Charles",
+              "rank": 1,
+              "title": "I Love to Love (But My Baby Loves to Dance)"
+            }
+          ],
+          "startDate": "1976-03-20"
         },
         {
           "endDate": "1976-04-27",
@@ -103,7 +465,7 @@
           "startDate": "1976-03-24"
         },
         {
-          "endDate": "1976-06-08",
+          "endDate": "1976-04-30",
           "items": [
             {
               "artist": "ABBA",
@@ -114,7 +476,29 @@
           "startDate": "1976-04-28"
         },
         {
-          "endDate": "1976-06-15",
+          "endDate": "1976-05-04",
+          "items": [
+            {
+              "artist": "Brotherhood of Man",
+              "rank": 1,
+              "title": "Save Your Kisses for Me"
+            }
+          ],
+          "startDate": "1976-05-01"
+        },
+        {
+          "endDate": "1976-06-04",
+          "items": [
+            {
+              "artist": "ABBA",
+              "rank": 1,
+              "title": "Fernando"
+            }
+          ],
+          "startDate": "1976-05-05"
+        },
+        {
+          "endDate": "1976-06-11",
           "items": [
             {
               "artist": "J. J. Barrie",
@@ -122,18 +506,40 @@
               "title": "No Charge"
             }
           ],
-          "startDate": "1976-06-09"
+          "startDate": "1976-06-05"
+        },
+        {
+          "endDate": "1976-06-15",
+          "items": [
+            {
+              "artist": "The Wurzels",
+              "rank": 1,
+              "title": "Combine Harvester"
+            }
+          ],
+          "startDate": "1976-06-12"
+        },
+        {
+          "endDate": "1976-06-18",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Silly Love Songs"
+            }
+          ],
+          "startDate": "1976-06-16"
         },
         {
           "endDate": "1976-06-22",
           "items": [
             {
-              "artist": "Wings",
+              "artist": "The Wurzels",
               "rank": 1,
-              "title": "Silly Love Songs\" ‡"
+              "title": "Combine Harvester"
             }
           ],
-          "startDate": "1976-06-16"
+          "startDate": "1976-06-19"
         },
         {
           "endDate": "1976-07-06",
@@ -147,18 +553,29 @@
           "startDate": "1976-06-23"
         },
         {
-          "endDate": "1976-07-13",
+          "endDate": "1976-07-09",
           "items": [
             {
               "artist": "Candi Staton",
               "rank": 1,
-              "title": "Young Hearts Run Free\" ‡"
+              "title": "Young Hearts Run Free"
             }
           ],
           "startDate": "1976-07-07"
         },
         {
-          "endDate": "1976-07-20",
+          "endDate": "1976-07-13",
+          "items": [
+            {
+              "artist": "The Real Thing",
+              "rank": 1,
+              "title": "You to Me Are Everything"
+            }
+          ],
+          "startDate": "1976-07-10"
+        },
+        {
+          "endDate": "1976-07-16",
           "items": [
             {
               "artist": "Demis Roussos",
@@ -169,7 +586,18 @@
           "startDate": "1976-07-14"
         },
         {
-          "endDate": "1976-08-05",
+          "endDate": "1976-07-20",
+          "items": [
+            {
+              "artist": "Demis Roussos",
+              "rank": 1,
+              "title": "The Roussos Phenomenon (EP)"
+            }
+          ],
+          "startDate": "1976-07-17"
+        },
+        {
+          "endDate": "1976-07-23",
           "items": [
             {
               "artist": "Elton John & Kiki Dee",
@@ -180,7 +608,51 @@
           "startDate": "1976-07-21"
         },
         {
-          "endDate": "1976-08-10",
+          "endDate": "1976-07-27",
+          "items": [
+            {
+              "artist": "Elton John and Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-07-24"
+        },
+        {
+          "endDate": "1976-07-30",
+          "items": [
+            {
+              "artist": "Elton John & Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-07-28"
+        },
+        {
+          "endDate": "1976-08-03",
+          "items": [
+            {
+              "artist": "Elton John and Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-07-31"
+        },
+        {
+          "endDate": "1976-08-05",
+          "items": [
+            {
+              "artist": "Elton John & Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-08-04"
+        },
+        {
+          "endDate": "1976-08-06",
           "items": [
             {
               "artist": "ABBA",
@@ -191,7 +663,18 @@
           "startDate": "1976-08-06"
         },
         {
-          "endDate": "1976-09-07",
+          "endDate": "1976-08-10",
+          "items": [
+            {
+              "artist": "Elton John and Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-08-07"
+        },
+        {
+          "endDate": "1976-08-13",
           "items": [
             {
               "artist": "Elton John & Kiki Dee",
@@ -202,6 +685,72 @@
           "startDate": "1976-08-11"
         },
         {
+          "endDate": "1976-08-17",
+          "items": [
+            {
+              "artist": "Elton John and Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-08-14"
+        },
+        {
+          "endDate": "1976-08-20",
+          "items": [
+            {
+              "artist": "Elton John & Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-08-18"
+        },
+        {
+          "endDate": "1976-08-24",
+          "items": [
+            {
+              "artist": "Elton John and Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-08-21"
+        },
+        {
+          "endDate": "1976-08-27",
+          "items": [
+            {
+              "artist": "Elton John & Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-08-25"
+        },
+        {
+          "endDate": "1976-08-31",
+          "items": [
+            {
+              "artist": "Elton John and Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-08-28"
+        },
+        {
+          "endDate": "1976-09-03",
+          "items": [
+            {
+              "artist": "Elton John & Kiki Dee",
+              "rank": 1,
+              "title": "Don't Go Breaking My Heart"
+            }
+          ],
+          "startDate": "1976-09-01"
+        },
+        {
           "endDate": "1976-10-12",
           "items": [
             {
@@ -210,7 +759,7 @@
               "title": "Dancing Queen"
             }
           ],
-          "startDate": "1976-09-08"
+          "startDate": "1976-09-04"
         },
         {
           "endDate": "1976-11-02",
@@ -224,7 +773,7 @@
           "startDate": "1976-10-13"
         },
         {
-          "endDate": "1976-11-11",
+          "endDate": "1976-11-05",
           "items": [
             {
               "artist": "Chicago",
@@ -235,7 +784,29 @@
           "startDate": "1976-11-03"
         },
         {
-          "endDate": "1976-11-16",
+          "endDate": "1976-11-09",
+          "items": [
+            {
+              "artist": "Pussycat",
+              "rank": 1,
+              "title": "Mississippi"
+            }
+          ],
+          "startDate": "1976-11-06"
+        },
+        {
+          "endDate": "1976-11-11",
+          "items": [
+            {
+              "artist": "Chicago",
+              "rank": 1,
+              "title": "If You Leave Me Now"
+            }
+          ],
+          "startDate": "1976-11-10"
+        },
+        {
+          "endDate": "1976-11-12",
           "items": [
             {
               "artist": "Julie Covington",
@@ -254,7 +825,7 @@
               "title": "If You Leave Me Now"
             }
           ],
-          "startDate": "1976-11-17"
+          "startDate": "1976-11-13"
         },
         {
           "endDate": "1976-12-02",
@@ -268,7 +839,7 @@
           "startDate": "1976-12-01"
         },
         {
-          "endDate": "1976-12-07",
+          "endDate": "1976-12-03",
           "items": [
             {
               "artist": "David Soul",
@@ -287,7 +858,29 @@
               "title": "Under the Moon of Love"
             }
           ],
-          "startDate": "1976-12-08"
+          "startDate": "1976-12-04"
+        },
+        {
+          "endDate": "1976-12-24",
+          "items": [
+            {
+              "artist": "Johnny Mathis",
+              "rank": 1,
+              "title": "When a Child Is Born"
+            }
+          ],
+          "startDate": "1976-12-22"
+        },
+        {
+          "endDate": "1976-12-28",
+          "items": [
+            {
+              "artist": "Johnny Mathis",
+              "rank": 1,
+              "title": "When a Child Is Born (Soleado)"
+            }
+          ],
+          "startDate": "1976-12-25"
         },
         {
           "endDate": "1976-12-31",
@@ -298,13 +891,13 @@
               "title": "When a Child Is Born"
             }
           ],
-          "startDate": "1976-12-22"
+          "startDate": "1976-12-29"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -312,7 +905,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "9dc5aa780f39d00947e34a3c86d78f847c5fefd0fd64114f139f8a3e1ba40957",
+  "contentHash": "9ac803769e474bec252aea1f6bda16e13145b01b3de6d0b4415ddfa634fda4d2",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1976

@@ -1,10 +1,284 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1961-01-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Exodus"
+            }
+          ],
+          "startDate": "1961-01-01"
+        },
+        {
+          "endDate": "1961-01-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spartacus"
+            }
+          ],
+          "startDate": "1961-01-04"
+        },
+        {
+          "endDate": "1961-01-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Exodus"
+            }
+          ],
+          "startDate": "1961-01-18"
+        },
+        {
+          "endDate": "1961-01-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spartacus"
+            }
+          ],
+          "startDate": "1961-01-25"
+        },
+        {
+          "endDate": "1961-02-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Swiss Family Robinson"
+            }
+          ],
+          "startDate": "1961-02-01"
+        },
+        {
+          "endDate": "1961-02-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Misfits"
+            }
+          ],
+          "startDate": "1961-02-08"
+        },
+        {
+          "endDate": "1961-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Exodus"
+            }
+          ],
+          "startDate": "1961-02-15"
+        },
+        {
+          "endDate": "1961-02-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Misfits"
+            }
+          ],
+          "startDate": "1961-02-22"
+        },
+        {
+          "endDate": "1961-04-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Exodus"
+            }
+          ],
+          "startDate": "1961-03-01"
+        },
+        {
+          "endDate": "1961-05-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Absent-Minded Professor"
+            }
+          ],
+          "startDate": "1961-04-19"
+        },
+        {
+          "endDate": "1961-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gone with the Wind"
+            }
+          ],
+          "startDate": "1961-05-10"
+        },
+        {
+          "endDate": "1961-05-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Absent-Minded Professor"
+            }
+          ],
+          "startDate": "1961-05-17"
+        },
+        {
+          "endDate": "1961-05-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gone with the Wind"
+            }
+          ],
+          "startDate": "1961-05-24"
+        },
+        {
+          "endDate": "1961-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Young Savages"
+            }
+          ],
+          "startDate": "1961-05-31"
+        },
+        {
+          "endDate": "1961-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Pleasure of His Company"
+            }
+          ],
+          "startDate": "1961-06-07"
+        },
+        {
+          "endDate": "1961-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Parent Trap"
+            }
+          ],
+          "startDate": "1961-07-05"
+        },
+        {
+          "endDate": "1961-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fanny"
+            }
+          ],
+          "startDate": "1961-07-12"
+        },
+        {
+          "endDate": "1961-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Guns of Navarone"
+            }
+          ],
+          "startDate": "1961-08-02"
+        },
+        {
+          "endDate": "1961-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Come September"
+            }
+          ],
+          "startDate": "1961-08-30"
+        },
+        {
+          "endDate": "1961-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hustler"
+            }
+          ],
+          "startDate": "1961-10-11"
+        },
+        {
+          "endDate": "1961-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Breakfast at Tiffany's"
+            }
+          ],
+          "startDate": "1961-10-18"
+        },
+        {
+          "endDate": "1961-11-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "King of Kings"
+            }
+          ],
+          "startDate": "1961-11-22"
+        },
+        {
+          "endDate": "1961-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Comancheros"
+            }
+          ],
+          "startDate": "1961-11-29"
+        },
+        {
+          "endDate": "1961-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "King of Kings"
+            }
+          ],
+          "startDate": "1961-12-06"
+        },
+        {
+          "endDate": "1961-12-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "West Side Story"
+            }
+          ],
+          "startDate": "1961-12-20"
+        },
+        {
+          "endDate": "1961-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Flower Drum Song"
+            }
+          ],
+          "startDate": "1961-12-27"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1961-01-05",
+          "endDate": "1961-01-04",
           "items": [
             {
               "artist": "Cliff Richard and The Shadows",
@@ -15,7 +289,18 @@
           "startDate": "1961-01-01"
         },
         {
-          "endDate": "1961-01-26",
+          "endDate": "1961-01-05",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "I Love You"
+            }
+          ],
+          "startDate": "1961-01-05"
+        },
+        {
+          "endDate": "1961-01-25",
           "items": [
             {
               "artist": "Johnny Tillotson",
@@ -34,10 +319,10 @@
               "title": "Are You Lonesome Tonight?"
             }
           ],
-          "startDate": "1961-01-27"
+          "startDate": "1961-01-26"
         },
         {
-          "endDate": "1961-02-02",
+          "endDate": "1961-02-01",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -56,10 +341,10 @@
               "title": "Are You Lonesome Tonight?"
             }
           ],
-          "startDate": "1961-02-03"
+          "startDate": "1961-02-02"
         },
         {
-          "endDate": "1961-02-09",
+          "endDate": "1961-02-08",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -78,10 +363,10 @@
               "title": "Are You Lonesome Tonight?"
             }
           ],
-          "startDate": "1961-02-10"
+          "startDate": "1961-02-09"
         },
         {
-          "endDate": "1961-02-16",
+          "endDate": "1961-02-15",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -100,10 +385,10 @@
               "title": "Are You Lonesome Tonight?"
             }
           ],
-          "startDate": "1961-02-17"
+          "startDate": "1961-02-16"
         },
         {
-          "endDate": "1961-02-23",
+          "endDate": "1961-02-22",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -112,6 +397,17 @@
             }
           ],
           "startDate": "1961-02-18"
+        },
+        {
+          "endDate": "1961-02-23",
+          "items": [
+            {
+              "artist": "Petula Clark",
+              "rank": 1,
+              "title": "Sailor"
+            }
+          ],
+          "startDate": "1961-02-23"
         },
         {
           "endDate": "1961-02-24",
@@ -125,7 +421,7 @@
           "startDate": "1961-02-24"
         },
         {
-          "endDate": "1961-03-02",
+          "endDate": "1961-03-01",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -136,7 +432,18 @@
           "startDate": "1961-02-25"
         },
         {
-          "endDate": "1961-03-23",
+          "endDate": "1961-03-02",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Walk Right Back / Ebony Eyes"
+            }
+          ],
+          "startDate": "1961-03-02"
+        },
+        {
+          "endDate": "1961-03-08",
           "items": [
             {
               "artist": "The Everly Brothers",
@@ -147,6 +454,50 @@
           "startDate": "1961-03-03"
         },
         {
+          "endDate": "1961-03-09",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Walk Right Back / Ebony Eyes"
+            }
+          ],
+          "startDate": "1961-03-09"
+        },
+        {
+          "endDate": "1961-03-15",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Walk Right Back"
+            }
+          ],
+          "startDate": "1961-03-10"
+        },
+        {
+          "endDate": "1961-03-16",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Walk Right Back / Ebony Eyes"
+            }
+          ],
+          "startDate": "1961-03-16"
+        },
+        {
+          "endDate": "1961-03-22",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Walk Right Back"
+            }
+          ],
+          "startDate": "1961-03-17"
+        },
+        {
           "endDate": "1961-04-06",
           "items": [
             {
@@ -155,7 +506,7 @@
               "title": "Wooden Heart"
             }
           ],
-          "startDate": "1961-03-24"
+          "startDate": "1961-03-23"
         },
         {
           "endDate": "1961-04-07",
@@ -163,7 +514,7 @@
             {
               "artist": "The Allisons",
               "rank": 1,
-              "title": "Are You Sure?\" †"
+              "title": "Are You Sure?"
             }
           ],
           "startDate": "1961-04-07"
@@ -185,7 +536,7 @@
             {
               "artist": "The Allisons",
               "rank": 1,
-              "title": "Are You Sure?\" †"
+              "title": "Are You Sure?"
             }
           ],
           "startDate": "1961-04-21"
@@ -213,7 +564,7 @@
           "startDate": "1961-04-28"
         },
         {
-          "endDate": "1961-05-04",
+          "endDate": "1961-05-03",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -232,10 +583,10 @@
               "title": "Blue Moon"
             }
           ],
-          "startDate": "1961-05-05"
+          "startDate": "1961-05-04"
         },
         {
-          "endDate": "1961-05-11",
+          "endDate": "1961-05-10",
           "items": [
             {
               "artist": "The Temperance Seven",
@@ -246,7 +597,7 @@
           "startDate": "1961-05-06"
         },
         {
-          "endDate": "1961-05-18",
+          "endDate": "1961-05-17",
           "items": [
             {
               "artist": "The Marcels",
@@ -254,7 +605,18 @@
               "title": "Blue Moon"
             }
           ],
-          "startDate": "1961-05-12"
+          "startDate": "1961-05-11"
+        },
+        {
+          "endDate": "1961-05-18",
+          "items": [
+            {
+              "artist": "Floyd Cramer",
+              "rank": 1,
+              "title": "On the Rebound"
+            }
+          ],
+          "startDate": "1961-05-18"
         },
         {
           "endDate": "1961-05-19",
@@ -268,7 +630,7 @@
           "startDate": "1961-05-19"
         },
         {
-          "endDate": "1961-05-25",
+          "endDate": "1961-05-24",
           "items": [
             {
               "artist": "The Marcels",
@@ -277,6 +639,17 @@
             }
           ],
           "startDate": "1961-05-20"
+        },
+        {
+          "endDate": "1961-05-25",
+          "items": [
+            {
+              "artist": "The Temperance Seven",
+              "rank": 1,
+              "title": "You're Driving Me Crazy"
+            }
+          ],
+          "startDate": "1961-05-25"
         },
         {
           "endDate": "1961-05-26",
@@ -290,7 +663,7 @@
           "startDate": "1961-05-26"
         },
         {
-          "endDate": "1961-06-01",
+          "endDate": "1961-05-31",
           "items": [
             {
               "artist": "Del Shannon",
@@ -309,7 +682,7 @@
               "title": "Surrender"
             }
           ],
-          "startDate": "1961-06-02"
+          "startDate": "1961-06-01"
         },
         {
           "endDate": "1961-07-13",
@@ -334,7 +707,7 @@
           "startDate": "1961-07-14"
         },
         {
-          "endDate": "1961-07-20",
+          "endDate": "1961-07-19",
           "items": [
             {
               "artist": "Del Shannon",
@@ -343,6 +716,17 @@
             }
           ],
           "startDate": "1961-07-15"
+        },
+        {
+          "endDate": "1961-07-20",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Temptation"
+            }
+          ],
+          "startDate": "1961-07-20"
         },
         {
           "endDate": "1961-07-21",
@@ -356,7 +740,7 @@
           "startDate": "1961-07-21"
         },
         {
-          "endDate": "1961-07-27",
+          "endDate": "1961-07-26",
           "items": [
             {
               "artist": "Del Shannon",
@@ -365,6 +749,17 @@
             }
           ],
           "startDate": "1961-07-22"
+        },
+        {
+          "endDate": "1961-07-27",
+          "items": [
+            {
+              "artist": "The Everly Brothers",
+              "rank": 1,
+              "title": "Temptation"
+            }
+          ],
+          "startDate": "1961-07-27"
         },
         {
           "endDate": "1961-07-28",
@@ -378,7 +773,7 @@
           "startDate": "1961-07-28"
         },
         {
-          "endDate": "1961-08-03",
+          "endDate": "1961-08-02",
           "items": [
             {
               "artist": "The Everly Brothers",
@@ -387,6 +782,17 @@
             }
           ],
           "startDate": "1961-07-29"
+        },
+        {
+          "endDate": "1961-08-03",
+          "items": [
+            {
+              "artist": "Eden Kane",
+              "rank": 1,
+              "title": "Well I Ask You"
+            }
+          ],
+          "startDate": "1961-08-03"
         },
         {
           "endDate": "1961-08-04",
@@ -400,7 +806,7 @@
           "startDate": "1961-08-04"
         },
         {
-          "endDate": "1961-08-10",
+          "endDate": "1961-08-09",
           "items": [
             {
               "artist": "Eden Kane",
@@ -411,6 +817,28 @@
           "startDate": "1961-08-05"
         },
         {
+          "endDate": "1961-08-11",
+          "items": [
+            {
+              "artist": "Helen Shapiro",
+              "rank": 1,
+              "title": "You Don't Know"
+            }
+          ],
+          "startDate": "1961-08-10"
+        },
+        {
+          "endDate": "1961-08-16",
+          "items": [
+            {
+              "artist": "Eden Kane",
+              "rank": 1,
+              "title": "Well I Ask You"
+            }
+          ],
+          "startDate": "1961-08-12"
+        },
+        {
           "endDate": "1961-08-24",
           "items": [
             {
@@ -419,7 +847,7 @@
               "title": "You Don't Know"
             }
           ],
-          "startDate": "1961-08-11"
+          "startDate": "1961-08-17"
         },
         {
           "endDate": "1961-09-07",
@@ -444,7 +872,7 @@
           "startDate": "1961-09-08"
         },
         {
-          "endDate": "1961-09-21",
+          "endDate": "1961-09-20",
           "items": [
             {
               "artist": "John Leyton",
@@ -455,18 +883,29 @@
           "startDate": "1961-09-09"
         },
         {
+          "endDate": "1961-09-21",
+          "items": [
+            {
+              "artist": "Shirley Bassey",
+              "rank": 1,
+              "title": "Reach for the Stars / Climb Ev'ry Mountain"
+            }
+          ],
+          "startDate": "1961-09-21"
+        },
+        {
           "endDate": "1961-09-22",
           "items": [
             {
               "artist": "Elvis Presley",
               "rank": 1,
-              "title": "Wild in the Country\" †"
+              "title": "Wild in the Country"
             }
           ],
           "startDate": "1961-09-22"
         },
         {
-          "endDate": "1961-10-05",
+          "endDate": "1961-10-04",
           "items": [
             {
               "artist": "John Leyton",
@@ -475,6 +914,17 @@
             }
           ],
           "startDate": "1961-09-23"
+        },
+        {
+          "endDate": "1961-10-05",
+          "items": [
+            {
+              "artist": "The Shadows",
+              "rank": 1,
+              "title": "Kon-Tiki"
+            }
+          ],
+          "startDate": "1961-10-05"
         },
         {
           "endDate": "1961-10-06",
@@ -488,7 +938,7 @@
           "startDate": "1961-10-06"
         },
         {
-          "endDate": "1961-10-12",
+          "endDate": "1961-10-11",
           "items": [
             {
               "artist": "The Shadows",
@@ -497,6 +947,17 @@
             }
           ],
           "startDate": "1961-10-07"
+        },
+        {
+          "endDate": "1961-10-12",
+          "items": [
+            {
+              "artist": "The Highwaymen",
+              "rank": 1,
+              "title": "Michael"
+            }
+          ],
+          "startDate": "1961-10-12"
         },
         {
           "endDate": "1961-10-13",
@@ -510,7 +971,7 @@
           "startDate": "1961-10-13"
         },
         {
-          "endDate": "1961-10-19",
+          "endDate": "1961-10-18",
           "items": [
             {
               "artist": "The Highwaymen",
@@ -529,10 +990,10 @@
               "title": "Walkin' Back to Happiness"
             }
           ],
-          "startDate": "1961-10-20"
+          "startDate": "1961-10-19"
         },
         {
-          "endDate": "1961-10-26",
+          "endDate": "1961-10-25",
           "items": [
             {
               "artist": "Helen Shapiro",
@@ -551,10 +1012,10 @@
               "title": "Walkin' Back to Happiness"
             }
           ],
-          "startDate": "1961-10-27"
+          "startDate": "1961-10-26"
         },
         {
-          "endDate": "1961-11-02",
+          "endDate": "1961-11-01",
           "items": [
             {
               "artist": "Helen Shapiro",
@@ -573,10 +1034,10 @@
               "title": "Walkin' Back to Happiness"
             }
           ],
-          "startDate": "1961-11-03"
+          "startDate": "1961-11-02"
         },
         {
-          "endDate": "1961-11-09",
+          "endDate": "1961-11-08",
           "items": [
             {
               "artist": "Helen Shapiro",
@@ -585,6 +1046,17 @@
             }
           ],
           "startDate": "1961-11-04"
+        },
+        {
+          "endDate": "1961-11-09",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "(Marie's the Name) His Latest Flame / Little Sister"
+            }
+          ],
+          "startDate": "1961-11-09"
         },
         {
           "endDate": "1961-11-10",
@@ -598,7 +1070,7 @@
           "startDate": "1961-11-10"
         },
         {
-          "endDate": "1961-11-16",
+          "endDate": "1961-11-15",
           "items": [
             {
               "artist": "Helen Shapiro",
@@ -609,7 +1081,18 @@
           "startDate": "1961-11-11"
         },
         {
-          "endDate": "1961-12-08",
+          "endDate": "1961-11-16",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "(Marie's the Name) His Latest Flame / Little Sister"
+            }
+          ],
+          "startDate": "1961-11-16"
+        },
+        {
+          "endDate": "1961-11-22",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -620,6 +1103,94 @@
           "startDate": "1961-11-17"
         },
         {
+          "endDate": "1961-11-23",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "(Marie's the Name) His Latest Flame / Little Sister"
+            }
+          ],
+          "startDate": "1961-11-23"
+        },
+        {
+          "endDate": "1961-11-29",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "His Latest Flame"
+            }
+          ],
+          "startDate": "1961-11-24"
+        },
+        {
+          "endDate": "1961-11-30",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "(Marie's the Name) His Latest Flame / Little Sister"
+            }
+          ],
+          "startDate": "1961-11-30"
+        },
+        {
+          "endDate": "1961-12-01",
+          "items": [
+            {
+              "artist": "Frankie Vaughan",
+              "rank": 1,
+              "title": "Tower of Strength"
+            }
+          ],
+          "startDate": "1961-12-01"
+        },
+        {
+          "endDate": "1961-12-06",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "His Latest Flame"
+            }
+          ],
+          "startDate": "1961-12-02"
+        },
+        {
+          "endDate": "1961-12-07",
+          "items": [
+            {
+              "artist": "Frankie Vaughan",
+              "rank": 1,
+              "title": "Tower of Strength"
+            }
+          ],
+          "startDate": "1961-12-07"
+        },
+        {
+          "endDate": "1961-12-13",
+          "items": [
+            {
+              "artist": "Bobby Vee",
+              "rank": 1,
+              "title": "Take Good Care of My Baby"
+            }
+          ],
+          "startDate": "1961-12-08"
+        },
+        {
+          "endDate": "1961-12-27",
+          "items": [
+            {
+              "artist": "Frankie Vaughan",
+              "rank": 1,
+              "title": "Tower of Strength"
+            }
+          ],
+          "startDate": "1961-12-14"
+        },
+        {
           "endDate": "1961-12-29",
           "items": [
             {
@@ -628,7 +1199,7 @@
               "title": "Moon River"
             }
           ],
-          "startDate": "1961-12-29"
+          "startDate": "1961-12-28"
         },
         {
           "endDate": "1961-12-31",
@@ -636,7 +1207,7 @@
             {
               "artist": "Acker Bilk",
               "rank": 1,
-              "title": "Stranger on the Shore\" †"
+              "title": "Stranger on the Shore"
             }
           ],
           "startDate": "1961-12-30"
@@ -645,7 +1216,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -653,7 +1224,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "577ddc774d266aa0406202bee3ced8166ebc509f8386c5180b58d6e7b108c4c0",
+  "contentHash": "46b61d7f1cb58bef529fc18fb43c4dfd1bb1379be28278b81f305af5fe2041fe",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1961

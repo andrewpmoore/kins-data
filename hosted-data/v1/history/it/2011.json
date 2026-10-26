@@ -1,5 +1,339 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2011-01-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Christmas in South Africa"
+            }
+          ],
+          "startDate": "2011-01-01"
+        },
+        {
+          "endDate": "2011-01-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Santa Claus Gang"
+            }
+          ],
+          "startDate": "2011-01-02"
+        },
+        {
+          "endDate": "2011-01-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What a Beautiful Day"
+            }
+          ],
+          "startDate": "2011-01-09"
+        },
+        {
+          "endDate": "2011-02-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Qualunquemente"
+            }
+          ],
+          "startDate": "2011-01-23"
+        },
+        {
+          "endDate": "2011-02-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Women Vs Men"
+            }
+          ],
+          "startDate": "2011-02-06"
+        },
+        {
+          "endDate": "2011-03-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Ages of Love"
+            }
+          ],
+          "startDate": "2011-02-27"
+        },
+        {
+          "endDate": "2011-03-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rango"
+            }
+          ],
+          "startDate": "2011-03-13"
+        },
+        {
+          "endDate": "2011-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Escort in Love"
+            }
+          ],
+          "startDate": "2011-03-20"
+        },
+        {
+          "endDate": "2011-04-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Next Three Days"
+            }
+          ],
+          "startDate": "2011-04-10"
+        },
+        {
+          "endDate": "2011-04-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rio"
+            }
+          ],
+          "startDate": "2011-04-17"
+        },
+        {
+          "endDate": "2011-05-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Thor"
+            }
+          ],
+          "startDate": "2011-05-01"
+        },
+        {
+          "endDate": "2011-05-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast Five"
+            }
+          ],
+          "startDate": "2011-05-08"
+        },
+        {
+          "endDate": "2011-06-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: On Stranger Tides"
+            }
+          ],
+          "startDate": "2011-05-22"
+        },
+        {
+          "endDate": "2011-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X-Men: First Class"
+            }
+          ],
+          "startDate": "2011-06-12"
+        },
+        {
+          "endDate": "2011-06-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Season of the Witch"
+            }
+          ],
+          "startDate": "2011-06-19"
+        },
+        {
+          "endDate": "2011-07-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cars 2"
+            }
+          ],
+          "startDate": "2011-06-26"
+        },
+        {
+          "endDate": "2011-07-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers: Dark of the Moon"
+            }
+          ],
+          "startDate": "2011-07-03"
+        },
+        {
+          "endDate": "2011-08-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Deathly Hallows: Part 2"
+            }
+          ],
+          "startDate": "2011-07-17"
+        },
+        {
+          "endDate": "2011-08-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Captain America: The First Avenger"
+            }
+          ],
+          "startDate": "2011-08-07"
+        },
+        {
+          "endDate": "2011-08-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mr. Popper's Penguins"
+            }
+          ],
+          "startDate": "2011-08-14"
+        },
+        {
+          "endDate": "2011-08-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Horrible Bosses"
+            }
+          ],
+          "startDate": "2011-08-21"
+        },
+        {
+          "endDate": "2011-09-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kung Fu Panda 2"
+            }
+          ],
+          "startDate": "2011-08-28"
+        },
+        {
+          "endDate": "2011-09-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Super 8"
+            }
+          ],
+          "startDate": "2011-09-11"
+        },
+        {
+          "endDate": "2011-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Smurfs"
+            }
+          ],
+          "startDate": "2011-09-18"
+        },
+        {
+          "endDate": "2011-10-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ex 2: Still Friends?"
+            }
+          ],
+          "startDate": "2011-10-09"
+        },
+        {
+          "endDate": "2011-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Three Musketeers"
+            }
+          ],
+          "startDate": "2011-10-16"
+        },
+        {
+          "endDate": "2011-10-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Matrimonio a Parigi"
+            }
+          ],
+          "startDate": "2011-10-23"
+        },
+        {
+          "endDate": "2011-11-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Worst Week of My Life2011 Re-release"
+            }
+          ],
+          "startDate": "2011-10-30"
+        },
+        {
+          "endDate": "2011-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I soliti idioti"
+            }
+          ],
+          "startDate": "2011-11-06"
+        },
+        {
+          "endDate": "2011-12-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Twilight Saga: Breaking Dawn - Part 1"
+            }
+          ],
+          "startDate": "2011-11-20"
+        },
+        {
+          "endDate": "2011-12-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Midnight in Paris"
+            }
+          ],
+          "startDate": "2011-12-04"
+        },
+        {
+          "endDate": "2011-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sherlock Holmes: A Game of Shadows"
+            }
+          ],
+          "startDate": "2011-12-18"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -139,7 +473,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2021-12-24",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "IT",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
@@ -147,7 +481,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "0515cb29b07d66751663502ccd68b53154e561bab0dea95f947863ec81b8222a",
+  "contentHash": "bebf96f4ea9d25da4ccb312b55c0e292fec488839c63b9ba968fedeea564798b",
   "country": "it",
   "schemaVersion": 1,
   "year": 2011

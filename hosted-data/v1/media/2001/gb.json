@@ -1,5 +1,86 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2001",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780330367356",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780330367356-L.jpg?default=false",
+          "author": "Helen Fielding",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780330367356",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780330367356-L.jpg?default=false",
+          "creator": "Helen Fielding",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "Bridget Jones: The Edge of Reason",
+          "url": "https://books.google.com/books?vid=ISBN:9780330367356"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2001/dec/29/bestbooks"
+      },
+      "title": "UK print bestseller",
+      "year": 2001
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2001",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780747550990",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780747550990-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780747550990",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780747550990-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Harry Potter and the Goblet of Fire",
+          "url": "https://books.google.com/books?vid=ISBN:9780747550990"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2001/dec/29/bestbooks"
+      },
+      "title": "UK children's bestseller",
+      "year": 2001
+    },
+    "games": {
+      "id": "media-awardWinner-2001",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2001&idGame=572",
+          "artworkURL": "https://www.interactive.org/images/games/2001_diablo_ii_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "Diablo II"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2001&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2001
+    },
     "television": {
       "id": "media-annualTelevisionAudience-2001",
       "items": [
@@ -26,7 +107,7 @@
       "year": 2001
     }
   },
-  "contentHash": "c75c19563abb9b6484d5c20dc3f8462b114fe88df0327b3e4051bb2900dc1462",
+  "contentHash": "87c7d7abfab29f89c70d3c1c965cb2813dbd95815290858a15e9365b2f9d0b58",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2001

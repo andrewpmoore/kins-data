@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2022",
+      "items": [
+        {
+          "author": "Bonnie Garmus",
+          "creator": "Bonnie Garmus",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Eine Frage der Chemie",
+          "url": "https://books.google.com/books?q=Eine+Frage+der+Chemie"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2022/"
+      },
+      "title": "DE print bestseller",
+      "year": 2022
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2022",
+      "items": [
+        {
+          "author": "Marc-Uwe Kling",
+          "creator": "Marc-Uwe Kling",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Das Neinhorn",
+          "url": "https://books.google.com/books?q=Das+Neinhorn"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2022/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2022
+    },
     "games": {
       "id": "media-awardWinner-2022",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2022
     }
   },
-  "contentHash": "2a15c28c9a3e42c228238104bfa1b7f7b178552a06ca5983aaab424f09c987ce",
+  "contentHash": "d2b2b7b5545a22de2741fc9ccbff982a5984947ef838b00d67bcb9a8b3450c9c",
   "country": "de",
   "schemaVersion": 1,
   "year": 2022

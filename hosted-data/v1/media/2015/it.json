@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2015",
+      "items": [
+        {
+          "author": "Paula Hawkins",
+          "creator": "Paula Hawkins",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "La ragazza del treno",
+          "url": "https://books.google.com/books?q=La+ragazza+del+treno"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2015.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2015
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2015",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Diario di una schiappa: Portatemi a casa!",
+          "url": "https://books.google.com/books?q=Diario+di+una+schiappa:+Portatemi+a+casa!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2015.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2015
+    },
     "games": {
       "id": "media-awardWinner-2015",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2015
     }
   },
-  "contentHash": "f8d2a7e5d573a9cc8f696d828bd3c6cd26d570a1de2c0fff1b6f50fe16f31f53",
+  "contentHash": "0880975fb0d1ceabb4e2dcd8e960a947dabb55bcc522195b2b1a68a3f11cb97f",
   "country": "it",
   "schemaVersion": 1,
   "year": 2015

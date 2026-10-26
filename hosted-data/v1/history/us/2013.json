@@ -1,5 +1,429 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2013-01-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hobbit: An Unexpected Journey"
+            }
+          ],
+          "startDate": "2013-01-01"
+        },
+        {
+          "endDate": "2013-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Texas Chainsaw"
+            }
+          ],
+          "startDate": "2013-01-06"
+        },
+        {
+          "endDate": "2013-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Zero Dark Thirty"
+            }
+          ],
+          "startDate": "2013-01-13"
+        },
+        {
+          "endDate": "2013-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mama"
+            }
+          ],
+          "startDate": "2013-01-20"
+        },
+        {
+          "endDate": "2013-02-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hansel & Gretel: Witch Hunters"
+            }
+          ],
+          "startDate": "2013-01-27"
+        },
+        {
+          "endDate": "2013-02-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Warm Bodies"
+            }
+          ],
+          "startDate": "2013-02-03"
+        },
+        {
+          "endDate": "2013-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Identity Thief"
+            }
+          ],
+          "startDate": "2013-02-10"
+        },
+        {
+          "endDate": "2013-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Good Day to Die Hard"
+            }
+          ],
+          "startDate": "2013-02-17"
+        },
+        {
+          "endDate": "2013-03-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Identity Thief"
+            }
+          ],
+          "startDate": "2013-02-24"
+        },
+        {
+          "endDate": "2013-03-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jack the Giant Slayer"
+            }
+          ],
+          "startDate": "2013-03-03"
+        },
+        {
+          "endDate": "2013-03-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Oz the Great and Powerful"
+            }
+          ],
+          "startDate": "2013-03-10"
+        },
+        {
+          "endDate": "2013-03-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Croods"
+            }
+          ],
+          "startDate": "2013-03-24"
+        },
+        {
+          "endDate": "2013-04-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "G.I. Joe: Retaliation"
+            }
+          ],
+          "startDate": "2013-03-31"
+        },
+        {
+          "endDate": "2013-04-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Evil Dead"
+            }
+          ],
+          "startDate": "2013-04-07"
+        },
+        {
+          "endDate": "2013-04-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "42"
+            }
+          ],
+          "startDate": "2013-04-14"
+        },
+        {
+          "endDate": "2013-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Oblivion"
+            }
+          ],
+          "startDate": "2013-04-21"
+        },
+        {
+          "endDate": "2013-05-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pain & Gain"
+            }
+          ],
+          "startDate": "2013-04-28"
+        },
+        {
+          "endDate": "2013-05-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Iron Man 3"
+            }
+          ],
+          "startDate": "2013-05-05"
+        },
+        {
+          "endDate": "2013-05-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Trek Into Darkness"
+            }
+          ],
+          "startDate": "2013-05-19"
+        },
+        {
+          "endDate": "2013-06-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast & Furious 6"
+            }
+          ],
+          "startDate": "2013-05-26"
+        },
+        {
+          "endDate": "2013-06-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Purge"
+            }
+          ],
+          "startDate": "2013-06-09"
+        },
+        {
+          "endDate": "2013-06-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Man of Steel"
+            }
+          ],
+          "startDate": "2013-06-16"
+        },
+        {
+          "endDate": "2013-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Monsters University"
+            }
+          ],
+          "startDate": "2013-06-23"
+        },
+        {
+          "endDate": "2013-07-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Despicable Me 2"
+            }
+          ],
+          "startDate": "2013-07-07"
+        },
+        {
+          "endDate": "2013-07-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Conjuring"
+            }
+          ],
+          "startDate": "2013-07-21"
+        },
+        {
+          "endDate": "2013-08-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wolverine"
+            }
+          ],
+          "startDate": "2013-07-28"
+        },
+        {
+          "endDate": "2013-08-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "2 Guns"
+            }
+          ],
+          "startDate": "2013-08-04"
+        },
+        {
+          "endDate": "2013-08-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Elysium"
+            }
+          ],
+          "startDate": "2013-08-11"
+        },
+        {
+          "endDate": "2013-08-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Butler"
+            }
+          ],
+          "startDate": "2013-08-18"
+        },
+        {
+          "endDate": "2013-09-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One Direction: This Is Us"
+            }
+          ],
+          "startDate": "2013-09-01"
+        },
+        {
+          "endDate": "2013-09-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Riddick"
+            }
+          ],
+          "startDate": "2013-09-08"
+        },
+        {
+          "endDate": "2013-09-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Insidious: Chapter 2"
+            }
+          ],
+          "startDate": "2013-09-15"
+        },
+        {
+          "endDate": "2013-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Prisoners"
+            }
+          ],
+          "startDate": "2013-09-22"
+        },
+        {
+          "endDate": "2013-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cloudy with a Chance of Meatballs 2"
+            }
+          ],
+          "startDate": "2013-09-29"
+        },
+        {
+          "endDate": "2013-10-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gravity"
+            }
+          ],
+          "startDate": "2013-10-06"
+        },
+        {
+          "endDate": "2013-11-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jackass Presents: Bad Grandpa"
+            }
+          ],
+          "startDate": "2013-10-27"
+        },
+        {
+          "endDate": "2013-11-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ender's Game"
+            }
+          ],
+          "startDate": "2013-11-03"
+        },
+        {
+          "endDate": "2013-11-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Thor: The Dark World"
+            }
+          ],
+          "startDate": "2013-11-10"
+        },
+        {
+          "endDate": "2013-12-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games: Catching Fire"
+            }
+          ],
+          "startDate": "2013-11-24"
+        },
+        {
+          "endDate": "2013-12-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Frozen"
+            }
+          ],
+          "startDate": "2013-12-08"
+        },
+        {
+          "endDate": "2013-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hobbit: The Desolation of Smaug"
+            }
+          ],
+          "startDate": "2013-12-15"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -20,7 +444,7 @@
             {
               "artist": "Macklemore & Ryan Lewis featuring Wanz",
               "rank": 1,
-              "title": "Thrift Shop\"♪"
+              "title": "Thrift Shop"
             }
           ],
           "startDate": "2013-02-02"
@@ -34,7 +458,18 @@
               "title": "Harlem Shake"
             }
           ],
-          "startDate": "2013-03-16"
+          "startDate": "2013-03-02"
+        },
+        {
+          "endDate": "2013-04-19",
+          "items": [
+            {
+              "artist": "Macklemore & Ryan Lewis featuring Wanz",
+              "rank": 1,
+              "title": "Thrift Shop"
+            }
+          ],
+          "startDate": "2013-04-06"
         },
         {
           "endDate": "2013-04-26",
@@ -111,7 +546,18 @@
               "title": "Royals"
             }
           ],
-          "startDate": "2013-10-19"
+          "startDate": "2013-10-12"
+        },
+        {
+          "endDate": "2013-12-20",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Wrecking Ball"
+            }
+          ],
+          "startDate": "2013-12-14"
         },
         {
           "endDate": "2013-12-31",
@@ -128,7 +574,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -136,7 +582,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "faf1bacbb87d1aea364357b3f6d1b4f97fa80b408c954aa2055463212b1e432c",
+  "contentHash": "e7ca1a00fb9a583ec8f8c50c79c9f55d44b9737a8e5cfddfac77ff54b71bbdad",
   "country": "us",
   "schemaVersion": 1,
   "year": 2013

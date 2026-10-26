@@ -4,6 +4,50 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
+          "endDate": "2023-02-09",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-02-03"
+        },
+        {
+          "endDate": "2023-03-09",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-03-03"
+        },
+        {
+          "endDate": "2023-03-23",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-03-17"
+        },
+        {
+          "endDate": "2023-05-18",
+          "items": [
+            {
+              "artist": "Calvin Harris and Ellie Goulding",
+              "rank": 1,
+              "title": "Miracle"
+            }
+          ],
+          "startDate": "2023-05-05"
+        },
+        {
           "endDate": "2023-08-31",
           "items": [
             {
@@ -59,7 +103,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "ed4fd45d80d7fc1e0b5efec3fb871408342fe9ebc7189b669d3c911d4768b15a",
+  "contentHash": "caba16821bacf92fcaf2ee140312149077aacdb4a2f0e7f52afd8918e5873c22",
   "country": "ie",
   "schemaVersion": 1,
   "year": 2023

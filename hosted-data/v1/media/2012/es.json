@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2012",
+      "items": [
+        {
+          "author": "E.L. James",
+          "creator": "E.L. James",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Cincuenta sombras más oscuras",
+          "url": "https://books.google.com/books?q=Cincuenta+sombras+más+oscuras"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2012.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2012
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2012",
+      "items": [
+        {
+          "author": "Suzanne Collins",
+          "creator": "Suzanne Collins",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "En llamas",
+          "url": "https://books.google.com/books?q=En+llamas"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2012.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2012
+    },
     "games": {
       "id": "media-awardWinner-2012",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2012
     }
   },
-  "contentHash": "c911f6f3326771b9097f3a6c009f4d3b85e8b60497f2cecc4b9936a4278ba6bc",
+  "contentHash": "bc6cfc0bd6ced25dfbae6065bb0a0333265c6994c3feeabbad569a8b91127d3f",
   "country": "es",
   "schemaVersion": 1,
   "year": 2012

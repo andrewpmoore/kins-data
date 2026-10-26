@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2014",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788937833762",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788937833762-L.jpg?default=false",
+          "author": "John Green",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788937833762",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788937833762-L.jpg?default=false",
+          "creator": "John Green",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Fault in Our Stars",
+          "url": "https://books.google.com/books?vid=ISBN:9788937833762"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2014-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2014
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2014",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780141354217",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780141354217-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780141354217",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780141354217-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Diary of a Wimpy Kid: The Long Haul",
+          "url": "https://books.google.com/books?vid=ISBN:9780141354217"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2014-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2014
+    },
     "games": {
       "id": "media-awardWinner-2014",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2014
     }
   },
-  "contentHash": "1390fcfba75d3416f0e27a1577d63d7292588e10d84607906c00c79c2279d88e",
+  "contentHash": "357cb16782e2e5994fb2a4b5a1908003da9a652edd1efb2b2207ede492dddb96",
   "country": "us",
   "schemaVersion": 1,
   "year": 2014

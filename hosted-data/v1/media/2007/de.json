@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2007",
+      "items": [
+        {
+          "author": "Andrea Maria Schenkel",
+          "creator": "Andrea Maria Schenkel",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Tannöd",
+          "url": "https://books.google.com/books?q=Tannöd"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2007/"
+      },
+      "title": "DE print bestseller",
+      "year": 2007
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2007",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Harry Potter und die Heiligtümer des Todes",
+          "url": "https://books.google.com/books?q=Harry+Potter+und+die+Heiligtümer+des+Todes"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2007/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2007
+    },
     "games": {
       "id": "media-awardWinner-2007",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2007
     }
   },
-  "contentHash": "987f42981a3cdac1a829b7112e70d738bce29798d0e42741fad54b8641bd3270",
+  "contentHash": "964d80b47152b432987395feed7c7b9b8fea0b76e1020f21fb1b9fa4ebc822d0",
   "country": "de",
   "schemaVersion": 1,
   "year": 2007

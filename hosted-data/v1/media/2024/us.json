@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2024",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9798890981790",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9798890981790-L.jpg?default=false",
+          "author": "Kristin Hannah",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9798890981790",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9798890981790-L.jpg?default=false",
+          "creator": "Kristin Hannah",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Women",
+          "url": "https://books.google.com/books?vid=ISBN:9798890981790"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2024-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2024
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2024",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780702340291",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780702340291-L.jpg?default=false",
+          "author": "Dav Pilkey",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780702340291",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780702340291-L.jpg?default=false",
+          "creator": "Dav Pilkey",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Dog Man: The Scarlet Shedder",
+          "url": "https://books.google.com/books?vid=ISBN:9780702340291"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2024-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2024
+    },
     "games": {
       "id": "media-awardWinner-2024",
       "items": [
@@ -25,7 +83,7 @@
       "year": 2024
     }
   },
-  "contentHash": "601026df6b3a0ad7fd941d21e8bf46631d3e7ea93b6e09bad6b54bdba32cf2fd",
+  "contentHash": "8b62c678f21bc5ea92fde7c5459495bc1f01ba1616338fd4f05d617768fe1870",
   "country": "us",
   "schemaVersion": 1,
   "year": 2024

@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2003",
+      "items": [
+        {
+          "author": "Henning Mankell",
+          "creator": "Henning Mankell",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Die Rückkehr des Tanzlehrers",
+          "url": "https://books.google.com/books?q=Die+Rückkehr+des+Tanzlehrers"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2003/"
+      },
+      "title": "DE print bestseller",
+      "year": 2003
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2003",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Harry Potter und der Orden des Phönix",
+          "url": "https://books.google.com/books?q=Harry+Potter+und+der+Orden+des+Phönix"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2003/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2003
+    },
+    "games": {
+      "id": "media-awardWinner-2003",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2003&idGame=340",
+          "artworkURL": "https://www.interactive.org/images/games/2003_battlefield_1942_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2002,
+          "title": "Battlefield 1942"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2003&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2003
+    }
+  },
+  "contentHash": "315f72d093427529e0d8612c491e5beaa080d5459f9a2e29c889a89ac2fd52ed",
+  "country": "de",
+  "schemaVersion": 1,
+  "year": 2003
+}

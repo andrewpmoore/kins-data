@@ -1,5 +1,279 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1974-01-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Serpico"
+            }
+          ],
+          "startDate": "1974-01-01"
+        },
+        {
+          "endDate": "1974-01-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Papillon"
+            }
+          ],
+          "startDate": "1974-01-02"
+        },
+        {
+          "endDate": "1974-04-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Exorcist"
+            }
+          ],
+          "startDate": "1974-01-09"
+        },
+        {
+          "endDate": "1974-04-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sting"
+            }
+          ],
+          "startDate": "1974-04-03"
+        },
+        {
+          "endDate": "1974-04-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blazing Saddles"
+            }
+          ],
+          "startDate": "1974-04-17"
+        },
+        {
+          "endDate": "1974-05-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sting"
+            }
+          ],
+          "startDate": "1974-04-24"
+        },
+        {
+          "endDate": "1974-06-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Great Gatsby"
+            }
+          ],
+          "startDate": "1974-05-29"
+        },
+        {
+          "endDate": "1974-06-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sting"
+            }
+          ],
+          "startDate": "1974-06-05"
+        },
+        {
+          "endDate": "1974-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Poseidon Adventure"
+            }
+          ],
+          "startDate": "1974-06-12"
+        },
+        {
+          "endDate": "1974-06-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lords of Flatbush"
+            }
+          ],
+          "startDate": "1974-06-19"
+        },
+        {
+          "endDate": "1974-07-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Exorcist"
+            }
+          ],
+          "startDate": "1974-06-26"
+        },
+        {
+          "endDate": "1974-07-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Herbie Rides Again"
+            }
+          ],
+          "startDate": "1974-07-17"
+        },
+        {
+          "endDate": "1974-07-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dirty Mary, Crazy Larry"
+            }
+          ],
+          "startDate": "1974-07-24"
+        },
+        {
+          "endDate": "1974-08-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "For Pete's Sake"
+            }
+          ],
+          "startDate": "1974-07-31"
+        },
+        {
+          "endDate": "1974-08-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Return of the Dragon"
+            }
+          ],
+          "startDate": "1974-08-14"
+        },
+        {
+          "endDate": "1974-08-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "That's Entertainment!"
+            }
+          ],
+          "startDate": "1974-08-21"
+        },
+        {
+          "endDate": "1974-09-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Chinatown"
+            }
+          ],
+          "startDate": "1974-08-28"
+        },
+        {
+          "endDate": "1974-09-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "That's Entertainment!"
+            }
+          ],
+          "startDate": "1974-09-11"
+        },
+        {
+          "endDate": "1974-10-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Macon County Line"
+            }
+          ],
+          "startDate": "1974-09-25"
+        },
+        {
+          "endDate": "1974-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Longest Yard"
+            }
+          ],
+          "startDate": "1974-10-02"
+        },
+        {
+          "endDate": "1974-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cabaret"
+            }
+          ],
+          "startDate": "1974-10-09"
+        },
+        {
+          "endDate": "1974-10-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Airport 1975"
+            }
+          ],
+          "startDate": "1974-10-23"
+        },
+        {
+          "endDate": "1974-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Longest Yard"
+            }
+          ],
+          "startDate": "1974-10-30"
+        },
+        {
+          "endDate": "1974-12-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Trial of Billy Jack"
+            }
+          ],
+          "startDate": "1974-11-20"
+        },
+        {
+          "endDate": "1974-12-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Death Wish"
+            }
+          ],
+          "startDate": "1974-12-11"
+        },
+        {
+          "endDate": "1974-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Godfather Part II"
+            }
+          ],
+          "startDate": "1974-12-25"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -9,13 +283,13 @@
             {
               "artist": "Slade",
               "rank": 1,
-              "title": "Merry Christmas Everybody"
+              "title": "Merry Xmas Everybody"
             }
           ],
           "startDate": "1974-01-01"
         },
         {
-          "endDate": "1974-01-15",
+          "endDate": "1974-01-04",
           "items": [
             {
               "artist": "New Seekers feat. Lyn Paul",
@@ -26,23 +300,67 @@
           "startDate": "1974-01-02"
         },
         {
-          "endDate": "1974-01-22",
+          "endDate": "1974-01-08",
+          "items": [
+            {
+              "artist": "Slade",
+              "rank": 1,
+              "title": "Merry Xmas Everybody"
+            }
+          ],
+          "startDate": "1974-01-05"
+        },
+        {
+          "endDate": "1974-01-11",
+          "items": [
+            {
+              "artist": "New Seekers feat. Lyn Paul",
+              "rank": 1,
+              "title": "You Won't Find Another Fool Like Me"
+            }
+          ],
+          "startDate": "1974-01-09"
+        },
+        {
+          "endDate": "1974-01-15",
+          "items": [
+            {
+              "artist": "Slade",
+              "rank": 1,
+              "title": "Merry Xmas Everybody"
+            }
+          ],
+          "startDate": "1974-01-12"
+        },
+        {
+          "endDate": "1974-01-18",
           "items": [
             {
               "artist": "Leo Sayer",
               "rank": 1,
-              "title": "The Show Must Go On\" ‡"
+              "title": "The Show Must Go On"
             }
           ],
           "startDate": "1974-01-16"
         },
         {
-          "endDate": "1974-01-29",
+          "endDate": "1974-01-22",
+          "items": [
+            {
+              "artist": "The New Seekers",
+              "rank": 1,
+              "title": "You Won't Find Another Fool Like Me"
+            }
+          ],
+          "startDate": "1974-01-19"
+        },
+        {
+          "endDate": "1974-01-25",
           "items": [
             {
               "artist": "Sweet",
               "rank": 1,
-              "title": "Teenage Rampage\" ‡"
+              "title": "Teenage Rampage"
             }
           ],
           "startDate": "1974-01-23"
@@ -56,7 +374,7 @@
               "title": "Tiger Feet"
             }
           ],
-          "startDate": "1974-01-30"
+          "startDate": "1974-01-26"
         },
         {
           "endDate": "1974-03-05",
@@ -70,7 +388,7 @@
           "startDate": "1974-02-20"
         },
         {
-          "endDate": "1974-03-19",
+          "endDate": "1974-03-15",
           "items": [
             {
               "artist": "Alvin Stardust",
@@ -81,7 +399,7 @@
           "startDate": "1974-03-06"
         },
         {
-          "endDate": "1974-04-09",
+          "endDate": "1974-04-05",
           "items": [
             {
               "artist": "Paper Lace",
@@ -89,7 +407,7 @@
               "title": "Billy Don't Be a Hero"
             }
           ],
-          "startDate": "1974-03-20"
+          "startDate": "1974-03-16"
         },
         {
           "endDate": "1974-04-23",
@@ -100,18 +418,29 @@
               "title": "Seasons in the Sun"
             }
           ],
-          "startDate": "1974-04-10"
+          "startDate": "1974-04-06"
+        },
+        {
+          "endDate": "1974-04-26",
+          "items": [
+            {
+              "artist": "Mud",
+              "rank": 1,
+              "title": "The Cat Crept In"
+            }
+          ],
+          "startDate": "1974-04-24"
         },
         {
           "endDate": "1974-04-30",
           "items": [
             {
-              "artist": "Mud",
+              "artist": "Terry Jacks",
               "rank": 1,
-              "title": "The Cat Crept In\" ‡"
+              "title": "Seasons in the Sun"
             }
           ],
-          "startDate": "1974-04-24"
+          "startDate": "1974-04-27"
         },
         {
           "endDate": "1974-05-14",
@@ -136,7 +465,7 @@
           "startDate": "1974-05-15"
         },
         {
-          "endDate": "1974-06-25",
+          "endDate": "1974-06-21",
           "items": [
             {
               "artist": "Ray Stevens",
@@ -147,7 +476,7 @@
           "startDate": "1974-06-12"
         },
         {
-          "endDate": "1974-07-02",
+          "endDate": "1974-06-28",
           "items": [
             {
               "artist": "Gary Glitter",
@@ -155,7 +484,7 @@
               "title": "Always Yours"
             }
           ],
-          "startDate": "1974-06-26"
+          "startDate": "1974-06-22"
         },
         {
           "endDate": "1974-07-23",
@@ -166,7 +495,7 @@
               "title": "She"
             }
           ],
-          "startDate": "1974-07-03"
+          "startDate": "1974-06-29"
         },
         {
           "endDate": "1974-08-13",
@@ -180,7 +509,7 @@
           "startDate": "1974-07-24"
         },
         {
-          "endDate": "1974-09-03",
+          "endDate": "1974-08-30",
           "items": [
             {
               "artist": "The Three Degrees",
@@ -199,10 +528,10 @@
               "title": "Love Me for a Reason"
             }
           ],
-          "startDate": "1974-09-04"
+          "startDate": "1974-08-31"
         },
         {
-          "endDate": "1974-10-15",
+          "endDate": "1974-10-11",
           "items": [
             {
               "artist": "Carl Douglas",
@@ -213,15 +542,37 @@
           "startDate": "1974-09-18"
         },
         {
-          "endDate": "1974-10-22",
+          "endDate": "1974-10-15",
+          "items": [
+            {
+              "artist": "John Denver",
+              "rank": 1,
+              "title": "Annie's Song"
+            }
+          ],
+          "startDate": "1974-10-12"
+        },
+        {
+          "endDate": "1974-10-18",
           "items": [
             {
               "artist": "Peter Shelley",
               "rank": 1,
-              "title": "Gee Baby\" ‡"
+              "title": "Gee Baby"
             }
           ],
           "startDate": "1974-10-16"
+        },
+        {
+          "endDate": "1974-10-22",
+          "items": [
+            {
+              "artist": "Sweet Sensation",
+              "rank": 1,
+              "title": "Sad Sweet Dreamer"
+            }
+          ],
+          "startDate": "1974-10-19"
         },
         {
           "endDate": "1974-11-05",
@@ -235,7 +586,7 @@
           "startDate": "1974-10-23"
         },
         {
-          "endDate": "1974-12-10",
+          "endDate": "1974-11-08",
           "items": [
             {
               "artist": "David Essex",
@@ -246,6 +597,28 @@
           "startDate": "1974-11-06"
         },
         {
+          "endDate": "1974-11-12",
+          "items": [
+            {
+              "artist": "Ken Boothe",
+              "rank": 1,
+              "title": "Everything I Own"
+            }
+          ],
+          "startDate": "1974-11-09"
+        },
+        {
+          "endDate": "1974-12-06",
+          "items": [
+            {
+              "artist": "David Essex",
+              "rank": 1,
+              "title": "Gonna Make You a Star"
+            }
+          ],
+          "startDate": "1974-11-13"
+        },
+        {
           "endDate": "1974-12-17",
           "items": [
             {
@@ -254,7 +627,7 @@
               "title": "You're the First, the Last, My Everything"
             }
           ],
-          "startDate": "1974-12-11"
+          "startDate": "1974-12-07"
         },
         {
           "endDate": "1974-12-31",
@@ -271,7 +644,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -279,7 +652,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "03fafd87648b9fd7ff316e4b26b0798906049c19953b721c2936035f30e3e793",
+  "contentHash": "c865e8f3e43f5f7c03034211a1dc07998d13805f738898fb7a366f481f3d6804",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1974

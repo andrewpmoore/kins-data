@@ -1,0 +1,83 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2002",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782842630850",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782842630850-L.jpg?default=false",
+          "author": "Anna Gavalda",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782842630850",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782842630850-L.jpg?default=false",
+          "creator": "Anna Gavalda",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Ensemble, c'est tout",
+          "url": "https://books.google.com/books?vid=ISBN:9782842630850"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2002"
+      },
+      "title": "FR print bestseller",
+      "year": 2002
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2002",
+      "items": [
+        {
+          "author": "Zep",
+          "creator": "Zep",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Titeuf: La Loi du préau",
+          "url": "https://books.google.com/books?q=Titeuf:+La+Loi+du+préau"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2002"
+      },
+      "title": "FR children's bestseller",
+      "year": 2002
+    },
+    "games": {
+      "id": "media-awardWinner-2002",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2002&idGame=344",
+          "artworkURL": "https://www.interactive.org/images/games/2002_halo_combat_evolved_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2001,
+          "title": "Halo: Combat Evolved"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2002&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2002
+    }
+  },
+  "contentHash": "95ba73601fd822f18990c78630fcb54bade6f1e3a5ba03f1ea45efc32a912890",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2002
+}

@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2018",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780008172145",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780008172145-L.jpg?default=false",
+          "author": "Gail Honeyman",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780008172145",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780008172145-L.jpg?default=false",
+          "creator": "Gail Honeyman",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "Eleanor Oliphant Is Completely Fine",
+          "url": "https://books.google.com/books?vid=ISBN:9780008172145"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2018/dec/27/michelle-obama-becoming-is-uks-bestselling-hardback-of-the-year"
+      },
+      "title": "UK print bestseller",
+      "year": 2018
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2018",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780008164690",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780008164690-L.jpg?default=false",
+          "author": "David Walliams",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780008164690",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780008164690-L.jpg?default=false",
+          "creator": "David Walliams",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "The Ice Monster",
+          "url": "https://books.google.com/books?vid=ISBN:9780008164690"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2018/dec/27/michelle-obama-becoming-is-uks-bestselling-hardback-of-the-year"
+      },
+      "title": "UK children's bestseller",
+      "year": 2018
+    },
     "games": {
       "id": "media-awardWinner-2018",
       "items": [
@@ -9,7 +67,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
           "rank": 1,
           "releaseYear": 2018,
-          "title": "God of War"
+          "title": "God of War",
+          "trailerURL": "https://www.youtube.com/watch?v=jCB36uNrZ9I"
         }
       ],
       "source": {
@@ -46,7 +105,7 @@
       "year": 2018
     }
   },
-  "contentHash": "7cdd6c2bb6b48b621431351f261d06b5e442a0721e23fe11b003bb4b469e47f8",
+  "contentHash": "edaae2723a65496f9d7b4b5aaea3bfd3a86cd7d82a3d531dd3d694bcb7fab407",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2018

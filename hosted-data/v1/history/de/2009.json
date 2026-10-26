@@ -1,5 +1,369 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2009-01-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar: Escape 2 Africa"
+            }
+          ],
+          "startDate": "2009-01-01"
+        },
+        {
+          "endDate": "2009-01-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transporter 3"
+            }
+          ],
+          "startDate": "2009-01-11"
+        },
+        {
+          "endDate": "2009-01-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Twilight"
+            }
+          ],
+          "startDate": "2009-01-18"
+        },
+        {
+          "endDate": "2009-01-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Valkyrie"
+            }
+          ],
+          "startDate": "2009-01-25"
+        },
+        {
+          "endDate": "2009-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Curious Case of Benjamin Button"
+            }
+          ],
+          "startDate": "2009-02-01"
+        },
+        {
+          "endDate": "2009-02-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Yes Man"
+            }
+          ],
+          "startDate": "2009-02-22"
+        },
+        {
+          "endDate": "2009-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Reader"
+            }
+          ],
+          "startDate": "2009-03-01"
+        },
+        {
+          "endDate": "2009-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Marley & Me"
+            }
+          ],
+          "startDate": "2009-03-08"
+        },
+        {
+          "endDate": "2009-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Reader"
+            }
+          ],
+          "startDate": "2009-03-15"
+        },
+        {
+          "endDate": "2009-03-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Slumdog Millionaire"
+            }
+          ],
+          "startDate": "2009-03-22"
+        },
+        {
+          "endDate": "2009-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Paul Blart: Mall Cop"
+            }
+          ],
+          "startDate": "2009-03-29"
+        },
+        {
+          "endDate": "2009-04-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast & Furious"
+            }
+          ],
+          "startDate": "2009-04-05"
+        },
+        {
+          "endDate": "2009-05-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Crank: High Voltage"
+            }
+          ],
+          "startDate": "2009-04-19"
+        },
+        {
+          "endDate": "2009-05-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X-Men Origins: Wolverine"
+            }
+          ],
+          "startDate": "2009-05-03"
+        },
+        {
+          "endDate": "2009-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Trek"
+            }
+          ],
+          "startDate": "2009-05-10"
+        },
+        {
+          "endDate": "2009-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Angels & Demons"
+            }
+          ],
+          "startDate": "2009-05-17"
+        },
+        {
+          "endDate": "2009-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terminator Salvation"
+            }
+          ],
+          "startDate": "2009-06-07"
+        },
+        {
+          "endDate": "2009-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Angels & Demons"
+            }
+          ],
+          "startDate": "2009-06-14"
+        },
+        {
+          "endDate": "2009-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers: Revenge of the Fallen"
+            }
+          ],
+          "startDate": "2009-06-28"
+        },
+        {
+          "endDate": "2009-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ice Age: Dawn of the Dinosaurs"
+            }
+          ],
+          "startDate": "2009-07-05"
+        },
+        {
+          "endDate": "2009-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Half-Blood Prince"
+            }
+          ],
+          "startDate": "2009-07-19"
+        },
+        {
+          "endDate": "2009-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "G.I. Joe: The Rise of Cobra"
+            }
+          ],
+          "startDate": "2009-08-16"
+        },
+        {
+          "endDate": "2009-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inglourious Basterds"
+            }
+          ],
+          "startDate": "2009-08-23"
+        },
+        {
+          "endDate": "2009-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Final Destination"
+            }
+          ],
+          "startDate": "2009-09-06"
+        },
+        {
+          "endDate": "2009-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vicky the Viking"
+            }
+          ],
+          "startDate": "2009-09-13"
+        },
+        {
+          "endDate": "2009-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Up"
+            }
+          ],
+          "startDate": "2009-09-27"
+        },
+        {
+          "endDate": "2009-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Men in the City"
+            }
+          ],
+          "startDate": "2009-10-11"
+        },
+        {
+          "endDate": "2009-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "G-Force"
+            }
+          ],
+          "startDate": "2009-10-18"
+        },
+        {
+          "endDate": "2009-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pope Joan"
+            }
+          ],
+          "startDate": "2009-10-25"
+        },
+        {
+          "endDate": "2009-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "This Is It"
+            }
+          ],
+          "startDate": "2009-11-01"
+        },
+        {
+          "endDate": "2009-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pope Joan"
+            }
+          ],
+          "startDate": "2009-11-08"
+        },
+        {
+          "endDate": "2009-11-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "2012"
+            }
+          ],
+          "startDate": "2009-11-15"
+        },
+        {
+          "endDate": "2009-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Twilight Saga: New Moon"
+            }
+          ],
+          "startDate": "2009-11-29"
+        },
+        {
+          "endDate": "2009-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rabbit Without Ears 2"
+            }
+          ],
+          "startDate": "2009-12-06"
+        },
+        {
+          "endDate": "2009-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar"
+            }
+          ],
+          "startDate": "2009-12-20"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -42,7 +406,7 @@
             {
               "artist": "Lady Gaga",
               "rank": 1,
-              "title": "Poker Face\" †"
+              "title": "Poker Face"
             }
           ],
           "startDate": "2009-03-13"
@@ -64,7 +428,7 @@
             {
               "artist": "Lady Gaga",
               "rank": 1,
-              "title": "Poker Face\" †"
+              "title": "Poker Face"
             }
           ],
           "startDate": "2009-06-19"
@@ -185,7 +549,7 @@
             {
               "artist": "Aura Dione",
               "rank": 1,
-              "title": "I Will Love You Monday"
+              "title": "I Will Love You Monday (365)"
             }
           ],
           "startDate": "2009-12-18"
@@ -205,7 +569,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -213,7 +577,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "92b0658c6e569c64421d2491580215ead639abd4c00b14aeed166c77274cb172",
+  "contentHash": "c557b56eea7648ffa93c1d238373328b4832f3ffd631879f3fa11d5ab8b705d2",
   "country": "de",
   "schemaVersion": 1,
   "year": 2009

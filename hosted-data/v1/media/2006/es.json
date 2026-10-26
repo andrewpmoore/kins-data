@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2006",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Harry Potter y el misterio del príncipe",
+          "url": "https://books.google.com/books?q=Harry+Potter+y+el+misterio+del+príncipe"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2006.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2006
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2006",
+      "items": [
+        {
+          "author": "Laura Gallego",
+          "creator": "Laura Gallego",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Memorias de Idhún 3: Panteón",
+          "url": "https://books.google.com/books?q=Memorias+de+Idhún+3:+Panteón"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2006.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2006
+    },
+    "games": {
+      "id": "media-awardWinner-2006",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2006&idGame=111",
+          "artworkURL": "https://www.interactive.org/images/games/2006_god_of_war_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2005,
+          "title": "God of War"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2006&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2006
+    }
+  },
+  "contentHash": "a64ef644081a7176ca2d096ed1bbcd3f7478a4274d563f67757addf7a091c0dc",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2006
+}

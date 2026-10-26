@@ -1,0 +1,89 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2000",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780753186138",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780753186138-L.jpg?default=false",
+          "author": "Muriel Barbery",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780753186138",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780753186138-L.jpg?default=false",
+          "creator": "Muriel Barbery",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "L'Élégance du hérisson",
+          "url": "https://books.google.com/books?vid=ISBN:9780753186138"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2000"
+      },
+      "title": "FR print bestseller",
+      "year": 2000
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2000",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782740413012",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782740413012-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782740413012",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782740413012-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Harry Potter à l'école des sorciers",
+          "url": "https://books.google.com/books?vid=ISBN:9782740413012"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2000"
+      },
+      "title": "FR children's bestseller",
+      "year": 2000
+    },
+    "games": {
+      "id": "media-awardWinner-2000",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=481",
+          "artworkURL": "https://www.interactive.org/images/games/2000_the_sims_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "The Sims"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2000&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2000
+    }
+  },
+  "contentHash": "1f6a38e45c0c964146b1f5e0d69d3eb3da127dcfcb292ddc6fa037935de479ab",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2000
+}

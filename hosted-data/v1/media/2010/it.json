@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2010",
+      "items": [
+        {
+          "author": "Ken Follett",
+          "creator": "Ken Follett",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "La caduta dei giganti",
+          "url": "https://books.google.com/books?q=La+caduta+dei+giganti"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2010.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2010
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2010",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Diario di una schiappa",
+          "url": "https://books.google.com/books?q=Diario+di+una+schiappa"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2010.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2010
+    },
     "games": {
       "id": "media-awardWinner-2010",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2010
     }
   },
-  "contentHash": "7f18004fd51cb7b25f3958c4229ab18a7d0dffb3f8d34b22eb4fc2f0a6ba2c39",
+  "contentHash": "8937049b086f96eabcee1d008d0bcfaa8290ffc7d8ea75b0e0e35b6c15118d77",
   "country": "it",
   "schemaVersion": 1,
   "year": 2010

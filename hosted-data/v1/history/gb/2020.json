@@ -1,24 +1,511 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2020-01-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode IX - The Rise of Skywalker"
+            }
+          ],
+          "startDate": "2020-01-01"
+        },
+        {
+          "endDate": "2020-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "1917"
+            }
+          ],
+          "startDate": "2020-01-12"
+        },
+        {
+          "endDate": "2020-02-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dolittle"
+            }
+          ],
+          "startDate": "2020-02-09"
+        },
+        {
+          "endDate": "2020-02-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sonic the Hedgehog"
+            }
+          ],
+          "startDate": "2020-02-16"
+        },
+        {
+          "endDate": "2020-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Invisible Man"
+            }
+          ],
+          "startDate": "2020-03-01"
+        },
+        {
+          "endDate": "2020-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Onward"
+            }
+          ],
+          "startDate": "2020-03-08"
+        },
+        {
+          "endDate": "2020-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Little Women"
+            }
+          ],
+          "startDate": "2020-03-22"
+        },
+        {
+          "endDate": "2020-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Onward"
+            }
+          ],
+          "startDate": "2020-07-05"
+        },
+        {
+          "endDate": "2020-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode V - The Empire Strikes Back2020 Re-release"
+            }
+          ],
+          "startDate": "2020-07-12"
+        },
+        {
+          "endDate": "2020-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Onward"
+            }
+          ],
+          "startDate": "2020-07-19"
+        },
+        {
+          "endDate": "2020-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unhinged"
+            }
+          ],
+          "startDate": "2020-08-02"
+        },
+        {
+          "endDate": "2020-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inception10th Anniversary re-release"
+            }
+          ],
+          "startDate": "2020-08-16"
+        },
+        {
+          "endDate": "2020-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unhinged"
+            }
+          ],
+          "startDate": "2020-08-23"
+        },
+        {
+          "endDate": "2020-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tenet"
+            }
+          ],
+          "startDate": "2020-08-30"
+        },
+        {
+          "endDate": "2020-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Honest Thief"
+            }
+          ],
+          "startDate": "2020-10-25"
+        },
+        {
+          "endDate": "2020-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Two by Two: Overboard!"
+            }
+          ],
+          "startDate": "2020-11-01"
+        },
+        {
+          "endDate": "2020-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Three Kings"
+            }
+          ],
+          "startDate": "2020-11-08"
+        },
+        {
+          "endDate": "2020-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Secret Garden"
+            }
+          ],
+          "startDate": "2020-11-15"
+        },
+        {
+          "endDate": "2020-11-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Two by Two: Overboard!"
+            }
+          ],
+          "startDate": "2020-11-22"
+        },
+        {
+          "endDate": "2020-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Home Alone2020 Re-release"
+            }
+          ],
+          "startDate": "2020-11-29"
+        },
+        {
+          "endDate": "2020-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Elf2020 Re-release"
+            }
+          ],
+          "startDate": "2020-12-06"
+        },
+        {
+          "endDate": "2020-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonder Woman 1984"
+            }
+          ],
+          "startDate": "2020-12-20"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2020-07-15",
+          "endDate": "2020-01-01",
+          "items": [
+            {
+              "artist": "LadBaby",
+              "rank": 1,
+              "title": "I Love Sausage Rolls"
+            }
+          ],
+          "startDate": "2020-01-01"
+        },
+        {
+          "endDate": "2020-01-08",
+          "items": [
+            {
+              "artist": "Ellie Goulding",
+              "rank": 1,
+              "title": "River"
+            }
+          ],
+          "startDate": "2020-01-02"
+        },
+        {
+          "endDate": "2020-01-29",
+          "items": [
+            {
+              "artist": "Stormzy featuring Ed Sheeran and Burna Boy",
+              "rank": 1,
+              "title": "Own It"
+            }
+          ],
+          "startDate": "2020-01-09"
+        },
+        {
+          "endDate": "2020-02-05",
+          "items": [
+            {
+              "artist": "Eminem featuring Juice Wrld",
+              "rank": 1,
+              "title": "Godzilla"
+            }
+          ],
+          "startDate": "2020-01-30"
+        },
+        {
+          "endDate": "2020-02-12",
+          "items": [
+            {
+              "artist": "Lewis Capaldi",
+              "rank": 1,
+              "title": "Before You Go"
+            }
+          ],
+          "startDate": "2020-02-06"
+        },
+        {
+          "endDate": "2020-02-26",
+          "items": [
+            {
+              "artist": "The Weeknd",
+              "rank": 1,
+              "title": "Blinding Lights"
+            }
+          ],
+          "startDate": "2020-02-13"
+        },
+        {
+          "endDate": "2020-03-04",
+          "items": [
+            {
+              "artist": "Billie Eilish",
+              "rank": 1,
+              "title": "No Time to Die"
+            }
+          ],
+          "startDate": "2020-02-27"
+        },
+        {
+          "endDate": "2020-03-25",
+          "items": [
+            {
+              "artist": "The Weeknd",
+              "rank": 1,
+              "title": "Blinding Lights"
+            }
+          ],
+          "startDate": "2020-03-05"
+        },
+        {
+          "endDate": "2020-04-08",
+          "items": [
+            {
+              "artist": "Saint Jhn",
+              "rank": 1,
+              "title": "Roses"
+            }
+          ],
+          "startDate": "2020-03-26"
+        },
+        {
+          "endDate": "2020-04-29",
+          "items": [
+            {
+              "artist": "The Weeknd",
+              "rank": 1,
+              "title": "Blinding Lights"
+            }
+          ],
+          "startDate": "2020-04-09"
+        },
+        {
+          "endDate": "2020-05-06",
+          "items": [
+            {
+              "artist": "Michael Ball, Captain Tom Moore and the NHS Voices of Care Choir",
+              "rank": 1,
+              "title": "You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "2020-04-30"
+        },
+        {
+          "endDate": "2020-05-13",
+          "items": [
+            {
+              "artist": "BBC Radio 1's Live Lounge Allstars",
+              "rank": 1,
+              "title": "Times Like These"
+            }
+          ],
+          "startDate": "2020-05-07"
+        },
+        {
+          "endDate": "2020-05-20",
+          "items": [
+            {
+              "artist": "Drake",
+              "rank": 1,
+              "title": "Toosie Slide"
+            }
+          ],
+          "startDate": "2020-05-14"
+        },
+        {
+          "endDate": "2020-06-03",
+          "items": [
+            {
+              "artist": "DaBaby featuring Roddy Ricch",
+              "rank": 1,
+              "title": "Rockstar"
+            }
+          ],
+          "startDate": "2020-05-21"
+        },
+        {
+          "endDate": "2020-06-10",
+          "items": [
+            {
+              "artist": "Lady Gaga and Ariana Grande",
+              "rank": 1,
+              "title": "Rain on Me"
+            }
+          ],
+          "startDate": "2020-06-04"
+        },
+        {
+          "endDate": "2020-07-08",
+          "items": [
+            {
+              "artist": "DaBaby featuring Roddy Ricch",
+              "rank": 1,
+              "title": "Rockstar"
+            }
+          ],
+          "startDate": "2020-06-11"
+        },
+        {
+          "endDate": "2020-07-29",
           "items": [
             {
               "artist": "Jawsh 685 and Jason Derulo",
               "rank": 1,
-              "title": "Savage Love"
+              "title": "Savage Love (Laxed – Siren Beat)"
             }
           ],
           "startDate": "2020-07-09"
+        },
+        {
+          "endDate": "2020-09-09",
+          "items": [
+            {
+              "artist": "Joel Corry and MNEK",
+              "rank": 1,
+              "title": "Head & Heart"
+            }
+          ],
+          "startDate": "2020-07-30"
+        },
+        {
+          "endDate": "2020-09-30",
+          "items": [
+            {
+              "artist": "Cardi B featuring Megan Thee Stallion",
+              "rank": 1,
+              "title": "WAP"
+            }
+          ],
+          "startDate": "2020-09-10"
+        },
+        {
+          "endDate": "2020-10-28",
+          "items": [
+            {
+              "artist": "24kGoldn featuring Iann Dior",
+              "rank": 1,
+              "title": "Mood"
+            }
+          ],
+          "startDate": "2020-10-01"
+        },
+        {
+          "endDate": "2020-11-04",
+          "items": [
+            {
+              "artist": "Internet Money featuring Gunna, Don Toliver and Nav",
+              "rank": 1,
+              "title": "Lemonade"
+            }
+          ],
+          "startDate": "2020-10-29"
+        },
+        {
+          "endDate": "2020-12-16",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "Positions"
+            }
+          ],
+          "startDate": "2020-11-05"
+        },
+        {
+          "endDate": "2020-12-30",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2020-12-17"
+        },
+        {
+          "endDate": "2020-12-31",
+          "items": [
+            {
+              "artist": "LadBaby",
+              "rank": 1,
+              "title": "Don't Stop Me Eatin'"
+            }
+          ],
+          "startDate": "2020-12-31"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -26,7 +513,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "78c04450e9980ed556ecfe10928343ed1acfc84fed605f13f8d52eb86cd263d3",
+  "contentHash": "637792c656267ecaf78e5b92c96978bd2bb64f6e19affca7b3b4bc3ad49ddb6a",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2020

@@ -1,5 +1,57 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2013",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9789875808171",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9789875808171-L.jpg?default=false",
+          "author": "Dan Brown",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9789875808171",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9789875808171-L.jpg?default=false",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Inferno",
+          "url": "https://books.google.com/books?vid=ISBN:9789875808171"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2013.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2013
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2013",
+      "items": [
+        {
+          "author": "Suzanne Collins",
+          "creator": "Suzanne Collins",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Sinsajo",
+          "url": "https://books.google.com/books?q=Sinsajo"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2013.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2013
+    },
     "games": {
       "id": "media-awardWinner-2013",
       "items": [
@@ -24,7 +76,7 @@
       "year": 2013
     }
   },
-  "contentHash": "a11749413e2ced9337e1b27cf13fec2dc0365bf8eb7c600cce00b0f3ae5b942a",
+  "contentHash": "9cb92db1877bd9a586c187f4e9ae99687f07e051f394f2617b06cb41acfae057",
   "country": "es",
   "schemaVersion": 1,
   "year": 2013

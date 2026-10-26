@@ -1,0 +1,726 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2004-01-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lord of the Rings: The Return of the King"
+            }
+          ],
+          "startDate": "2004-01-01"
+        },
+        {
+          "endDate": "2004-01-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Last Samurai"
+            }
+          ],
+          "startDate": "2004-01-11"
+        },
+        {
+          "endDate": "2004-02-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Haunted Mansion"
+            }
+          ],
+          "startDate": "2004-02-01"
+        },
+        {
+          "endDate": "2004-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Something's Gotta Give"
+            }
+          ],
+          "startDate": "2004-02-15"
+        },
+        {
+          "endDate": "2004-02-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cold Mountain"
+            }
+          ],
+          "startDate": "2004-02-22"
+        },
+        {
+          "endDate": "2004-03-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gothika"
+            }
+          ],
+          "startDate": "2004-02-29"
+        },
+        {
+          "endDate": "2004-03-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kill Bill: Vol. 1"
+            }
+          ],
+          "startDate": "2004-03-14"
+        },
+        {
+          "endDate": "2004-03-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hidalgo"
+            }
+          ],
+          "startDate": "2004-03-21"
+        },
+        {
+          "endDate": "2004-04-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Brother Bear"
+            }
+          ],
+          "startDate": "2004-03-28"
+        },
+        {
+          "endDate": "2004-04-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Passion of the Christ"
+            }
+          ],
+          "startDate": "2004-04-04"
+        },
+        {
+          "endDate": "2004-04-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scary Movie 3"
+            }
+          ],
+          "startDate": "2004-04-11"
+        },
+        {
+          "endDate": "2004-05-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "50 First Dates"
+            }
+          ],
+          "startDate": "2004-04-25"
+        },
+        {
+          "endDate": "2004-05-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Godsend"
+            }
+          ],
+          "startDate": "2004-05-02"
+        },
+        {
+          "endDate": "2004-05-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Van Helsing"
+            }
+          ],
+          "startDate": "2004-05-09"
+        },
+        {
+          "endDate": "2004-05-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Troy"
+            }
+          ],
+          "startDate": "2004-05-16"
+        },
+        {
+          "endDate": "2004-06-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Day After Tomorrow"
+            }
+          ],
+          "startDate": "2004-05-30"
+        },
+        {
+          "endDate": "2004-07-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Prisoner of Azkaban"
+            }
+          ],
+          "startDate": "2004-06-20"
+        },
+        {
+          "endDate": "2004-07-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek 2"
+            }
+          ],
+          "startDate": "2004-07-04"
+        },
+        {
+          "endDate": "2004-07-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man 2"
+            }
+          ],
+          "startDate": "2004-07-18"
+        },
+        {
+          "endDate": "2004-08-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I, Robot"
+            }
+          ],
+          "startDate": "2004-08-01"
+        },
+        {
+          "endDate": "2004-08-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "King Arthur"
+            }
+          ],
+          "startDate": "2004-08-15"
+        },
+        {
+          "endDate": "2004-09-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chronicles of Riddick"
+            }
+          ],
+          "startDate": "2004-08-29"
+        },
+        {
+          "endDate": "2004-09-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Garfield: The Movie"
+            }
+          ],
+          "startDate": "2004-09-05"
+        },
+        {
+          "endDate": "2004-09-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dodgeball: A True Underdog Story"
+            }
+          ],
+          "startDate": "2004-09-12"
+        },
+        {
+          "endDate": "2004-09-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bourne Supremacy"
+            }
+          ],
+          "startDate": "2004-09-19"
+        },
+        {
+          "endDate": "2004-10-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Village"
+            }
+          ],
+          "startDate": "2004-09-26"
+        },
+        {
+          "endDate": "2004-10-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shark Tale"
+            }
+          ],
+          "startDate": "2004-10-10"
+        },
+        {
+          "endDate": "2004-10-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Collateral"
+            }
+          ],
+          "startDate": "2004-10-17"
+        },
+        {
+          "endDate": "2004-10-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Forgotten"
+            }
+          ],
+          "startDate": "2004-10-24"
+        },
+        {
+          "endDate": "2004-11-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Exorcist: The Beginning"
+            }
+          ],
+          "startDate": "2004-10-31"
+        },
+        {
+          "endDate": "2004-11-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Resident Evil: Apocalypse"
+            }
+          ],
+          "startDate": "2004-11-07"
+        },
+        {
+          "endDate": "2004-11-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Say I Do"
+            }
+          ],
+          "startDate": "2004-11-14"
+        },
+        {
+          "endDate": "2004-11-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bridget Jones: The Edge of Reason"
+            }
+          ],
+          "startDate": "2004-11-21"
+        },
+        {
+          "endDate": "2004-12-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Incredibles"
+            }
+          ],
+          "startDate": "2004-11-28"
+        },
+        {
+          "endDate": "2004-12-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "National Treasure"
+            }
+          ],
+          "startDate": "2004-12-12"
+        },
+        {
+          "endDate": "2004-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ocean's Twelve"
+            }
+          ],
+          "startDate": "2004-12-19"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2004-01-03",
+          "items": [
+            {
+              "artist": "Fran Perea",
+              "rank": 1,
+              "title": "Uno mas son siete"
+            }
+          ],
+          "startDate": "2004-01-01"
+        },
+        {
+          "endDate": "2004-01-10",
+          "items": [
+            {
+              "artist": "Joaquín Sabina",
+              "rank": 1,
+              "title": "Motivos de un sentimiento"
+            }
+          ],
+          "startDate": "2004-01-04"
+        },
+        {
+          "endDate": "2004-01-17",
+          "items": [
+            {
+              "artist": "Fran Perea",
+              "rank": 1,
+              "title": "Uno más uno son siete"
+            }
+          ],
+          "startDate": "2004-01-11"
+        },
+        {
+          "endDate": "2004-02-07",
+          "items": [
+            {
+              "artist": "Metallica",
+              "rank": 1,
+              "title": "The Unnamed Feeling"
+            }
+          ],
+          "startDate": "2004-01-18"
+        },
+        {
+          "endDate": "2004-02-14",
+          "items": [
+            {
+              "artist": "David Bisbal",
+              "rank": 1,
+              "title": "Bulería"
+            }
+          ],
+          "startDate": "2004-02-08"
+        },
+        {
+          "endDate": "2004-03-13",
+          "items": [
+            {
+              "artist": "Estopa",
+              "rank": 1,
+              "title": "Fuente de energía"
+            }
+          ],
+          "startDate": "2004-02-15"
+        },
+        {
+          "endDate": "2004-03-20",
+          "items": [
+            {
+              "artist": "George Michael",
+              "rank": 1,
+              "title": "Amazing"
+            }
+          ],
+          "startDate": "2004-03-14"
+        },
+        {
+          "endDate": "2004-03-27",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Love Profusion"
+            }
+          ],
+          "startDate": "2004-03-21"
+        },
+        {
+          "endDate": "2004-04-03",
+          "items": [
+            {
+              "artist": "Anastacia",
+              "rank": 1,
+              "title": "Left Outside Alone"
+            }
+          ],
+          "startDate": "2004-03-28"
+        },
+        {
+          "endDate": "2004-04-10",
+          "items": [
+            {
+              "artist": "O-Zone",
+              "rank": 1,
+              "title": "Dragostea din tei"
+            }
+          ],
+          "startDate": "2004-04-04"
+        },
+        {
+          "endDate": "2004-05-01",
+          "items": [
+            {
+              "artist": "Fangoria",
+              "rank": 1,
+              "title": "Retorciendo palabras"
+            }
+          ],
+          "startDate": "2004-04-11"
+        },
+        {
+          "endDate": "2004-05-08",
+          "items": [
+            {
+              "artist": "Ramón",
+              "rank": 1,
+              "title": "Para llenarme de ti"
+            }
+          ],
+          "startDate": "2004-05-02"
+        },
+        {
+          "endDate": "2004-05-15",
+          "items": [
+            {
+              "artist": "O-Zone",
+              "rank": 1,
+              "title": "Dragostea din tei"
+            }
+          ],
+          "startDate": "2004-05-09"
+        },
+        {
+          "endDate": "2004-05-22",
+          "items": [
+            {
+              "artist": "Bunbury",
+              "rank": 1,
+              "title": "Que tengas suertecita"
+            }
+          ],
+          "startDate": "2004-05-16"
+        },
+        {
+          "endDate": "2004-05-29",
+          "items": [
+            {
+              "artist": "O-Zone",
+              "rank": 1,
+              "title": "Dragostea din tei"
+            }
+          ],
+          "startDate": "2004-05-23"
+        },
+        {
+          "endDate": "2004-06-19",
+          "items": [
+            {
+              "artist": "Nacho Cano y la OSM",
+              "rank": 1,
+              "title": "Música para una boda"
+            }
+          ],
+          "startDate": "2004-05-30"
+        },
+        {
+          "endDate": "2004-06-26",
+          "items": [
+            {
+              "artist": "O-Zone",
+              "rank": 1,
+              "title": "Dragostea din tei"
+            }
+          ],
+          "startDate": "2004-06-20"
+        },
+        {
+          "endDate": "2004-07-17",
+          "items": [
+            {
+              "artist": "Los Planetas",
+              "rank": 1,
+              "title": "Y además es imposible"
+            }
+          ],
+          "startDate": "2004-06-27"
+        },
+        {
+          "endDate": "2004-08-07",
+          "items": [
+            {
+              "artist": "Sheila",
+              "rank": 1,
+              "title": "Mis adorables vecinos"
+            }
+          ],
+          "startDate": "2004-07-18"
+        },
+        {
+          "endDate": "2004-09-11",
+          "items": [
+            {
+              "artist": "Miguel Ángel Muñoz",
+              "rank": 1,
+              "title": "Dirás que estoy loco"
+            }
+          ],
+          "startDate": "2004-08-08"
+        },
+        {
+          "endDate": "2004-09-18",
+          "items": [
+            {
+              "artist": "Rammstein",
+              "rank": 1,
+              "title": "Mein Teil"
+            }
+          ],
+          "startDate": "2004-09-12"
+        },
+        {
+          "endDate": "2004-10-16",
+          "items": [
+            {
+              "artist": "Miguel Ángel Muñoz",
+              "rank": 1,
+              "title": "Dirás que estoy loco"
+            }
+          ],
+          "startDate": "2004-09-19"
+        },
+        {
+          "endDate": "2004-10-23",
+          "items": [
+            {
+              "artist": "Sheila",
+              "rank": 1,
+              "title": "Mis adorables vecinos"
+            }
+          ],
+          "startDate": "2004-10-17"
+        },
+        {
+          "endDate": "2004-10-30",
+          "items": [
+            {
+              "artist": "Depeche Mode",
+              "rank": 1,
+              "title": "Enjoy the Silence"
+            }
+          ],
+          "startDate": "2004-10-24"
+        },
+        {
+          "endDate": "2004-11-06",
+          "items": [
+            {
+              "artist": "Fangoria",
+              "rank": 1,
+              "title": "La mano en el fuego"
+            }
+          ],
+          "startDate": "2004-10-31"
+        },
+        {
+          "endDate": "2004-11-13",
+          "items": [
+            {
+              "artist": "Eminem",
+              "rank": 1,
+              "title": "Just Lose It"
+            }
+          ],
+          "startDate": "2004-11-07"
+        },
+        {
+          "endDate": "2004-12-04",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Vertigo"
+            }
+          ],
+          "startDate": "2004-11-14"
+        },
+        {
+          "endDate": "2004-12-11",
+          "items": [
+            {
+              "artist": "Astrud",
+              "rank": 1,
+              "title": "Todo nos parece una mierda"
+            }
+          ],
+          "startDate": "2004-12-05"
+        },
+        {
+          "endDate": "2004-12-18",
+          "items": [
+            {
+              "artist": "U2",
+              "rank": 1,
+              "title": "Vertigo"
+            }
+          ],
+          "startDate": "2004-12-12"
+        },
+        {
+          "endDate": "2004-12-31",
+          "items": [
+            {
+              "artist": "Band Aid 20",
+              "rank": 1,
+              "title": "Do They Know It's Christmas?"
+            }
+          ],
+          "startDate": "2004-12-19"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "da040a3c3b762861a8d4639f9f96d4d221305eb10add16f26bafdc997bd8149f",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2004
+}

@@ -1,29 +1,322 @@
 {
   "charts": {
-    "music": {
-      "id": "legacy-national-number-one-single",
+    "movies": {
+      "id": "legacy-national-number-one-film",
       "periods": [
         {
-          "endDate": "2008-01-03",
+          "endDate": "2008-01-12",
           "items": [
             {
-              "artist": "No release",
               "rank": 1,
-              "title": "No release"
+              "title": "Rabbit Without Ears"
             }
           ],
           "startDate": "2008-01-01"
         },
+        {
+          "endDate": "2008-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Am Legend"
+            }
+          ],
+          "startDate": "2008-01-13"
+        },
+        {
+          "endDate": "2008-02-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "National Treasure: Book of Secrets"
+            }
+          ],
+          "startDate": "2008-01-27"
+        },
+        {
+          "endDate": "2008-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Saw IV"
+            }
+          ],
+          "startDate": "2008-02-10"
+        },
+        {
+          "endDate": "2008-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Earth"
+            }
+          ],
+          "startDate": "2008-02-17"
+        },
+        {
+          "endDate": "2008-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wild Soccer Bunch 5"
+            }
+          ],
+          "startDate": "2008-02-24"
+        },
+        {
+          "endDate": "2008-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Earth"
+            }
+          ],
+          "startDate": "2008-03-02"
+        },
+        {
+          "endDate": "2008-03-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "10,000 BC"
+            }
+          ],
+          "startDate": "2008-03-09"
+        },
+        {
+          "endDate": "2008-03-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wave"
+            }
+          ],
+          "startDate": "2008-03-16"
+        },
+        {
+          "endDate": "2008-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jumper"
+            }
+          ],
+          "startDate": "2008-03-30"
+        },
+        {
+          "endDate": "2008-04-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wave"
+            }
+          ],
+          "startDate": "2008-04-06"
+        },
+        {
+          "endDate": "2008-04-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "21"
+            }
+          ],
+          "startDate": "2008-04-13"
+        },
+        {
+          "endDate": "2008-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Summer"
+            }
+          ],
+          "startDate": "2008-04-20"
+        },
+        {
+          "endDate": "2008-05-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Iron Man"
+            }
+          ],
+          "startDate": "2008-05-04"
+        },
+        {
+          "endDate": "2008-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What Happens in Vegas"
+            }
+          ],
+          "startDate": "2008-05-11"
+        },
+        {
+          "endDate": "2008-05-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indiana Jones and the Kingdom of the Crystal Skull"
+            }
+          ],
+          "startDate": "2008-05-25"
+        },
+        {
+          "endDate": "2008-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sex and the City"
+            }
+          ],
+          "startDate": "2008-06-01"
+        },
+        {
+          "endDate": "2008-07-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hancock"
+            }
+          ],
+          "startDate": "2008-07-06"
+        },
+        {
+          "endDate": "2008-08-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mamma Mia!"
+            }
+          ],
+          "startDate": "2008-07-20"
+        },
+        {
+          "endDate": "2008-08-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chronicles of Narnia: Prince Caspian"
+            }
+          ],
+          "startDate": "2008-08-03"
+        },
+        {
+          "endDate": "2008-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mummy: Tomb of the Dragon Emperor"
+            }
+          ],
+          "startDate": "2008-08-10"
+        },
+        {
+          "endDate": "2008-08-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "You Don't Mess with the Zohan"
+            }
+          ],
+          "startDate": "2008-08-17"
+        },
+        {
+          "endDate": "2008-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dark Knight"
+            }
+          ],
+          "startDate": "2008-08-24"
+        },
+        {
+          "endDate": "2008-09-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tropic Thunder"
+            }
+          ],
+          "startDate": "2008-09-21"
+        },
+        {
+          "endDate": "2008-10-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "WALL·E"
+            }
+          ],
+          "startDate": "2008-09-28"
+        },
+        {
+          "endDate": "2008-10-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hellboy II: The Golden Army"
+            }
+          ],
+          "startDate": "2008-10-19"
+        },
+        {
+          "endDate": "2008-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "High School Musical 3: Senior Year"
+            }
+          ],
+          "startDate": "2008-10-26"
+        },
+        {
+          "endDate": "2008-12-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Quantum of Solace"
+            }
+          ],
+          "startDate": "2008-11-09"
+        },
+        {
+          "endDate": "2008-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar: Escape 2 Africa"
+            }
+          ],
+          "startDate": "2008-12-07"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
         {
           "endDate": "2008-01-24",
           "items": [
             {
               "artist": "Timbaland featuring OneRepublic",
               "rank": 1,
-              "title": "Apologize\" †"
+              "title": "Apologize"
             }
           ],
-          "startDate": "2008-01-04"
+          "startDate": "2008-01-01"
         },
         {
           "endDate": "2008-02-21",
@@ -194,7 +487,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -202,7 +495,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "df2bb2b92cd6048493c010963fa25bc35653f78431e89b1c42976de4b7c11fc7",
+  "contentHash": "636a3e9ff3e95bff37ebae75dd850cef78340ab8cbf2f72506c0243f3d958cf1",
   "country": "de",
   "schemaVersion": 1,
   "year": 2008

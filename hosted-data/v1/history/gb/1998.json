@@ -1,10 +1,130 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1998-01-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Titanic"
+            }
+          ],
+          "startDate": "1998-01-01"
+        },
+        {
+          "endDate": "1998-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Titanic"
+            }
+          ],
+          "startDate": "1998-03-01"
+        },
+        {
+          "endDate": "1998-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Bug's Life"
+            }
+          ],
+          "startDate": "1998-12-14"
+        },
+        {
+          "endDate": "1998-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "You've Got Mail"
+            }
+          ],
+          "startDate": "1998-12-28"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1998-02-15",
+          "endDate": "1998-01-09",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Too Much"
+            }
+          ],
+          "startDate": "1998-01-01"
+        },
+        {
+          "endDate": "1998-01-16",
+          "items": [
+            {
+              "artist": "Various artists",
+              "rank": 1,
+              "title": "Perfect Day"
+            }
+          ],
+          "startDate": "1998-01-10"
+        },
+        {
+          "endDate": "1998-01-23",
+          "items": [
+            {
+              "artist": "All Saints",
+              "rank": 1,
+              "title": "Never Ever"
+            }
+          ],
+          "startDate": "1998-01-17"
+        },
+        {
+          "endDate": "1998-01-30",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "All Around the World"
+            }
+          ],
+          "startDate": "1998-01-24"
+        },
+        {
+          "endDate": "1998-02-06",
+          "items": [
+            {
+              "artist": "Usher",
+              "rank": 1,
+              "title": "You Make Me Wanna..."
+            }
+          ],
+          "startDate": "1998-01-31"
+        },
+        {
+          "endDate": "1998-02-08",
+          "items": [
+            {
+              "artist": "Aqua",
+              "rank": 1,
+              "title": "Doctor Jones"
+            }
+          ],
+          "startDate": "1998-02-07"
+        },
+        {
+          "endDate": "1998-02-13",
           "items": [
             {
               "artist": "Celine Dion",
@@ -15,7 +135,18 @@
           "startDate": "1998-02-09"
         },
         {
-          "endDate": "1998-02-22",
+          "endDate": "1998-02-15",
+          "items": [
+            {
+              "artist": "Aqua",
+              "rank": 1,
+              "title": "Doctor Jones"
+            }
+          ],
+          "startDate": "1998-02-14"
+        },
+        {
+          "endDate": "1998-02-20",
           "items": [
             {
               "artist": "Savage Garden",
@@ -26,7 +157,29 @@
           "startDate": "1998-02-16"
         },
         {
-          "endDate": "1998-03-08",
+          "endDate": "1998-02-27",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "My Heart Will Go On"
+            }
+          ],
+          "startDate": "1998-02-21"
+        },
+        {
+          "endDate": "1998-03-01",
+          "items": [
+            {
+              "artist": "Cornershop",
+              "rank": 1,
+              "title": "Brimful of Asha"
+            }
+          ],
+          "startDate": "1998-02-28"
+        },
+        {
+          "endDate": "1998-03-06",
           "items": [
             {
               "artist": "LeAnn Rimes",
@@ -37,7 +190,18 @@
           "startDate": "1998-03-02"
         },
         {
-          "endDate": "1998-03-15",
+          "endDate": "1998-03-08",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Frozen"
+            }
+          ],
+          "startDate": "1998-03-07"
+        },
+        {
+          "endDate": "1998-03-13",
           "items": [
             {
               "artist": "Run-DMC vs. Jason Nevins",
@@ -48,7 +212,73 @@
           "startDate": "1998-03-09"
         },
         {
-          "endDate": "1998-06-05",
+          "endDate": "1998-03-20",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "My Heart Will Go On"
+            }
+          ],
+          "startDate": "1998-03-14"
+        },
+        {
+          "endDate": "1998-05-01",
+          "items": [
+            {
+              "artist": "Run-DMC vs. Jason Nevins",
+              "rank": 1,
+              "title": "It's Like That"
+            }
+          ],
+          "startDate": "1998-03-21"
+        },
+        {
+          "endDate": "1998-05-08",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "All That I Need"
+            }
+          ],
+          "startDate": "1998-05-02"
+        },
+        {
+          "endDate": "1998-05-15",
+          "items": [
+            {
+              "artist": "All Saints",
+              "rank": 1,
+              "title": "Under the Bridge / Lady Marmalade"
+            }
+          ],
+          "startDate": "1998-05-09"
+        },
+        {
+          "endDate": "1998-05-22",
+          "items": [
+            {
+              "artist": "Aqua",
+              "rank": 1,
+              "title": "Turn Back Time"
+            }
+          ],
+          "startDate": "1998-05-16"
+        },
+        {
+          "endDate": "1998-05-29",
+          "items": [
+            {
+              "artist": "All Saints",
+              "rank": 1,
+              "title": "Under the Bridge / Lady Marmalade"
+            }
+          ],
+          "startDate": "1998-05-23"
+        },
+        {
+          "endDate": "1998-05-31",
           "items": [
             {
               "artist": "The Tamperer featuring Maya",
@@ -59,7 +289,51 @@
           "startDate": "1998-05-30"
         },
         {
-          "endDate": "1998-07-26",
+          "endDate": "1998-06-19",
+          "items": [
+            {
+              "artist": "BWitched",
+              "rank": 1,
+              "title": "C'est la Vie"
+            }
+          ],
+          "startDate": "1998-06-01"
+        },
+        {
+          "endDate": "1998-07-10",
+          "items": [
+            {
+              "artist": "Baddiel, Skinner and The Lightning Seeds",
+              "rank": 1,
+              "title": "3 Lions '98"
+            }
+          ],
+          "startDate": "1998-06-20"
+        },
+        {
+          "endDate": "1998-07-17",
+          "items": [
+            {
+              "artist": "Billie",
+              "rank": 1,
+              "title": "Because We Want To"
+            }
+          ],
+          "startDate": "1998-07-11"
+        },
+        {
+          "endDate": "1998-07-19",
+          "items": [
+            {
+              "artist": "Another Level",
+              "rank": 1,
+              "title": "Freak Me"
+            }
+          ],
+          "startDate": "1998-07-18"
+        },
+        {
+          "endDate": "1998-07-24",
           "items": [
             {
               "artist": "Spice Girls",
@@ -70,7 +344,29 @@
           "startDate": "1998-07-20"
         },
         {
-          "endDate": "1998-08-09",
+          "endDate": "1998-07-31",
+          "items": [
+            {
+              "artist": "Jamiroquai",
+              "rank": 1,
+              "title": "Deeper Underground"
+            }
+          ],
+          "startDate": "1998-07-25"
+        },
+        {
+          "endDate": "1998-08-02",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Viva Forever"
+            }
+          ],
+          "startDate": "1998-08-01"
+        },
+        {
+          "endDate": "1998-08-07",
           "items": [
             {
               "artist": "Boyzone",
@@ -81,7 +377,18 @@
           "startDate": "1998-08-03"
         },
         {
-          "endDate": "1998-08-16",
+          "endDate": "1998-08-09",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Viva Forever"
+            }
+          ],
+          "startDate": "1998-08-08"
+        },
+        {
+          "endDate": "1998-08-14",
           "items": [
             {
               "artist": "Stardust",
@@ -92,7 +399,84 @@
           "startDate": "1998-08-10"
         },
         {
-          "endDate": "1998-10-25",
+          "endDate": "1998-09-04",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "No Matter What"
+            }
+          ],
+          "startDate": "1998-08-15"
+        },
+        {
+          "endDate": "1998-09-11",
+          "items": [
+            {
+              "artist": "Manic Street Preachers",
+              "rank": 1,
+              "title": "If You Tolerate This Your Children Will Be Next"
+            }
+          ],
+          "startDate": "1998-09-05"
+        },
+        {
+          "endDate": "1998-09-18",
+          "items": [
+            {
+              "artist": "All Saints",
+              "rank": 1,
+              "title": "Bootie Call"
+            }
+          ],
+          "startDate": "1998-09-12"
+        },
+        {
+          "endDate": "1998-09-25",
+          "items": [
+            {
+              "artist": "Robbie Williams",
+              "rank": 1,
+              "title": "Millennium"
+            }
+          ],
+          "startDate": "1998-09-19"
+        },
+        {
+          "endDate": "1998-10-02",
+          "items": [
+            {
+              "artist": "Melanie B featuring Missy Elliott",
+              "rank": 1,
+              "title": "I Want You Back"
+            }
+          ],
+          "startDate": "1998-09-26"
+        },
+        {
+          "endDate": "1998-10-16",
+          "items": [
+            {
+              "artist": "BWitched",
+              "rank": 1,
+              "title": "Rollercoaster"
+            }
+          ],
+          "startDate": "1998-10-03"
+        },
+        {
+          "endDate": "1998-10-18",
+          "items": [
+            {
+              "artist": "Billie",
+              "rank": 1,
+              "title": "Girlfriend"
+            }
+          ],
+          "startDate": "1998-10-17"
+        },
+        {
+          "endDate": "1998-10-23",
           "items": [
             {
               "artist": "Cher",
@@ -103,18 +487,51 @@
           "startDate": "1998-10-19"
         },
         {
-          "endDate": "1998-11-15",
+          "endDate": "1998-10-30",
+          "items": [
+            {
+              "artist": "Spacedust",
+              "rank": 1,
+              "title": "Gym and Tonic"
+            }
+          ],
+          "startDate": "1998-10-24"
+        },
+        {
+          "endDate": "1998-11-08",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1998-10-31"
+        },
+        {
+          "endDate": "1998-11-13",
           "items": [
             {
               "artist": "Steps",
               "rank": 1,
-              "title": "Heartbeat\" / \"Tragedy"
+              "title": "Heartbeat / Tragedy"
             }
           ],
           "startDate": "1998-11-09"
         },
         {
-          "endDate": "1998-12-06",
+          "endDate": "1998-11-29",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1998-11-14"
+        },
+        {
+          "endDate": "1998-12-04",
           "items": [
             {
               "artist": "Bryan Adams ft. Melanie C",
@@ -123,12 +540,56 @@
             }
           ],
           "startDate": "1998-11-30"
+        },
+        {
+          "endDate": "1998-12-13",
+          "items": [
+            {
+              "artist": "Cher",
+              "rank": 1,
+              "title": "Believe"
+            }
+          ],
+          "startDate": "1998-12-05"
+        },
+        {
+          "endDate": "1998-12-18",
+          "items": [
+            {
+              "artist": "Chef",
+              "rank": 1,
+              "title": "Chocolate Salty Balls"
+            }
+          ],
+          "startDate": "1998-12-14"
+        },
+        {
+          "endDate": "1998-12-25",
+          "items": [
+            {
+              "artist": "BWitched",
+              "rank": 1,
+              "title": "To You I Belong"
+            }
+          ],
+          "startDate": "1998-12-19"
+        },
+        {
+          "endDate": "1998-12-31",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Goodbye"
+            }
+          ],
+          "startDate": "1998-12-26"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -136,7 +597,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "235330e94650af12aa7d33a5f14374ca81ec290cbdba85d6f8017be7561fcb47",
+  "contentHash": "bfbaf2763a677ab5354096d07c831e18d5d5ca94b1a1a2ef3d233c98bb4399e8",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1998

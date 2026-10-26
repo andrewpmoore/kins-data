@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2021",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781643588230",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781643588230-L.jpg?default=false",
+          "author": "Kristin Hannah",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781643588230",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781643588230-L.jpg?default=false",
+          "creator": "Kristin Hannah",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Four Winds",
+          "url": "https://books.google.com/books?vid=ISBN:9781643588230"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2021-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2021
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2021",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781338680461",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781338680461-L.jpg?default=false",
+          "author": "Dav Pilkey",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781338680461",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781338680461-L.jpg?default=false",
+          "creator": "Dav Pilkey",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Dog Man: Mothering Heights",
+          "url": "https://books.google.com/books?vid=ISBN:9781338680461"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2021-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2021
+    },
     "games": {
       "id": "media-awardWinner-2021",
       "items": [
@@ -25,7 +83,7 @@
       "year": 2021
     }
   },
-  "contentHash": "496617ac6922b6d494103cfe96f8d173ce79a460811128b89512a151f689f0da",
+  "contentHash": "a6b1f7194228e2352e3ca00c77c9efd62b51b0cf1ad709162725d98e25eb8cd6",
   "country": "us",
   "schemaVersion": 1,
   "year": 2021

@@ -1,21 +1,258 @@
 {
   "charts": {
-    "music": {
-      "id": "legacy-national-number-one-single",
+    "movies": {
+      "id": "legacy-national-number-one-film",
       "periods": [
         {
-          "endDate": "1962-01-12",
+          "endDate": "1962-01-02",
           "items": [
             {
-              "artist": "Acker Bilk",
               "rank": 1,
-              "title": "Stranger on the Shore\" †"
+              "title": "Flower Drum Song"
             }
           ],
           "startDate": "1962-01-01"
         },
         {
-          "endDate": "1962-02-23",
+          "endDate": "1962-01-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Babes in Toyland"
+            }
+          ],
+          "startDate": "1962-01-03"
+        },
+        {
+          "endDate": "1962-01-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Flower Drum Song"
+            }
+          ],
+          "startDate": "1962-01-10"
+        },
+        {
+          "endDate": "1962-02-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "One, Two, Three"
+            }
+          ],
+          "startDate": "1962-01-31"
+        },
+        {
+          "endDate": "1962-03-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lover Come Back"
+            }
+          ],
+          "startDate": "1962-02-21"
+        },
+        {
+          "endDate": "1962-04-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "West Side Story"
+            }
+          ],
+          "startDate": "1962-03-28"
+        },
+        {
+          "endDate": "1962-05-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moon Pilot"
+            }
+          ],
+          "startDate": "1962-04-25"
+        },
+        {
+          "endDate": "1962-06-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "West Side Story"
+            }
+          ],
+          "startDate": "1962-05-02"
+        },
+        {
+          "endDate": "1962-07-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "That Touch of Mink"
+            }
+          ],
+          "startDate": "1962-06-27"
+        },
+        {
+          "endDate": "1962-08-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Music Man"
+            }
+          ],
+          "startDate": "1962-08-01"
+        },
+        {
+          "endDate": "1962-08-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "That Touch of Mink"
+            }
+          ],
+          "startDate": "1962-08-08"
+        },
+        {
+          "endDate": "1962-08-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wonderful World of the Brothers Grimm"
+            }
+          ],
+          "startDate": "1962-08-22"
+        },
+        {
+          "endDate": "1962-10-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Music Man"
+            }
+          ],
+          "startDate": "1962-08-29"
+        },
+        {
+          "endDate": "1962-10-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wonderful World of the Brothers Grimm"
+            }
+          ],
+          "startDate": "1962-10-03"
+        },
+        {
+          "endDate": "1962-11-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Longest Day"
+            }
+          ],
+          "startDate": "1962-10-24"
+        },
+        {
+          "endDate": "1962-11-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Manchurian Candidate"
+            }
+          ],
+          "startDate": "1962-11-07"
+        },
+        {
+          "endDate": "1962-11-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Longest Day"
+            }
+          ],
+          "startDate": "1962-11-14"
+        },
+        {
+          "endDate": "1962-12-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Wonderful World of the Brothers Grimm"
+            }
+          ],
+          "startDate": "1962-11-28"
+        },
+        {
+          "endDate": "1962-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mutiny on the Bounty"
+            }
+          ],
+          "startDate": "1962-12-05"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "1962-01-03",
+          "items": [
+            {
+              "artist": "Acker Bilk",
+              "rank": 1,
+              "title": "Stranger on the Shore"
+            }
+          ],
+          "startDate": "1962-01-01"
+        },
+        {
+          "endDate": "1962-01-05",
+          "items": [
+            {
+              "artist": "Danny Williams",
+              "rank": 1,
+              "title": "Moon River"
+            }
+          ],
+          "startDate": "1962-01-04"
+        },
+        {
+          "endDate": "1962-01-10",
+          "items": [
+            {
+              "artist": "Acker Bilk",
+              "rank": 1,
+              "title": "Stranger on the Shore"
+            }
+          ],
+          "startDate": "1962-01-06"
+        },
+        {
+          "endDate": "1962-01-12",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-01-11"
+        },
+        {
+          "endDate": "1962-01-17",
           "items": [
             {
               "artist": "Cliff Richard",
@@ -26,7 +263,194 @@
           "startDate": "1962-01-13"
         },
         {
-          "endDate": "1962-05-11",
+          "endDate": "1962-01-19",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-01-18"
+        },
+        {
+          "endDate": "1962-01-24",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-01-20"
+        },
+        {
+          "endDate": "1962-01-26",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-01-25"
+        },
+        {
+          "endDate": "1962-01-31",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-01-27"
+        },
+        {
+          "endDate": "1962-02-02",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-02-01"
+        },
+        {
+          "endDate": "1962-02-07",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-02-03"
+        },
+        {
+          "endDate": "1962-02-09",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-02-08"
+        },
+        {
+          "endDate": "1962-02-14",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-02-10"
+        },
+        {
+          "endDate": "1962-02-16",
+          "items": [
+            {
+              "artist": "Cliff Richard and the Shadows",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-02-15"
+        },
+        {
+          "endDate": "1962-02-21",
+          "items": [
+            {
+              "artist": "Cliff Richard",
+              "rank": 1,
+              "title": "The Young Ones"
+            }
+          ],
+          "startDate": "1962-02-17"
+        },
+        {
+          "endDate": "1962-02-23",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Can't Help Falling in Love / Rock-A-Hula Baby"
+            }
+          ],
+          "startDate": "1962-02-22"
+        },
+        {
+          "endDate": "1962-02-28",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Rock-A-Hula Baby / Can't Help Falling in Love"
+            }
+          ],
+          "startDate": "1962-02-24"
+        },
+        {
+          "endDate": "1962-03-02",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Can't Help Falling in Love / Rock-A-Hula Baby"
+            }
+          ],
+          "startDate": "1962-03-01"
+        },
+        {
+          "endDate": "1962-03-07",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Rock-A-Hula Baby / Can't Help Falling in Love"
+            }
+          ],
+          "startDate": "1962-03-03"
+        },
+        {
+          "endDate": "1962-03-09",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Can't Help Falling in Love / Rock-A-Hula Baby"
+            }
+          ],
+          "startDate": "1962-03-08"
+        },
+        {
+          "endDate": "1962-03-14",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Rock-A-Hula Baby / Can't Help Falling in Love"
+            }
+          ],
+          "startDate": "1962-03-10"
+        },
+        {
+          "endDate": "1962-03-16",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Can't Help Falling in Love / Rock-A-Hula Baby"
+            }
+          ],
+          "startDate": "1962-03-15"
+        },
+        {
+          "endDate": "1962-05-16",
           "items": [
             {
               "artist": "The Shadows",
@@ -34,7 +458,62 @@
               "title": "Wonderful Land"
             }
           ],
-          "startDate": "1962-03-24"
+          "startDate": "1962-03-17"
+        },
+        {
+          "endDate": "1962-05-23",
+          "items": [
+            {
+              "artist": "B. Bumble and the Stingers",
+              "rank": 1,
+              "title": "Nut Rocker"
+            }
+          ],
+          "startDate": "1962-05-17"
+        },
+        {
+          "endDate": "1962-05-25",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Good Luck Charm"
+            }
+          ],
+          "startDate": "1962-05-24"
+        },
+        {
+          "endDate": "1962-05-30",
+          "items": [
+            {
+              "artist": "B. Bumble and the Stingers",
+              "rank": 1,
+              "title": "Nut Rocker"
+            }
+          ],
+          "startDate": "1962-05-26"
+        },
+        {
+          "endDate": "1962-06-01",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Good Luck Charm"
+            }
+          ],
+          "startDate": "1962-05-31"
+        },
+        {
+          "endDate": "1962-06-06",
+          "items": [
+            {
+              "artist": "B. Bumble and the Stingers",
+              "rank": 1,
+              "title": "Nut Rocker"
+            }
+          ],
+          "startDate": "1962-06-02"
         },
         {
           "endDate": "1962-06-27",
@@ -45,10 +524,87 @@
               "title": "Good Luck Charm"
             }
           ],
-          "startDate": "1962-06-09"
+          "startDate": "1962-06-07"
         },
         {
-          "endDate": "1962-09-14",
+          "endDate": "1962-06-29",
+          "items": [
+            {
+              "artist": "Mike Sarne with Wendy Richard",
+              "rank": 1,
+              "title": "Come Outside"
+            }
+          ],
+          "startDate": "1962-06-28"
+        },
+        {
+          "endDate": "1962-07-04",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Good Luck Charm"
+            }
+          ],
+          "startDate": "1962-06-30"
+        },
+        {
+          "endDate": "1962-07-06",
+          "items": [
+            {
+              "artist": "Mike Sarne with Wendy Richard",
+              "rank": 1,
+              "title": "Come Outside"
+            }
+          ],
+          "startDate": "1962-07-05"
+        },
+        {
+          "endDate": "1962-07-11",
+          "items": [
+            {
+              "artist": "Joe Brown and the Bruvvers",
+              "rank": 1,
+              "title": "A Picture of You"
+            }
+          ],
+          "startDate": "1962-07-07"
+        },
+        {
+          "endDate": "1962-07-13",
+          "items": [
+            {
+              "artist": "Ray Charles",
+              "rank": 1,
+              "title": "I Can't Stop Loving You"
+            }
+          ],
+          "startDate": "1962-07-12"
+        },
+        {
+          "endDate": "1962-07-18",
+          "items": [
+            {
+              "artist": "Joe Brown",
+              "rank": 1,
+              "title": "A Picture of You"
+            }
+          ],
+          "startDate": "1962-07-14"
+        },
+        {
+          "endDate": "1962-07-25",
+          "items": [
+            {
+              "artist": "Ray Charles",
+              "rank": 1,
+              "title": "I Can't Stop Loving You"
+            }
+          ],
+          "startDate": "1962-07-19"
+        },
+        {
+          "endDate": "1962-09-12",
           "items": [
             {
               "artist": "Frank Ifield",
@@ -56,10 +612,10 @@
               "title": "I Remember You"
             }
           ],
-          "startDate": "1962-07-28"
+          "startDate": "1962-07-26"
         },
         {
-          "endDate": "1962-10-05",
+          "endDate": "1962-09-14",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -67,10 +623,32 @@
               "title": "She's Not You"
             }
           ],
-          "startDate": "1962-09-22"
+          "startDate": "1962-09-13"
         },
         {
-          "endDate": "1962-11-09",
+          "endDate": "1962-09-19",
+          "items": [
+            {
+              "artist": "Frank Ifield",
+              "rank": 1,
+              "title": "I Remember You"
+            }
+          ],
+          "startDate": "1962-09-15"
+        },
+        {
+          "endDate": "1962-10-03",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "She's Not You"
+            }
+          ],
+          "startDate": "1962-09-20"
+        },
+        {
+          "endDate": "1962-11-07",
           "items": [
             {
               "artist": "The Tornados",
@@ -78,10 +656,10 @@
               "title": "Telstar"
             }
           ],
-          "startDate": "1962-10-06"
+          "startDate": "1962-10-04"
         },
         {
-          "endDate": "1962-12-14",
+          "endDate": "1962-11-09",
           "items": [
             {
               "artist": "Frank Ifield",
@@ -89,10 +667,32 @@
               "title": "Lovesick Blues"
             }
           ],
-          "startDate": "1962-11-17"
+          "startDate": "1962-11-08"
         },
         {
-          "endDate": "1962-12-28",
+          "endDate": "1962-11-14",
+          "items": [
+            {
+              "artist": "The Tornados",
+              "rank": 1,
+              "title": "Telstar"
+            }
+          ],
+          "startDate": "1962-11-10"
+        },
+        {
+          "endDate": "1962-12-12",
+          "items": [
+            {
+              "artist": "Frank Ifield",
+              "rank": 1,
+              "title": "Lovesick Blues"
+            }
+          ],
+          "startDate": "1962-11-15"
+        },
+        {
+          "endDate": "1962-12-14",
           "items": [
             {
               "artist": "Elvis Presley",
@@ -100,13 +700,35 @@
               "title": "Return to Sender"
             }
           ],
-          "startDate": "1962-12-22"
+          "startDate": "1962-12-13"
+        },
+        {
+          "endDate": "1962-12-19",
+          "items": [
+            {
+              "artist": "Frank Ifield",
+              "rank": 1,
+              "title": "Lovesick Blues"
+            }
+          ],
+          "startDate": "1962-12-15"
+        },
+        {
+          "endDate": "1962-12-31",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "Return to Sender"
+            }
+          ],
+          "startDate": "1962-12-20"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -114,7 +736,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "4af15a8b67fb1e406704c1048d12992383fd966f6ef2655acfdc1576086d48d9",
+  "contentHash": "578f502c976af273e13bb17c7a5e65e7b409df8248c7dc4d68a6065b8d6ea43b",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1962

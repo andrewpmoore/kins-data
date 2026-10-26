@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2007",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780747582793",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780747582793-L.jpg?default=false",
+          "author": "Khaled Hosseini",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780747582793",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780747582793-L.jpg?default=false",
+          "creator": "Khaled Hosseini",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "A Thousand Splendid Suns",
+          "url": "https://books.google.com/books?vid=ISBN:9780747582793"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2007/dec/29/news"
+      },
+      "title": "UK print bestseller",
+      "year": 2007
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2007",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780747591054",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780747591054-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780747591054",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780747591054-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Harry Potter and the Deathly Hallows",
+          "url": "https://books.google.com/books?vid=ISBN:9780747591054"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2007/dec/29/news"
+      },
+      "title": "UK children's bestseller",
+      "year": 2007
+    },
     "games": {
       "id": "media-awardWinner-2007",
       "items": [
@@ -49,7 +107,7 @@
       "year": 2007
     }
   },
-  "contentHash": "bff5e92d7eba75d7d863909674218c656d74c964e166476c6be5c5d169f95c6b",
+  "contentHash": "330e9d0e49b9be66c0c48c280e6c188805d38ceccf78294a8774965c9454d045",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2007

@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2026",
+      "items": [
+        {
+          "author": "Guillaume Musso",
+          "creator": "Guillaume Musso",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Le Destin des hommes",
+          "url": "https://books.google.com/books?q=Le+Destin+des+hommes"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2026"
+      },
+      "title": "FR print bestseller",
+      "year": 2026
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2026",
+      "items": [
+        {
+          "author": "Mr Tan et Diane Le Feyer",
+          "creator": "Mr Tan et Diane Le Feyer",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Mortelle Adèle: Mission spéciale",
+          "url": "https://books.google.com/books?q=Mortelle+Adèle:+Mission+spéciale"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2026"
+      },
+      "title": "FR children's bestseller",
+      "year": 2026
+    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -26,7 +72,7 @@
       "year": 2026
     }
   },
-  "contentHash": "2569ba8147628669b4d3e095a1de6847eeec5f31965007a0bd2b62ca39431426",
+  "contentHash": "cf3ba83bc6aca20183e487c43e1476562d9d940dc66d1fe1c3c20855c04c0265",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2026

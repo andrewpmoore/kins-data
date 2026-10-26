@@ -1,5 +1,229 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1966-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Thunderball"
+            }
+          ],
+          "startDate": "1966-01-01"
+        },
+        {
+          "endDate": "1966-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1966-03-02"
+        },
+        {
+          "endDate": "1966-04-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Zhivago"
+            }
+          ],
+          "startDate": "1966-04-06"
+        },
+        {
+          "endDate": "1966-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1966-04-27"
+        },
+        {
+          "endDate": "1966-05-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Zhivago"
+            }
+          ],
+          "startDate": "1966-05-04"
+        },
+        {
+          "endDate": "1966-05-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1966-05-11"
+        },
+        {
+          "endDate": "1966-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Zhivago"
+            }
+          ],
+          "startDate": "1966-05-18"
+        },
+        {
+          "endDate": "1966-06-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1966-05-25"
+        },
+        {
+          "endDate": "1966-06-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Zhivago"
+            }
+          ],
+          "startDate": "1966-06-08"
+        },
+        {
+          "endDate": "1966-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1966-06-15"
+        },
+        {
+          "endDate": "1966-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Russians Are Coming, the Russians Are Coming"
+            }
+          ],
+          "startDate": "1966-06-29"
+        },
+        {
+          "endDate": "1966-08-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Who's Afraid of Virginia Woolf?"
+            }
+          ],
+          "startDate": "1966-07-06"
+        },
+        {
+          "endDate": "1966-09-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How to Steal a Million"
+            }
+          ],
+          "startDate": "1966-08-31"
+        },
+        {
+          "endDate": "1966-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sound of Music"
+            }
+          ],
+          "startDate": "1966-09-14"
+        },
+        {
+          "endDate": "1966-11-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Zhivago"
+            }
+          ],
+          "startDate": "1966-09-21"
+        },
+        {
+          "endDate": "1966-11-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hawaii"
+            }
+          ],
+          "startDate": "1966-11-02"
+        },
+        {
+          "endDate": "1966-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Professionals"
+            }
+          ],
+          "startDate": "1966-11-16"
+        },
+        {
+          "endDate": "1966-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Professionals and Hawaii"
+            }
+          ],
+          "startDate": "1966-11-23"
+        },
+        {
+          "endDate": "1966-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Professionals"
+            }
+          ],
+          "startDate": "1966-11-30"
+        },
+        {
+          "endDate": "1966-12-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hawaii and The Professionals"
+            }
+          ],
+          "startDate": "1966-12-21"
+        },
+        {
+          "endDate": "1966-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Follow Me, Boys!"
+            }
+          ],
+          "startDate": "1966-12-28"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -9,13 +233,13 @@
             {
               "artist": "The Beatles",
               "rank": 1,
-              "title": "Day Tripper\" / \"We Can Work It Out"
+              "title": "Day Tripper / We Can Work It Out"
             }
           ],
           "startDate": "1966-01-01"
         },
         {
-          "endDate": "1966-01-28",
+          "endDate": "1966-01-26",
           "items": [
             {
               "artist": "The Spencer Davis Group",
@@ -34,7 +258,7 @@
               "title": "Michelle"
             }
           ],
-          "startDate": "1966-02-05"
+          "startDate": "1966-01-27"
         },
         {
           "endDate": "1966-02-18",
@@ -48,18 +272,172 @@
           "startDate": "1966-02-12"
         },
         {
-          "endDate": "1966-03-11",
+          "endDate": "1966-02-23",
           "items": [
             {
               "artist": "The Rolling Stones",
               "rank": 1,
-              "title": "19th Nervous Breakdown\" †"
+              "title": "19th Nervous Breakdown"
             }
           ],
           "startDate": "1966-02-19"
         },
         {
-          "endDate": "1966-05-27",
+          "endDate": "1966-02-25",
+          "items": [
+            {
+              "artist": "Nancy Sinatra",
+              "rank": 1,
+              "title": "These Boots Are Made for Walkin'"
+            }
+          ],
+          "startDate": "1966-02-24"
+        },
+        {
+          "endDate": "1966-03-02",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "19th Nervous Breakdown"
+            }
+          ],
+          "startDate": "1966-02-26"
+        },
+        {
+          "endDate": "1966-03-04",
+          "items": [
+            {
+              "artist": "Nancy Sinatra",
+              "rank": 1,
+              "title": "These Boots Are Made for Walkin'"
+            }
+          ],
+          "startDate": "1966-03-03"
+        },
+        {
+          "endDate": "1966-03-09",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "19th Nervous Breakdown"
+            }
+          ],
+          "startDate": "1966-03-05"
+        },
+        {
+          "endDate": "1966-03-11",
+          "items": [
+            {
+              "artist": "Nancy Sinatra",
+              "rank": 1,
+              "title": "These Boots Are Made for Walkin'"
+            }
+          ],
+          "startDate": "1966-03-10"
+        },
+        {
+          "endDate": "1966-03-16",
+          "items": [
+            {
+              "artist": "Small Faces",
+              "rank": 1,
+              "title": "Sha-La-La-La-Lee"
+            }
+          ],
+          "startDate": "1966-03-12"
+        },
+        {
+          "endDate": "1966-03-18",
+          "items": [
+            {
+              "artist": "The Walker Brothers",
+              "rank": 1,
+              "title": "The Sun Ain't Gonna Shine Anymore"
+            }
+          ],
+          "startDate": "1966-03-17"
+        },
+        {
+          "endDate": "1966-03-23",
+          "items": [
+            {
+              "artist": "The Hollies",
+              "rank": 1,
+              "title": "I Can't Let Go"
+            }
+          ],
+          "startDate": "1966-03-19"
+        },
+        {
+          "endDate": "1966-04-08",
+          "items": [
+            {
+              "artist": "The Walker Brothers",
+              "rank": 1,
+              "title": "The Sun Ain't Gonna Shine Anymore"
+            }
+          ],
+          "startDate": "1966-03-24"
+        },
+        {
+          "endDate": "1966-04-15",
+          "items": [
+            {
+              "artist": "The Spencer Davis Group",
+              "rank": 1,
+              "title": "Somebody Help Me"
+            }
+          ],
+          "startDate": "1966-04-09"
+        },
+        {
+          "endDate": "1966-04-20",
+          "items": [
+            {
+              "artist": "The Hollies",
+              "rank": 1,
+              "title": "I Can't Let Go"
+            }
+          ],
+          "startDate": "1966-04-16"
+        },
+        {
+          "endDate": "1966-04-22",
+          "items": [
+            {
+              "artist": "The Spencer Davis Group",
+              "rank": 1,
+              "title": "Somebody Help Me"
+            }
+          ],
+          "startDate": "1966-04-21"
+        },
+        {
+          "endDate": "1966-04-27",
+          "items": [
+            {
+              "artist": "The Hollies",
+              "rank": 1,
+              "title": "I Can't Let Go"
+            }
+          ],
+          "startDate": "1966-04-23"
+        },
+        {
+          "endDate": "1966-05-04",
+          "items": [
+            {
+              "artist": "Dusty Springfield",
+              "rank": 1,
+              "title": "You Don't Have to Say You Love Me"
+            }
+          ],
+          "startDate": "1966-04-28"
+        },
+        {
+          "endDate": "1966-05-06",
           "items": [
             {
               "artist": "Manfred Mann",
@@ -67,10 +445,54 @@
               "title": "Pretty Flamingo"
             }
           ],
-          "startDate": "1966-05-14"
+          "startDate": "1966-05-05"
         },
         {
-          "endDate": "1966-06-17",
+          "endDate": "1966-05-11",
+          "items": [
+            {
+              "artist": "The Walker Brothers",
+              "rank": 1,
+              "title": "The Sun Ain't Gonna Shine Anymore"
+            }
+          ],
+          "startDate": "1966-05-07"
+        },
+        {
+          "endDate": "1966-05-25",
+          "items": [
+            {
+              "artist": "Manfred Mann",
+              "rank": 1,
+              "title": "Pretty Flamingo"
+            }
+          ],
+          "startDate": "1966-05-12"
+        },
+        {
+          "endDate": "1966-05-27",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Paint It Black"
+            }
+          ],
+          "startDate": "1966-05-26"
+        },
+        {
+          "endDate": "1966-06-01",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Paint It, Black"
+            }
+          ],
+          "startDate": "1966-05-28"
+        },
+        {
+          "endDate": "1966-06-22",
           "items": [
             {
               "artist": "Frank Sinatra",
@@ -78,10 +500,10 @@
               "title": "Strangers in the Night"
             }
           ],
-          "startDate": "1966-06-04"
+          "startDate": "1966-06-02"
         },
         {
-          "endDate": "1966-07-08",
+          "endDate": "1966-07-06",
           "items": [
             {
               "artist": "The Beatles",
@@ -89,10 +511,32 @@
               "title": "Paperback Writer"
             }
           ],
-          "startDate": "1966-06-25"
+          "startDate": "1966-06-23"
         },
         {
-          "endDate": "1966-08-05",
+          "endDate": "1966-07-20",
+          "items": [
+            {
+              "artist": "The Kinks",
+              "rank": 1,
+              "title": "Sunny Afternoon"
+            }
+          ],
+          "startDate": "1966-07-07"
+        },
+        {
+          "endDate": "1966-07-22",
+          "items": [
+            {
+              "artist": "Georgie Fame and the Blue Flames",
+              "rank": 1,
+              "title": "Get Away"
+            }
+          ],
+          "startDate": "1966-07-21"
+        },
+        {
+          "endDate": "1966-08-03",
           "items": [
             {
               "artist": "Chris Farlowe",
@@ -100,10 +544,10 @@
               "title": "Out of Time"
             }
           ],
-          "startDate": "1966-07-30"
+          "startDate": "1966-07-23"
         },
         {
-          "endDate": "1966-08-19",
+          "endDate": "1966-08-17",
           "items": [
             {
               "artist": "The Troggs",
@@ -111,21 +555,21 @@
               "title": "With a Girl Like You"
             }
           ],
-          "startDate": "1966-08-06"
+          "startDate": "1966-08-04"
         },
         {
-          "endDate": "1966-09-09",
+          "endDate": "1966-09-14",
           "items": [
             {
               "artist": "The Beatles",
               "rank": 1,
-              "title": "Yellow Submarine\" / \"Eleanor Rigby"
+              "title": "Yellow Submarine / Eleanor Rigby"
             }
           ],
-          "startDate": "1966-08-20"
+          "startDate": "1966-08-18"
         },
         {
-          "endDate": "1966-09-23",
+          "endDate": "1966-09-21",
           "items": [
             {
               "artist": "Small Faces",
@@ -133,7 +577,7 @@
               "title": "All or Nothing"
             }
           ],
-          "startDate": "1966-09-17"
+          "startDate": "1966-09-15"
         },
         {
           "endDate": "1966-10-07",
@@ -144,7 +588,29 @@
               "title": "Distant Drums"
             }
           ],
-          "startDate": "1966-09-24"
+          "startDate": "1966-09-22"
+        },
+        {
+          "endDate": "1966-10-12",
+          "items": [
+            {
+              "artist": "The Who",
+              "rank": 1,
+              "title": "I'm a Boy"
+            }
+          ],
+          "startDate": "1966-10-08"
+        },
+        {
+          "endDate": "1966-10-26",
+          "items": [
+            {
+              "artist": "Jim Reeves",
+              "rank": 1,
+              "title": "Distant Drums"
+            }
+          ],
+          "startDate": "1966-10-13"
         },
         {
           "endDate": "1966-11-11",
@@ -155,10 +621,10 @@
               "title": "Reach Out I'll Be There"
             }
           ],
-          "startDate": "1966-10-29"
+          "startDate": "1966-10-27"
         },
         {
-          "endDate": "1966-12-02",
+          "endDate": "1966-11-30",
           "items": [
             {
               "artist": "The Beach Boys",
@@ -166,7 +632,7 @@
               "title": "Good Vibrations"
             }
           ],
-          "startDate": "1966-11-19"
+          "startDate": "1966-11-12"
         },
         {
           "endDate": "1966-12-31",
@@ -177,13 +643,13 @@
               "title": "Green, Green Grass of Home"
             }
           ],
-          "startDate": "1966-12-03"
+          "startDate": "1966-12-01"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -191,7 +657,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "5852f102d9d3fadec7948f50d59fecaa27fb049c4b45a1ba4bf7d1292e42e6fe",
+  "contentHash": "8b7df5c761ecb19400c06b63fcf2f2286b960adf61b4e552f978d991dfcf9c19",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1966

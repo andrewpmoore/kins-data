@@ -1,10 +1,224 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1967-01-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Follow Me, Boys!"
+            }
+          ],
+          "startDate": "1967-01-01"
+        },
+        {
+          "endDate": "1967-01-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bible: In the Beginning..."
+            }
+          ],
+          "startDate": "1967-01-18"
+        },
+        {
+          "endDate": "1967-02-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Zhivago"
+            }
+          ],
+          "startDate": "1967-02-01"
+        },
+        {
+          "endDate": "1967-02-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bible: In the Beginning..."
+            }
+          ],
+          "startDate": "1967-02-08"
+        },
+        {
+          "endDate": "1967-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Grand Prix"
+            }
+          ],
+          "startDate": "1967-02-15"
+        },
+        {
+          "endDate": "1967-02-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bible: In the Beginning..."
+            }
+          ],
+          "startDate": "1967-02-22"
+        },
+        {
+          "endDate": "1967-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hawaii"
+            }
+          ],
+          "startDate": "1967-03-01"
+        },
+        {
+          "endDate": "1967-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bible: In the Beginning..."
+            }
+          ],
+          "startDate": "1967-03-08"
+        },
+        {
+          "endDate": "1967-04-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How to Succeed in Business Without Really Trying"
+            }
+          ],
+          "startDate": "1967-03-22"
+        },
+        {
+          "endDate": "1967-05-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Man for All Seasons"
+            }
+          ],
+          "startDate": "1967-04-19"
+        },
+        {
+          "endDate": "1967-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Casino Royale"
+            }
+          ],
+          "startDate": "1967-05-03"
+        },
+        {
+          "endDate": "1967-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Thoroughly Modern Millie"
+            }
+          ],
+          "startDate": "1967-06-14"
+        },
+        {
+          "endDate": "1967-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "You Only Live Twice"
+            }
+          ],
+          "startDate": "1967-06-28"
+        },
+        {
+          "endDate": "1967-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dirty Dozen"
+            }
+          ],
+          "startDate": "1967-08-09"
+        },
+        {
+          "endDate": "1967-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Barefoot in the Park"
+            }
+          ],
+          "startDate": "1967-08-16"
+        },
+        {
+          "endDate": "1967-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "In the Heat of the Night"
+            }
+          ],
+          "startDate": "1967-08-23"
+        },
+        {
+          "endDate": "1967-10-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "To Sir, with Love"
+            }
+          ],
+          "startDate": "1967-09-27"
+        },
+        {
+          "endDate": "1967-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Reflections in a Golden Eye"
+            }
+          ],
+          "startDate": "1967-10-18"
+        },
+        {
+          "endDate": "1967-12-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gone with the Wind"
+            }
+          ],
+          "startDate": "1967-11-01"
+        },
+        {
+          "endDate": "1967-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Valley of the Dolls"
+            }
+          ],
+          "startDate": "1967-12-27"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1967-01-20",
+          "endDate": "1967-01-18",
           "items": [
             {
               "artist": "Tom Jones",
@@ -15,7 +229,7 @@
           "startDate": "1967-01-01"
         },
         {
-          "endDate": "1967-02-17",
+          "endDate": "1967-02-15",
           "items": [
             {
               "artist": "The Monkees",
@@ -23,10 +237,10 @@
               "title": "I'm a Believer"
             }
           ],
-          "startDate": "1967-01-21"
+          "startDate": "1967-01-19"
         },
         {
-          "endDate": "1967-02-24",
+          "endDate": "1967-03-01",
           "items": [
             {
               "artist": "Petula Clark",
@@ -34,7 +248,29 @@
               "title": "This Is My Song"
             }
           ],
-          "startDate": "1967-02-18"
+          "startDate": "1967-02-16"
+        },
+        {
+          "endDate": "1967-03-17",
+          "items": [
+            {
+              "artist": "Engelbert Humperdinck",
+              "rank": 1,
+              "title": "Release Me"
+            }
+          ],
+          "startDate": "1967-03-02"
+        },
+        {
+          "endDate": "1967-03-22",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Penny Lane / Strawberry Fields Forever"
+            }
+          ],
+          "startDate": "1967-03-18"
         },
         {
           "endDate": "1967-04-07",
@@ -45,10 +281,32 @@
               "title": "Release Me"
             }
           ],
-          "startDate": "1967-03-25"
+          "startDate": "1967-03-23"
         },
         {
-          "endDate": "1967-04-21",
+          "endDate": "1967-04-12",
+          "items": [
+            {
+              "artist": "Nancy Sinatra and Frank Sinatra",
+              "rank": 1,
+              "title": "Somethin' Stupid"
+            }
+          ],
+          "startDate": "1967-04-08"
+        },
+        {
+          "endDate": "1967-04-14",
+          "items": [
+            {
+              "artist": "Frank and Nancy Sinatra",
+              "rank": 1,
+              "title": "Somethin' Stupid"
+            }
+          ],
+          "startDate": "1967-04-13"
+        },
+        {
+          "endDate": "1967-04-19",
           "items": [
             {
               "artist": "Nancy Sinatra and Frank Sinatra",
@@ -59,7 +317,18 @@
           "startDate": "1967-04-15"
         },
         {
-          "endDate": "1967-05-19",
+          "endDate": "1967-04-21",
+          "items": [
+            {
+              "artist": "Frank and Nancy Sinatra",
+              "rank": 1,
+              "title": "Somethin' Stupid"
+            }
+          ],
+          "startDate": "1967-04-20"
+        },
+        {
+          "endDate": "1967-05-17",
           "items": [
             {
               "artist": "Sandie Shaw",
@@ -70,7 +339,7 @@
           "startDate": "1967-04-22"
         },
         {
-          "endDate": "1967-06-09",
+          "endDate": "1967-06-07",
           "items": [
             {
               "artist": "The Tremeloes",
@@ -78,10 +347,10 @@
               "title": "Silence Is Golden"
             }
           ],
-          "startDate": "1967-05-20"
+          "startDate": "1967-05-18"
         },
         {
-          "endDate": "1967-07-19",
+          "endDate": "1967-07-04",
           "items": [
             {
               "artist": "Procol Harum",
@@ -89,10 +358,54 @@
               "title": "A Whiter Shade of Pale"
             }
           ],
-          "startDate": "1967-06-10"
+          "startDate": "1967-06-08"
         },
         {
-          "endDate": "1967-08-11",
+          "endDate": "1967-07-05",
+          "items": [
+            {
+              "artist": "Topol",
+              "rank": 1,
+              "title": "If I Were a Rich Man"
+            }
+          ],
+          "startDate": "1967-07-05"
+        },
+        {
+          "endDate": "1967-07-11",
+          "items": [
+            {
+              "artist": "Procol Harum",
+              "rank": 1,
+              "title": "A Whiter Shade of Pale"
+            }
+          ],
+          "startDate": "1967-07-06"
+        },
+        {
+          "endDate": "1967-07-12",
+          "items": [
+            {
+              "artist": "Topol",
+              "rank": 1,
+              "title": "If I Were a Rich Man"
+            }
+          ],
+          "startDate": "1967-07-12"
+        },
+        {
+          "endDate": "1967-07-14",
+          "items": [
+            {
+              "artist": "Procol Harum",
+              "rank": 1,
+              "title": "A Whiter Shade of Pale"
+            }
+          ],
+          "startDate": "1967-07-13"
+        },
+        {
+          "endDate": "1967-08-08",
           "items": [
             {
               "artist": "The Beatles",
@@ -100,10 +413,21 @@
               "title": "All You Need Is Love"
             }
           ],
-          "startDate": "1967-07-22"
+          "startDate": "1967-07-15"
         },
         {
-          "endDate": "1967-09-01",
+          "endDate": "1967-08-11",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco (Be Sure to Wear Flowers in Your Hair)"
+            }
+          ],
+          "startDate": "1967-08-09"
+        },
+        {
+          "endDate": "1967-08-15",
           "items": [
             {
               "artist": "Scott McKenzie",
@@ -114,7 +438,73 @@
           "startDate": "1967-08-12"
         },
         {
-          "endDate": "1967-10-20",
+          "endDate": "1967-08-18",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco (Be Sure to Wear Flowers in Your Hair)"
+            }
+          ],
+          "startDate": "1967-08-16"
+        },
+        {
+          "endDate": "1967-08-22",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco"
+            }
+          ],
+          "startDate": "1967-08-19"
+        },
+        {
+          "endDate": "1967-08-25",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco (Be Sure to Wear Flowers in Your Hair)"
+            }
+          ],
+          "startDate": "1967-08-23"
+        },
+        {
+          "endDate": "1967-08-29",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco"
+            }
+          ],
+          "startDate": "1967-08-26"
+        },
+        {
+          "endDate": "1967-09-01",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco (Be Sure to Wear Flowers in Your Hair)"
+            }
+          ],
+          "startDate": "1967-08-30"
+        },
+        {
+          "endDate": "1967-09-05",
+          "items": [
+            {
+              "artist": "Scott McKenzie",
+              "rank": 1,
+              "title": "San Francisco"
+            }
+          ],
+          "startDate": "1967-09-02"
+        },
+        {
+          "endDate": "1967-10-10",
           "items": [
             {
               "artist": "Engelbert Humperdinck",
@@ -122,10 +512,10 @@
               "title": "The Last Waltz"
             }
           ],
-          "startDate": "1967-09-09"
+          "startDate": "1967-09-06"
         },
         {
-          "endDate": "1967-11-10",
+          "endDate": "1967-10-13",
           "items": [
             {
               "artist": "Bee Gees",
@@ -133,10 +523,32 @@
               "title": "Massachusetts"
             }
           ],
-          "startDate": "1967-10-21"
+          "startDate": "1967-10-11"
         },
         {
-          "endDate": "1967-11-24",
+          "endDate": "1967-10-17",
+          "items": [
+            {
+              "artist": "Engelbert Humperdinck",
+              "rank": 1,
+              "title": "The Last Waltz"
+            }
+          ],
+          "startDate": "1967-10-14"
+        },
+        {
+          "endDate": "1967-11-07",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Massachusetts"
+            }
+          ],
+          "startDate": "1967-10-18"
+        },
+        {
+          "endDate": "1967-11-21",
           "items": [
             {
               "artist": "The Foundations",
@@ -144,10 +556,10 @@
               "title": "Baby Now That I've Found You"
             }
           ],
-          "startDate": "1967-11-11"
+          "startDate": "1967-11-08"
         },
         {
-          "endDate": "1967-12-08",
+          "endDate": "1967-11-24",
           "items": [
             {
               "artist": "Long John Baldry",
@@ -155,13 +567,90 @@
               "title": "Let the Heartaches Begin"
             }
           ],
-          "startDate": "1967-12-02"
+          "startDate": "1967-11-22"
+        },
+        {
+          "endDate": "1967-11-28",
+          "items": [
+            {
+              "artist": "The Foundations",
+              "rank": 1,
+              "title": "Baby Now That I've Found You"
+            }
+          ],
+          "startDate": "1967-11-25"
+        },
+        {
+          "endDate": "1967-12-05",
+          "items": [
+            {
+              "artist": "Long John Baldry",
+              "rank": 1,
+              "title": "Let the Heartaches Begin"
+            }
+          ],
+          "startDate": "1967-11-29"
+        },
+        {
+          "endDate": "1967-12-08",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello, Goodbye"
+            }
+          ],
+          "startDate": "1967-12-06"
+        },
+        {
+          "endDate": "1967-12-12",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello Goodbye"
+            }
+          ],
+          "startDate": "1967-12-09"
+        },
+        {
+          "endDate": "1967-12-15",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello, Goodbye"
+            }
+          ],
+          "startDate": "1967-12-13"
+        },
+        {
+          "endDate": "1967-12-19",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello Goodbye"
+            }
+          ],
+          "startDate": "1967-12-16"
+        },
+        {
+          "endDate": "1967-12-31",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Hello, Goodbye"
+            }
+          ],
+          "startDate": "1967-12-20"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -169,7 +658,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1b1cec5f3da755fe538e68c558907150a1fcda127bc8fc676d8787b043e8485f",
+  "contentHash": "e74f3d185df6edb65ad0052a4c44614f6ea846b74359d259c2e73dab082de8b9",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1967

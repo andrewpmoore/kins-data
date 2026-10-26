@@ -1,0 +1,31 @@
+{
+  "charts": {
+    "games": {
+      "id": "media-awardWinner-2000",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=481",
+          "artworkURL": "https://www.interactive.org/images/games/2000_the_sims_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "The Sims"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2000&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2000
+    }
+  },
+  "contentHash": "2338182da2e435f04d52b8c2e6ab87d031b026df51e6c56009fd073dfd0820c6",
+  "country": "ie",
+  "schemaVersion": 1,
+  "year": 2000
+}

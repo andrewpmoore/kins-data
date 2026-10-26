@@ -1,21 +1,427 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2016-01-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode VII - The Force Awakens"
+            }
+          ],
+          "startDate": "2016-01-01"
+        },
+        {
+          "endDate": "2016-01-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Creed"
+            }
+          ],
+          "startDate": "2016-01-17"
+        },
+        {
+          "endDate": "2016-02-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The 5th Wave"
+            }
+          ],
+          "startDate": "2016-01-31"
+        },
+        {
+          "endDate": "2016-02-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Tuche Family: The American Dream"
+            }
+          ],
+          "startDate": "2016-02-07"
+        },
+        {
+          "endDate": "2016-02-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Deadpool"
+            }
+          ],
+          "startDate": "2016-02-14"
+        },
+        {
+          "endDate": "2016-02-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Zootopia"
+            }
+          ],
+          "startDate": "2016-02-21"
+        },
+        {
+          "endDate": "2016-03-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Revenant"
+            }
+          ],
+          "startDate": "2016-02-28"
+        },
+        {
+          "endDate": "2016-03-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Divergent Series: Allegiant"
+            }
+          ],
+          "startDate": "2016-03-06"
+        },
+        {
+          "endDate": "2016-03-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Demain tout commence"
+            }
+          ],
+          "startDate": "2016-03-20"
+        },
+        {
+          "endDate": "2016-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kung Fu Panda 3"
+            }
+          ],
+          "startDate": "2016-03-27"
+        },
+        {
+          "endDate": "2016-04-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Visitors: Bastille Day"
+            }
+          ],
+          "startDate": "2016-04-10"
+        },
+        {
+          "endDate": "2016-04-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Jungle Book"
+            }
+          ],
+          "startDate": "2016-04-17"
+        },
+        {
+          "endDate": "2016-05-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Captain America: Civil War"
+            }
+          ],
+          "startDate": "2016-04-24"
+        },
+        {
+          "endDate": "2016-05-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X-Men: Apocalypse"
+            }
+          ],
+          "startDate": "2016-05-22"
+        },
+        {
+          "endDate": "2016-06-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Warcraft"
+            }
+          ],
+          "startDate": "2016-05-29"
+        },
+        {
+          "endDate": "2016-06-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Back to Mom's"
+            }
+          ],
+          "startDate": "2016-06-05"
+        },
+        {
+          "endDate": "2016-07-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Finding Dory"
+            }
+          ],
+          "startDate": "2016-06-26"
+        },
+        {
+          "endDate": "2016-07-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Camping 3"
+            }
+          ],
+          "startDate": "2016-07-03"
+        },
+        {
+          "endDate": "2016-07-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ice Age: Collision Course"
+            }
+          ],
+          "startDate": "2016-07-17"
+        },
+        {
+          "endDate": "2016-07-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Independence Day: Resurgence"
+            }
+          ],
+          "startDate": "2016-07-24"
+        },
+        {
+          "endDate": "2016-08-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Secret Life of Pets"
+            }
+          ],
+          "startDate": "2016-07-31"
+        },
+        {
+          "endDate": "2016-08-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Suicide Squad"
+            }
+          ],
+          "startDate": "2016-08-07"
+        },
+        {
+          "endDate": "2016-08-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Secret Life of Pets"
+            }
+          ],
+          "startDate": "2016-08-14"
+        },
+        {
+          "endDate": "2016-09-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lights Out"
+            }
+          ],
+          "startDate": "2016-08-28"
+        },
+        {
+          "endDate": "2016-09-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mechanic: Resurrection"
+            }
+          ],
+          "startDate": "2016-09-04"
+        },
+        {
+          "endDate": "2016-09-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ben-Hur"
+            }
+          ],
+          "startDate": "2016-09-11"
+        },
+        {
+          "endDate": "2016-09-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Victoria2016 Re-release"
+            }
+          ],
+          "startDate": "2016-09-18"
+        },
+        {
+          "endDate": "2016-10-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It's Only the End of the World"
+            }
+          ],
+          "startDate": "2016-09-25"
+        },
+        {
+          "endDate": "2016-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Penny Pincher!"
+            }
+          ],
+          "startDate": "2016-10-02"
+        },
+        {
+          "endDate": "2016-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Miss Peregrine's Home for Peculiar Children"
+            }
+          ],
+          "startDate": "2016-10-09"
+        },
+        {
+          "endDate": "2016-10-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Brice 3"
+            }
+          ],
+          "startDate": "2016-10-23"
+        },
+        {
+          "endDate": "2016-11-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Strange"
+            }
+          ],
+          "startDate": "2016-10-30"
+        },
+        {
+          "endDate": "2016-11-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Max & Leon"
+            }
+          ],
+          "startDate": "2016-11-06"
+        },
+        {
+          "endDate": "2016-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inferno"
+            }
+          ],
+          "startDate": "2016-11-13"
+        },
+        {
+          "endDate": "2016-12-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Beasts and Where to Find Them"
+            }
+          ],
+          "startDate": "2016-11-20"
+        },
+        {
+          "endDate": "2016-12-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moana"
+            }
+          ],
+          "startDate": "2016-12-04"
+        },
+        {
+          "endDate": "2016-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rogue One: A Star Wars Story"
+            }
+          ],
+          "startDate": "2016-12-18"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2016-01-14",
+          "endDate": "2016-01-13",
           "items": [
             {
-              "artist": "Michel Delpech",
+              "artist": "Adele",
               "rank": 1,
-              "title": "Quand j'étais chanteur"
+              "title": "Hello"
             }
           ],
-          "startDate": "2016-01-08"
+          "startDate": "2016-01-01"
         },
         {
-          "endDate": "2016-02-04",
+          "endDate": "2016-01-20",
+          "items": [
+            {
+              "artist": "David Bowie",
+              "rank": 1,
+              "title": "Space Oddity"
+            }
+          ],
+          "startDate": "2016-01-14"
+        },
+        {
+          "endDate": "2016-01-27",
+          "items": [
+            {
+              "artist": "Matt Simons",
+              "rank": 1,
+              "title": "Catch & Release\" (Deepend Remix)"
+            }
+          ],
+          "startDate": "2016-01-21"
+        },
+        {
+          "endDate": "2016-02-03",
           "items": [
             {
               "artist": "Renaud",
@@ -23,10 +429,32 @@
               "title": "Toujours debout"
             }
           ],
-          "startDate": "2016-01-29"
+          "startDate": "2016-01-28"
         },
         {
-          "endDate": "2016-02-25",
+          "endDate": "2016-02-10",
+          "items": [
+            {
+              "artist": "Rihanna featuring Drake",
+              "rank": 1,
+              "title": "Work"
+            }
+          ],
+          "startDate": "2016-02-04"
+        },
+        {
+          "endDate": "2016-02-17",
+          "items": [
+            {
+              "artist": "Matt Simons",
+              "rank": 1,
+              "title": "Catch & Release\" (Deepend Remix)"
+            }
+          ],
+          "startDate": "2016-02-11"
+        },
+        {
+          "endDate": "2016-02-24",
           "items": [
             {
               "artist": "Jain",
@@ -34,21 +462,43 @@
               "title": "Come"
             }
           ],
-          "startDate": "2016-02-19"
+          "startDate": "2016-02-18"
         },
         {
-          "endDate": "2016-03-03",
+          "endDate": "2016-03-02",
           "items": [
             {
-              "artist": "Christophe Maé",
+              "artist": "Rihanna featuring Drake",
               "rank": 1,
-              "title": "Il est où le bonheur"
+              "title": "Work"
             }
           ],
-          "startDate": "2016-02-26"
+          "startDate": "2016-02-25"
         },
         {
-          "endDate": "2016-04-07",
+          "endDate": "2016-03-30",
+          "items": [
+            {
+              "artist": "Alan Walker",
+              "rank": 1,
+              "title": "Faded"
+            }
+          ],
+          "startDate": "2016-03-03"
+        },
+        {
+          "endDate": "2016-04-06",
+          "items": [
+            {
+              "artist": "Mylène Farmer",
+              "rank": 1,
+              "title": "City of Love"
+            }
+          ],
+          "startDate": "2016-03-31"
+        },
+        {
+          "endDate": "2016-04-13",
           "items": [
             {
               "artist": "Kungs vs. Cookin' on 3 Burners",
@@ -56,43 +506,87 @@
               "title": "This Girl"
             }
           ],
-          "startDate": "2016-04-01"
+          "startDate": "2016-04-07"
         },
         {
-          "endDate": "2016-04-14",
+          "endDate": "2016-04-20",
           "items": [
             {
-              "artist": "Lukas Graham",
+              "artist": "Drake featuring Wizkid and Kyla",
               "rank": 1,
-              "title": "7 Years"
+              "title": "One Dance"
             }
           ],
-          "startDate": "2016-04-08"
+          "startDate": "2016-04-14"
         },
         {
-          "endDate": "2016-04-28",
+          "endDate": "2016-04-27",
           "items": [
             {
-              "artist": "Nehuda featuring Cris Cab",
+              "artist": "Kungs vs. Cookin' on 3 Burners",
               "rank": 1,
-              "title": "Paradise"
+              "title": "This Girl"
             }
           ],
-          "startDate": "2016-04-22"
+          "startDate": "2016-04-21"
         },
         {
-          "endDate": "2016-06-16",
+          "endDate": "2016-05-04",
           "items": [
             {
-              "artist": "Deorro featuring Elvis Crespo",
+              "artist": "Prince and The Revolution",
               "rank": 1,
-              "title": "Bailar"
+              "title": "Purple Rain"
             }
           ],
-          "startDate": "2016-06-10"
+          "startDate": "2016-04-28"
         },
         {
-          "endDate": "2016-06-23",
+          "endDate": "2016-05-18",
+          "items": [
+            {
+              "artist": "Sia featuring Sean Paul",
+              "rank": 1,
+              "title": "Cheap Thrills"
+            }
+          ],
+          "startDate": "2016-05-05"
+        },
+        {
+          "endDate": "2016-05-25",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "Can't Stop the Feeling!"
+            }
+          ],
+          "startDate": "2016-05-19"
+        },
+        {
+          "endDate": "2016-06-08",
+          "items": [
+            {
+              "artist": "Celine Dion",
+              "rank": 1,
+              "title": "Encore un soir"
+            }
+          ],
+          "startDate": "2016-05-26"
+        },
+        {
+          "endDate": "2016-06-15",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "Can't Stop the Feeling!"
+            }
+          ],
+          "startDate": "2016-06-09"
+        },
+        {
+          "endDate": "2016-06-29",
           "items": [
             {
               "artist": "David Guetta featuring Zara Larsson",
@@ -100,43 +594,153 @@
               "title": "This One's for You"
             }
           ],
-          "startDate": "2016-06-17"
+          "startDate": "2016-06-16"
         },
         {
-          "endDate": "2016-06-30",
+          "endDate": "2016-07-13",
           "items": [
             {
-              "artist": "Jenifer",
+              "artist": "Justin Timberlake",
               "rank": 1,
-              "title": "Paradis secret"
+              "title": "Can't Stop the Feeling!"
             }
           ],
-          "startDate": "2016-06-24"
+          "startDate": "2016-06-30"
         },
         {
-          "endDate": "2016-09-01",
+          "endDate": "2016-07-20",
+          "items": [
+            {
+              "artist": "David Guetta featuring Zara Larsson",
+              "rank": 1,
+              "title": "This One's for You"
+            }
+          ],
+          "startDate": "2016-07-14"
+        },
+        {
+          "endDate": "2016-07-27",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "Can't Stop the Feeling!"
+            }
+          ],
+          "startDate": "2016-07-21"
+        },
+        {
+          "endDate": "2016-08-03",
+          "items": [
+            {
+              "artist": "Booba",
+              "rank": 1,
+              "title": "E.L.E.P.H.A.N.T."
+            }
+          ],
+          "startDate": "2016-07-28"
+        },
+        {
+          "endDate": "2016-08-10",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "Can't Stop the Feeling!"
+            }
+          ],
+          "startDate": "2016-08-04"
+        },
+        {
+          "endDate": "2016-08-17",
+          "items": [
+            {
+              "artist": "DJ Snake featuring Justin Bieber",
+              "rank": 1,
+              "title": "Let Me Love You"
+            }
+          ],
+          "startDate": "2016-08-11"
+        },
+        {
+          "endDate": "2016-08-24",
+          "items": [
+            {
+              "artist": "Justin Timberlake",
+              "rank": 1,
+              "title": "Can't Stop the Feeling!"
+            }
+          ],
+          "startDate": "2016-08-18"
+        },
+        {
+          "endDate": "2016-08-31",
           "items": [
             {
               "artist": "Imany",
               "rank": 1,
-              "title": "Don't Be So Shy"
+              "title": "Don't Be So Shy\" (Filatov & Karas Remix)"
             }
           ],
-          "startDate": "2016-08-26"
+          "startDate": "2016-08-25"
         },
         {
-          "endDate": "2016-09-15",
+          "endDate": "2016-09-14",
           "items": [
             {
-              "artist": "Charlie Puth featuring Selena Gomez",
+              "artist": "Celine Dion",
               "rank": 1,
-              "title": "We Don't Talk Anymore"
+              "title": "Encore un soir"
             }
           ],
-          "startDate": "2016-09-09"
+          "startDate": "2016-09-01"
         },
         {
-          "endDate": "2016-10-20",
+          "endDate": "2016-09-21",
+          "items": [
+            {
+              "artist": "Lady Gaga",
+              "rank": 1,
+              "title": "Perfect Illusion"
+            }
+          ],
+          "startDate": "2016-09-15"
+        },
+        {
+          "endDate": "2016-09-28",
+          "items": [
+            {
+              "artist": "LP",
+              "rank": 1,
+              "title": "Lost on You"
+            }
+          ],
+          "startDate": "2016-09-22"
+        },
+        {
+          "endDate": "2016-10-05",
+          "items": [
+            {
+              "artist": "The Weeknd featuring Daft Punk",
+              "rank": 1,
+              "title": "Starboy"
+            }
+          ],
+          "startDate": "2016-09-29"
+        },
+        {
+          "endDate": "2016-10-12",
+          "items": [
+            {
+              "artist": "Booba",
+              "rank": 1,
+              "title": "DKR"
+            }
+          ],
+          "startDate": "2016-10-06"
+        },
+        {
+          "endDate": "2016-10-19",
           "items": [
             {
               "artist": "Bruno Mars",
@@ -144,10 +748,21 @@
               "title": "24K Magic"
             }
           ],
-          "startDate": "2016-10-14"
+          "startDate": "2016-10-13"
         },
         {
-          "endDate": "2016-11-03",
+          "endDate": "2016-10-26",
+          "items": [
+            {
+              "artist": "Julien Doré",
+              "rank": 1,
+              "title": "Le lac"
+            }
+          ],
+          "startDate": "2016-10-20"
+        },
+        {
+          "endDate": "2016-11-16",
           "items": [
             {
               "artist": "Richard Orlinski and Eva Simons",
@@ -155,46 +770,46 @@
               "title": "Heartbeat"
             }
           ],
-          "startDate": "2016-10-28"
+          "startDate": "2016-10-27"
         },
         {
-          "endDate": "2016-11-17",
+          "endDate": "2016-11-23",
           "items": [
             {
-              "artist": "Kungs featuring Ephemerals",
+              "artist": "Leonard Cohen",
               "rank": 1,
-              "title": "I Feel So Bad"
+              "title": "Hallelujah"
             }
           ],
-          "startDate": "2016-11-11"
+          "startDate": "2016-11-17"
         },
         {
-          "endDate": "2016-12-08",
+          "endDate": "2016-11-30",
           "items": [
             {
-              "artist": "Rag'n'Bone Man",
+              "artist": "Bruno Mars",
               "rank": 1,
-              "title": "Human"
+              "title": "24K Magic"
             }
           ],
-          "startDate": "2016-12-02"
+          "startDate": "2016-11-24"
         },
         {
-          "endDate": "2016-12-29",
+          "endDate": "2016-12-31",
           "items": [
             {
-              "artist": "Mariah Carey",
+              "artist": "LP",
               "rank": 1,
-              "title": "All I Want for Christmas Is You"
+              "title": "Lost on You"
             }
           ],
-          "startDate": "2016-12-23"
+          "startDate": "2016-12-01"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-01",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -202,7 +817,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1d09ac4155478b45fae99e4f6d673397b2fe7c4557e023f5f9b65d5737fbbbf4",
+  "contentHash": "8cb65c0976841b483d24035beccf4ffef4dcaaa417a0e9a4f90b993df152f4a6",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2016

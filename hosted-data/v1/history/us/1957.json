@@ -64,7 +64,7 @@
             {
               "artist": "Elvis Presley",
               "rank": 1,
-              "title": "All Shook Up\"♪"
+              "title": "All Shook Up"
             }
           ],
           "startDate": "1957-04-13"
@@ -172,7 +172,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -180,7 +180,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "11d7d182bbb7bae365158188b5aec508926e4bd928d9592966fa418dfdcdee2c",
+  "contentHash": "855dd8ccc4a58c04bd4185b341fbc483dc247b51a4a6c45311a2a72bc4ca7746",
   "country": "us",
   "schemaVersion": 1,
   "year": 1957

@@ -1,5 +1,259 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2017-01-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rogue One: A Star Wars Story"
+            }
+          ],
+          "startDate": "2017-01-01"
+        },
+        {
+          "endDate": "2017-01-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Passengers"
+            }
+          ],
+          "startDate": "2017-01-08"
+        },
+        {
+          "endDate": "2017-01-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "xXx: Return of Xander Cage"
+            }
+          ],
+          "startDate": "2017-01-22"
+        },
+        {
+          "endDate": "2017-02-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Split"
+            }
+          ],
+          "startDate": "2017-01-29"
+        },
+        {
+          "endDate": "2017-03-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fifty Shades Darker"
+            }
+          ],
+          "startDate": "2017-02-12"
+        },
+        {
+          "endDate": "2017-03-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Logan"
+            }
+          ],
+          "startDate": "2017-03-05"
+        },
+        {
+          "endDate": "2017-03-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kong: Skull Island"
+            }
+          ],
+          "startDate": "2017-03-12"
+        },
+        {
+          "endDate": "2017-04-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beauty and the Beast"
+            }
+          ],
+          "startDate": "2017-03-19"
+        },
+        {
+          "endDate": "2017-04-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fate of the Furious"
+            }
+          ],
+          "startDate": "2017-04-16"
+        },
+        {
+          "endDate": "2017-05-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Guardians of the Galaxy: Vol. 2"
+            }
+          ],
+          "startDate": "2017-04-30"
+        },
+        {
+          "endDate": "2017-05-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Alien: Covenant"
+            }
+          ],
+          "startDate": "2017-05-21"
+        },
+        {
+          "endDate": "2017-06-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: Dead Men Tell No Tales"
+            }
+          ],
+          "startDate": "2017-05-28"
+        },
+        {
+          "endDate": "2017-06-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonder Woman"
+            }
+          ],
+          "startDate": "2017-06-18"
+        },
+        {
+          "endDate": "2017-07-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers: The Last Knight"
+            }
+          ],
+          "startDate": "2017-06-25"
+        },
+        {
+          "endDate": "2017-08-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Despicable Me 3"
+            }
+          ],
+          "startDate": "2017-07-09"
+        },
+        {
+          "endDate": "2017-08-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "War for the Planet of the Apes"
+            }
+          ],
+          "startDate": "2017-08-06"
+        },
+        {
+          "endDate": "2017-08-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Despicable Me 3"
+            }
+          ],
+          "startDate": "2017-08-13"
+        },
+        {
+          "endDate": "2017-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bullyparade: The Movie"
+            }
+          ],
+          "startDate": "2017-08-20"
+        },
+        {
+          "endDate": "2017-09-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "High Society"
+            }
+          ],
+          "startDate": "2017-09-17"
+        },
+        {
+          "endDate": "2017-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kingsman: The Golden Circle"
+            }
+          ],
+          "startDate": "2017-09-24"
+        },
+        {
+          "endDate": "2017-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It"
+            }
+          ],
+          "startDate": "2017-10-01"
+        },
+        {
+          "endDate": "2017-12-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Suck Me Shakespeer 3"
+            }
+          ],
+          "startDate": "2017-10-29"
+        },
+        {
+          "endDate": "2017-12-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Coco"
+            }
+          ],
+          "startDate": "2017-12-03"
+        },
+        {
+          "endDate": "2017-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode VIII - The Last Jedi"
+            }
+          ],
+          "startDate": "2017-12-17"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -31,7 +285,7 @@
             {
               "artist": "Ed Sheeran",
               "rank": 1,
-              "title": "Shape of You\" †"
+              "title": "Shape of You"
             }
           ],
           "startDate": "2017-01-13"
@@ -75,7 +329,7 @@
             {
               "artist": "Kollegah and Farid Bang",
               "rank": 1,
-              "title": "Sturmmaske auf"
+              "title": "Sturmmaske auf (Intro)"
             }
           ],
           "startDate": "2017-10-06"
@@ -106,7 +360,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -114,7 +368,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "4b9874dc51d2baf0ca140d771e0eb26bf49ee7ea9ac8f25b1f7448b472e4c94a",
+  "contentHash": "08c418216fed8886d0373d2f4ea7495f11439d2a142761cd3c6c79e790c24e0d",
   "country": "de",
   "schemaVersion": 1,
   "year": 2017

@@ -1,0 +1,496 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2005-01-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Incredibles"
+            }
+          ],
+          "startDate": "2005-01-01"
+        },
+        {
+          "endDate": "2005-01-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Alexander"
+            }
+          ],
+          "startDate": "2005-01-09"
+        },
+        {
+          "endDate": "2005-01-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Howl's Moving Castle"
+            }
+          ],
+          "startDate": "2005-01-16"
+        },
+        {
+          "endDate": "2005-01-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Closer"
+            }
+          ],
+          "startDate": "2005-01-23"
+        },
+        {
+          "endDate": "2005-02-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Aviator"
+            }
+          ],
+          "startDate": "2005-01-30"
+        },
+        {
+          "endDate": "2005-02-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Espace détente"
+            }
+          ],
+          "startDate": "2005-02-06"
+        },
+        {
+          "endDate": "2005-02-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Iznogoud- Caliph Instead of the Caliph"
+            }
+          ],
+          "startDate": "2005-02-13"
+        },
+        {
+          "endDate": "2005-03-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Meet the Fockers"
+            }
+          ],
+          "startDate": "2005-02-27"
+        },
+        {
+          "endDate": "2005-03-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ray"
+            }
+          ],
+          "startDate": "2005-03-06"
+        },
+        {
+          "endDate": "2005-03-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Boudu"
+            }
+          ],
+          "startDate": "2005-03-13"
+        },
+        {
+          "endDate": "2005-03-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hitch"
+            }
+          ],
+          "startDate": "2005-03-20"
+        },
+        {
+          "endDate": "2005-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Million Dollar Baby"
+            }
+          ],
+          "startDate": "2005-03-27"
+        },
+        {
+          "endDate": "2005-05-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Brice Man"
+            }
+          ],
+          "startDate": "2005-04-10"
+        },
+        {
+          "endDate": "2005-05-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kingdom of Heaven"
+            }
+          ],
+          "startDate": "2005-05-08"
+        },
+        {
+          "endDate": "2005-05-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tae Guk Gi: The Brotherhood of War"
+            }
+          ],
+          "startDate": "2005-05-15"
+        },
+        {
+          "endDate": "2005-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode III - Revenge of the Sith"
+            }
+          ],
+          "startDate": "2005-05-22"
+        },
+        {
+          "endDate": "2005-06-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Russian Dolls"
+            }
+          ],
+          "startDate": "2005-06-19"
+        },
+        {
+          "endDate": "2005-07-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar"
+            }
+          ],
+          "startDate": "2005-06-26"
+        },
+        {
+          "endDate": "2005-07-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "War of the Worlds"
+            }
+          ],
+          "startDate": "2005-07-10"
+        },
+        {
+          "endDate": "2005-07-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Charlie and the Chocolate Factory"
+            }
+          ],
+          "startDate": "2005-07-17"
+        },
+        {
+          "endDate": "2005-07-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Four"
+            }
+          ],
+          "startDate": "2005-07-24"
+        },
+        {
+          "endDate": "2005-08-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mr. & Mrs. Smith"
+            }
+          ],
+          "startDate": "2005-07-31"
+        },
+        {
+          "endDate": "2005-09-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Island"
+            }
+          ],
+          "startDate": "2005-08-21"
+        },
+        {
+          "endDate": "2005-09-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Broken Flowers"
+            }
+          ],
+          "startDate": "2005-09-11"
+        },
+        {
+          "endDate": "2005-10-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bewitched"
+            }
+          ],
+          "startDate": "2005-09-25"
+        },
+        {
+          "endDate": "2005-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Il ne faut jurer... de rien!"
+            }
+          ],
+          "startDate": "2005-10-02"
+        },
+        {
+          "endDate": "2005-10-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Brothers Grimm"
+            }
+          ],
+          "startDate": "2005-10-09"
+        },
+        {
+          "endDate": "2005-10-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wallace & Gromit: The Curse of the Were-Rabbit"
+            }
+          ],
+          "startDate": "2005-10-16"
+        },
+        {
+          "endDate": "2005-11-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Legend of Zorro"
+            }
+          ],
+          "startDate": "2005-10-30"
+        },
+        {
+          "endDate": "2005-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sky Fighters"
+            }
+          ],
+          "startDate": "2005-11-13"
+        },
+        {
+          "endDate": "2005-11-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Joyeux Noel"
+            }
+          ],
+          "startDate": "2005-11-20"
+        },
+        {
+          "endDate": "2005-12-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Palais royal!"
+            }
+          ],
+          "startDate": "2005-11-27"
+        },
+        {
+          "endDate": "2005-12-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Goblet of Fire"
+            }
+          ],
+          "startDate": "2005-12-04"
+        },
+        {
+          "endDate": "2005-12-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "King Kong"
+            }
+          ],
+          "startDate": "2005-12-18"
+        },
+        {
+          "endDate": "2005-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+            }
+          ],
+          "startDate": "2005-12-25"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2005-01-06",
+          "items": [
+            {
+              "artist": "Star Academy 4",
+              "rank": 1,
+              "title": "Adieu monsieur le professeur"
+            }
+          ],
+          "startDate": "2005-01-01"
+        },
+        {
+          "endDate": "2005-01-28",
+          "items": [
+            {
+              "artist": "Eric Prydz",
+              "rank": 1,
+              "title": "Call on Me"
+            }
+          ],
+          "startDate": "2005-01-08"
+        },
+        {
+          "endDate": "2005-03-11",
+          "items": [
+            {
+              "artist": "Amel Bent",
+              "rank": 1,
+              "title": "Ma Philosophie"
+            }
+          ],
+          "startDate": "2005-01-29"
+        },
+        {
+          "endDate": "2005-06-24",
+          "items": [
+            {
+              "artist": "Ilona Mitrecey",
+              "rank": 1,
+              "title": "Un Monde parfait"
+            }
+          ],
+          "startDate": "2005-03-12"
+        },
+        {
+          "endDate": "2005-09-23",
+          "items": [
+            {
+              "artist": "Crazy Frog",
+              "rank": 1,
+              "title": "Axel F"
+            }
+          ],
+          "startDate": "2005-06-25"
+        },
+        {
+          "endDate": "2005-11-11",
+          "items": [
+            {
+              "artist": "Crazy Frog",
+              "rank": 1,
+              "title": "Popcorn"
+            }
+          ],
+          "startDate": "2005-09-24"
+        },
+        {
+          "endDate": "2005-12-09",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Hung Up"
+            }
+          ],
+          "startDate": "2005-11-12"
+        },
+        {
+          "endDate": "2005-12-23",
+          "items": [
+            {
+              "artist": "Star Academy 5",
+              "rank": 1,
+              "title": "Santiano"
+            }
+          ],
+          "startDate": "2005-12-10"
+        },
+        {
+          "endDate": "2005-12-30",
+          "items": [
+            {
+              "artist": "Johnny Hallyday",
+              "rank": 1,
+              "title": "Mon plus beau Noël"
+            }
+          ],
+          "startDate": "2005-12-24"
+        },
+        {
+          "endDate": "2005-12-31",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Hung Up"
+            }
+          ],
+          "startDate": "2005-12-31"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "7fbddab6a34040627d10ea9e1a022e7b861c0107f2e3653f5b1f8eb1b092bb80",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2005
+}

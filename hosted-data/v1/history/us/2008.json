@@ -1,5 +1,429 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2008-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "National Treasure: Book of Secrets"
+            }
+          ],
+          "startDate": "2008-01-01"
+        },
+        {
+          "endDate": "2008-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bucket List"
+            }
+          ],
+          "startDate": "2008-01-13"
+        },
+        {
+          "endDate": "2008-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cloverfield"
+            }
+          ],
+          "startDate": "2008-01-20"
+        },
+        {
+          "endDate": "2008-02-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Meet the Spartans"
+            }
+          ],
+          "startDate": "2008-01-27"
+        },
+        {
+          "endDate": "2008-02-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert"
+            }
+          ],
+          "startDate": "2008-02-03"
+        },
+        {
+          "endDate": "2008-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fool's Gold"
+            }
+          ],
+          "startDate": "2008-02-10"
+        },
+        {
+          "endDate": "2008-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jumper"
+            }
+          ],
+          "startDate": "2008-02-17"
+        },
+        {
+          "endDate": "2008-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Vantage Point"
+            }
+          ],
+          "startDate": "2008-02-24"
+        },
+        {
+          "endDate": "2008-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Semi-Pro"
+            }
+          ],
+          "startDate": "2008-03-02"
+        },
+        {
+          "endDate": "2008-03-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "10,000 BC"
+            }
+          ],
+          "startDate": "2008-03-09"
+        },
+        {
+          "endDate": "2008-03-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Horton Hears a Who!"
+            }
+          ],
+          "startDate": "2008-03-16"
+        },
+        {
+          "endDate": "2008-04-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "21"
+            }
+          ],
+          "startDate": "2008-03-30"
+        },
+        {
+          "endDate": "2008-04-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Prom Night"
+            }
+          ],
+          "startDate": "2008-04-13"
+        },
+        {
+          "endDate": "2008-04-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Forbidden Kingdom"
+            }
+          ],
+          "startDate": "2008-04-20"
+        },
+        {
+          "endDate": "2008-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Baby Mama"
+            }
+          ],
+          "startDate": "2008-04-27"
+        },
+        {
+          "endDate": "2008-05-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Iron Man"
+            }
+          ],
+          "startDate": "2008-05-04"
+        },
+        {
+          "endDate": "2008-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chronicles of Narnia: Prince Caspian"
+            }
+          ],
+          "startDate": "2008-05-18"
+        },
+        {
+          "endDate": "2008-05-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indiana Jones and the Kingdom of the Crystal Skull"
+            }
+          ],
+          "startDate": "2008-05-25"
+        },
+        {
+          "endDate": "2008-06-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sex and the City"
+            }
+          ],
+          "startDate": "2008-06-01"
+        },
+        {
+          "endDate": "2008-06-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kung Fu Panda"
+            }
+          ],
+          "startDate": "2008-06-08"
+        },
+        {
+          "endDate": "2008-06-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Incredible Hulk"
+            }
+          ],
+          "startDate": "2008-06-15"
+        },
+        {
+          "endDate": "2008-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Get Smart"
+            }
+          ],
+          "startDate": "2008-06-22"
+        },
+        {
+          "endDate": "2008-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "WALL·E"
+            }
+          ],
+          "startDate": "2008-06-29"
+        },
+        {
+          "endDate": "2008-07-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hancock"
+            }
+          ],
+          "startDate": "2008-07-06"
+        },
+        {
+          "endDate": "2008-07-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hellboy II: The Golden Army"
+            }
+          ],
+          "startDate": "2008-07-13"
+        },
+        {
+          "endDate": "2008-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dark Knight"
+            }
+          ],
+          "startDate": "2008-07-20"
+        },
+        {
+          "endDate": "2008-09-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tropic Thunder"
+            }
+          ],
+          "startDate": "2008-08-17"
+        },
+        {
+          "endDate": "2008-09-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bangkok Dangerous"
+            }
+          ],
+          "startDate": "2008-09-07"
+        },
+        {
+          "endDate": "2008-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Burn After Reading"
+            }
+          ],
+          "startDate": "2008-09-14"
+        },
+        {
+          "endDate": "2008-09-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lakeview Terrace"
+            }
+          ],
+          "startDate": "2008-09-21"
+        },
+        {
+          "endDate": "2008-10-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Eagle Eye"
+            }
+          ],
+          "startDate": "2008-09-28"
+        },
+        {
+          "endDate": "2008-10-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beverly Hills Chihuahua"
+            }
+          ],
+          "startDate": "2008-10-05"
+        },
+        {
+          "endDate": "2008-10-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Max Payne"
+            }
+          ],
+          "startDate": "2008-10-19"
+        },
+        {
+          "endDate": "2008-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "High School Musical 3: Senior Year"
+            }
+          ],
+          "startDate": "2008-10-26"
+        },
+        {
+          "endDate": "2008-11-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar: Escape 2 Africa"
+            }
+          ],
+          "startDate": "2008-11-09"
+        },
+        {
+          "endDate": "2008-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Quantum of Solace"
+            }
+          ],
+          "startDate": "2008-11-16"
+        },
+        {
+          "endDate": "2008-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Twilight"
+            }
+          ],
+          "startDate": "2008-11-23"
+        },
+        {
+          "endDate": "2008-12-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Four Christmases"
+            }
+          ],
+          "startDate": "2008-11-30"
+        },
+        {
+          "endDate": "2008-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Day the Earth Stood Still"
+            }
+          ],
+          "startDate": "2008-12-14"
+        },
+        {
+          "endDate": "2008-12-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Yes Man"
+            }
+          ],
+          "startDate": "2008-12-21"
+        },
+        {
+          "endDate": "2008-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Marley & Me"
+            }
+          ],
+          "startDate": "2008-12-28"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -20,7 +444,7 @@
             {
               "artist": "Flo Rida featuring T-Pain",
               "rank": 1,
-              "title": "Low\"♪"
+              "title": "Low"
             }
           ],
           "startDate": "2008-01-05"
@@ -48,6 +472,17 @@
           "startDate": "2008-04-05"
         },
         {
+          "endDate": "2008-04-25",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "Touch My Body"
+            }
+          ],
+          "startDate": "2008-04-12"
+        },
+        {
           "endDate": "2008-05-02",
           "items": [
             {
@@ -59,7 +494,7 @@
           "startDate": "2008-04-26"
         },
         {
-          "endDate": "2008-05-23",
+          "endDate": "2008-05-09",
           "items": [
             {
               "artist": "Lil Wayne featuring Static Major",
@@ -70,7 +505,29 @@
           "startDate": "2008-05-03"
         },
         {
-          "endDate": "2008-06-06",
+          "endDate": "2008-05-23",
+          "items": [
+            {
+              "artist": "Leona Lewis",
+              "rank": 1,
+              "title": "Bleeding Love"
+            }
+          ],
+          "startDate": "2008-05-10"
+        },
+        {
+          "endDate": "2008-05-30",
+          "items": [
+            {
+              "artist": "Rihanna",
+              "rank": 1,
+              "title": "Take a Bow"
+            }
+          ],
+          "startDate": "2008-05-24"
+        },
+        {
+          "endDate": "2008-06-27",
           "items": [
             {
               "artist": "Lil Wayne featuring Static Major",
@@ -125,6 +582,17 @@
           "startDate": "2008-09-06"
         },
         {
+          "endDate": "2008-10-03",
+          "items": [
+            {
+              "artist": "Pink",
+              "rank": 1,
+              "title": "So What"
+            }
+          ],
+          "startDate": "2008-09-27"
+        },
+        {
           "endDate": "2008-10-17",
           "items": [
             {
@@ -136,7 +604,7 @@
           "startDate": "2008-10-04"
         },
         {
-          "endDate": "2008-11-28",
+          "endDate": "2008-10-24",
           "items": [
             {
               "artist": "T.I. featuring Rihanna",
@@ -144,7 +612,62 @@
               "title": "Live Your Life"
             }
           ],
+          "startDate": "2008-10-18"
+        },
+        {
+          "endDate": "2008-10-31",
+          "items": [
+            {
+              "artist": "Britney Spears",
+              "rank": 1,
+              "title": "Womanizer"
+            }
+          ],
+          "startDate": "2008-10-25"
+        },
+        {
+          "endDate": "2008-11-14",
+          "items": [
+            {
+              "artist": "T.I.",
+              "rank": 1,
+              "title": "Whatever You Like"
+            }
+          ],
           "startDate": "2008-11-01"
+        },
+        {
+          "endDate": "2008-12-12",
+          "items": [
+            {
+              "artist": "T.I. featuring Rihanna",
+              "rank": 1,
+              "title": "Live Your Life"
+            }
+          ],
+          "startDate": "2008-11-15"
+        },
+        {
+          "endDate": "2008-12-19",
+          "items": [
+            {
+              "artist": "Beyoncé",
+              "rank": 1,
+              "title": "Single Ladies (Put a Ring on It)"
+            }
+          ],
+          "startDate": "2008-12-13"
+        },
+        {
+          "endDate": "2008-12-26",
+          "items": [
+            {
+              "artist": "T.I. featuring Rihanna",
+              "rank": 1,
+              "title": "Live Your Life"
+            }
+          ],
+          "startDate": "2008-12-20"
         },
         {
           "endDate": "2008-12-31",
@@ -152,16 +675,16 @@
             {
               "artist": "Beyoncé",
               "rank": 1,
-              "title": "Single Ladies"
+              "title": "Single Ladies (Put a Ring on It)"
             }
           ],
-          "startDate": "2008-12-13"
+          "startDate": "2008-12-27"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -169,7 +692,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "d408c28b9e20cd674a79171e6b2db9874e63eeaf91ac7837a523b44ab1611e59",
+  "contentHash": "6385ec1a47934810ef0ff9b0aae751b917a2ec7093f75a2d7234238e856afc44",
   "country": "us",
   "schemaVersion": 1,
   "year": 2008

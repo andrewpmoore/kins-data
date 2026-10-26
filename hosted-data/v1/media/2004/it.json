@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2004",
+      "items": [
+        {
+          "author": "Dan Brown",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Il codice da Vinci",
+          "url": "https://books.google.com/books?q=Il+codice+da+Vinci"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2004.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2004
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2004",
+      "items": [
+        {
+          "author": "Geronimo Stilton",
+          "creator": "Geronimo Stilton",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Geronimo Stilton: Nel regno della fantasia",
+          "url": "https://books.google.com/books?q=Geronimo+Stilton:+Nel+regno+della+fantasia"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2004.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2004
+    },
     "games": {
       "id": "media-awardWinner-2004",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2004
     }
   },
-  "contentHash": "6ea5262639f5fbb289a3ace565c5854bc0947578bee0635f0c75ced960c83de5",
+  "contentHash": "fec0b56ef4a5f5f72b6b35ff9b571e52d835829161f55a55d54bebeb7893784c",
   "country": "it",
   "schemaVersion": 1,
   "year": 2004

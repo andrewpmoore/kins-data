@@ -4,17 +4,6 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1996-01-07",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1996-01-01"
-        },
-        {
           "endDate": "1996-01-21",
           "items": [
             {
@@ -23,7 +12,7 @@
               "title": "Earth Song"
             }
           ],
-          "startDate": "1996-01-08"
+          "startDate": "1996-01-01"
         },
         {
           "endDate": "1996-02-04",
@@ -108,7 +97,7 @@
             {
               "artist": "The Fugees",
               "rank": 1,
-              "title": "Killing Me Softly\" †"
+              "title": "Killing Me Softly"
             }
           ],
           "startDate": "1996-07-01"
@@ -130,7 +119,7 @@
             {
               "artist": "The Fugees",
               "rank": 1,
-              "title": "Killing Me Softly\" †"
+              "title": "Killing Me Softly"
             }
           ],
           "startDate": "1996-09-02"
@@ -191,7 +180,7 @@
           "startDate": "1996-12-09"
         },
         {
-          "endDate": "1996-12-29",
+          "endDate": "1996-12-31",
           "items": [
             {
               "artist": "Andrea Bocelli and Sarah Brightman",
@@ -200,23 +189,12 @@
             }
           ],
           "startDate": "1996-12-16"
-        },
-        {
-          "endDate": "1996-12-31",
-          "items": [
-            {
-              "artist": "No release",
-              "rank": 1,
-              "title": "No release"
-            }
-          ],
-          "startDate": "1996-12-30"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -224,7 +202,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "68bc123561d70b428baa4de1aa09ba8053a5584f2b00ea165aa44e5f16875dc1",
+  "contentHash": "7047d28f52b8c9bbeeb9e1874d6ac203220192b7f9858a28eb9a4d4e77330e8a",
   "country": "de",
   "schemaVersion": 1,
   "year": 1996

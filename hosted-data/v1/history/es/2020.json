@@ -1,0 +1,567 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2020-01-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode IX - The Rise of Skywalker"
+            }
+          ],
+          "startDate": "2020-01-01"
+        },
+        {
+          "endDate": "2020-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "1917"
+            }
+          ],
+          "startDate": "2020-01-12"
+        },
+        {
+          "endDate": "2020-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys for Life"
+            }
+          ],
+          "startDate": "2020-01-19"
+        },
+        {
+          "endDate": "2020-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dolittle"
+            }
+          ],
+          "startDate": "2020-01-26"
+        },
+        {
+          "endDate": "2020-02-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn"
+            }
+          ],
+          "startDate": "2020-02-09"
+        },
+        {
+          "endDate": "2020-02-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sonic the Hedgehog"
+            }
+          ],
+          "startDate": "2020-02-16"
+        },
+        {
+          "endDate": "2020-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Invisible Man"
+            }
+          ],
+          "startDate": "2020-03-01"
+        },
+        {
+          "endDate": "2020-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Onward"
+            }
+          ],
+          "startDate": "2020-03-08"
+        },
+        {
+          "endDate": "2020-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bloodshot"
+            }
+          ],
+          "startDate": "2020-03-15"
+        },
+        {
+          "endDate": "2020-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "No se conocen datos"
+            }
+          ],
+          "startDate": "2020-06-07"
+        },
+        {
+          "endDate": "2020-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Invisible Man"
+            }
+          ],
+          "startDate": "2020-06-14"
+        },
+        {
+          "endDate": "2020-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "1917"
+            }
+          ],
+          "startDate": "2020-06-28"
+        },
+        {
+          "endDate": "2020-07-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Invisible Man"
+            }
+          ],
+          "startDate": "2020-07-05"
+        },
+        {
+          "endDate": "2020-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Superagente Makey"
+            }
+          ],
+          "startDate": "2020-07-26"
+        },
+        {
+          "endDate": "2020-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Father There is Only One 2"
+            }
+          ],
+          "startDate": "2020-08-02"
+        },
+        {
+          "endDate": "2020-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunt"
+            }
+          ],
+          "startDate": "2020-08-23"
+        },
+        {
+          "endDate": "2020-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Father There is Only One 2"
+            }
+          ],
+          "startDate": "2020-08-30"
+        },
+        {
+          "endDate": "2020-09-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The New Mutants"
+            }
+          ],
+          "startDate": "2020-09-06"
+        },
+        {
+          "endDate": "2020-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "After We Collided"
+            }
+          ],
+          "startDate": "2020-09-13"
+        },
+        {
+          "endDate": "2020-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trouble"
+            }
+          ],
+          "startDate": "2020-09-27"
+        },
+        {
+          "endDate": "2020-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Greenland"
+            }
+          ],
+          "startDate": "2020-10-11"
+        },
+        {
+          "endDate": "2020-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Six Minutes to Midnight"
+            }
+          ],
+          "startDate": "2020-10-25"
+        },
+        {
+          "endDate": "2020-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Witches"
+            }
+          ],
+          "startDate": "2020-11-01"
+        },
+        {
+          "endDate": "2020-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trolls 2: Gira mundial"
+            }
+          ],
+          "startDate": "2020-11-08"
+        },
+        {
+          "endDate": "2020-11-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Call of the Wild"
+            }
+          ],
+          "startDate": "2020-11-22"
+        },
+        {
+          "endDate": "2020-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trolls 2: Gira mundial"
+            }
+          ],
+          "startDate": "2020-11-29"
+        },
+        {
+          "endDate": "2020-12-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trolls World Tour"
+            }
+          ],
+          "startDate": "2020-12-06"
+        },
+        {
+          "endDate": "2020-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Turning"
+            }
+          ],
+          "startDate": "2020-12-13"
+        },
+        {
+          "endDate": "2020-12-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonder Woman 1984"
+            }
+          ],
+          "startDate": "2020-12-20"
+        },
+        {
+          "endDate": "2020-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trolls World Tour"
+            }
+          ],
+          "startDate": "2020-12-27"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2020-03-25",
+          "items": [
+            {
+              "artist": "Karol G and Nicki Minaj",
+              "rank": 1,
+              "title": "Tusa"
+            }
+          ],
+          "startDate": "2020-01-01"
+        },
+        {
+          "endDate": "2020-04-01",
+          "items": [
+            {
+              "artist": "J Balvin",
+              "rank": 1,
+              "title": "Amarillo"
+            }
+          ],
+          "startDate": "2020-03-26"
+        },
+        {
+          "endDate": "2020-04-29",
+          "items": [
+            {
+              "artist": "Bad Bunny featuring Jowell & Randy and Ñengo Flow",
+              "rank": 1,
+              "title": "Safaera"
+            }
+          ],
+          "startDate": "2020-04-02"
+        },
+        {
+          "endDate": "2020-05-13",
+          "items": [
+            {
+              "artist": "C. Tangana",
+              "rank": 1,
+              "title": "Nunca Estoy"
+            }
+          ],
+          "startDate": "2020-04-30"
+        },
+        {
+          "endDate": "2020-05-27",
+          "items": [
+            {
+              "artist": "Bad Bunny and Don Omar",
+              "rank": 1,
+              "title": "Pa' Romperla"
+            }
+          ],
+          "startDate": "2020-05-14"
+        },
+        {
+          "endDate": "2020-06-03",
+          "items": [
+            {
+              "artist": "Justin Quiles, Daddy Yankee and El Alfa",
+              "rank": 1,
+              "title": "Pam"
+            }
+          ],
+          "startDate": "2020-05-28"
+        },
+        {
+          "endDate": "2020-06-10",
+          "items": [
+            {
+              "artist": "Rosalía and Travis Scott",
+              "rank": 1,
+              "title": "TKN"
+            }
+          ],
+          "startDate": "2020-06-04"
+        },
+        {
+          "endDate": "2020-06-17",
+          "items": [
+            {
+              "artist": "Anuel AA and Bad Bunny",
+              "rank": 1,
+              "title": "Hasta Que Dios Diga"
+            }
+          ],
+          "startDate": "2020-06-11"
+        },
+        {
+          "endDate": "2020-06-24",
+          "items": [
+            {
+              "artist": "Nio Garcia, Anuel AA, Myke Towers, Juanka and Brray",
+              "rank": 1,
+              "title": "La Jeepeta (Remix)"
+            }
+          ],
+          "startDate": "2020-06-18"
+        },
+        {
+          "endDate": "2020-07-01",
+          "items": [
+            {
+              "artist": "Anuel AA",
+              "rank": 1,
+              "title": "El manual"
+            }
+          ],
+          "startDate": "2020-06-25"
+        },
+        {
+          "endDate": "2020-07-29",
+          "items": [
+            {
+              "artist": "Ozuna",
+              "rank": 1,
+              "title": "Caramelo"
+            }
+          ],
+          "startDate": "2020-07-02"
+        },
+        {
+          "endDate": "2020-08-05",
+          "items": [
+            {
+              "artist": "Tainy and J Balvin",
+              "rank": 1,
+              "title": "Agua"
+            }
+          ],
+          "startDate": "2020-07-30"
+        },
+        {
+          "endDate": "2020-08-26",
+          "items": [
+            {
+              "artist": "Trueno, Nicki Nicole, Bizarrap, Taiu and Tatool",
+              "rank": 1,
+              "title": "Mamichula"
+            }
+          ],
+          "startDate": "2020-08-06"
+        },
+        {
+          "endDate": "2020-10-21",
+          "items": [
+            {
+              "artist": "Maluma",
+              "rank": 1,
+              "title": "Hawái"
+            }
+          ],
+          "startDate": "2020-08-27"
+        },
+        {
+          "endDate": "2020-10-28",
+          "items": [
+            {
+              "artist": "C. Tangana",
+              "rank": 1,
+              "title": "Demasiadas mujeres"
+            }
+          ],
+          "startDate": "2020-10-22"
+        },
+        {
+          "endDate": "2020-11-04",
+          "items": [
+            {
+              "artist": "Manuel Turizo, Rauw Alejandro and Myke Towers",
+              "rank": 1,
+              "title": "La Nota"
+            }
+          ],
+          "startDate": "2020-10-29"
+        },
+        {
+          "endDate": "2020-11-11",
+          "items": [
+            {
+              "artist": "Bad Bunny and Jhay Cortez",
+              "rank": 1,
+              "title": "Dakiti"
+            }
+          ],
+          "startDate": "2020-11-05"
+        },
+        {
+          "endDate": "2020-11-25",
+          "items": [
+            {
+              "artist": "C. Tangana featuring Niño de Elche and La Húngara",
+              "rank": 1,
+              "title": "Tú Me Dejaste De Querer"
+            }
+          ],
+          "startDate": "2020-11-12"
+        },
+        {
+          "endDate": "2020-12-01",
+          "items": [
+            {
+              "artist": "Bad Bunny and Jhay Cortez",
+              "rank": 1,
+              "title": "Dakiti"
+            }
+          ],
+          "startDate": "2020-11-26"
+        },
+        {
+          "endDate": "2020-12-08",
+          "items": [
+            {
+              "artist": "Bad Bunny featuring Rosalía",
+              "rank": 1,
+              "title": "La Noche de Anoche"
+            }
+          ],
+          "startDate": "2020-12-02"
+        },
+        {
+          "endDate": "2020-12-31",
+          "items": [
+            {
+              "artist": "Bad Bunny and Jhay Cortez",
+              "rank": 1,
+              "title": "Dakiti"
+            }
+          ],
+          "startDate": "2020-12-09"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "9b380b3908024752b8da95d00a759b9c0ef9451467896e20d3e1839b6556c2ee",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2020
+}

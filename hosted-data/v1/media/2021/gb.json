@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2021",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/works/OL20878311W",
+          "artworkURL": "https://covers.openlibrary.org/b/id/10201431-L.jpg?default=false",
+          "author": "Richard Osman",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/works/OL20878311W",
+          "coverURL": "https://covers.openlibrary.org/b/id/10201431-L.jpg?default=false",
+          "creator": "Richard Osman",
+          "rank": 1,
+          "scope": "UK annual print bestseller · 42 measured weeks",
+          "title": "The Thursday Murder Club",
+          "url": "https://books.google.com/books?q=intitle%3A%22The+Thursday+Murder+Club%22+inauthor%3A%22Richard+Osman%22"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK annual print bestseller · 42 measured weeks",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://www.publishingireland.com/wp-content/uploads/2022/06/BookScan-TCM-Annual-Summary-20211.pdf"
+      },
+      "title": "UK print bestseller",
+      "year": 2021
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2021",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/works/OL25332199W",
+          "artworkURL": "https://covers.openlibrary.org/b/id/12689417-L.jpg?default=false",
+          "author": "David Walliams",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/works/OL25332199W",
+          "coverURL": "https://covers.openlibrary.org/b/id/12689417-L.jpg?default=false",
+          "creator": "David Walliams",
+          "rank": 1,
+          "scope": "UK annual children's bestseller · 42 measured weeks",
+          "title": "Megamonster",
+          "url": "https://books.google.com/books?q=intitle%3A%22Megamonster%22+inauthor%3A%22David+Walliams%22"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK annual children's bestseller · 42 measured weeks",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://www.publishingireland.com/wp-content/uploads/2022/06/BookScan-TCM-Annual-Summary-20211.pdf"
+      },
+      "title": "UK children's bestseller",
+      "year": 2021
+    },
     "games": {
       "id": "media-awardWinner-2021",
       "items": [
@@ -47,7 +105,7 @@
       "year": 2021
     }
   },
-  "contentHash": "28e7cffb369643334b8f0c0d4ed8971b78da4f69542ac3b69e9b2b9b5a3e88a7",
+  "contentHash": "373de25dca85a95c2a3fa8a2aed34ced19e8ef4309db75802fe22e66505c4596",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2021

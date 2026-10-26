@@ -1,0 +1,89 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2006",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781401303631",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781401303631-L.jpg?default=false",
+          "author": "Mitch Albom",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781401303631",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781401303631-L.jpg?default=false",
+          "creator": "Mitch Albom",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "For One More Day",
+          "url": "https://books.google.com/books?vid=ISBN:9781401303631"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2006-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2006
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2006",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781933499482",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781933499482-L.jpg?default=false",
+          "author": "Christopher Paolini",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781933499482",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781933499482-L.jpg?default=false",
+          "creator": "Christopher Paolini",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Eldest",
+          "url": "https://books.google.com/books?vid=ISBN:9781933499482"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2006-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2006
+    },
+    "games": {
+      "id": "media-awardWinner-2006",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2006&idGame=111",
+          "artworkURL": "https://www.interactive.org/images/games/2006_god_of_war_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2005,
+          "title": "God of War"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2006&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2006
+    }
+  },
+  "contentHash": "1f62ca33c0f49ce6e5c91231c56c1a893a849e3044044b23ac64c87890f6967d",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2006
+}

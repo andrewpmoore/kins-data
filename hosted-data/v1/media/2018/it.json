@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2018",
+      "items": [
+        {
+          "author": "Donato Carrisi",
+          "creator": "Donato Carrisi",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "La ragazza nella nebbia",
+          "url": "https://books.google.com/books?q=La+ragazza+nella+nebbia"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2018.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2018
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2018",
+      "items": [
+        {
+          "author": "Elena Favilli e Francesca Cavallo",
+          "creator": "Elena Favilli e Francesca Cavallo",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Storie della buonanotte per bambine ribelli 2",
+          "url": "https://books.google.com/books?q=Storie+della+buonanotte+per+bambine+ribelli+2"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2018.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2018
+    },
     "games": {
       "id": "media-awardWinner-2018",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
           "rank": 1,
           "releaseYear": 2018,
-          "title": "God of War"
+          "title": "God of War",
+          "trailerURL": "https://www.youtube.com/watch?v=jCB36uNrZ9I"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2018
     }
   },
-  "contentHash": "f2a0195ba3ac19c998b82b89f69854e3a2e9525adff3ca6e65b12c049e221619",
+  "contentHash": "bbca1d49ce183a7e9417293191851f964dfdc698c24d405810ba842eeaebfc82",
   "country": "it",
   "schemaVersion": 1,
   "year": 2018

@@ -1,43 +1,345 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2019-01-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Asterix: The Secret of the Magic Potion"
+            }
+          ],
+          "startDate": "2019-01-01"
+        },
+        {
+          "endDate": "2019-01-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aquaman"
+            }
+          ],
+          "startDate": "2019-01-06"
+        },
+        {
+          "endDate": "2019-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Creed II"
+            }
+          ],
+          "startDate": "2019-01-13"
+        },
+        {
+          "endDate": "2019-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Glass"
+            }
+          ],
+          "startDate": "2019-01-20"
+        },
+        {
+          "endDate": "2019-02-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Mule"
+            }
+          ],
+          "startDate": "2019-01-27"
+        },
+        {
+          "endDate": "2019-03-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Serial (Bad) Weddings 2"
+            }
+          ],
+          "startDate": "2019-02-03"
+        },
+        {
+          "endDate": "2019-03-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Captain Marvel"
+            }
+          ],
+          "startDate": "2019-03-10"
+        },
+        {
+          "endDate": "2019-04-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dumbo"
+            }
+          ],
+          "startDate": "2019-03-31"
+        },
+        {
+          "endDate": "2019-04-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tanguy Is Back"
+            }
+          ],
+          "startDate": "2019-04-14"
+        },
+        {
+          "endDate": "2019-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "After"
+            }
+          ],
+          "startDate": "2019-04-21"
+        },
+        {
+          "endDate": "2019-05-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avengers: Endgame"
+            }
+          ],
+          "startDate": "2019-04-28"
+        },
+        {
+          "endDate": "2019-06-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "2019-05-26"
+        },
+        {
+          "endDate": "2019-06-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X-Men: Dark Phoenix"
+            }
+          ],
+          "startDate": "2019-06-09"
+        },
+        {
+          "endDate": "2019-06-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Men in Black: International"
+            }
+          ],
+          "startDate": "2019-06-16"
+        },
+        {
+          "endDate": "2019-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Toy Story 4"
+            }
+          ],
+          "startDate": "2019-06-30"
+        },
+        {
+          "endDate": "2019-07-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Far from Home"
+            }
+          ],
+          "startDate": "2019-07-07"
+        },
+        {
+          "endDate": "2019-07-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Creed 2"
+            }
+          ],
+          "startDate": "2019-07-21"
+        },
+        {
+          "endDate": "2019-08-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "2019-07-28"
+        },
+        {
+          "endDate": "2019-08-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast & Furious Presents: Hobbs & Shaw"
+            }
+          ],
+          "startDate": "2019-08-11"
+        },
+        {
+          "endDate": "2019-08-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Once Upon a Time in... Hollywood"
+            }
+          ],
+          "startDate": "2019-08-18"
+        },
+        {
+          "endDate": "2019-09-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "School Life"
+            }
+          ],
+          "startDate": "2019-09-01"
+        },
+        {
+          "endDate": "2019-09-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It: Chapter Two"
+            }
+          ],
+          "startDate": "2019-09-15"
+        },
+        {
+          "endDate": "2019-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ad Astra"
+            }
+          ],
+          "startDate": "2019-09-22"
+        },
+        {
+          "endDate": "2019-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "In the Name of the Land"
+            }
+          ],
+          "startDate": "2019-09-29"
+        },
+        {
+          "endDate": "2019-10-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gemini Man"
+            }
+          ],
+          "startDate": "2019-10-06"
+        },
+        {
+          "endDate": "2019-11-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Joker"
+            }
+          ],
+          "startDate": "2019-10-13"
+        },
+        {
+          "endDate": "2019-11-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La belle époque"
+            }
+          ],
+          "startDate": "2019-11-10"
+        },
+        {
+          "endDate": "2019-11-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "An Officer and a Spy"
+            }
+          ],
+          "startDate": "2019-11-17"
+        },
+        {
+          "endDate": "2019-12-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Frozen II"
+            }
+          ],
+          "startDate": "2019-11-24"
+        },
+        {
+          "endDate": "2019-12-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jumanji: The Next Level"
+            }
+          ],
+          "startDate": "2019-12-15"
+        },
+        {
+          "endDate": "2019-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode IX - The Rise of Skywalker"
+            }
+          ],
+          "startDate": "2019-12-22"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2019-01-10",
+          "endDate": "2019-01-03",
           "items": [
             {
-              "artist": "David Guetta, Bebe Rexha and J Balvin",
+              "artist": "Mariah Carey",
               "rank": 1,
-              "title": "Say My Name"
+              "title": "All I Want for Christmas Is You"
             }
           ],
-          "startDate": "2019-01-04"
+          "startDate": "2019-01-01"
         },
         {
           "endDate": "2019-01-17",
-          "items": [
-            {
-              "artist": "Bilal Hassani",
-              "rank": 1,
-              "title": "Roi"
-            }
-          ],
-          "startDate": "2019-01-11"
-        },
-        {
-          "endDate": "2019-01-24",
-          "items": [
-            {
-              "artist": "Eva featuring Lartiste",
-              "rank": 1,
-              "title": "On Fleek"
-            }
-          ],
-          "startDate": "2019-01-18"
-        },
-        {
-          "endDate": "2019-02-14",
           "items": [
             {
               "artist": "Angèle featuring Roméo Elvis",
@@ -45,87 +347,109 @@
               "title": "Tout oublier"
             }
           ],
-          "startDate": "2019-02-08"
+          "startDate": "2019-01-04"
+        },
+        {
+          "endDate": "2019-01-24",
+          "items": [
+            {
+              "artist": "Bramsito featuring Booba",
+              "rank": 1,
+              "title": "Sale Mood"
+            }
+          ],
+          "startDate": "2019-01-18"
+        },
+        {
+          "endDate": "2019-01-31",
+          "items": [
+            {
+              "artist": "Eva featuring Lartiste",
+              "rank": 1,
+              "title": "On Fleek"
+            }
+          ],
+          "startDate": "2019-01-25"
+        },
+        {
+          "endDate": "2019-02-07",
+          "items": [
+            {
+              "artist": "Booba",
+              "rank": 1,
+              "title": "PGP"
+            }
+          ],
+          "startDate": "2019-02-01"
         },
         {
           "endDate": "2019-02-28",
           "items": [
             {
-              "artist": "Panic! at the Disco",
+              "artist": "Heuss l'Enfoiré featuring Sofiane",
               "rank": 1,
-              "title": "High Hopes"
+              "title": "Khapta"
             }
           ],
-          "startDate": "2019-02-22"
+          "startDate": "2019-02-08"
         },
         {
-          "endDate": "2019-03-07",
+          "endDate": "2019-03-28",
           "items": [
             {
-              "artist": "Talk Talk",
+              "artist": "Ninho",
               "rank": 1,
-              "title": "Such a Shame"
+              "title": "Goutte d'eau"
             }
           ],
           "startDate": "2019-03-01"
         },
         {
-          "endDate": "2019-03-21",
+          "endDate": "2019-05-16",
           "items": [
             {
-              "artist": "Les Enfoirés",
+              "artist": "PNL",
               "rank": 1,
-              "title": "On trace"
+              "title": "Au DD"
             }
           ],
-          "startDate": "2019-03-15"
-        },
-        {
-          "endDate": "2019-04-11",
-          "items": [
-            {
-              "artist": "Rammstein",
-              "rank": 1,
-              "title": "Deutschland"
-            }
-          ],
-          "startDate": "2019-04-05"
-        },
-        {
-          "endDate": "2019-05-02",
-          "items": [
-            {
-              "artist": "Angèle",
-              "rank": 1,
-              "title": "Balance ton quoi"
-            }
-          ],
-          "startDate": "2019-04-26"
-        },
-        {
-          "endDate": "2019-05-09",
-          "items": [
-            {
-              "artist": "Taylor Swift featuring Brendon Urie",
-              "rank": 1,
-              "title": "Me!"
-            }
-          ],
-          "startDate": "2019-05-03"
+          "startDate": "2019-03-29"
         },
         {
           "endDate": "2019-05-23",
           "items": [
             {
-              "artist": "Ed Sheeran and Justin Bieber",
+              "artist": "Niska featuring Booba",
               "rank": 1,
-              "title": "I Don't Care"
+              "title": "Médicament"
             }
           ],
           "startDate": "2019-05-17"
         },
         {
-          "endDate": "2019-06-20",
+          "endDate": "2019-05-30",
+          "items": [
+            {
+              "artist": "Booba",
+              "rank": 1,
+              "title": "Arc-en-Ciel"
+            }
+          ],
+          "startDate": "2019-05-24"
+        },
+        {
+          "endDate": "2019-06-13",
+          "items": [
+            {
+              "artist": "Lil Nas X",
+              "rank": 1,
+              "title": "Old Town Road"
+            }
+          ],
+          "startDate": "2019-05-31"
+        },
+        {
+          "endDate": "2019-06-27",
           "items": [
             {
               "artist": "Nekfeu featuring Damso",
@@ -136,56 +460,56 @@
           "startDate": "2019-06-14"
         },
         {
-          "endDate": "2019-07-04",
+          "endDate": "2019-08-01",
           "items": [
             {
-              "artist": "Aya Nakamura",
+              "artist": "Lil Nas X",
               "rank": 1,
-              "title": "Pookie"
+              "title": "Old Town Road"
             }
           ],
           "startDate": "2019-06-28"
         },
         {
-          "endDate": "2019-08-29",
+          "endDate": "2019-08-08",
           "items": [
             {
-              "artist": "Lewis Capaldi",
+              "artist": "DJ Snake and J Balvin featuring Tyga",
               "rank": 1,
-              "title": "Someone You Loved"
+              "title": "Loco Contigo"
             }
           ],
-          "startDate": "2019-08-23"
+          "startDate": "2019-08-02"
         },
         {
-          "endDate": "2019-09-05",
+          "endDate": "2019-08-15",
           "items": [
             {
-              "artist": "Indila",
+              "artist": "Lil Nas X",
               "rank": 1,
-              "title": "Parle à ta tête"
+              "title": "Old Town Road"
             }
           ],
-          "startDate": "2019-08-30"
+          "startDate": "2019-08-09"
         },
         {
           "endDate": "2019-09-12",
           "items": [
             {
-              "artist": "Sia",
+              "artist": "Moha La Squale",
               "rank": 1,
-              "title": "Unstoppable"
+              "title": "Ma belle"
             }
           ],
-          "startDate": "2019-09-06"
+          "startDate": "2019-08-16"
         },
         {
           "endDate": "2019-09-19",
           "items": [
             {
-              "artist": "Tones and I",
+              "artist": "Niska featuring Ninho",
               "rank": 1,
-              "title": "Dance Monkey"
+              "title": "Méchant"
             }
           ],
           "startDate": "2019-09-13"
@@ -194,37 +518,48 @@
           "endDate": "2019-09-26",
           "items": [
             {
-              "artist": "Ariana Grande, Miley Cyrus and Lana Del Rey",
+              "artist": "PLK",
               "rank": 1,
-              "title": "Don't Call Me Angel"
+              "title": "Un peu de haine"
             }
           ],
           "startDate": "2019-09-20"
         },
         {
-          "endDate": "2019-10-03",
+          "endDate": "2019-10-10",
           "items": [
             {
-              "artist": "Lum!x and Gabry Ponte",
+              "artist": "Gambi",
               "rank": 1,
-              "title": "Monster"
+              "title": "Hé oh"
             }
           ],
           "startDate": "2019-09-27"
         },
         {
-          "endDate": "2019-10-31",
+          "endDate": "2019-11-14",
           "items": [
             {
-              "artist": "Selena Gomez",
+              "artist": "Gambi",
               "rank": 1,
-              "title": "Lose You to Love Me"
+              "title": "Popopop"
             }
           ],
-          "startDate": "2019-10-25"
+          "startDate": "2019-10-11"
         },
         {
-          "endDate": "2019-12-12",
+          "endDate": "2019-11-28",
+          "items": [
+            {
+              "artist": "Tones and I",
+              "rank": 1,
+              "title": "Dance Monkey"
+            }
+          ],
+          "startDate": "2019-11-15"
+        },
+        {
+          "endDate": "2019-12-31",
           "items": [
             {
               "artist": "Gradur featuring Heuss l'Enfoiré",
@@ -232,24 +567,13 @@
               "title": "Ne reviens pas"
             }
           ],
-          "startDate": "2019-12-06"
-        },
-        {
-          "endDate": "2019-12-26",
-          "items": [
-            {
-              "artist": "The Weeknd",
-              "rank": 1,
-              "title": "Blinding Lights"
-            }
-          ],
-          "startDate": "2019-12-20"
+          "startDate": "2019-11-29"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-01",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -257,7 +581,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "0f4f7dc4ec864fa7a3b6f06a41de8190a8cbf46d2639f2a236e5681e680b15ca",
+  "contentHash": "af12b0ec4a5ec672afa9f46830df2621e797c256e43adc486c05b6bd74c87f3d",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2019

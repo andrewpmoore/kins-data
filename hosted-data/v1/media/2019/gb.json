@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2019",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781529014068",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781529014068-L.jpg?default=false",
+          "author": "Kay Featherstone and Kate Allinson",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781529014068",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781529014068-L.jpg?default=false",
+          "creator": "Kay Featherstone and Kate Allinson",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "Pinch of Nom",
+          "url": "https://books.google.com/books?vid=ISBN:9781529014068"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2019/dec/30/pinch-of-nom-uks-top-selling-book-of-2019"
+      },
+      "title": "UK print bestseller",
+      "year": 2019
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2019",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780008262174",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780008262174-L.jpg?default=false",
+          "author": "David Walliams",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780008262174",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780008262174-L.jpg?default=false",
+          "creator": "David Walliams",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "The Beast of Buckingham Palace",
+          "url": "https://books.google.com/books?vid=ISBN:9780008262174"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2019/dec/30/pinch-of-nom-uks-top-selling-book-of-2019"
+      },
+      "title": "UK children's bestseller",
+      "year": 2019
+    },
     "games": {
       "id": "media-awardWinner-2019",
       "items": [
@@ -9,7 +67,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
           "rank": 1,
           "releaseYear": 2019,
-          "title": "Sekiro: Shadows Die Twice"
+          "title": "Sekiro: Shadows Die Twice",
+          "trailerURL": "https://www.youtube.com/watch?v=UGPknmiLxGo"
         }
       ],
       "source": {
@@ -49,7 +108,7 @@
       "year": 2019
     }
   },
-  "contentHash": "b0f89cc4c8f0752c17ac80e6e162ffd486532a4a44706b33ab2657a1e8852a55",
+  "contentHash": "89048a019a378251132fbe51dbbcf25e990aa536a0c7ee856fb32867fc38be17",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2019

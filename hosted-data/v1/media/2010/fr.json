@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2010",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782221116791",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782221116791-L.jpg?default=false",
+          "author": "Marc Levy",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782221116791",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782221116791-L.jpg?default=false",
+          "creator": "Marc Levy",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "L'Étrange Voyage de monsieur Daldry",
+          "url": "https://books.google.com/books?vid=ISBN:9782221116791"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2010"
+      },
+      "title": "FR print bestseller",
+      "year": 2010
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2010",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782723485227",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782723485227-L.jpg?default=false",
+          "author": "Zep",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782723485227",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782723485227-L.jpg?default=false",
+          "creator": "Zep",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Titeuf: À la folie !",
+          "url": "https://books.google.com/books?vid=ISBN:9782723485227"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2010"
+      },
+      "title": "FR children's bestseller",
+      "year": 2010
+    },
     "games": {
       "id": "media-awardWinner-2010",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2010
     }
   },
-  "contentHash": "7f18004fd51cb7b25f3958c4229ab18a7d0dffb3f8d34b22eb4fc2f0a6ba2c39",
+  "contentHash": "58b67f0196145bf0593d3028e62d8e101168e9f420c27e8f3196439498c81d43",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2010

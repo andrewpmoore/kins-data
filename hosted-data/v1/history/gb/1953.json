@@ -1,10 +1,407 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1953-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Million Dollar Mermaid"
+            }
+          ],
+          "startDate": "1953-01-01"
+        },
+        {
+          "endDate": "1953-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Above and Beyond"
+            }
+          ],
+          "startDate": "1953-01-21"
+        },
+        {
+          "endDate": "1953-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bad and the Beautiful"
+            }
+          ],
+          "startDate": "1953-01-28"
+        },
+        {
+          "endDate": "1953-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Peter Pan"
+            }
+          ],
+          "startDate": "1953-02-18"
+        },
+        {
+          "endDate": "1953-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Come Back, Little Sheba"
+            }
+          ],
+          "startDate": "1953-03-25"
+        },
+        {
+          "endDate": "1953-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Peter Pan"
+            }
+          ],
+          "startDate": "1953-04-01"
+        },
+        {
+          "endDate": "1953-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Call Me Madam"
+            }
+          ],
+          "startDate": "1953-04-08"
+        },
+        {
+          "endDate": "1953-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Salome"
+            }
+          ],
+          "startDate": "1953-04-15"
+        },
+        {
+          "endDate": "1953-06-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "House of Wax"
+            }
+          ],
+          "startDate": "1953-04-29"
+        },
+        {
+          "endDate": "1953-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Young Bess"
+            }
+          ],
+          "startDate": "1953-06-03"
+        },
+        {
+          "endDate": "1953-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fort Ti"
+            }
+          ],
+          "startDate": "1953-06-10"
+        },
+        {
+          "endDate": "1953-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It Came from Outer Space"
+            }
+          ],
+          "startDate": "1953-06-17"
+        },
+        {
+          "endDate": "1953-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Beast from 20,000 Fathoms"
+            }
+          ],
+          "startDate": "1953-07-01"
+        },
+        {
+          "endDate": "1953-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dangerous When Wet"
+            }
+          ],
+          "startDate": "1953-07-08"
+        },
+        {
+          "endDate": "1953-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Charge at Feather River"
+            }
+          ],
+          "startDate": "1953-07-15"
+        },
+        {
+          "endDate": "1953-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Second Chance"
+            }
+          ],
+          "startDate": "1953-07-29"
+        },
+        {
+          "endDate": "1953-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gentlemen Prefer Blondes"
+            }
+          ],
+          "startDate": "1953-08-05"
+        },
+        {
+          "endDate": "1953-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Band Wagon"
+            }
+          ],
+          "startDate": "1953-08-12"
+        },
+        {
+          "endDate": "1953-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gentlemen Prefer Blondes"
+            }
+          ],
+          "startDate": "1953-08-19"
+        },
+        {
+          "endDate": "1953-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "From Here to Eternity"
+            }
+          ],
+          "startDate": "1953-09-02"
+        },
+        {
+          "endDate": "1953-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Robe"
+            }
+          ],
+          "startDate": "1953-09-30"
+        },
+        {
+          "endDate": "1953-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How to Marry a Millionaire"
+            }
+          ],
+          "startDate": "1953-12-02"
+        },
+        {
+          "endDate": "1953-12-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "This Is Cinerama"
+            }
+          ],
+          "startDate": "1953-12-23"
+        },
+        {
+          "endDate": "1953-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Easy to Love"
+            }
+          ],
+          "startDate": "1953-12-30"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1953-10-01",
+          "endDate": "1953-01-15",
+          "items": [
+            {
+              "artist": "Al Martino",
+              "rank": 1,
+              "title": "Here in My Heart"
+            }
+          ],
+          "startDate": "1953-01-01"
+        },
+        {
+          "endDate": "1953-01-22",
+          "items": [
+            {
+              "artist": "Jo Stafford",
+              "rank": 1,
+              "title": "You Belong to Me"
+            }
+          ],
+          "startDate": "1953-01-16"
+        },
+        {
+          "endDate": "1953-01-29",
+          "items": [
+            {
+              "artist": "Kay Starr",
+              "rank": 1,
+              "title": "Comes A-Long A-Love"
+            }
+          ],
+          "startDate": "1953-01-23"
+        },
+        {
+          "endDate": "1953-02-05",
+          "items": [
+            {
+              "artist": "Eddie Fisher",
+              "rank": 1,
+              "title": "Outside of Heaven"
+            }
+          ],
+          "startDate": "1953-01-30"
+        },
+        {
+          "endDate": "1953-03-12",
+          "items": [
+            {
+              "artist": "Perry Como",
+              "rank": 1,
+              "title": "Don't Let the Stars Get in Your Eyes"
+            }
+          ],
+          "startDate": "1953-02-06"
+        },
+        {
+          "endDate": "1953-04-09",
+          "items": [
+            {
+              "artist": "Guy Mitchell",
+              "rank": 1,
+              "title": "She Wears Red Feathers"
+            }
+          ],
+          "startDate": "1953-03-13"
+        },
+        {
+          "endDate": "1953-04-16",
+          "items": [
+            {
+              "artist": "The Stargazers",
+              "rank": 1,
+              "title": "Broken Wings"
+            }
+          ],
+          "startDate": "1953-04-10"
+        },
+        {
+          "endDate": "1953-04-23",
+          "items": [
+            {
+              "artist": "Lita Roza",
+              "rank": 1,
+              "title": "(How Much Is) That Doggie in the Window?"
+            }
+          ],
+          "startDate": "1953-04-17"
+        },
+        {
+          "endDate": "1953-06-25",
+          "items": [
+            {
+              "artist": "Frankie Laine",
+              "rank": 1,
+              "title": "I Believe"
+            }
+          ],
+          "startDate": "1953-04-24"
+        },
+        {
+          "endDate": "1953-07-02",
+          "items": [
+            {
+              "artist": "Eddie Fisher with Sally Sweetland",
+              "rank": 1,
+              "title": "I'm Walking Behind You"
+            }
+          ],
+          "startDate": "1953-06-26"
+        },
+        {
+          "endDate": "1953-08-13",
+          "items": [
+            {
+              "artist": "Frankie Laine",
+              "rank": 1,
+              "title": "I Believe"
+            }
+          ],
+          "startDate": "1953-07-03"
+        },
+        {
+          "endDate": "1953-08-20",
+          "items": [
+            {
+              "artist": "Mantovani",
+              "rank": 1,
+              "title": "The Song from Moulin Rouge"
+            }
+          ],
+          "startDate": "1953-08-14"
+        },
+        {
+          "endDate": "1953-09-10",
+          "items": [
+            {
+              "artist": "Frankie Laine",
+              "rank": 1,
+              "title": "I Believe"
+            }
+          ],
+          "startDate": "1953-08-21"
+        },
+        {
+          "endDate": "1953-10-22",
           "items": [
             {
               "artist": "Guy Mitchell",
@@ -12,13 +409,68 @@
               "title": "Look at That Girl"
             }
           ],
-          "startDate": "1953-09-25"
+          "startDate": "1953-09-11"
+        },
+        {
+          "endDate": "1953-11-05",
+          "items": [
+            {
+              "artist": "Frankie Laine",
+              "rank": 1,
+              "title": "Hey Joe"
+            }
+          ],
+          "startDate": "1953-10-23"
+        },
+        {
+          "endDate": "1953-11-12",
+          "items": [
+            {
+              "artist": "David Whitfield",
+              "rank": 1,
+              "title": "Answer Me"
+            }
+          ],
+          "startDate": "1953-11-06"
+        },
+        {
+          "endDate": "1953-12-10",
+          "items": [
+            {
+              "artist": "Frankie Laine",
+              "rank": 1,
+              "title": "Answer Me"
+            }
+          ],
+          "startDate": "1953-11-13"
+        },
+        {
+          "endDate": "1953-12-17",
+          "items": [
+            {
+              "artist": "David Whitfield",
+              "rank": 1,
+              "title": "Answer Me"
+            }
+          ],
+          "startDate": "1953-12-11"
+        },
+        {
+          "endDate": "1953-12-31",
+          "items": [
+            {
+              "artist": "Frankie Laine",
+              "rank": 1,
+              "title": "Answer Me"
+            }
+          ],
+          "startDate": "1953-12-18"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -26,7 +478,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "53d9d2e21264bb702ff61bfcaab40ec1dfd2fb5ad584d12f1fb67dfddea80270",
+  "contentHash": "7804d68dc4ace331dcf33476bdb1f1953ad7f0e112202c0c5dd1cbbec489581a",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1953

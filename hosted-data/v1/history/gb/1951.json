@@ -1,0 +1,192 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1951-01-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mr. Music"
+            }
+          ],
+          "startDate": "1951-01-01"
+        },
+        {
+          "endDate": "1951-01-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harvey"
+            }
+          ],
+          "startDate": "1951-01-10"
+        },
+        {
+          "endDate": "1951-01-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Halls of Montezuma"
+            }
+          ],
+          "startDate": "1951-01-24"
+        },
+        {
+          "endDate": "1951-02-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "At War with the Army"
+            }
+          ],
+          "startDate": "1951-01-31"
+        },
+        {
+          "endDate": "1951-02-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Born Yesterday"
+            }
+          ],
+          "startDate": "1951-02-21"
+        },
+        {
+          "endDate": "1951-03-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Payment on Demand"
+            }
+          ],
+          "startDate": "1951-02-28"
+        },
+        {
+          "endDate": "1951-03-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Born Yesterday"
+            }
+          ],
+          "startDate": "1951-03-14"
+        },
+        {
+          "endDate": "1951-04-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Royal Wedding"
+            }
+          ],
+          "startDate": "1951-03-28"
+        },
+        {
+          "endDate": "1951-05-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Father's Little Dividend"
+            }
+          ],
+          "startDate": "1951-04-18"
+        },
+        {
+          "endDate": "1951-07-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Great Caruso"
+            }
+          ],
+          "startDate": "1951-05-16"
+        },
+        {
+          "endDate": "1951-08-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Show Boat"
+            }
+          ],
+          "startDate": "1951-07-18"
+        },
+        {
+          "endDate": "1951-09-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "That's My Boy"
+            }
+          ],
+          "startDate": "1951-08-15"
+        },
+        {
+          "endDate": "1951-10-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "David and Bathsheba"
+            }
+          ],
+          "startDate": "1951-09-12"
+        },
+        {
+          "endDate": "1951-10-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Place in the Sun"
+            }
+          ],
+          "startDate": "1951-10-17"
+        },
+        {
+          "endDate": "1951-10-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Desert Fox: The Story of Rommel"
+            }
+          ],
+          "startDate": "1951-10-24"
+        },
+        {
+          "endDate": "1951-11-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "An American in Paris"
+            }
+          ],
+          "startDate": "1951-10-31"
+        },
+        {
+          "endDate": "1951-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Quo Vadis"
+            }
+          ],
+          "startDate": "1951-11-28"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    }
+  },
+  "contentHash": "a64cfd6c464fb121fd43eaf295f08eee6f1241f20d2be2c1084ebaebc4a8efb8",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 1951
+}

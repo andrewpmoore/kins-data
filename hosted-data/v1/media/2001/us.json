@@ -1,0 +1,89 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2001",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781414319957",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781414319957-L.jpg?default=false",
+          "author": "Jerry B. Jenkins and Tim LaHaye",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781414319957",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781414319957-L.jpg?default=false",
+          "creator": "Jerry B. Jenkins and Tim LaHaye",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "Desecration",
+          "url": "https://books.google.com/books?vid=ISBN:9781414319957"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2001-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2001
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2001",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788478888641",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788478888641-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788478888641",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788478888641-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Harry Potter and the Goblet of Fire",
+          "url": "https://books.google.com/books?vid=ISBN:9788478888641"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2001-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2001
+    },
+    "games": {
+      "id": "media-awardWinner-2001",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2001&idGame=572",
+          "artworkURL": "https://www.interactive.org/images/games/2001_diablo_ii_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "Diablo II"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2001&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2001
+    }
+  },
+  "contentHash": "af56e7d2799c2d9b56e89fbb892678039d09e6ac65e0a7ba954baa3cb00bfda3",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2001
+}

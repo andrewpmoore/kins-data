@@ -1,0 +1,89 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2002",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9783453215047",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9783453215047-L.jpg?default=false",
+          "author": "John Grisham",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9783453215047",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9783453215047-L.jpg?default=false",
+          "creator": "John Grisham",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Summons",
+          "url": "https://books.google.com/books?vid=ISBN:9783453215047"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2002-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2002
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2002",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782070546817",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782070546817-L.jpg?default=false",
+          "author": "Eoin Colfer",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782070546817",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782070546817-L.jpg?default=false",
+          "creator": "Eoin Colfer",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Artemis Fowl",
+          "url": "https://books.google.com/books?vid=ISBN:9782070546817"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2002-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2002
+    },
+    "games": {
+      "id": "media-awardWinner-2002",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2002&idGame=344",
+          "artworkURL": "https://www.interactive.org/images/games/2002_halo_combat_evolved_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2001,
+          "title": "Halo: Combat Evolved"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2002&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2002
+    }
+  },
+  "contentHash": "1015bc423eef17452c1d1ecc80a2ab9c7f639f10532c5a5eb9bbabf9fcfe9dcf",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2002
+}

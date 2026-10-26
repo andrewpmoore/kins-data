@@ -1,10 +1,284 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1964-02-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Charade"
+            }
+          ],
+          "startDate": "1964-01-01"
+        },
+        {
+          "endDate": "1964-02-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Prize"
+            }
+          ],
+          "startDate": "1964-02-05"
+        },
+        {
+          "endDate": "1964-02-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tom Jones"
+            }
+          ],
+          "startDate": "1964-02-12"
+        },
+        {
+          "endDate": "1964-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It's a Mad, Mad, Mad, Mad World"
+            }
+          ],
+          "startDate": "1964-02-26"
+        },
+        {
+          "endDate": "1964-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tom Jones"
+            }
+          ],
+          "startDate": "1964-03-04"
+        },
+        {
+          "endDate": "1964-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It's a Mad, Mad, Mad, Mad World"
+            }
+          ],
+          "startDate": "1964-03-18"
+        },
+        {
+          "endDate": "1964-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tom Jones"
+            }
+          ],
+          "startDate": "1964-03-25"
+        },
+        {
+          "endDate": "1964-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It's a Mad, Mad, Mad, Mad World"
+            }
+          ],
+          "startDate": "1964-04-01"
+        },
+        {
+          "endDate": "1964-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tom Jones"
+            }
+          ],
+          "startDate": "1964-04-15"
+        },
+        {
+          "endDate": "1964-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Pink Panther"
+            }
+          ],
+          "startDate": "1964-04-29"
+        },
+        {
+          "endDate": "1964-06-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What a Way to Go!"
+            }
+          ],
+          "startDate": "1964-05-27"
+        },
+        {
+          "endDate": "1964-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chalk Garden"
+            }
+          ],
+          "startDate": "1964-06-03"
+        },
+        {
+          "endDate": "1964-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Pink Panther"
+            }
+          ],
+          "startDate": "1964-06-10"
+        },
+        {
+          "endDate": "1964-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Carpetbaggers"
+            }
+          ],
+          "startDate": "1964-06-17"
+        },
+        {
+          "endDate": "1964-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Unsinkable Molly Brown"
+            }
+          ],
+          "startDate": "1964-07-22"
+        },
+        {
+          "endDate": "1964-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Carpetbaggers"
+            }
+          ],
+          "startDate": "1964-07-29"
+        },
+        {
+          "endDate": "1964-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Unsinkable Molly Brown"
+            }
+          ],
+          "startDate": "1964-08-05"
+        },
+        {
+          "endDate": "1964-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Night of the Iguana"
+            }
+          ],
+          "startDate": "1964-08-12"
+        },
+        {
+          "endDate": "1964-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Unsinkable Molly Brown"
+            }
+          ],
+          "startDate": "1964-08-19"
+        },
+        {
+          "endDate": "1964-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Shot in the Dark"
+            }
+          ],
+          "startDate": "1964-09-30"
+        },
+        {
+          "endDate": "1964-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Topkapi"
+            }
+          ],
+          "startDate": "1964-10-21"
+        },
+        {
+          "endDate": "1964-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mary Poppins"
+            }
+          ],
+          "startDate": "1964-10-28"
+        },
+        {
+          "endDate": "1964-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "My Fair Lady"
+            }
+          ],
+          "startDate": "1964-11-04"
+        },
+        {
+          "endDate": "1964-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mary Poppins"
+            }
+          ],
+          "startDate": "1964-11-11"
+        },
+        {
+          "endDate": "1964-12-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "My Fair Lady"
+            }
+          ],
+          "startDate": "1964-11-18"
+        },
+        {
+          "endDate": "1964-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Goldfinger"
+            }
+          ],
+          "startDate": "1964-12-30"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1964-01-10",
+          "endDate": "1964-01-15",
           "items": [
             {
               "artist": "The Beatles",
@@ -15,7 +289,7 @@
           "startDate": "1964-01-01"
         },
         {
-          "endDate": "1964-01-31",
+          "endDate": "1964-01-29",
           "items": [
             {
               "artist": "The Dave Clark Five",
@@ -23,10 +297,10 @@
               "title": "Glad All Over"
             }
           ],
-          "startDate": "1964-01-18"
+          "startDate": "1964-01-16"
         },
         {
-          "endDate": "1964-02-21",
+          "endDate": "1964-02-19",
           "items": [
             {
               "artist": "The Searchers",
@@ -34,10 +308,21 @@
               "title": "Needles and Pins"
             }
           ],
-          "startDate": "1964-02-01"
+          "startDate": "1964-01-30"
         },
         {
-          "endDate": "1964-03-20",
+          "endDate": "1964-02-21",
+          "items": [
+            {
+              "artist": "The Bachelors",
+              "rank": 1,
+              "title": "Diane"
+            }
+          ],
+          "startDate": "1964-02-20"
+        },
+        {
+          "endDate": "1964-03-18",
           "items": [
             {
               "artist": "Cilla Black",
@@ -48,7 +333,18 @@
           "startDate": "1964-02-22"
         },
         {
-          "endDate": "1964-03-27",
+          "endDate": "1964-03-20",
+          "items": [
+            {
+              "artist": "Billy J. Kramer and the Dakotas",
+              "rank": 1,
+              "title": "Little Children"
+            }
+          ],
+          "startDate": "1964-03-19"
+        },
+        {
+          "endDate": "1964-03-25",
           "items": [
             {
               "artist": "Billy J. Kramer and The Dakotas",
@@ -57,6 +353,17 @@
             }
           ],
           "startDate": "1964-03-21"
+        },
+        {
+          "endDate": "1964-03-27",
+          "items": [
+            {
+              "artist": "Billy J. Kramer and the Dakotas",
+              "rank": 1,
+              "title": "Little Children"
+            }
+          ],
+          "startDate": "1964-03-26"
         },
         {
           "endDate": "1964-04-17",
@@ -70,7 +377,29 @@
           "startDate": "1964-03-28"
         },
         {
-          "endDate": "1964-05-01",
+          "endDate": "1964-04-22",
+          "items": [
+            {
+              "artist": "Peter & Gordon",
+              "rank": 1,
+              "title": "A World Without Love"
+            }
+          ],
+          "startDate": "1964-04-18"
+        },
+        {
+          "endDate": "1964-04-24",
+          "items": [
+            {
+              "artist": "Peter and Gordon",
+              "rank": 1,
+              "title": "A World Without Love"
+            }
+          ],
+          "startDate": "1964-04-23"
+        },
+        {
+          "endDate": "1964-04-29",
           "items": [
             {
               "artist": "Peter & Gordon",
@@ -81,6 +410,17 @@
           "startDate": "1964-04-25"
         },
         {
+          "endDate": "1964-05-01",
+          "items": [
+            {
+              "artist": "Peter and Gordon",
+              "rank": 1,
+              "title": "A World Without Love"
+            }
+          ],
+          "startDate": "1964-04-30"
+        },
+        {
           "endDate": "1964-05-15",
           "items": [
             {
@@ -89,10 +429,10 @@
               "title": "Don't Throw Your Love Away"
             }
           ],
-          "startDate": "1964-05-09"
+          "startDate": "1964-05-02"
         },
         {
-          "endDate": "1964-05-29",
+          "endDate": "1964-05-27",
           "items": [
             {
               "artist": "The Four Pennies",
@@ -111,7 +451,7 @@
               "title": "You're My World"
             }
           ],
-          "startDate": "1964-05-30"
+          "startDate": "1964-05-28"
         },
         {
           "endDate": "1964-07-03",
@@ -125,7 +465,7 @@
           "startDate": "1964-06-20"
         },
         {
-          "endDate": "1964-07-10",
+          "endDate": "1964-07-08",
           "items": [
             {
               "artist": "The Animals",
@@ -136,7 +476,29 @@
           "startDate": "1964-07-04"
         },
         {
-          "endDate": "1964-08-14",
+          "endDate": "1964-07-10",
+          "items": [
+            {
+              "artist": "The Animals",
+              "rank": 1,
+              "title": "The House of the Rising Sun"
+            }
+          ],
+          "startDate": "1964-07-09"
+        },
+        {
+          "endDate": "1964-07-17",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "It's All Over Now"
+            }
+          ],
+          "startDate": "1964-07-11"
+        },
+        {
+          "endDate": "1964-08-12",
           "items": [
             {
               "artist": "The Beatles",
@@ -147,7 +509,7 @@
           "startDate": "1964-07-18"
         },
         {
-          "endDate": "1964-08-28",
+          "endDate": "1964-08-26",
           "items": [
             {
               "artist": "Manfred Mann",
@@ -155,10 +517,10 @@
               "title": "Do Wah Diddy Diddy"
             }
           ],
-          "startDate": "1964-08-15"
+          "startDate": "1964-08-13"
         },
         {
-          "endDate": "1964-09-11",
+          "endDate": "1964-09-09",
           "items": [
             {
               "artist": "The Honeycombs",
@@ -166,10 +528,43 @@
               "title": "Have I the Right?"
             }
           ],
-          "startDate": "1964-08-29"
+          "startDate": "1964-08-27"
         },
         {
-          "endDate": "1964-10-09",
+          "endDate": "1964-09-11",
+          "items": [
+            {
+              "artist": "The Kinks",
+              "rank": 1,
+              "title": "You Really Got Me"
+            }
+          ],
+          "startDate": "1964-09-10"
+        },
+        {
+          "endDate": "1964-09-16",
+          "items": [
+            {
+              "artist": "The Honeycombs",
+              "rank": 1,
+              "title": "Have I the Right?"
+            }
+          ],
+          "startDate": "1964-09-12"
+        },
+        {
+          "endDate": "1964-09-18",
+          "items": [
+            {
+              "artist": "The Kinks",
+              "rank": 1,
+              "title": "You Really Got Me"
+            }
+          ],
+          "startDate": "1964-09-17"
+        },
+        {
+          "endDate": "1964-10-07",
           "items": [
             {
               "artist": "Herman's Hermits",
@@ -177,10 +572,10 @@
               "title": "I'm Into Something Good"
             }
           ],
-          "startDate": "1964-09-26"
+          "startDate": "1964-09-19"
         },
         {
-          "endDate": "1964-10-30",
+          "endDate": "1964-10-21",
           "items": [
             {
               "artist": "Roy Orbison",
@@ -188,10 +583,43 @@
               "title": "Oh, Pretty Woman"
             }
           ],
-          "startDate": "1964-10-10"
+          "startDate": "1964-10-08"
         },
         {
-          "endDate": "1964-11-06",
+          "endDate": "1964-10-23",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "(There's) Always Something There to Remind Me"
+            }
+          ],
+          "startDate": "1964-10-22"
+        },
+        {
+          "endDate": "1964-10-28",
+          "items": [
+            {
+              "artist": "Roy Orbison",
+              "rank": 1,
+              "title": "Oh, Pretty Woman"
+            }
+          ],
+          "startDate": "1964-10-24"
+        },
+        {
+          "endDate": "1964-10-30",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "(There's) Always Something There to Remind Me"
+            }
+          ],
+          "startDate": "1964-10-29"
+        },
+        {
+          "endDate": "1964-11-04",
           "items": [
             {
               "artist": "Sandie Shaw",
@@ -202,7 +630,29 @@
           "startDate": "1964-10-31"
         },
         {
-          "endDate": "1964-11-20",
+          "endDate": "1964-11-06",
+          "items": [
+            {
+              "artist": "Sandie Shaw",
+              "rank": 1,
+              "title": "(There's) Always Something There to Remind Me"
+            }
+          ],
+          "startDate": "1964-11-05"
+        },
+        {
+          "endDate": "1964-11-13",
+          "items": [
+            {
+              "artist": "Roy Orbison",
+              "rank": 1,
+              "title": "Oh, Pretty Woman"
+            }
+          ],
+          "startDate": "1964-11-07"
+        },
+        {
+          "endDate": "1964-12-02",
           "items": [
             {
               "artist": "The Supremes",
@@ -211,6 +661,17 @@
             }
           ],
           "startDate": "1964-11-14"
+        },
+        {
+          "endDate": "1964-12-04",
+          "items": [
+            {
+              "artist": "The Rolling Stones",
+              "rank": 1,
+              "title": "Little Red Rooster"
+            }
+          ],
+          "startDate": "1964-12-03"
         },
         {
           "endDate": "1964-12-31",
@@ -227,7 +688,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -235,7 +696,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "c97579937bbd4b5ebeac318cb4cde8b6b4f2de8153d742370c77a324a551a5a2",
+  "contentHash": "465739b38d009ed50a66f39ba1a0f128dc228aad1e57f64817e46dc46d93dda5",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1964

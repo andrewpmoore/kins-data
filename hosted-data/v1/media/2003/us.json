@@ -1,0 +1,83 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2003",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788580416251",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788580416251-L.jpg?default=false",
+          "author": "Dan Brown",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788580416251",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788580416251-L.jpg?default=false",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Da Vinci Code",
+          "url": "https://books.google.com/books?vid=ISBN:9788580416251"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2003-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2003
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2003",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Harry Potter and the Order of the Phoenix",
+          "url": "https://books.google.com/books?q=Harry+Potter+and+the+Order+of+the+Phoenix"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2003-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2003
+    },
+    "games": {
+      "id": "media-awardWinner-2003",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2003&idGame=340",
+          "artworkURL": "https://www.interactive.org/images/games/2003_battlefield_1942_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2002,
+          "title": "Battlefield 1942"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2003&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2003
+    }
+  },
+  "contentHash": "65cd4d668bfe39bda726d3214b8d9f83872e373df1d90efeac03098802b747c2",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2003
+}

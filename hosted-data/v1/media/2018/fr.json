@@ -1,5 +1,57 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2018",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782298142778",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782298142778-L.jpg?default=false",
+          "author": "Guillaume Musso",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782298142778",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782298142778-L.jpg?default=false",
+          "creator": "Guillaume Musso",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "La Jeune Fille et la Nuit",
+          "url": "https://books.google.com/books?vid=ISBN:9782298142778"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2018"
+      },
+      "title": "FR print bestseller",
+      "year": 2018
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2018",
+      "items": [
+        {
+          "author": "Mr Tan et Diane Le Feyer",
+          "creator": "Mr Tan et Diane Le Feyer",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Mortelle Adèle: Funeste panique",
+          "url": "https://books.google.com/books?q=Mortelle+Adèle:+Funeste+panique"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2018"
+      },
+      "title": "FR children's bestseller",
+      "year": 2018
+    },
     "games": {
       "id": "media-awardWinner-2018",
       "items": [
@@ -9,7 +61,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
           "rank": 1,
           "releaseYear": 2018,
-          "title": "God of War"
+          "title": "God of War",
+          "trailerURL": "https://www.youtube.com/watch?v=jCB36uNrZ9I"
         }
       ],
       "source": {
@@ -24,7 +77,7 @@
       "year": 2018
     }
   },
-  "contentHash": "f2a0195ba3ac19c998b82b89f69854e3a2e9525adff3ca6e65b12c049e221619",
+  "contentHash": "51db3cf36077aa2791d4de841644106cf13641035c36474b66decd72f739c255",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2018

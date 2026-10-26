@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2021",
+      "items": [
+        {
+          "author": "Juli Zeh",
+          "creator": "Juli Zeh",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Über Menschen",
+          "url": "https://books.google.com/books?q=Über+Menschen"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2021/"
+      },
+      "title": "DE print bestseller",
+      "year": 2021
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2021",
+      "items": [
+        {
+          "author": "Margit Auer",
+          "creator": "Margit Auer",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Die Schule der magischen Tiere: Da ist die Tür!",
+          "url": "https://books.google.com/books?q=Die+Schule+der+magischen+Tiere:+Da+ist+die+Tür!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2021/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2021
+    },
     "games": {
       "id": "media-awardWinner-2021",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2021
     }
   },
-  "contentHash": "496617ac6922b6d494103cfe96f8d173ce79a460811128b89512a151f689f0da",
+  "contentHash": "78d965e5e24f966e7b67755252ddfefe0d190e26a7a9b2c4d9960f6a7c5a8cb3",
   "country": "de",
   "schemaVersion": 1,
   "year": 2021

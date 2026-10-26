@@ -1,5 +1,57 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2014",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9782266276283",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9782266276283-L.jpg?default=false",
+          "author": "Guillaume Musso",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9782266276283",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9782266276283-L.jpg?default=false",
+          "creator": "Guillaume Musso",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Central Park",
+          "url": "https://books.google.com/books?vid=ISBN:9782266276283"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2014"
+      },
+      "title": "FR print bestseller",
+      "year": 2014
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2014",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Le Journal d'un dégonflé: Un été de canicule",
+          "url": "https://books.google.com/books?q=Le+Journal+d'un+dégonflé:+Un+été+de+canicule"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2014"
+      },
+      "title": "FR children's bestseller",
+      "year": 2014
+    },
     "games": {
       "id": "media-awardWinner-2014",
       "items": [
@@ -24,7 +76,7 @@
       "year": 2014
     }
   },
-  "contentHash": "1390fcfba75d3416f0e27a1577d63d7292588e10d84607906c00c79c2279d88e",
+  "contentHash": "70a9915067110f8e21f9e7f6e55ca8aa4e8525dafc56dfd04daeb83d96366479",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2014

@@ -1,0 +1,591 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2018-01-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La Promesse de l'aube"
+            }
+          ],
+          "startDate": "2018-01-01"
+        },
+        {
+          "endDate": "2018-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode VIII - The Last Jedi"
+            }
+          ],
+          "startDate": "2018-01-07"
+        },
+        {
+          "endDate": "2018-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jumanji: Welcome to the Jungle"
+            }
+          ],
+          "startDate": "2018-01-14"
+        },
+        {
+          "endDate": "2018-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Brillantissime"
+            }
+          ],
+          "startDate": "2018-01-21"
+        },
+        {
+          "endDate": "2018-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Post"
+            }
+          ],
+          "startDate": "2018-01-28"
+        },
+        {
+          "endDate": "2018-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Magic Tuche"
+            }
+          ],
+          "startDate": "2018-02-04"
+        },
+        {
+          "endDate": "2018-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Panther"
+            }
+          ],
+          "startDate": "2018-02-18"
+        },
+        {
+          "endDate": "2018-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Family Is Family"
+            }
+          ],
+          "startDate": "2018-03-04"
+        },
+        {
+          "endDate": "2018-03-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rolling to You"
+            }
+          ],
+          "startDate": "2018-03-25"
+        },
+        {
+          "endDate": "2018-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ready Player One"
+            }
+          ],
+          "startDate": "2018-04-01"
+        },
+        {
+          "endDate": "2018-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Taxi 5"
+            }
+          ],
+          "startDate": "2018-04-15"
+        },
+        {
+          "endDate": "2018-05-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avengers: Infinity War"
+            }
+          ],
+          "startDate": "2018-04-29"
+        },
+        {
+          "endDate": "2018-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Deadpool 2"
+            }
+          ],
+          "startDate": "2018-05-20"
+        },
+        {
+          "endDate": "2018-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Solo: A Star Wars Story"
+            }
+          ],
+          "startDate": "2018-05-27"
+        },
+        {
+          "endDate": "2018-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic World: Fallen Kingdom"
+            }
+          ],
+          "startDate": "2018-06-10"
+        },
+        {
+          "endDate": "2018-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Incredibles 2"
+            }
+          ],
+          "startDate": "2018-07-08"
+        },
+        {
+          "endDate": "2018-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hotel Transylvania 3: Summer Vacation"
+            }
+          ],
+          "startDate": "2018-07-29"
+        },
+        {
+          "endDate": "2018-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible - Fallout"
+            }
+          ],
+          "startDate": "2018-08-05"
+        },
+        {
+          "endDate": "2018-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Meg"
+            }
+          ],
+          "startDate": "2018-08-26"
+        },
+        {
+          "endDate": "2018-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Photo de famille"
+            }
+          ],
+          "startDate": "2018-09-09"
+        },
+        {
+          "endDate": "2018-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Freshmen"
+            }
+          ],
+          "startDate": "2018-09-16"
+        },
+        {
+          "endDate": "2018-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Nun"
+            }
+          ],
+          "startDate": "2018-09-23"
+        },
+        {
+          "endDate": "2018-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin 2"
+            }
+          ],
+          "startDate": "2018-10-07"
+        },
+        {
+          "endDate": "2018-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Venom"
+            }
+          ],
+          "startDate": "2018-10-14"
+        },
+        {
+          "endDate": "2018-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sink or Swim"
+            }
+          ],
+          "startDate": "2018-10-28"
+        },
+        {
+          "endDate": "2018-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bohemian Rhapsody"
+            }
+          ],
+          "startDate": "2018-11-11"
+        },
+        {
+          "endDate": "2018-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Beasts: The Crimes of Grindelwald"
+            }
+          ],
+          "startDate": "2018-11-18"
+        },
+        {
+          "endDate": "2018-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Asterix: The Secret of the Magic Potion"
+            }
+          ],
+          "startDate": "2018-12-09"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2018-01-18",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "Perfect"
+            }
+          ],
+          "startDate": "2018-01-01"
+        },
+        {
+          "endDate": "2018-02-01",
+          "items": [
+            {
+              "artist": "Camila Cabello featuring Young Thug",
+              "rank": 1,
+              "title": "Havana"
+            }
+          ],
+          "startDate": "2018-01-19"
+        },
+        {
+          "endDate": "2018-03-22",
+          "items": [
+            {
+              "artist": "Vald",
+              "rank": 1,
+              "title": "Désaccordé"
+            }
+          ],
+          "startDate": "2018-02-02"
+        },
+        {
+          "endDate": "2018-03-29",
+          "items": [
+            {
+              "artist": "Lartiste featuring Caroliina",
+              "rank": 1,
+              "title": "Mafiosa"
+            }
+          ],
+          "startDate": "2018-03-23"
+        },
+        {
+          "endDate": "2018-04-05",
+          "items": [
+            {
+              "artist": "Maître Gims featuring Vianney",
+              "rank": 1,
+              "title": "La même"
+            }
+          ],
+          "startDate": "2018-03-30"
+        },
+        {
+          "endDate": "2018-05-03",
+          "items": [
+            {
+              "artist": "Lartiste featuring Caroliina",
+              "rank": 1,
+              "title": "Mafiosa"
+            }
+          ],
+          "startDate": "2018-04-06"
+        },
+        {
+          "endDate": "2018-05-10",
+          "items": [
+            {
+              "artist": "Damso",
+              "rank": 1,
+              "title": "Ipséité"
+            }
+          ],
+          "startDate": "2018-05-04"
+        },
+        {
+          "endDate": "2018-05-24",
+          "items": [
+            {
+              "artist": "Aya Nakamura",
+              "rank": 1,
+              "title": "Djadja"
+            }
+          ],
+          "startDate": "2018-05-11"
+        },
+        {
+          "endDate": "2018-06-20",
+          "items": [
+            {
+              "artist": "Dosseh",
+              "rank": 1,
+              "title": "Habitué"
+            }
+          ],
+          "startDate": "2018-05-25"
+        },
+        {
+          "endDate": "2018-06-27",
+          "items": [
+            {
+              "artist": "Damso",
+              "rank": 1,
+              "title": "Smog"
+            }
+          ],
+          "startDate": "2018-06-21"
+        },
+        {
+          "endDate": "2018-07-18",
+          "items": [
+            {
+              "artist": "PNL",
+              "rank": 1,
+              "title": "À l'ammoniaque"
+            }
+          ],
+          "startDate": "2018-06-28"
+        },
+        {
+          "endDate": "2018-07-25",
+          "items": [
+            {
+              "artist": "Jul",
+              "rank": 1,
+              "title": "Toto et Ninetta"
+            }
+          ],
+          "startDate": "2018-07-19"
+        },
+        {
+          "endDate": "2018-08-01",
+          "items": [
+            {
+              "artist": "Vegedream",
+              "rank": 1,
+              "title": "Ramenez la coupe à la maison"
+            }
+          ],
+          "startDate": "2018-07-26"
+        },
+        {
+          "endDate": "2018-08-16",
+          "items": [
+            {
+              "artist": "Rim'K featuring Ninho",
+              "rank": 1,
+              "title": "Air Max"
+            }
+          ],
+          "startDate": "2018-08-03"
+        },
+        {
+          "endDate": "2018-09-06",
+          "items": [
+            {
+              "artist": "PNL",
+              "rank": 1,
+              "title": "91's"
+            }
+          ],
+          "startDate": "2018-08-17"
+        },
+        {
+          "endDate": "2018-09-13",
+          "items": [
+            {
+              "artist": "Rim'K featuring Ninho",
+              "rank": 1,
+              "title": "Air Max"
+            }
+          ],
+          "startDate": "2018-09-07"
+        },
+        {
+          "endDate": "2018-10-11",
+          "items": [
+            {
+              "artist": "Vegedream",
+              "rank": 1,
+              "title": "Ramenez la coupe à la maison"
+            }
+          ],
+          "startDate": "2018-09-14"
+        },
+        {
+          "endDate": "2018-11-08",
+          "items": [
+            {
+              "artist": "Dadju",
+              "rank": 1,
+              "title": "Jaloux"
+            }
+          ],
+          "startDate": "2018-10-12"
+        },
+        {
+          "endDate": "2018-11-15",
+          "items": [
+            {
+              "artist": "Aya Nakamura",
+              "rank": 1,
+              "title": "Copines"
+            }
+          ],
+          "startDate": "2018-11-09"
+        },
+        {
+          "endDate": "2018-11-22",
+          "items": [
+            {
+              "artist": "Dadju",
+              "rank": 1,
+              "title": "Jaloux"
+            }
+          ],
+          "startDate": "2018-11-16"
+        },
+        {
+          "endDate": "2018-12-06",
+          "items": [
+            {
+              "artist": "Orelsan featuring Damso",
+              "rank": 1,
+              "title": "Rêves bizarres"
+            }
+          ],
+          "startDate": "2018-11-23"
+        },
+        {
+          "endDate": "2018-12-13",
+          "items": [
+            {
+              "artist": "Maes featuring Booba",
+              "rank": 1,
+              "title": "Madrina"
+            }
+          ],
+          "startDate": "2018-12-07"
+        },
+        {
+          "endDate": "2018-12-20",
+          "items": [
+            {
+              "artist": "Lomepal",
+              "rank": 1,
+              "title": "Trop beau"
+            }
+          ],
+          "startDate": "2018-12-14"
+        },
+        {
+          "endDate": "2018-12-27",
+          "items": [
+            {
+              "artist": "Maes featuring Booba",
+              "rank": 1,
+              "title": "Madrina"
+            }
+          ],
+          "startDate": "2018-12-21"
+        },
+        {
+          "endDate": "2018-12-31",
+          "items": [
+            {
+              "artist": "Mariah Carey",
+              "rank": 1,
+              "title": "All I Want for Christmas Is You"
+            }
+          ],
+          "startDate": "2018-12-28"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "ee7595546ad1f2522204c184daee48c860b97ad2d77c0f257f8178c21c686cb3",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2018
+}

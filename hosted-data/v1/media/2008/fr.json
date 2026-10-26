@@ -1,0 +1,83 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2008",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780307989543",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780307989543-L.jpg?default=false",
+          "author": "Stieg Larsson",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780307989543",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780307989543-L.jpg?default=false",
+          "creator": "Stieg Larsson",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "Les Hommes qui n'aimaient pas les femmes",
+          "url": "https://books.google.com/books?vid=ISBN:9780307989543"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2008"
+      },
+      "title": "FR print bestseller",
+      "year": 2008
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2008",
+      "items": [
+        {
+          "author": "Zep",
+          "creator": "Zep",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Titeuf: Le Sens de la vie",
+          "url": "https://books.google.com/books?q=Titeuf:+Le+Sens+de+la+vie"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2008"
+      },
+      "title": "FR children's bestseller",
+      "year": 2008
+    },
+    "games": {
+      "id": "media-awardWinner-2008",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2008&idGame=925",
+          "artworkURL": "https://www.interactive.org/images/games/2008_call_of_duty_4_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2007,
+          "title": "Call of Duty 4: Modern Warfare"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2008&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2008
+    }
+  },
+  "contentHash": "f8c749cf8755a1e7c96b8c5d8730adb4ea0162f71c1e468db435a86351e08f24",
+  "country": "fr",
+  "schemaVersion": 1,
+  "year": 2008
+}

@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2019",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781472158666",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781472158666-L.jpg?default=false",
+          "author": "Delia Owens",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781472158666",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781472158666-L.jpg?default=false",
+          "creator": "Delia Owens",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "Where the Crawdads Sing",
+          "url": "https://books.google.com/books?vid=ISBN:9781472158666"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2019-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2019
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2019",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788413921075",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788413921075-L.jpg?default=false",
+          "author": "Dav Pilkey",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788413921075",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788413921075-L.jpg?default=false",
+          "creator": "Dav Pilkey",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Dog Man: For Whom the Ball Rolls",
+          "url": "https://books.google.com/books?vid=ISBN:9788413921075"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2019-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2019
+    },
     "games": {
       "id": "media-awardWinner-2019",
       "items": [
@@ -9,7 +67,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
           "rank": 1,
           "releaseYear": 2019,
-          "title": "Sekiro: Shadows Die Twice"
+          "title": "Sekiro: Shadows Die Twice",
+          "trailerURL": "https://www.youtube.com/watch?v=UGPknmiLxGo"
         }
       ],
       "source": {
@@ -24,7 +83,7 @@
       "year": 2019
     }
   },
-  "contentHash": "bcec5317ff71d2a1c1cbcd1d98ca4e501a0d36833f51009d661f1942e4cadfde",
+  "contentHash": "734f5445f59b53b74065f64a775d46ab5d9c997b20687390bce123f4abc1102c",
   "country": "us",
   "schemaVersion": 1,
   "year": 2019

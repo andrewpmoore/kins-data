@@ -1,5 +1,279 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2021-02-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Greenland"
+            }
+          ],
+          "startDate": "2021-01-01"
+        },
+        {
+          "endDate": "2021-02-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Two by Two: Overboard!"
+            }
+          ],
+          "startDate": "2021-02-14"
+        },
+        {
+          "endDate": "2021-03-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Greenland"
+            }
+          ],
+          "startDate": "2021-02-28"
+        },
+        {
+          "endDate": "2021-03-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Knives Out"
+            }
+          ],
+          "startDate": "2021-03-21"
+        },
+        {
+          "endDate": "2021-04-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mama Weed"
+            }
+          ],
+          "startDate": "2021-03-28"
+        },
+        {
+          "endDate": "2021-05-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Greenland"
+            }
+          ],
+          "startDate": "2021-04-04"
+        },
+        {
+          "endDate": "2021-05-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mama Weed"
+            }
+          ],
+          "startDate": "2021-05-02"
+        },
+        {
+          "endDate": "2021-05-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nightlife"
+            }
+          ],
+          "startDate": "2021-05-09"
+        },
+        {
+          "endDate": "2021-06-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train"
+            }
+          ],
+          "startDate": "2021-05-23"
+        },
+        {
+          "endDate": "2021-06-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Weißbier im Blut"
+            }
+          ],
+          "startDate": "2021-06-06"
+        },
+        {
+          "endDate": "2021-06-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train"
+            }
+          ],
+          "startDate": "2021-06-20"
+        },
+        {
+          "endDate": "2021-07-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nomadland"
+            }
+          ],
+          "startDate": "2021-06-27"
+        },
+        {
+          "endDate": "2021-07-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Godzilla vs. Kong"
+            }
+          ],
+          "startDate": "2021-07-04"
+        },
+        {
+          "endDate": "2021-07-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Widow"
+            }
+          ],
+          "startDate": "2021-07-11"
+        },
+        {
+          "endDate": "2021-08-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "F9: The Fast Saga"
+            }
+          ],
+          "startDate": "2021-07-18"
+        },
+        {
+          "endDate": "2021-08-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kaiserschmarrndrama"
+            }
+          ],
+          "startDate": "2021-08-08"
+        },
+        {
+          "endDate": "2021-09-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "PAW Patrol: The Movie"
+            }
+          ],
+          "startDate": "2021-08-22"
+        },
+        {
+          "endDate": "2021-09-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shang-Chi and the Legend of the Ten Rings"
+            }
+          ],
+          "startDate": "2021-09-05"
+        },
+        {
+          "endDate": "2021-09-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cruella"
+            }
+          ],
+          "startDate": "2021-09-12"
+        },
+        {
+          "endDate": "2021-10-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dune"
+            }
+          ],
+          "startDate": "2021-09-19"
+        },
+        {
+          "endDate": "2021-11-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "No Time to Die"
+            }
+          ],
+          "startDate": "2021-10-03"
+        },
+        {
+          "endDate": "2021-11-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Eternals"
+            }
+          ],
+          "startDate": "2021-11-07"
+        },
+        {
+          "endDate": "2021-11-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "No Time to Die"
+            }
+          ],
+          "startDate": "2021-11-14"
+        },
+        {
+          "endDate": "2021-12-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Encanto"
+            }
+          ],
+          "startDate": "2021-11-28"
+        },
+        {
+          "endDate": "2021-12-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "House of Gucci"
+            }
+          ],
+          "startDate": "2021-12-05"
+        },
+        {
+          "endDate": "2021-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: No Way Home"
+            }
+          ],
+          "startDate": "2021-12-19"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -53,7 +327,7 @@
             {
               "artist": "Nathan Evans",
               "rank": 1,
-              "title": "Wellerman\" †"
+              "title": "Wellerman"
             }
           ],
           "startDate": "2021-02-19"
@@ -75,7 +349,7 @@
             {
               "artist": "Nathan Evans",
               "rank": 1,
-              "title": "Wellerman\" †"
+              "title": "Wellerman"
             }
           ],
           "startDate": "2021-03-05"
@@ -86,7 +360,7 @@
             {
               "artist": "Saweetie featuring Doja Cat and Katja Krasavice",
               "rank": 1,
-              "title": "Best Friend"
+              "title": "Best Friend (Remix)"
             }
           ],
           "startDate": "2021-04-30"
@@ -97,7 +371,7 @@
             {
               "artist": "Nathan Evans",
               "rank": 1,
-              "title": "Wellerman\" †"
+              "title": "Wellerman"
             }
           ],
           "startDate": "2021-05-07"
@@ -361,7 +635,7 @@
             {
               "artist": "Kummer featuring Fred Rabe",
               "rank": 1,
-              "title": "Der letzte Song"
+              "title": "Der letzte Song (Alles wird gut)"
             }
           ],
           "startDate": "2021-11-19"
@@ -403,7 +677,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -411,7 +685,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "e200c7fc8d48027fdd4fb79cbe8161c76f68cc66181c1bdfeaee7380fd79a895",
+  "contentHash": "62f3940daf897131db3bbad970047903d26dae02c094ed05b6638523c4647f96",
   "country": "de",
   "schemaVersion": 1,
   "year": 2021

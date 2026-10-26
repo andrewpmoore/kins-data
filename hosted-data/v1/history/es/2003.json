@@ -1,10 +1,344 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2003-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lord of the Rings: The Two Towers"
+            }
+          ],
+          "startDate": "2003-01-01"
+        },
+        {
+          "endDate": "2003-01-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Ring"
+            }
+          ],
+          "startDate": "2003-01-19"
+        },
+        {
+          "endDate": "2003-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Catch Me If You Can"
+            }
+          ],
+          "startDate": "2003-01-26"
+        },
+        {
+          "endDate": "2003-03-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mortadelo & Filemon: The Big Adventure"
+            }
+          ],
+          "startDate": "2003-02-09"
+        },
+        {
+          "endDate": "2003-03-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gangs of New York"
+            }
+          ],
+          "startDate": "2003-03-02"
+        },
+        {
+          "endDate": "2003-03-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Daredevil"
+            }
+          ],
+          "startDate": "2003-03-09"
+        },
+        {
+          "endDate": "2003-03-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Chicago"
+            }
+          ],
+          "startDate": "2003-03-16"
+        },
+        {
+          "endDate": "2003-04-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moscow Gold"
+            }
+          ],
+          "startDate": "2003-03-30"
+        },
+        {
+          "endDate": "2003-04-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Just Married"
+            }
+          ],
+          "startDate": "2003-04-06"
+        },
+        {
+          "endDate": "2003-04-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Johnny English"
+            }
+          ],
+          "startDate": "2003-04-13"
+        },
+        {
+          "endDate": "2003-04-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maid in Manhattan"
+            }
+          ],
+          "startDate": "2003-04-20"
+        },
+        {
+          "endDate": "2003-05-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dreamcatcher"
+            }
+          ],
+          "startDate": "2003-04-27"
+        },
+        {
+          "endDate": "2003-05-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X2: X-Men United"
+            }
+          ],
+          "startDate": "2003-05-04"
+        },
+        {
+          "endDate": "2003-06-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Matrix Reloaded"
+            }
+          ],
+          "startDate": "2003-05-25"
+        },
+        {
+          "endDate": "2003-06-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "2 Fast 2 Furious"
+            }
+          ],
+          "startDate": "2003-06-22"
+        },
+        {
+          "endDate": "2003-07-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bruce Almighty"
+            }
+          ],
+          "startDate": "2003-06-29"
+        },
+        {
+          "endDate": "2003-07-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hulk"
+            }
+          ],
+          "startDate": "2003-07-06"
+        },
+        {
+          "endDate": "2003-07-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Charlie's Angels: Full Throttle"
+            }
+          ],
+          "startDate": "2003-07-13"
+        },
+        {
+          "endDate": "2003-07-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "28 Days Later"
+            }
+          ],
+          "startDate": "2003-07-20"
+        },
+        {
+          "endDate": "2003-08-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bruce Almighty"
+            }
+          ],
+          "startDate": "2003-07-27"
+        },
+        {
+          "endDate": "2003-08-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Terminator 3: Rise of the Machines"
+            }
+          ],
+          "startDate": "2003-08-03"
+        },
+        {
+          "endDate": "2003-09-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
+            }
+          ],
+          "startDate": "2003-08-17"
+        },
+        {
+          "endDate": "2003-09-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The League of Extraordinary Gentlemen"
+            }
+          ],
+          "startDate": "2003-09-07"
+        },
+        {
+          "endDate": "2003-09-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Football Days"
+            }
+          ],
+          "startDate": "2003-09-21"
+        },
+        {
+          "endDate": "2003-10-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Italian Job"
+            }
+          ],
+          "startDate": "2003-09-28"
+        },
+        {
+          "endDate": "2003-10-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys II"
+            }
+          ],
+          "startDate": "2003-10-05"
+        },
+        {
+          "endDate": "2003-10-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Underworld"
+            }
+          ],
+          "startDate": "2003-10-19"
+        },
+        {
+          "endDate": "2003-11-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Intolerable Cruelty"
+            }
+          ],
+          "startDate": "2003-10-26"
+        },
+        {
+          "endDate": "2003-11-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Matrix Revolutions"
+            }
+          ],
+          "startDate": "2003-11-09"
+        },
+        {
+          "endDate": "2003-11-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Love Actually"
+            }
+          ],
+          "startDate": "2003-11-23"
+        },
+        {
+          "endDate": "2003-12-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Finding Nemo"
+            }
+          ],
+          "startDate": "2003-11-30"
+        },
+        {
+          "endDate": "2003-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lord of the Rings: The Return of the King"
+            }
+          ],
+          "startDate": "2003-12-21"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2003-01-05",
+          "endDate": "2003-01-25",
           "items": [
             {
               "artist": "Danni Úbeda",
@@ -13,12 +347,188 @@
             }
           ],
           "startDate": "2003-01-01"
+        },
+        {
+          "endDate": "2003-02-01",
+          "items": [
+            {
+              "artist": "Vega",
+              "rank": 1,
+              "title": "Quiero ser tú"
+            }
+          ],
+          "startDate": "2003-01-26"
+        },
+        {
+          "endDate": "2003-02-08",
+          "items": [
+            {
+              "artist": "Tony Santos",
+              "rank": 1,
+              "title": "Un hombre así"
+            }
+          ],
+          "startDate": "2003-02-02"
+        },
+        {
+          "endDate": "2003-04-12",
+          "items": [
+            {
+              "artist": "Miguel Nández",
+              "rank": 1,
+              "title": "Amiga soledad"
+            }
+          ],
+          "startDate": "2003-02-09"
+        },
+        {
+          "endDate": "2003-04-26",
+          "items": [
+            {
+              "artist": "Beth",
+              "rank": 1,
+              "title": "Dime"
+            }
+          ],
+          "startDate": "2003-04-13"
+        },
+        {
+          "endDate": "2003-05-17",
+          "items": [
+            {
+              "artist": "Hugo",
+              "rank": 1,
+              "title": "El templo de tu cuerpo"
+            }
+          ],
+          "startDate": "2003-04-27"
+        },
+        {
+          "endDate": "2003-06-14",
+          "items": [
+            {
+              "artist": "Ricky Martin",
+              "rank": 1,
+              "title": "Jaleo"
+            }
+          ],
+          "startDate": "2003-05-18"
+        },
+        {
+          "endDate": "2003-06-21",
+          "items": [
+            {
+              "artist": "Dinio",
+              "rank": 1,
+              "title": "Hasiendo el amor"
+            }
+          ],
+          "startDate": "2003-06-15"
+        },
+        {
+          "endDate": "2003-07-05",
+          "items": [
+            {
+              "artist": "La buena Vida",
+              "rank": 1,
+              "title": "Los planetas"
+            }
+          ],
+          "startDate": "2003-06-22"
+        },
+        {
+          "endDate": "2003-07-26",
+          "items": [
+            {
+              "artist": "Joaquín Sabina",
+              "rank": 1,
+              "title": "Motivos de un sentimiento"
+            }
+          ],
+          "startDate": "2003-07-06"
+        },
+        {
+          "endDate": "2003-11-01",
+          "items": [
+            {
+              "artist": "Fran Perea",
+              "rank": 1,
+              "title": "Uno mas son siete"
+            }
+          ],
+          "startDate": "2003-07-27"
+        },
+        {
+          "endDate": "2003-11-08",
+          "items": [
+            {
+              "artist": "Pecos",
+              "rank": 1,
+              "title": "Pecos Collection"
+            }
+          ],
+          "startDate": "2003-11-02"
+        },
+        {
+          "endDate": "2003-11-15",
+          "items": [
+            {
+              "artist": "Kylie Minogue",
+              "rank": 1,
+              "title": "Slow"
+            }
+          ],
+          "startDate": "2003-11-09"
+        },
+        {
+          "endDate": "2003-11-29",
+          "items": [
+            {
+              "artist": "Britney Spears featuring Madonna",
+              "rank": 1,
+              "title": "Me Against the Music"
+            }
+          ],
+          "startDate": "2003-11-16"
+        },
+        {
+          "endDate": "2003-12-13",
+          "items": [
+            {
+              "artist": "David Bustamante",
+              "rank": 1,
+              "title": "Devuélveme el aire"
+            }
+          ],
+          "startDate": "2003-11-30"
+        },
+        {
+          "endDate": "2003-12-27",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Nothing Fails"
+            }
+          ],
+          "startDate": "2003-12-14"
+        },
+        {
+          "endDate": "2003-12-31",
+          "items": [
+            {
+              "artist": "Fran Perea",
+              "rank": 1,
+              "title": "Uno mas son siete"
+            }
+          ],
+          "startDate": "2003-12-28"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2008-12-28",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "ES",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
@@ -26,7 +536,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "89038e42f2be7f352a8b061f028b15aea777e0c579e58065b0848ec95abef179",
+  "contentHash": "1f8c7616ae3c3813bf7a177947a3612f126cd9b0c756e90635b982d97a00de91",
   "country": "es",
   "schemaVersion": 1,
   "year": 2003

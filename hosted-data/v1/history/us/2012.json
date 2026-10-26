@@ -1,5 +1,379 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2012-01-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible - Ghost Protocol"
+            }
+          ],
+          "startDate": "2012-01-01"
+        },
+        {
+          "endDate": "2012-01-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Devil Inside"
+            }
+          ],
+          "startDate": "2012-01-08"
+        },
+        {
+          "endDate": "2012-01-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Contraband"
+            }
+          ],
+          "startDate": "2012-01-15"
+        },
+        {
+          "endDate": "2012-01-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Underworld: Awakening"
+            }
+          ],
+          "startDate": "2012-01-22"
+        },
+        {
+          "endDate": "2012-02-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Grey"
+            }
+          ],
+          "startDate": "2012-01-29"
+        },
+        {
+          "endDate": "2012-02-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Chronicle"
+            }
+          ],
+          "startDate": "2012-02-05"
+        },
+        {
+          "endDate": "2012-02-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Vow"
+            }
+          ],
+          "startDate": "2012-02-12"
+        },
+        {
+          "endDate": "2012-02-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Safe House"
+            }
+          ],
+          "startDate": "2012-02-19"
+        },
+        {
+          "endDate": "2012-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Act of Valor"
+            }
+          ],
+          "startDate": "2012-02-26"
+        },
+        {
+          "endDate": "2012-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lorax"
+            }
+          ],
+          "startDate": "2012-03-04"
+        },
+        {
+          "endDate": "2012-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "21 Jump Street"
+            }
+          ],
+          "startDate": "2012-03-18"
+        },
+        {
+          "endDate": "2012-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games"
+            }
+          ],
+          "startDate": "2012-03-25"
+        },
+        {
+          "endDate": "2012-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Think Like a Man"
+            }
+          ],
+          "startDate": "2012-04-22"
+        },
+        {
+          "endDate": "2012-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Avengers"
+            }
+          ],
+          "startDate": "2012-05-06"
+        },
+        {
+          "endDate": "2012-06-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Men in Black 3"
+            }
+          ],
+          "startDate": "2012-05-27"
+        },
+        {
+          "endDate": "2012-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Snow White and the Huntsman"
+            }
+          ],
+          "startDate": "2012-06-03"
+        },
+        {
+          "endDate": "2012-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Madagascar 3: Europe's Most Wanted"
+            }
+          ],
+          "startDate": "2012-06-10"
+        },
+        {
+          "endDate": "2012-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Brave"
+            }
+          ],
+          "startDate": "2012-06-24"
+        },
+        {
+          "endDate": "2012-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ted"
+            }
+          ],
+          "startDate": "2012-07-01"
+        },
+        {
+          "endDate": "2012-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Amazing Spider-Man"
+            }
+          ],
+          "startDate": "2012-07-08"
+        },
+        {
+          "endDate": "2012-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ice Age: Continental Drift"
+            }
+          ],
+          "startDate": "2012-07-15"
+        },
+        {
+          "endDate": "2012-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Dark Knight Rises"
+            }
+          ],
+          "startDate": "2012-07-22"
+        },
+        {
+          "endDate": "2012-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bourne Legacy"
+            }
+          ],
+          "startDate": "2012-08-12"
+        },
+        {
+          "endDate": "2012-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Expendables 2"
+            }
+          ],
+          "startDate": "2012-08-19"
+        },
+        {
+          "endDate": "2012-09-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Possession"
+            }
+          ],
+          "startDate": "2012-09-02"
+        },
+        {
+          "endDate": "2012-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Resident Evil: Retribution"
+            }
+          ],
+          "startDate": "2012-09-16"
+        },
+        {
+          "endDate": "2012-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "End of Watch"
+            }
+          ],
+          "startDate": "2012-09-23"
+        },
+        {
+          "endDate": "2012-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hotel Transylvania"
+            }
+          ],
+          "startDate": "2012-09-30"
+        },
+        {
+          "endDate": "2012-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Taken 2"
+            }
+          ],
+          "startDate": "2012-10-07"
+        },
+        {
+          "endDate": "2012-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Paranormal Activity 4"
+            }
+          ],
+          "startDate": "2012-10-21"
+        },
+        {
+          "endDate": "2012-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Argo"
+            }
+          ],
+          "startDate": "2012-10-28"
+        },
+        {
+          "endDate": "2012-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wreck-It Ralph"
+            }
+          ],
+          "startDate": "2012-11-04"
+        },
+        {
+          "endDate": "2012-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Skyfall"
+            }
+          ],
+          "startDate": "2012-11-11"
+        },
+        {
+          "endDate": "2012-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Twilight Saga: Breaking Dawn - Part 2"
+            }
+          ],
+          "startDate": "2012-11-18"
+        },
+        {
+          "endDate": "2012-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Skyfall"
+            }
+          ],
+          "startDate": "2012-12-09"
+        },
+        {
+          "endDate": "2012-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hobbit: An Unexpected Journey"
+            }
+          ],
+          "startDate": "2012-12-16"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -13,6 +387,28 @@
             }
           ],
           "startDate": "2012-01-01"
+        },
+        {
+          "endDate": "2012-01-20",
+          "items": [
+            {
+              "artist": "LMFAO",
+              "rank": 1,
+              "title": "Sexy and I Know It"
+            }
+          ],
+          "startDate": "2012-01-07"
+        },
+        {
+          "endDate": "2012-02-03",
+          "items": [
+            {
+              "artist": "Rihanna featuring Calvin Harris",
+              "rank": 1,
+              "title": "We Found Love"
+            }
+          ],
+          "startDate": "2012-01-21"
         },
         {
           "endDate": "2012-02-17",
@@ -31,10 +427,32 @@
             {
               "artist": "Kelly Clarkson",
               "rank": 1,
-              "title": "Stronger"
+              "title": "Stronger (What Doesn't Kill You)"
             }
           ],
           "startDate": "2012-02-18"
+        },
+        {
+          "endDate": "2012-03-09",
+          "items": [
+            {
+              "artist": "Katy Perry",
+              "rank": 1,
+              "title": "Part of Me"
+            }
+          ],
+          "startDate": "2012-03-03"
+        },
+        {
+          "endDate": "2012-03-16",
+          "items": [
+            {
+              "artist": "Kelly Clarkson",
+              "rank": 1,
+              "title": "Stronger (What Doesn't Kill You)"
+            }
+          ],
+          "startDate": "2012-03-10"
         },
         {
           "endDate": "2012-04-27",
@@ -53,7 +471,7 @@
             {
               "artist": "Gotye featuring Kimbra",
               "rank": 1,
-              "title": "Somebody That I Used to Know\"♪"
+              "title": "Somebody That I Used to Know"
             }
           ],
           "startDate": "2012-04-28"
@@ -81,7 +499,7 @@
           "startDate": "2012-08-25"
         },
         {
-          "endDate": "2012-09-21",
+          "endDate": "2012-09-14",
           "items": [
             {
               "artist": "Taylor Swift",
@@ -89,7 +507,29 @@
               "title": "We Are Never Ever Getting Back Together"
             }
           ],
-          "startDate": "2012-09-08"
+          "startDate": "2012-09-01"
+        },
+        {
+          "endDate": "2012-09-21",
+          "items": [
+            {
+              "artist": "Flo Rida",
+              "rank": 1,
+              "title": "Whistle"
+            }
+          ],
+          "startDate": "2012-09-15"
+        },
+        {
+          "endDate": "2012-09-28",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "We Are Never Ever Getting Back Together"
+            }
+          ],
+          "startDate": "2012-09-22"
         },
         {
           "endDate": "2012-11-30",
@@ -128,7 +568,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -136,7 +576,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "78bdab28deea81e949c511d9515b504d88b748125e4537c4fb4d5b5fe01be1d0",
+  "contentHash": "6eb493b490c94d593b41c51aa5cc95733b0076d16ffb8c98ca22e70a98aa93a7",
   "country": "us",
   "schemaVersion": 1,
   "year": 2012

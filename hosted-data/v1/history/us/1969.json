@@ -108,7 +108,7 @@
             {
               "artist": "The Archies",
               "rank": 1,
-              "title": "Sugar, Sugar\"♪"
+              "title": "Sugar, Sugar"
             }
           ],
           "startDate": "1969-09-20"
@@ -152,7 +152,7 @@
             {
               "artist": "The Beatles",
               "rank": 1,
-              "title": "Come Together\"/\"Something"
+              "title": "Come Together / Something"
             }
           ],
           "startDate": "1969-11-29"
@@ -194,7 +194,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -202,7 +202,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "4ba2cf9e899b93bd02848b5853e1da9219e1a5eede6dd25e67a6a22929356732",
+  "contentHash": "905363b0df48d603b45b1676d0905359370a749c8354e120da34b5782d965292",
   "country": "us",
   "schemaVersion": 1,
   "year": 1969

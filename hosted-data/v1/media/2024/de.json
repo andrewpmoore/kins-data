@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2024",
+      "items": [
+        {
+          "author": "Sebastian Fitzek",
+          "creator": "Sebastian Fitzek",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Das Kalendermädchen",
+          "url": "https://books.google.com/books?q=Das+Kalendermädchen"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2024/"
+      },
+      "title": "DE print bestseller",
+      "year": 2024
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2024",
+      "items": [
+        {
+          "author": "Marc-Uwe Kling",
+          "creator": "Marc-Uwe Kling",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Das Neinhorn und die Schlangeweile",
+          "url": "https://books.google.com/books?q=Das+Neinhorn+und+die+Schlangeweile"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2024/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2024
+    },
     "games": {
       "id": "media-awardWinner-2024",
       "items": [
@@ -25,7 +71,7 @@
       "year": 2024
     }
   },
-  "contentHash": "601026df6b3a0ad7fd941d21e8bf46631d3e7ea93b6e09bad6b54bdba32cf2fd",
+  "contentHash": "a95305ba8d0d68424d72e1d3ae854bba2c5ecb99085d7351602c060ab44e1c4e",
   "country": "de",
   "schemaVersion": 1,
   "year": 2024

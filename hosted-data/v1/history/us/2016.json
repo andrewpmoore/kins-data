@@ -1,10 +1,324 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2016-01-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode VII - The Force Awakens"
+            }
+          ],
+          "startDate": "2016-01-01"
+        },
+        {
+          "endDate": "2016-01-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ride Along 2"
+            }
+          ],
+          "startDate": "2016-01-17"
+        },
+        {
+          "endDate": "2016-01-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Revenant"
+            }
+          ],
+          "startDate": "2016-01-24"
+        },
+        {
+          "endDate": "2016-02-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kung Fu Panda 3"
+            }
+          ],
+          "startDate": "2016-01-31"
+        },
+        {
+          "endDate": "2016-03-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Deadpool"
+            }
+          ],
+          "startDate": "2016-02-14"
+        },
+        {
+          "endDate": "2016-03-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Zootopia"
+            }
+          ],
+          "startDate": "2016-03-06"
+        },
+        {
+          "endDate": "2016-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Batman v Superman: Dawn of Justice"
+            }
+          ],
+          "startDate": "2016-03-27"
+        },
+        {
+          "endDate": "2016-04-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Boss"
+            }
+          ],
+          "startDate": "2016-04-10"
+        },
+        {
+          "endDate": "2016-05-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Jungle Book"
+            }
+          ],
+          "startDate": "2016-04-17"
+        },
+        {
+          "endDate": "2016-05-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Captain America: Civil War"
+            }
+          ],
+          "startDate": "2016-05-08"
+        },
+        {
+          "endDate": "2016-05-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Angry Birds Movie"
+            }
+          ],
+          "startDate": "2016-05-22"
+        },
+        {
+          "endDate": "2016-06-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X-Men: Apocalypse"
+            }
+          ],
+          "startDate": "2016-05-29"
+        },
+        {
+          "endDate": "2016-06-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Teenage Mutant Ninja Turtles: Out of the Shadows"
+            }
+          ],
+          "startDate": "2016-06-05"
+        },
+        {
+          "endDate": "2016-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Conjuring 2"
+            }
+          ],
+          "startDate": "2016-06-12"
+        },
+        {
+          "endDate": "2016-07-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Finding Dory"
+            }
+          ],
+          "startDate": "2016-06-19"
+        },
+        {
+          "endDate": "2016-07-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Secret Life of Pets"
+            }
+          ],
+          "startDate": "2016-07-10"
+        },
+        {
+          "endDate": "2016-07-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Trek Beyond"
+            }
+          ],
+          "startDate": "2016-07-24"
+        },
+        {
+          "endDate": "2016-08-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jason Bourne"
+            }
+          ],
+          "startDate": "2016-07-31"
+        },
+        {
+          "endDate": "2016-08-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Suicide Squad"
+            }
+          ],
+          "startDate": "2016-08-07"
+        },
+        {
+          "endDate": "2016-09-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Don't Breathe"
+            }
+          ],
+          "startDate": "2016-08-28"
+        },
+        {
+          "endDate": "2016-09-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sully"
+            }
+          ],
+          "startDate": "2016-09-11"
+        },
+        {
+          "endDate": "2016-10-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Magnificent Seven"
+            }
+          ],
+          "startDate": "2016-09-25"
+        },
+        {
+          "endDate": "2016-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Miss Peregrine's Home for Peculiar Children"
+            }
+          ],
+          "startDate": "2016-10-02"
+        },
+        {
+          "endDate": "2016-10-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Girl on the Train"
+            }
+          ],
+          "startDate": "2016-10-09"
+        },
+        {
+          "endDate": "2016-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Accountant"
+            }
+          ],
+          "startDate": "2016-10-16"
+        },
+        {
+          "endDate": "2016-11-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Boo! A Madea Halloween"
+            }
+          ],
+          "startDate": "2016-10-23"
+        },
+        {
+          "endDate": "2016-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Strange"
+            }
+          ],
+          "startDate": "2016-11-06"
+        },
+        {
+          "endDate": "2016-11-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Beasts and Where to Find Them"
+            }
+          ],
+          "startDate": "2016-11-20"
+        },
+        {
+          "endDate": "2016-12-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moana"
+            }
+          ],
+          "startDate": "2016-11-27"
+        },
+        {
+          "endDate": "2016-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rogue One: A Star Wars Story"
+            }
+          ],
+          "startDate": "2016-12-18"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2016-01-22",
+          "endDate": "2016-01-15",
           "items": [
             {
               "artist": "Adele",
@@ -15,7 +329,7 @@
           "startDate": "2016-01-01"
         },
         {
-          "endDate": "2016-02-12",
+          "endDate": "2016-02-05",
           "items": [
             {
               "artist": "Justin Bieber",
@@ -23,21 +337,43 @@
               "title": "Sorry"
             }
           ],
-          "startDate": "2016-01-23"
+          "startDate": "2016-01-16"
+        },
+        {
+          "endDate": "2016-02-12",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Love Yourself"
+            }
+          ],
+          "startDate": "2016-02-06"
         },
         {
           "endDate": "2016-02-19",
           "items": [
             {
-              "artist": "Justin Bieber",
+              "artist": "Zayn",
               "rank": 1,
-              "title": "Love Yourself\"♪"
+              "title": "Pillowtalk"
             }
           ],
           "startDate": "2016-02-13"
         },
         {
-          "endDate": "2016-05-06",
+          "endDate": "2016-02-26",
+          "items": [
+            {
+              "artist": "Justin Bieber",
+              "rank": 1,
+              "title": "Love Yourself"
+            }
+          ],
+          "startDate": "2016-02-20"
+        },
+        {
+          "endDate": "2016-04-29",
           "items": [
             {
               "artist": "Rihanna featuring Drake",
@@ -45,10 +381,10 @@
               "title": "Work"
             }
           ],
-          "startDate": "2016-03-05"
+          "startDate": "2016-02-27"
         },
         {
-          "endDate": "2016-05-20",
+          "endDate": "2016-05-13",
           "items": [
             {
               "artist": "Desiigner",
@@ -56,15 +392,26 @@
               "title": "Panda"
             }
           ],
-          "startDate": "2016-05-07"
+          "startDate": "2016-04-30"
+        },
+        {
+          "endDate": "2016-05-20",
+          "items": [
+            {
+              "artist": "Drake featuring Wizkid and Kyla",
+              "rank": 1,
+              "title": "One Dance"
+            }
+          ],
+          "startDate": "2016-05-14"
         },
         {
           "endDate": "2016-05-27",
           "items": [
             {
-              "artist": "Drake featuring WizKid and Kyla",
+              "artist": "Justin Timberlake",
               "rank": 1,
-              "title": "One Dance"
+              "title": "Can't Stop the Feeling!"
             }
           ],
           "startDate": "2016-05-21"
@@ -73,15 +420,15 @@
           "endDate": "2016-07-29",
           "items": [
             {
-              "artist": "Drake featuring WizKid and Kyla",
+              "artist": "Drake featuring Wizkid and Kyla",
               "rank": 1,
               "title": "One Dance"
             }
           ],
-          "startDate": "2016-06-04"
+          "startDate": "2016-05-28"
         },
         {
-          "endDate": "2016-09-02",
+          "endDate": "2016-08-26",
           "items": [
             {
               "artist": "Sia featuring Sean Paul",
@@ -89,10 +436,10 @@
               "title": "Cheap Thrills"
             }
           ],
-          "startDate": "2016-08-06"
+          "startDate": "2016-07-30"
         },
         {
-          "endDate": "2016-11-25",
+          "endDate": "2016-11-18",
           "items": [
             {
               "artist": "The Chainsmokers featuring Halsey",
@@ -100,10 +447,10 @@
               "title": "Closer"
             }
           ],
-          "startDate": "2016-09-03"
+          "startDate": "2016-08-27"
         },
         {
-          "endDate": "2016-12-31",
+          "endDate": "2016-12-30",
           "items": [
             {
               "artist": "Rae Sremmurd featuring Gucci Mane",
@@ -111,13 +458,24 @@
               "title": "Black Beatles"
             }
           ],
-          "startDate": "2016-11-26"
+          "startDate": "2016-11-19"
+        },
+        {
+          "endDate": "2016-12-31",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Hello"
+            }
+          ],
+          "startDate": "2016-12-31"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -125,7 +483,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "fa669d3c2469edebd91c502d7f3a01c9fb6eca61c176e85f3aa69d6b4ceb4a14",
+  "contentHash": "753e2ce0d8425f4e42ff68d68598c56a9eea99078e224f2053cb9ed2cafa7570",
   "country": "us",
   "schemaVersion": 1,
   "year": 2016

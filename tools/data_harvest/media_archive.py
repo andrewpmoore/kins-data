@@ -109,7 +109,7 @@ def update_archive(output: Path, seed: Path, countries: list[str], date: str) ->
         if value.get("schemaVersion") != 1 or str(year) != path.parent.name:
             continue
         charts = {key: chart for key, chart in value.get("charts", {}).items()
-                  if (key == "games" and country == "WORLD") or (key == "television" and country == "GB")}
+                  if (key == "games" and country == "WORLD") or (key == "television" and country == "GB") or (key in ("adultBooks", "childrensBooks"))}
         if charts:
             archive.setdefault(str(year), {}).setdefault(country, {}).update(charts)
     for year, territories in harvest.read_json(seed, {}).items():

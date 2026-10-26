@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2013",
+      "items": [
+        {
+          "author": "Timur Vermes",
+          "creator": "Timur Vermes",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Er ist wieder da",
+          "url": "https://books.google.com/books?q=Er+ist+wieder+da"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2013/"
+      },
+      "title": "DE print bestseller",
+      "year": 2013
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2013",
+      "items": [
+        {
+          "author": "John Green",
+          "creator": "John Green",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Das Schicksal ist ein mieser Verräter",
+          "url": "https://books.google.com/books?q=Das+Schicksal+ist+ein+mieser+Verräter"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2013/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2013
+    },
     "games": {
       "id": "media-awardWinner-2013",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2013
     }
   },
-  "contentHash": "a11749413e2ced9337e1b27cf13fec2dc0365bf8eb7c600cce00b0f3ae5b942a",
+  "contentHash": "40fa0e66f4da235fb403ed1c04a1d02fb1c5aa821008969b705fe42a8b6fced0",
   "country": "de",
   "schemaVersion": 1,
   "year": 2013

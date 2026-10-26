@@ -1,0 +1,502 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2019-01-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aquaman"
+            }
+          ],
+          "startDate": "2019-01-01"
+        },
+        {
+          "endDate": "2019-01-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Glass"
+            }
+          ],
+          "startDate": "2019-01-20"
+        },
+        {
+          "endDate": "2019-02-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Creed II"
+            }
+          ],
+          "startDate": "2019-01-27"
+        },
+        {
+          "endDate": "2019-02-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bajo el mismo techo"
+            }
+          ],
+          "startDate": "2019-02-03"
+        },
+        {
+          "endDate": "2019-02-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Green Book"
+            }
+          ],
+          "startDate": "2019-02-10"
+        },
+        {
+          "endDate": "2019-02-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Alita: Battle Angel"
+            }
+          ],
+          "startDate": "2019-02-17"
+        },
+        {
+          "endDate": "2019-03-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "How to Train Your Dragon: The Hidden World"
+            }
+          ],
+          "startDate": "2019-02-24"
+        },
+        {
+          "endDate": "2019-03-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Captain Marvel"
+            }
+          ],
+          "startDate": "2019-03-10"
+        },
+        {
+          "endDate": "2019-04-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dumbo"
+            }
+          ],
+          "startDate": "2019-03-31"
+        },
+        {
+          "endDate": "2019-04-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Can Quit Whenever I Want"
+            }
+          ],
+          "startDate": "2019-04-14"
+        },
+        {
+          "endDate": "2019-04-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lo dejo cuando quiera"
+            }
+          ],
+          "startDate": "2019-04-21"
+        },
+        {
+          "endDate": "2019-05-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avengers: Endgame"
+            }
+          ],
+          "startDate": "2019-04-28"
+        },
+        {
+          "endDate": "2019-05-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pokémon: Detective Pikachu"
+            }
+          ],
+          "startDate": "2019-05-12"
+        },
+        {
+          "endDate": "2019-06-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Aladdin"
+            }
+          ],
+          "startDate": "2019-05-26"
+        },
+        {
+          "endDate": "2019-07-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Toy Story 4"
+            }
+          ],
+          "startDate": "2019-06-23"
+        },
+        {
+          "endDate": "2019-07-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Far from Home"
+            }
+          ],
+          "startDate": "2019-07-07"
+        },
+        {
+          "endDate": "2019-08-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lion King"
+            }
+          ],
+          "startDate": "2019-07-21"
+        },
+        {
+          "endDate": "2019-08-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Secret Life of Pets 2"
+            }
+          ],
+          "startDate": "2019-08-11"
+        },
+        {
+          "endDate": "2019-09-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Once Upon a Time in... Hollywood"
+            }
+          ],
+          "startDate": "2019-08-18"
+        },
+        {
+          "endDate": "2019-09-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "It: Chapter Two"
+            }
+          ],
+          "startDate": "2019-09-08"
+        },
+        {
+          "endDate": "2019-09-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ad Astra"
+            }
+          ],
+          "startDate": "2019-09-22"
+        },
+        {
+          "endDate": "2019-10-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "While at War"
+            }
+          ],
+          "startDate": "2019-09-29"
+        },
+        {
+          "endDate": "2019-10-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Joker"
+            }
+          ],
+          "startDate": "2019-10-06"
+        },
+        {
+          "endDate": "2019-11-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Maleficent: Mistress of Evil"
+            }
+          ],
+          "startDate": "2019-10-20"
+        },
+        {
+          "endDate": "2019-11-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Joker"
+            }
+          ],
+          "startDate": "2019-11-03"
+        },
+        {
+          "endDate": "2019-11-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "If I Were Rich Man"
+            }
+          ],
+          "startDate": "2019-11-17"
+        },
+        {
+          "endDate": "2019-12-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Frozen II"
+            }
+          ],
+          "startDate": "2019-11-24"
+        },
+        {
+          "endDate": "2019-12-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jumanji: The Next Level"
+            }
+          ],
+          "startDate": "2019-12-15"
+        },
+        {
+          "endDate": "2019-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode IX - The Rise of Skywalker"
+            }
+          ],
+          "startDate": "2019-12-22"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2019-01-23",
+          "items": [
+            {
+              "artist": "Paulo Londra",
+              "rank": 1,
+              "title": "Adán y Eva"
+            }
+          ],
+          "startDate": "2019-01-01"
+        },
+        {
+          "endDate": "2019-02-13",
+          "items": [
+            {
+              "artist": "Anuel AA and Karol G",
+              "rank": 1,
+              "title": "Secreto"
+            }
+          ],
+          "startDate": "2019-01-24"
+        },
+        {
+          "endDate": "2019-03-13",
+          "items": [
+            {
+              "artist": "Daddy Yankee featuring Snow",
+              "rank": 1,
+              "title": "Con Calma"
+            }
+          ],
+          "startDate": "2019-02-14"
+        },
+        {
+          "endDate": "2019-04-03",
+          "items": [
+            {
+              "artist": "Don Patricio and Cruz Cafuné",
+              "rank": 1,
+              "title": "Contando lunares"
+            }
+          ],
+          "startDate": "2019-03-14"
+        },
+        {
+          "endDate": "2019-05-15",
+          "items": [
+            {
+              "artist": "Rosalía, J Balvin and El Guincho",
+              "rank": 1,
+              "title": "Con Altura"
+            }
+          ],
+          "startDate": "2019-04-04"
+        },
+        {
+          "endDate": "2019-05-29",
+          "items": [
+            {
+              "artist": "Lunay, Daddy Yankee and Bad Bunny",
+              "rank": 1,
+              "title": "Soltera\" (Remix)"
+            }
+          ],
+          "startDate": "2019-05-16"
+        },
+        {
+          "endDate": "2019-06-05",
+          "items": [
+            {
+              "artist": "Sech and Darell",
+              "rank": 1,
+              "title": "Otro Trago"
+            }
+          ],
+          "startDate": "2019-05-30"
+        },
+        {
+          "endDate": "2019-06-12",
+          "items": [
+            {
+              "artist": "Rosalía",
+              "rank": 1,
+              "title": "Aute Cuture"
+            }
+          ],
+          "startDate": "2019-06-06"
+        },
+        {
+          "endDate": "2019-07-10",
+          "items": [
+            {
+              "artist": "Bad Bunny and Tainy",
+              "rank": 1,
+              "title": "Callaíta"
+            }
+          ],
+          "startDate": "2019-06-13"
+        },
+        {
+          "endDate": "2019-07-17",
+          "items": [
+            {
+              "artist": "Rosalía",
+              "rank": 1,
+              "title": "Milionària"
+            }
+          ],
+          "startDate": "2019-07-11"
+        },
+        {
+          "endDate": "2019-07-24",
+          "items": [
+            {
+              "artist": "Bad Bunny and Tainy",
+              "rank": 1,
+              "title": "Callaíta"
+            }
+          ],
+          "startDate": "2019-07-18"
+        },
+        {
+          "endDate": "2019-08-28",
+          "items": [
+            {
+              "artist": "Anuel AA, Daddy Yankee and Karol G featuring J Balvin and Ozuna",
+              "rank": 1,
+              "title": "China"
+            }
+          ],
+          "startDate": "2019-07-25"
+        },
+        {
+          "endDate": "2019-10-02",
+          "items": [
+            {
+              "artist": "Rosalía and Ozuna",
+              "rank": 1,
+              "title": "Yo x Ti, Tú x Mí"
+            }
+          ],
+          "startDate": "2019-08-29"
+        },
+        {
+          "endDate": "2019-10-30",
+          "items": [
+            {
+              "artist": "Anuel AA, Daddy Yankee and Karol G featuring J Balvin and Ozuna",
+              "rank": 1,
+              "title": "China"
+            }
+          ],
+          "startDate": "2019-10-03"
+        },
+        {
+          "endDate": "2019-12-04",
+          "items": [
+            {
+              "artist": "Omar Montes and Bad Gyal",
+              "rank": 1,
+              "title": "Alocao"
+            }
+          ],
+          "startDate": "2019-10-31"
+        },
+        {
+          "endDate": "2019-12-31",
+          "items": [
+            {
+              "artist": "Karol G and Nicki Minaj",
+              "rank": 1,
+              "title": "Tusa"
+            }
+          ],
+          "startDate": "2019-12-05"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "f7b60773cd2bef00502ced16756cddab71ade6ecc112daffb1f1b0c6b2310fef",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2019
+}

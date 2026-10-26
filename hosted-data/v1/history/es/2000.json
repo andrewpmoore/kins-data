@@ -1,5 +1,329 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2000-01-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sixth Sense"
+            }
+          ],
+          "startDate": "2000-01-01"
+        },
+        {
+          "endDate": "2000-01-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Beauty"
+            }
+          ],
+          "startDate": "2000-01-23"
+        },
+        {
+          "endDate": "2000-02-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Toy Story 2"
+            }
+          ],
+          "startDate": "2000-01-30"
+        },
+        {
+          "endDate": "2000-02-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bone Collector"
+            }
+          ],
+          "startDate": "2000-02-06"
+        },
+        {
+          "endDate": "2000-03-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Beauty"
+            }
+          ],
+          "startDate": "2000-02-20"
+        },
+        {
+          "endDate": "2000-03-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Cider House Rules"
+            }
+          ],
+          "startDate": "2000-03-05"
+        },
+        {
+          "endDate": "2000-03-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Beach"
+            }
+          ],
+          "startDate": "2000-03-12"
+        },
+        {
+          "endDate": "2000-03-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Ninth Gate"
+            }
+          ],
+          "startDate": "2000-03-19"
+        },
+        {
+          "endDate": "2000-04-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Beauty"
+            }
+          ],
+          "startDate": "2000-03-26"
+        },
+        {
+          "endDate": "2000-04-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Green Mile"
+            }
+          ],
+          "startDate": "2000-04-09"
+        },
+        {
+          "endDate": "2000-04-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pokémon: The First Movie"
+            }
+          ],
+          "startDate": "2000-04-23"
+        },
+        {
+          "endDate": "2000-05-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Erin Brockovich"
+            }
+          ],
+          "startDate": "2000-04-30"
+        },
+        {
+          "endDate": "2000-06-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gladiator"
+            }
+          ],
+          "startDate": "2000-05-14"
+        },
+        {
+          "endDate": "2000-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Chicken Run"
+            }
+          ],
+          "startDate": "2000-06-25"
+        },
+        {
+          "endDate": "2000-07-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible 2"
+            }
+          ],
+          "startDate": "2000-07-02"
+        },
+        {
+          "endDate": "2000-08-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Perfect Storm"
+            }
+          ],
+          "startDate": "2000-07-30"
+        },
+        {
+          "endDate": "2000-08-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Gone in 60 Seconds"
+            }
+          ],
+          "startDate": "2000-08-06"
+        },
+        {
+          "endDate": "2000-08-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nutty Professor II: The Klumps"
+            }
+          ],
+          "startDate": "2000-08-13"
+        },
+        {
+          "endDate": "2000-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scary Movie"
+            }
+          ],
+          "startDate": "2000-08-20"
+        },
+        {
+          "endDate": "2000-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hollow Man"
+            }
+          ],
+          "startDate": "2000-09-03"
+        },
+        {
+          "endDate": "2000-09-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Space Cowboys"
+            }
+          ],
+          "startDate": "2000-09-17"
+        },
+        {
+          "endDate": "2000-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La comunidad"
+            }
+          ],
+          "startDate": "2000-09-24"
+        },
+        {
+          "endDate": "2000-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "X-Men"
+            }
+          ],
+          "startDate": "2000-10-01"
+        },
+        {
+          "endDate": "2000-10-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "La comunidad"
+            }
+          ],
+          "startDate": "2000-10-08"
+        },
+        {
+          "endDate": "2000-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Coyote Ugly"
+            }
+          ],
+          "startDate": "2000-10-22"
+        },
+        {
+          "endDate": "2000-11-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Snatch"
+            }
+          ],
+          "startDate": "2000-10-29"
+        },
+        {
+          "endDate": "2000-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Charlie's Angels"
+            }
+          ],
+          "startDate": "2000-11-05"
+        },
+        {
+          "endDate": "2000-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "What Lies Beneath"
+            }
+          ],
+          "startDate": "2000-11-19"
+        },
+        {
+          "endDate": "2000-12-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dinosaur"
+            }
+          ],
+          "startDate": "2000-11-26"
+        },
+        {
+          "endDate": "2000-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Meet the Parents"
+            }
+          ],
+          "startDate": "2000-12-10"
+        },
+        {
+          "endDate": "2000-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unbreakable"
+            }
+          ],
+          "startDate": "2000-12-24"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -31,7 +355,7 @@
             {
               "artist": "Ace of Base",
               "rank": 1,
-              "title": "C'est la Vie"
+              "title": "C'est la Vie (Always 21)"
             }
           ],
           "startDate": "2000-02-05"
@@ -108,7 +432,7 @@
             {
               "artist": "Ketama",
               "rank": 1,
-              "title": "Agustito"
+              "title": "Agustito (Ketama Goes to Miami Remix)"
             }
           ],
           "startDate": "2000-04-22"
@@ -163,7 +487,7 @@
             {
               "artist": "Tony Sweat",
               "rank": 1,
-              "title": "Sex Machine"
+              "title": "Sex Machine (Get Up I Feel Like Being Like A Sex Machine)"
             }
           ],
           "startDate": "2000-06-03"
@@ -240,7 +564,7 @@
             {
               "artist": "Modjo",
               "rank": 1,
-              "title": "Lady"
+              "title": "Lady (Hear Me Tonight)"
             }
           ],
           "startDate": "2000-10-14"
@@ -271,7 +595,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2008-12-28",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "ES",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
@@ -279,7 +603,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "32a5a61376e91f2f2b079e226543cbada1aa694b97c49ea21b82853b92297874",
+  "contentHash": "ba962828280e21eb22813d5ce04c61c5aba67a24fc5bec768fb84bc769c84c03",
   "country": "es",
   "schemaVersion": 1,
   "year": 2000

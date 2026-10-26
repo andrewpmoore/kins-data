@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2010",
+      "items": [
+        {
+          "author": "María Dueñas",
+          "creator": "María Dueñas",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "El tiempo entre costuras",
+          "url": "https://books.google.com/books?q=El+tiempo+entre+costuras"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2010.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2010
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2010",
+      "items": [
+        {
+          "author": "Suzanne Collins",
+          "creator": "Suzanne Collins",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Los juegos del hambre",
+          "url": "https://books.google.com/books?q=Los+juegos+del+hambre"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2010.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2010
+    },
     "games": {
       "id": "media-awardWinner-2010",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2010
     }
   },
-  "contentHash": "7f18004fd51cb7b25f3958c4229ab18a7d0dffb3f8d34b22eb4fc2f0a6ba2c39",
+  "contentHash": "24c49eed58f8cc9f83550d411afb51a73a22376f8a752d1ffe1c3700b3118fe5",
   "country": "es",
   "schemaVersion": 1,
   "year": 2010

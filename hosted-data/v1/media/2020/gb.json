@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2020",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/works/OL21208765W",
+          "artworkURL": "https://covers.openlibrary.org/b/id/10523448-L.jpg?default=false",
+          "author": "Charlie Mackesy",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/works/OL21208765W",
+          "coverURL": "https://covers.openlibrary.org/b/id/10523448-L.jpg?default=false",
+          "creator": "Charlie Mackesy",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "The Boy, the Mole, the Fox and the Horse",
+          "url": "https://books.google.com/books?q=intitle%3A%22The+Boy%2C+the+Mole%2C+the+Fox+and+the+Horse%22+inauthor%3A%22Charlie+Mackesy%22"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://www.publishingireland.com/wp-content/uploads/2022/06/BookScan-TCM-Annual-Summary-20211.pdf"
+      },
+      "title": "UK print bestseller",
+      "year": 2020
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2020",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780008305833",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780008305833-L.jpg?default=false",
+          "author": "David Walliams",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780008305833",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780008305833-L.jpg?default=false",
+          "creator": "David Walliams",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Code Name Bananas",
+          "url": "https://books.google.com/books?vid=ISBN:9780008305833"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "NIQ BookData",
+        "territory": "GB",
+        "url": "https://cdn.ymaws.com/www.cilip.org.uk/resource/resmgr/cilip_events/nielsen_book_research__the_u.pdf"
+      },
+      "title": "UK children's bestseller",
+      "year": 2020
+    },
     "games": {
       "id": "media-awardWinner-2020",
       "items": [
@@ -9,7 +67,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
           "rank": 1,
           "releaseYear": 2020,
-          "title": "The Last of Us Part II"
+          "title": "The Last of Us Part II",
+          "trailerURL": "https://www.youtube.com/watch?v=W2Wnvvj33Wo"
         }
       ],
       "source": {
@@ -46,7 +105,7 @@
       "year": 2020
     }
   },
-  "contentHash": "df86bd002a5e1d913e8c26959c91ab46198a2fd7297df50e402fa8cb22d48516",
+  "contentHash": "c30b38f6134ab7e7f122fcfe133bc87d3372aa5c7c747f082cd8883e2acae743",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2020

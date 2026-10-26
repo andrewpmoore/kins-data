@@ -1,10 +1,344 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2022-01-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: No Way Home"
+            }
+          ],
+          "startDate": "2022-01-01"
+        },
+        {
+          "endDate": "2022-01-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scream"
+            }
+          ],
+          "startDate": "2022-01-16"
+        },
+        {
+          "endDate": "2022-02-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: No Way Home"
+            }
+          ],
+          "startDate": "2022-01-23"
+        },
+        {
+          "endDate": "2022-02-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jackass Forever"
+            }
+          ],
+          "startDate": "2022-02-06"
+        },
+        {
+          "endDate": "2022-02-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Death on the Nile"
+            }
+          ],
+          "startDate": "2022-02-13"
+        },
+        {
+          "endDate": "2022-03-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Uncharted"
+            }
+          ],
+          "startDate": "2022-02-20"
+        },
+        {
+          "endDate": "2022-03-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Batman"
+            }
+          ],
+          "startDate": "2022-03-06"
+        },
+        {
+          "endDate": "2022-04-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Lost City"
+            }
+          ],
+          "startDate": "2022-03-27"
+        },
+        {
+          "endDate": "2022-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Morbius"
+            }
+          ],
+          "startDate": "2022-04-03"
+        },
+        {
+          "endDate": "2022-04-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sonic the Hedgehog 2"
+            }
+          ],
+          "startDate": "2022-04-10"
+        },
+        {
+          "endDate": "2022-04-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Beasts: The Secrets of Dumbledore"
+            }
+          ],
+          "startDate": "2022-04-17"
+        },
+        {
+          "endDate": "2022-05-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bad Guys"
+            }
+          ],
+          "startDate": "2022-04-24"
+        },
+        {
+          "endDate": "2022-05-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Doctor Strange in the Multiverse of Madness"
+            }
+          ],
+          "startDate": "2022-05-08"
+        },
+        {
+          "endDate": "2022-06-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Top Gun: Maverick"
+            }
+          ],
+          "startDate": "2022-05-29"
+        },
+        {
+          "endDate": "2022-06-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jurassic World: Dominion"
+            }
+          ],
+          "startDate": "2022-06-12"
+        },
+        {
+          "endDate": "2022-07-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Elvis"
+            }
+          ],
+          "startDate": "2022-06-26"
+        },
+        {
+          "endDate": "2022-07-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Minions: The Rise of Gru"
+            }
+          ],
+          "startDate": "2022-07-03"
+        },
+        {
+          "endDate": "2022-07-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Thor: Love and Thunder"
+            }
+          ],
+          "startDate": "2022-07-10"
+        },
+        {
+          "endDate": "2022-07-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nope"
+            }
+          ],
+          "startDate": "2022-07-24"
+        },
+        {
+          "endDate": "2022-08-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "DC League of Super-Pets"
+            }
+          ],
+          "startDate": "2022-07-31"
+        },
+        {
+          "endDate": "2022-08-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bullet Train"
+            }
+          ],
+          "startDate": "2022-08-07"
+        },
+        {
+          "endDate": "2022-08-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dragon Ball Super: Super Hero"
+            }
+          ],
+          "startDate": "2022-08-21"
+        },
+        {
+          "endDate": "2022-09-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Invitation"
+            }
+          ],
+          "startDate": "2022-08-28"
+        },
+        {
+          "endDate": "2022-09-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Top Gun: Maverick"
+            }
+          ],
+          "startDate": "2022-09-04"
+        },
+        {
+          "endDate": "2022-09-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Barbarian"
+            }
+          ],
+          "startDate": "2022-09-11"
+        },
+        {
+          "endDate": "2022-09-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Woman King"
+            }
+          ],
+          "startDate": "2022-09-18"
+        },
+        {
+          "endDate": "2022-10-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Don't Worry Darling"
+            }
+          ],
+          "startDate": "2022-09-25"
+        },
+        {
+          "endDate": "2022-10-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Smile"
+            }
+          ],
+          "startDate": "2022-10-02"
+        },
+        {
+          "endDate": "2022-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Halloween Ends"
+            }
+          ],
+          "startDate": "2022-10-16"
+        },
+        {
+          "endDate": "2022-11-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Adam"
+            }
+          ],
+          "startDate": "2022-10-23"
+        },
+        {
+          "endDate": "2022-12-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Panther: Wakanda Forever"
+            }
+          ],
+          "startDate": "2022-11-13"
+        },
+        {
+          "endDate": "2022-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar: The Way of Water"
+            }
+          ],
+          "startDate": "2022-12-18"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "US",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2022-01-14",
+          "endDate": "2022-01-07",
           "items": [
             {
               "artist": "Mariah Carey",
@@ -12,54 +346,120 @@
               "title": "All I Want for Christmas Is You"
             }
           ],
+          "startDate": "2022-01-01"
+        },
+        {
+          "endDate": "2022-01-28",
+          "items": [
+            {
+              "artist": "Adele",
+              "rank": 1,
+              "title": "Easy on Me"
+            }
+          ],
           "startDate": "2022-01-08"
         },
         {
-          "endDate": "2022-03-11",
+          "endDate": "2022-03-04",
           "items": [
             {
-              "artist": "Carolina Gaitán, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz and the Encanto cast",
+              "artist": "Adassa, Stephanie Beatriz, Mauro Castillo, Rhenzy Feliz, Carolina Gaitán and Diane Guerrero",
               "rank": 1,
               "title": "We Don't Talk About Bruno"
             }
           ],
-          "startDate": "2022-02-05"
+          "startDate": "2022-01-29"
+        },
+        {
+          "endDate": "2022-04-08",
+          "items": [
+            {
+              "artist": "Glass Animals",
+              "rank": 1,
+              "title": "Heat Waves"
+            }
+          ],
+          "startDate": "2022-03-05"
         },
         {
           "endDate": "2022-04-15",
           "items": [
             {
-              "artist": "Glass Animals",
+              "artist": "Harry Styles",
               "rank": 1,
-              "title": "Heat Waves\" ♪"
+              "title": "As It Was"
             }
           ],
-          "startDate": "2022-03-12"
+          "startDate": "2022-04-09"
         },
         {
           "endDate": "2022-04-22",
           "items": [
             {
-              "artist": "Harry Styles",
+              "artist": "Jack Harlow",
               "rank": 1,
-              "title": "As It Was"
+              "title": "First Class"
             }
           ],
           "startDate": "2022-04-16"
         },
         {
+          "endDate": "2022-05-06",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "As It Was"
+            }
+          ],
+          "startDate": "2022-04-23"
+        },
+        {
+          "endDate": "2022-05-13",
+          "items": [
+            {
+              "artist": "Future featuring Drake and Tems",
+              "rank": 1,
+              "title": "Wait for U"
+            }
+          ],
+          "startDate": "2022-05-07"
+        },
+        {
+          "endDate": "2022-05-27",
+          "items": [
+            {
+              "artist": "Jack Harlow",
+              "rank": 1,
+              "title": "First Class"
+            }
+          ],
+          "startDate": "2022-05-14"
+        },
+        {
+          "endDate": "2022-06-24",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "As It Was"
+            }
+          ],
+          "startDate": "2022-05-28"
+        },
+        {
           "endDate": "2022-07-01",
           "items": [
             {
-              "artist": "Harry Styles",
+              "artist": "Drake featuring 21 Savage",
               "rank": 1,
-              "title": "As It Was"
+              "title": "Jimmy Cooks"
             }
           ],
-          "startDate": "2022-05-21"
+          "startDate": "2022-06-25"
         },
         {
-          "endDate": "2022-07-29",
+          "endDate": "2022-07-22",
           "items": [
             {
               "artist": "Harry Styles",
@@ -67,10 +467,10 @@
               "title": "As It Was"
             }
           ],
-          "startDate": "2022-07-09"
+          "startDate": "2022-07-02"
         },
         {
-          "endDate": "2022-08-12",
+          "endDate": "2022-08-05",
           "items": [
             {
               "artist": "Lizzo",
@@ -78,10 +478,10 @@
               "title": "About Damn Time"
             }
           ],
-          "startDate": "2022-07-30"
+          "startDate": "2022-07-23"
         },
         {
-          "endDate": "2022-08-26",
+          "endDate": "2022-08-19",
           "items": [
             {
               "artist": "Beyoncé",
@@ -89,10 +489,10 @@
               "title": "Break My Soul"
             }
           ],
-          "startDate": "2022-08-13"
+          "startDate": "2022-08-06"
         },
         {
-          "endDate": "2022-09-02",
+          "endDate": "2022-08-26",
           "items": [
             {
               "artist": "Nicki Minaj",
@@ -100,10 +500,21 @@
               "title": "Super Freaky Girl"
             }
           ],
+          "startDate": "2022-08-20"
+        },
+        {
+          "endDate": "2022-09-30",
+          "items": [
+            {
+              "artist": "Harry Styles",
+              "rank": 1,
+              "title": "As It Was"
+            }
+          ],
           "startDate": "2022-08-27"
         },
         {
-          "endDate": "2022-10-28",
+          "endDate": "2022-10-21",
           "items": [
             {
               "artist": "Steve Lacy",
@@ -111,10 +522,10 @@
               "title": "Bad Habit"
             }
           ],
-          "startDate": "2022-10-08"
+          "startDate": "2022-10-01"
         },
         {
-          "endDate": "2022-11-04",
+          "endDate": "2022-10-28",
           "items": [
             {
               "artist": "Sam Smith and Kim Petras",
@@ -122,10 +533,10 @@
               "title": "Unholy"
             }
           ],
-          "startDate": "2022-10-29"
+          "startDate": "2022-10-22"
         },
         {
-          "endDate": "2022-12-16",
+          "endDate": "2022-12-09",
           "items": [
             {
               "artist": "Taylor Swift",
@@ -133,7 +544,7 @@
               "title": "Anti-Hero"
             }
           ],
-          "startDate": "2022-11-05"
+          "startDate": "2022-10-29"
         },
         {
           "endDate": "2022-12-31",
@@ -144,13 +555,13 @@
               "title": "All I Want for Christmas Is You"
             }
           ],
-          "startDate": "2022-12-31"
+          "startDate": "2022-12-10"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -158,7 +569,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "e9a2b9a52e973c5594ee83315654bba8f191493dff0cc6d8b7f52198ae728ea2",
+  "contentHash": "a013fed302673cec57e766b18e653e739a14415d9a99ef40dbd41f5d771d17c9",
   "country": "us",
   "schemaVersion": 1,
   "year": 2022

@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2022",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781982143657",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781982143657-L.jpg?default=false",
+          "author": "Colleen Hoover",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781982143657",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781982143657-L.jpg?default=false",
+          "creator": "Colleen Hoover",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "It Ends with Us",
+          "url": "https://books.google.com/books?vid=ISBN:9781982143657"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2022-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2022
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2022",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781443196284",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781443196284-L.jpg?default=false",
+          "author": "Dav Pilkey",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781443196284",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781443196284-L.jpg?default=false",
+          "creator": "Dav Pilkey",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Cat Kid Comic Club: On Purpose",
+          "url": "https://books.google.com/books?vid=ISBN:9781443196284"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2022-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2022
+    },
     "games": {
       "id": "media-awardWinner-2022",
       "items": [
@@ -25,7 +83,7 @@
       "year": 2022
     }
   },
-  "contentHash": "2a15c28c9a3e42c228238104bfa1b7f7b178552a06ca5983aaab424f09c987ce",
+  "contentHash": "9aec6ba2097f3a19ed8a21281541ac85cf6626b95bab64e4067a8024e78cdb56",
   "country": "us",
   "schemaVersion": 1,
   "year": 2022

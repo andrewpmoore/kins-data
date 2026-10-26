@@ -42,7 +42,7 @@
             {
               "artist": "Six60",
               "rank": 1,
-              "title": "Rise Up 2.0\"†"
+              "title": "Rise Up 2.0"
             }
           ],
           "startDate": "2011-01-24"
@@ -97,7 +97,7 @@
             {
               "artist": "Avalanche City",
               "rank": 1,
-              "title": "Love Love Love\"†"
+              "title": "Love Love Love"
             }
           ],
           "startDate": "2011-03-14"
@@ -158,6 +158,17 @@
           "startDate": "2011-09-05"
         },
         {
+          "endDate": "2011-10-23",
+          "items": [
+            {
+              "artist": "Gotye featuring Kimbra",
+              "rank": 1,
+              "title": "Somebody That I Used to Know"
+            }
+          ],
+          "startDate": "2011-09-12"
+        },
+        {
           "endDate": "2011-12-25",
           "items": [
             {
@@ -191,7 +202,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "4f471bfbb2cf50139eebd2db279fcb6a269a10fbf74f3503d819d736f9730c9d",
+  "contentHash": "fe4f69602dc702523eae3f75f716a9537501a1a59877a06f99dff50ed1ab74e3",
   "country": "nz",
   "schemaVersion": 1,
   "year": 2011

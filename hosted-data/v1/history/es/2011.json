@@ -1,0 +1,529 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2011-01-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Little Fockers"
+            }
+          ],
+          "startDate": "2011-01-01"
+        },
+        {
+          "endDate": "2011-01-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Tourist"
+            }
+          ],
+          "startDate": "2011-01-02"
+        },
+        {
+          "endDate": "2011-01-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Love & Other Drugs"
+            }
+          ],
+          "startDate": "2011-01-16"
+        },
+        {
+          "endDate": "2011-02-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hereafter"
+            }
+          ],
+          "startDate": "2011-01-23"
+        },
+        {
+          "endDate": "2011-02-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tangled"
+            }
+          ],
+          "startDate": "2011-02-06"
+        },
+        {
+          "endDate": "2011-03-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Black Swan"
+            }
+          ],
+          "startDate": "2011-02-20"
+        },
+        {
+          "endDate": "2011-03-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rango"
+            }
+          ],
+          "startDate": "2011-03-06"
+        },
+        {
+          "endDate": "2011-04-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Torrente 4: Lethal Crisis"
+            }
+          ],
+          "startDate": "2011-03-13"
+        },
+        {
+          "endDate": "2011-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Battle Los Angeles"
+            }
+          ],
+          "startDate": "2011-04-03"
+        },
+        {
+          "endDate": "2011-04-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rio"
+            }
+          ],
+          "startDate": "2011-04-10"
+        },
+        {
+          "endDate": "2011-05-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast Five"
+            }
+          ],
+          "startDate": "2011-05-01"
+        },
+        {
+          "endDate": "2011-05-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Midnight in Paris"
+            }
+          ],
+          "startDate": "2011-05-15"
+        },
+        {
+          "endDate": "2011-06-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: On Stranger Tides"
+            }
+          ],
+          "startDate": "2011-05-22"
+        },
+        {
+          "endDate": "2011-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Insidious"
+            }
+          ],
+          "startDate": "2011-06-12"
+        },
+        {
+          "endDate": "2011-06-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kung Fu Panda 2"
+            }
+          ],
+          "startDate": "2011-06-19"
+        },
+        {
+          "endDate": "2011-07-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hangover Part II"
+            }
+          ],
+          "startDate": "2011-06-26"
+        },
+        {
+          "endDate": "2011-07-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers: Dark of the Moon"
+            }
+          ],
+          "startDate": "2011-07-03"
+        },
+        {
+          "endDate": "2011-07-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cars 2"
+            }
+          ],
+          "startDate": "2011-07-10"
+        },
+        {
+          "endDate": "2011-07-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Deathly Hallows: Part 2"
+            }
+          ],
+          "startDate": "2011-07-17"
+        },
+        {
+          "endDate": "2011-08-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Smurfs"
+            }
+          ],
+          "startDate": "2011-07-31"
+        },
+        {
+          "endDate": "2011-08-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rise of the Planet of the Apes"
+            }
+          ],
+          "startDate": "2011-08-07"
+        },
+        {
+          "endDate": "2011-09-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Super 8"
+            }
+          ],
+          "startDate": "2011-08-21"
+        },
+        {
+          "endDate": "2011-09-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cowboys & Aliens"
+            }
+          ],
+          "startDate": "2011-09-04"
+        },
+        {
+          "endDate": "2011-09-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Debt"
+            }
+          ],
+          "startDate": "2011-09-11"
+        },
+        {
+          "endDate": "2011-09-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Tree of Life"
+            }
+          ],
+          "startDate": "2011-09-18"
+        },
+        {
+          "endDate": "2011-10-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Friends with Benefits"
+            }
+          ],
+          "startDate": "2011-09-25"
+        },
+        {
+          "endDate": "2011-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Johnny English Reborn"
+            }
+          ],
+          "startDate": "2011-10-02"
+        },
+        {
+          "endDate": "2011-10-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Intruders"
+            }
+          ],
+          "startDate": "2011-10-09"
+        },
+        {
+          "endDate": "2011-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Contagion"
+            }
+          ],
+          "startDate": "2011-10-16"
+        },
+        {
+          "endDate": "2011-10-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Paranormal Activity 3"
+            }
+          ],
+          "startDate": "2011-10-23"
+        },
+        {
+          "endDate": "2011-11-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Adventures of Tintin"
+            }
+          ],
+          "startDate": "2011-10-30"
+        },
+        {
+          "endDate": "2011-11-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Twilight Saga: Breaking Dawn - Part 1"
+            }
+          ],
+          "startDate": "2011-11-20"
+        },
+        {
+          "endDate": "2011-12-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Puss in Boots"
+            }
+          ],
+          "startDate": "2011-11-27"
+        },
+        {
+          "endDate": "2011-12-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible - Ghost Protocol"
+            }
+          ],
+          "startDate": "2011-12-18"
+        },
+        {
+          "endDate": "2011-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Immortals"
+            }
+          ],
+          "startDate": "2011-12-25"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2011-01-01",
+          "items": [
+            {
+              "artist": "Amaia Montero",
+              "rank": 1,
+              "title": "Chiquitita"
+            }
+          ],
+          "startDate": "2011-01-01"
+        },
+        {
+          "endDate": "2011-01-29",
+          "items": [
+            {
+              "artist": "Shakira (feat. El Cata)",
+              "rank": 1,
+              "title": "Loca"
+            }
+          ],
+          "startDate": "2011-01-02"
+        },
+        {
+          "endDate": "2011-02-12",
+          "items": [
+            {
+              "artist": "The Black Eyed Peas",
+              "rank": 1,
+              "title": "The Time (Dirty Bit)"
+            }
+          ],
+          "startDate": "2011-01-30"
+        },
+        {
+          "endDate": "2011-02-26",
+          "items": [
+            {
+              "artist": "Lady Gaga",
+              "rank": 1,
+              "title": "Born This Way"
+            }
+          ],
+          "startDate": "2011-02-13"
+        },
+        {
+          "endDate": "2011-03-12",
+          "items": [
+            {
+              "artist": "Pablo Alborán",
+              "rank": 1,
+              "title": "Solamente Tú"
+            }
+          ],
+          "startDate": "2011-02-27"
+        },
+        {
+          "endDate": "2011-06-25",
+          "items": [
+            {
+              "artist": "Jennifer Lopez (feat. Pitbull)",
+              "rank": 1,
+              "title": "On the Floor"
+            }
+          ],
+          "startDate": "2011-03-13"
+        },
+        {
+          "endDate": "2011-07-30",
+          "items": [
+            {
+              "artist": "Shakira (feat. Pitbull)",
+              "rank": 1,
+              "title": "Rabiosa"
+            }
+          ],
+          "startDate": "2011-06-26"
+        },
+        {
+          "endDate": "2011-10-01",
+          "items": [
+            {
+              "artist": "Don Omar & Lucenzo",
+              "rank": 1,
+              "title": "Danza Kuduro"
+            }
+          ],
+          "startDate": "2011-07-31"
+        },
+        {
+          "endDate": "2011-10-15",
+          "items": [
+            {
+              "artist": "Pitbull (feat. Marc Anthony)",
+              "rank": 1,
+              "title": "Rain Over Me"
+            }
+          ],
+          "startDate": "2011-10-02"
+        },
+        {
+          "endDate": "2011-10-22",
+          "items": [
+            {
+              "artist": "Juan Magán (feat. Crossfire)",
+              "rank": 1,
+              "title": "Bailando por Ahí"
+            }
+          ],
+          "startDate": "2011-10-16"
+        },
+        {
+          "endDate": "2011-11-12",
+          "items": [
+            {
+              "artist": "Pitbull (feat. Marc Anthony)",
+              "rank": 1,
+              "title": "Rain Over Me"
+            }
+          ],
+          "startDate": "2011-10-23"
+        },
+        {
+          "endDate": "2011-11-26",
+          "items": [
+            {
+              "artist": "Pablo Alborán (feat. Carminho)",
+              "rank": 1,
+              "title": "Perdóname"
+            }
+          ],
+          "startDate": "2011-11-13"
+        },
+        {
+          "endDate": "2011-12-31",
+          "items": [
+            {
+              "artist": "Michel Teló",
+              "rank": 1,
+              "title": "Ai Se Eu Te Pego"
+            }
+          ],
+          "startDate": "2011-11-27"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-16",
+        "provider": "Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "848bde9c6259e2c1351db078a04241774edb1c2fe8f345a42d02bb8e66f5c7a1",
+  "country": "es",
+  "schemaVersion": 1,
+  "year": 2011
+}

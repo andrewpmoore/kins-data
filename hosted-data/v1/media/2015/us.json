@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2015",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780062409904",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780062409904-L.jpg?default=false",
+          "author": "Harper Lee",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780062409904",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780062409904-L.jpg?default=false",
+          "creator": "Harper Lee",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "Go Set a Watchman",
+          "url": "https://books.google.com/books?vid=ISBN:9780062409904"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2015-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2015
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2015",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780141364728",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780141364728-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780141364728",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780141364728-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Diary of a Wimpy Kid: Old School",
+          "url": "https://books.google.com/books?vid=ISBN:9780141364728"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2015-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2015
+    },
     "games": {
       "id": "media-awardWinner-2015",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2015
     }
   },
-  "contentHash": "f8d2a7e5d573a9cc8f696d828bd3c6cd26d570a1de2c0fff1b6f50fe16f31f53",
+  "contentHash": "e8c3890d6ba2a9b09724f0df679d699fcaabb6225c3bd07aaa440d8f4b5f89a1",
   "country": "us",
   "schemaVersion": 1,
   "year": 2015

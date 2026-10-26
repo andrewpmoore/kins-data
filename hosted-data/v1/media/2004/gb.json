@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2004",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780552149518",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780552149518-L.jpg?default=false",
+          "author": "Dan Brown",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780552149518",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780552149518-L.jpg?default=false",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "The Da Vinci Code",
+          "url": "https://books.google.com/books?vid=ISBN:9780552149518"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/uk/2004/dec/29/books.booksnews"
+      },
+      "title": "UK print bestseller",
+      "year": 2004
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2004",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780099450252",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780099450252-L.jpg?default=false",
+          "author": "Mark Haddon",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780099450252",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780099450252-L.jpg?default=false",
+          "creator": "Mark Haddon",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "The Curious Incident of the Dog in the Night-Time",
+          "url": "https://books.google.com/books?vid=ISBN:9780099450252"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/uk/2004/dec/29/books.booksnews"
+      },
+      "title": "UK children's bestseller",
+      "year": 2004
+    },
     "games": {
       "id": "media-awardWinner-2004",
       "items": [
@@ -46,7 +104,7 @@
       "year": 2004
     }
   },
-  "contentHash": "828d3e2f260bc2eb231bd89ddd0d3833ebb5d29dca0f0661099e3a92f45acbf9",
+  "contentHash": "b94bd26fefb4aaed286b9b64f5748d50b4d2c57ad0f9027583f1eeacb0e7f00a",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2004

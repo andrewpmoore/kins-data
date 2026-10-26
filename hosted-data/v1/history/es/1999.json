@@ -1,5 +1,29 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1999-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Sixth Sense"
+            }
+          ],
+          "startDate": "1999-12-26"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -249,7 +273,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2008-12-28",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "ES",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
@@ -257,7 +281,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "91dfd222113cd1e2c657dd4a280837d9d33425dddff316c251e7ee17a4d2c643",
+  "contentHash": "2d70028e720f19013dbec46eaca63e06a18e5129ad7b069368709d35bc1d46e5",
   "country": "es",
   "schemaVersion": 1,
   "year": 1999

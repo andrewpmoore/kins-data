@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2018",
+      "items": [
+        {
+          "author": "Robert Seethaler",
+          "creator": "Robert Seethaler",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Das Feld",
+          "url": "https://books.google.com/books?q=Das+Feld"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2018/"
+      },
+      "title": "DE print bestseller",
+      "year": 2018
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2018",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Gregs Tagebuch 13: Eiskalt erwischt!",
+          "url": "https://books.google.com/books?q=Gregs+Tagebuch+13:+Eiskalt+erwischt!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2018/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2018
+    },
     "games": {
       "id": "media-awardWinner-2018",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
           "rank": 1,
           "releaseYear": 2018,
-          "title": "God of War"
+          "title": "God of War",
+          "trailerURL": "https://www.youtube.com/watch?v=jCB36uNrZ9I"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2018
     }
   },
-  "contentHash": "f2a0195ba3ac19c998b82b89f69854e3a2e9525adff3ca6e65b12c049e221619",
+  "contentHash": "d81e5049b95c2d47ae785d493a7eb0276b6c28b77b74b5537291a41f1e313fd8",
   "country": "de",
   "schemaVersion": 1,
   "year": 2018

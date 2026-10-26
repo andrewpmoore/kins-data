@@ -1,0 +1,575 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2023-02-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Avatar: The Way of Water"
+            }
+          ],
+          "startDate": "2023-01-01"
+        },
+        {
+          "endDate": "2023-02-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Puss in Boots: The Last Wish"
+            }
+          ],
+          "startDate": "2023-02-05"
+        },
+        {
+          "endDate": "2023-03-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ant-Man and the Wasp: Quantumania"
+            }
+          ],
+          "startDate": "2023-02-19"
+        },
+        {
+          "endDate": "2023-03-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Creed III"
+            }
+          ],
+          "startDate": "2023-03-05"
+        },
+        {
+          "endDate": "2023-03-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shazam! Fury of the Gods"
+            }
+          ],
+          "startDate": "2023-03-19"
+        },
+        {
+          "endDate": "2023-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "John Wick: Chapter 4"
+            }
+          ],
+          "startDate": "2023-03-26"
+        },
+        {
+          "endDate": "2023-04-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dungeons & Dragons: Honor Among Thieves"
+            }
+          ],
+          "startDate": "2023-04-02"
+        },
+        {
+          "endDate": "2023-05-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Super Mario Bros. Movie"
+            }
+          ],
+          "startDate": "2023-04-09"
+        },
+        {
+          "endDate": "2023-05-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Guardians of the Galaxy Vol. 3"
+            }
+          ],
+          "startDate": "2023-05-07"
+        },
+        {
+          "endDate": "2023-05-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast X"
+            }
+          ],
+          "startDate": "2023-05-21"
+        },
+        {
+          "endDate": "2023-06-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Little Mermaid"
+            }
+          ],
+          "startDate": "2023-05-28"
+        },
+        {
+          "endDate": "2023-06-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Across the Spider-Verse"
+            }
+          ],
+          "startDate": "2023-06-04"
+        },
+        {
+          "endDate": "2023-06-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Flash"
+            }
+          ],
+          "startDate": "2023-06-18"
+        },
+        {
+          "endDate": "2023-07-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Across the Spider-Verse"
+            }
+          ],
+          "startDate": "2023-06-25"
+        },
+        {
+          "endDate": "2023-07-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Indiana Jones and the Dial of Destiny"
+            }
+          ],
+          "startDate": "2023-07-02"
+        },
+        {
+          "endDate": "2023-07-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Elemental"
+            }
+          ],
+          "startDate": "2023-07-09"
+        },
+        {
+          "endDate": "2023-07-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible - Dead Reckoning Part One"
+            }
+          ],
+          "startDate": "2023-07-16"
+        },
+        {
+          "endDate": "2023-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Barbie"
+            }
+          ],
+          "startDate": "2023-07-23"
+        },
+        {
+          "endDate": "2023-09-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Equalizer 3"
+            }
+          ],
+          "startDate": "2023-09-03"
+        },
+        {
+          "endDate": "2023-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Nun II"
+            }
+          ],
+          "startDate": "2023-09-10"
+        },
+        {
+          "endDate": "2023-09-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Haunting in Venice"
+            }
+          ],
+          "startDate": "2023-09-17"
+        },
+        {
+          "endDate": "2023-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Creator"
+            }
+          ],
+          "startDate": "2023-10-01"
+        },
+        {
+          "endDate": "2023-10-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Exorcist: Believer"
+            }
+          ],
+          "startDate": "2023-10-08"
+        },
+        {
+          "endDate": "2023-10-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Taylor Swift: The Eras Tour"
+            }
+          ],
+          "startDate": "2023-10-15"
+        },
+        {
+          "endDate": "2023-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trolls Band Together"
+            }
+          ],
+          "startDate": "2023-10-22"
+        },
+        {
+          "endDate": "2023-11-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Five Nights at Freddy's"
+            }
+          ],
+          "startDate": "2023-10-29"
+        },
+        {
+          "endDate": "2023-11-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trolls Band Together"
+            }
+          ],
+          "startDate": "2023-11-05"
+        },
+        {
+          "endDate": "2023-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Marvels"
+            }
+          ],
+          "startDate": "2023-11-12"
+        },
+        {
+          "endDate": "2023-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games: The Ballad of Songbirds & Snakes"
+            }
+          ],
+          "startDate": "2023-11-19"
+        },
+        {
+          "endDate": "2023-12-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Napoleon"
+            }
+          ],
+          "startDate": "2023-11-26"
+        },
+        {
+          "endDate": "2023-12-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonka"
+            }
+          ],
+          "startDate": "2023-12-10"
+        },
+        {
+          "endDate": "2023-12-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wish"
+            }
+          ],
+          "startDate": "2023-12-24"
+        },
+        {
+          "endDate": "2023-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wonka"
+            }
+          ],
+          "startDate": "2023-12-31"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2023-01-04",
+          "items": [
+            {
+              "artist": "LadBaby",
+              "rank": 1,
+              "title": "Food Aid"
+            }
+          ],
+          "startDate": "2023-01-01"
+        },
+        {
+          "endDate": "2023-01-11",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Last Christmas"
+            }
+          ],
+          "startDate": "2023-01-05"
+        },
+        {
+          "endDate": "2023-01-18",
+          "items": [
+            {
+              "artist": "Raye featuring 070 Shake",
+              "rank": 1,
+              "title": "Escapism"
+            }
+          ],
+          "startDate": "2023-01-12"
+        },
+        {
+          "endDate": "2023-01-25",
+          "items": [
+            {
+              "artist": "Lewis Capaldi",
+              "rank": 1,
+              "title": "Pointless"
+            }
+          ],
+          "startDate": "2023-01-19"
+        },
+        {
+          "endDate": "2023-04-05",
+          "items": [
+            {
+              "artist": "Miley Cyrus",
+              "rank": 1,
+              "title": "Flowers"
+            }
+          ],
+          "startDate": "2023-01-26"
+        },
+        {
+          "endDate": "2023-04-12",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "Eyes Closed"
+            }
+          ],
+          "startDate": "2023-04-06"
+        },
+        {
+          "endDate": "2023-04-26",
+          "items": [
+            {
+              "artist": "Calvin Harris and Ellie Goulding",
+              "rank": 1,
+              "title": "Miracle"
+            }
+          ],
+          "startDate": "2023-04-13"
+        },
+        {
+          "endDate": "2023-05-03",
+          "items": [
+            {
+              "artist": "Lewis Capaldi",
+              "rank": 1,
+              "title": "Wish You the Best"
+            }
+          ],
+          "startDate": "2023-04-27"
+        },
+        {
+          "endDate": "2023-06-14",
+          "items": [
+            {
+              "artist": "Calvin Harris and Ellie Goulding",
+              "rank": 1,
+              "title": "Miracle"
+            }
+          ],
+          "startDate": "2023-05-04"
+        },
+        {
+          "endDate": "2023-08-23",
+          "items": [
+            {
+              "artist": "Dave and Central Cee",
+              "rank": 1,
+              "title": "Sprinter"
+            }
+          ],
+          "startDate": "2023-06-15"
+        },
+        {
+          "endDate": "2023-08-30",
+          "items": [
+            {
+              "artist": "Billie Eilish",
+              "rank": 1,
+              "title": "What Was I Made For?"
+            }
+          ],
+          "startDate": "2023-08-24"
+        },
+        {
+          "endDate": "2023-09-06",
+          "items": [
+            {
+              "artist": "Dua Lipa",
+              "rank": 1,
+              "title": "Dance the Night"
+            }
+          ],
+          "startDate": "2023-08-31"
+        },
+        {
+          "endDate": "2023-09-13",
+          "items": [
+            {
+              "artist": "Olivia Rodrigo",
+              "rank": 1,
+              "title": "Vampire"
+            }
+          ],
+          "startDate": "2023-09-07"
+        },
+        {
+          "endDate": "2023-10-18",
+          "items": [
+            {
+              "artist": "Doja Cat",
+              "rank": 1,
+              "title": "Paint the Town Red"
+            }
+          ],
+          "startDate": "2023-09-14"
+        },
+        {
+          "endDate": "2023-11-08",
+          "items": [
+            {
+              "artist": "Kenya Grace",
+              "rank": 1,
+              "title": "Strangers"
+            }
+          ],
+          "startDate": "2023-10-19"
+        },
+        {
+          "endDate": "2023-11-15",
+          "items": [
+            {
+              "artist": "Taylor Swift",
+              "rank": 1,
+              "title": "Is It Over Now?"
+            }
+          ],
+          "startDate": "2023-11-09"
+        },
+        {
+          "endDate": "2023-11-22",
+          "items": [
+            {
+              "artist": "The Beatles",
+              "rank": 1,
+              "title": "Now and Then"
+            }
+          ],
+          "startDate": "2023-11-16"
+        },
+        {
+          "endDate": "2023-12-13",
+          "items": [
+            {
+              "artist": "Jack Harlow",
+              "rank": 1,
+              "title": "Lovin on Me"
+            }
+          ],
+          "startDate": "2023-11-23"
+        },
+        {
+          "endDate": "2023-12-31",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Last Christmas"
+            }
+          ],
+          "startDate": "2023-12-14"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-15",
+        "provider": "Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "69cc5bc4d4b7a948056054d34a96b2ee1160dd659d1b4aed1bc294ebe986b5f6",
+  "country": "gb",
+  "schemaVersion": 1,
+  "year": 2023
+}

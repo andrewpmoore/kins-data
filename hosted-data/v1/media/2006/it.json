@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2006",
+      "items": [
+        {
+          "author": "Roberto Saviano",
+          "creator": "Roberto Saviano",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "Gomorra",
+          "url": "https://books.google.com/books?q=Gomorra"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2006.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2006
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2006",
+      "items": [
+        {
+          "author": "Christopher Paolini",
+          "creator": "Christopher Paolini",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Eragon",
+          "url": "https://books.google.com/books?q=Eragon"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2006.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2006
+    },
+    "games": {
+      "id": "media-awardWinner-2006",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2006&idGame=111",
+          "artworkURL": "https://www.interactive.org/images/games/2006_god_of_war_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2005,
+          "title": "God of War"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2006&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2006
+    }
+  },
+  "contentHash": "76df14ba0cfe8bb8a48bbdcc9fc7a8832dc0b5ceceb8b2998770691639c01c27",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2006
+}

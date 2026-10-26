@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2014",
+      "items": [
+        {
+          "author": "John Green",
+          "creator": "John Green",
+          "rank": 1,
+          "scope": "Libro de mayor venta · España",
+          "title": "Bajo la misma estrella",
+          "url": "https://books.google.com/books?q=Bajo+la+misma+estrella"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro de mayor venta · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2014.aspx"
+      },
+      "title": "ES print bestseller",
+      "year": 2014
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2014",
+      "items": [
+        {
+          "author": "John Green",
+          "creator": "John Green",
+          "rank": 1,
+          "scope": "Libro infantil y juvenil más vendido · España",
+          "title": "Bajo la misma estrella",
+          "url": "https://books.google.com/books?q=Bajo+la+misma+estrella"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Libro infantil y juvenil más vendido · España",
+        "observedAt": "2026-10-21",
+        "provider": "FGEE / GfK",
+        "territory": "ES",
+        "url": "https://www.federacioneditores.org/el-sector-del-libro/comercio-interior/2014.aspx"
+      },
+      "title": "ES children's bestseller",
+      "year": 2014
+    },
     "games": {
       "id": "media-awardWinner-2014",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2014
     }
   },
-  "contentHash": "1390fcfba75d3416f0e27a1577d63d7292588e10d84607906c00c79c2279d88e",
+  "contentHash": "faaab62d6baf0fc456368cd68f051fef9e9a1ba22af6e0a63248b667f456c837",
   "country": "es",
   "schemaVersion": 1,
   "year": 2014

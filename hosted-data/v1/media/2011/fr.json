@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2011",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781908313041",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781908313041-L.jpg?default=false",
+          "author": "Guillaume Musso",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781908313041",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781908313041-L.jpg?default=false",
+          "creator": "Guillaume Musso",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "L'Appel de l'ange",
+          "url": "https://books.google.com/books?vid=ISBN:9781908313041"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2011"
+      },
+      "title": "FR print bestseller",
+      "year": 2011
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2011",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9791023512359",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9791023512359-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9791023512359",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9791023512359-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Le Journal d'un dégonflé",
+          "url": "https://books.google.com/books?vid=ISBN:9791023512359"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2011"
+      },
+      "title": "FR children's bestseller",
+      "year": 2011
+    },
     "games": {
       "id": "media-awardWinner-2011",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2011
     }
   },
-  "contentHash": "82a29fef93b9c9723e5c9b827143df174401517f7c311f2a3374fababd840d7f",
+  "contentHash": "3e4acb2603b56d2d5b4dfb6e00205b9af8ac116395672201f6bb5ba9952d9d1d",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2011

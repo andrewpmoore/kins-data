@@ -1,10 +1,401 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1981-01-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stir Crazy"
+            }
+          ],
+          "startDate": "1981-01-01"
+        },
+        {
+          "endDate": "1981-01-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "9 to 5"
+            }
+          ],
+          "startDate": "1981-01-04"
+        },
+        {
+          "endDate": "1981-01-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Stir Crazy"
+            }
+          ],
+          "startDate": "1981-01-25"
+        },
+        {
+          "endDate": "1981-02-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Incredible Shrinking Woman"
+            }
+          ],
+          "startDate": "1981-02-01"
+        },
+        {
+          "endDate": "1981-03-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fort Apache, The Bronx"
+            }
+          ],
+          "startDate": "1981-02-08"
+        },
+        {
+          "endDate": "1981-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Back Roads"
+            }
+          ],
+          "startDate": "1981-03-15"
+        },
+        {
+          "endDate": "1981-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Omen III: The Final Conflict"
+            }
+          ],
+          "startDate": "1981-03-22"
+        },
+        {
+          "endDate": "1981-04-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hardly Working"
+            }
+          ],
+          "startDate": "1981-04-05"
+        },
+        {
+          "endDate": "1981-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars"
+            }
+          ],
+          "startDate": "1981-04-12"
+        },
+        {
+          "endDate": "1981-05-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Excalibur"
+            }
+          ],
+          "startDate": "1981-04-26"
+        },
+        {
+          "endDate": "1981-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Friday the 13th Part 2"
+            }
+          ],
+          "startDate": "1981-05-03"
+        },
+        {
+          "endDate": "1981-05-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Happy Birthday to Me"
+            }
+          ],
+          "startDate": "1981-05-17"
+        },
+        {
+          "endDate": "1981-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Four Seasons"
+            }
+          ],
+          "startDate": "1981-05-31"
+        },
+        {
+          "endDate": "1981-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cheech and Chong's Nice Dreams"
+            }
+          ],
+          "startDate": "1981-06-07"
+        },
+        {
+          "endDate": "1981-06-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Raiders of the Lost Ark"
+            }
+          ],
+          "startDate": "1981-06-14"
+        },
+        {
+          "endDate": "1981-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Superman II"
+            }
+          ],
+          "startDate": "1981-06-21"
+        },
+        {
+          "endDate": "1981-07-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Raiders of the Lost Ark"
+            }
+          ],
+          "startDate": "1981-07-19"
+        },
+        {
+          "endDate": "1981-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tarzan, the Ape Man"
+            }
+          ],
+          "startDate": "1981-07-26"
+        },
+        {
+          "endDate": "1981-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Empire Strikes Back"
+            }
+          ],
+          "startDate": "1981-08-02"
+        },
+        {
+          "endDate": "1981-09-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Raiders of the Lost Ark"
+            }
+          ],
+          "startDate": "1981-08-09"
+        },
+        {
+          "endDate": "1981-09-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Arthur"
+            }
+          ],
+          "startDate": "1981-09-13"
+        },
+        {
+          "endDate": "1981-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Continental Divide"
+            }
+          ],
+          "startDate": "1981-09-20"
+        },
+        {
+          "endDate": "1981-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mommie Dearest"
+            }
+          ],
+          "startDate": "1981-09-27"
+        },
+        {
+          "endDate": "1981-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Paternity"
+            }
+          ],
+          "startDate": "1981-10-04"
+        },
+        {
+          "endDate": "1981-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The French Lieutenant's Woman"
+            }
+          ],
+          "startDate": "1981-10-25"
+        },
+        {
+          "endDate": "1981-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Halloween II"
+            }
+          ],
+          "startDate": "1981-11-01"
+        },
+        {
+          "endDate": "1981-12-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Time Bandits"
+            }
+          ],
+          "startDate": "1981-11-08"
+        },
+        {
+          "endDate": "1981-12-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Raiders of the Lost Ark"
+            }
+          ],
+          "startDate": "1981-12-06"
+        },
+        {
+          "endDate": "1981-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rollover"
+            }
+          ],
+          "startDate": "1981-12-13"
+        },
+        {
+          "endDate": "1981-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Neighbors"
+            }
+          ],
+          "startDate": "1981-12-20"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1981-05-07",
+          "endDate": "1981-01-09",
+          "items": [
+            {
+              "artist": "St Winifred's School Choir",
+              "rank": 1,
+              "title": "There's No One Quite Like Grandma"
+            }
+          ],
+          "startDate": "1981-01-01"
+        },
+        {
+          "endDate": "1981-02-06",
+          "items": [
+            {
+              "artist": "John Lennon",
+              "rank": 1,
+              "title": "Imagine"
+            }
+          ],
+          "startDate": "1981-01-10"
+        },
+        {
+          "endDate": "1981-02-20",
+          "items": [
+            {
+              "artist": "John Lennon",
+              "rank": 1,
+              "title": "Woman"
+            }
+          ],
+          "startDate": "1981-02-07"
+        },
+        {
+          "endDate": "1981-03-13",
+          "items": [
+            {
+              "artist": "Joe Dolce Music Theatre",
+              "rank": 1,
+              "title": "Shaddap You Face"
+            }
+          ],
+          "startDate": "1981-02-21"
+        },
+        {
+          "endDate": "1981-03-27",
+          "items": [
+            {
+              "artist": "Roxy Music",
+              "rank": 1,
+              "title": "Jealous Guy"
+            }
+          ],
+          "startDate": "1981-03-14"
+        },
+        {
+          "endDate": "1981-04-17",
+          "items": [
+            {
+              "artist": "Shakin' Stevens",
+              "rank": 1,
+              "title": "This Ole House"
+            }
+          ],
+          "startDate": "1981-03-28"
+        },
+        {
+          "endDate": "1981-04-30",
+          "items": [
+            {
+              "artist": "Bucks Fizz",
+              "rank": 1,
+              "title": "Making Your Mind Up"
+            }
+          ],
+          "startDate": "1981-04-18"
+        },
+        {
+          "endDate": "1981-05-01",
           "items": [
             {
               "artist": "Adam and the Ants",
@@ -15,7 +406,139 @@
           "startDate": "1981-05-01"
         },
         {
-          "endDate": "1981-11-30",
+          "endDate": "1981-05-08",
+          "items": [
+            {
+              "artist": "Bucks Fizz",
+              "rank": 1,
+              "title": "Making Your Mind Up"
+            }
+          ],
+          "startDate": "1981-05-02"
+        },
+        {
+          "endDate": "1981-06-12",
+          "items": [
+            {
+              "artist": "Adam and the Ants",
+              "rank": 1,
+              "title": "Stand and Deliver"
+            }
+          ],
+          "startDate": "1981-05-09"
+        },
+        {
+          "endDate": "1981-06-26",
+          "items": [
+            {
+              "artist": "Smokey Robinson",
+              "rank": 1,
+              "title": "Being with You"
+            }
+          ],
+          "startDate": "1981-06-13"
+        },
+        {
+          "endDate": "1981-07-10",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "One Day In Your Life"
+            }
+          ],
+          "startDate": "1981-06-27"
+        },
+        {
+          "endDate": "1981-07-31",
+          "items": [
+            {
+              "artist": "The Specials",
+              "rank": 1,
+              "title": "Ghost Town"
+            }
+          ],
+          "startDate": "1981-07-11"
+        },
+        {
+          "endDate": "1981-08-28",
+          "items": [
+            {
+              "artist": "Shakin' Stevens",
+              "rank": 1,
+              "title": "Green Door"
+            }
+          ],
+          "startDate": "1981-08-01"
+        },
+        {
+          "endDate": "1981-09-04",
+          "items": [
+            {
+              "artist": "Aneka",
+              "rank": 1,
+              "title": "Japanese Boy"
+            }
+          ],
+          "startDate": "1981-08-29"
+        },
+        {
+          "endDate": "1981-09-18",
+          "items": [
+            {
+              "artist": "Soft Cell",
+              "rank": 1,
+              "title": "Tainted Love"
+            }
+          ],
+          "startDate": "1981-09-05"
+        },
+        {
+          "endDate": "1981-10-16",
+          "items": [
+            {
+              "artist": "Adam and the Ants",
+              "rank": 1,
+              "title": "Prince Charming"
+            }
+          ],
+          "startDate": "1981-09-19"
+        },
+        {
+          "endDate": "1981-11-13",
+          "items": [
+            {
+              "artist": "Dave Stewart with Barbara Gaskin",
+              "rank": 1,
+              "title": "It's My Party"
+            }
+          ],
+          "startDate": "1981-10-17"
+        },
+        {
+          "endDate": "1981-11-20",
+          "items": [
+            {
+              "artist": "The Police",
+              "rank": 1,
+              "title": "Every Little Thing She Does Is Magic"
+            }
+          ],
+          "startDate": "1981-11-14"
+        },
+        {
+          "endDate": "1981-11-26",
+          "items": [
+            {
+              "artist": "Queen and David Bowie",
+              "rank": 1,
+              "title": "Under Pressure"
+            }
+          ],
+          "startDate": "1981-11-21"
+        },
+        {
+          "endDate": "1981-11-27",
           "items": [
             {
               "artist": "The Human League",
@@ -26,7 +549,18 @@
           "startDate": "1981-11-27"
         },
         {
-          "endDate": "1981-12-07",
+          "endDate": "1981-11-30",
+          "items": [
+            {
+              "artist": "Queen and David Bowie",
+              "rank": 1,
+              "title": "Under Pressure"
+            }
+          ],
+          "startDate": "1981-11-28"
+        },
+        {
+          "endDate": "1981-12-04",
           "items": [
             {
               "artist": "Journey",
@@ -35,12 +569,34 @@
             }
           ],
           "startDate": "1981-12-01"
+        },
+        {
+          "endDate": "1981-12-11",
+          "items": [
+            {
+              "artist": "Julio Iglesias",
+              "rank": 1,
+              "title": "Begin the Beguine (Volver a Empezar)"
+            }
+          ],
+          "startDate": "1981-12-05"
+        },
+        {
+          "endDate": "1981-12-31",
+          "items": [
+            {
+              "artist": "The Human League",
+              "rank": 1,
+              "title": "Don't You Want Me"
+            }
+          ],
+          "startDate": "1981-12-12"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -48,7 +604,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "e19e8470a3094ebbfac8f48918e8aab7c9d21393076983719b8e2631f5a780ae",
+  "contentHash": "38b93d2503a4f1c5de884d84c233789344ef4b65a4dd642d4b04358b74bdf6d0",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1981

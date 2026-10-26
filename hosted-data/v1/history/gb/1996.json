@@ -1,10 +1,45 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1996-01-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Viaggi di nozze"
+            }
+          ],
+          "startDate": "1996-01-01"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1996-01-21",
+          "endDate": "1996-01-14",
+          "items": [
+            {
+              "artist": "Michael Jackson",
+              "rank": 1,
+              "title": "Earth Song"
+            }
+          ],
+          "startDate": "1996-01-01"
+        },
+        {
+          "endDate": "1996-01-19",
           "items": [
             {
               "artist": "Babylon Zoo",
@@ -15,7 +50,29 @@
           "startDate": "1996-01-15"
         },
         {
-          "endDate": "1996-02-18",
+          "endDate": "1996-01-26",
+          "items": [
+            {
+              "artist": "George Michael",
+              "rank": 1,
+              "title": "Jesus to a Child"
+            }
+          ],
+          "startDate": "1996-01-20"
+        },
+        {
+          "endDate": "1996-02-11",
+          "items": [
+            {
+              "artist": "Babylon Zoo",
+              "rank": 1,
+              "title": "Spaceman"
+            }
+          ],
+          "startDate": "1996-01-27"
+        },
+        {
+          "endDate": "1996-02-16",
           "items": [
             {
               "artist": "Robert Miles",
@@ -26,7 +83,18 @@
           "startDate": "1996-02-12"
         },
         {
-          "endDate": "1996-02-25",
+          "endDate": "1996-02-18",
+          "items": [
+            {
+              "artist": "Babylon Zoo",
+              "rank": 1,
+              "title": "Spaceman"
+            }
+          ],
+          "startDate": "1996-02-17"
+        },
+        {
+          "endDate": "1996-02-23",
           "items": [
             {
               "artist": "Oasis",
@@ -37,7 +105,18 @@
           "startDate": "1996-02-19"
         },
         {
-          "endDate": "1996-03-03",
+          "endDate": "1996-02-25",
+          "items": [
+            {
+              "artist": "Babylon Zoo",
+              "rank": 1,
+              "title": "Spaceman"
+            }
+          ],
+          "startDate": "1996-02-24"
+        },
+        {
+          "endDate": "1996-03-01",
           "items": [
             {
               "artist": "Take That",
@@ -48,7 +127,18 @@
           "startDate": "1996-02-26"
         },
         {
-          "endDate": "1996-03-10",
+          "endDate": "1996-03-03",
+          "items": [
+            {
+              "artist": "Oasis",
+              "rank": 1,
+              "title": "Don't Look Back in Anger"
+            }
+          ],
+          "startDate": "1996-03-02"
+        },
+        {
+          "endDate": "1996-03-08",
           "items": [
             {
               "artist": "Mark Morrison",
@@ -59,7 +149,18 @@
           "startDate": "1996-03-04"
         },
         {
-          "endDate": "1996-03-31",
+          "endDate": "1996-03-24",
+          "items": [
+            {
+              "artist": "Take That",
+              "rank": 1,
+              "title": "How Deep Is Your Love"
+            }
+          ],
+          "startDate": "1996-03-09"
+        },
+        {
+          "endDate": "1996-03-29",
           "items": [
             {
               "artist": "Gina G",
@@ -70,7 +171,62 @@
           "startDate": "1996-03-25"
         },
         {
-          "endDate": "1996-06-09",
+          "endDate": "1996-04-19",
+          "items": [
+            {
+              "artist": "The Prodigy",
+              "rank": 1,
+              "title": "Firestarter"
+            }
+          ],
+          "startDate": "1996-03-30"
+        },
+        {
+          "endDate": "1996-05-03",
+          "items": [
+            {
+              "artist": "Mark Morrison",
+              "rank": 1,
+              "title": "Return of the Mack"
+            }
+          ],
+          "startDate": "1996-04-20"
+        },
+        {
+          "endDate": "1996-05-24",
+          "items": [
+            {
+              "artist": "George Michael",
+              "rank": 1,
+              "title": "Fastlove"
+            }
+          ],
+          "startDate": "1996-05-04"
+        },
+        {
+          "endDate": "1996-05-31",
+          "items": [
+            {
+              "artist": "Gina G",
+              "rank": 1,
+              "title": "Ooh Aah... Just a Little Bit"
+            }
+          ],
+          "startDate": "1996-05-25"
+        },
+        {
+          "endDate": "1996-06-02",
+          "items": [
+            {
+              "artist": "Baddiel, Skinner and The Lightning Seeds",
+              "rank": 1,
+              "title": "Three Lions"
+            }
+          ],
+          "startDate": "1996-06-01"
+        },
+        {
+          "endDate": "1996-07-05",
           "items": [
             {
               "artist": "Fugees",
@@ -81,7 +237,29 @@
           "startDate": "1996-06-03"
         },
         {
-          "endDate": "1996-07-21",
+          "endDate": "1996-07-12",
+          "items": [
+            {
+              "artist": "Baddiel, Skinner and The Lightning Seeds",
+              "rank": 1,
+              "title": "Three Lions"
+            }
+          ],
+          "startDate": "1996-07-06"
+        },
+        {
+          "endDate": "1996-07-14",
+          "items": [
+            {
+              "artist": "Fugees",
+              "rank": 1,
+              "title": "Killing Me Softly"
+            }
+          ],
+          "startDate": "1996-07-13"
+        },
+        {
+          "endDate": "1996-07-19",
           "items": [
             {
               "artist": "Spice Girls",
@@ -92,7 +270,73 @@
           "startDate": "1996-07-15"
         },
         {
-          "endDate": "1996-10-20",
+          "endDate": "1996-07-26",
+          "items": [
+            {
+              "artist": "Gary Barlow",
+              "rank": 1,
+              "title": "Forever Love"
+            }
+          ],
+          "startDate": "1996-07-20"
+        },
+        {
+          "endDate": "1996-09-13",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Wannabe"
+            }
+          ],
+          "startDate": "1996-07-27"
+        },
+        {
+          "endDate": "1996-09-20",
+          "items": [
+            {
+              "artist": "Peter Andre",
+              "rank": 1,
+              "title": "Flava"
+            }
+          ],
+          "startDate": "1996-09-14"
+        },
+        {
+          "endDate": "1996-10-04",
+          "items": [
+            {
+              "artist": "Fugees",
+              "rank": 1,
+              "title": "Ready or Not"
+            }
+          ],
+          "startDate": "1996-09-21"
+        },
+        {
+          "endDate": "1996-10-11",
+          "items": [
+            {
+              "artist": "Deep Blue Something",
+              "rank": 1,
+              "title": "Breakfast at Tiffany's"
+            }
+          ],
+          "startDate": "1996-10-05"
+        },
+        {
+          "endDate": "1996-10-13",
+          "items": [
+            {
+              "artist": "The Chemical Brothers",
+              "rank": 1,
+              "title": "Setting Sun"
+            }
+          ],
+          "startDate": "1996-10-12"
+        },
+        {
+          "endDate": "1996-10-18",
           "items": [
             {
               "artist": "Spice Girls",
@@ -103,7 +347,18 @@
           "startDate": "1996-10-14"
         },
         {
-          "endDate": "1996-10-27",
+          "endDate": "1996-10-20",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "Words"
+            }
+          ],
+          "startDate": "1996-10-19"
+        },
+        {
+          "endDate": "1996-10-25",
           "items": [
             {
               "artist": "Toni Braxton",
@@ -114,7 +369,18 @@
           "startDate": "1996-10-21"
         },
         {
-          "endDate": "1996-11-03",
+          "endDate": "1996-10-27",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Say You'll Be There"
+            }
+          ],
+          "startDate": "1996-10-26"
+        },
+        {
+          "endDate": "1996-11-01",
           "items": [
             {
               "artist": "Robson & Jerome",
@@ -125,7 +391,29 @@
           "startDate": "1996-10-28"
         },
         {
-          "endDate": "1996-11-17",
+          "endDate": "1996-11-08",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "Say You'll Be There"
+            }
+          ],
+          "startDate": "1996-11-02"
+        },
+        {
+          "endDate": "1996-11-10",
+          "items": [
+            {
+              "artist": "Robson & Jerome",
+              "rank": 1,
+              "title": "What Becomes of the Brokenhearted / Saturday Night at the Movies / You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1996-11-09"
+        },
+        {
+          "endDate": "1996-11-15",
           "items": [
             {
               "artist": "The Prodigy",
@@ -136,7 +424,40 @@
           "startDate": "1996-11-11"
         },
         {
-          "endDate": "1996-12-15",
+          "endDate": "1996-11-22",
+          "items": [
+            {
+              "artist": "Robson & Jerome",
+              "rank": 1,
+              "title": "What Becomes of the Brokenhearted / Saturday Night at the Movies / You'll Never Walk Alone"
+            }
+          ],
+          "startDate": "1996-11-16"
+        },
+        {
+          "endDate": "1996-12-06",
+          "items": [
+            {
+              "artist": "The Prodigy",
+              "rank": 1,
+              "title": "Breathe"
+            }
+          ],
+          "startDate": "1996-11-23"
+        },
+        {
+          "endDate": "1996-12-08",
+          "items": [
+            {
+              "artist": "Peter Andre",
+              "rank": 1,
+              "title": "I Feel You"
+            }
+          ],
+          "startDate": "1996-12-07"
+        },
+        {
+          "endDate": "1996-12-13",
           "items": [
             {
               "artist": "Various Artists",
@@ -147,7 +468,18 @@
           "startDate": "1996-12-09"
         },
         {
-          "endDate": "1996-12-22",
+          "endDate": "1996-12-15",
+          "items": [
+            {
+              "artist": "Boyzone",
+              "rank": 1,
+              "title": "A Different Beat"
+            }
+          ],
+          "startDate": "1996-12-14"
+        },
+        {
+          "endDate": "1996-12-20",
           "items": [
             {
               "artist": "Spice Girls",
@@ -156,12 +488,34 @@
             }
           ],
           "startDate": "1996-12-16"
+        },
+        {
+          "endDate": "1996-12-27",
+          "items": [
+            {
+              "artist": "Dunblane",
+              "rank": 1,
+              "title": "Knockin' on Heaven's Door / Throw These Guns Away"
+            }
+          ],
+          "startDate": "1996-12-21"
+        },
+        {
+          "endDate": "1996-12-31",
+          "items": [
+            {
+              "artist": "Spice Girls",
+              "rank": 1,
+              "title": "2 Become 1"
+            }
+          ],
+          "startDate": "1996-12-28"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -169,7 +523,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "38a10e7f43a4020e67b93d4cb57eada8e797e3255fa5ea05fa85f7aad6bde22a",
+  "contentHash": "70934ee84219994b67f652ac3e3e78bf29001d16b3b8995d8658b872fdee5a79",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1996

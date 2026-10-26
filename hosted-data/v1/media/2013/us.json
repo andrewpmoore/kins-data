@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2013",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9789875808171",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9789875808171-L.jpg?default=false",
+          "author": "Dan Brown",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9789875808171",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9789875808171-L.jpg?default=false",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "Inferno",
+          "url": "https://books.google.com/books?vid=ISBN:9789875808171"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2013-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2013
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2013",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781419741944",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781419741944-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781419741944",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781419741944-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Diary of a Wimpy Kid: Hard Luck",
+          "url": "https://books.google.com/books?vid=ISBN:9781419741944"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2013-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2013
+    },
     "games": {
       "id": "media-awardWinner-2013",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2013
     }
   },
-  "contentHash": "a11749413e2ced9337e1b27cf13fec2dc0365bf8eb7c600cce00b0f3ae5b942a",
+  "contentHash": "ee4aced0bfaf28f807be62145cf326fa6ac6d7818b6981226e00751373ec5446",
   "country": "us",
   "schemaVersion": 1,
   "year": 2013

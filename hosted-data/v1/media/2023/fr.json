@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2023",
+      "items": [
+        {
+          "author": "Fabcaro et Didier Conrad",
+          "creator": "Fabcaro et Didier Conrad",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "L'Iris blanc",
+          "url": "https://books.google.com/books?q=L'Iris+blanc"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2023"
+      },
+      "title": "FR print bestseller",
+      "year": 2023
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2023",
+      "items": [
+        {
+          "author": "Mr Tan et Diane Le Feyer",
+          "creator": "Mr Tan et Diane Le Feyer",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Mortelle Adèle: J'adore le monde !",
+          "url": "https://books.google.com/books?q=Mortelle+Adèle:+J'adore+le+monde+!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2023"
+      },
+      "title": "FR children's bestseller",
+      "year": 2023
+    },
     "games": {
       "id": "media-awardWinner-2023",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
           "rank": 1,
           "releaseYear": 2023,
-          "title": "Baldur's Gate 3"
+          "title": "Baldur's Gate 3",
+          "trailerURL": "https://www.youtube.com/watch?v=XuCfkgaaa08"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2023
     }
   },
-  "contentHash": "34928db673872a8f11b929f512488f621caf1e07907b38cd144ba7c3b598fea0",
+  "contentHash": "f69bbf47a3d7800b1aaebec5eb6fed98853efaeea8f29645a88e77f5eb456514",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2023

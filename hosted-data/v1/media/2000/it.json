@@ -1,0 +1,77 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2000",
+      "items": [
+        {
+          "author": "Andrea Camilleri",
+          "creator": "Andrea Camilleri",
+          "rank": 1,
+          "scope": "Classifica annuale AIE / GfK · Italia",
+          "title": "La gita a Tindari",
+          "url": "https://books.google.com/books?q=La+gita+a+Tindari"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica annuale AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2000.aspx"
+      },
+      "title": "IT print bestseller",
+      "year": 2000
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2000",
+      "items": [
+        {
+          "author": "J.K. Rowling",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "Classifica ragazzi AIE / GfK · Italia",
+          "title": "Harry Potter e la pietra filosofale",
+          "url": "https://books.google.com/books?q=Harry+Potter+e+la+pietra+filosofale"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Classifica ragazzi AIE / GfK · Italia",
+        "observedAt": "2026-10-21",
+        "provider": "Associazione Italiana Editori / GfK",
+        "territory": "IT",
+        "url": "https://www.aie.it/Cosafacciamo/Datiestudisulsettore/Classificheannualilibri-2000.aspx"
+      },
+      "title": "IT children's bestseller",
+      "year": 2000
+    },
+    "games": {
+      "id": "media-awardWinner-2000",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=481",
+          "artworkURL": "https://www.interactive.org/images/games/2000_the_sims_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "The Sims"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2000&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2000
+    }
+  },
+  "contentHash": "de65bcbde95b8c027876a9cf9245ccee81672866f9052778207e7d3b91675fc0",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2000
+}

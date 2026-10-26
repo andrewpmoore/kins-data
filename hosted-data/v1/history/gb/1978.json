@@ -1,10 +1,265 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1978-02-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Close Encounters of the Third Kind"
+            }
+          ],
+          "startDate": "1978-01-01"
+        },
+        {
+          "endDate": "1978-02-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Betsy"
+            }
+          ],
+          "startDate": "1978-02-15"
+        },
+        {
+          "endDate": "1978-03-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Saturday Night Fever"
+            }
+          ],
+          "startDate": "1978-02-22"
+        },
+        {
+          "endDate": "1978-04-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fury"
+            }
+          ],
+          "startDate": "1978-03-29"
+        },
+        {
+          "endDate": "1978-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Goodbye Girl"
+            }
+          ],
+          "startDate": "1978-04-12"
+        },
+        {
+          "endDate": "1978-05-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "House Calls"
+            }
+          ],
+          "startDate": "1978-04-26"
+        },
+        {
+          "endDate": "1978-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "F.I.S.T."
+            }
+          ],
+          "startDate": "1978-05-10"
+        },
+        {
+          "endDate": "1978-05-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Greek Tycoon"
+            }
+          ],
+          "startDate": "1978-05-17"
+        },
+        {
+          "endDate": "1978-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Graffiti"
+            }
+          ],
+          "startDate": "1978-05-31"
+        },
+        {
+          "endDate": "1978-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Capricorn One"
+            }
+          ],
+          "startDate": "1978-06-07"
+        },
+        {
+          "endDate": "1978-06-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Damien: Omen II"
+            }
+          ],
+          "startDate": "1978-06-14"
+        },
+        {
+          "endDate": "1978-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jaws 2"
+            }
+          ],
+          "startDate": "1978-06-21"
+        },
+        {
+          "endDate": "1978-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Grease"
+            }
+          ],
+          "startDate": "1978-06-28"
+        },
+        {
+          "endDate": "1978-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars"
+            }
+          ],
+          "startDate": "1978-08-02"
+        },
+        {
+          "endDate": "1978-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hooper"
+            }
+          ],
+          "startDate": "1978-08-09"
+        },
+        {
+          "endDate": "1978-10-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Animal House"
+            }
+          ],
+          "startDate": "1978-08-30"
+        },
+        {
+          "endDate": "1978-10-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Up in Smoke"
+            }
+          ],
+          "startDate": "1978-10-04"
+        },
+        {
+          "endDate": "1978-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Animal House"
+            }
+          ],
+          "startDate": "1978-10-11"
+        },
+        {
+          "endDate": "1978-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Midnight Express"
+            }
+          ],
+          "startDate": "1978-11-01"
+        },
+        {
+          "endDate": "1978-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Up in Smoke"
+            }
+          ],
+          "startDate": "1978-11-08"
+        },
+        {
+          "endDate": "1978-11-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Magic"
+            }
+          ],
+          "startDate": "1978-11-15"
+        },
+        {
+          "endDate": "1978-12-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Midnight Express"
+            }
+          ],
+          "startDate": "1978-11-29"
+        },
+        {
+          "endDate": "1978-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Superman"
+            }
+          ],
+          "startDate": "1978-12-20"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1978-01-31",
+          "endDate": "1978-01-03",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1978-01-01"
+        },
+        {
+          "endDate": "1978-01-06",
           "items": [
             {
               "artist": "Wings",
@@ -12,10 +267,87 @@
               "title": "Mull of Kintyre"
             }
           ],
-          "startDate": "1978-01-01"
+          "startDate": "1978-01-04"
         },
         {
-          "endDate": "1978-02-14",
+          "endDate": "1978-01-10",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1978-01-07"
+        },
+        {
+          "endDate": "1978-01-13",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre"
+            }
+          ],
+          "startDate": "1978-01-11"
+        },
+        {
+          "endDate": "1978-01-17",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1978-01-14"
+        },
+        {
+          "endDate": "1978-01-20",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre"
+            }
+          ],
+          "startDate": "1978-01-18"
+        },
+        {
+          "endDate": "1978-01-24",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1978-01-21"
+        },
+        {
+          "endDate": "1978-01-27",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre"
+            }
+          ],
+          "startDate": "1978-01-25"
+        },
+        {
+          "endDate": "1978-01-31",
+          "items": [
+            {
+              "artist": "Wings",
+              "rank": 1,
+              "title": "Mull of Kintyre / Girls' School"
+            }
+          ],
+          "startDate": "1978-01-28"
+        },
+        {
+          "endDate": "1978-02-10",
           "items": [
             {
               "artist": "Althea & Donna",
@@ -24,6 +356,17 @@
             }
           ],
           "startDate": "1978-02-01"
+        },
+        {
+          "endDate": "1978-02-14",
+          "items": [
+            {
+              "artist": "Brotherhood of Man",
+              "rank": 1,
+              "title": "Figaro"
+            }
+          ],
+          "startDate": "1978-02-11"
         },
         {
           "endDate": "1978-03-07",
@@ -48,15 +391,48 @@
           "startDate": "1978-03-08"
         },
         {
-          "endDate": "1978-04-11",
+          "endDate": "1978-03-31",
           "items": [
             {
               "artist": "Blondie",
               "rank": 1,
-              "title": "Denis\" ‡"
+              "title": "Denis"
             }
           ],
           "startDate": "1978-03-29"
+        },
+        {
+          "endDate": "1978-04-04",
+          "items": [
+            {
+              "artist": "Kate Bush",
+              "rank": 1,
+              "title": "Wuthering Heights"
+            }
+          ],
+          "startDate": "1978-04-01"
+        },
+        {
+          "endDate": "1978-04-07",
+          "items": [
+            {
+              "artist": "Blondie",
+              "rank": 1,
+              "title": "Denis"
+            }
+          ],
+          "startDate": "1978-04-05"
+        },
+        {
+          "endDate": "1978-04-11",
+          "items": [
+            {
+              "artist": "Brian and Michael",
+              "rank": 1,
+              "title": "Matchstalk Men & Matchstalk Cats & Dogs"
+            }
+          ],
+          "startDate": "1978-04-08"
         },
         {
           "endDate": "1978-04-13",
@@ -64,21 +440,54 @@
             {
               "artist": "Showaddywaddy",
               "rank": 1,
-              "title": "I Wonder Why\" ‡"
+              "title": "I Wonder Why"
             }
           ],
           "startDate": "1978-04-12"
         },
         {
-          "endDate": "1978-04-18",
+          "endDate": "1978-04-14",
           "items": [
             {
               "artist": "Boney M.",
               "rank": 1,
-              "title": "Rivers of Babylon\" / \"Brown Girl in the Ring"
+              "title": "Rivers of Babylon / Brown Girl in the Ring"
             }
           ],
           "startDate": "1978-04-14"
+        },
+        {
+          "endDate": "1978-04-18",
+          "items": [
+            {
+              "artist": "Brian and Michael",
+              "rank": 1,
+              "title": "Matchstalk Men & Matchstalk Cats & Dogs"
+            }
+          ],
+          "startDate": "1978-04-15"
+        },
+        {
+          "endDate": "1978-04-21",
+          "items": [
+            {
+              "artist": "Bee Gees",
+              "rank": 1,
+              "title": "Night Fever"
+            }
+          ],
+          "startDate": "1978-04-19"
+        },
+        {
+          "endDate": "1978-04-25",
+          "items": [
+            {
+              "artist": "Brian and Michael",
+              "rank": 1,
+              "title": "Matchstalk Men & Matchstalk Cats & Dogs"
+            }
+          ],
+          "startDate": "1978-04-22"
         },
         {
           "endDate": "1978-04-30",
@@ -89,7 +498,7 @@
               "title": "Night Fever"
             }
           ],
-          "startDate": "1978-04-19"
+          "startDate": "1978-04-26"
         },
         {
           "endDate": "1978-05-02",
@@ -103,7 +512,7 @@
           "startDate": "1978-05-01"
         },
         {
-          "endDate": "1978-05-16",
+          "endDate": "1978-05-12",
           "items": [
             {
               "artist": "Bee Gees",
@@ -114,7 +523,18 @@
           "startDate": "1978-05-03"
         },
         {
-          "endDate": "1978-06-13",
+          "endDate": "1978-05-16",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon / Brown Girl in the Ring"
+            }
+          ],
+          "startDate": "1978-05-13"
+        },
+        {
+          "endDate": "1978-05-19",
           "items": [
             {
               "artist": "Boney M.",
@@ -125,7 +545,84 @@
           "startDate": "1978-05-17"
         },
         {
-          "endDate": "1978-08-22",
+          "endDate": "1978-05-23",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon / Brown Girl in the Ring"
+            }
+          ],
+          "startDate": "1978-05-20"
+        },
+        {
+          "endDate": "1978-05-26",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon"
+            }
+          ],
+          "startDate": "1978-05-24"
+        },
+        {
+          "endDate": "1978-05-30",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon / Brown Girl in the Ring"
+            }
+          ],
+          "startDate": "1978-05-27"
+        },
+        {
+          "endDate": "1978-06-02",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon"
+            }
+          ],
+          "startDate": "1978-05-31"
+        },
+        {
+          "endDate": "1978-06-06",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon / Brown Girl in the Ring"
+            }
+          ],
+          "startDate": "1978-06-03"
+        },
+        {
+          "endDate": "1978-06-09",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon"
+            }
+          ],
+          "startDate": "1978-06-07"
+        },
+        {
+          "endDate": "1978-06-13",
+          "items": [
+            {
+              "artist": "Boney M.",
+              "rank": 1,
+              "title": "Rivers of Babylon / Brown Girl in the Ring"
+            }
+          ],
+          "startDate": "1978-06-10"
+        },
+        {
+          "endDate": "1978-08-18",
           "items": [
             {
               "artist": "John Travolta and Olivia Newton-John",
@@ -144,10 +641,10 @@
               "title": "Three Times a Lady"
             }
           ],
-          "startDate": "1978-08-23"
+          "startDate": "1978-08-19"
         },
         {
-          "endDate": "1978-09-05",
+          "endDate": "1978-09-01",
           "items": [
             {
               "artist": "John Travolta and Olivia Newton-John",
@@ -166,10 +663,10 @@
               "title": "Three Times a Lady"
             }
           ],
-          "startDate": "1978-09-06"
+          "startDate": "1978-09-02"
         },
         {
-          "endDate": "1978-10-03",
+          "endDate": "1978-09-29",
           "items": [
             {
               "artist": "10cc",
@@ -188,7 +685,29 @@
               "title": "Summer Nights"
             }
           ],
-          "startDate": "1978-10-04"
+          "startDate": "1978-09-30"
+        },
+        {
+          "endDate": "1978-11-03",
+          "items": [
+            {
+              "artist": "Ian Dury and The Blockheads",
+              "rank": 1,
+              "title": "Hit Me with Your Rhythm Stick"
+            }
+          ],
+          "startDate": "1978-11-01"
+        },
+        {
+          "endDate": "1978-11-14",
+          "items": [
+            {
+              "artist": "John Travolta and Olivia Newton-John",
+              "rank": 1,
+              "title": "Summer Nights"
+            }
+          ],
+          "startDate": "1978-11-04"
         },
         {
           "endDate": "1978-11-23",
@@ -202,7 +721,7 @@
           "startDate": "1978-11-15"
         },
         {
-          "endDate": "1978-11-28",
+          "endDate": "1978-11-24",
           "items": [
             {
               "artist": "Boney M.",
@@ -211,6 +730,17 @@
             }
           ],
           "startDate": "1978-11-24"
+        },
+        {
+          "endDate": "1978-11-28",
+          "items": [
+            {
+              "artist": "The Boomtown Rats",
+              "rank": 1,
+              "title": "Rat Trap"
+            }
+          ],
+          "startDate": "1978-11-25"
         },
         {
           "endDate": "1978-12-05",
@@ -238,7 +768,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -246,7 +776,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "4fc6a86bef915ea8c20a2ff196ae32e35a7d0d21d61f4240a03e2b46596a86f0",
+  "contentHash": "1c51b19bce52c7920cd71379a3a66ef5f0e5cc19d435235da43f5dbb1a08731f",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1978

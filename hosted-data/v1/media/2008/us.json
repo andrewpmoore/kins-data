@@ -1,0 +1,89 @@
+{
+  "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2008",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9789708105620",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9789708105620-L.jpg?default=false",
+          "author": "John Grisham",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9789708105620",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9789708105620-L.jpg?default=false",
+          "creator": "John Grisham",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Appeal",
+          "url": "https://books.google.com/books?vid=ISBN:9789708105620"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2008-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2008
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2008",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788466331432",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788466331432-L.jpg?default=false",
+          "author": "Stephenie Meyer",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788466331432",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788466331432-L.jpg?default=false",
+          "creator": "Stephenie Meyer",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Breaking Dawn",
+          "url": "https://books.google.com/books?vid=ISBN:9788466331432"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2008-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2008
+    },
+    "games": {
+      "id": "media-awardWinner-2008",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2008&idGame=925",
+          "artworkURL": "https://www.interactive.org/images/games/2008_call_of_duty_4_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2007,
+          "title": "Call of Duty 4: Modern Warfare"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2008&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2008
+    }
+  },
+  "contentHash": "8d2d3b9b027e58e1b1c80d6d2cc8123572486ee050a8c2293ddd01df70ddd90f",
+  "country": "us",
+  "schemaVersion": 1,
+  "year": 2008
+}

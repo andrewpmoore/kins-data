@@ -4,6 +4,17 @@
       "id": "legacy-national-number-one-single",
       "periods": [
         {
+          "endDate": "2018-01-11",
+          "items": [
+            {
+              "artist": "Ed Sheeran",
+              "rank": 1,
+              "title": "Perfect"
+            }
+          ],
+          "startDate": "2018-01-01"
+        },
+        {
           "endDate": "2018-02-01",
           "items": [
             {
@@ -13,6 +24,61 @@
             }
           ],
           "startDate": "2018-01-26"
+        },
+        {
+          "endDate": "2018-02-08",
+          "items": [
+            {
+              "artist": "Drake",
+              "rank": 1,
+              "title": "God's Plan"
+            }
+          ],
+          "startDate": "2018-02-02"
+        },
+        {
+          "endDate": "2018-03-15",
+          "items": [
+            {
+              "artist": "Drake",
+              "rank": 1,
+              "title": "God's Plan"
+            }
+          ],
+          "startDate": "2018-03-09"
+        },
+        {
+          "endDate": "2018-03-29",
+          "items": [
+            {
+              "artist": "Drake",
+              "rank": 1,
+              "title": "God's Plan"
+            }
+          ],
+          "startDate": "2018-03-23"
+        },
+        {
+          "endDate": "2018-04-19",
+          "items": [
+            {
+              "artist": "Calvin Harris and Dua Lipa",
+              "rank": 1,
+              "title": "One Kiss"
+            }
+          ],
+          "startDate": "2018-04-13"
+        },
+        {
+          "endDate": "2018-05-17",
+          "items": [
+            {
+              "artist": "Calvin Harris and Dua Lipa",
+              "rank": 1,
+              "title": "One Kiss"
+            }
+          ],
+          "startDate": "2018-05-11"
         },
         {
           "endDate": "2018-06-28",
@@ -48,6 +114,28 @@
           "startDate": "2018-08-17"
         },
         {
+          "endDate": "2018-10-11",
+          "items": [
+            {
+              "artist": "Calvin Harris and Sam Smith",
+              "rank": 1,
+              "title": "Promises"
+            }
+          ],
+          "startDate": "2018-10-05"
+        },
+        {
+          "endDate": "2018-11-29",
+          "items": [
+            {
+              "artist": "Ariana Grande",
+              "rank": 1,
+              "title": "Thank U, Next"
+            }
+          ],
+          "startDate": "2018-11-16"
+        },
+        {
           "endDate": "2018-12-31",
           "items": [
             {
@@ -70,7 +158,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "e6b201c2b9835596c3e7ee4fe2e4da4eecc3a29f0401f970f1369ca088c3df3f",
+  "contentHash": "182cee58e4eefa39dacdfa434347ebb254216d8b61e7fc2d7f5b6f46817b8fc2",
   "country": "ie",
   "schemaVersion": 1,
   "year": 2018

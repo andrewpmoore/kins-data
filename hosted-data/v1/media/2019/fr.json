@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2019",
+      "items": [
+        {
+          "author": "Jean-Yves Ferri et Didier Conrad",
+          "creator": "Jean-Yves Ferri et Didier Conrad",
+          "rank": 1,
+          "scope": "Palmarès annuel Livres Hebdo / GfK · France",
+          "title": "La Fille de Vercingétorix",
+          "url": "https://books.google.com/books?q=La+Fille+de+Vercingétorix"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès annuel Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2019"
+      },
+      "title": "FR print bestseller",
+      "year": 2019
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2019",
+      "items": [
+        {
+          "author": "Mr Tan et Diane Le Feyer",
+          "creator": "Mr Tan et Diane Le Feyer",
+          "rank": 1,
+          "scope": "Palmarès jeunesse Livres Hebdo / GfK · France",
+          "title": "Mortelle Adèle: Au pays des contes défaits",
+          "url": "https://books.google.com/books?q=Mortelle+Adèle:+Au+pays+des+contes+défaits"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "Palmarès jeunesse Livres Hebdo / GfK · France",
+        "observedAt": "2026-10-21",
+        "provider": "Livres Hebdo / GfK",
+        "territory": "FR",
+        "url": "https://www.livreshebdo.fr/article/les-meilleures-ventes-de-lannee-2019"
+      },
+      "title": "FR children's bestseller",
+      "year": 2019
+    },
     "games": {
       "id": "media-awardWinner-2019",
       "items": [
@@ -9,7 +55,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
           "rank": 1,
           "releaseYear": 2019,
-          "title": "Sekiro: Shadows Die Twice"
+          "title": "Sekiro: Shadows Die Twice",
+          "trailerURL": "https://www.youtube.com/watch?v=UGPknmiLxGo"
         }
       ],
       "source": {
@@ -24,7 +71,7 @@
       "year": 2019
     }
   },
-  "contentHash": "bcec5317ff71d2a1c1cbcd1d98ca4e501a0d36833f51009d661f1942e4cadfde",
+  "contentHash": "f21ddfd49d5642f96f3fd4aea0d935c387fd3fba770a69b238ad7697e5f66f53",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2019

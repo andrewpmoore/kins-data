@@ -1,10 +1,404 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1970-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "On Her Majesty's Secret Service"
+            }
+          ],
+          "startDate": "1970-01-01"
+        },
+        {
+          "endDate": "1970-02-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Butch Cassidy and the Sundance Kid"
+            }
+          ],
+          "startDate": "1970-01-21"
+        },
+        {
+          "endDate": "1970-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Secret of Santa Vittoria"
+            }
+          ],
+          "startDate": "1970-02-04"
+        },
+        {
+          "endDate": "1970-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Funny Girl"
+            }
+          ],
+          "startDate": "1970-02-11"
+        },
+        {
+          "endDate": "1970-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cactus Flower"
+            }
+          ],
+          "startDate": "1970-03-11"
+        },
+        {
+          "endDate": "1970-04-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Airport"
+            }
+          ],
+          "startDate": "1970-03-25"
+        },
+        {
+          "endDate": "1970-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Marooned"
+            }
+          ],
+          "startDate": "1970-04-08"
+        },
+        {
+          "endDate": "1970-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Butch Cassidy and the Sundance Kid/The Prime of Miss Jean Brodie"
+            }
+          ],
+          "startDate": "1970-04-15"
+        },
+        {
+          "endDate": "1970-05-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Airport"
+            }
+          ],
+          "startDate": "1970-04-29"
+        },
+        {
+          "endDate": "1970-05-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Liberation of L.B. Jones"
+            }
+          ],
+          "startDate": "1970-05-13"
+        },
+        {
+          "endDate": "1970-06-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Airport"
+            }
+          ],
+          "startDate": "1970-05-20"
+        },
+        {
+          "endDate": "1970-06-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bob & Carol & Ted & Alice"
+            }
+          ],
+          "startDate": "1970-06-03"
+        },
+        {
+          "endDate": "1970-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "A Man Called Horse"
+            }
+          ],
+          "startDate": "1970-06-17"
+        },
+        {
+          "endDate": "1970-06-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jenny"
+            }
+          ],
+          "startDate": "1970-06-24"
+        },
+        {
+          "endDate": "1970-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Airport"
+            }
+          ],
+          "startDate": "1970-07-01"
+        },
+        {
+          "endDate": "1970-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beneath the Planet of the Apes"
+            }
+          ],
+          "startDate": "1970-07-08"
+        },
+        {
+          "endDate": "1970-07-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Airport"
+            }
+          ],
+          "startDate": "1970-07-15"
+        },
+        {
+          "endDate": "1970-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Beyond the Valley of the Dolls"
+            }
+          ],
+          "startDate": "1970-07-22"
+        },
+        {
+          "endDate": "1970-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Patton"
+            }
+          ],
+          "startDate": "1970-07-29"
+        },
+        {
+          "endDate": "1970-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Z"
+            }
+          ],
+          "startDate": "1970-08-05"
+        },
+        {
+          "endDate": "1970-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Out-of-Towners"
+            }
+          ],
+          "startDate": "1970-08-12"
+        },
+        {
+          "endDate": "1970-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Getting Straight"
+            }
+          ],
+          "startDate": "1970-08-19"
+        },
+        {
+          "endDate": "1970-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Woodstock"
+            }
+          ],
+          "startDate": "1970-08-26"
+        },
+        {
+          "endDate": "1970-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Getting Straight"
+            }
+          ],
+          "startDate": "1970-09-02"
+        },
+        {
+          "endDate": "1970-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "On a Clear Day You Can See Forever"
+            }
+          ],
+          "startDate": "1970-09-09"
+        },
+        {
+          "endDate": "1970-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "MASH"
+            }
+          ],
+          "startDate": "1970-09-23"
+        },
+        {
+          "endDate": "1970-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hello, Dolly!"
+            }
+          ],
+          "startDate": "1970-10-07"
+        },
+        {
+          "endDate": "1970-10-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bird with the Crystal Plumage"
+            }
+          ],
+          "startDate": "1970-10-14"
+        },
+        {
+          "endDate": "1970-10-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "C.C. and Company"
+            }
+          ],
+          "startDate": "1970-10-21"
+        },
+        {
+          "endDate": "1970-11-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Professionals/In Cold Blood"
+            }
+          ],
+          "startDate": "1970-10-28"
+        },
+        {
+          "endDate": "1970-11-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Trog/Taste the Blood of Dracula"
+            }
+          ],
+          "startDate": "1970-11-04"
+        },
+        {
+          "endDate": "1970-11-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sunflower"
+            }
+          ],
+          "startDate": "1970-11-11"
+        },
+        {
+          "endDate": "1970-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Five Easy Pieces"
+            }
+          ],
+          "startDate": "1970-11-18"
+        },
+        {
+          "endDate": "1970-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lovers and Other Strangers"
+            }
+          ],
+          "startDate": "1970-11-25"
+        },
+        {
+          "endDate": "1970-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scrooge"
+            }
+          ],
+          "startDate": "1970-12-02"
+        },
+        {
+          "endDate": "1970-12-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lovers and Other Strangers"
+            }
+          ],
+          "startDate": "1970-12-09"
+        },
+        {
+          "endDate": "1970-12-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scrooge"
+            }
+          ],
+          "startDate": "1970-12-16"
+        },
+        {
+          "endDate": "1970-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Love Story"
+            }
+          ],
+          "startDate": "1970-12-30"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "1970-01-24",
+          "endDate": "1970-01-27",
           "items": [
             {
               "artist": "Rolf Harris",
@@ -15,18 +409,29 @@
           "startDate": "1970-01-01"
         },
         {
-          "endDate": "1970-02-03",
+          "endDate": "1970-01-30",
           "items": [
             {
               "artist": "Marmalade",
               "rank": 1,
-              "title": "Reflections of My Life\" ‡"
+              "title": "Reflections of My Life"
             }
           ],
           "startDate": "1970-01-28"
         },
         {
-          "endDate": "1970-02-24",
+          "endDate": "1970-02-03",
+          "items": [
+            {
+              "artist": "Edison Lighthouse",
+              "rank": 1,
+              "title": "Love Grows (Where My Rosemary Goes)"
+            }
+          ],
+          "startDate": "1970-01-31"
+        },
+        {
+          "endDate": "1970-02-06",
           "items": [
             {
               "artist": "Edison Lighthouse",
@@ -37,15 +442,81 @@
           "startDate": "1970-02-04"
         },
         {
-          "endDate": "1970-03-03",
+          "endDate": "1970-02-10",
+          "items": [
+            {
+              "artist": "Edison Lighthouse",
+              "rank": 1,
+              "title": "Love Grows (Where My Rosemary Goes)"
+            }
+          ],
+          "startDate": "1970-02-07"
+        },
+        {
+          "endDate": "1970-02-13",
+          "items": [
+            {
+              "artist": "Edison Lighthouse",
+              "rank": 1,
+              "title": "Love Grows"
+            }
+          ],
+          "startDate": "1970-02-11"
+        },
+        {
+          "endDate": "1970-02-17",
+          "items": [
+            {
+              "artist": "Edison Lighthouse",
+              "rank": 1,
+              "title": "Love Grows (Where My Rosemary Goes)"
+            }
+          ],
+          "startDate": "1970-02-14"
+        },
+        {
+          "endDate": "1970-02-20",
+          "items": [
+            {
+              "artist": "Edison Lighthouse",
+              "rank": 1,
+              "title": "Love Grows"
+            }
+          ],
+          "startDate": "1970-02-18"
+        },
+        {
+          "endDate": "1970-02-24",
+          "items": [
+            {
+              "artist": "Edison Lighthouse",
+              "rank": 1,
+              "title": "Love Grows (Where My Rosemary Goes)"
+            }
+          ],
+          "startDate": "1970-02-21"
+        },
+        {
+          "endDate": "1970-02-27",
           "items": [
             {
               "artist": "The Jackson 5",
               "rank": 1,
-              "title": "I Want You Back\" ‡"
+              "title": "I Want You Back"
             }
           ],
           "startDate": "1970-02-25"
+        },
+        {
+          "endDate": "1970-03-03",
+          "items": [
+            {
+              "artist": "Edison Lighthouse",
+              "rank": 1,
+              "title": "Love Grows (Where My Rosemary Goes)"
+            }
+          ],
+          "startDate": "1970-02-28"
         },
         {
           "endDate": "1970-03-24",
@@ -59,7 +530,7 @@
           "startDate": "1970-03-04"
         },
         {
-          "endDate": "1970-04-21",
+          "endDate": "1970-04-17",
           "items": [
             {
               "artist": "Simon & Garfunkel",
@@ -70,7 +541,18 @@
           "startDate": "1970-03-25"
         },
         {
-          "endDate": "1970-05-05",
+          "endDate": "1970-04-21",
+          "items": [
+            {
+              "artist": "Dana",
+              "rank": 1,
+              "title": "All Kinds of Everything"
+            }
+          ],
+          "startDate": "1970-04-18"
+        },
+        {
+          "endDate": "1970-04-24",
           "items": [
             {
               "artist": "Norman Greenbaum",
@@ -81,7 +563,29 @@
           "startDate": "1970-04-22"
         },
         {
-          "endDate": "1970-05-26",
+          "endDate": "1970-04-28",
+          "items": [
+            {
+              "artist": "Dana",
+              "rank": 1,
+              "title": "All Kinds of Everything"
+            }
+          ],
+          "startDate": "1970-04-25"
+        },
+        {
+          "endDate": "1970-05-05",
+          "items": [
+            {
+              "artist": "Norman Greenbaum",
+              "rank": 1,
+              "title": "Spirit in the Sky"
+            }
+          ],
+          "startDate": "1970-04-29"
+        },
+        {
+          "endDate": "1970-05-08",
           "items": [
             {
               "artist": "England World Cup Squad \"70",
@@ -92,15 +596,81 @@
           "startDate": "1970-05-06"
         },
         {
-          "endDate": "1970-06-02",
+          "endDate": "1970-05-12",
+          "items": [
+            {
+              "artist": "Norman Greenbaum",
+              "rank": 1,
+              "title": "Spirit in the Sky"
+            }
+          ],
+          "startDate": "1970-05-09"
+        },
+        {
+          "endDate": "1970-05-15",
+          "items": [
+            {
+              "artist": "England World Cup Squad \"70",
+              "rank": 1,
+              "title": "Back Home"
+            }
+          ],
+          "startDate": "1970-05-13"
+        },
+        {
+          "endDate": "1970-05-19",
+          "items": [
+            {
+              "artist": "England World Cup Squad",
+              "rank": 1,
+              "title": "Back Home"
+            }
+          ],
+          "startDate": "1970-05-16"
+        },
+        {
+          "endDate": "1970-05-22",
+          "items": [
+            {
+              "artist": "England World Cup Squad \"70",
+              "rank": 1,
+              "title": "Back Home"
+            }
+          ],
+          "startDate": "1970-05-20"
+        },
+        {
+          "endDate": "1970-05-26",
+          "items": [
+            {
+              "artist": "England World Cup Squad",
+              "rank": 1,
+              "title": "Back Home"
+            }
+          ],
+          "startDate": "1970-05-23"
+        },
+        {
+          "endDate": "1970-05-29",
           "items": [
             {
               "artist": "The Moody Blues",
               "rank": 1,
-              "title": "Question\" ‡"
+              "title": "Question"
             }
           ],
           "startDate": "1970-05-27"
+        },
+        {
+          "endDate": "1970-06-02",
+          "items": [
+            {
+              "artist": "England World Cup Squad",
+              "rank": 1,
+              "title": "Back Home"
+            }
+          ],
+          "startDate": "1970-05-30"
         },
         {
           "endDate": "1970-06-09",
@@ -125,23 +695,78 @@
           "startDate": "1970-06-10"
         },
         {
-          "endDate": "1970-07-28",
+          "endDate": "1970-07-10",
           "items": [
             {
               "artist": "Free",
               "rank": 1,
-              "title": "All Right Now\" ‡"
+              "title": "All Right Now"
             }
           ],
           "startDate": "1970-07-08"
         },
         {
-          "endDate": "1970-08-04",
+          "endDate": "1970-07-14",
+          "items": [
+            {
+              "artist": "Mungo Jerry",
+              "rank": 1,
+              "title": "In the Summertime"
+            }
+          ],
+          "startDate": "1970-07-11"
+        },
+        {
+          "endDate": "1970-07-17",
+          "items": [
+            {
+              "artist": "Free",
+              "rank": 1,
+              "title": "All Right Now"
+            }
+          ],
+          "startDate": "1970-07-15"
+        },
+        {
+          "endDate": "1970-07-21",
+          "items": [
+            {
+              "artist": "Mungo Jerry",
+              "rank": 1,
+              "title": "In the Summertime"
+            }
+          ],
+          "startDate": "1970-07-18"
+        },
+        {
+          "endDate": "1970-07-24",
+          "items": [
+            {
+              "artist": "Free",
+              "rank": 1,
+              "title": "All Right Now"
+            }
+          ],
+          "startDate": "1970-07-22"
+        },
+        {
+          "endDate": "1970-07-28",
+          "items": [
+            {
+              "artist": "Mungo Jerry",
+              "rank": 1,
+              "title": "In the Summertime"
+            }
+          ],
+          "startDate": "1970-07-25"
+        },
+        {
+          "endDate": "1970-07-31",
           "items": [
             {
               "artist": "The Kinks",
               "rank": 1,
-              "title": "Lola\" ‡"
+              "title": "Lola"
             }
           ],
           "startDate": "1970-07-29"
@@ -155,10 +780,10 @@
               "title": "The Wonder of You"
             }
           ],
-          "startDate": "1970-08-05"
+          "startDate": "1970-08-01"
         },
         {
-          "endDate": "1970-09-22",
+          "endDate": "1970-08-28",
           "items": [
             {
               "artist": "Smokey Robinson and The Miracles",
@@ -169,6 +794,72 @@
           "startDate": "1970-08-26"
         },
         {
+          "endDate": "1970-09-01",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "The Wonder of You"
+            }
+          ],
+          "startDate": "1970-08-29"
+        },
+        {
+          "endDate": "1970-09-04",
+          "items": [
+            {
+              "artist": "Smokey Robinson and The Miracles",
+              "rank": 1,
+              "title": "The Tears of a Clown"
+            }
+          ],
+          "startDate": "1970-09-02"
+        },
+        {
+          "endDate": "1970-09-08",
+          "items": [
+            {
+              "artist": "Elvis Presley",
+              "rank": 1,
+              "title": "The Wonder of You"
+            }
+          ],
+          "startDate": "1970-09-05"
+        },
+        {
+          "endDate": "1970-09-11",
+          "items": [
+            {
+              "artist": "Smokey Robinson and The Miracles",
+              "rank": 1,
+              "title": "The Tears of a Clown"
+            }
+          ],
+          "startDate": "1970-09-09"
+        },
+        {
+          "endDate": "1970-09-15",
+          "items": [
+            {
+              "artist": "Smokey Robinson and the Miracles",
+              "rank": 1,
+              "title": "The Tears of a Clown"
+            }
+          ],
+          "startDate": "1970-09-12"
+        },
+        {
+          "endDate": "1970-09-18",
+          "items": [
+            {
+              "artist": "Smokey Robinson and The Miracles",
+              "rank": 1,
+              "title": "The Tears of a Clown"
+            }
+          ],
+          "startDate": "1970-09-16"
+        },
+        {
           "endDate": "1970-10-27",
           "items": [
             {
@@ -177,21 +868,32 @@
               "title": "Band of Gold"
             }
           ],
-          "startDate": "1970-09-23"
+          "startDate": "1970-09-19"
         },
         {
-          "endDate": "1970-11-03",
+          "endDate": "1970-10-30",
           "items": [
             {
               "artist": "Deep Purple",
               "rank": 1,
-              "title": "Black Night\" ‡"
+              "title": "Black Night"
             }
           ],
           "startDate": "1970-10-28"
         },
         {
-          "endDate": "1970-11-24",
+          "endDate": "1970-11-03",
+          "items": [
+            {
+              "artist": "Matthews Southern Comfort",
+              "rank": 1,
+              "title": "Woodstock"
+            }
+          ],
+          "startDate": "1970-10-31"
+        },
+        {
+          "endDate": "1970-11-06",
           "items": [
             {
               "artist": "Matthews' Southern Comfort",
@@ -202,7 +904,62 @@
           "startDate": "1970-11-04"
         },
         {
-          "endDate": "1970-12-01",
+          "endDate": "1970-11-10",
+          "items": [
+            {
+              "artist": "Matthews Southern Comfort",
+              "rank": 1,
+              "title": "Woodstock"
+            }
+          ],
+          "startDate": "1970-11-07"
+        },
+        {
+          "endDate": "1970-11-13",
+          "items": [
+            {
+              "artist": "Matthews' Southern Comfort",
+              "rank": 1,
+              "title": "Woodstock"
+            }
+          ],
+          "startDate": "1970-11-11"
+        },
+        {
+          "endDate": "1970-11-17",
+          "items": [
+            {
+              "artist": "Matthews Southern Comfort",
+              "rank": 1,
+              "title": "Woodstock"
+            }
+          ],
+          "startDate": "1970-11-14"
+        },
+        {
+          "endDate": "1970-11-20",
+          "items": [
+            {
+              "artist": "Matthews' Southern Comfort",
+              "rank": 1,
+              "title": "Woodstock"
+            }
+          ],
+          "startDate": "1970-11-18"
+        },
+        {
+          "endDate": "1970-11-24",
+          "items": [
+            {
+              "artist": "The Jimi Hendrix Experience",
+              "rank": 1,
+              "title": "Voodoo Chile"
+            }
+          ],
+          "startDate": "1970-11-21"
+        },
+        {
+          "endDate": "1970-11-27",
           "items": [
             {
               "artist": "Jimi Hendrix Experience",
@@ -213,7 +970,18 @@
           "startDate": "1970-11-25"
         },
         {
-          "endDate": "1970-12-22",
+          "endDate": "1970-12-01",
+          "items": [
+            {
+              "artist": "Dave Edmunds",
+              "rank": 1,
+              "title": "I Hear You Knocking"
+            }
+          ],
+          "startDate": "1970-11-28"
+        },
+        {
+          "endDate": "1970-12-04",
           "items": [
             {
               "artist": "Dave Edmunds's Rockpile",
@@ -224,15 +992,81 @@
           "startDate": "1970-12-02"
         },
         {
-          "endDate": "1970-12-29",
+          "endDate": "1970-12-08",
+          "items": [
+            {
+              "artist": "Dave Edmunds",
+              "rank": 1,
+              "title": "I Hear You Knocking"
+            }
+          ],
+          "startDate": "1970-12-05"
+        },
+        {
+          "endDate": "1970-12-11",
+          "items": [
+            {
+              "artist": "Dave Edmunds's Rockpile",
+              "rank": 1,
+              "title": "I Hear You Knocking"
+            }
+          ],
+          "startDate": "1970-12-09"
+        },
+        {
+          "endDate": "1970-12-15",
+          "items": [
+            {
+              "artist": "Dave Edmunds",
+              "rank": 1,
+              "title": "I Hear You Knocking"
+            }
+          ],
+          "startDate": "1970-12-12"
+        },
+        {
+          "endDate": "1970-12-18",
+          "items": [
+            {
+              "artist": "Dave Edmunds's Rockpile",
+              "rank": 1,
+              "title": "I Hear You Knocking"
+            }
+          ],
+          "startDate": "1970-12-16"
+        },
+        {
+          "endDate": "1970-12-22",
+          "items": [
+            {
+              "artist": "Dave Edmunds",
+              "rank": 1,
+              "title": "I Hear You Knocking"
+            }
+          ],
+          "startDate": "1970-12-19"
+        },
+        {
+          "endDate": "1970-12-25",
           "items": [
             {
               "artist": "McGuinness Flint",
               "rank": 1,
-              "title": "When I'm Dead and Gone\" ‡"
+              "title": "When I'm Dead and Gone"
             }
           ],
           "startDate": "1970-12-23"
+        },
+        {
+          "endDate": "1970-12-29",
+          "items": [
+            {
+              "artist": "Dave Edmunds",
+              "rank": 1,
+              "title": "I Hear You Knocking"
+            }
+          ],
+          "startDate": "1970-12-26"
         },
         {
           "endDate": "1970-12-31",
@@ -249,7 +1083,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -257,7 +1091,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "70175f4828b80a1568f1be5cb905e6a8a72fd9eb85ff4040bd83637d097e8778",
+  "contentHash": "c9fbcdd3bfbbe1cea42edba70e1d410a7e18c68ac87cf3b0ce6b89d23be69de2",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1970

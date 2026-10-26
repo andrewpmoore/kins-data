@@ -1,5 +1,51 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2014",
+      "items": [
+        {
+          "author": "Jonas Jonasson",
+          "creator": "Jonas Jonasson",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+          "title": "Die Analphabetin, die rechnen konnte",
+          "url": "https://books.google.com/books?q=Die+Analphabetin,+die+rechnen+konnte"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Belletristik · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2014/"
+      },
+      "title": "DE print bestseller",
+      "year": 2014
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2014",
+      "items": [
+        {
+          "author": "Jeff Kinney",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+          "title": "Gregs Tagebuch 9: Böse Falle!",
+          "url": "https://books.google.com/books?q=Gregs+Tagebuch+9:+Böse+Falle!"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "SPIEGEL-Jahresbestseller Kinder- und Jugendbuch · Deutschland",
+        "observedAt": "2026-10-21",
+        "provider": "Spiegel / buchreport",
+        "territory": "DE",
+        "url": "https://www.buchreport.de/spiegel-bestseller/jahresbestseller-2014/"
+      },
+      "title": "DE children's bestseller",
+      "year": 2014
+    },
     "games": {
       "id": "media-awardWinner-2014",
       "items": [
@@ -24,7 +70,7 @@
       "year": 2014
     }
   },
-  "contentHash": "1390fcfba75d3416f0e27a1577d63d7292588e10d84607906c00c79c2279d88e",
+  "contentHash": "a3adcc949a6b9348facb84c2f3f8bbe12cb82df8be3b0086932bcc8c61d986ba",
   "country": "de",
   "schemaVersion": 1,
   "year": 2014

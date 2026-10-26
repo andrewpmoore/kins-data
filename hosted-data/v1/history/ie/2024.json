@@ -37,6 +37,39 @@
           "startDate": "2024-04-05"
         },
         {
+          "endDate": "2024-05-16",
+          "items": [
+            {
+              "artist": "Sabrina Carpenter",
+              "rank": 1,
+              "title": "Espresso"
+            }
+          ],
+          "startDate": "2024-05-10"
+        },
+        {
+          "endDate": "2024-07-11",
+          "items": [
+            {
+              "artist": "Sabrina Carpenter",
+              "rank": 1,
+              "title": "Please Please Please"
+            }
+          ],
+          "startDate": "2024-06-14"
+        },
+        {
+          "endDate": "2024-08-01",
+          "items": [
+            {
+              "artist": "Sabrina Carpenter",
+              "rank": 1,
+              "title": "Please Please Please"
+            }
+          ],
+          "startDate": "2024-07-19"
+        },
+        {
           "endDate": "2024-08-29",
           "items": [
             {
@@ -46,6 +79,50 @@
             }
           ],
           "startDate": "2024-08-23"
+        },
+        {
+          "endDate": "2024-09-05",
+          "items": [
+            {
+              "artist": "Sabrina Carpenter",
+              "rank": 1,
+              "title": "Taste"
+            }
+          ],
+          "startDate": "2024-08-30"
+        },
+        {
+          "endDate": "2024-09-26",
+          "items": [
+            {
+              "artist": "Sabrina Carpenter",
+              "rank": 1,
+              "title": "Taste"
+            }
+          ],
+          "startDate": "2024-09-20"
+        },
+        {
+          "endDate": "2024-10-17",
+          "items": [
+            {
+              "artist": "Sabrina Carpenter",
+              "rank": 1,
+              "title": "Taste"
+            }
+          ],
+          "startDate": "2024-10-11"
+        },
+        {
+          "endDate": "2024-12-19",
+          "items": [
+            {
+              "artist": "Gracie Abrams",
+              "rank": 1,
+              "title": "That's So True"
+            }
+          ],
+          "startDate": "2024-12-13"
         }
       ],
       "source": {
@@ -59,7 +136,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "e4ab9c6a5aeefd2dc7ef38dd5da75ffd375cd54c196ce44ddbc298240f95676b",
+  "contentHash": "314837050540dc303760abf467b1319dcadfe1658bad0bf73a32105a3ffc11ec",
   "country": "ie",
   "schemaVersion": 1,
   "year": 2024

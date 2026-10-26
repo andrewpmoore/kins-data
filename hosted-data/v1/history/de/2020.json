@@ -1,5 +1,289 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2020-01-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: Episode IX - The Rise of Skywalker"
+            }
+          ],
+          "startDate": "2020-01-01"
+        },
+        {
+          "endDate": "2020-02-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bad Boys for Life"
+            }
+          ],
+          "startDate": "2020-01-19"
+        },
+        {
+          "endDate": "2020-02-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dolittle"
+            }
+          ],
+          "startDate": "2020-02-02"
+        },
+        {
+          "endDate": "2020-02-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn"
+            }
+          ],
+          "startDate": "2020-02-09"
+        },
+        {
+          "endDate": "2020-02-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nightlife"
+            }
+          ],
+          "startDate": "2020-02-16"
+        },
+        {
+          "endDate": "2020-02-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sonic the Hedgehog"
+            }
+          ],
+          "startDate": "2020-02-23"
+        },
+        {
+          "endDate": "2020-03-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nightlife"
+            }
+          ],
+          "startDate": "2020-03-01"
+        },
+        {
+          "endDate": "2020-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Kangaroo Chronicles"
+            }
+          ],
+          "startDate": "2020-03-08"
+        },
+        {
+          "endDate": "2020-04-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Invisible Man"
+            }
+          ],
+          "startDate": "2020-03-22"
+        },
+        {
+          "endDate": "2020-05-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Swift"
+            }
+          ],
+          "startDate": "2020-04-12"
+        },
+        {
+          "endDate": "2020-05-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Kangaroo Chronicles"
+            }
+          ],
+          "startDate": "2020-05-10"
+        },
+        {
+          "endDate": "2020-05-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Perfect Secret"
+            }
+          ],
+          "startDate": "2020-05-17"
+        },
+        {
+          "endDate": "2020-05-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Perfect Candidate"
+            }
+          ],
+          "startDate": "2020-05-24"
+        },
+        {
+          "endDate": "2020-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Perfect Secret"
+            }
+          ],
+          "startDate": "2020-05-31"
+        },
+        {
+          "endDate": "2020-06-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nightlife"
+            }
+          ],
+          "startDate": "2020-06-07"
+        },
+        {
+          "endDate": "2020-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Kangaroo Chronicles"
+            }
+          ],
+          "startDate": "2020-06-28"
+        },
+        {
+          "endDate": "2020-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Takeover"
+            }
+          ],
+          "startDate": "2020-07-05"
+        },
+        {
+          "endDate": "2020-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bloodshot"
+            }
+          ],
+          "startDate": "2020-07-12"
+        },
+        {
+          "endDate": "2020-07-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Unhinged"
+            }
+          ],
+          "startDate": "2020-07-19"
+        },
+        {
+          "endDate": "2020-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Takeover"
+            }
+          ],
+          "startDate": "2020-07-26"
+        },
+        {
+          "endDate": "2020-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Invisible Man"
+            }
+          ],
+          "startDate": "2020-08-02"
+        },
+        {
+          "endDate": "2020-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Still Believe"
+            }
+          ],
+          "startDate": "2020-08-16"
+        },
+        {
+          "endDate": "2020-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tenet"
+            }
+          ],
+          "startDate": "2020-08-30"
+        },
+        {
+          "endDate": "2020-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Jim Button and the Wild 13"
+            }
+          ],
+          "startDate": "2020-09-27"
+        },
+        {
+          "endDate": "2020-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Greenland"
+            }
+          ],
+          "startDate": "2020-10-25"
+        },
+        {
+          "endDate": "2020-11-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dragon Rider"
+            }
+          ],
+          "startDate": "2020-11-22"
+        },
+        {
+          "endDate": "2020-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Greenland"
+            }
+          ],
+          "startDate": "2020-11-29"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "DE",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -31,7 +315,7 @@
             {
               "artist": "The Weeknd",
               "rank": 1,
-              "title": "Blinding Lights\" †"
+              "title": "Blinding Lights"
             }
           ],
           "startDate": "2020-01-10"
@@ -64,7 +348,7 @@
             {
               "artist": "The Weeknd",
               "rank": 1,
-              "title": "Blinding Lights\" †"
+              "title": "Blinding Lights"
             }
           ],
           "startDate": "2020-02-14"
@@ -86,7 +370,7 @@
             {
               "artist": "The Weeknd",
               "rank": 1,
-              "title": "Blinding Lights\" †"
+              "title": "Blinding Lights"
             }
           ],
           "startDate": "2020-03-20"
@@ -119,7 +403,7 @@
             {
               "artist": "The Weeknd",
               "rank": 1,
-              "title": "Blinding Lights\" †"
+              "title": "Blinding Lights"
             }
           ],
           "startDate": "2020-04-17"
@@ -262,7 +546,7 @@
             {
               "artist": "Jawsh 685 and Jason Derulo",
               "rank": 1,
-              "title": "Savage Love"
+              "title": "Savage Love (Laxed – Siren Beat)"
             }
           ],
           "startDate": "2020-08-14"
@@ -392,7 +676,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-06",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -400,7 +684,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "f8e45469c865440bc45aea50cc27e43ed4c1862877bfd69e7421209c719748bc",
+  "contentHash": "fb09307ed94ab0890b2be75a7e07d76e571fe08b6e437f4cc740ddfd79de8c84",
   "country": "de",
   "schemaVersion": 1,
   "year": 2020

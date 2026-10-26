@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2014",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780753827666",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780753827666-L.jpg?default=false",
+          "author": "Gillian Flynn",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780753827666",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780753827666-L.jpg?default=false",
+          "creator": "Gillian Flynn",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "Gone Girl",
+          "url": "https://books.google.com/books?vid=ISBN:9780753827666"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2014/dec/19/john-green-fault-in-our-stars-bestselling-2014"
+      },
+      "title": "UK print bestseller",
+      "year": 2014
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2014",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780141345659",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780141345659-L.jpg?default=false",
+          "author": "John Green",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780141345659",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780141345659-L.jpg?default=false",
+          "creator": "John Green",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "The Fault in Our Stars",
+          "url": "https://books.google.com/books?vid=ISBN:9780141345659"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2014/dec/19/john-green-fault-in-our-stars-bestselling-2014"
+      },
+      "title": "UK children's bestseller",
+      "year": 2014
+    },
     "games": {
       "id": "media-awardWinner-2014",
       "items": [
@@ -46,7 +104,7 @@
       "year": 2014
     }
   },
-  "contentHash": "f6f6f9ff2dead1c4a793a7bf9508716d535471bbe243ebd6916288c127166cf2",
+  "contentHash": "e274c97c0e6a8288629edafaf615d45aa261b726e4b2c603e5e58fec2e7b2635",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2014

@@ -9,7 +9,7 @@
             {
               "artist": "Elton John",
               "rank": 1,
-              "title": "Candle in the Wind '97\" / \"Something About the Way You Look Tonight\"♪"
+              "title": "Candle in the Wind '97 / Something About the Way You Look Tonight"
             }
           ],
           "startDate": "1998-01-01"
@@ -86,7 +86,7 @@
             {
               "artist": "Next",
               "rank": 1,
-              "title": "Too Close\"♪"
+              "title": "Too Close"
             }
           ],
           "startDate": "1998-04-25"
@@ -172,7 +172,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-28",
+        "observedAt": "2026-10-17",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -180,7 +180,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "9eb60c94162b8b013fba108a9e798b62db23fc3d011700aadec17564c40074bd",
+  "contentHash": "57ec96b117a3cdc0a38956eff32886218c65b920543c349a01e3daa915d6b7ec",
   "country": "us",
   "schemaVersion": 1,
   "year": 1998

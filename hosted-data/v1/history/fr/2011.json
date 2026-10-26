@@ -1,54 +1,327 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2011-01-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Tangled"
+            }
+          ],
+          "startDate": "2011-01-01"
+        },
+        {
+          "endDate": "2011-01-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Second Chance"
+            }
+          ],
+          "startDate": "2011-01-09"
+        },
+        {
+          "endDate": "2011-01-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Season of the Witch"
+            }
+          ],
+          "startDate": "2011-01-16"
+        },
+        {
+          "endDate": "2011-02-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hereafter"
+            }
+          ],
+          "startDate": "2011-01-23"
+        },
+        {
+          "endDate": "2011-03-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Nothing to Declare"
+            }
+          ],
+          "startDate": "2011-02-06"
+        },
+        {
+          "endDate": "2011-03-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Rite"
+            }
+          ],
+          "startDate": "2011-03-13"
+        },
+        {
+          "endDate": "2011-03-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "My Piece of the Pie"
+            }
+          ],
+          "startDate": "2011-03-20"
+        },
+        {
+          "endDate": "2011-04-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rango"
+            }
+          ],
+          "startDate": "2011-03-27"
+        },
+        {
+          "endDate": "2011-04-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Titeuf: The Movie"
+            }
+          ],
+          "startDate": "2011-04-10"
+        },
+        {
+          "endDate": "2011-04-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rio"
+            }
+          ],
+          "startDate": "2011-04-17"
+        },
+        {
+          "endDate": "2011-05-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Thor"
+            }
+          ],
+          "startDate": "2011-05-01"
+        },
+        {
+          "endDate": "2011-05-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fast Five"
+            }
+          ],
+          "startDate": "2011-05-08"
+        },
+        {
+          "endDate": "2011-06-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: On Stranger Tides"
+            }
+          ],
+          "startDate": "2011-05-22"
+        },
+        {
+          "endDate": "2011-07-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Kung Fu Panda 2"
+            }
+          ],
+          "startDate": "2011-06-19"
+        },
+        {
+          "endDate": "2011-07-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers: Dark of the Moon"
+            }
+          ],
+          "startDate": "2011-07-03"
+        },
+        {
+          "endDate": "2011-07-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Deathly Hallows: Part 2"
+            }
+          ],
+          "startDate": "2011-07-17"
+        },
+        {
+          "endDate": "2011-08-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cars 2"
+            }
+          ],
+          "startDate": "2011-07-31"
+        },
+        {
+          "endDate": "2011-08-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Smurfs"
+            }
+          ],
+          "startDate": "2011-08-07"
+        },
+        {
+          "endDate": "2011-09-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rise of the Planet of the Apes"
+            }
+          ],
+          "startDate": "2011-08-14"
+        },
+        {
+          "endDate": "2011-09-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Final Destination 5"
+            }
+          ],
+          "startDate": "2011-09-04"
+        },
+        {
+          "endDate": "2011-09-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Friends with Benefits"
+            }
+          ],
+          "startDate": "2011-09-11"
+        },
+        {
+          "endDate": "2011-10-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "War of the Buttons"
+            }
+          ],
+          "startDate": "2011-09-18"
+        },
+        {
+          "endDate": "2011-10-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bienvenue à bord"
+            }
+          ],
+          "startDate": "2011-10-09"
+        },
+        {
+          "endDate": "2011-10-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Artist"
+            }
+          ],
+          "startDate": "2011-10-16"
+        },
+        {
+          "endDate": "2011-10-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Polisse"
+            }
+          ],
+          "startDate": "2011-10-23"
+        },
+        {
+          "endDate": "2011-11-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Adventures of Tintin"
+            }
+          ],
+          "startDate": "2011-10-30"
+        },
+        {
+          "endDate": "2011-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Intouchables"
+            }
+          ],
+          "startDate": "2011-11-06"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
         {
-          "endDate": "2011-01-20",
+          "endDate": "2011-01-01",
           "items": [
             {
-              "artist": "Adam Lambert",
+              "artist": "IZ Kamakawiwoʻole",
               "rank": 1,
-              "title": "Whataya Want from Me"
+              "title": "Over the Rainbow"
             }
           ],
-          "startDate": "2011-01-14"
+          "startDate": "2011-01-01"
         },
         {
-          "endDate": "2011-02-17",
+          "endDate": "2011-03-05",
           "items": [
             {
-              "artist": "Lady Gaga",
+              "artist": "Israel \"IZ\" Kamakawiwo'ole",
               "rank": 1,
-              "title": "Born This Way"
+              "title": "Over the Rainbow"
             }
           ],
-          "startDate": "2011-02-11"
+          "startDate": "2011-01-02"
         },
         {
-          "endDate": "2011-02-24",
+          "endDate": "2011-03-12",
           "items": [
             {
-              "artist": "Alexandra Stan",
+              "artist": "Colonel Reyel",
               "rank": 1,
-              "title": "Mr. Saxobeat"
+              "title": "Celui..."
             }
           ],
-          "startDate": "2011-02-18"
+          "startDate": "2011-03-06"
         },
         {
-          "endDate": "2011-03-03",
-          "items": [
-            {
-              "artist": "Bruno Mars",
-              "rank": 1,
-              "title": "Grenade"
-            }
-          ],
-          "startDate": "2011-02-25"
-        },
-        {
-          "endDate": "2011-03-17",
+          "endDate": "2011-03-19",
           "items": [
             {
               "artist": "Colonel Reyel",
@@ -56,43 +329,76 @@
               "title": "Toutes les nuits"
             }
           ],
-          "startDate": "2011-03-11"
+          "startDate": "2011-03-13"
         },
         {
-          "endDate": "2011-05-19",
+          "endDate": "2011-03-26",
           "items": [
             {
-              "artist": "Lady Gaga",
+              "artist": "Jennifer Lopez featuring Pitbull",
               "rank": 1,
-              "title": "The Edge of Glory"
+              "title": "On the Floor"
             }
           ],
-          "startDate": "2011-05-13"
+          "startDate": "2011-03-20"
         },
         {
-          "endDate": "2011-06-30",
+          "endDate": "2011-04-23",
           "items": [
             {
-              "artist": "Loona",
+              "artist": "The Black Eyed Peas",
               "rank": 1,
-              "title": "Vamos a la playa"
+              "title": "Just Can't Get Enough"
             }
           ],
-          "startDate": "2011-06-24"
+          "startDate": "2011-03-27"
         },
         {
-          "endDate": "2011-07-07",
+          "endDate": "2011-04-30",
           "items": [
             {
-              "artist": "Collectif Métissé",
+              "artist": "Mylène Farmer",
               "rank": 1,
-              "title": "Laisse tomber tes problèmes"
+              "title": "Bleu Noir"
             }
           ],
-          "startDate": "2011-07-01"
+          "startDate": "2011-04-24"
         },
         {
-          "endDate": "2011-07-14",
+          "endDate": "2011-05-07",
+          "items": [
+            {
+              "artist": "Jessie J featuring B.o.B",
+              "rank": 1,
+              "title": "Price Tag"
+            }
+          ],
+          "startDate": "2011-05-01"
+        },
+        {
+          "endDate": "2011-05-21",
+          "items": [
+            {
+              "artist": "Snoop Dogg vs. David Guetta",
+              "rank": 1,
+              "title": "Sweat"
+            }
+          ],
+          "startDate": "2011-05-08"
+        },
+        {
+          "endDate": "2011-07-09",
+          "items": [
+            {
+              "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+              "rank": 1,
+              "title": "Party Rock Anthem"
+            }
+          ],
+          "startDate": "2011-05-22"
+        },
+        {
+          "endDate": "2011-07-16",
           "items": [
             {
               "artist": "Mylène Farmer",
@@ -100,32 +406,21 @@
               "title": "Lonely Lisa"
             }
           ],
-          "startDate": "2011-07-08"
+          "startDate": "2011-07-10"
         },
         {
-          "endDate": "2011-07-21",
+          "endDate": "2011-07-30",
           "items": [
             {
-              "artist": "David Guetta featuring Flo Rida and Nicki Minaj",
+              "artist": "LMFAO featuring Lauren Bennett and GoonRock",
               "rank": 1,
-              "title": "Where Them Girls At"
+              "title": "Party Rock Anthem"
             }
           ],
-          "startDate": "2011-07-15"
+          "startDate": "2011-07-17"
         },
         {
-          "endDate": "2011-07-28",
-          "items": [
-            {
-              "artist": "Elisa Tovati and Tom Dice",
-              "rank": 1,
-              "title": "Il nous faut"
-            }
-          ],
-          "startDate": "2011-07-22"
-        },
-        {
-          "endDate": "2011-08-04",
+          "endDate": "2011-09-03",
           "items": [
             {
               "artist": "Rihanna",
@@ -133,32 +428,10 @@
               "title": "Man Down"
             }
           ],
-          "startDate": "2011-07-29"
+          "startDate": "2011-07-31"
         },
         {
-          "endDate": "2011-08-11",
-          "items": [
-            {
-              "artist": "Inna Modja",
-              "rank": 1,
-              "title": "French Cancan"
-            }
-          ],
-          "startDate": "2011-08-05"
-        },
-        {
-          "endDate": "2011-08-18",
-          "items": [
-            {
-              "artist": "David Guetta and Sia",
-              "rank": 1,
-              "title": "Titanium"
-            }
-          ],
-          "startDate": "2011-08-12"
-        },
-        {
-          "endDate": "2011-09-08",
+          "endDate": "2011-10-01",
           "items": [
             {
               "artist": "Mika",
@@ -166,10 +439,10 @@
               "title": "Elle me dit"
             }
           ],
-          "startDate": "2011-09-02"
+          "startDate": "2011-09-04"
         },
         {
-          "endDate": "2011-10-06",
+          "endDate": "2011-10-08",
           "items": [
             {
               "artist": "Rihanna featuring Calvin Harris",
@@ -177,79 +450,68 @@
               "title": "We Found Love"
             }
           ],
-          "startDate": "2011-09-30"
+          "startDate": "2011-10-02"
         },
         {
-          "endDate": "2011-10-13",
+          "endDate": "2011-10-15",
+          "items": [
+            {
+              "artist": "Mika",
+              "rank": 1,
+              "title": "Elle me dit"
+            }
+          ],
+          "startDate": "2011-10-09"
+        },
+        {
+          "endDate": "2011-10-22",
           "items": [
             {
               "artist": "Adele",
               "rank": 1,
-              "title": "Set Fire to the Rain"
+              "title": "Someone like You"
             }
           ],
-          "startDate": "2011-10-07"
+          "startDate": "2011-10-16"
         },
         {
-          "endDate": "2011-11-03",
+          "endDate": "2011-11-19",
           "items": [
             {
-              "artist": "David Guetta featuring Usher",
+              "artist": "Rihanna featuring Calvin Harris",
               "rank": 1,
-              "title": "Without You"
+              "title": "We Found Love"
             }
           ],
-          "startDate": "2011-10-28"
+          "startDate": "2011-10-23"
         },
         {
-          "endDate": "2011-11-10",
+          "endDate": "2011-12-10",
           "items": [
             {
-              "artist": "Flo Rida",
+              "artist": "Adele",
               "rank": 1,
-              "title": "Good Feeling"
+              "title": "Someone like You"
             }
           ],
-          "startDate": "2011-11-04"
-        },
-        {
-          "endDate": "2011-12-08",
-          "items": [
-            {
-              "artist": "Sean Paul",
-              "rank": 1,
-              "title": "She Doesn't Mind"
-            }
-          ],
-          "startDate": "2011-12-02"
-        },
-        {
-          "endDate": "2011-12-22",
-          "items": [
-            {
-              "artist": "Collectif Paris Africa",
-              "rank": 1,
-              "title": "Des ricochets"
-            }
-          ],
-          "startDate": "2011-12-16"
+          "startDate": "2011-11-20"
         },
         {
           "endDate": "2011-12-31",
           "items": [
             {
-              "artist": "LMFAO",
+              "artist": "Shakira",
               "rank": 1,
-              "title": "Sexy and I Know It"
+              "title": "Je l'aime à mourir"
             }
           ],
-          "startDate": "2011-12-30"
+          "startDate": "2011-12-11"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-01",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -257,7 +519,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "c868079ebc2acdc2cb4b3f75f784a802821c43ea71a73d76137b161fb76ffd43",
+  "contentHash": "c2a212a9c76220f97c651f44c67ce317f00f7f34820f4fe4e7d98a46c28d7586",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2011

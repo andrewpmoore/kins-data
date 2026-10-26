@@ -1,5 +1,86 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2000",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780099280255",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780099280255-L.jpg?default=false",
+          "author": "John Grisham",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780099280255",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780099280255-L.jpg?default=false",
+          "creator": "John Grisham",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "The Brethren",
+          "url": "https://books.google.com/books?vid=ISBN:9780099280255"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2001/jan/06/bestbooks.fiction"
+      },
+      "title": "UK print bestseller",
+      "year": 2000
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2000",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780747546245",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780747546245-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780747546245",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780747546245-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Harry Potter and the Goblet of Fire",
+          "url": "https://books.google.com/books?vid=ISBN:9780747546245"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2001/jan/06/bestbooks.fiction"
+      },
+      "title": "UK children's bestseller",
+      "year": 2000
+    },
+    "games": {
+      "id": "media-awardWinner-2000",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=481",
+          "artworkURL": "https://www.interactive.org/images/games/2000_the_sims_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2000,
+          "title": "The Sims"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2000&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2000
+    },
     "television": {
       "id": "media-annualTelevisionAudience-2000",
       "items": [
@@ -26,7 +107,7 @@
       "year": 2000
     }
   },
-  "contentHash": "73b3870a425f5edc2341c203cd4379a907849038a0466b4a5a417cdbf33d1f78",
+  "contentHash": "a3011affb0f63272af3c738a2566fb5a531e2dce5b297192bf692e0721ae5ae6",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2000

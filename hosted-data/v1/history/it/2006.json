@@ -1,0 +1,557 @@
+{
+  "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2006-01-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Natale a Miami"
+            }
+          ],
+          "startDate": "2006-01-01"
+        },
+        {
+          "endDate": "2006-01-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Love You in Every Language in the World"
+            }
+          ],
+          "startDate": "2006-01-08"
+        },
+        {
+          "endDate": "2006-01-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Match Point"
+            }
+          ],
+          "startDate": "2006-01-15"
+        },
+        {
+          "endDate": "2006-01-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Eccezzziunale veramente - Capitolo secondo... me"
+            }
+          ],
+          "startDate": "2006-01-22"
+        },
+        {
+          "endDate": "2006-02-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fun with Dick and Jane"
+            }
+          ],
+          "startDate": "2006-01-29"
+        },
+        {
+          "endDate": "2006-02-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Prime"
+            }
+          ],
+          "startDate": "2006-02-12"
+        },
+        {
+          "endDate": "2006-03-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Night Before the Exams"
+            }
+          ],
+          "startDate": "2006-02-19"
+        },
+        {
+          "endDate": "2006-04-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "My Best Enemy"
+            }
+          ],
+          "startDate": "2006-03-12"
+        },
+        {
+          "endDate": "2006-04-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Caiman"
+            }
+          ],
+          "startDate": "2006-04-02"
+        },
+        {
+          "endDate": "2006-04-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Inside Man"
+            }
+          ],
+          "startDate": "2006-04-09"
+        },
+        {
+          "endDate": "2006-05-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ice Age 2: The Meltdown"
+            }
+          ],
+          "startDate": "2006-04-23"
+        },
+        {
+          "endDate": "2006-05-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Mission: Impossible III"
+            }
+          ],
+          "startDate": "2006-05-07"
+        },
+        {
+          "endDate": "2006-06-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Da Vinci Code"
+            }
+          ],
+          "startDate": "2006-05-21"
+        },
+        {
+          "endDate": "2006-07-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Date Movie"
+            }
+          ],
+          "startDate": "2006-06-25"
+        },
+        {
+          "endDate": "2006-07-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Silent Hill"
+            }
+          ],
+          "startDate": "2006-07-09"
+        },
+        {
+          "endDate": "2006-08-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Fast and the Furious: Tokyo Drift"
+            }
+          ],
+          "startDate": "2006-07-16"
+        },
+        {
+          "endDate": "2006-08-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Garfield: A Tail of Two Kitties"
+            }
+          ],
+          "startDate": "2006-08-13"
+        },
+        {
+          "endDate": "2006-09-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cars"
+            }
+          ],
+          "startDate": "2006-08-27"
+        },
+        {
+          "endDate": "2006-09-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Superman Returns"
+            }
+          ],
+          "startDate": "2006-09-03"
+        },
+        {
+          "endDate": "2006-09-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cars"
+            }
+          ],
+          "startDate": "2006-09-10"
+        },
+        {
+          "endDate": "2006-10-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: Dead Man's Chest"
+            }
+          ],
+          "startDate": "2006-09-17"
+        },
+        {
+          "endDate": "2006-10-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Miami Vice"
+            }
+          ],
+          "startDate": "2006-10-08"
+        },
+        {
+          "endDate": "2006-10-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Devil Wears Prada"
+            }
+          ],
+          "startDate": "2006-10-15"
+        },
+        {
+          "endDate": "2006-11-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Over the Hedge"
+            }
+          ],
+          "startDate": "2006-10-29"
+        },
+        {
+          "endDate": "2006-11-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Departed"
+            }
+          ],
+          "startDate": "2006-11-05"
+        },
+        {
+          "endDate": "2006-11-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "My Super Ex-Girlfriend"
+            }
+          ],
+          "startDate": "2006-11-19"
+        },
+        {
+          "endDate": "2006-12-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Anplagghed al cinema"
+            }
+          ],
+          "startDate": "2006-11-26"
+        },
+        {
+          "endDate": "2006-12-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Open Season"
+            }
+          ],
+          "startDate": "2006-12-10"
+        },
+        {
+          "endDate": "2006-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Christmas in New York"
+            }
+          ],
+          "startDate": "2006-12-17"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2006-02-09",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Hung Up"
+            }
+          ],
+          "startDate": "2006-01-01"
+        },
+        {
+          "endDate": "2006-02-16",
+          "items": [
+            {
+              "artist": "Tina Turner and Elisa",
+              "rank": 1,
+              "title": "Teach Me Again"
+            }
+          ],
+          "startDate": "2006-02-10"
+        },
+        {
+          "endDate": "2006-03-09",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Sorry"
+            }
+          ],
+          "startDate": "2006-02-17"
+        },
+        {
+          "endDate": "2006-03-16",
+          "items": [
+            {
+              "artist": "Eros Ramazzotti and Anastacia",
+              "rank": 1,
+              "title": "I Belong to You (Il Ritmo della Passione)"
+            }
+          ],
+          "startDate": "2006-03-10"
+        },
+        {
+          "endDate": "2006-03-30",
+          "items": [
+            {
+              "artist": "Zero Assoluto",
+              "rank": 1,
+              "title": "Svegliarsi la mattina"
+            }
+          ],
+          "startDate": "2006-03-17"
+        },
+        {
+          "endDate": "2006-04-06",
+          "items": [
+            {
+              "artist": "Gianna Nannini",
+              "rank": 1,
+              "title": "Sei nell'anima"
+            }
+          ],
+          "startDate": "2006-03-31"
+        },
+        {
+          "endDate": "2006-05-11",
+          "items": [
+            {
+              "artist": "Zero Assoluto",
+              "rank": 1,
+              "title": "Svegliarsi la mattina"
+            }
+          ],
+          "startDate": "2006-04-07"
+        },
+        {
+          "endDate": "2006-05-25",
+          "items": [
+            {
+              "artist": "Shakira featuring Wyclef Jean",
+              "rank": 1,
+              "title": "Hips Don't Lie"
+            }
+          ],
+          "startDate": "2006-05-12"
+        },
+        {
+          "endDate": "2006-06-29",
+          "items": [
+            {
+              "artist": "Tiziano Ferro",
+              "rank": 1,
+              "title": "Stop! Dimentica"
+            }
+          ],
+          "startDate": "2006-05-26"
+        },
+        {
+          "endDate": "2006-07-06",
+          "items": [
+            {
+              "artist": "George Michael",
+              "rank": 1,
+              "title": "An Easier Affair"
+            }
+          ],
+          "startDate": "2006-06-30"
+        },
+        {
+          "endDate": "2006-07-13",
+          "items": [
+            {
+              "artist": "Zero Assoluto",
+              "rank": 1,
+              "title": "Sei parte di me"
+            }
+          ],
+          "startDate": "2006-07-07"
+        },
+        {
+          "endDate": "2006-08-17",
+          "items": [
+            {
+              "artist": "Checco Zalone",
+              "rank": 1,
+              "title": "Siamo una squadra fortissimi"
+            }
+          ],
+          "startDate": "2006-07-14"
+        },
+        {
+          "endDate": "2006-08-31",
+          "items": [
+            {
+              "artist": "Zero Assoluto",
+              "rank": 1,
+              "title": "Sei parte di me"
+            }
+          ],
+          "startDate": "2006-08-18"
+        },
+        {
+          "endDate": "2006-09-07",
+          "items": [
+            {
+              "artist": "Robbie Williams",
+              "rank": 1,
+              "title": "Rudebox"
+            }
+          ],
+          "startDate": "2006-09-01"
+        },
+        {
+          "endDate": "2006-10-12",
+          "items": [
+            {
+              "artist": "Zero Assoluto",
+              "rank": 1,
+              "title": "Sei parte di me"
+            }
+          ],
+          "startDate": "2006-09-08"
+        },
+        {
+          "endDate": "2006-10-26",
+          "items": [
+            {
+              "artist": "Gigi D'Alessio",
+              "rank": 1,
+              "title": "Primo appuntamento"
+            }
+          ],
+          "startDate": "2006-10-13"
+        },
+        {
+          "endDate": "2006-11-02",
+          "items": [
+            {
+              "artist": "Depeche Mode",
+              "rank": 1,
+              "title": "Martyr"
+            }
+          ],
+          "startDate": "2006-10-27"
+        },
+        {
+          "endDate": "2006-11-09",
+          "items": [
+            {
+              "artist": "Madonna",
+              "rank": 1,
+              "title": "Jump"
+            }
+          ],
+          "startDate": "2006-11-03"
+        },
+        {
+          "endDate": "2006-12-14",
+          "items": [
+            {
+              "artist": "U2 and Green Day",
+              "rank": 1,
+              "title": "The Saints Are Coming"
+            }
+          ],
+          "startDate": "2006-11-10"
+        },
+        {
+          "endDate": "2006-12-28",
+          "items": [
+            {
+              "artist": "Laura Pausini",
+              "rank": 1,
+              "title": "Io canto"
+            }
+          ],
+          "startDate": "2006-12-15"
+        },
+        {
+          "endDate": "2006-12-31",
+          "items": [
+            {
+              "artist": "U2 and Green Day",
+              "rank": 1,
+              "title": "The Saints Are Coming"
+            }
+          ],
+          "startDate": "2006-12-29"
+        }
+      ],
+      "source": {
+        "kind": "nationalSinglesChart",
+        "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-15",
+        "provider": "Wikipedia contributors",
+        "territory": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
+      },
+      "title": "Historical number-one single"
+    }
+  },
+  "contentHash": "34ff16186412c3c53777839aae2524bc3f330a9ab961ddcd903725b5e6a2415b",
+  "country": "it",
+  "schemaVersion": 1,
+  "year": 2006
+}

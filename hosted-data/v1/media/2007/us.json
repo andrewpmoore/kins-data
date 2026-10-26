@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2007",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788777149917",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788777149917-L.jpg?default=false",
+          "author": "Khaled Hosseini",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788777149917",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788777149917-L.jpg?default=false",
+          "creator": "Khaled Hosseini",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "A Thousand Splendid Suns",
+          "url": "https://books.google.com/books?vid=ISBN:9788777149917"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2007-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2007
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2007",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9783867176651",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9783867176651-L.jpg?default=false",
+          "author": "J.K. Rowling",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9783867176651",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9783867176651-L.jpg?default=false",
+          "creator": "J.K. Rowling",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Harry Potter and the Deathly Hallows",
+          "url": "https://books.google.com/books?vid=ISBN:9783867176651"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2007-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2007
+    },
     "games": {
       "id": "media-awardWinner-2007",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2007
     }
   },
-  "contentHash": "987f42981a3cdac1a829b7112e70d738bce29798d0e42741fad54b8641bd3270",
+  "contentHash": "31db8196b21032a1c17a3e896451651975e36712d6ab4e2af894c72f791fb953",
   "country": "us",
   "schemaVersion": 1,
   "year": 2007

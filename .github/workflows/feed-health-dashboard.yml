@@ -1,0 +1,40 @@
+name: Publish data feed health dashboard
+
+on:
+  workflow_run:
+    workflows: [Harvest hosted app data]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: feed-health-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out data and health history
+        uses: actions/checkout@v6
+        with:
+          ref: main
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Render 28-day feed grid
+        run: python3 tools/data_harvest/feed_health_dashboard.py render --history hosted-data/feed-health --output _site/index.html
+      - name: Upload static page
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Publish dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4

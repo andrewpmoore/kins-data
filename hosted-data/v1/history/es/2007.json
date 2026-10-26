@@ -1,5 +1,369 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "2007-01-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Babel"
+            }
+          ],
+          "startDate": "2007-01-01"
+        },
+        {
+          "endDate": "2007-01-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rocky Balboa"
+            }
+          ],
+          "startDate": "2007-01-14"
+        },
+        {
+          "endDate": "2007-01-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Apocalypto"
+            }
+          ],
+          "startDate": "2007-01-21"
+        },
+        {
+          "endDate": "2007-02-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Night at the Museum"
+            }
+          ],
+          "startDate": "2007-01-28"
+        },
+        {
+          "endDate": "2007-02-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Blood Diamond"
+            }
+          ],
+          "startDate": "2007-02-11"
+        },
+        {
+          "endDate": "2007-03-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ghost Rider"
+            }
+          ],
+          "startDate": "2007-02-18"
+        },
+        {
+          "endDate": "2007-03-10",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bridge to Terabithia"
+            }
+          ],
+          "startDate": "2007-03-04"
+        },
+        {
+          "endDate": "2007-03-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Epic Movie"
+            }
+          ],
+          "startDate": "2007-03-11"
+        },
+        {
+          "endDate": "2007-03-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hannibal Rising"
+            }
+          ],
+          "startDate": "2007-03-18"
+        },
+        {
+          "endDate": "2007-04-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "300"
+            }
+          ],
+          "startDate": "2007-03-25"
+        },
+        {
+          "endDate": "2007-04-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Perfect Stranger"
+            }
+          ],
+          "startDate": "2007-04-15"
+        },
+        {
+          "endDate": "2007-04-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Music and Lyrics"
+            }
+          ],
+          "startDate": "2007-04-22"
+        },
+        {
+          "endDate": "2007-05-05",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Premonition"
+            }
+          ],
+          "startDate": "2007-04-29"
+        },
+        {
+          "endDate": "2007-05-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man 3"
+            }
+          ],
+          "startDate": "2007-05-06"
+        },
+        {
+          "endDate": "2007-06-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Pirates of the Caribbean: At World's End"
+            }
+          ],
+          "startDate": "2007-05-27"
+        },
+        {
+          "endDate": "2007-06-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ocean's Thirteen"
+            }
+          ],
+          "startDate": "2007-06-10"
+        },
+        {
+          "endDate": "2007-07-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Shrek the Third"
+            }
+          ],
+          "startDate": "2007-06-24"
+        },
+        {
+          "endDate": "2007-07-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Transformers"
+            }
+          ],
+          "startDate": "2007-07-08"
+        },
+        {
+          "endDate": "2007-07-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Harry Potter and the Order of the Phoenix"
+            }
+          ],
+          "startDate": "2007-07-15"
+        },
+        {
+          "endDate": "2007-08-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Simpsons Movie"
+            }
+          ],
+          "startDate": "2007-07-29"
+        },
+        {
+          "endDate": "2007-08-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ratatouille"
+            }
+          ],
+          "startDate": "2007-08-05"
+        },
+        {
+          "endDate": "2007-08-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fantastic Four: Rise of the Silver Surfer"
+            }
+          ],
+          "startDate": "2007-08-12"
+        },
+        {
+          "endDate": "2007-08-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bourne Ultimatum"
+            }
+          ],
+          "startDate": "2007-08-19"
+        },
+        {
+          "endDate": "2007-09-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Evan Almighty"
+            }
+          ],
+          "startDate": "2007-08-26"
+        },
+        {
+          "endDate": "2007-09-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Bourne Ultimatum"
+            }
+          ],
+          "startDate": "2007-09-02"
+        },
+        {
+          "endDate": "2007-09-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Live Free or Die Hard"
+            }
+          ],
+          "startDate": "2007-09-09"
+        },
+        {
+          "endDate": "2007-09-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "No Reservations"
+            }
+          ],
+          "startDate": "2007-09-23"
+        },
+        {
+          "endDate": "2007-10-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Rush Hour 3"
+            }
+          ],
+          "startDate": "2007-09-30"
+        },
+        {
+          "endDate": "2007-10-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Eastern Promises"
+            }
+          ],
+          "startDate": "2007-10-07"
+        },
+        {
+          "endDate": "2007-11-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Orphanage"
+            }
+          ],
+          "startDate": "2007-10-14"
+        },
+        {
+          "endDate": "2007-12-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Enchanted"
+            }
+          ],
+          "startDate": "2007-11-25"
+        },
+        {
+          "endDate": "2007-12-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Bee Movie"
+            }
+          ],
+          "startDate": "2007-12-02"
+        },
+        {
+          "endDate": "2007-12-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Golden Compass"
+            }
+          ],
+          "startDate": "2007-12-09"
+        },
+        {
+          "endDate": "2007-12-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "I Am Legend"
+            }
+          ],
+          "startDate": "2007-12-23"
+        },
+        {
+          "endDate": "2007-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "American Gangster"
+            }
+          ],
+          "startDate": "2007-12-30"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "ES",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -262,7 +626,7 @@
             {
               "artist": "Mägo de Oz",
               "rank": 1,
-              "title": "Y ahora voy a salir"
+              "title": "Y ahora voy a salir (Ranxeira)"
             }
           ],
           "startDate": "2007-10-21"
@@ -284,7 +648,7 @@
             {
               "artist": "Mägo de Oz",
               "rank": 1,
-              "title": "Y ahora voy a salir"
+              "title": "Y ahora voy a salir (Ranxeira)"
             }
           ],
           "startDate": "2007-11-04"
@@ -359,7 +723,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2008-12-28",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "ES",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
@@ -367,7 +731,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "55beda7a3d7d72e6d35a990ce55eaebf512bbf21c28eebf274de7925a44b9a16",
+  "contentHash": "b02225ff87571baa2a83687141866e6a71dbf2c248497f73ac2d8f19bfed66b6",
   "country": "es",
   "schemaVersion": 1,
   "year": 2007

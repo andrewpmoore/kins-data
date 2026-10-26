@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2018",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781472158666",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781472158666-L.jpg?default=false",
+          "author": "Delia Owens",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781472158666",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781472158666-L.jpg?default=false",
+          "creator": "Delia Owens",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "Where the Crawdads Sing",
+          "url": "https://books.google.com/books?vid=ISBN:9781472158666"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2018-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2018
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2018",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781646242122",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781646242122-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781646242122",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781646242122-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Diary of a Wimpy Kid: The Meltdown",
+          "url": "https://books.google.com/books?vid=ISBN:9781646242122"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2018-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2018
+    },
     "games": {
       "id": "media-awardWinner-2018",
       "items": [
@@ -9,7 +67,8 @@
           "artworkURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
           "rank": 1,
           "releaseYear": 2018,
-          "title": "God of War"
+          "title": "God of War",
+          "trailerURL": "https://www.youtube.com/watch?v=jCB36uNrZ9I"
         }
       ],
       "source": {
@@ -24,7 +83,7 @@
       "year": 2018
     }
   },
-  "contentHash": "f2a0195ba3ac19c998b82b89f69854e3a2e9525adff3ca6e65b12c049e221619",
+  "contentHash": "a43e2834eae6e872535b1e30adbcc329cedf48e91997d98517142b41e7f940f5",
   "country": "us",
   "schemaVersion": 1,
   "year": 2018

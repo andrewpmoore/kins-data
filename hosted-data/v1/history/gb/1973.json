@@ -1,5 +1,339 @@
 {
   "charts": {
+    "movies": {
+      "id": "legacy-national-number-one-film",
+      "periods": [
+        {
+          "endDate": "1973-01-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Poseidon Adventure"
+            }
+          ],
+          "startDate": "1973-01-01"
+        },
+        {
+          "endDate": "1973-01-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Getaway"
+            }
+          ],
+          "startDate": "1973-01-10"
+        },
+        {
+          "endDate": "1973-03-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Poseidon Adventure"
+            }
+          ],
+          "startDate": "1973-01-17"
+        },
+        {
+          "endDate": "1973-03-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Getaway"
+            }
+          ],
+          "startDate": "1973-03-14"
+        },
+        {
+          "endDate": "1973-03-27",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Poseidon Adventure"
+            }
+          ],
+          "startDate": "1973-03-21"
+        },
+        {
+          "endDate": "1973-04-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Five Fingers Of Death"
+            }
+          ],
+          "startDate": "1973-03-28"
+        },
+        {
+          "endDate": "1973-04-17",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cabaret"
+            }
+          ],
+          "startDate": "1973-04-04"
+        },
+        {
+          "endDate": "1973-04-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Five Fingers Of Death"
+            }
+          ],
+          "startDate": "1973-04-18"
+        },
+        {
+          "endDate": "1973-05-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Soylent Green"
+            }
+          ],
+          "startDate": "1973-04-25"
+        },
+        {
+          "endDate": "1973-05-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fists of Fury"
+            }
+          ],
+          "startDate": "1973-05-09"
+        },
+        {
+          "endDate": "1973-05-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Poseidon Adventure"
+            }
+          ],
+          "startDate": "1973-05-16"
+        },
+        {
+          "endDate": "1973-05-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Last Tango in Paris"
+            }
+          ],
+          "startDate": "1973-05-23"
+        },
+        {
+          "endDate": "1973-06-12",
+          "items": [
+            {
+              "rank": 1,
+              "title": "High Plains Drifter"
+            }
+          ],
+          "startDate": "1973-05-30"
+        },
+        {
+          "endDate": "1973-06-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Chinese Connection"
+            }
+          ],
+          "startDate": "1973-06-13"
+        },
+        {
+          "endDate": "1973-06-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hammer of God"
+            }
+          ],
+          "startDate": "1973-06-20"
+        },
+        {
+          "endDate": "1973-07-03",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scarecrow"
+            }
+          ],
+          "startDate": "1973-06-27"
+        },
+        {
+          "endDate": "1973-07-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Live and Let Die"
+            }
+          ],
+          "startDate": "1973-07-04"
+        },
+        {
+          "endDate": "1973-08-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Karado: The Hong Kong Flash"
+            }
+          ],
+          "startDate": "1973-08-01"
+        },
+        {
+          "endDate": "1973-08-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Live and Let Die"
+            }
+          ],
+          "startDate": "1973-08-08"
+        },
+        {
+          "endDate": "1973-08-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Coffy"
+            }
+          ],
+          "startDate": "1973-08-15"
+        },
+        {
+          "endDate": "1973-08-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Paper Moon"
+            }
+          ],
+          "startDate": "1973-08-22"
+        },
+        {
+          "endDate": "1973-09-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Enter the Dragon"
+            }
+          ],
+          "startDate": "1973-08-29"
+        },
+        {
+          "endDate": "1973-09-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Lady Kung Fu"
+            }
+          ],
+          "startDate": "1973-09-12"
+        },
+        {
+          "endDate": "1973-09-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Shanghai Killers"
+            }
+          ],
+          "startDate": "1973-09-19"
+        },
+        {
+          "endDate": "1973-10-02",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Dillinger"
+            }
+          ],
+          "startDate": "1973-09-26"
+        },
+        {
+          "endDate": "1973-10-09",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Deadly China Doll"
+            }
+          ],
+          "startDate": "1973-10-03"
+        },
+        {
+          "endDate": "1973-10-16",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Enter the Dragon"
+            }
+          ],
+          "startDate": "1973-10-10"
+        },
+        {
+          "endDate": "1973-10-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Cheerleaders/Fritz the Cat"
+            }
+          ],
+          "startDate": "1973-10-17"
+        },
+        {
+          "endDate": "1973-10-30",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Paper Moon"
+            }
+          ],
+          "startDate": "1973-10-24"
+        },
+        {
+          "endDate": "1973-11-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Billy Jack"
+            }
+          ],
+          "startDate": "1973-10-31"
+        },
+        {
+          "endDate": "1973-12-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Way We Were"
+            }
+          ],
+          "startDate": "1973-11-21"
+        },
+        {
+          "endDate": "1973-12-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Serpico"
+            }
+          ],
+          "startDate": "1973-12-26"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "GB",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
+      },
+      "title": "Historical number-one box office film"
+    },
     "music": {
       "id": "legacy-national-number-one-single",
       "periods": [
@@ -15,18 +349,29 @@
           "startDate": "1973-01-01"
         },
         {
-          "endDate": "1973-01-23",
+          "endDate": "1973-01-19",
           "items": [
             {
               "artist": "David Bowie",
               "rank": 1,
-              "title": "The Jean Genie\" ‡"
+              "title": "The Jean Genie"
             }
           ],
           "startDate": "1973-01-17"
         },
         {
-          "endDate": "1973-02-20",
+          "endDate": "1973-01-23",
+          "items": [
+            {
+              "artist": "Little Jimmy Osmond",
+              "rank": 1,
+              "title": "Long Haired Lover from Liverpool"
+            }
+          ],
+          "startDate": "1973-01-20"
+        },
+        {
+          "endDate": "1973-01-26",
           "items": [
             {
               "artist": "Sweet",
@@ -37,15 +382,114 @@
           "startDate": "1973-01-24"
         },
         {
-          "endDate": "1973-03-06",
+          "endDate": "1973-01-30",
+          "items": [
+            {
+              "artist": "The Sweet",
+              "rank": 1,
+              "title": "Blockbuster!"
+            }
+          ],
+          "startDate": "1973-01-27"
+        },
+        {
+          "endDate": "1973-02-02",
+          "items": [
+            {
+              "artist": "Sweet",
+              "rank": 1,
+              "title": "Blockbuster"
+            }
+          ],
+          "startDate": "1973-01-31"
+        },
+        {
+          "endDate": "1973-02-06",
+          "items": [
+            {
+              "artist": "The Sweet",
+              "rank": 1,
+              "title": "Blockbuster!"
+            }
+          ],
+          "startDate": "1973-02-03"
+        },
+        {
+          "endDate": "1973-02-09",
+          "items": [
+            {
+              "artist": "Sweet",
+              "rank": 1,
+              "title": "Blockbuster"
+            }
+          ],
+          "startDate": "1973-02-07"
+        },
+        {
+          "endDate": "1973-02-13",
+          "items": [
+            {
+              "artist": "The Sweet",
+              "rank": 1,
+              "title": "Blockbuster!"
+            }
+          ],
+          "startDate": "1973-02-10"
+        },
+        {
+          "endDate": "1973-02-16",
+          "items": [
+            {
+              "artist": "Sweet",
+              "rank": 1,
+              "title": "Blockbuster"
+            }
+          ],
+          "startDate": "1973-02-14"
+        },
+        {
+          "endDate": "1973-02-20",
+          "items": [
+            {
+              "artist": "The Sweet",
+              "rank": 1,
+              "title": "Blockbuster!"
+            }
+          ],
+          "startDate": "1973-02-17"
+        },
+        {
+          "endDate": "1973-02-23",
           "items": [
             {
               "artist": "Strawbs",
               "rank": 1,
-              "title": "Part of the Union\" ‡"
+              "title": "Part of the Union"
             }
           ],
           "startDate": "1973-02-21"
+        },
+        {
+          "endDate": "1973-02-27",
+          "items": [
+            {
+              "artist": "The Sweet",
+              "rank": 1,
+              "title": "Blockbuster!"
+            }
+          ],
+          "startDate": "1973-02-24"
+        },
+        {
+          "endDate": "1973-03-02",
+          "items": [
+            {
+              "artist": "Strawbs",
+              "rank": 1,
+              "title": "Part of the Union"
+            }
+          ],
+          "startDate": "1973-02-28"
         },
         {
           "endDate": "1973-03-27",
@@ -56,10 +500,10 @@
               "title": "Cum On Feel the Noize"
             }
           ],
-          "startDate": "1973-03-07"
+          "startDate": "1973-03-03"
         },
         {
-          "endDate": "1973-04-10",
+          "endDate": "1973-04-06",
           "items": [
             {
               "artist": "Donny Osmond",
@@ -78,10 +522,10 @@
               "title": "Get Down"
             }
           ],
-          "startDate": "1973-04-11"
+          "startDate": "1973-04-07"
         },
         {
-          "endDate": "1973-05-22",
+          "endDate": "1973-04-20",
           "items": [
             {
               "artist": "Dawn featuring Tony Orlando",
@@ -92,6 +536,94 @@
           "startDate": "1973-04-18"
         },
         {
+          "endDate": "1973-04-24",
+          "items": [
+            {
+              "artist": "Tony Orlando and Dawn",
+              "rank": 1,
+              "title": "Tie a Yellow Ribbon Round the Ole Oak Tree"
+            }
+          ],
+          "startDate": "1973-04-21"
+        },
+        {
+          "endDate": "1973-04-27",
+          "items": [
+            {
+              "artist": "Dawn featuring Tony Orlando",
+              "rank": 1,
+              "title": "Tie a Yellow Ribbon Round the Ole Oak Tree"
+            }
+          ],
+          "startDate": "1973-04-25"
+        },
+        {
+          "endDate": "1973-05-01",
+          "items": [
+            {
+              "artist": "Tony Orlando and Dawn",
+              "rank": 1,
+              "title": "Tie a Yellow Ribbon Round the Ole Oak Tree"
+            }
+          ],
+          "startDate": "1973-04-28"
+        },
+        {
+          "endDate": "1973-05-04",
+          "items": [
+            {
+              "artist": "Dawn featuring Tony Orlando",
+              "rank": 1,
+              "title": "Tie a Yellow Ribbon Round the Ole Oak Tree"
+            }
+          ],
+          "startDate": "1973-05-02"
+        },
+        {
+          "endDate": "1973-05-08",
+          "items": [
+            {
+              "artist": "Tony Orlando and Dawn",
+              "rank": 1,
+              "title": "Tie a Yellow Ribbon Round the Ole Oak Tree"
+            }
+          ],
+          "startDate": "1973-05-05"
+        },
+        {
+          "endDate": "1973-05-11",
+          "items": [
+            {
+              "artist": "Dawn featuring Tony Orlando",
+              "rank": 1,
+              "title": "Tie a Yellow Ribbon Round the Ole Oak Tree"
+            }
+          ],
+          "startDate": "1973-05-09"
+        },
+        {
+          "endDate": "1973-05-15",
+          "items": [
+            {
+              "artist": "Tony Orlando and Dawn",
+              "rank": 1,
+              "title": "Tie a Yellow Ribbon Round the Ole Oak Tree"
+            }
+          ],
+          "startDate": "1973-05-12"
+        },
+        {
+          "endDate": "1973-05-18",
+          "items": [
+            {
+              "artist": "Dawn featuring Tony Orlando",
+              "rank": 1,
+              "title": "Tie a Yellow Ribbon Round the Ole Oak Tree"
+            }
+          ],
+          "startDate": "1973-05-16"
+        },
+        {
           "endDate": "1973-06-05",
           "items": [
             {
@@ -100,10 +632,10 @@
               "title": "See My Baby Jive"
             }
           ],
-          "startDate": "1973-05-23"
+          "startDate": "1973-05-19"
         },
         {
-          "endDate": "1973-06-26",
+          "endDate": "1973-06-08",
           "items": [
             {
               "artist": "Suzi Quatro",
@@ -114,7 +646,29 @@
           "startDate": "1973-06-06"
         },
         {
-          "endDate": "1973-07-03",
+          "endDate": "1973-06-12",
+          "items": [
+            {
+              "artist": "Wizzard",
+              "rank": 1,
+              "title": "See My Baby Jive"
+            }
+          ],
+          "startDate": "1973-06-09"
+        },
+        {
+          "endDate": "1973-06-22",
+          "items": [
+            {
+              "artist": "Suzi Quatro",
+              "rank": 1,
+              "title": "Can the Can"
+            }
+          ],
+          "startDate": "1973-06-13"
+        },
+        {
+          "endDate": "1973-06-29",
           "items": [
             {
               "artist": "10cc",
@@ -122,7 +676,7 @@
               "title": "Rubber Bullets"
             }
           ],
-          "startDate": "1973-06-27"
+          "startDate": "1973-06-23"
         },
         {
           "endDate": "1973-07-17",
@@ -133,10 +687,10 @@
               "title": "Skweeze Me, Pleeze Me"
             }
           ],
-          "startDate": "1973-07-04"
+          "startDate": "1973-06-30"
         },
         {
-          "endDate": "1973-07-31",
+          "endDate": "1973-07-27",
           "items": [
             {
               "artist": "Peters and Lee",
@@ -147,7 +701,18 @@
           "startDate": "1973-07-18"
         },
         {
-          "endDate": "1973-08-28",
+          "endDate": "1973-07-31",
+          "items": [
+            {
+              "artist": "Gary Glitter",
+              "rank": 1,
+              "title": "I'm the Leader of the Gang (I Am)"
+            }
+          ],
+          "startDate": "1973-07-28"
+        },
+        {
+          "endDate": "1973-08-03",
           "items": [
             {
               "artist": "Gary Glitter",
@@ -158,6 +723,72 @@
           "startDate": "1973-08-01"
         },
         {
+          "endDate": "1973-08-07",
+          "items": [
+            {
+              "artist": "Gary Glitter",
+              "rank": 1,
+              "title": "I'm the Leader of the Gang (I Am)"
+            }
+          ],
+          "startDate": "1973-08-04"
+        },
+        {
+          "endDate": "1973-08-10",
+          "items": [
+            {
+              "artist": "Gary Glitter",
+              "rank": 1,
+              "title": "I'm the Leader of the Gang"
+            }
+          ],
+          "startDate": "1973-08-08"
+        },
+        {
+          "endDate": "1973-08-14",
+          "items": [
+            {
+              "artist": "Gary Glitter",
+              "rank": 1,
+              "title": "I'm the Leader of the Gang (I Am)"
+            }
+          ],
+          "startDate": "1973-08-11"
+        },
+        {
+          "endDate": "1973-08-17",
+          "items": [
+            {
+              "artist": "Gary Glitter",
+              "rank": 1,
+              "title": "I'm the Leader of the Gang"
+            }
+          ],
+          "startDate": "1973-08-15"
+        },
+        {
+          "endDate": "1973-08-21",
+          "items": [
+            {
+              "artist": "Gary Glitter",
+              "rank": 1,
+              "title": "I'm the Leader of the Gang (I Am)"
+            }
+          ],
+          "startDate": "1973-08-18"
+        },
+        {
+          "endDate": "1973-08-24",
+          "items": [
+            {
+              "artist": "Gary Glitter",
+              "rank": 1,
+              "title": "I'm the Leader of the Gang"
+            }
+          ],
+          "startDate": "1973-08-22"
+        },
+        {
           "endDate": "1973-09-11",
           "items": [
             {
@@ -166,10 +797,10 @@
               "title": "Young Love"
             }
           ],
-          "startDate": "1973-08-29"
+          "startDate": "1973-08-25"
         },
         {
-          "endDate": "1973-09-18",
+          "endDate": "1973-09-14",
           "items": [
             {
               "artist": "Wizzard",
@@ -180,29 +811,51 @@
           "startDate": "1973-09-12"
         },
         {
-          "endDate": "1973-09-25",
+          "endDate": "1973-09-18",
+          "items": [
+            {
+              "artist": "Donny Osmond",
+              "rank": 1,
+              "title": "Young Love"
+            }
+          ],
+          "startDate": "1973-09-15"
+        },
+        {
+          "endDate": "1973-09-21",
           "items": [
             {
               "artist": "David Essex",
               "rank": 1,
-              "title": "Rock On\" ‡"
+              "title": "Rock On"
             }
           ],
           "startDate": "1973-09-19"
         },
         {
-          "endDate": "1973-10-02",
+          "endDate": "1973-09-25",
+          "items": [
+            {
+              "artist": "Wizzard",
+              "rank": 1,
+              "title": "Angel Fingers"
+            }
+          ],
+          "startDate": "1973-09-22"
+        },
+        {
+          "endDate": "1973-09-28",
           "items": [
             {
               "artist": "Sweet",
               "rank": 1,
-              "title": "The Ballroom Blitz\" ‡"
+              "title": "The Ballroom Blitz"
             }
           ],
           "startDate": "1973-09-26"
         },
         {
-          "endDate": "1973-10-30",
+          "endDate": "1973-10-26",
           "items": [
             {
               "artist": "Simon Park Orchestra",
@@ -210,7 +863,40 @@
               "title": "Eye Level"
             }
           ],
-          "startDate": "1973-10-03"
+          "startDate": "1973-09-29"
+        },
+        {
+          "endDate": "1973-10-30",
+          "items": [
+            {
+              "artist": "David Cassidy",
+              "rank": 1,
+              "title": "Daydreamer / The Puppy Song"
+            }
+          ],
+          "startDate": "1973-10-27"
+        },
+        {
+          "endDate": "1973-11-02",
+          "items": [
+            {
+              "artist": "David Cassidy",
+              "rank": 1,
+              "title": "The Puppy Song / Daydreamer"
+            }
+          ],
+          "startDate": "1973-10-31"
+        },
+        {
+          "endDate": "1973-11-06",
+          "items": [
+            {
+              "artist": "David Cassidy",
+              "rank": 1,
+              "title": "Daydreamer / The Puppy Song"
+            }
+          ],
+          "startDate": "1973-11-03"
         },
         {
           "endDate": "1973-11-08",
@@ -218,13 +904,13 @@
             {
               "artist": "David Cassidy",
               "rank": 1,
-              "title": "The Puppy Song\" / \"Daydreamer"
+              "title": "The Puppy Song / Daydreamer"
             }
           ],
-          "startDate": "1973-10-31"
+          "startDate": "1973-11-07"
         },
         {
-          "endDate": "1973-11-13",
+          "endDate": "1973-11-09",
           "items": [
             {
               "artist": "Gary Glitter",
@@ -235,12 +921,23 @@
           "startDate": "1973-11-09"
         },
         {
-          "endDate": "1973-11-20",
+          "endDate": "1973-11-13",
+          "items": [
+            {
+              "artist": "David Cassidy",
+              "rank": 1,
+              "title": "Daydreamer / The Puppy Song"
+            }
+          ],
+          "startDate": "1973-11-10"
+        },
+        {
+          "endDate": "1973-11-16",
           "items": [
             {
               "artist": "The Osmonds",
               "rank": 1,
-              "title": "Let Me In\" ‡"
+              "title": "Let Me In"
             }
           ],
           "startDate": "1973-11-14"
@@ -254,10 +951,10 @@
               "title": "I Love You Love Me Love"
             }
           ],
-          "startDate": "1973-11-21"
+          "startDate": "1973-11-17"
         },
         {
-          "endDate": "1973-12-11",
+          "endDate": "1973-12-07",
           "items": [
             {
               "artist": "Slade",
@@ -268,7 +965,7 @@
           "startDate": "1973-12-07"
         },
         {
-          "endDate": "1973-12-18",
+          "endDate": "1973-12-14",
           "items": [
             {
               "artist": "Gary Glitter",
@@ -276,10 +973,21 @@
               "title": "I Love You Love Me Love"
             }
           ],
-          "startDate": "1973-12-12"
+          "startDate": "1973-12-08"
         },
         {
-          "endDate": "1973-12-31",
+          "endDate": "1973-12-18",
+          "items": [
+            {
+              "artist": "Slade",
+              "rank": 1,
+              "title": "Merry Xmas Everybody"
+            }
+          ],
+          "startDate": "1973-12-15"
+        },
+        {
+          "endDate": "1973-12-21",
           "items": [
             {
               "artist": "Slade",
@@ -288,12 +996,45 @@
             }
           ],
           "startDate": "1973-12-19"
+        },
+        {
+          "endDate": "1973-12-25",
+          "items": [
+            {
+              "artist": "Slade",
+              "rank": 1,
+              "title": "Merry Xmas Everybody"
+            }
+          ],
+          "startDate": "1973-12-22"
+        },
+        {
+          "endDate": "1973-12-28",
+          "items": [
+            {
+              "artist": "Slade",
+              "rank": 1,
+              "title": "Merry Christmas Everybody"
+            }
+          ],
+          "startDate": "1973-12-26"
+        },
+        {
+          "endDate": "1973-12-31",
+          "items": [
+            {
+              "artist": "Slade",
+              "rank": 1,
+              "title": "Merry Xmas Everybody"
+            }
+          ],
+          "startDate": "1973-12-29"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-02-05",
+        "observedAt": "2026-10-15",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -301,7 +1042,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "ab4549e72b5935729b7e3dc0d1808f3de5e7f5cbdace6d5e43ecb5821c36bfb6",
+  "contentHash": "1092ced46002bbeb0eaa277f656c2a2704664d3cacf7fa18676ba0824d16fb03",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1973

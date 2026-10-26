@@ -1,5 +1,86 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2006",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780752865546",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780752865546-L.jpg?default=false",
+          "author": "Kate Mosse",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780752865546",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780752865546-L.jpg?default=false",
+          "creator": "Kate Mosse",
+          "rank": 1,
+          "scope": "UK print bestseller · calendar year",
+          "title": "Labyrinth",
+          "url": "https://books.google.com/books?vid=ISBN:9780752865546"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK print bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2006/dec/29/news.uk"
+      },
+      "title": "UK print bestseller",
+      "year": 2006
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2006",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9781406300826",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9781406300826-L.jpg?default=false",
+          "author": "Anthony Horowitz",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9781406300826",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9781406300826-L.jpg?default=false",
+          "creator": "Anthony Horowitz",
+          "rank": 1,
+          "scope": "UK children's bestseller · calendar year",
+          "title": "Ark Angel",
+          "url": "https://books.google.com/books?vid=ISBN:9781406300826"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "UK children's bestseller · calendar year",
+        "observedAt": "2026-09-28",
+        "provider": "The Bookseller / Nielsen BookScan",
+        "territory": "GB",
+        "url": "https://www.theguardian.com/books/2006/dec/29/news.uk"
+      },
+      "title": "UK children's bestseller",
+      "year": 2006
+    },
+    "games": {
+      "id": "media-awardWinner-2006",
+      "items": [
+        {
+          "artworkProviderName": "Academy of Interactive Arts & Sciences",
+          "artworkSourceURL": "https://www.interactive.org/games/video_game_details.asp?idAward=2006&idGame=111",
+          "artworkURL": "https://www.interactive.org/images/games/2006_god_of_war_sm.jpg",
+          "rank": 1,
+          "releaseYear": 2005,
+          "title": "God of War"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2006&idGameAwardType=109"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2006
+    },
     "television": {
       "id": "media-annualTelevisionAudience-2006",
       "items": [
@@ -23,7 +104,7 @@
       "year": 2006
     }
   },
-  "contentHash": "e5fd51c2b063286825621d501a6ff3eaca45df4ec7b3eab4ecc67b3d5fd97e9b",
+  "contentHash": "249fbb008160324b9ddc731c800554c960d547de6441ac3110d5e0172b4fe457",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2006

@@ -1,5 +1,63 @@
 {
   "charts": {
+    "adultBooks": {
+      "id": "media-adultBooks-2009",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9788184985580",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9788184985580-L.jpg?default=false",
+          "author": "Dan Brown",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9788184985580",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9788184985580-L.jpg?default=false",
+          "creator": "Dan Brown",
+          "rank": 1,
+          "scope": "US annual #1 print novel · calendar year",
+          "title": "The Lost Symbol",
+          "url": "https://books.google.com/books?vid=ISBN:9788184985580"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 print novel · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2009-bestselling-books.html"
+      },
+      "title": "US print bestseller",
+      "year": 2009
+    },
+    "childrensBooks": {
+      "id": "media-childrensBooks-2009",
+      "items": [
+        {
+          "artworkProviderName": "Open Library",
+          "artworkSourceURL": "https://openlibrary.org/isbn/9780141347752",
+          "artworkURL": "https://covers.openlibrary.org/b/isbn/9780141347752-L.jpg?default=false",
+          "author": "Jeff Kinney",
+          "coverProviderName": "Open Library",
+          "coverSourceURL": "https://openlibrary.org/isbn/9780141347752",
+          "coverURL": "https://covers.openlibrary.org/b/isbn/9780141347752-L.jpg?default=false",
+          "creator": "Jeff Kinney",
+          "rank": 1,
+          "scope": "US annual #1 children's bestseller · calendar year",
+          "title": "Diary of a Wimpy Kid: The Last Straw",
+          "url": "https://books.google.com/books?vid=ISBN:9780141347752"
+        }
+      ],
+      "source": {
+        "kind": "nationalBookSales",
+        "metric": "US annual #1 children's bestseller · calendar year",
+        "observedAt": "2026-10-21",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/2009-bestselling-books.html"
+      },
+      "title": "US children's bestseller",
+      "year": 2009
+    },
     "games": {
       "id": "media-awardWinner-2009",
       "items": [
@@ -24,7 +82,7 @@
       "year": 2009
     }
   },
-  "contentHash": "b00960c6ec7882d708349384c9fb321deef642ea008191c9a96a94127a260635",
+  "contentHash": "39dcf728d3715c0686c5a266354b2af07b8d471f4d78676ee6fb9b9e82354ecc",
   "country": "us",
   "schemaVersion": 1,
   "year": 2009

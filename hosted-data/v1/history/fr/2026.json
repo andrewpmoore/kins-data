@@ -1,57 +1,336 @@
 {
   "charts": {
-    "music": {
-      "id": "legacy-national-number-one-single",
+    "movies": {
+      "id": "legacy-national-number-one-film",
       "periods": [
         {
-          "endDate": "2026-01-17",
+          "endDate": "2026-01-31",
           "items": [
             {
-              "artist": "Disiz and Theodora",
               "rank": 1,
-              "title": "Melodrama"
+              "title": "Avatar: Fire and Ash"
             }
           ],
-          "startDate": "2026-01-04"
+          "startDate": "2026-01-01"
         },
         {
           "endDate": "2026-02-07",
           "items": [
             {
-              "artist": "Djo",
               "rank": 1,
-              "title": "End of Beginning"
+              "title": "Guru"
             }
           ],
           "startDate": "2026-02-01"
         },
         {
-          "endDate": "2026-02-21",
-          "items": [
-            {
-              "artist": "Charlotte Cardin",
-              "rank": 1,
-              "title": "Tant pis pour elle"
-            }
-          ],
-          "startDate": "2026-02-15"
-        },
-        {
           "endDate": "2026-03-07",
           "items": [
             {
-              "artist": "Charlotte Cardin",
               "rank": 1,
-              "title": "Tant pis pour elle"
+              "title": "Marsupilami"
             }
           ],
-          "startDate": "2026-03-01"
+          "startDate": "2026-02-08"
+        },
+        {
+          "endDate": "2026-03-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hoppers"
+            }
+          ],
+          "startDate": "2026-03-08"
+        },
+        {
+          "endDate": "2026-04-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Project Hail Mary"
+            }
+          ],
+          "startDate": "2026-03-22"
+        },
+        {
+          "endDate": "2026-04-25",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Super Mario Galaxy Movie"
+            }
+          ],
+          "startDate": "2026-04-05"
+        },
+        {
+          "endDate": "2026-05-23",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Michael"
+            }
+          ],
+          "startDate": "2026-04-26"
+        },
+        {
+          "endDate": "2026-06-06",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Star Wars: The Mandalorian and Grogu"
+            }
+          ],
+          "startDate": "2026-05-24"
+        },
+        {
+          "endDate": "2026-06-13",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Scary Movie"
+            }
+          ],
+          "startDate": "2026-06-07"
+        },
+        {
+          "endDate": "2026-06-20",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Disclosure Day"
+            }
+          ],
+          "startDate": "2026-06-14"
+        },
+        {
+          "endDate": "2026-07-04",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Toy Story 5"
+            }
+          ],
+          "startDate": "2026-06-21"
+        },
+        {
+          "endDate": "2026-07-11",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Devil Wears Prada 2"
+            }
+          ],
+          "startDate": "2026-07-05"
+        },
+        {
+          "endDate": "2026-07-18",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moana"
+            }
+          ],
+          "startDate": "2026-07-12"
+        },
+        {
+          "endDate": "2026-08-01",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Odyssey"
+            }
+          ],
+          "startDate": "2026-07-19"
+        },
+        {
+          "endDate": "2026-08-08",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Brand New Day"
+            }
+          ],
+          "startDate": "2026-08-02"
+        },
+        {
+          "endDate": "2026-08-15",
+          "items": [
+            {
+              "rank": 1,
+              "title": "PAW Patrol: The Dino Movie"
+            }
+          ],
+          "startDate": "2026-08-09"
+        },
+        {
+          "endDate": "2026-08-22",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Moana"
+            }
+          ],
+          "startDate": "2026-08-16"
+        },
+        {
+          "endDate": "2026-08-29",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Spider-Man: Brand New Day"
+            }
+          ],
+          "startDate": "2026-08-23"
+        },
+        {
+          "endDate": "2026-09-19",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Odyssey"
+            }
+          ],
+          "startDate": "2026-08-30"
+        },
+        {
+          "endDate": "2026-09-26",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Resident Evil"
+            }
+          ],
+          "startDate": "2026-09-20"
+        },
+        {
+          "endDate": "2026-10-24",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Heart of the Beast"
+            }
+          ],
+          "startDate": "2026-09-27"
+        }
+      ],
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
+        "observedAt": "2026-10-18",
+        "provider": "Box Office Mojo / Wikipedia contributors",
+        "territory": "FR",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
+      },
+      "title": "Historical number-one box office film"
+    },
+    "music": {
+      "id": "legacy-national-number-one-single",
+      "periods": [
+        {
+          "endDate": "2026-03-19",
+          "items": [
+            {
+              "artist": "Disiz, Theodora",
+              "rank": 1,
+              "title": "Melodrama"
+            }
+          ],
+          "startDate": "2026-01-01"
+        },
+        {
+          "endDate": "2026-03-26",
+          "items": [
+            {
+              "artist": "PLK",
+              "rank": 1,
+              "title": "Pocahontas"
+            }
+          ],
+          "startDate": "2026-03-20"
+        },
+        {
+          "endDate": "2026-05-07",
+          "items": [
+            {
+              "artist": "Disiz, Theodora",
+              "rank": 1,
+              "title": "Melodrama"
+            }
+          ],
+          "startDate": "2026-03-27"
+        },
+        {
+          "endDate": "2026-05-21",
+          "items": [
+            {
+              "artist": "PLK",
+              "rank": 1,
+              "title": "Pocahontas"
+            }
+          ],
+          "startDate": "2026-05-08"
+        },
+        {
+          "endDate": "2026-06-18",
+          "items": [
+            {
+              "artist": "Aya Nakamura and La Rvfleuze",
+              "rank": 1,
+              "title": "Sexy Nana"
+            }
+          ],
+          "startDate": "2026-05-22"
+        },
+        {
+          "endDate": "2026-07-09",
+          "items": [
+            {
+              "artist": "Mauvais Djo",
+              "rank": 1,
+              "title": "Pilé"
+            }
+          ],
+          "startDate": "2026-06-19"
+        },
+        {
+          "endDate": "2026-09-10",
+          "items": [
+            {
+              "artist": "Shakira and Burna Boy",
+              "rank": 1,
+              "title": "Dai Dai"
+            }
+          ],
+          "startDate": "2026-07-10"
+        },
+        {
+          "endDate": "2026-09-24",
+          "items": [
+            {
+              "artist": "Mauvais Djo",
+              "rank": 1,
+              "title": "Maladie"
+            }
+          ],
+          "startDate": "2026-09-11"
+        },
+        {
+          "endDate": "2026-10-22",
+          "items": [
+            {
+              "artist": "Vacra, La Rvfleuze",
+              "rank": 1,
+              "title": "Fille À Papa"
+            }
+          ],
+          "startDate": "2026-09-25"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-03-01",
+        "observedAt": "2026-10-16",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -59,7 +338,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1944d3fac94a2d0af8d2b6092bf69720eb6ec722ee3ec6d8f15e8fe727431c58",
+  "contentHash": "c3e1497564ff2e8e409c7442727e2aa876890ec2308067f990408f7435606f7c",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2026
