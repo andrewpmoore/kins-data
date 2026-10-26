@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T10:50:32Z",
+  "generatedAt": "2026-10-26T11:11:13Z",
   "targets": [
     {
       "kind": "games",
@@ -69,6 +69,16 @@
     },
     {
       "kind": "movies",
+      "title": "Clayface",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "CLAYFACE",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "COYOTE VS ACME",
       "chartYear": 2026
     },
@@ -109,7 +119,22 @@
     },
     {
       "kind": "movies",
+      "title": "FATHERLAND",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Forgotten Island",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Hadestown: The Musical",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Hadestown: The Musical (Musical)",
       "chartYear": 2026
     },
     {
@@ -119,12 +144,12 @@
     },
     {
       "kind": "movies",
-      "title": "Heart Of The Beast",
+      "title": "Heart of the Beast",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Heart of the Beast",
+      "title": "Heart Of The Beast",
       "chartYear": 2026
     },
     {
@@ -244,12 +269,12 @@
     },
     {
       "kind": "movies",
-      "title": "Primetime",
+      "title": "PRIMETIME",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "PRIMETIME",
+      "title": "Primetime",
       "chartYear": 2026
     },
     {
@@ -259,12 +284,17 @@
     },
     {
       "kind": "movies",
-      "title": "Resident Evil",
+      "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
       "chartYear": 2026
     },
     {
       "kind": "movies",
       "title": "RESIDENT EVIL",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Resident Evil",
       "chartYear": 2026
     },
     {
@@ -299,12 +329,12 @@
     },
     {
       "kind": "movies",
-      "title": "Spider-Man: Brand New Day",
+      "title": "SPIDER-MAN: BRAND NEW DAY",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "SPIDER-MAN: BRAND NEW DAY",
+      "title": "Spider-Man: Brand New Day",
       "chartYear": 2026
     },
     {
@@ -389,6 +419,11 @@
     },
     {
       "kind": "movies",
+      "title": "TRAINSPOTTING (RIED.)",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Transformers 40th Anniversary",
       "chartYear": 2026
     },
@@ -419,16 +454,36 @@
     },
     {
       "kind": "movies",
+      "title": "Wicker",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Wildwood",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "WILDWOOD – I SEGRETI DEL BOSCO PROIBITO",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "You Can See Everything",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "ZUSTISSIA",
       "chartYear": 2026
     }
   ],
   "coverage": {
     "startYear": 2017,
     "endYear": 2026,
-    "targetCount": 84,
-    "recordCount": 23,
-    "matchedTrailerCount": 21
+    "targetCount": 95,
+    "recordCount": 24,
+    "matchedTrailerCount": 22
   },
   "source": "Wikidata (CC0), YouTube Data API, and manual curation",
   "attribution": "Wikidata contributors; YouTube data refreshed weekly",
@@ -451,6 +506,16 @@
       "trailerURL": null,
       "titleSourceURL": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65",
       "wikidataSources": []
+    },
+    {
+      "kind": "movies",
+      "title": "Clayface",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q131460936"
+      ]
     },
     {
       "kind": "movies",
