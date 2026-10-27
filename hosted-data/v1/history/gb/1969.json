@@ -327,7 +327,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -932,7 +932,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1ba0f3f35b8f4ba287aed17ca5135dfa2e795b90fcc78b4ef10834432f1e6ff3",
+  "contentHash": "d531bc7fb24448e116652990ab7ab45b6dde00b1389ddd31ddd3a8cec650ce7b",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1969

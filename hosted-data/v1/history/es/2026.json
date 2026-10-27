@@ -212,12 +212,22 @@
             }
           ],
           "startDate": "2026-10-18"
+        },
+        {
+          "endDate": "2026-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Sense and Sensibility"
+            }
+          ],
+          "startDate": "2026-10-25"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "ES",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
@@ -382,7 +392,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "b48d3cb89d968edb236741b4d6e6181de5443518af876c07fa4f1f7a993a1e0b",
+  "contentHash": "d21a3806facc648d7f095dde45dd09b685b3f9746ad5ab22f9764d70ec06818b",
   "country": "es",
   "schemaVersion": 1,
   "year": 2026

@@ -337,7 +337,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "ES",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
@@ -513,7 +513,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "d56b99fea19f0b22bc7997be289517c472a2f39c11a83270b856f88562ba0589",
+  "contentHash": "5d16632157e8db8fae98662948feca1fb22343c729df7d5bcbf51eadc9c749a2",
   "country": "es",
   "schemaVersion": 1,
   "year": 2009

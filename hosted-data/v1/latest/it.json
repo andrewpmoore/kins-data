@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-26T15:22:48Z",
+        "observedAt": "2026-10-27T08:55:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -24,49 +24,49 @@
       "id": "cinetel-national-week-2026-10-25",
       "items": [
         {
-          "admissions": 199390,
+          "admissions": 199967,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
           "rank": 1,
           "releaseDate": "2026-10-15",
           "title": "JE SO' PAZZO",
-          "weekendGrossEUR": 1524922.61
+          "weekendGrossEUR": 1528566.81
         },
         {
-          "admissions": 111005,
+          "admissions": 111164,
           "countryOfOrigin": "COP",
           "distributor": "01 DISTRIBUTION",
           "rank": 2,
           "releaseDate": "2026-10-08",
           "title": "L'ESTRANEA",
-          "weekendGrossEUR": 814901.56
+          "weekendGrossEUR": 816015.46
         },
         {
-          "admissions": 93614,
+          "admissions": 93832,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
           "rank": 3,
           "releaseDate": "2026-10-22",
           "title": "CLAYFACE",
-          "weekendGrossEUR": 776253.45
+          "weekendGrossEUR": 777910.85
         },
         {
-          "admissions": 89272,
+          "admissions": 89595,
           "countryOfOrigin": "GBR",
           "distributor": "UNIVERSAL",
           "rank": 4,
           "releaseDate": "2026-10-22",
           "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
-          "weekendGrossEUR": 696833.39
+          "weekendGrossEUR": 699392.09
         },
         {
-          "admissions": 64765,
+          "admissions": 64859,
           "countryOfOrigin": "IRL",
           "distributor": "UNIVERSAL",
           "rank": 5,
           "releaseDate": "2026-10-08",
           "title": "MAMMINA (OTHER MOMMY)",
-          "weekendGrossEUR": 545634.88
+          "weekendGrossEUR": 546392.88
         },
         {
           "admissions": 48553,
@@ -78,40 +78,40 @@
           "weekendGrossEUR": 398112.98
         },
         {
-          "admissions": 50715,
+          "admissions": 50830,
           "countryOfOrigin": "USA",
           "distributor": "I WONDER PICTURES",
           "rank": 7,
           "releaseDate": "2026-10-15",
           "title": "PRIMETIME",
-          "weekendGrossEUR": 375204.63
+          "weekendGrossEUR": 375992.63
         },
         {
-          "admissions": 47439,
+          "admissions": 47747,
           "countryOfOrigin": "USA",
           "distributor": "NOTORIOUS PICTURES",
           "rank": 8,
           "releaseDate": "2026-10-22",
           "title": "WILDWOOD – I SEGRETI DEL BOSCO PROIBITO",
-          "weekendGrossEUR": 357720.72
+          "weekendGrossEUR": 359927.42
         },
         {
-          "admissions": 39619,
+          "admissions": 39735,
           "countryOfOrigin": "ITA",
           "distributor": "PIPER FILM",
           "rank": 9,
           "releaseDate": "2026-10-08",
           "title": "ZUSTISSIA",
-          "weekendGrossEUR": 276439.05
+          "weekendGrossEUR": 277282.05
         },
         {
-          "admissions": 38549,
+          "admissions": 38660,
           "countryOfOrigin": "COP",
           "distributor": "MUBI",
           "rank": 10,
           "releaseDate": "2026-10-16",
           "title": "FATHERLAND",
-          "weekendGrossEUR": 260787.34
+          "weekendGrossEUR": 261603.84
         }
       ],
       "reportPeriod": "2026-10-19/2026-10-25",
@@ -222,7 +222,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 26 Oct 2026 15:27:49 +0000",
+        "observedAt": "Tue, 27 Oct 2026 08:57:40 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-26T15:22:48Z",
+        "observedAt": "2026-10-27T08:55:46Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2025
     }
   },
-  "contentHash": "4c3af5bcf8f7047458330215c11170b3f533c585bb311208d222c2f0944e8c0a",
+  "contentHash": "977d4a917b89ca3b96273ab298a628824718b12a4b88c69f4527365ebdfe09ad",
   "country": "IT",
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T15:22:48Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T08:55:46Z",
   "schemaVersion": 1
 }

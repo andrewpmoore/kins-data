@@ -177,7 +177,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -749,7 +749,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "a4e51fdde7762762b535ece9b7400a46e479e71acc586773c635deedb0c27165",
+  "contentHash": "93d20a768d48e1241c0fa586f9dd4b347a7b1f9e54e7bfd2df11fdf4b8c7c499",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1977

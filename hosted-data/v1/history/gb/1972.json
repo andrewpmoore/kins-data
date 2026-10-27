@@ -177,7 +177,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -639,7 +639,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "7f014ff590a9351505ab3183bfbf230291e7e1a2daf776d6f93bb29185a29927",
+  "contentHash": "a93be725901de67efb789640d154fc102e24dc48c1cfafbdf46a8f316677b5f0",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1972

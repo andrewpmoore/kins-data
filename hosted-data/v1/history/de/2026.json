@@ -232,12 +232,22 @@
             }
           ],
           "startDate": "2026-10-18"
+        },
+        {
+          "endDate": "2026-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Odyssey"
+            }
+          ],
+          "startDate": "2026-10-25"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "DE",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
@@ -479,7 +489,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "3140702ba21dd15344b52d50f468c06099c19a28a22784f3d908429627e27957",
+  "contentHash": "ad35d056687a7d484017a09941edf58d0b32853bc46101d911f065bda8485394",
   "country": "de",
   "schemaVersion": 1,
   "year": 2026

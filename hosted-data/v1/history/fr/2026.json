@@ -212,12 +212,22 @@
             }
           ],
           "startDate": "2026-09-27"
+        },
+        {
+          "endDate": "2026-10-31",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Forgotten Island"
+            }
+          ],
+          "startDate": "2026-10-25"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "FR",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
@@ -338,7 +348,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "c3e1497564ff2e8e409c7442727e2aa876890ec2308067f990408f7435606f7c",
+  "contentHash": "0b7750b8e8934a707e685db863b15fce47a66674b0dea6a5ff87973547e13d15",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2026

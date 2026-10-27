@@ -2,37 +2,37 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "aba-buying-group-2026-10-10",
+      "id": "aba-buying-group-2026-10-17",
       "items": [
         {
-          "creator": "Pip Williams",
+          "creator": "Josh Frydenberg",
           "rank": 1,
+          "title": "A Grateful Son",
+          "url": "https://loveyourbookshop.org.au/bestsellers/a-grateful-son"
+        },
+        {
+          "creator": "Pip Williams",
+          "rank": 2,
           "title": "The German Ward",
           "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
         },
         {
-          "creator": "Chris Hammer",
-          "rank": 2,
-          "title": "Full Circle",
-          "url": "https://loveyourbookshop.org.au/bestsellers/full-circle"
-        },
-        {
-          "creator": "Axel Scheffler",
-          "rank": 3,
-          "title": "Gruffalo Granny",
-          "url": "https://loveyourbookshop.org.au/bestsellers/gruffalo-granny"
-        },
-        {
-          "creator": "Rebecca Yarros",
-          "rank": 4,
-          "title": "Threshing Day",
-          "url": "https://loveyourbookshop.org.au/bestsellers/threshing-day"
-        },
-        {
           "creator": "Barbara Kingsolver",
-          "rank": 5,
+          "rank": 3,
           "title": "Partita",
           "url": "https://loveyourbookshop.org.au/bestsellers/partita"
+        },
+        {
+          "creator": "Bonnie Garmus",
+          "rank": 4,
+          "title": "Peck & Peck",
+          "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
+        },
+        {
+          "creator": "Chris Hammer",
+          "rank": 5,
+          "title": "Full Circle",
+          "url": "https://loveyourbookshop.org.au/bestsellers/full-circle"
         },
         {
           "creator": "Michael Robotham",
@@ -41,34 +41,34 @@
           "url": "https://loveyourbookshop.org.au/bestsellers/tell-me-something-true"
         },
         {
-          "creator": "Min Jin Lee",
+          "creator": "Elizabeth Strout",
           "rank": 7,
-          "title": "American Hagwon",
-          "url": "https://loveyourbookshop.org.au/bestsellers/american-hagwon"
+          "title": "The Things We Never Say",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
         },
         {
-          "creator": "Waleed Aly",
+          "creator": "Axel Scheffler",
           "rank": 8,
-          "title": "Time of Monsters",
-          "url": "https://loveyourbookshop.org.au/bestsellers/time-of-monsters"
+          "title": "Gruffalo Granny",
+          "url": "https://loveyourbookshop.org.au/bestsellers/gruffalo-granny"
         },
         {
-          "creator": "Suzie Miller",
+          "creator": "Rebecca Yarros",
           "rank": 9,
-          "title": "Inter Alia",
-          "url": "https://loveyourbookshop.org.au/bestsellers/inter-alia"
+          "title": "Threshing Day",
+          "url": "https://loveyourbookshop.org.au/bestsellers/threshing-day"
         },
         {
-          "creator": "Shaun Tan",
+          "creator": "Josh Silver",
           "rank": 10,
-          "title": "Hometown",
-          "url": "https://loveyourbookshop.org.au/bestsellers/hometown"
+          "title": "Fruit Fly",
+          "url": "https://loveyourbookshop.org.au/bestsellers/fruit-fly"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "bestsellers in ABA Buying Group stores",
-        "observedAt": "2026-10-10",
+        "observedAt": "2026-10-17",
         "provider": "Australian Booksellers Association / NielsenIQ BookScan",
         "territory": "AU",
         "url": "https://loveyourbookshop.org.au/aba-top-10/"
@@ -87,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-26T15:22:48Z",
+        "observedAt": "2026-10-27T08:55:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -96,95 +96,87 @@
       "year": 2026
     },
     "movies": {
-      "id": "box-office-mojo-au-2026-10-18",
+      "id": "box-office-mojo-au-2026-10-25",
       "items": [
         {
-          "distributor": "Paramount Pictures International",
+          "distributor": "Warner Bros.",
           "rank": 1,
-          "title": "Street Fighter",
-          "url": "https://www.boxofficemojo.com/release/rl2045018113/?ref_=bo_we_table_1",
-          "weekendGross": "$1,600,000",
+          "title": "Clayface",
+          "url": "https://www.boxofficemojo.com/release/rl1717534977/?ref_=bo_we_table_1",
+          "weekendGross": "$1,300,000",
           "weeksOnRelease": "1"
         },
         {
-          "distributor": "Wanderlust Films",
+          "distributor": "Universal Pictures International (UPI)",
           "rank": 2,
-          "title": "Jailer 2",
-          "url": "https://www.boxofficemojo.com/release/rl3948708097/?ref_=bo_we_table_2",
-          "weekendGross": "$983,811",
-          "weeksOnRelease": "1"
+          "title": "Sense and Sensibility",
+          "url": "https://www.boxofficemojo.com/release/rl677150977/?ref_=bo_we_table_2",
+          "weekendGross": "$492,418",
+          "weeksOnRelease": "2"
         },
         {
-          "distributor": "Amazon MGM Studios",
+          "distributor": "-",
           "rank": 3,
-          "title": "Verity",
-          "url": "https://www.boxofficemojo.com/release/rl1163297025/?ref_=bo_we_table_3",
-          "weekendGross": "$925,759",
-          "weeksOnRelease": "3"
+          "title": "Wildwood",
+          "url": "https://www.boxofficemojo.com/release/rl1482653953/?ref_=bo_we_table_3",
+          "weekendGross": "$391,000",
+          "weeksOnRelease": "1"
         },
         {
           "distributor": "Universal Pictures International (UPI)",
           "rank": 4,
-          "title": "Sense and Sensibility",
-          "url": "https://www.boxofficemojo.com/release/rl677150977/?ref_=bo_we_table_4",
-          "weekendGross": "$643,441",
-          "weeksOnRelease": "1"
+          "title": "The Odyssey",
+          "url": "https://www.boxofficemojo.com/release/rl2487320833/?ref_=bo_we_table_4",
+          "weekendGross": "$248,696",
+          "weeksOnRelease": "15"
         },
         {
           "distributor": "Universal Pictures International (UPI)",
           "rank": 5,
           "title": "Other Mommy",
           "url": "https://www.boxofficemojo.com/release/rl1415217409/?ref_=bo_we_table_5",
-          "weekendGross": "$494,160",
+          "weekendGross": "$203,613",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 6,
+          "title": "Whalefall",
+          "url": "https://www.boxofficemojo.com/release/rl1297973505/?ref_=bo_we_table_6",
+          "weekendGross": "$136,616",
           "weeksOnRelease": "2"
         },
         {
-          "distributor": "Paramount Pictures International",
-          "rank": 6,
-          "title": "Heart of the Beast",
-          "url": "https://www.boxofficemojo.com/release/rl296583169/?ref_=bo_we_table_6",
-          "weekendGross": "$369,739",
-          "weeksOnRelease": "4"
-        },
-        {
-          "distributor": "Sony Pictures Releasing",
+          "distributor": "Universal Pictures International (UPI)",
           "rank": 7,
-          "title": "Resident Evil",
-          "url": "https://www.boxofficemojo.com/release/rl2505277697/?ref_=bo_we_table_7",
-          "weekendGross": "$360,055",
-          "weeksOnRelease": "5"
+          "title": "Forgotten Island",
+          "url": "https://www.boxofficemojo.com/release/rl2270396673/?ref_=bo_we_table_7",
+          "weekendGross": "$103,301",
+          "weeksOnRelease": "6"
         },
         {
-          "distributor": "Trafalgar Releasing",
+          "distributor": "Walt Disney Pictures",
           "rank": 8,
-          "title": "Hadestown: The Musical",
-          "url": "https://www.boxofficemojo.com/release/rl3965485313/?ref_=bo_we_table_8",
-          "weekendGross": "$337,419",
-          "weeksOnRelease": "1"
+          "title": "Avengers: Endgame",
+          "url": "https://www.boxofficemojo.com/release/rl2404745473/?ref_=bo_we_table_8",
+          "weekendGross": "$1,982",
+          "weeksOnRelease": "5"
         },
         {
           "distributor": "Walt Disney Pictures",
           "rank": 9,
-          "title": "Whalefall",
-          "url": "https://www.boxofficemojo.com/release/rl1297973505/?ref_=bo_we_table_9",
-          "weekendGross": "$295,331",
-          "weeksOnRelease": "1"
-        },
-        {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 10,
-          "title": "Forgotten Island",
-          "url": "https://www.boxofficemojo.com/release/rl2270396673/?ref_=bo_we_table_10",
-          "weekendGross": "$153,091",
-          "weeksOnRelease": "5"
+          "title": "Toy Story 5",
+          "url": "https://www.boxofficemojo.com/release/rl683114497/?ref_=bo_we_table_9",
+          "weekendGross": "$1,471",
+          "weeksOnRelease": "19"
         }
       ],
-      "reportPeriod": "October 15-18, 2026",
-      "reportURL": "https://www.boxofficemojo.com/weekend/2026W42/?area=AU&ref_=bo_wey_table_1",
+      "reportPeriod": "October 22-25, 2026",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W43/?area=AU&ref_=bo_wey_table_1",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "country weekend theatrical gross in local currency",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo",
         "territory": "AU",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=AU"
@@ -288,7 +280,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 26 Oct 2026 15:26:07 +0000",
+        "observedAt": "Tue, 27 Oct 2026 08:56:42 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -296,9 +288,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "bef726b7a1d58d40af3b9cfcbc84a382e21487276dd7f81232cb2745f5362655",
+  "contentHash": "774c5e186520314e16d3df6b68e8bc952f4fe679892b1d129fe415adaad9b220",
   "country": "AU",
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T15:22:48Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T08:55:46Z",
   "schemaVersion": 1
 }

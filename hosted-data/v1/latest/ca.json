@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-26T15:22:48Z",
+        "observedAt": "2026-10-27T08:55:46Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -96,28 +96,28 @@
           "url": "https://music.apple.com/ca/album/stupid-song/6779097512?i=6779097534"
         },
         {
-          "artist": "Drake",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-          "id": "6818209990",
-          "rank": 9,
-          "releaseDate": "2026-10-02",
-          "title": "Quebec",
-          "url": "https://music.apple.com/ca/album/quebec/6818209777?i=6818209990"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992123",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-05-22",
           "title": "the cure",
           "url": "https://music.apple.com/ca/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209990",
+          "rank": 10,
+          "releaseDate": "2026-10-02",
+          "title": "Quebec",
+          "url": "https://music.apple.com/ca/album/quebec/6818209777?i=6818209990"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 26 Oct 2026 15:25:40 +0000",
+        "observedAt": "Tue, 27 Oct 2026 08:56:15 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-26T15:22:48Z",
+        "observedAt": "2026-10-27T08:55:46Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "a6cf730d78cd3513c09d281dee6e5b08342a585d2b4548121153841d4591d648",
+  "contentHash": "a05f1c0ab0a91bc49290ed353e995cfc7f61d7b9423fb431cfca041e1369cb12",
   "country": "CA",
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T15:22:48Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T08:55:46Z",
   "schemaVersion": 1
 }

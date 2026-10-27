@@ -957,7 +957,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1221,7 +1221,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "372df372812bf98968c8da3cbb8a8df9e4d2cf561e76a23f072023cabfba69a5",
+  "contentHash": "ae8fc7d63aca4d92d86c27e553049f3c643e6f9a6b453566bb3bb8c9d15f01cc",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1989

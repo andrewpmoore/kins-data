@@ -217,7 +217,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -558,7 +558,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "bf0318e747749c1de2cf65a1483a04e7eed789b8e47b586fdde940bc89243cfc",
+  "contentHash": "6fb345b5068af6c17e219067d3168d7826780dde0179e6b714529023b7917c1b",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1980

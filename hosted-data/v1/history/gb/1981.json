@@ -307,7 +307,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -604,7 +604,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "0d76c3adc05f1c7fbff22d1a4aaa3d654aa2aadc2f7810cdc9f3f890541b1d97",
+  "contentHash": "ec991dac4fb677fcc286d57d7f8c2a6c5c9ca74e7046be888f3318bb5e5dfc98",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1981

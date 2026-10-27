@@ -207,7 +207,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -438,7 +438,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "68f14395462e33ae7313f532241196960d9931fef65c4335ac8227af066eb36f",
+  "contentHash": "fe9eda942158848e6d8e45e9eeb1c7cc5dbc3104472876184298ed7642d729fb",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1954

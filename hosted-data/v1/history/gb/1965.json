@@ -137,7 +137,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -643,7 +643,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "84597b24a19a7076d38fef11dd359b60ca0f3923cbe38f997b379f2c989705aa",
+  "contentHash": "aece26b475c19e954fdfe1f1d6f39447123b77edeca8d7053dc9d40899d1312c",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1965

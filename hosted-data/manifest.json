@@ -20,17 +20,16 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-26T15:22:48Z",
-  "latestDate": "2026-10-26",
+  "generatedAt": "2026-10-27T08:55:46Z",
+  "latestDate": "2026-10-27",
   "runStatus": [
     {
       "source": "appleMusic/GB",
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json']' returned non-zero exit status 22.",
       "source": "appleMusic/US",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "appleMusic/CA",
@@ -89,8 +88,9 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://www.the-numbers.com/box-office-chart/weekend/2026/10/23: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://www.the-numbers.com/box-office-chart/weekend/2026/10/23']' timed out after 130 seconds",
       "source": "theatricalBoxOffice/US",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "publicBooks/adultBooks/US",
@@ -142,12 +142,18 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados']' returned non-zero exit status 22.",
       "source": "governmentNames/ES",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "governmentNames/IT",
       "status": "ok"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/ES",
+      "status": "carried"
     },
     {
       "detail": "NIQ BookData annual snapshot · source observed 2026-05-30",

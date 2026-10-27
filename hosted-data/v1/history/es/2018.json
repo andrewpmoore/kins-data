@@ -357,7 +357,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-18",
+        "observedAt": "2026-10-25",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "ES",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
@@ -577,7 +577,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "fbc5c7c3e8e13067ef587b94206d536a0157692d827d76db9d210e9011787891",
+  "contentHash": "0df821e6e32425a32920ea11c2188a9025e3c5f9394bb96f497ff139910288b2",
   "country": "es",
   "schemaVersion": 1,
   "year": 2018
