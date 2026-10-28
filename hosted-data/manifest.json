@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-27T08:55:46Z",
-  "latestDate": "2026-10-27",
+  "generatedAt": "2026-10-28T09:35:36Z",
+  "latestDate": "2026-10-28",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -88,9 +88,8 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://www.the-numbers.com/box-office-chart/weekend/2026/10/23: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://www.the-numbers.com/box-office-chart/weekend/2026/10/23']' timed out after 130 seconds",
       "source": "theatricalBoxOffice/US",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "publicBooks/adultBooks/US",
@@ -142,18 +141,12 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados']' returned non-zero exit status 22.",
       "source": "governmentNames/ES",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "governmentNames/IT",
       "status": "ok"
-    },
-    {
-      "detail": "latest published annual chart retained until its official replacement",
-      "source": "namesFallback/ES",
-      "status": "carried"
     },
     {
       "detail": "NIQ BookData annual snapshot · source observed 2026-05-30",

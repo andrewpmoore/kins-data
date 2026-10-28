@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-27T08:55:46Z",
+        "observedAt": "2026-10-28T09:35:36Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -87,22 +87,22 @@
           "url": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
-          "artist": "The Killers",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/a2/e7/43a2e738-d879-19ca-8590-d3553087cb00/00602498753842.rgb.jpg/100x102bb.jpg",
-          "id": "1440717826",
-          "rank": 3,
-          "releaseDate": "2003-09-23",
-          "title": "Mr. Brightside",
-          "url": "https://music.apple.com/de/album/mr-brightside/1440717563?i=1440717826"
-        },
-        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
           "id": "6805240960",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/de/album/stop-the-wedding/6805240956?i=6805240960"
+        },
+        {
+          "artist": "The Killers",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/a2/e7/43a2e738-d879-19ca-8590-d3553087cb00/00602498753842.rgb.jpg/100x102bb.jpg",
+          "id": "1440717826",
+          "rank": 4,
+          "releaseDate": "2003-09-23",
+          "title": "Mr. Brightside",
+          "url": "https://music.apple.com/de/album/mr-brightside/1440717563?i=1440717826"
         },
         {
           "artist": "Taylor Swift",
@@ -150,19 +150,19 @@
           "url": "https://music.apple.com/de/album/self-aware/1877803357?i=1877803360"
         },
         {
-          "artist": "Capital Bra & Samra",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/97/d3/9397d3a5-4d94-e495-585a-d788266cb4e2/26UMGIM80769.rgb.jpg/100x100bb.jpg",
-          "id": "6786168480",
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
+          "id": "6807192825",
           "rank": 10,
-          "releaseDate": null,
-          "title": "ASSALAMUALEIKUM",
-          "url": "https://music.apple.com/de/album/assalamualeikum/6786168471?i=6786168480"
+          "releaseDate": "2026-09-03",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/de/album/nicole-kidman/6807192580?i=6807192825"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 27 Oct 2026 08:56:45 +0000",
+        "observedAt": "Wed, 28 Oct 2026 09:36:57 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -316,7 +316,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-10-27T08:55:46Z",
+        "observedAt": "2026-10-28T09:35:36Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -325,9 +325,9 @@
       "year": 2025
     }
   },
-  "contentHash": "91d7e00851bc927a5df62b8f2cd4d49ef00c5b44f03c1aabec4a770296e57514",
+  "contentHash": "f2990349e9f1b12be9a2df4b3bd780cc048c62ee829ca9b32f71293dba0b61c4",
   "country": "DE",
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T08:55:46Z",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T09:35:36Z",
   "schemaVersion": 1
 }

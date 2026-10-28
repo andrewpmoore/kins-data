@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-27T08:55:46Z",
+        "observedAt": "2026-10-28T09:35:36Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-27T08:55:46Z",
+        "observedAt": "2026-10-28T09:35:36Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -223,22 +223,22 @@
           "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
-          "rank": 8,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
           "id": "6779097534",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/gb/album/stupid-song/6779097512?i=6779097534"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 9,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
         },
         {
           "artist": "ADÉLA",
@@ -253,7 +253,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 27 Oct 2026 08:55:49 +0000",
+        "observedAt": "Wed, 28 Oct 2026 09:35:37 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-27T08:55:46Z",
+        "observedAt": "2026-10-28T09:35:36Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "ec98859087316565ebfb864a993ffffc24de98c7436c7f306f6d57fa1cf47a13",
+  "contentHash": "b0330c2a48ff0d0588de80f649b7bf2426de0accad60e3d32e7c99dd7f3ecbbf",
   "country": "GB",
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T08:55:46Z",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T09:35:36Z",
   "schemaVersion": 1
 }

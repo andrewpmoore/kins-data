@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-27T08:55:46Z",
+        "observedAt": "2026-10-28T09:35:36Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -24,49 +24,49 @@
       "id": "cinetel-national-week-2026-10-25",
       "items": [
         {
-          "admissions": 199967,
+          "admissions": 200033,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
           "rank": 1,
           "releaseDate": "2026-10-15",
           "title": "JE SO' PAZZO",
-          "weekendGrossEUR": 1528566.81
+          "weekendGrossEUR": 1529082.61
         },
         {
-          "admissions": 111164,
+          "admissions": 111195,
           "countryOfOrigin": "COP",
           "distributor": "01 DISTRIBUTION",
           "rank": 2,
           "releaseDate": "2026-10-08",
           "title": "L'ESTRANEA",
-          "weekendGrossEUR": 816015.46
+          "weekendGrossEUR": 816252.96
         },
         {
-          "admissions": 93832,
+          "admissions": 93908,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
           "rank": 3,
           "releaseDate": "2026-10-22",
           "title": "CLAYFACE",
-          "weekendGrossEUR": 777910.85
+          "weekendGrossEUR": 778512.85
         },
         {
-          "admissions": 89595,
+          "admissions": 89667,
           "countryOfOrigin": "GBR",
           "distributor": "UNIVERSAL",
           "rank": 4,
           "releaseDate": "2026-10-22",
           "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
-          "weekendGrossEUR": 699392.09
+          "weekendGrossEUR": 699941.09
         },
         {
-          "admissions": 64859,
+          "admissions": 64878,
           "countryOfOrigin": "IRL",
           "distributor": "UNIVERSAL",
           "rank": 5,
           "releaseDate": "2026-10-08",
           "title": "MAMMINA (OTHER MOMMY)",
-          "weekendGrossEUR": 546392.88
+          "weekendGrossEUR": 546558.88
         },
         {
           "admissions": 48553,
@@ -78,22 +78,22 @@
           "weekendGrossEUR": 398112.98
         },
         {
-          "admissions": 50830,
+          "admissions": 50832,
           "countryOfOrigin": "USA",
           "distributor": "I WONDER PICTURES",
           "rank": 7,
           "releaseDate": "2026-10-15",
           "title": "PRIMETIME",
-          "weekendGrossEUR": 375992.63
+          "weekendGrossEUR": 376010.63
         },
         {
-          "admissions": 47747,
+          "admissions": 47795,
           "countryOfOrigin": "USA",
           "distributor": "NOTORIOUS PICTURES",
           "rank": 8,
           "releaseDate": "2026-10-22",
           "title": "WILDWOOD – I SEGRETI DEL BOSCO PROIBITO",
-          "weekendGrossEUR": 359927.42
+          "weekendGrossEUR": 360264.92
         },
         {
           "admissions": 39735,
@@ -183,22 +183,22 @@
           "url": "https://music.apple.com/it/album/winner/6815719361?i=6815719363"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
-          "id": "1861451990",
-          "rank": 7,
-          "releaseDate": "2026-01-16",
-          "title": "CANZONE D'AMORE",
-          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
-        },
-        {
           "artist": "Tate McRae",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-10-15",
           "title": "Housewife",
           "url": "https://music.apple.com/it/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451990",
+          "rank": 8,
+          "releaseDate": "2026-01-16",
+          "title": "CANZONE D'AMORE",
+          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         },
         {
           "artist": "Geolier",
@@ -222,7 +222,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 27 Oct 2026 08:57:40 +0000",
+        "observedAt": "Wed, 28 Oct 2026 09:37:48 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-10-27T08:55:46Z",
+        "observedAt": "2026-10-28T09:35:36Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2025
     }
   },
-  "contentHash": "977d4a917b89ca3b96273ab298a628824718b12a4b88c69f4527365ebdfe09ad",
+  "contentHash": "a178257f4140da115e3eef9b2518e1f418155f78d25bb21d0ff6c7fbae49a1e3",
   "country": "IT",
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T08:55:46Z",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T09:35:36Z",
   "schemaVersion": 1
 }

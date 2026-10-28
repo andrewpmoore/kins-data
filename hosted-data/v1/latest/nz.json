@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-10-27",
+      "id": "bookhub-nielsen-indie-2026-10-28",
       "items": [
         {
           "category": "NZ Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-10-27",
+        "observedAt": "2026-10-28",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -132,7 +132,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-27T08:55:46Z",
+        "observedAt": "2026-10-28T09:35:36Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -144,60 +144,84 @@
       "id": "box-office-mojo-nz-2026-10-25",
       "items": [
         {
-          "distributor": "Universal Pictures International (UPI)",
+          "distributor": "Warner Bros.",
           "rank": 1,
-          "title": "Sense and Sensibility",
-          "url": "https://www.boxofficemojo.com/release/rl2153152769/?ref_=bo_we_table_1",
-          "weekendGross": "$71,991",
-          "weeksOnRelease": "2"
+          "title": "Clayface",
+          "url": "https://www.boxofficemojo.com/release/rl828276993/?ref_=bo_we_table_1",
+          "weekendGross": "$92,039",
+          "weeksOnRelease": "1"
         },
         {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "Paramount Pictures International",
           "rank": 2,
-          "title": "Whalefall",
-          "url": "https://www.boxofficemojo.com/release/rl3193798913/?ref_=bo_we_table_2",
-          "weekendGross": "$12,778",
+          "title": "Street Fighter",
+          "url": "https://www.boxofficemojo.com/release/rl2061795329/?ref_=bo_we_table_2",
+          "weekendGross": "$79,827",
           "weeksOnRelease": "2"
         },
         {
           "distributor": "Universal Pictures International (UPI)",
           "rank": 3,
-          "title": "The Odyssey",
-          "url": "https://www.boxofficemojo.com/release/rl4165042433/?ref_=bo_we_table_3",
-          "weekendGross": "$12,444",
-          "weeksOnRelease": "15"
+          "title": "Sense and Sensibility",
+          "url": "https://www.boxofficemojo.com/release/rl2153152769/?ref_=bo_we_table_3",
+          "weekendGross": "$71,991",
+          "weeksOnRelease": "2"
         },
         {
-          "distributor": "Universal Pictures International (UPI)",
+          "distributor": "Paramount Pictures International",
           "rank": 4,
-          "title": "Other Mommy",
-          "url": "https://www.boxofficemojo.com/release/rl341475585/?ref_=bo_we_table_4",
-          "weekendGross": "$11,534",
-          "weeksOnRelease": "3"
-        },
-        {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 5,
-          "title": "Forgotten Island",
-          "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_5",
-          "weekendGross": "$10,304",
-          "weeksOnRelease": "6"
-        },
-        {
-          "distributor": "Walt Disney Pictures",
-          "rank": 6,
-          "title": "Cars",
-          "url": "https://www.boxofficemojo.com/release/rl1313767681/?ref_=bo_we_table_6",
-          "weekendGross": "$748",
-          "weeksOnRelease": "8"
-        },
-        {
-          "distributor": "Walt Disney Pictures",
-          "rank": 7,
-          "title": "Avengers: Endgame",
-          "url": "https://www.boxofficemojo.com/release/rl1700036865/?ref_=bo_we_table_7",
-          "weekendGross": "$452",
+          "title": "Heart of the Beast",
+          "url": "https://www.boxofficemojo.com/release/rl145588225/?ref_=bo_we_table_4",
+          "weekendGross": "$66,545",
           "weeksOnRelease": "5"
+        },
+        {
+          "distributor": "Kismet Movies",
+          "rank": 5,
+          "title": "Wildwood",
+          "url": "https://www.boxofficemojo.com/release/rl3546251521/?ref_=bo_we_table_5",
+          "weekendGross": "$54,994",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Sony Pictures Releasing",
+          "rank": 6,
+          "title": "Klara and the Sun",
+          "url": "https://www.boxofficemojo.com/release/rl845054209/?ref_=bo_we_table_6",
+          "weekendGross": "$44,938",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Amazon MGM Studios",
+          "rank": 7,
+          "title": "Verity",
+          "url": "https://www.boxofficemojo.com/release/rl2992013569/?ref_=bo_we_table_7",
+          "weekendGross": "$43,501",
+          "weeksOnRelease": "4"
+        },
+        {
+          "distributor": "Amazon MGM Studios",
+          "rank": 8,
+          "title": "Ali G: Who Iz I?",
+          "url": "https://www.boxofficemojo.com/release/rl861831425/?ref_=bo_we_table_8",
+          "weekendGross": "$27,280",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "-",
+          "rank": 9,
+          "title": "Tenzing",
+          "url": "https://www.boxofficemojo.com/release/rl4217209089/?ref_=bo_we_table_9",
+          "weekendGross": "$17,238",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Wanderlust Films",
+          "rank": 10,
+          "title": "Jailer 2",
+          "url": "https://www.boxofficemojo.com/release/rl4183654657/?ref_=bo_we_table_10",
+          "weekendGross": "$13,084",
+          "weeksOnRelease": "2"
         }
       ],
       "reportPeriod": "October 22-25, 2026",
@@ -243,22 +267,22 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
-          "rank": 4,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
-        },
-        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 5,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
           "artist": "Olivia Dean",
@@ -270,46 +294,46 @@
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
-          "id": "1814620247",
-          "rank": 7,
-          "releaseDate": "2025-05-30",
-          "title": "Nice To Each Other",
-          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
-        },
-        {
-          "artist": "Zara Larsson",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/9c/e3/299ce303-0167-705f-fc85-4d3e52b63c32/196874028391.jpg/100x100bb.jpg",
-          "id": "1870962417",
-          "rank": 8,
-          "releaseDate": "2015-06-05",
-          "title": "Lush Life",
-          "url": "https://music.apple.com/nz/album/lush-life/1870962402?i=1870962417"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
           "id": "6779097534",
-          "rank": 9,
+          "rank": 7,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/nz/album/stupid-song/6779097512?i=6779097534"
         },
         {
-          "artist": "Zara Larsson",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/100x100bb.jpg",
-          "id": "1817499251",
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
+          "id": "1814620247",
+          "rank": 8,
+          "releaseDate": "2025-05-30",
+          "title": "Nice To Each Other",
+          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
+        },
+        {
+          "artist": "SIENNA SPIRO",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
+          "id": "6769552411",
+          "rank": 9,
+          "releaseDate": "2026-07-02",
+          "title": "Great Expectation",
+          "url": "https://music.apple.com/nz/album/great-expectation/6769552402?i=6769552411"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609514",
           "rank": 10,
-          "releaseDate": "2025-06-13",
-          "title": "Midnight Sun",
-          "url": "https://music.apple.com/nz/album/midnight-sun/1817499239?i=1817499251"
+          "releaseDate": "2025-09-26",
+          "title": "A Couple Minutes",
+          "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 27 Oct 2026 08:56:44 +0000",
+        "observedAt": "Wed, 28 Oct 2026 09:36:57 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -463,7 +487,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name count by sex",
-        "observedAt": "2026-10-27T08:55:46Z",
+        "observedAt": "2026-10-28T09:35:36Z",
         "provider": "New Zealand Department of Internal Affairs",
         "territory": "NZ",
         "url": "https://smartstart.services.govt.nz/news/baby-names"
@@ -472,9 +496,9 @@
       "year": 2025
     }
   },
-  "contentHash": "06dd836f2ca2c3c8e4c210e31eea297723ac96b7a5ec763c6d688173bf999082",
+  "contentHash": "8302e7aeb1f5a756024f946a55428f0dfb2442ed1441bb40a835f57a1fa4e3e1",
   "country": "NZ",
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T08:55:46Z",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T09:35:36Z",
   "schemaVersion": 1
 }
