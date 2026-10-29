@@ -166,7 +166,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-28T09:35:36Z",
+        "observedAt": "2026-10-29T09:53:32Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -317,19 +317,19 @@
           "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990"
         },
         {
-          "artist": "Lil Baby",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
-          "id": "1648587330",
+          "artist": "Michael Jackson",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/8c/e1/738ce1db-60bd-eb25-0059-18778c1ca9b3/196589412409.jpg/100x100bb.jpg",
+          "id": "1641781867",
           "rank": 10,
-          "releaseDate": "2022-04-08",
-          "title": "In A Minute",
-          "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+          "releaseDate": "1983-01-01",
+          "title": "Thriller 7\" (Special Edit)",
+          "url": "https://music.apple.com/us/album/thriller-7-special-edit/1641780996?i=1641781867"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 28 Oct 2026 09:35:37 +0000",
+        "observedAt": "Thu, 29 Oct 2026 09:54:30 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -463,7 +463,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-10-28T09:35:36Z",
+        "observedAt": "2026-10-29T09:53:32Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -472,9 +472,9 @@
       "year": 2025
     }
   },
-  "contentHash": "1cbfea315ee47db4de159aa8d3e78d87a98bccf0d715f6b464e8f5ff1bbf0577",
+  "contentHash": "e6b80fe07189c615b00775140474979bbc24d93a35929cf4f9dc0419e310d857",
   "country": "US",
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T09:35:36Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T09:53:32Z",
   "schemaVersion": 1
 }

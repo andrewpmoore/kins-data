@@ -494,12 +494,23 @@
             }
           ],
           "startDate": "2026-10-08"
+        },
+        {
+          "endDate": "2026-11-04",
+          "items": [
+            {
+              "artist": "Jamie Miller",
+              "rank": 1,
+              "title": "Babydoll"
+            }
+          ],
+          "startDate": "2026-10-29"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-22",
+        "observedAt": "2026-10-29",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -507,7 +518,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "c4317983f65fde4f046db16287041d93b3376d56e3e25955315da0d6cbb454a2",
+  "contentHash": "5c1db1709ec97e698402caa4e5eb91eaff00567bde6cdef81edfac5a48495d30",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2026

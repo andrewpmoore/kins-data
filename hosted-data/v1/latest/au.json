@@ -1,80 +1,5 @@
 {
   "charts": {
-    "adultBooks": {
-      "audience": "adult",
-      "id": "aba-buying-group-2026-10-17",
-      "items": [
-        {
-          "creator": "Josh Frydenberg",
-          "rank": 1,
-          "title": "A Grateful Son",
-          "url": "https://loveyourbookshop.org.au/bestsellers/a-grateful-son"
-        },
-        {
-          "creator": "Pip Williams",
-          "rank": 2,
-          "title": "The German Ward",
-          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
-        },
-        {
-          "creator": "Barbara Kingsolver",
-          "rank": 3,
-          "title": "Partita",
-          "url": "https://loveyourbookshop.org.au/bestsellers/partita"
-        },
-        {
-          "creator": "Bonnie Garmus",
-          "rank": 4,
-          "title": "Peck & Peck",
-          "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
-        },
-        {
-          "creator": "Chris Hammer",
-          "rank": 5,
-          "title": "Full Circle",
-          "url": "https://loveyourbookshop.org.au/bestsellers/full-circle"
-        },
-        {
-          "creator": "Michael Robotham",
-          "rank": 6,
-          "title": "Tell Me Something True",
-          "url": "https://loveyourbookshop.org.au/bestsellers/tell-me-something-true"
-        },
-        {
-          "creator": "Elizabeth Strout",
-          "rank": 7,
-          "title": "The Things We Never Say",
-          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
-        },
-        {
-          "creator": "Axel Scheffler",
-          "rank": 8,
-          "title": "Gruffalo Granny",
-          "url": "https://loveyourbookshop.org.au/bestsellers/gruffalo-granny"
-        },
-        {
-          "creator": "Rebecca Yarros",
-          "rank": 9,
-          "title": "Threshing Day",
-          "url": "https://loveyourbookshop.org.au/bestsellers/threshing-day"
-        },
-        {
-          "creator": "Josh Silver",
-          "rank": 10,
-          "title": "Fruit Fly",
-          "url": "https://loveyourbookshop.org.au/bestsellers/fruit-fly"
-        }
-      ],
-      "source": {
-        "kind": "publicBookChart",
-        "metric": "bestsellers in ABA Buying Group stores",
-        "observedAt": "2026-10-17",
-        "provider": "Australian Booksellers Association / NielsenIQ BookScan",
-        "territory": "AU",
-        "url": "https://loveyourbookshop.org.au/aba-top-10/"
-      },
-      "title": "ABA Buying Group Top 10"
-    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -87,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-28T09:35:36Z",
+        "observedAt": "2026-10-29T09:53:32Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -288,7 +213,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 28 Oct 2026 09:36:30 +0000",
+        "observedAt": "Thu, 29 Oct 2026 09:54:31 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -296,9 +221,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "b6d21133d5b2f6f8c26531fe8d9fc250dd84a478f13b6165d4adc5d2fc5c5871",
+  "contentHash": "0994f3913fc3b3b55099c19b4607dca43cefc644107b2ec268a9eb479a706556",
   "country": "AU",
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T09:35:36Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T09:53:32Z",
   "schemaVersion": 1
 }

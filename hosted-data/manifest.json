@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-10-28T09:35:36Z",
-  "latestDate": "2026-10-28",
+  "generatedAt": "2026-10-29T09:53:32Z",
+  "latestDate": "2026-10-29",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -100,16 +100,18 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://loveyourbookshop.org.au/aba-top-10/: HTTP Error 403: Forbidden",
       "source": "publicBooks/adultBooks/AU",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "publicBooks/adultBooks/NZ",
       "status": "ok"
     },
     {
+      "detail": "Booksellers NZ section contains no ranked books",
       "source": "publicBooks/childrensBooks/NZ",
-      "status": "ok"
+      "status": "error"
     },
     {
       "detail": "SSA-derived mirror · latest available birth year 2025; ranks only, no counts",
@@ -133,20 +135,38 @@
       "status": "ok"
     },
     {
+      "detail": "SmartStart baby-name dataset was not found",
       "source": "governmentNames/NZ",
-      "status": "ok"
+      "status": "error"
     },
     {
+      "detail": "Unable to fetch https://gfds.de/die-beliebtesten-vornamen-2025/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://gfds.de/die-beliebtesten-vornamen-2025/']' timed out after 130 seconds; Unable to fetch https://gfds.de/die-beliebtesten-vornamen-2024/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://gfds.de/die-beliebtesten-vornamen-2024/']' timed out after 130 seconds",
       "source": "governmentNames/DE",
-      "status": "ok"
+      "status": "error"
     },
     {
+      "detail": "Unable to fetch https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados']' returned non-zero exit status 22.",
       "source": "governmentNames/ES",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "governmentNames/IT",
       "status": "ok"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/NZ",
+      "status": "carried"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/DE",
+      "status": "carried"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/ES",
+      "status": "carried"
     },
     {
       "detail": "NIQ BookData annual snapshot · source observed 2026-05-30",

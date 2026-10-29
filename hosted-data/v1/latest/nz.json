@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-10-28",
+      "id": "bookhub-nielsen-indie-2026-10-29",
       "items": [
         {
           "category": "NZ Fiction",
@@ -68,57 +68,12 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-10-28",
+        "observedAt": "2026-10-29",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
       },
       "title": "Official Nielsen Indie Top 10"
-    },
-    "childrensBooks": {
-      "audience": "children",
-      "id": "booksellers-nz-children-2026-10-22",
-      "items": [
-        {
-          "creator": "Deano Yipadee & Bruce Potter",
-          "isbn13": "9781775439295",
-          "rank": 1,
-          "title": "Nee Naw's Cracker Christmas"
-        },
-        {
-          "creator": "Sarina Clark & Alba Gil Celdran",
-          "isbn13": "9781869715748",
-          "rank": 2,
-          "title": "The Fate of Dragons (Dragonfall 1)"
-        },
-        {
-          "creator": "Sam Smith & César Lador",
-          "isbn13": "9781869715564",
-          "rank": 3,
-          "title": "The Anaconda Attack (Miles & Jones 1)"
-        },
-        {
-          "creator": "Fiona Farrell & David Elliot",
-          "isbn13": "9781991142276",
-          "rank": 4,
-          "title": "Once Upon a Harbour"
-        },
-        {
-          "creator": "Donovan Bixley",
-          "isbn13": "9781869715724",
-          "rank": 5,
-          "title": "The Sweet As Looky Book"
-        }
-      ],
-      "source": {
-        "kind": "publicBookChart",
-        "metric": "NZ Children and Teens",
-        "observedAt": "2026-10-22",
-        "provider": "Booksellers Aotearoa / Nielsen BookScan",
-        "territory": "NZ",
-        "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
-      },
-      "title": "NZ Children and Teens"
     },
     "games": {
       "id": "dice-game-of-the-year-2026",
@@ -132,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-28T09:35:36Z",
+        "observedAt": "2026-10-29T09:53:32Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -267,22 +222,22 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
-          "rank": 4,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 5,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
           "artist": "Olivia Dean",
@@ -294,22 +249,22 @@
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
+          "rank": 7,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/nz/album/stop-the-wedding/6805240956?i=6805240960"
+        },
+        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
           "id": "6779097534",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/nz/album/stupid-song/6779097512?i=6779097534"
-        },
-        {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
-          "id": "1814620247",
-          "rank": 8,
-          "releaseDate": "2025-05-30",
-          "title": "Nice To Each Other",
-          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
         },
         {
           "artist": "SIENNA SPIRO",
@@ -322,18 +277,18 @@
         },
         {
           "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609514",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
+          "id": "1814620247",
           "rank": 10,
-          "releaseDate": "2025-09-26",
-          "title": "A Couple Minutes",
-          "url": "https://music.apple.com/nz/album/a-couple-minutes/1817609404?i=1817609514"
+          "releaseDate": "2025-05-30",
+          "title": "Nice To Each Other",
+          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 28 Oct 2026 09:36:57 +0000",
+        "observedAt": "Thu, 29 Oct 2026 09:54:31 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -496,9 +451,9 @@
       "year": 2025
     }
   },
-  "contentHash": "8302e7aeb1f5a756024f946a55428f0dfb2442ed1441bb40a835f57a1fa4e3e1",
+  "contentHash": "88510bd6957c1b59f2725816532890e00981bdc42c1adb6d8cb8e9b2b210ff34",
   "country": "NZ",
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T09:35:36Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T09:53:32Z",
   "schemaVersion": 1
 }

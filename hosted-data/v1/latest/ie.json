@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-28T09:35:36Z",
+        "observedAt": "2026-10-29T09:53:32Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -69,22 +69,22 @@
           "url": "https://music.apple.com/ie/album/stupid-song/6779097512?i=6779097534"
         },
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085060",
-          "rank": 6,
-          "releaseDate": "2026-10-16",
-          "title": "Mimesis",
-          "url": "https://music.apple.com/ie/album/mimesis/6792085051?i=6792085060"
-        },
-        {
           "artist": "Zach Bryan & Lana Del Rey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944296",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-15",
           "title": "Lies (feat. Lana Del Rey)",
           "url": "https://music.apple.com/ie/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085060",
+          "rank": 7,
+          "releaseDate": "2026-10-16",
+          "title": "Mimesis",
+          "url": "https://music.apple.com/ie/album/mimesis/6792085051?i=6792085060"
         },
         {
           "artist": "Fontaines D.C. & ROSALÍA",
@@ -105,19 +105,19 @@
           "url": "https://music.apple.com/ie/album/the-cure/1889992111?i=1889992123"
         },
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085376",
+          "artist": "Kingfishr",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/a7/0b71a77c-c647-8c58-ed0a-21beadc44a4d/075679579034.jpg/100x100bb.jpg",
+          "id": "6768830564",
           "rank": 10,
-          "releaseDate": "2026-10-16",
-          "title": "Demolition",
-          "url": "https://music.apple.com/ie/album/demolition/6792085051?i=6792085376"
+          "releaseDate": "2026-05-26",
+          "title": "The Sun Will Never Settle",
+          "url": "https://music.apple.com/ie/album/the-sun-will-never-settle/6768830561?i=6768830564"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 28 Oct 2026 09:36:56 +0000",
+        "observedAt": "Thu, 29 Oct 2026 09:54:31 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +291,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-10-28T09:35:36Z",
+        "observedAt": "2026-10-29T09:53:32Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +300,9 @@
       "year": 2025
     }
   },
-  "contentHash": "f6d727dbb405dbe56c689e9feb0575a5652b60f0ff0b7c958374ab364088b7b1",
+  "contentHash": "94ab9dd047bb9f4b7675c014e1c2bc92ea6df299fcef62b58a06d470d4738a60",
   "country": "IE",
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T09:35:36Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T09:53:32Z",
   "schemaVersion": 1
 }
