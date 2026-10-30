@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-29T09:53:32Z",
+        "observedAt": "2026-10-30T09:56:50Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-29T09:53:32Z",
+        "observedAt": "2026-10-30T09:56:50Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -179,12 +179,12 @@
         },
         {
           "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-          "id": "6805240960",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
           "rank": 3,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960"
+          "url": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
           "artist": "SIENNA SPIRO",
@@ -242,18 +242,18 @@
         },
         {
           "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
-          "id": "6779097534",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
           "rank": 10,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
-          "url": "https://music.apple.com/gb/album/stupid-song/6779097512?i=6779097534"
+          "url": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 29 Oct 2026 09:54:29 +0000",
+        "observedAt": "Fri, 30 Oct 2026 09:56:50 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-29T09:53:32Z",
+        "observedAt": "2026-10-30T09:56:50Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "9d316a0130fff6a0a083913247187583a86d03eb82dd2c83855365c87447f796",
+  "contentHash": "7c0a2f8d2531b439e64b1da0a092b456f9bac6fbb534114fc1f670a58dd4f410",
   "country": "GB",
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T09:53:32Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T09:56:50Z",
   "schemaVersion": 1
 }

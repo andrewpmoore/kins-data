@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-29T09:53:32Z",
+        "observedAt": "2026-10-30T09:56:50Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -69,40 +69,40 @@
           "url": "https://music.apple.com/ca/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
-          "artist": "Zach Bryan",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944289",
-          "rank": 6,
-          "releaseDate": "2026-10-16",
-          "title": "Lodi When",
-          "url": "https://music.apple.com/ca/album/lodi-when/6822944288?i=6822944289"
-        },
-        {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/ca/album/janice-stfu/6769568449?i=6769568596"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
-          "id": "6779097534",
+          "artist": "Zach Bryan",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944289",
+          "rank": 7,
+          "releaseDate": "2026-10-16",
+          "title": "Lodi When",
+          "url": "https://music.apple.com/ca/album/lodi-when/6822944288?i=6822944289"
+        },
+        {
+          "artist": "Michael Jackson",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+          "id": "269573303",
           "rank": 8,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/ca/album/stupid-song/6779097512?i=6779097534"
+          "releaseDate": "1982-11-29",
+          "title": "Thriller",
+          "url": "https://music.apple.com/ca/album/thriller/269572838?i=269573303"
         },
         {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
+          "id": "1889992115",
           "rank": 9,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/ca/album/the-cure/1889992111?i=1889992123"
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/ca/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "Drake",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 29 Oct 2026 09:54:30 +0000",
+        "observedAt": "Fri, 30 Oct 2026 09:56:53 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-10-29T09:53:32Z",
+        "observedAt": "2026-10-30T09:56:50Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "50a40a1d19e64d5352c6b85d25018c1f89cfe778fbcba0e67cee5dba5775f92b",
+  "contentHash": "e2636bf0096972032ed83990a961b9acb8e5f09a2b9c98a7653491e650e50e0e",
   "country": "CA",
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T09:53:32Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T09:56:50Z",
   "schemaVersion": 1
 }

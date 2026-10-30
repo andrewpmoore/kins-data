@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-29T09:53:32Z",
+        "observedAt": "2026-10-30T09:56:50Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -70,12 +70,12 @@
         },
         {
           "artist": "Quevedo & Elvis Crespo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/2c/a4/e62ca4e7-d600-3965-5f66-77738458fc59/8718521179540.jpg/100x100bb.jpg",
-          "id": "1894270806",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
+          "id": "1894272112",
           "rank": 6,
           "releaseDate": "2026-04-23",
           "title": "LA GRACIOSA",
-          "url": "https://music.apple.com/es/album/la-graciosa/1894270804?i=1894270806"
+          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
           "artist": "Lucho RK",
@@ -117,7 +117,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 29 Oct 2026 09:54:34 +0000",
+        "observedAt": "Fri, 30 Oct 2026 09:57:25 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-28T09:35:36Z",
+        "observedAt": "2026-10-30T09:56:50Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "a3063202cdb7e2cb11c68f2fadd5bbb84d99f8b8a14761c222e37e4eda18553f",
+  "contentHash": "2cd89ae7229198ab2563da68e9c171230b1decdbe22597ca3e7989e841027def",
   "country": "ES",
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T09:53:32Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T09:56:50Z",
   "schemaVersion": 1
 }

@@ -1,5 +1,80 @@
 {
   "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "aba-buying-group-2026-10-24",
+      "items": [
+        {
+          "creator": "Pip Williams",
+          "rank": 1,
+          "title": "The German Ward",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
+        },
+        {
+          "creator": "Alice Oseman",
+          "rank": 2,
+          "title": "Heartstopper Volume 6",
+          "url": "https://loveyourbookshop.org.au/bestsellers/heartstopper-volume-6"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "rank": 3,
+          "title": "Fight or Flight: Diary of a Wimpy Kid (21)",
+          "url": "https://loveyourbookshop.org.au/bestsellers/fight-or-flight-diary-of-a-wimpy-kid-21"
+        },
+        {
+          "creator": "Bonnie Garmus",
+          "rank": 4,
+          "title": "Peck & Peck",
+          "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
+        },
+        {
+          "creator": "Rebecca Yarros",
+          "rank": 5,
+          "title": "Threshing Day",
+          "url": "https://loveyourbookshop.org.au/bestsellers/threshing-day"
+        },
+        {
+          "creator": "Lee Child",
+          "rank": 6,
+          "title": "Chain Reaction",
+          "url": "https://loveyourbookshop.org.au/bestsellers/chain-reaction"
+        },
+        {
+          "creator": "Barbara Kingsolver",
+          "rank": 7,
+          "title": "Partita",
+          "url": "https://loveyourbookshop.org.au/bestsellers/partita"
+        },
+        {
+          "creator": "Elizabeth Strout",
+          "rank": 8,
+          "title": "The Things We Never Say",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
+        },
+        {
+          "creator": "Chris Hammer",
+          "rank": 9,
+          "title": "Full Circle",
+          "url": "https://loveyourbookshop.org.au/bestsellers/full-circle"
+        },
+        {
+          "creator": "Josh Silver",
+          "rank": 10,
+          "title": "Fruit Fly",
+          "url": "https://loveyourbookshop.org.au/bestsellers/fruit-fly"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "bestsellers in ABA Buying Group stores",
+        "observedAt": "2026-10-24",
+        "provider": "Australian Booksellers Association / NielsenIQ BookScan",
+        "territory": "AU",
+        "url": "https://loveyourbookshop.org.au/aba-top-10/"
+      },
+      "title": "ABA Buying Group Top 10"
+    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -12,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-29T09:53:32Z",
+        "observedAt": "2026-10-30T09:56:50Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -28,80 +103,80 @@
           "rank": 1,
           "title": "Clayface",
           "url": "https://www.boxofficemojo.com/release/rl1717534977/?ref_=bo_we_table_1",
-          "weekendGross": "$1,300,000",
+          "weekendGross": "$1,335,558",
           "weeksOnRelease": "1"
         },
         {
-          "distributor": "Amazon MGM Studios",
+          "distributor": "Paramount Pictures International",
           "rank": 2,
+          "title": "Street Fighter",
+          "url": "https://www.boxofficemojo.com/release/rl2045018113/?ref_=bo_we_table_2",
+          "weekendGross": "$818,599",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Amazon MGM Studios",
+          "rank": 3,
           "title": "Verity",
-          "url": "https://www.boxofficemojo.com/release/rl1163297025/?ref_=bo_we_table_2",
+          "url": "https://www.boxofficemojo.com/release/rl1163297025/?ref_=bo_we_table_3",
           "weekendGross": "$606,821",
           "weeksOnRelease": "4"
         },
         {
           "distributor": "-",
-          "rank": 3,
+          "rank": 4,
           "title": "Wildwood",
-          "url": "https://www.boxofficemojo.com/release/rl1482653953/?ref_=bo_we_table_3",
-          "weekendGross": "$571,322",
+          "url": "https://www.boxofficemojo.com/release/rl1482653953/?ref_=bo_we_table_4",
+          "weekendGross": "$572,331",
           "weeksOnRelease": "1"
         },
         {
           "distributor": "Universal Pictures International (UPI)",
-          "rank": 4,
+          "rank": 5,
           "title": "Sense and Sensibility",
-          "url": "https://www.boxofficemojo.com/release/rl677150977/?ref_=bo_we_table_4",
+          "url": "https://www.boxofficemojo.com/release/rl677150977/?ref_=bo_we_table_5",
           "weekendGross": "$492,418",
           "weeksOnRelease": "2"
         },
         {
+          "distributor": "Big Bull Productions",
+          "rank": 6,
+          "title": "The Songs of John Farnham: A Living Legend - The Celebration Concert",
+          "url": "https://www.boxofficemojo.com/release/rl3444801793/?ref_=bo_we_table_6",
+          "weekendGross": "$324,547",
+          "weeksOnRelease": "6"
+        },
+        {
+          "distributor": "Amazon MGM Studios",
+          "rank": 7,
+          "title": "Ali G: Who Iz I?",
+          "url": "https://www.boxofficemojo.com/release/rl56525057/?ref_=bo_we_table_7",
+          "weekendGross": "$302,571",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Paramount Pictures International",
+          "rank": 8,
+          "title": "Heart of the Beast",
+          "url": "https://www.boxofficemojo.com/release/rl296583169/?ref_=bo_we_table_8",
+          "weekendGross": "$280,473",
+          "weeksOnRelease": "5"
+        },
+        {
           "distributor": "Universal Pictures International (UPI)",
-          "rank": 5,
+          "rank": 9,
           "title": "The Odyssey",
-          "url": "https://www.boxofficemojo.com/release/rl2487320833/?ref_=bo_we_table_5",
+          "url": "https://www.boxofficemojo.com/release/rl2487320833/?ref_=bo_we_table_9",
           "weekendGross": "$248,696",
           "weeksOnRelease": "15"
         },
         {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 6,
-          "title": "Other Mommy",
-          "url": "https://www.boxofficemojo.com/release/rl1415217409/?ref_=bo_we_table_6",
-          "weekendGross": "$203,613",
-          "weeksOnRelease": "3"
-        },
-        {
-          "distributor": "Walt Disney Pictures",
-          "rank": 7,
-          "title": "Whalefall",
-          "url": "https://www.boxofficemojo.com/release/rl1297973505/?ref_=bo_we_table_7",
-          "weekendGross": "$136,616",
-          "weeksOnRelease": "2"
-        },
-        {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 8,
-          "title": "Forgotten Island",
-          "url": "https://www.boxofficemojo.com/release/rl2270396673/?ref_=bo_we_table_8",
-          "weekendGross": "$103,301",
-          "weeksOnRelease": "6"
-        },
-        {
-          "distributor": "VVS Films",
-          "rank": 9,
-          "title": "The Invite",
-          "url": "https://www.boxofficemojo.com/release/rl968851457/?ref_=bo_we_table_9",
-          "weekendGross": "$3,076",
-          "weeksOnRelease": "16"
-        },
-        {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "Wanderlust Films",
           "rank": 10,
-          "title": "Avengers: Endgame",
-          "url": "https://www.boxofficemojo.com/release/rl2404745473/?ref_=bo_we_table_10",
-          "weekendGross": "$1,982",
-          "weeksOnRelease": "5"
+          "title": "Jailer 2",
+          "url": "https://www.boxofficemojo.com/release/rl3948708097/?ref_=bo_we_table_10",
+          "weekendGross": "$236,246",
+          "weeksOnRelease": "2"
         }
       ],
       "reportPeriod": "October 22-25, 2026",
@@ -157,12 +232,12 @@
         },
         {
           "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
-          "id": "6779097534",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
           "rank": 5,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
-          "url": "https://music.apple.com/au/album/stupid-song/6779097512?i=6779097534"
+          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "Taylor Swift",
@@ -202,18 +277,18 @@
         },
         {
           "artist": "Alex Warren",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/1e/c9/c71ec9f8-f6fd-5374-0e5c-3419539618f4/075679607942.jpg/100x100bb.jpg",
-          "id": "1817735163",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/100x100bb.jpg",
+          "id": "1793663645",
           "rank": 10,
           "releaseDate": "2024-09-26",
           "title": "Ordinary",
-          "url": "https://music.apple.com/au/album/ordinary/1817735146?i=1817735163"
+          "url": "https://music.apple.com/au/album/ordinary/1793663382?i=1793663645"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 29 Oct 2026 09:54:31 +0000",
+        "observedAt": "Fri, 30 Oct 2026 09:56:55 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -221,9 +296,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "0994f3913fc3b3b55099c19b4607dca43cefc644107b2ec268a9eb479a706556",
+  "contentHash": "f88d30172224396c385439e3a069c2d9d22dde0e43e3b4a9fcf64382a2daaf01",
   "country": "AU",
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T09:53:32Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T09:56:50Z",
   "schemaVersion": 1
 }
