@@ -505,12 +505,23 @@
             }
           ],
           "startDate": "2026-10-10"
+        },
+        {
+          "endDate": "2026-11-06",
+          "items": [
+            {
+              "artist": "Ella Langley",
+              "rank": 1,
+              "title": "Choosin' Texas"
+            }
+          ],
+          "startDate": "2026-10-31"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-24",
+        "observedAt": "2026-10-31",
         "provider": "Wikipedia contributors",
         "territory": "US",
         "url": "https://en.wikipedia.org/wiki/Lists_of_Billboard_number-one_singles"
@@ -518,7 +529,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "af6b9eba48491998c5fc83afc8b283b93b8401b065ecc895cd0cdca8d36d876c",
+  "contentHash": "b9c19a66906781285a46e5d09562588410216714b0480e4623dce84ccffb620f",
   "country": "us",
   "schemaVersion": 1,
   "year": 2026
