@@ -10,7 +10,7 @@
         "Qasim"
       ],
       "note": "A male given name.",
-      "origin": "Wiktionary etymology",
+      "origin": "",
       "sourceEtymology": "Borrowed from Arabic قَاسِم (qāsim).",
       "sourceProvider": "English Wiktionary contributors; Kins sourced summary",
       "sourceURL": "https://en.wiktionary.org/wiki/%D9%82%D8%A7%D8%B3%D9%85"
@@ -25,7 +25,7 @@
         "Quashie"
       ],
       "note": "A surname from Akan. An anglicised form of Akan Kwasi, a given name for a boy born on a Sunday",
-      "origin": "Wiktionary etymology",
+      "origin": "",
       "sourceEtymology": "Borrowed from Akan.",
       "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Quashie"
@@ -63,7 +63,7 @@
         "Quincy"
       ],
       "note": "A male given name transferred from the surname.",
-      "origin": "Wiktionary etymology",
+      "origin": "",
       "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
       "sourceURL": "https://en.wiktionary.org/wiki/Quincy"
     },
@@ -74,7 +74,7 @@
         "Quinn"
       ],
       "note": "A male given name transferred from the surname.",
-      "origin": "Wiktionary etymology",
+      "origin": "",
       "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
       "sourceURL": "https://en.wiktionary.org/wiki/Quinn"
     },
@@ -88,10 +88,21 @@
         "Quinne"
       ],
       "note": "A female given name.",
-      "origin": "Wiktionary etymology",
+      "origin": "",
       "sourceEtymology": "Possibly from Doric Scots, quinne (young woman); though the name may also be a modern feminine version of Quinn.",
       "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Quinne"
+    },
+    {
+      "license": "CC BY-SA 4.0",
+      "meaning": "As an independent name, from Latin Quintus, from quintus (“fifth”), originally in reference to a son's birth order uninclusive of daughters. Doublet of Quintus.",
+      "names": [
+        "Quint"
+      ],
+      "note": "A male given name from Latin.",
+      "origin": "Latin",
+      "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
+      "sourceURL": "https://en.wiktionary.org/wiki/Quint"
     },
     {
       "license": "CC BY-SA 4.0",
@@ -103,7 +114,7 @@
         "Quintavius"
       ],
       "note": "A male given name originating as a coinage, of African-American usage.",
-      "origin": "Wiktionary etymology",
+      "origin": "",
       "sourceEtymology": "Probably blend of Quintus + Octavius.",
       "sourceProvider": "Kins AI-assisted interpretation; Wiktionary etymology reference",
       "sourceURL": "https://en.wiktionary.org/wiki/Quintavius"
@@ -132,23 +143,23 @@
     },
     {
       "license": "CC BY-SA 4.0",
-      "meaning": "Borrowed from Latin Quīntus (“masculine praenomen”), from quīntus (“fifth”).",
+      "meaning": "From Latin Quīntus, from quīntus (“fifth”) and originally intending a fifth-born son, uninclusive of daughters. Doublet of Quint.",
       "names": [
         "Quintus"
       ],
-      "note": "A male given name from Latin",
+      "note": "A male given name from Latin.",
       "origin": "Latin",
       "sourceProvider": "English Wiktionary via Kaikki/Wiktextract",
       "sourceURL": "https://en.wiktionary.org/wiki/Quintus"
     }
   ],
-  "entryCount": 11,
-  "generatedAt": "2026-10-31T09:34:07Z",
+  "entryCount": 12,
+  "generatedAt": "2026-11-01T10:24:01Z",
   "interpretationPolicy": "AI interpretations fill unresolved meanings, retain their etymology reference and confidence, and do not replace supported meanings.",
   "licenseNotice": "Curated summaries, attributed CC BY-SA 4.0 Wiktionary material, and separately labelled AI interpretations",
   "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
   "policy": "Explicit spellings only. Meanings are concise etymological summaries, not personality claims. Uncertain or multi-origin names remain qualified.",
   "reviewedAt": "2026-09-23",
   "schemaVersion": 1,
-  "spellingCount": 7052
+  "spellingCount": 7185
 }

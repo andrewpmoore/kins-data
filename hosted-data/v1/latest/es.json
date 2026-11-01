@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-31T09:34:07Z",
+        "observedAt": "2026-11-01T10:24:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -51,13 +51,13 @@
           "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
         },
         {
-          "artist": "La Pantera & Quevedo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
-          "id": "6823633156",
+          "artist": "Quevedo & Elvis Crespo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
+          "id": "1894272112",
           "rank": 4,
-          "releaseDate": "2026-10-23",
-          "title": "DOGGY",
-          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
+          "releaseDate": "2026-04-23",
+          "title": "LA GRACIOSA",
+          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
           "artist": "Lucho RK",
@@ -69,13 +69,13 @@
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
-          "artist": "Quevedo & Elvis Crespo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
-          "id": "1894272112",
+          "artist": "La Pantera & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
+          "id": "6823633156",
           "rank": 6,
-          "releaseDate": "2026-04-23",
-          "title": "LA GRACIOSA",
-          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
+          "releaseDate": "2026-10-23",
+          "title": "DOGGY",
+          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
         },
         {
           "artist": "Clarent & Quevedo",
@@ -88,36 +88,36 @@
         },
         {
           "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338666",
-          "rank": 8,
-          "releaseDate": "2026-10-09",
-          "title": "SORDO DE UN PIE (interludio)",
-          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
-        },
-        {
-          "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
           "id": "6784833437",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-07-08",
           "title": "AIRE",
           "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
         },
         {
-          "artist": "Lucho RK & Daniela Garsal",
+          "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338668",
+          "id": "6817338666",
+          "rank": 9,
+          "releaseDate": "2026-10-09",
+          "title": "SORDO DE UN PIE (interludio)",
+          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
+        },
+        {
+          "artist": "Aitana",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
+          "id": "1814146675",
           "rank": 10,
-          "releaseDate": "2026-10-08",
-          "title": "RESACA EMOCIONAL",
-          "url": "https://music.apple.com/es/album/resaca-emocional/6817338538?i=6817338668"
+          "releaseDate": "2025-05-29",
+          "title": "SUPERESTRELLA",
+          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 31 Oct 2026 09:35:33 +0000",
+        "observedAt": "Sun, 1 Nov 2026 10:26:23 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-10-31T09:34:07Z",
+        "observedAt": "2026-11-01T10:24:01Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +280,9 @@
       "year": 2024
     }
   },
-  "contentHash": "66dbd01b32570558b4ece087b948bcd182726a0e0ac590eb11e0785136d7f865",
+  "contentHash": "f14089e4a769323b394f82779d6dbdd5955515158c1cb8a63f8f1437ac4792e6",
   "country": "ES",
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T09:34:07Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T10:24:01Z",
   "schemaVersion": 1
 }

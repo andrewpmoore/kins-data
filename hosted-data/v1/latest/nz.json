@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-10-31",
+      "id": "bookhub-nielsen-indie-2026-11-01",
       "items": [
         {
           "category": "NZ Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-10-31",
+        "observedAt": "2026-11-01",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -87,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-31T09:34:07Z",
+        "observedAt": "2026-11-01T10:24:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -196,7 +196,7 @@
       "items": [
         {
           "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/c8/05/cec805c6-5f81-a897-a53e-f42025b9cd5a/196874840146.jpg/100x100bb.jpg",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
           "rank": 1,
           "releaseDate": "2026-10-15",
@@ -213,22 +213,22 @@
           "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
-          "id": "6807192825",
-          "rank": 3,
-          "releaseDate": "2026-09-03",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/nz/album/nicole-kidman/6807192580?i=6807192825"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
+          "id": "6807192825",
+          "rank": 4,
+          "releaseDate": "2026-09-03",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/nz/album/nicole-kidman/6807192580?i=6807192825"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
@@ -249,31 +249,31 @@
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
-          "artist": "Michael Jackson",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
-          "id": "269573303",
-          "rank": 7,
-          "releaseDate": "1982-11-29",
-          "title": "Thriller",
-          "url": "https://music.apple.com/nz/album/thriller/269572838?i=269573303"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992115",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "SIENNA SPIRO",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
-          "id": "6769552411",
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
+          "id": "1814620247",
+          "rank": 8,
+          "releaseDate": "2025-05-30",
+          "title": "Nice To Each Other",
+          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
+        },
+        {
+          "artist": "Michael Jackson",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+          "id": "269573303",
           "rank": 9,
-          "releaseDate": "2026-07-02",
-          "title": "Great Expectation",
-          "url": "https://music.apple.com/nz/album/great-expectation/6769552402?i=6769552411"
+          "releaseDate": "1982-11-29",
+          "title": "Thriller",
+          "url": "https://music.apple.com/nz/album/thriller/269572838?i=269573303"
         },
         {
           "artist": "Ashe",
@@ -288,7 +288,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 31 Oct 2026 09:35:07 +0000",
+        "observedAt": "Sun, 1 Nov 2026 10:25:00 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -451,9 +451,9 @@
       "year": 2025
     }
   },
-  "contentHash": "2da24d948d371ecd3a911cdcade633f5f4d0cdd76e14a9c3c012a1244fa5b40a",
+  "contentHash": "213b316aa8e2ccb1be53364882563d12e08012b31a7b3daf86a799a70ee656ee",
   "country": "NZ",
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T09:34:07Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T10:24:01Z",
   "schemaVersion": 1
 }

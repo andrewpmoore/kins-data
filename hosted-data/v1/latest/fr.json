@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-31T09:34:07Z",
+        "observedAt": "2026-11-01T10:24:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -51,22 +51,22 @@
           "url": "https://music.apple.com/fr/album/m%C3%A9lo-d%C3%A9cal%C3%A9/6775967737?i=6775967738"
         },
         {
-          "artist": "RnBoi",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/a8/8a/10a88a95-8c39-3dfd-e895-c675d8e23e88/5056556187172_cover.jpg/100x100bb.jpg",
-          "id": "6816893848",
-          "rank": 4,
-          "releaseDate": "2026-10-16",
-          "title": "J'assume",
-          "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
-        },
-        {
           "artist": "Mauvais Djo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/37/f43c3795-a208-9f15-759e-35742017484f/26UM1IM07939.rgb.jpg/100x100bb.jpg",
           "id": "6803864930",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-09-04",
           "title": "12",
           "url": "https://music.apple.com/fr/album/12/6803864921?i=6803864930"
+        },
+        {
+          "artist": "RnBoi",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/a8/8a/10a88a95-8c39-3dfd-e895-c675d8e23e88/5056556187172_cover.jpg/100x100bb.jpg",
+          "id": "6816893848",
+          "rank": 5,
+          "releaseDate": "2026-10-16",
+          "title": "J'assume",
+          "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
         },
         {
           "artist": "Ronisia",
@@ -96,28 +96,28 @@
           "url": "https://music.apple.com/fr/album/la-nocturne/6809754889?i=6809755258"
         },
         {
-          "artist": "SCH & SDM",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/d1/65/ffd16555-639f-261a-f95b-988f7f75525e/1200220311767.jpg/100x100bb.jpg",
-          "id": "6822787533",
-          "rank": 9,
-          "releaseDate": "2026-10-21",
-          "title": "Professionnels",
-          "url": "https://music.apple.com/fr/album/professionnels/6822787530?i=6822787533"
-        },
-        {
           "artist": "Le Crime & TK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/6a/66/946a666c-c14b-f778-f79e-81c2a40d0ca7/cover.jpg/100x100bb.jpg",
           "id": "6773819547",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-06-12",
           "title": "Bodycount",
           "url": "https://music.apple.com/fr/album/bodycount/6773818926?i=6773819547"
+        },
+        {
+          "artist": "Zed",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/27/db/1727db04-05f3-bec5-6a2c-724a9590c86d/cover.jpg/100x100bb.jpg",
+          "id": "6824888246",
+          "rank": 10,
+          "releaseDate": "2026-10-28",
+          "title": "Wetin Day",
+          "url": "https://music.apple.com/fr/album/wetin-day/6824888227?i=6824888246"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 31 Oct 2026 09:35:32 +0000",
+        "observedAt": "Sun, 1 Nov 2026 10:26:21 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-10-31T09:34:07Z",
+        "observedAt": "2026-11-01T10:24:01Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "fe472801e699d1480f7100eccdfa44bcd22b361d8d38da9ad519880a9d39becf",
+  "contentHash": "17a76c521c95c239fc4ea8a9d13e2220fcbc402a96d99039100b17dc091d0328",
   "country": "FR",
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T09:34:07Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T10:24:01Z",
   "schemaVersion": 1
 }

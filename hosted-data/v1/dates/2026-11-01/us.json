@@ -1,0 +1,424 @@
+{
+  "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "publishers-weekly-adult-2026-10-26",
+      "items": [
+        {
+          "creator": "Jeff Kinney",
+          "isbn13": "9781419782701",
+          "rank": 1,
+          "title": "Fight or Flight (Diary of a Wimpy Kid #21): Volume 21"
+        },
+        {
+          "creator": "Ina Garten",
+          "isbn13": "9780593234174",
+          "rank": 2,
+          "title": "Simply Ina: A Barefoot Contessa Cookbook",
+          "url": "https://www.publishersweekly.com/9780593234174"
+        },
+        {
+          "creator": "Louise Penny",
+          "isbn13": "9781250412607",
+          "rank": 3,
+          "title": "Miss Wolcott's Ghost",
+          "url": "https://www.publishersweekly.com/9781250412607"
+        },
+        {
+          "creator": "Rebecca Yarros",
+          "isbn13": "9781682818084",
+          "rank": 4,
+          "title": "Threshing Day (Wing and Claw Collection)"
+        },
+        {
+          "creator": "James Patterson",
+          "isbn13": "9780316569743",
+          "rank": 5,
+          "title": "The Family Cross: An Alex Cross Thriller"
+        },
+        {
+          "creator": "Allen Levi",
+          "isbn13": "9781668236512",
+          "rank": 6,
+          "title": "Theo of Golden"
+        },
+        {
+          "creator": "Abby Jimenez",
+          "isbn13": "9781538780046",
+          "rank": 7,
+          "title": "A Married Little Christmas (Deluxe Edition)",
+          "url": "https://www.publishersweekly.com/9781538780046"
+        },
+        {
+          "creator": "Lee Child, Andrew Child",
+          "isbn13": "9798217375158",
+          "rank": 8,
+          "title": "Chain Reaction: A Reacher Novel",
+          "url": "https://www.publishersweekly.com/9798217375158"
+        },
+        {
+          "creator": "Meghan Quinn",
+          "isbn13": "9781464246937",
+          "rank": 9,
+          "title": "Christmas Staycation (Standard Edition)"
+        },
+        {
+          "creator": "Philip Anthony Mitchell",
+          "isbn13": "9781400356829",
+          "rank": 10,
+          "title": "Contend: Standing Boldly for Biblical Truth in an Age of Compromise"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Top 10 Overall",
+        "observedAt": "2026-10-26",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
+      },
+      "title": "Circana BookScan Top 10 Overall"
+    },
+    "childrensBooks": {
+      "audience": "children",
+      "id": "publishers-weekly-children-2026-10-26",
+      "items": [
+        {
+          "creator": "Jeff Kinney",
+          "isbn13": "9781419782701",
+          "rank": 1,
+          "title": "Fight or Flight (Diary of a Wimpy Kid #21): Volume 21"
+        },
+        {
+          "creator": "Suzanne Collins",
+          "isbn13": "9781546171461",
+          "rank": 2,
+          "title": "Sunrise on the Reaping (the Hunger Games)",
+          "url": "https://www.publishersweekly.com/9781546171461"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "isbn13": "9781419788109",
+          "rank": 3,
+          "title": "Rowley Jefferson's Awesome Friendly Spooky Stories 2: From the Creator of Diary of a Wimpy Kid"
+        },
+        {
+          "creator": "Lynn Painter",
+          "isbn13": "9798347100217",
+          "rank": 4,
+          "title": "Trust Fall",
+          "url": "https://www.publishersweekly.com/9798347100217"
+        },
+        {
+          "creator": "J. K. Rowling, Levi Pinfold",
+          "isbn13": "9780545791441",
+          "rank": 5,
+          "title": "Harry Potter and the Half-Blood Prince: The Illustrated Edition"
+        },
+        {
+          "creator": "Raina Telgemeier, Adapted by, Raina Telgemeier, Gale Galligan, Adapted by, Gale Galligan, Ann M Martin",
+          "isbn13": "9781546174363",
+          "rank": 6,
+          "title": "Baby-Sitters on Board!: A Graphic Novel (the Baby-Sitters Club Super Special #1)"
+        },
+        {
+          "creator": "Hervé Commère",
+          "isbn13": "9798347119615",
+          "rank": 7,
+          "title": "21 Days of Fear: One Day, One Letter"
+        },
+        {
+          "creator": "Veronica Roth",
+          "isbn13": "9780063462540",
+          "rank": 8,
+          "title": "The Sixth Faction Deluxe Limited Edition"
+        },
+        {
+          "creator": "Sammy Savos, Gibson Twist",
+          "isbn13": "9780063450882",
+          "rank": 9,
+          "title": "Warriors Graphic Novel: The New Prophecy #1"
+        },
+        {
+          "creator": "Suzanne Collins",
+          "isbn13": "9798225044473",
+          "rank": 10,
+          "title": "Sunrise on the Reaping (a Hunger Games Novel): Movie Tie-In Edition"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Children's Frontlist Fiction",
+        "observedAt": "2026-10-26",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
+      },
+      "title": "Circana BookScan Children's Frontlist Fiction"
+    },
+    "games": {
+      "id": "dice-game-of-the-year-2026",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+        }
+      ],
+      "source": {
+        "kind": "awardWinner",
+        "metric": "Game of the Year award winner voted by Academy members",
+        "observedAt": "2026-11-01T10:24:01Z",
+        "provider": "Academy of Interactive Arts & Sciences",
+        "territory": "WORLD",
+        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
+      },
+      "title": "D.I.C.E. Awards · Game of the Year",
+      "year": 2026
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Michael Jackson",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+          "id": "269573303",
+          "rank": 1,
+          "releaseDate": "1982-11-29",
+          "title": "Thriller",
+          "url": "https://music.apple.com/us/album/thriller/269572838?i=269573303"
+        },
+        {
+          "artist": "The Citizens of Halloween",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/5c/37/265c3733-e0a5-5758-6de0-f6a9f2a1ad6d/06PNDIM00838.rgb.jpg/100x100bb.jpg",
+          "id": "1440662595",
+          "rank": 2,
+          "releaseDate": "1993-01-01",
+          "title": "This Is Halloween",
+          "url": "https://music.apple.com/us/album/this-is-halloween/1440662430?i=1440662595"
+        },
+        {
+          "artist": "Bobby \"Boris\" Pickett",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/bb/8a/6f/bb8a6ff2-a5b6-395c-8a54-5d7954bd9e4b/dj.lnkhwpna.tif/100x100bb.jpg",
+          "id": "82125202",
+          "rank": 3,
+          "releaseDate": "1962-10-09",
+          "title": "Monster Mash",
+          "url": "https://music.apple.com/us/album/monster-mash/82125264?i=82125202"
+        },
+        {
+          "artist": "Ray Parker Jr.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/96/63/c596638c-a823-1a5e-dba0-6f1df67ab671/886447946862.jpg/100x100bb.jpg",
+          "id": "1484413134",
+          "rank": 4,
+          "releaseDate": "1984-06-08",
+          "title": "Ghostbusters",
+          "url": "https://music.apple.com/us/album/ghostbusters/1484413132?i=1484413134"
+        },
+        {
+          "artist": "Andrew Gold",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/95/d2489595-3875-f847-52fa-cf76ed4603e9/19CRGIM15015.rgb.jpg/100x100bb.jpg",
+          "id": "1482699500",
+          "rank": 5,
+          "releaseDate": "1996-08-20",
+          "title": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
+          "url": "https://music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500"
+        },
+        {
+          "artist": "Rockwell",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/8b/bf/658bbfc5-32db-8380-4dcf-52cb7e636c1e/886446713328.jpg/100x100bb.jpg",
+          "id": "1278579752",
+          "rank": 6,
+          "releaseDate": "1983-12-27",
+          "title": "Somebody's Watching Me",
+          "url": "https://music.apple.com/us/album/somebodys-watching-me/1278579748?i=1278579752"
+        },
+        {
+          "artist": "Stevie Wonder",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/62/61/61/626161c0-f4d7-e6ff-8586-768340ef278f/00602537002382.rgb.jpg/100x100bb.jpg",
+          "id": "1440808985",
+          "rank": 7,
+          "releaseDate": "1972-10-24",
+          "title": "Superstition",
+          "url": "https://music.apple.com/us/album/superstition/1440808973?i=1440808985"
+        },
+        {
+          "artist": "Rihanna",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/100x100bb.jpg",
+          "id": "1441154571",
+          "rank": 8,
+          "releaseDate": "2008-06-02",
+          "title": "Disturbia",
+          "url": "https://music.apple.com/us/album/disturbia/1441154435?i=1441154571"
+        },
+        {
+          "artist": "Talking Heads",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/100x99bb.jpg",
+          "id": "20833655",
+          "rank": 9,
+          "releaseDate": "1977-09-16",
+          "title": "Psycho Killer",
+          "url": "https://music.apple.com/us/album/psycho-killer/20833651?i=20833655"
+        },
+        {
+          "artist": "Rockwell",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/77/db/7e77db79-4a06-ddbd-af27-4f5901a6149e/20UMGIM76318.rgb.jpg/100x100bb.jpg",
+          "id": "1589119250",
+          "rank": 10,
+          "releaseDate": "1983-01-01",
+          "title": "Somebody's Watching Me",
+          "url": "https://music.apple.com/us/album/somebodys-watching-me/1589119076?i=1589119250"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Sun, 1 Nov 2026 10:24:30 +0000",
+        "provider": "Apple Music",
+        "territory": "US",
+        "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "ssa-national-baby-names",
+      "items": [
+        {
+          "category": "girl",
+          "name": "Olivia",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Charlotte",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Emma",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Amelia",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sophia",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Mia",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Isabella",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Evelyn",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sofia",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Eliana",
+          "rank": 10,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "boy",
+          "name": "Liam",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Noah",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Oliver",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Theodore",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Henry",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "James",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Elijah",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Mateo",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "William",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Lucas",
+          "rank": 10,
+          "rankGroup": "boy"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
+        "observedAt": "2026-11-01T10:24:01Z",
+        "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
+        "territory": "US",
+        "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "af35ebe5e6a300654792f5629d938ac6be892276f84fe8277301227ab05aaef2",
+  "country": "US",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T10:24:01Z",
+  "schemaVersion": 1
+}

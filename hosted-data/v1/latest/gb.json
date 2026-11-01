@@ -52,7 +52,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-10-31T09:34:07Z",
+        "observedAt": "2026-11-01T10:24:01Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -149,7 +149,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-10-31T09:34:07Z",
+        "observedAt": "2026-11-01T10:24:01Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -160,28 +160,73 @@
       "id": "apple-music-most-played",
       "items": [
         {
+          "artist": "Michael Jackson",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+          "id": "269573303",
+          "rank": 1,
+          "releaseDate": "1982-11-29",
+          "title": "Thriller",
+          "url": "https://music.apple.com/gb/album/thriller/269572838?i=269573303"
+        },
+        {
           "artist": "Jamie Miller",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
           "id": "6794168373",
-          "rank": 1,
+          "rank": 2,
           "releaseDate": "2026-08-07",
           "title": "Babydoll",
           "url": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373"
         },
         {
+          "artist": "Ray Parker Jr.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/96/63/c596638c-a823-1a5e-dba0-6f1df67ab671/886447946862.jpg/100x100bb.jpg",
+          "id": "1484413134",
+          "rank": 3,
+          "releaseDate": "1984-06-08",
+          "title": "Ghostbusters",
+          "url": "https://music.apple.com/gb/album/ghostbusters/1484413132?i=1484413134"
+        },
+        {
           "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/c8/05/cec805c6-5f81-a897-a53e-f42025b9cd5a/196874840146.jpg/100x100bb.jpg",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
-          "rank": 2,
+          "rank": 4,
           "releaseDate": "2026-10-15",
           "title": "Housewife",
           "url": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774"
         },
         {
+          "artist": "The Citizens of Halloween",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/5c/37/265c3733-e0a5-5758-6de0-f6a9f2a1ad6d/06PNDIM00838.rgb.jpg/100x100bb.jpg",
+          "id": "1440662595",
+          "rank": 5,
+          "releaseDate": "1993-01-01",
+          "title": "This Is Halloween",
+          "url": "https://music.apple.com/gb/album/this-is-halloween/1440662430?i=1440662595"
+        },
+        {
+          "artist": "Rockwell",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/8b/bf/658bbfc5-32db-8380-4dcf-52cb7e636c1e/886446713328.jpg/100x100bb.jpg",
+          "id": "1278579752",
+          "rank": 6,
+          "releaseDate": "1983-12-27",
+          "title": "Somebody's Watching Me",
+          "url": "https://music.apple.com/gb/album/somebodys-watching-me/1278579748?i=1278579752"
+        },
+        {
+          "artist": "Bobby \"Boris\" Pickett",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/bb/8a/6f/bb8a6ff2-a5b6-395c-8a54-5d7954bd9e4b/dj.lnkhwpna.tif/100x100bb.jpg",
+          "id": "82125202",
+          "rank": 7,
+          "releaseDate": "1962-10-09",
+          "title": "Monster Mash",
+          "url": "https://music.apple.com/gb/album/monster-mash/82125264?i=82125202"
+        },
+        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
           "id": "6805240960",
-          "rank": 3,
+          "rank": 8,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960"
@@ -190,70 +235,25 @@
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 4,
+          "rank": 9,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
         },
         {
-          "artist": "SIENNA SPIRO",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
-          "id": "6769552411",
-          "rank": 5,
-          "releaseDate": "2026-07-02",
-          "title": "Great Expectation",
-          "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411"
-        },
-        {
-          "artist": "Michael Jackson",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
-          "id": "269573303",
-          "rank": 6,
-          "releaseDate": "1982-11-29",
-          "title": "Thriller",
-          "url": "https://music.apple.com/gb/album/thriller/269572838?i=269573303"
-        },
-        {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 7,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
           "artist": "HUGEL, Imael Angel & Ultra Naté",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
           "id": "6769070199",
-          "rank": 8,
+          "rank": 10,
           "releaseDate": "2026-05-22",
           "title": "Movin' To The Sun",
           "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
-        },
-        {
-          "artist": "Jamie Miller & Antonio Cipriano",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/100x100bb.jpg",
-          "id": "6812888327",
-          "rank": 9,
-          "releaseDate": "2026-09-18",
-          "title": "Babydoll",
-          "url": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327"
-        },
-        {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
-          "rank": 10,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 31 Oct 2026 09:34:08 +0000",
+        "observedAt": "Sun, 1 Nov 2026 10:24:02 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -407,7 +407,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-10-31T09:34:07Z",
+        "observedAt": "2026-11-01T10:24:01Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -416,9 +416,9 @@
       "year": 2025
     }
   },
-  "contentHash": "69b65239172cd3cf5cd989242f0d02f7fde590dca8491e54af21d366e4652079",
+  "contentHash": "a59e8f3f108549252f7eebf44c737ca818ecba8d52c28cafc6a9ba39dae5e4bf",
   "country": "GB",
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T09:34:07Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T10:24:01Z",
   "schemaVersion": 1
 }
