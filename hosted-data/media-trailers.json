@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T11:11:13Z",
+  "generatedAt": "2026-11-02T13:34:58Z",
   "targets": [
     {
       "kind": "games",
@@ -10,6 +10,11 @@
     {
       "kind": "games",
       "title": "Clair Obscur: Expedition 33",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Ali G: Who Iz I?",
       "chartYear": 2026
     },
     {
@@ -49,6 +54,11 @@
     },
     {
       "kind": "movies",
+      "title": "BTS World Tour ‘Arirang’ in Buenos Aires and São Paulo Live Viewing",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Buddy",
       "chartYear": 2026
     },
@@ -69,12 +79,12 @@
     },
     {
       "kind": "movies",
-      "title": "Clayface",
+      "title": "CLAYFACE",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "CLAYFACE",
+      "title": "Clayface",
       "chartYear": 2026
     },
     {
@@ -99,12 +109,17 @@
     },
     {
       "kind": "movies",
+      "title": "DIGGER",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Digger",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "DIGGER",
+      "title": "DIO RIDE",
       "chartYear": 2026
     },
     {
@@ -119,12 +134,27 @@
     },
     {
       "kind": "movies",
+      "title": "FAST & FURIOUS – 25TH ANNIVERSARY",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Fatherland",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "FATHERLAND",
       "chartYear": 2026
     },
     {
       "kind": "movies",
       "title": "Forgotten Island",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Ghosts: The Possession Of Button House",
       "chartYear": 2026
     },
     {
@@ -144,12 +174,12 @@
     },
     {
       "kind": "movies",
-      "title": "Heart of the Beast",
+      "title": "Heart Of The Beast",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Heart Of The Beast",
+      "title": "Heart of the Beast",
       "chartYear": 2026
     },
     {
@@ -164,12 +194,22 @@
     },
     {
       "kind": "movies",
-      "title": "Insidious: Out Of The Further",
+      "title": "ICE CREAM MAN",
       "chartYear": 2026
     },
     {
       "kind": "movies",
       "title": "Insidious: Out of the Further",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Insidious: Out Of The Further",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "IT ENDS",
       "chartYear": 2026
     },
     {
@@ -180,6 +220,11 @@
     {
       "kind": "movies",
       "title": "JE SO' PAZZO",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Klara and the Sun",
       "chartYear": 2026
     },
     {
@@ -289,12 +334,12 @@
     },
     {
       "kind": "movies",
-      "title": "RESIDENT EVIL",
+      "title": "Resident Evil",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Resident Evil",
+      "title": "RESIDENT EVIL",
       "chartYear": 2026
     },
     {
@@ -304,12 +349,12 @@
     },
     {
       "kind": "movies",
-      "title": "Sense And Sensibility",
+      "title": "Sense and Sensibility",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Sense and Sensibility",
+      "title": "Sense And Sensibility",
       "chartYear": 2026
     },
     {
@@ -329,6 +374,11 @@
     },
     {
       "kind": "movies",
+      "title": "SHAUN VITA DA PECORA - OPERAZIONE Z.U.C.C.A",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "SPIDER-MAN: BRAND NEW DAY",
       "chartYear": 2026
     },
@@ -344,12 +394,17 @@
     },
     {
       "kind": "movies",
+      "title": "Street Fighter",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "STREET FIGHTER",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Street Fighter",
+      "title": "Tenzing",
       "chartYear": 2026
     },
     {
@@ -380,6 +435,11 @@
     {
       "kind": "movies",
       "title": "The Odyssey",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Only Living Pickpocket in New York",
       "chartYear": 2026
     },
     {
@@ -434,6 +494,11 @@
     },
     {
       "kind": "movies",
+      "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Verity",
       "chartYear": 2026
     },
@@ -481,9 +546,9 @@
   "coverage": {
     "startYear": 2017,
     "endYear": 2026,
-    "targetCount": 95,
-    "recordCount": 24,
-    "matchedTrailerCount": 22
+    "targetCount": 108,
+    "recordCount": 27,
+    "matchedTrailerCount": 25
   },
   "source": "Wikidata (CC0), YouTube Data API, and manual curation",
   "attribution": "Wikidata contributors; YouTube data refreshed weekly",
@@ -509,6 +574,16 @@
     },
     {
       "kind": "movies",
+      "title": "Ali G: Who Iz I?",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=6t7C4qaHihE",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q140673920"
+      ]
+    },
+    {
+      "kind": "movies",
       "title": "Clayface",
       "chartYear": 2026,
       "releaseYear": 2026,
@@ -525,6 +600,16 @@
       "trailerURL": "https://www.youtube.com/watch?v=qORTe1wW3Wg",
       "wikidataSources": [
         "http://www.wikidata.org/entity/Q129677718"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Fatherland",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=-I2-X9v-ogs",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q135825188"
       ]
     },
     {
@@ -555,6 +640,16 @@
       "trailerURL": "https://www.youtube.com/watch?v=jxU8FU3o75A",
       "wikidataSources": [
         "http://www.wikidata.org/entity/Q136311783"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Klara and the Sun",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=wixzainceAE",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q124409386"
       ]
     },
     {
