@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "publishers-weekly-adult-2026-10-26",
+      "id": "publishers-weekly-adult-2026-11-02",
       "items": [
         {
           "creator": "Jeff Kinney",
@@ -72,7 +72,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "Circana BookScan Top 10 Overall",
-        "observedAt": "2026-10-26",
+        "observedAt": "2026-11-02",
         "provider": "Publishers Weekly / Circana BookScan",
         "territory": "US",
         "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
@@ -81,7 +81,7 @@
     },
     "childrensBooks": {
       "audience": "children",
-      "id": "publishers-weekly-children-2026-10-26",
+      "id": "publishers-weekly-children-2026-11-02",
       "items": [
         {
           "creator": "Jeff Kinney",
@@ -149,7 +149,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "Circana BookScan Children's Frontlist Fiction",
-        "observedAt": "2026-10-26",
+        "observedAt": "2026-11-02",
         "provider": "Publishers Weekly / Circana BookScan",
         "territory": "US",
         "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
@@ -168,13 +168,99 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-01T10:24:01Z",
+        "observedAt": "2026-11-02T10:57:18Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
       },
       "title": "D.I.C.E. Awards · Game of the Year",
       "year": 2026
+    },
+    "movies": {
+      "id": "the-numbers-us-2026-10-30",
+      "items": [
+        {
+          "rank": 1,
+          "title": "You Can See Everything",
+          "totalGross": "$63,882,597",
+          "url": "https://www.the-numbers.com/movie/You-Can-See-Everything-(2026)",
+          "weekendGross": "$10,600,684"
+        },
+        {
+          "rank": 2,
+          "title": "Clayface",
+          "totalGross": "$44,064,000",
+          "url": "https://www.the-numbers.com/movie/Clayface-(2026)",
+          "weekendGross": "$10,400,000"
+        },
+        {
+          "rank": 3,
+          "title": "Wildwood",
+          "totalGross": "$25,904,793",
+          "url": "https://www.the-numbers.com/movie/Wildwood-(2026)",
+          "weekendGross": "$7,500,000"
+        },
+        {
+          "rank": 4,
+          "title": "Wicker",
+          "totalGross": "$13,261,094",
+          "url": "https://www.the-numbers.com/movie/Wicker-(2026)",
+          "weekendGross": "$4,125,000"
+        },
+        {
+          "rank": 5,
+          "title": "Street Fighter",
+          "totalGross": "$53,012,000",
+          "url": "https://www.the-numbers.com/movie/Street-Fighter-(2026)",
+          "weekendGross": "$3,200,000"
+        },
+        {
+          "rank": 6,
+          "title": "BTS World Tour ‘Arirang’ in Buenos Aires and São Paulo Live Viewing",
+          "totalGross": "$2,800,000",
+          "url": "https://www.the-numbers.com/movie/BTS-World-Tour-Arirang-in-Buenos-Aires-and-Sao-Paulo-Live-Viewing-(2026-South-Korea)",
+          "weekendGross": "$2,800,000"
+        },
+        {
+          "rank": 7,
+          "title": "Resident Evil",
+          "totalGross": "$157,399,000",
+          "url": "https://www.the-numbers.com/movie/Resident-Evil-(2026)",
+          "weekendGross": "$2,525,000"
+        },
+        {
+          "rank": 8,
+          "title": "Other Mommy",
+          "totalGross": "$55,625,000",
+          "url": "https://www.the-numbers.com/movie/Other-Mommy-(2026)",
+          "weekendGross": "$2,500,000"
+        },
+        {
+          "rank": 9,
+          "title": "The Only Living Pickpocket in New York",
+          "totalGross": "$1,969,000",
+          "url": "https://www.the-numbers.com/movie/Only-Living-Pickpocket-in-New-York-The-(2026)",
+          "weekendGross": "$1,765,000"
+        },
+        {
+          "rank": 10,
+          "title": "Heart of the Beast",
+          "totalGross": "$65,110,000",
+          "url": "https://www.the-numbers.com/movie/Heart-of-the-Beast-(2026)",
+          "weekendGross": "$1,615,000"
+        }
+      ],
+      "reportPeriod": "2026-10-30/2026-11-01",
+      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/30",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "US theatrical weekend gross",
+        "observedAt": "2026-11-01",
+        "provider": "The Numbers",
+        "territory": "US",
+        "url": "https://www.the-numbers.com/box-office"
+      },
+      "title": "US weekend theatrical box office"
     },
     "music": {
       "id": "apple-music-most-played",
@@ -216,64 +302,64 @@
           "url": "https://music.apple.com/us/album/ghostbusters/1484413132?i=1484413134"
         },
         {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 5,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 6,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 7,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
           "artist": "Andrew Gold",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/95/d2489595-3875-f847-52fa-cf76ed4603e9/19CRGIM15015.rgb.jpg/100x100bb.jpg",
           "id": "1482699500",
-          "rank": 5,
+          "rank": 8,
           "releaseDate": "1996-08-20",
           "title": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
           "url": "https://music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500"
         },
         {
-          "artist": "Rockwell",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/8b/bf/658bbfc5-32db-8380-4dcf-52cb7e636c1e/886446713328.jpg/100x100bb.jpg",
-          "id": "1278579752",
-          "rank": 6,
-          "releaseDate": "1983-12-27",
-          "title": "Somebody's Watching Me",
-          "url": "https://music.apple.com/us/album/somebodys-watching-me/1278579748?i=1278579752"
-        },
-        {
-          "artist": "Stevie Wonder",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/62/61/61/626161c0-f4d7-e6ff-8586-768340ef278f/00602537002382.rgb.jpg/100x100bb.jpg",
-          "id": "1440808985",
-          "rank": 7,
-          "releaseDate": "1972-10-24",
-          "title": "Superstition",
-          "url": "https://music.apple.com/us/album/superstition/1440808973?i=1440808985"
-        },
-        {
-          "artist": "Rihanna",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/100x100bb.jpg",
-          "id": "1441154571",
-          "rank": 8,
-          "releaseDate": "2008-06-02",
-          "title": "Disturbia",
-          "url": "https://music.apple.com/us/album/disturbia/1441154435?i=1441154571"
-        },
-        {
-          "artist": "Talking Heads",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/100x99bb.jpg",
-          "id": "20833655",
+          "artist": "Drake & Don Toliver",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209989",
           "rank": 9,
-          "releaseDate": "1977-09-16",
-          "title": "Psycho Killer",
-          "url": "https://music.apple.com/us/album/psycho-killer/20833651?i=20833655"
+          "releaseDate": "2026-10-02",
+          "title": "Solar Eclipse",
+          "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
         },
         {
-          "artist": "Rockwell",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/77/db/7e77db79-4a06-ddbd-af27-4f5901a6149e/20UMGIM76318.rgb.jpg/100x100bb.jpg",
-          "id": "1589119250",
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
           "rank": 10,
-          "releaseDate": "1983-01-01",
-          "title": "Somebody's Watching Me",
-          "url": "https://music.apple.com/us/album/somebodys-watching-me/1589119076?i=1589119250"
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 1 Nov 2026 10:24:30 +0000",
+        "observedAt": "Mon, 2 Nov 2026 10:57:20 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -407,7 +493,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-01T10:24:01Z",
+        "observedAt": "2026-11-02T10:57:18Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -416,9 +502,9 @@
       "year": 2025
     }
   },
-  "contentHash": "af35ebe5e6a300654792f5629d938ac6be892276f84fe8277301227ab05aaef2",
+  "contentHash": "58f0ae640bcff2b7a19cb701ad57cfc68afdf04effc41d38274ece99171b5628",
   "country": "US",
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T10:24:01Z",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T10:57:18Z",
   "schemaVersion": 1
 }

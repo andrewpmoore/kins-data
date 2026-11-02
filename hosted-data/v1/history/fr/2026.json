@@ -222,12 +222,22 @@
             }
           ],
           "startDate": "2026-10-25"
+        },
+        {
+          "endDate": "2026-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Hope"
+            }
+          ],
+          "startDate": "2026-11-01"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "FR",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
@@ -348,7 +358,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "0c67490b3fc956f45e1a563a1a87bec2c60fc0b6f7e5351a0c18b27bd5a17e43",
+  "contentHash": "5e43213397e79f10b584a5688b57a76526603b1b9676d6f98529305bc433b9b1",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2026
