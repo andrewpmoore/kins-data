@@ -252,12 +252,22 @@
             }
           ],
           "startDate": "2026-10-18"
+        },
+        {
+          "endDate": "2026-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Whalefall"
+            }
+          ],
+          "startDate": "2026-11-01"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "IT",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
@@ -466,7 +476,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "348a374d2cde571e2dc5fea829885a07478b7b8bffff4cbb1e1c8be0443659d0",
+  "contentHash": "a1d56acd86686a739a7f7641bace7eb002f0af82e2e5e6ea010aced1c11eeadd",
   "country": "it",
   "schemaVersion": 1,
   "year": 2026

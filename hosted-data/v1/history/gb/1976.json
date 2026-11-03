@@ -267,7 +267,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -905,7 +905,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "3adf94f3b19be2f57864aa9d8494c36de2dedfd3ec603e8921765dc244fcff2e",
+  "contentHash": "65169af8513b53e43e5eb76ecfd3d346182a86663e617c786f683d8f04451a0d",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1976

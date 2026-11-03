@@ -242,12 +242,22 @@
             }
           ],
           "startDate": "2026-10-25"
+        },
+        {
+          "endDate": "2026-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Fatherland"
+            }
+          ],
+          "startDate": "2026-11-01"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "DE",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
@@ -489,7 +499,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "048024b94e159406752c3204271e57e7b1b32c35bf7f4eceeb8240406cc463e4",
+  "contentHash": "e527e21bf8a2c83d26de8f7aeb6c8a9b66f1b4a7d48f6912bdb90f5e600ff691",
   "country": "de",
   "schemaVersion": 1,
   "year": 2026

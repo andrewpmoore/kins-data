@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-11-02T10:57:18Z",
-  "latestDate": "2026-11-02",
+  "generatedAt": "2026-11-03T10:46:48Z",
+  "latestDate": "2026-11-03",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -100,9 +100,8 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://loveyourbookshop.org.au/aba-top-10/: HTTP Error 403: Forbidden",
       "source": "publicBooks/adultBooks/AU",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "publicBooks/adultBooks/NZ",
@@ -140,8 +139,9 @@
       "status": "error"
     },
     {
+      "detail": "Unable to fetch https://gfds.de/die-beliebtesten-vornamen-2025/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://gfds.de/die-beliebtesten-vornamen-2025/']' timed out after 130 seconds; Unable to fetch https://gfds.de/die-beliebtesten-vornamen-2024/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://gfds.de/die-beliebtesten-vornamen-2024/']' timed out after 130 seconds",
       "source": "governmentNames/DE",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "governmentNames/ES",
@@ -154,6 +154,11 @@
     {
       "detail": "latest published annual chart retained until its official replacement",
       "source": "namesFallback/NZ",
+      "status": "carried"
+    },
+    {
+      "detail": "latest published annual chart retained until its official replacement",
+      "source": "namesFallback/DE",
       "status": "carried"
     },
     {

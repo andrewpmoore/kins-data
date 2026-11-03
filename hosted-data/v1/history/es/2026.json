@@ -222,12 +222,22 @@
             }
           ],
           "startDate": "2026-10-25"
+        },
+        {
+          "endDate": "2026-11-07",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Cars"
+            }
+          ],
+          "startDate": "2026-11-01"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "ES",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
@@ -392,7 +402,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "d21a3806facc648d7f095dde45dd09b685b3f9746ad5ab22f9764d70ec06818b",
+  "contentHash": "3c0962834e75fdc422f2013bb44098b314f954c4b3bd779ef1adbd6c06ba52ec",
   "country": "es",
   "schemaVersion": 1,
   "year": 2026

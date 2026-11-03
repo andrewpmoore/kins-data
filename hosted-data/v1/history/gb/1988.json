@@ -87,7 +87,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -351,7 +351,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "4381436ea01ec57d9879e4324f4a47263271108f79d19cc28cec2fbdd1223d7c",
+  "contentHash": "359b301c3e97005e96701b54d5acefec02441eb6df6109e3f5b1db436b9f9d07",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1988

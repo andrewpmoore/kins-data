@@ -127,7 +127,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -776,7 +776,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "da1844eb973223201e713ddfc99fc7a5543cb8d07873c5647cdae3633eac5e49",
+  "contentHash": "a47979278313ec9223efcf3dcec4188e37ce0ca9bd3bd9459d1432d35fe4a228",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1968

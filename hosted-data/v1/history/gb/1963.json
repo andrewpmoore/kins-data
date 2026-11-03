@@ -227,7 +227,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -964,7 +964,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "fcaf68c9cb94ad59e669378d02eae304607dcfa733d77373a5f6ce6bd7481a96",
+  "contentHash": "5e752d3ccad36586efeb9ac7dc236f3acc852d293a58fba19a0a4c2854992e2b",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1963

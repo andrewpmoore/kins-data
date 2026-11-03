@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-02",
+      "id": "bookhub-nielsen-indie-2026-11-03",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-02",
+        "observedAt": "2026-11-03",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -87,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-02T10:57:18Z",
+        "observedAt": "2026-11-03T10:46:48Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -180,7 +180,7 @@
         }
       ],
       "reportPeriod": "October 22-25, 2026",
-      "reportURL": "https://www.boxofficemojo.com/weekend/2026W43/?area=NZ&ref_=bo_wey_table_1",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W43/?area=NZ&ref_=bo_wey_table_2",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "country weekend theatrical gross in local currency",
@@ -204,22 +204,22 @@
           "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 2,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 3,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Ella Langley",
@@ -276,19 +276,19 @@
           "url": "https://music.apple.com/nz/album/great-expectation/6769552402?i=6769552411"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884101",
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
           "rank": 10,
-          "releaseDate": "2026-07-23",
-          "title": "Ain't In LA",
-          "url": "https://music.apple.com/nz/album/aint-in-la/6792883860?i=6792884101"
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/nz/album/the-cure/1889992111?i=1889992123"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 2 Nov 2026 10:57:24 +0000",
+        "observedAt": "Tue, 3 Nov 2026 10:48:11 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -451,9 +451,9 @@
       "year": 2025
     }
   },
-  "contentHash": "b7048430bca14398f19b93d9a2f34fe7be91d4e90707f063c49effbe80925b17",
+  "contentHash": "85c438ffff168acb80d49f0a123d20ee236a5747a3e2bd78040a7080c877f220",
   "country": "NZ",
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T10:57:18Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T10:46:48Z",
   "schemaVersion": 1
 }

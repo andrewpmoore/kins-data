@@ -1,5 +1,80 @@
 {
   "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "aba-buying-group-2026-10-24",
+      "items": [
+        {
+          "creator": "Pip Williams",
+          "rank": 1,
+          "title": "The German Ward",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
+        },
+        {
+          "creator": "Alice Oseman",
+          "rank": 2,
+          "title": "Heartstopper Volume 6",
+          "url": "https://loveyourbookshop.org.au/bestsellers/heartstopper-volume-6"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "rank": 3,
+          "title": "Fight or Flight: Diary of a Wimpy Kid (21)",
+          "url": "https://loveyourbookshop.org.au/bestsellers/fight-or-flight-diary-of-a-wimpy-kid-21"
+        },
+        {
+          "creator": "Bonnie Garmus",
+          "rank": 4,
+          "title": "Peck & Peck",
+          "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
+        },
+        {
+          "creator": "Rebecca Yarros",
+          "rank": 5,
+          "title": "Threshing Day",
+          "url": "https://loveyourbookshop.org.au/bestsellers/threshing-day"
+        },
+        {
+          "creator": "Lee Child",
+          "rank": 6,
+          "title": "Chain Reaction",
+          "url": "https://loveyourbookshop.org.au/bestsellers/chain-reaction"
+        },
+        {
+          "creator": "Barbara Kingsolver",
+          "rank": 7,
+          "title": "Partita",
+          "url": "https://loveyourbookshop.org.au/bestsellers/partita"
+        },
+        {
+          "creator": "Elizabeth Strout",
+          "rank": 8,
+          "title": "The Things We Never Say",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
+        },
+        {
+          "creator": "Chris Hammer",
+          "rank": 9,
+          "title": "Full Circle",
+          "url": "https://loveyourbookshop.org.au/bestsellers/full-circle"
+        },
+        {
+          "creator": "Josh Silver",
+          "rank": 10,
+          "title": "Fruit Fly",
+          "url": "https://loveyourbookshop.org.au/bestsellers/fruit-fly"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "bestsellers in ABA Buying Group stores",
+        "observedAt": "2026-10-24",
+        "provider": "Australian Booksellers Association / NielsenIQ BookScan",
+        "territory": "AU",
+        "url": "https://loveyourbookshop.org.au/aba-top-10/"
+      },
+      "title": "ABA Buying Group Top 10"
+    },
     "games": {
       "id": "dice-game-of-the-year-2026",
       "items": [
@@ -12,7 +87,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-02T10:57:18Z",
+        "observedAt": "2026-11-03T10:46:48Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -105,7 +180,7 @@
         }
       ],
       "reportPeriod": "October 22-25, 2026",
-      "reportURL": "https://www.boxofficemojo.com/weekend/2026W43/?area=AU&ref_=bo_wey_table_1",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W43/?area=AU&ref_=bo_wey_table_2",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "country weekend theatrical gross in local currency",
@@ -156,40 +231,40 @@
           "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 5,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
           "artist": "STELLA LEFTY",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
           "id": "1884403093",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-03-27",
           "title": "Boston",
           "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 7,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 6,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 8,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "Zach Bryan & Lana Del Rey",
@@ -201,19 +276,19 @@
           "url": "https://music.apple.com/au/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         },
         {
-          "artist": "Alex Warren",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/100x100bb.jpg",
-          "id": "1793663645",
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
           "rank": 10,
-          "releaseDate": "2024-09-26",
-          "title": "Ordinary",
-          "url": "https://music.apple.com/au/album/ordinary/1793663382?i=1793663645"
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/au/album/stop-the-wedding/6805240956?i=6805240960"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 2 Nov 2026 10:57:21 +0000",
+        "observedAt": "Tue, 3 Nov 2026 10:47:15 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -221,9 +296,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "6356d578a8569b0d60505b2e1be2fa92f139a426841c3e40ee805da8c6ac2483",
+  "contentHash": "ee84e0a621f5a941d46b08375106159b1cab1ebee56ef97a150104a5977c4929",
   "country": "AU",
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T10:57:18Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T10:46:48Z",
   "schemaVersion": 1
 }

@@ -227,7 +227,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -612,7 +612,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "7495772629f428d75cfc22a9503547ee13c3b61b4e0db48fd9df3e763ac8d321",
+  "contentHash": "94b9ea6b3c53136643559a4191cb9e6d95103eba7a1d4a8365b6a14b21359d51",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1956

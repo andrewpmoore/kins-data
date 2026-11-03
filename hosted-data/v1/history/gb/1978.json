@@ -237,7 +237,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-01",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -776,7 +776,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "b313360c6026a0d5bb90e372d1ca7bef1a1839e962c30609f59be376e3c99802",
+  "contentHash": "e5e347242546b5e57adb613efc5a0c398595c3e86ccffb0d7fb075795a363a59",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1978
