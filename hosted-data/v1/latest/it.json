@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-03T10:46:48Z",
+        "observedAt": "2026-11-04T10:50:36Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -24,22 +24,22 @@
       "id": "cinetel-national-week-2026-11-01",
       "items": [
         {
-          "admissions": 158877,
+          "admissions": 159092,
           "countryOfOrigin": "ITA",
           "distributor": "PIPER FILM",
           "rank": 1,
           "releaseDate": "2026-10-29",
           "title": "DIO RIDE",
-          "weekendGrossEUR": 1136987.29
+          "weekendGrossEUR": 1138343.28
         },
         {
-          "admissions": 102572,
+          "admissions": 102744,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
           "rank": 2,
           "releaseDate": "2026-10-29",
           "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-          "weekendGrossEUR": 777281.42
+          "weekendGrossEUR": 778435.42
         },
         {
           "admissions": 82533,
@@ -87,13 +87,13 @@
           "weekendGrossEUR": 474185.18
         },
         {
-          "admissions": 62489,
+          "admissions": 62491,
           "countryOfOrigin": "GBR",
           "distributor": "LUCKY RED DISTRIBUZIONE",
           "rank": 8,
           "releaseDate": "2026-10-28",
           "title": "SHAUN VITA DA PECORA - OPERAZIONE Z.U.C.C.A",
-          "weekendGrossEUR": 468174.64
+          "weekendGrossEUR": 468189.64
         },
         {
           "admissions": 47688,
@@ -138,10 +138,19 @@
           "url": "https://music.apple.com/it/album/sentire-la-musica/6826288271?i=6826288477"
         },
         {
+          "artist": "Tony Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/42/24/49422414-e9bf-ed3a-be7b-d40a73b79d56/1200220330348.jpg/100x100bb.jpg",
+          "id": "6823684391",
+          "rank": 2,
+          "releaseDate": "2026-04-10",
+          "title": "Sparisci",
+          "url": "https://music.apple.com/it/album/sparisci/6823684389?i=6823684391"
+        },
+        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
           "id": "6820922795",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2026-01-16",
           "title": "NON SEI PIÙ TU (feat. Lazza)",
           "url": "https://music.apple.com/it/album/non-sei-pi%C3%B9-tu-feat-lazza/6820922785?i=6820922795"
@@ -150,7 +159,7 @@
           "artist": "Sfera Ebbasta",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c0/d3/94c0d342-d77e-7cb4-d03d-a1ef144f660c/26UM1IM21073.rgb.jpg/100x100bb.jpg",
           "id": "6813811430",
-          "rank": 3,
+          "rank": 4,
           "releaseDate": "2026-09-20",
           "title": "Lontano",
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
@@ -159,7 +168,7 @@
           "artist": "Alfa",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/db/10/79db10bf-8be8-36ca-210d-c0999234776a/8057715138025.jpg/100x100bb.jpg",
           "id": "6820638803",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-10-30",
           "title": "Eri solo da incontrare",
           "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
@@ -168,7 +177,7 @@
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
           "id": "6807790374",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-01-16",
           "title": "PER NOI (feat. Achille Lauro)",
           "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
@@ -177,7 +186,7 @@
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
@@ -186,43 +195,34 @@
           "artist": "Kid Yugi & 18K",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/25/18/1925183b-b2f0-3c52-45bc-cecef1c3f04f/26UM1IM26049.rgb.jpg/100x100bb.jpg",
           "id": "6826288474",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2026-10-30",
           "title": "DISOBBEDIRE!",
           "url": "https://music.apple.com/it/album/disobbedire/6826288271?i=6826288474"
         },
         {
-          "artist": "Kid Yugi",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/25/18/1925183b-b2f0-3c52-45bc-cecef1c3f04f/26UM1IM26049.rgb.jpg/100x100bb.jpg",
-          "id": "6826288464",
-          "rank": 8,
-          "releaseDate": "2026-10-30",
-          "title": "Stratos",
-          "url": "https://music.apple.com/it/album/stratos/6826288271?i=6826288464"
-        },
-        {
-          "artist": "Kid Yugi, RRARI DAL TACCO, Young Hash, Darié Baby, Lil Parta, Scaccia, 9x21 & LB GANG",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/25/18/1925183b-b2f0-3c52-45bc-cecef1c3f04f/26UM1IM26049.rgb.jpg/100x100bb.jpg",
-          "id": "6826288478",
-          "rank": 9,
-          "releaseDate": "2026-10-30",
-          "title": "Puglia Crime",
-          "url": "https://music.apple.com/it/album/puglia-crime/6826288271?i=6826288478"
-        },
-        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451990",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-01-16",
           "title": "CANZONE D'AMORE",
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
+        },
+        {
+          "artist": "Kid Yugi",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/25/18/1925183b-b2f0-3c52-45bc-cecef1c3f04f/26UM1IM26049.rgb.jpg/100x100bb.jpg",
+          "id": "6826288464",
+          "rank": 10,
+          "releaseDate": "2026-10-30",
+          "title": "Stratos",
+          "url": "https://music.apple.com/it/album/stratos/6826288271?i=6826288464"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 3 Nov 2026 10:49:07 +0000",
+        "observedAt": "Wed, 4 Nov 2026 10:52:54 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +396,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-03T10:46:48Z",
+        "observedAt": "2026-11-04T10:50:36Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +405,9 @@
       "year": 2025
     }
   },
-  "contentHash": "2418cc36ad8d54a47f17ec4cba87e7beae98cf9d1d252cfbd5ee83ebb1c02f67",
+  "contentHash": "3256273f1d638d22898ae39c915885126bd32a615039e70ca9bfe0f95d747efe",
   "country": "IT",
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T10:46:48Z",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T10:50:36Z",
   "schemaVersion": 1
 }

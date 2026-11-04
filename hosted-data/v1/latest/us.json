@@ -168,7 +168,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-03T10:46:48Z",
+        "observedAt": "2026-11-04T10:50:36Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -266,22 +266,22 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 1,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 2,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
@@ -293,10 +293,19 @@
           "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
         },
         {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
+          "rank": 4,
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
           "artist": "Drake & Don Toliver",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
           "id": "6818209989",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-10-02",
           "title": "Solar Eclipse",
           "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
@@ -305,34 +314,16 @@
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Drake",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
-          "id": "6769568596",
-          "rank": 6,
-          "releaseDate": "2026-05-15",
-          "title": "Janice STFU",
-          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
-        },
-        {
-          "artist": "Michael Jackson",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
-          "id": "269573303",
-          "rank": 7,
-          "releaseDate": "1982-11-29",
-          "title": "Thriller",
-          "url": "https://music.apple.com/us/album/thriller/269572838?i=269573303"
-        },
-        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
@@ -341,10 +332,19 @@
           "artist": "Zach Bryan & Lana Del Rey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
           "id": "6822944296",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-10-15",
           "title": "Lies (feat. Lana Del Rey)",
           "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 9,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "Lil Baby",
@@ -359,7 +359,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 3 Nov 2026 10:47:14 +0000",
+        "observedAt": "Wed, 4 Nov 2026 10:51:02 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -493,7 +493,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-03T10:46:48Z",
+        "observedAt": "2026-11-04T10:50:36Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -502,9 +502,9 @@
       "year": 2025
     }
   },
-  "contentHash": "0ff5818456c8ecb0bd660265f644d38dc9884e218ae3a6101f5ff18b04b6be7f",
+  "contentHash": "0f7846f05a3c3eba8b48c81d3d6fa8d5c3bffd046cac52df0ccf7be86309b0b0",
   "country": "US",
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T10:46:48Z",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T10:50:36Z",
   "schemaVersion": 1
 }

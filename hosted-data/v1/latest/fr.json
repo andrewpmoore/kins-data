@@ -12,7 +12,7 @@
       "source": {
         "kind": "awardWinner",
         "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-03T10:46:48Z",
+        "observedAt": "2026-11-04T10:50:36Z",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -33,10 +33,28 @@
           "url": "https://music.apple.com/fr/album/fille-a-papa/6809781922?i=6809781929"
         },
         {
+          "artist": "Tiakola",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7b/bf/0c7bbfe2-0a42-02ce-e4b4-3e065023cf05/ticket.kplujxum.jpg/100x100bb.jpg",
+          "id": "6775967738",
+          "rank": 2,
+          "releaseDate": "2026-06-12",
+          "title": "Mélo Décalé",
+          "url": "https://music.apple.com/fr/album/m%C3%A9lo-d%C3%A9cal%C3%A9/6775967737?i=6775967738"
+        },
+        {
+          "artist": "Mauvais Djo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/37/f43c3795-a208-9f15-759e-35742017484f/26UM1IM07939.rgb.jpg/100x100bb.jpg",
+          "id": "6803864930",
+          "rank": 3,
+          "releaseDate": "2026-09-04",
+          "title": "12",
+          "url": "https://music.apple.com/fr/album/12/6803864921?i=6803864930"
+        },
+        {
           "artist": "RnBoi",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/a8/8a/10a88a95-8c39-3dfd-e895-c675d8e23e88/5056556187172_cover.jpg/100x100bb.jpg",
           "id": "6816893848",
-          "rank": 2,
+          "rank": 4,
           "releaseDate": "2026-10-16",
           "title": "J'assume",
           "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
@@ -45,28 +63,10 @@
           "artist": "Mauvais Djo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/af/e5/10afe5ad-0520-3991-2590-6039b2d4e412/26UM1IM20129.rgb.jpg/100x100bb.jpg",
           "id": "6813131762",
-          "rank": 3,
+          "rank": 5,
           "releaseDate": "2026-09-21",
           "title": "4",
           "url": "https://music.apple.com/fr/album/4/6813131391?i=6813131762"
-        },
-        {
-          "artist": "Mauvais Djo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/37/f43c3795-a208-9f15-759e-35742017484f/26UM1IM07939.rgb.jpg/100x100bb.jpg",
-          "id": "6803864930",
-          "rank": 4,
-          "releaseDate": "2026-09-04",
-          "title": "12",
-          "url": "https://music.apple.com/fr/album/12/6803864921?i=6803864930"
-        },
-        {
-          "artist": "Tiakola",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7b/bf/0c7bbfe2-0a42-02ce-e4b4-3e065023cf05/ticket.kplujxum.jpg/100x100bb.jpg",
-          "id": "6775967738",
-          "rank": 5,
-          "releaseDate": "2026-06-12",
-          "title": "Mélo Décalé",
-          "url": "https://music.apple.com/fr/album/m%C3%A9lo-d%C3%A9cal%C3%A9/6775967737?i=6775967738"
         },
         {
           "artist": "Tiakola & Jorja Smith",
@@ -96,28 +96,28 @@
           "url": "https://music.apple.com/fr/album/cuenta-feat-meryl-shay/6811941413?i=6811941414"
         },
         {
-          "artist": "Zed",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/27/db/1727db04-05f3-bec5-6a2c-724a9590c86d/cover.jpg/100x100bb.jpg",
-          "id": "6824888246",
-          "rank": 9,
-          "releaseDate": "2026-10-28",
-          "title": "Wetin Day",
-          "url": "https://music.apple.com/fr/album/wetin-day/6824888227?i=6824888246"
-        },
-        {
           "artist": "Le Crime & TK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/6a/66/946a666c-c14b-f778-f79e-81c2a40d0ca7/cover.jpg/100x100bb.jpg",
           "id": "6773819547",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-06-12",
           "title": "Bodycount",
           "url": "https://music.apple.com/fr/album/bodycount/6773818926?i=6773819547"
+        },
+        {
+          "artist": "Zed",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/27/db/1727db04-05f3-bec5-6a2c-724a9590c86d/cover.jpg/100x100bb.jpg",
+          "id": "6824888246",
+          "rank": 10,
+          "releaseDate": "2026-10-28",
+          "title": "Wetin Day",
+          "url": "https://music.apple.com/fr/album/wetin-day/6824888227?i=6824888246"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 3 Nov 2026 10:49:06 +0000",
+        "observedAt": "Wed, 4 Nov 2026 10:52:52 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-11-03T10:46:48Z",
+        "observedAt": "2026-11-04T10:50:36Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "abc51f011cde7ef37fd6eeacbdf0727327698332a44fa4e4a6b7d1fd1a692dd1",
+  "contentHash": "5bb4042fb29ff1743a80916137bfb47284a5d64589a2cd93df3721e02479ebea",
   "country": "FR",
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T10:46:48Z",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T10:50:36Z",
   "schemaVersion": 1
 }

@@ -389,12 +389,23 @@
             }
           ],
           "startDate": "2026-10-09"
+        },
+        {
+          "endDate": "2026-10-29",
+          "items": [
+            {
+              "artist": "La Pantera and Quevedo",
+              "rank": 1,
+              "title": "Doggy"
+            }
+          ],
+          "startDate": "2026-10-23"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-16",
+        "observedAt": "2026-10-23",
         "provider": "Wikipedia contributors",
         "territory": "ES",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
@@ -402,7 +413,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "3c0962834e75fdc422f2013bb44098b314f954c4b3bd779ef1adbd6c06ba52ec",
+  "contentHash": "5688625b832730f2111ba3e87212def33f9c73c829506c63687e32b91f357993",
   "country": "es",
   "schemaVersion": 1,
   "year": 2026
