@@ -1,25 +1,5 @@
 {
   "charts": {
-    "games": {
-      "id": "dice-game-of-the-year-2026",
-      "items": [
-        {
-          "rank": 1,
-          "title": "Clair Obscur: Expedition 33",
-          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
-        }
-      ],
-      "source": {
-        "kind": "awardWinner",
-        "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-04T10:50:36Z",
-        "provider": "Academy of Interactive Arts & Sciences",
-        "territory": "WORLD",
-        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
-      },
-      "title": "D.I.C.E. Awards · Game of the Year",
-      "year": 2026
-    },
     "music": {
       "id": "apple-music-most-played",
       "items": [
@@ -105,19 +85,19 @@
           "url": "https://music.apple.com/ie/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
+          "artist": "Fontaines D.C.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085060",
           "rank": 10,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/ie/album/rein-me-in/1820918466?i=1820918468"
+          "releaseDate": "2026-10-16",
+          "title": "Mimesis",
+          "url": "https://music.apple.com/ie/album/mimesis/6792085051?i=6792085060"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 4 Nov 2026 10:51:56 +0000",
+        "observedAt": "Thu, 5 Nov 2026 10:48:01 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -291,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-11-04T10:50:36Z",
+        "observedAt": "2026-11-05T10:47:57Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -300,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "272461966bb5be31089e2d45902771141eac0d1d15dc09e34000f9d7751e1154",
+  "contentHash": "13274e48b99b209e631328fdfda88d49a2fb2fa2e170c5e76ef6d21223117159",
   "country": "IE",
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T10:50:36Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T10:47:57Z",
   "schemaVersion": 1
 }

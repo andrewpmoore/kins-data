@@ -1,25 +1,5 @@
 {
   "charts": {
-    "games": {
-      "id": "dice-game-of-the-year-2026",
-      "items": [
-        {
-          "rank": 1,
-          "title": "Clair Obscur: Expedition 33",
-          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
-        }
-      ],
-      "source": {
-        "kind": "awardWinner",
-        "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-04T10:50:36Z",
-        "provider": "Academy of Interactive Arts & Sciences",
-        "territory": "WORLD",
-        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
-      },
-      "title": "D.I.C.E. Awards · Game of the Year",
-      "year": 2026
-    },
     "movies": {
       "id": "cinetel-national-week-2026-11-01",
       "items": [
@@ -33,22 +13,22 @@
           "weekendGrossEUR": 1138343.28
         },
         {
-          "admissions": 102744,
+          "admissions": 102754,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
           "rank": 2,
           "releaseDate": "2026-10-29",
           "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-          "weekendGrossEUR": 778435.42
+          "weekendGrossEUR": 778492.42
         },
         {
-          "admissions": 82533,
+          "admissions": 82527,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
           "rank": 3,
           "releaseDate": "2026-10-22",
           "title": "CLAYFACE",
-          "weekendGrossEUR": 663601.47
+          "weekendGrossEUR": 663567.57
         },
         {
           "admissions": 84706,
@@ -69,31 +49,31 @@
           "weekendGrossEUR": 616912.0
         },
         {
-          "admissions": 64253,
+          "admissions": 64345,
           "countryOfOrigin": "COP",
           "distributor": "01 DISTRIBUTION",
           "rank": 6,
           "releaseDate": "2026-10-08",
           "title": "L'ESTRANEA",
-          "weekendGrossEUR": 479848.39
+          "weekendGrossEUR": 480425.79
         },
         {
-          "admissions": 55609,
+          "admissions": 55606,
           "countryOfOrigin": "USA",
           "distributor": "PLAION PICTURES",
           "rank": 7,
           "releaseDate": "2026-10-29",
           "title": "ICE CREAM MAN",
-          "weekendGrossEUR": 474185.18
+          "weekendGrossEUR": 474164.38
         },
         {
-          "admissions": 62491,
+          "admissions": 62704,
           "countryOfOrigin": "GBR",
           "distributor": "LUCKY RED DISTRIBUZIONE",
           "rank": 8,
           "releaseDate": "2026-10-28",
           "title": "SHAUN VITA DA PECORA - OPERAZIONE Z.U.C.C.A",
-          "weekendGrossEUR": 468189.64
+          "weekendGrossEUR": 469532.14
         },
         {
           "admissions": 47688,
@@ -105,13 +85,13 @@
           "weekendGrossEUR": 421929.08
         },
         {
-          "admissions": 49506,
+          "admissions": 49502,
           "countryOfOrigin": "USA",
           "distributor": "I WONDER PICTURES",
           "rank": 10,
           "releaseDate": "2026-10-28",
           "title": "IT ENDS",
-          "weekendGrossEUR": 413658.03
+          "weekendGrossEUR": 413622.03
         }
       ],
       "reportPeriod": "2026-10-26/2026-11-01",
@@ -165,22 +145,22 @@
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
         },
         {
-          "artist": "Alfa",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/db/10/79db10bf-8be8-36ca-210d-c0999234776a/8057715138025.jpg/100x100bb.jpg",
-          "id": "6820638803",
-          "rank": 5,
-          "releaseDate": "2026-10-30",
-          "title": "Eri solo da incontrare",
-          "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
-        },
-        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
           "id": "6807790374",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-01-16",
           "title": "PER NOI (feat. Achille Lauro)",
           "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
+        },
+        {
+          "artist": "Alfa",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/db/10/79db10bf-8be8-36ca-210d-c0999234776a/8057715138025.jpg/100x100bb.jpg",
+          "id": "6820638803",
+          "rank": 6,
+          "releaseDate": "2026-10-30",
+          "title": "Eri solo da incontrare",
+          "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
@@ -192,37 +172,37 @@
           "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
         },
         {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451990",
+          "rank": 8,
+          "releaseDate": "2026-01-16",
+          "title": "CANZONE D'AMORE",
+          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
+        },
+        {
           "artist": "Kid Yugi & 18K",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/25/18/1925183b-b2f0-3c52-45bc-cecef1c3f04f/26UM1IM26049.rgb.jpg/100x100bb.jpg",
           "id": "6826288474",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2026-10-30",
           "title": "DISOBBEDIRE!",
           "url": "https://music.apple.com/it/album/disobbedire/6826288271?i=6826288474"
         },
         {
           "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
-          "id": "1861451990",
-          "rank": 9,
-          "releaseDate": "2026-01-16",
-          "title": "CANZONE D'AMORE",
-          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
-        },
-        {
-          "artist": "Kid Yugi",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/25/18/1925183b-b2f0-3c52-45bc-cecef1c3f04f/26UM1IM26049.rgb.jpg/100x100bb.jpg",
-          "id": "6826288464",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
+          "id": "6820923138",
           "rank": 10,
-          "releaseDate": "2026-10-30",
-          "title": "Stratos",
-          "url": "https://music.apple.com/it/album/stratos/6826288271?i=6826288464"
+          "releaseDate": "2026-10-16",
+          "title": "EMANUELE E ANDREA (feat. Shiva)",
+          "url": "https://music.apple.com/it/album/emanuele-e-andrea-feat-shiva/6820922785?i=6820923138"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 4 Nov 2026 10:52:54 +0000",
+        "observedAt": "Thu, 5 Nov 2026 10:49:21 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -396,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-04T10:50:36Z",
+        "observedAt": "2026-11-05T10:47:57Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -405,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "3256273f1d638d22898ae39c915885126bd32a615039e70ca9bfe0f95d747efe",
+  "contentHash": "6761c0bc84a50328273d0fc880612474aac5ebef0f3dd4d367db3b6c0438c0f0",
   "country": "IT",
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T10:50:36Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T10:47:57Z",
   "schemaVersion": 1
 }

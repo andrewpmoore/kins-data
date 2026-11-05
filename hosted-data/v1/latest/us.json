@@ -156,26 +156,6 @@
       },
       "title": "Circana BookScan Children's Frontlist Fiction"
     },
-    "games": {
-      "id": "dice-game-of-the-year-2026",
-      "items": [
-        {
-          "rank": 1,
-          "title": "Clair Obscur: Expedition 33",
-          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
-        }
-      ],
-      "source": {
-        "kind": "awardWinner",
-        "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-04T10:50:36Z",
-        "provider": "Academy of Interactive Arts & Sciences",
-        "territory": "WORLD",
-        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
-      },
-      "title": "D.I.C.E. Awards · Game of the Year",
-      "year": 2026
-    },
     "movies": {
       "id": "the-numbers-us-2026-10-30",
       "items": [
@@ -359,7 +339,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 4 Nov 2026 10:51:02 +0000",
+        "observedAt": "Thu, 5 Nov 2026 10:47:58 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -493,7 +473,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-04T10:50:36Z",
+        "observedAt": "2026-11-05T10:47:57Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -502,9 +482,9 @@
       "year": 2025
     }
   },
-  "contentHash": "0f7846f05a3c3eba8b48c81d3d6fa8d5c3bffd046cac52df0ccf7be86309b0b0",
+  "contentHash": "86431e16ccf07bd4b6887c62d089fa416f05a757c27e7c6f007f9b6bee67f0a9",
   "country": "US",
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T10:50:36Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T10:47:57Z",
   "schemaVersion": 1
 }

@@ -59,7 +59,7 @@
       "year": 2026
     },
     "games": {
-      "id": "dice-game-of-the-year-2026",
+      "id": "media-awardWinner-2026",
       "items": [
         {
           "artworkProviderName": "Steam",
@@ -68,14 +68,13 @@
           "rank": 1,
           "releaseYear": 2025,
           "title": "Clair Obscur: Expedition 33",
-          "trailerURL": "https://www.youtube.com/watch?v=jNKdgRCYqPs",
-          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
+          "trailerURL": "https://www.youtube.com/watch?v=jNKdgRCYqPs"
         }
       ],
       "source": {
         "kind": "awardWinner",
-        "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-04T10:50:36Z",
+        "metric": "Award-year winner · games may have launched earlier",
+        "observedAt": "2026-09-28",
         "provider": "Academy of Interactive Arts & Sciences",
         "territory": "WORLD",
         "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
@@ -84,7 +83,7 @@
       "year": 2026
     }
   },
-  "contentHash": "8253195e8d7bf78189a4f5780e35e303cc534b19faf79f8c9ebb63f3a094a563",
+  "contentHash": "846e1f52c8a8332e7e93b0a9e23bac80c0df0a79960ba740d31b1daac1da3e6b",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2026

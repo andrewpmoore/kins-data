@@ -2,43 +2,43 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "aba-buying-group-2026-10-24",
+      "id": "aba-buying-group-2026-10-31",
       "items": [
         {
-          "creator": "Pip Williams",
+          "creator": "Sarah J. Maas",
           "rank": 1,
+          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I",
+          "url": "https://loveyourbookshop.org.au/bestsellers/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i"
+        },
+        {
+          "creator": "Pip Williams",
+          "rank": 2,
           "title": "The German Ward",
           "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
         },
         {
-          "creator": "Alice Oseman",
-          "rank": 2,
-          "title": "Heartstopper Volume 6",
-          "url": "https://loveyourbookshop.org.au/bestsellers/heartstopper-volume-6"
+          "creator": "Sarah J. Maas",
+          "rank": 3,
+          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I",
+          "url": "https://loveyourbookshop.org.au/bestsellers/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i"
         },
         {
           "creator": "Jeff Kinney",
-          "rank": 3,
+          "rank": 4,
           "title": "Fight or Flight: Diary of a Wimpy Kid (21)",
           "url": "https://loveyourbookshop.org.au/bestsellers/fight-or-flight-diary-of-a-wimpy-kid-21"
         },
         {
+          "creator": "Rob Hirst",
+          "rank": 5,
+          "title": "World is Almost at Peace",
+          "url": "https://loveyourbookshop.org.au/bestsellers/world-is-almost-at-peace"
+        },
+        {
           "creator": "Bonnie Garmus",
-          "rank": 4,
+          "rank": 6,
           "title": "Peck & Peck",
           "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
-        },
-        {
-          "creator": "Rebecca Yarros",
-          "rank": 5,
-          "title": "Threshing Day",
-          "url": "https://loveyourbookshop.org.au/bestsellers/threshing-day"
-        },
-        {
-          "creator": "Lee Child",
-          "rank": 6,
-          "title": "Chain Reaction",
-          "url": "https://loveyourbookshop.org.au/bestsellers/chain-reaction"
         },
         {
           "creator": "Barbara Kingsolver",
@@ -47,53 +47,33 @@
           "url": "https://loveyourbookshop.org.au/bestsellers/partita"
         },
         {
-          "creator": "Elizabeth Strout",
+          "creator": "Rebecca Yarros",
           "rank": 8,
+          "title": "Threshing Day",
+          "url": "https://loveyourbookshop.org.au/bestsellers/threshing-day"
+        },
+        {
+          "creator": "Elizabeth Strout",
+          "rank": 9,
           "title": "The Things We Never Say",
           "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
         },
         {
-          "creator": "Chris Hammer",
-          "rank": 9,
-          "title": "Full Circle",
-          "url": "https://loveyourbookshop.org.au/bestsellers/full-circle"
-        },
-        {
-          "creator": "Josh Silver",
+          "creator": "Elif Shafak",
           "rank": 10,
-          "title": "Fruit Fly",
-          "url": "https://loveyourbookshop.org.au/bestsellers/fruit-fly"
+          "title": "In One Brief Moment All Eternity",
+          "url": "https://loveyourbookshop.org.au/bestsellers/in-one-brief-moment-all-eternity"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "bestsellers in ABA Buying Group stores",
-        "observedAt": "2026-10-24",
+        "observedAt": "2026-10-31",
         "provider": "Australian Booksellers Association / NielsenIQ BookScan",
         "territory": "AU",
         "url": "https://loveyourbookshop.org.au/aba-top-10/"
       },
       "title": "ABA Buying Group Top 10"
-    },
-    "games": {
-      "id": "dice-game-of-the-year-2026",
-      "items": [
-        {
-          "rank": 1,
-          "title": "Clair Obscur: Expedition 33",
-          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
-        }
-      ],
-      "source": {
-        "kind": "awardWinner",
-        "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-04T10:50:36Z",
-        "provider": "Academy of Interactive Arts & Sciences",
-        "territory": "WORLD",
-        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
-      },
-      "title": "D.I.C.E. Awards · Game of the Year",
-      "year": 2026
     },
     "movies": {
       "id": "box-office-mojo-au-2026-10-25",
@@ -240,22 +220,22 @@
           "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
         },
         {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
-          "rank": 6,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992115",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 7,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
         },
         {
           "artist": "Taylor Swift",
@@ -276,19 +256,19 @@
           "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
+          "artist": "Zach Bryan & Lana Del Rey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944296",
           "rank": 10,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
+          "releaseDate": "2026-10-15",
+          "title": "Lies (feat. Lana Del Rey)",
+          "url": "https://music.apple.com/au/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 4 Nov 2026 10:51:30 +0000",
+        "observedAt": "Thu, 5 Nov 2026 10:48:00 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -296,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "f66c2a49709aaa35efad46a86feb57856f7d99459c85898a4400730fb1c8fb09",
+  "contentHash": "e5912f8132030218c4a1c6733da284d2515a187372d183ddeca432ed2a5092b8",
   "country": "AU",
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T10:50:36Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T10:47:57Z",
   "schemaVersion": 1
 }

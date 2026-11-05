@@ -1,25 +1,5 @@
 {
   "charts": {
-    "games": {
-      "id": "dice-game-of-the-year-2026",
-      "items": [
-        {
-          "rank": 1,
-          "title": "Clair Obscur: Expedition 33",
-          "url": "https://www.interactive.org/games/video_game_details.asp?idAward=2026&idGame=2036"
-        }
-      ],
-      "source": {
-        "kind": "awardWinner",
-        "metric": "Game of the Year award winner voted by Academy members",
-        "observedAt": "2026-11-04T10:50:36Z",
-        "provider": "Academy of Interactive Arts & Sciences",
-        "territory": "WORLD",
-        "url": "https://www.interactive.org/awards/award_category_details.asp?idAward=2026&idGameAwardType=65"
-      },
-      "title": "D.I.C.E. Awards · Game of the Year",
-      "year": 2026
-    },
     "music": {
       "id": "apple-music-most-played",
       "items": [
@@ -60,10 +40,19 @@
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
+          "artist": "C. Tangana & Agorazein",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/0c/f1/ec0cf13b-9e4a-9862-fbf5-45a1bd843fee/196874920060.jpg/100x100bb.jpg",
+          "id": "6825833226",
+          "rank": 5,
+          "releaseDate": "2026-11-03",
+          "title": "Milko Freestyle",
+          "url": "https://music.apple.com/es/album/milko-freestyle/6825833225?i=6825833226"
+        },
+        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338555",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-10-09",
           "title": "SUMISA",
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
@@ -72,7 +61,7 @@
           "artist": "La Pantera & Quevedo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
           "id": "6823633156",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2026-10-23",
           "title": "DOGGY",
           "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
@@ -81,7 +70,7 @@
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338666",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2026-10-09",
           "title": "SORDO DE UN PIE (interludio)",
           "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
@@ -90,19 +79,10 @@
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
           "id": "6784833437",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2026-07-08",
           "title": "AIRE",
           "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
-        },
-        {
-          "artist": "Aitana",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/100x100bb.jpg",
-          "id": "1814146675",
-          "rank": 9,
-          "releaseDate": "2025-05-29",
-          "title": "SUPERESTRELLA",
-          "url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675"
         },
         {
           "artist": "Lucho RK",
@@ -117,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 4 Nov 2026 10:52:52 +0000",
+        "observedAt": "Thu, 5 Nov 2026 10:48:54 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -271,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-04T10:50:36Z",
+        "observedAt": "2026-11-05T10:47:57Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -280,9 +260,9 @@
       "year": 2024
     }
   },
-  "contentHash": "39e6c4230c86da3ad9ffde7e57698252515f0f035b5ef1ef999c6eb3776cecf1",
+  "contentHash": "d7b2aa69403d1d6f7b38797839cce96f4f8959bbb707ec7de25d396be9b2e7c5",
   "country": "ES",
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T10:50:36Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T10:47:57Z",
   "schemaVersion": 1
 }
