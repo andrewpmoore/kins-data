@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-05",
+      "id": "bookhub-nielsen-indie-2026-11-06",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-05",
+        "observedAt": "2026-11-06",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -184,22 +184,22 @@
           "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 2,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 3,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
           "artist": "Ella Langley",
@@ -268,7 +268,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 5 Nov 2026 10:48:27 +0000",
+        "observedAt": "Fri, 6 Nov 2026 10:51:41 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -431,9 +431,9 @@
       "year": 2025
     }
   },
-  "contentHash": "8f6221713cbbbd5b32e89d16f188d067ed0e58f3593b69933bcdc2918abf8719",
+  "contentHash": "d98adec25239c78263050ca0faa76ea3aac1bc3f548e935a5c566ee6b731047b",
   "country": "NZ",
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T10:47:57Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T10:47:43Z",
   "schemaVersion": 1
 }

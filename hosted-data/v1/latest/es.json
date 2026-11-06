@@ -58,10 +58,19 @@
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338666",
+          "rank": 7,
+          "releaseDate": "2026-10-09",
+          "title": "SORDO DE UN PIE (interludio)",
+          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
+        },
+        {
           "artist": "La Pantera & Quevedo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
           "id": "6823633156",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2026-10-23",
           "title": "DOGGY",
           "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
@@ -69,35 +78,26 @@
         {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338666",
-          "rank": 8,
+          "id": "6817338657",
+          "rank": 9,
           "releaseDate": "2026-10-09",
-          "title": "SORDO DE UN PIE (interludio)",
-          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
+          "title": "RIGHT NOW",
+          "url": "https://music.apple.com/es/album/right-now/6817338538?i=6817338657"
         },
         {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
           "id": "6784833437",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-07-08",
           "title": "AIRE",
           "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
-        },
-        {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338657",
-          "rank": 10,
-          "releaseDate": "2026-10-09",
-          "title": "RIGHT NOW",
-          "url": "https://music.apple.com/es/album/right-now/6817338538?i=6817338657"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 5 Nov 2026 10:48:54 +0000",
+        "observedAt": "Fri, 6 Nov 2026 10:53:25 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-05T10:47:57Z",
+        "observedAt": "2026-11-06T10:47:43Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -260,9 +260,9 @@
       "year": 2024
     }
   },
-  "contentHash": "d7b2aa69403d1d6f7b38797839cce96f4f8959bbb707ec7de25d396be9b2e7c5",
+  "contentHash": "92340bac5001d4941d00e63a83bcf5980e9086155d9acc96bc232ae2e0b2af43",
   "country": "ES",
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T10:47:57Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T10:47:43Z",
   "schemaVersion": 1
 }

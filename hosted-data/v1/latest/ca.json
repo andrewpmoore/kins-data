@@ -13,22 +13,22 @@
           "url": "https://music.apple.com/ca/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Zach Bryan & Lana Del Rey",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944296",
-          "rank": 2,
-          "releaseDate": "2026-10-15",
-          "title": "Lies (feat. Lana Del Rey)",
-          "url": "https://music.apple.com/ca/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/ca/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Zach Bryan & Lana Del Rey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944296",
+          "rank": 3,
+          "releaseDate": "2026-10-15",
+          "title": "Lies (feat. Lana Del Rey)",
+          "url": "https://music.apple.com/ca/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         },
         {
           "artist": "Drake",
@@ -68,36 +68,36 @@
         },
         {
           "artist": "Cameron Whitcomb",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/99/18/1e99186e-2a64-183c-3fea-cb6a596918d0/075679563217.jpg/100x100bb.jpg",
-          "id": "6797988616",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/33/73/7e337333-0802-d7b5-8848-d20fdbdf993c/075679584731.jpg/100x100bb.jpg",
+          "id": "1887606227",
           "rank": 8,
           "releaseDate": "2026-03-27",
           "title": "Kingdom of Fear",
-          "url": "https://music.apple.com/ca/album/kingdom-of-fear/6797988041?i=6797988616"
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
-          "rank": 9,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/ca/album/the-cure/1889992111?i=1889992123"
+          "url": "https://music.apple.com/ca/album/kingdom-of-fear/1887606218?i=1887606227"
         },
         {
           "artist": "STELLA LEFTY",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
           "id": "1884403093",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-03-27",
           "title": "Boston",
           "url": "https://music.apple.com/ca/album/boston/1884403092?i=1884403093"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 10,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/ca/album/the-cure/1889992111?i=1889992123"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 5 Nov 2026 10:47:59 +0000",
+        "observedAt": "Fri, 6 Nov 2026 10:49:55 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-11-05T10:47:57Z",
+        "observedAt": "2026-11-06T10:47:43Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "c1e7c5e5c2767c77f3ddb1a14182fa4bedd3ebb3964c6366c1084e89420c21ed",
+  "contentHash": "a7314df0865d74cb722875333b54ed7e372b01e97161816c84c9752079a04c85",
   "country": "CA",
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T10:47:57Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T10:47:43Z",
   "schemaVersion": 1
 }

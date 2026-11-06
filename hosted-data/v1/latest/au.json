@@ -268,7 +268,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 5 Nov 2026 10:48:00 +0000",
+        "observedAt": "Fri, 6 Nov 2026 10:50:22 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "e5912f8132030218c4a1c6733da284d2515a187372d183ddeca432ed2a5092b8",
+  "contentHash": "97a48f05332a121d0ed7edf3305b94b12ce799b7b53f64ae563159e60770b4ec",
   "country": "AU",
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T10:47:57Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T10:47:43Z",
   "schemaVersion": 1
 }
