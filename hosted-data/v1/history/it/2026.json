@@ -463,12 +463,23 @@
             }
           ],
           "startDate": "2026-10-22"
+        },
+        {
+          "endDate": "2026-11-11",
+          "items": [
+            {
+              "artist": "Kid Yugi",
+              "rank": 1,
+              "title": "Sentire la musica"
+            }
+          ],
+          "startDate": "2026-11-05"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-29",
+        "observedAt": "2026-11-05",
         "provider": "Wikipedia contributors",
         "territory": "IT",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
@@ -476,7 +487,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "a1d56acd86686a739a7f7641bace7eb002f0af82e2e5e6ea010aced1c11eeadd",
+  "contentHash": "278b35a7939a6d39a50581aa61f43cb7ca7372f9b52ba7cd457de0c93e2ec8eb",
   "country": "it",
   "schemaVersion": 1,
   "year": 2026

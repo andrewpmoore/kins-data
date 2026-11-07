@@ -85,40 +85,40 @@
           "url": "https://music.apple.com/de/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884101",
-          "rank": 5,
-          "releaseDate": "2026-07-23",
-          "title": "Ain't In LA",
-          "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
-        },
-        {
           "artist": "The Killers",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/100x100bb.jpg",
           "id": "1526194192",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2003-09-29",
           "title": "Mr. Brightside",
           "url": "https://music.apple.com/de/album/mr-brightside/1526194184?i=1526194192"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 7,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884101",
+          "rank": 6,
+          "releaseDate": "2026-07-23",
+          "title": "Ain't In LA",
+          "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 8,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
         },
         {
           "artist": "Shakira & Burna Boy",
@@ -130,19 +130,19 @@
           "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
+          "artist": "Summer Cem & BILLA JOE",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/34/f1/4734f183-6963-6cc7-06a2-bbec4e2991e7/5026854691664.jpg/100x100bb.jpg",
+          "id": "1876509654",
           "rank": 10,
           "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
+          "title": "KILLY MANJARO",
+          "url": "https://music.apple.com/de/album/killy-manjaro/1876509416?i=1876509654"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 6 Nov 2026 10:52:07 +0000",
+        "observedAt": "Sat, 7 Nov 2026 10:04:44 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -296,7 +296,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-11-06T10:47:43Z",
+        "observedAt": "2026-11-07T10:00:40Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -305,9 +305,9 @@
       "year": 2025
     }
   },
-  "contentHash": "82dfa276beaf973e8796da8277830be0c1a55eaae1b1b9b098ddd15a61db78ae",
+  "contentHash": "5d3a514c990e1e58e27b3cc5821bac54e2fc61c071d839b1e6e41bbf0e2040a0",
   "country": "DE",
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T10:47:43Z",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T10:00:40Z",
   "schemaVersion": 1
 }

@@ -5,62 +5,61 @@
       "id": "publishers-weekly-adult-2026-11-02",
       "items": [
         {
+          "creator": "Sarah J Maas",
+          "isbn13": "9781639739134",
+          "rank": 1,
+          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I"
+        },
+        {
           "creator": "Jeff Kinney",
           "isbn13": "9781419782701",
-          "rank": 1,
+          "rank": 2,
           "title": "Fight or Flight (Diary of a Wimpy Kid #21): Volume 21"
+        },
+        {
+          "creator": "Michael Connelly",
+          "isbn13": "9780316563857",
+          "rank": 3,
+          "title": "The Hollow: A Harry Bosch Novel",
+          "url": "https://www.publishersweekly.com/9780316563857"
         },
         {
           "creator": "Ina Garten",
           "isbn13": "9780593234174",
-          "rank": 2,
+          "rank": 4,
           "title": "Simply Ina: A Barefoot Contessa Cookbook",
           "url": "https://www.publishersweekly.com/9780593234174"
         },
         {
-          "creator": "Louise Penny",
-          "isbn13": "9781250412607",
-          "rank": 3,
-          "title": "Miss Wolcott's Ghost",
-          "url": "https://www.publishersweekly.com/9781250412607"
+          "creator": "Allen Levi",
+          "isbn13": "9781668236512",
+          "rank": 5,
+          "title": "Theo of Golden"
+        },
+        {
+          "creator": "Grisham, John",
+          "isbn13": "9780385550543",
+          "rank": 6,
+          "title": "The French Illusion",
+          "url": "https://www.publishersweekly.com/9780385550543"
+        },
+        {
+          "creator": "Ana Huang",
+          "isbn13": "9781464223341",
+          "rank": 7,
+          "title": "The Keeper (Deluxe Edition)"
         },
         {
           "creator": "Rebecca Yarros",
           "isbn13": "9781682818084",
-          "rank": 4,
+          "rank": 8,
           "title": "Threshing Day (Wing and Claw Collection)"
         },
         {
-          "creator": "James Patterson",
-          "isbn13": "9780316569743",
-          "rank": 5,
-          "title": "The Family Cross: An Alex Cross Thriller"
-        },
-        {
-          "creator": "Allen Levi",
-          "isbn13": "9781668236512",
-          "rank": 6,
-          "title": "Theo of Golden"
-        },
-        {
-          "creator": "Abby Jimenez",
-          "isbn13": "9781538780046",
-          "rank": 7,
-          "title": "A Married Little Christmas (Deluxe Edition)",
-          "url": "https://www.publishersweekly.com/9781538780046"
-        },
-        {
-          "creator": "Lee Child, Andrew Child",
-          "isbn13": "9798217375158",
-          "rank": 8,
-          "title": "Chain Reaction: A Reacher Novel",
-          "url": "https://www.publishersweekly.com/9798217375158"
-        },
-        {
-          "creator": "Meghan Quinn",
-          "isbn13": "9781464246937",
+          "creator": "Matt Dinniman",
+          "isbn13": "9780593820254",
           "rank": 9,
-          "title": "Christmas Staycation (Standard Edition)"
+          "title": "Dungeon Crawler Carl"
         },
         {
           "creator": "Philip Anthony Mitchell",
@@ -90,60 +89,61 @@
           "title": "Fight or Flight (Diary of a Wimpy Kid #21): Volume 21"
         },
         {
+          "creator": "Stephanie Garber",
+          "isbn13": "9781250289773",
+          "rank": 2,
+          "title": "Once Upon a Broken Heart Collector's Edition: [Limited Stenciled Edge Edition]"
+        },
+        {
           "creator": "Suzanne Collins",
           "isbn13": "9781546171461",
-          "rank": 2,
+          "rank": 3,
           "title": "Sunrise on the Reaping (the Hunger Games)",
           "url": "https://www.publishersweekly.com/9781546171461"
         },
         {
           "creator": "Jeff Kinney",
           "isbn13": "9781419788109",
-          "rank": 3,
+          "rank": 4,
           "title": "Rowley Jefferson's Awesome Friendly Spooky Stories 2: From the Creator of Diary of a Wimpy Kid"
         },
         {
           "creator": "Lynn Painter",
           "isbn13": "9798347100217",
-          "rank": 4,
+          "rank": 5,
           "title": "Trust Fall",
           "url": "https://www.publishersweekly.com/9798347100217"
         },
         {
           "creator": "J. K. Rowling, Levi Pinfold",
           "isbn13": "9780545791441",
-          "rank": 5,
+          "rank": 6,
           "title": "Harry Potter and the Half-Blood Prince: The Illustrated Edition"
         },
         {
           "creator": "Raina Telgemeier, Adapted by, Raina Telgemeier, Gale Galligan, Adapted by, Gale Galligan, Ann M Martin",
           "isbn13": "9781546174363",
-          "rank": 6,
+          "rank": 7,
           "title": "Baby-Sitters on Board!: A Graphic Novel (the Baby-Sitters Club Super Special #1)"
         },
         {
-          "creator": "Hervé Commère",
-          "isbn13": "9798347119615",
-          "rank": 7,
-          "title": "21 Days of Fear: One Day, One Letter"
-        },
-        {
-          "creator": "Veronica Roth",
-          "isbn13": "9780063462540",
+          "creator": "Cg Drews",
+          "isbn13": "9781250376312",
           "rank": 8,
-          "title": "The Sixth Faction Deluxe Limited Edition"
-        },
-        {
-          "creator": "Sammy Savos, Gibson Twist",
-          "isbn13": "9780063450882",
-          "rank": 9,
-          "title": "Warriors Graphic Novel: The New Prophecy #1"
+          "title": "Scorpion Deep",
+          "url": "https://www.publishersweekly.com/9781250376312"
         },
         {
           "creator": "Suzanne Collins",
           "isbn13": "9798225044473",
-          "rank": 10,
+          "rank": 9,
           "title": "Sunrise on the Reaping (a Hunger Games Novel): Movie Tie-In Edition"
+        },
+        {
+          "creator": "Hervé Commère",
+          "isbn13": "9798347119615",
+          "rank": 10,
+          "title": "21 Days of Fear: One Day, One Letter"
         }
       ],
       "source": {
@@ -162,7 +162,7 @@
         {
           "rank": 1,
           "title": "You Can See Everything",
-          "totalGross": "$64,727,541",
+          "totalGross": "$64,727,540",
           "url": "https://www.the-numbers.com/movie/You-Can-See-Everything-(2026)",
           "weekendGross": "$11,445,628"
         },
@@ -176,9 +176,9 @@
         {
           "rank": 3,
           "title": "Wildwood",
-          "totalGross": "$27,296,597",
+          "totalGross": "$27,434,865",
           "url": "https://www.the-numbers.com/movie/Wildwood-(2026)",
-          "weekendGross": "$8,915,361"
+          "weekendGross": "$9,019,054"
         },
         {
           "rank": 4,
@@ -218,9 +218,9 @@
         {
           "rank": 9,
           "title": "The Only Living Pickpocket in New York",
-          "totalGross": "$2,082,194",
+          "totalGross": "$2,105,067",
           "url": "https://www.the-numbers.com/movie/Only-Living-Pickpocket-in-New-York-The-(2026)",
-          "weekendGross": "$1,878,274"
+          "weekendGross": "$1,901,147"
         },
         {
           "rank": 10,
@@ -246,100 +246,100 @@
       "id": "apple-music-most-played",
       "items": [
         {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+          "id": "6823820066",
+          "rank": 1,
+          "releaseDate": "2026-11-06",
+          "title": "Mr. Do Something",
+          "url": "https://music.apple.com/us/album/mr-do-something/6823820064?i=6823820066"
+        },
+        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 1,
+          "rank": 2,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
         },
         {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+          "id": "6823820065",
+          "rank": 3,
+          "releaseDate": "2026-11-06",
+          "title": "Top Uh It",
+          "url": "https://music.apple.com/us/album/top-uh-it/6823820064?i=6823820065"
+        },
+        {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/100x100bb.jpg",
+          "id": "6790569133",
+          "rank": 4,
+          "releaseDate": "2026-07-17",
+          "title": "Dead Fresh",
+          "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+        },
+        {
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 2,
+          "rank": 5,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
         },
         {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+          "id": "6823820067",
+          "rank": 6,
+          "releaseDate": "2026-11-06",
+          "title": "Burnt Shit",
+          "url": "https://music.apple.com/us/album/burnt-shit/6823820064?i=6823820067"
+        },
+        {
+          "artist": "Lil Baby, Young Thug & Rylo Rodriguez",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+          "id": "6823820072",
+          "rank": 7,
+          "releaseDate": "2026-11-06",
+          "title": "All My Partnas (feat. Future)",
+          "url": "https://music.apple.com/us/album/all-my-partnas-feat-future/6823820064?i=6823820072"
+        },
+        {
           "artist": "Tate McRae",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
-          "rank": 3,
+          "rank": 8,
           "releaseDate": "2026-10-15",
           "title": "Housewife",
           "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Drake",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
-          "id": "6769568596",
-          "rank": 4,
-          "releaseDate": "2026-05-15",
-          "title": "Janice STFU",
-          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
-        },
-        {
-          "artist": "Morgan Wallen",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
-          "id": "6792676860",
-          "rank": 5,
-          "releaseDate": "2026-07-24",
-          "title": "Been By Now",
-          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
-        },
-        {
-          "artist": "Drake & Don Toliver",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-          "id": "6818209989",
-          "rank": 6,
-          "releaseDate": "2026-10-02",
-          "title": "Solar Eclipse",
-          "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
-        },
-        {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 7,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
-          "artist": "Zach Bryan & Lana Del Rey",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944296",
-          "rank": 8,
-          "releaseDate": "2026-10-15",
-          "title": "Lies (feat. Lana Del Rey)",
-          "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+          "id": "6823820069",
           "rank": 9,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
+          "releaseDate": "2026-11-06",
+          "title": "Ain’t Goin",
+          "url": "https://music.apple.com/us/album/aint-goin/6823820064?i=6823820069"
         },
         {
           "artist": "Lil Baby",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
-          "id": "1648587330",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+          "id": "6823820068",
           "rank": 10,
-          "releaseDate": "2022-04-08",
-          "title": "In A Minute",
-          "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+          "releaseDate": "2026-11-06",
+          "title": "Be The One",
+          "url": "https://music.apple.com/us/album/be-the-one/6823820064?i=6823820068"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 6 Nov 2026 10:49:02 +0000",
+        "observedAt": "Sat, 7 Nov 2026 10:03:21 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -473,7 +473,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-06T10:47:43Z",
+        "observedAt": "2026-11-07T10:00:40Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -482,9 +482,9 @@
       "year": 2025
     }
   },
-  "contentHash": "ca4574d1eb43256cd349f427f9bcd0b32d6037b92ae10e379a7f9b32a4607195",
+  "contentHash": "b7fd70e2df45f87cacda4b3c194b7fd86dee827ca3c904e5bda24b43592074c8",
   "country": "US",
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T10:47:43Z",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T10:00:40Z",
   "schemaVersion": 1
 }

@@ -13,22 +13,22 @@
           "url": "https://music.apple.com/ie/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085056",
-          "rank": 2,
-          "releaseDate": "2026-08-18",
-          "title": "Marianne",
-          "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
-        },
-        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/ie/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085056",
+          "rank": 3,
+          "releaseDate": "2026-08-18",
+          "title": "Marianne",
+          "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -76,28 +76,28 @@
           "url": "https://music.apple.com/ie/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Zach Bryan & Lana Del Rey",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944296",
-          "rank": 9,
-          "releaseDate": "2026-10-15",
-          "title": "Lies (feat. Lana Del Rey)",
-          "url": "https://music.apple.com/ie/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
-        },
-        {
           "artist": "Kingfishr",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/a7/0b71a77c-c647-8c58-ed0a-21beadc44a4d/075679579034.jpg/100x100bb.jpg",
           "id": "6768830564",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-05-26",
           "title": "The Sun Will Never Settle",
           "url": "https://music.apple.com/ie/album/the-sun-will-never-settle/6768830561?i=6768830564"
+        },
+        {
+          "artist": "Zach Bryan & Lana Del Rey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944296",
+          "rank": 10,
+          "releaseDate": "2026-10-15",
+          "title": "Lies (feat. Lana Del Rey)",
+          "url": "https://music.apple.com/ie/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 6 Nov 2026 10:51:14 +0000",
+        "observedAt": "Sat, 7 Nov 2026 10:04:42 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-11-06T10:47:43Z",
+        "observedAt": "2026-11-07T10:00:40Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "26db6972b2e110e9305429aa43cffb94abc0abe756d167854cc82d33fcbc5ff7",
+  "contentHash": "df05c6118831af91b71f0da5fc4b68fcb6ec35cdafab17d4943a02c82d6597d7",
   "country": "IE",
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T10:47:43Z",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T10:00:40Z",
   "schemaVersion": 1
 }

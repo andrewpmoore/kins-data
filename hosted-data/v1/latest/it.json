@@ -127,11 +127,20 @@
           "url": "https://music.apple.com/it/album/non-sei-pi%C3%B9-tu-feat-lazza/6820922785?i=6820922795"
         },
         {
+          "artist": "Pinguini Tattici Nucleari",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/a0/cf/13a0cf3a-1d81-8b9c-0019-f3f302699034/196874869017.jpg/100x100bb.jpg",
+          "id": "6821912849",
+          "rank": 3,
+          "releaseDate": "2026-11-05",
+          "title": "Nella Borsa Di Anna",
+          "url": "https://music.apple.com/it/album/nella-borsa-di-anna/6821912847?i=6821912849"
+        },
+        {
           "artist": "Tony Boy",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/42/24/49422414-e9bf-ed3a-be7b-d40a73b79d56/1200220330348.jpg/100x100bb.jpg",
           "id": "6823684391",
-          "rank": 3,
-          "releaseDate": "2026-04-10",
+          "rank": 4,
+          "releaseDate": "2026-11-03",
           "title": "Sparisci",
           "url": "https://music.apple.com/it/album/sparisci/6823684389?i=6823684391"
         },
@@ -139,19 +148,10 @@
           "artist": "Sfera Ebbasta",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c0/d3/94c0d342-d77e-7cb4-d03d-a1ef144f660c/26UM1IM21073.rgb.jpg/100x100bb.jpg",
           "id": "6813811430",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-09-20",
           "title": "Lontano",
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
-        },
-        {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
-          "id": "6807790374",
-          "rank": 5,
-          "releaseDate": "2026-01-16",
-          "title": "PER NOI (feat. Achille Lauro)",
-          "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
@@ -163,10 +163,19 @@
           "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
         },
         {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
+          "id": "6807790374",
+          "rank": 7,
+          "releaseDate": "2026-01-16",
+          "title": "PER NOI (feat. Achille Lauro)",
+          "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
+        },
+        {
           "artist": "Alfa",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/db/10/79db10bf-8be8-36ca-210d-c0999234776a/8057715138025.jpg/100x100bb.jpg",
           "id": "6820638803",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2026-10-30",
           "title": "Eri solo da incontrare",
           "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
@@ -175,7 +184,7 @@
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451990",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2026-01-16",
           "title": "CANZONE D'AMORE",
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
@@ -184,25 +193,16 @@
           "artist": "Shiva & Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ea/96/98ea96e6-0491-53e6-d04a-91159127bd2f/196874139097.jpg/100x100bb.jpg",
           "id": "1891320360",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-04-09",
           "title": "Bad Bad Bad",
           "url": "https://music.apple.com/it/album/bad-bad-bad/1891320348?i=1891320360"
-        },
-        {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 10,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/it/album/housewife/6822497770?i=6822497774"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 6 Nov 2026 10:53:25 +0000",
+        "observedAt": "Sat, 7 Nov 2026 10:04:46 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-06T10:47:43Z",
+        "observedAt": "2026-11-07T10:00:40Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "10d5490dfe7323f009415803a9ad196c092d6d96270533ba0409dc4f12f8a430",
+  "contentHash": "724e0503c1b374fca603fdbefe6f65ab478e27c05ccea59634afae81730ce396",
   "country": "IT",
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T10:47:43Z",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T10:00:40Z",
   "schemaVersion": 1
 }
