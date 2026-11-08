@@ -136,13 +136,13 @@
           "url": "https://music.apple.com/it/album/nella-borsa-di-anna/6821912847?i=6821912849"
         },
         {
-          "artist": "Tony Boy",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/42/24/49422414-e9bf-ed3a-be7b-d40a73b79d56/1200220330348.jpg/100x100bb.jpg",
-          "id": "6823684391",
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
           "rank": 4,
-          "releaseDate": "2026-11-03",
-          "title": "Sparisci",
-          "url": "https://music.apple.com/it/album/sparisci/6823684389?i=6823684391"
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
         },
         {
           "artist": "Sfera Ebbasta",
@@ -154,19 +154,10 @@
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
         },
         {
-          "artist": "KAROL G, Judeline & rusowsky",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-          "id": "6796864754",
-          "rank": 6,
-          "releaseDate": "2026-08-05",
-          "title": "BbY WOW",
-          "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
-        },
-        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
           "id": "6807790374",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-01-16",
           "title": "PER NOI (feat. Achille Lauro)",
           "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
@@ -175,10 +166,19 @@
           "artist": "Alfa",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/db/10/79db10bf-8be8-36ca-210d-c0999234776a/8057715138025.jpg/100x100bb.jpg",
           "id": "6820638803",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-10-30",
           "title": "Eri solo da incontrare",
           "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
+        },
+        {
+          "artist": "Tony Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/42/24/49422414-e9bf-ed3a-be7b-d40a73b79d56/1200220330348.jpg/100x100bb.jpg",
+          "id": "6823684391",
+          "rank": 8,
+          "releaseDate": "2026-11-03",
+          "title": "Sparisci",
+          "url": "https://music.apple.com/it/album/sparisci/6823684389?i=6823684391"
         },
         {
           "artist": "Geolier",
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 7 Nov 2026 10:04:46 +0000",
+        "observedAt": "Sun, 8 Nov 2026 10:18:29 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-07T10:00:40Z",
+        "observedAt": "2026-11-08T10:14:46Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "724e0503c1b374fca603fdbefe6f65ab478e27c05ccea59634afae81730ce396",
+  "contentHash": "90618025bd33c7185e5fc14307de03d470590fedc0da84e38eb00195e3e1a947",
   "country": "IT",
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T10:00:40Z",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T10:14:46Z",
   "schemaVersion": 1
 }

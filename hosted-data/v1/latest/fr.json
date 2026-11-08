@@ -49,22 +49,22 @@
           "url": "https://music.apple.com/fr/album/cybertesla/6818551657?i=6818551658"
         },
         {
-          "artist": "RnBoi",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/a8/8a/10a88a95-8c39-3dfd-e895-c675d8e23e88/5056556187172_cover.jpg/100x100bb.jpg",
-          "id": "6816893848",
-          "rank": 6,
-          "releaseDate": "2026-10-16",
-          "title": "J'assume",
-          "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
-        },
-        {
           "artist": "Tiakola & Jorja Smith",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/100x100bb.jpg",
           "id": "6809755256",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-09-23",
           "title": "Jet Lag",
           "url": "https://music.apple.com/fr/album/jet-lag/6809754889?i=6809755256"
+        },
+        {
+          "artist": "RnBoi",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/a8/8a/10a88a95-8c39-3dfd-e895-c675d8e23e88/5056556187172_cover.jpg/100x100bb.jpg",
+          "id": "6816893848",
+          "rank": 7,
+          "releaseDate": "2026-10-16",
+          "title": "J'assume",
+          "url": "https://music.apple.com/fr/album/jassume/6816893836?i=6816893848"
         },
         {
           "artist": "Le Crime & TK",
@@ -85,19 +85,19 @@
           "url": "https://music.apple.com/fr/album/cuenta-feat-meryl-shay/6811941413?i=6811941414"
         },
         {
-          "artist": "Tiakola & Theodora",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/100x100bb.jpg",
-          "id": "6809755258",
+          "artist": "Ninho",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/01/67/e00167b9-7fc5-ee1a-e62f-10725af34aec/190295127442.jpg/100x100bb.jpg",
+          "id": "1536443643",
           "rank": 10,
-          "releaseDate": "2026-09-23",
-          "title": "La Nocturne",
-          "url": "https://music.apple.com/fr/album/la-nocturne/6809754889?i=6809755258"
+          "releaseDate": "2020-03-07",
+          "title": "Tout en Gucci",
+          "url": "https://music.apple.com/fr/album/tout-en-gucci/1536443638?i=1536443643"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 7 Nov 2026 10:04:44 +0000",
+        "observedAt": "Sun, 8 Nov 2026 10:18:27 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-11-07T10:00:40Z",
+        "observedAt": "2026-11-08T10:14:46Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "b9d27da75380e424b65586c6bd765299abdd17f9e0946e1461caa382dfa78ba9",
+  "contentHash": "1c30dffb12af91606d1c860f2f0174af8063ee3f3b47791f514c6ef554ebb9b1",
   "country": "FR",
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T10:00:40Z",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T10:14:46Z",
   "schemaVersion": 1
 }
