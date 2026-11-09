@@ -1,104 +1,104 @@
 {
   "charts": {
     "movies": {
-      "id": "cinetel-national-week-2026-11-01",
+      "id": "cinetel-national-week-2026-11-08",
       "items": [
         {
-          "admissions": 159092,
+          "admissions": 289360,
+          "countryOfOrigin": "ITA",
+          "distributor": "NOTORIOUS PICTURES",
+          "rank": 1,
+          "releaseDate": "2026-11-05",
+          "title": "SE DOMANI NON TORNO",
+          "weekendGrossEUR": 1921282.91
+        },
+        {
+          "admissions": 218939,
           "countryOfOrigin": "ITA",
           "distributor": "PIPER FILM",
-          "rank": 1,
-          "releaseDate": "2026-10-29",
-          "title": "DIO RIDE",
-          "weekendGrossEUR": 1138343.28
-        },
-        {
-          "admissions": 102754,
-          "countryOfOrigin": "ITA",
-          "distributor": "01 DISTRIBUTION",
           "rank": 2,
           "releaseDate": "2026-10-29",
-          "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-          "weekendGrossEUR": 778492.42
+          "title": "DIO RIDE",
+          "weekendGrossEUR": 1528955.08
         },
         {
-          "admissions": 82527,
-          "countryOfOrigin": "GBR",
-          "distributor": "WARNER BROS. ITALIA",
+          "admissions": 118286,
+          "countryOfOrigin": "USA",
+          "distributor": "WALT DISNEY S.M.P. ITALIA",
           "rank": 3,
-          "releaseDate": "2026-10-22",
-          "title": "CLAYFACE",
-          "weekendGrossEUR": 663567.57
+          "releaseDate": "2026-11-05",
+          "title": "WILD HORSE NINE",
+          "weekendGrossEUR": 887227.9
         },
         {
-          "admissions": 84706,
-          "countryOfOrigin": "GBR",
-          "distributor": "UNIVERSAL",
-          "rank": 4,
-          "releaseDate": "2026-10-22",
-          "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
-          "weekendGrossEUR": 625329.64
-        },
-        {
-          "admissions": 81379,
+          "admissions": 114805,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
-          "rank": 5,
-          "releaseDate": "2026-10-15",
-          "title": "JE SO' PAZZO",
-          "weekendGrossEUR": 617057.0
-        },
-        {
-          "admissions": 64345,
-          "countryOfOrigin": "COP",
-          "distributor": "01 DISTRIBUTION",
-          "rank": 6,
-          "releaseDate": "2026-10-08",
-          "title": "L'ESTRANEA",
-          "weekendGrossEUR": 480425.79
-        },
-        {
-          "admissions": 55606,
-          "countryOfOrigin": "USA",
-          "distributor": "PLAION PICTURES",
-          "rank": 7,
+          "rank": 4,
           "releaseDate": "2026-10-29",
-          "title": "ICE CREAM MAN",
-          "weekendGrossEUR": 474164.38
+          "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
+          "weekendGrossEUR": 846087.0
         },
         {
-          "admissions": 62704,
+          "admissions": 107093,
+          "countryOfOrigin": "GBR",
+          "distributor": "WARNER BROS. ITALIA",
+          "rank": 5,
+          "releaseDate": "2026-11-05",
+          "title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
+          "weekendGrossEUR": 797658.1
+        },
+        {
+          "admissions": 23617,
+          "countryOfOrigin": "KOR",
+          "distributor": "NEXO DIGITAL S.R.L.",
+          "rank": 6,
+          "releaseDate": "2026-11-07",
+          "title": "STRAY KIDS WORLD TOUR LIVE VIEWING",
+          "weekendGrossEUR": 502405.6
+        },
+        {
+          "admissions": 42339,
+          "countryOfOrigin": "KOR",
+          "distributor": "MUBI",
+          "rank": 7,
+          "releaseDate": "2026-11-05",
+          "title": "HOPE",
+          "weekendGrossEUR": 360341.66
+        },
+        {
+          "admissions": 42655,
+          "countryOfOrigin": "GBR",
+          "distributor": "UNIVERSAL",
+          "rank": 8,
+          "releaseDate": "2026-10-22",
+          "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
+          "weekendGrossEUR": 314111.19
+        },
+        {
+          "admissions": 37278,
+          "countryOfOrigin": "GBR",
+          "distributor": "WARNER BROS. ITALIA",
+          "rank": 9,
+          "releaseDate": "2026-10-22",
+          "title": "CLAYFACE",
+          "weekendGrossEUR": 300401.98
+        },
+        {
+          "admissions": 39003,
           "countryOfOrigin": "GBR",
           "distributor": "LUCKY RED DISTRIBUZIONE",
-          "rank": 8,
-          "releaseDate": "2026-10-28",
-          "title": "SHAUN VITA DA PECORA - OPERAZIONE Z.U.C.C.A",
-          "weekendGrossEUR": 469532.14
-        },
-        {
-          "admissions": 47688,
-          "countryOfOrigin": "USA",
-          "distributor": "UNIVERSAL",
-          "rank": 9,
-          "releaseDate": "2026-10-29",
-          "title": "FAST & FURIOUS – 25TH ANNIVERSARY",
-          "weekendGrossEUR": 421929.08
-        },
-        {
-          "admissions": 49502,
-          "countryOfOrigin": "USA",
-          "distributor": "I WONDER PICTURES",
           "rank": 10,
           "releaseDate": "2026-10-28",
-          "title": "IT ENDS",
-          "weekendGrossEUR": 413622.03
+          "title": "SHAUN VITA DA PECORA - OPERAZIONE Z.U.C.C.A",
+          "weekendGrossEUR": 283338.36
         }
       ],
-      "reportPeriod": "2026-10-26/2026-11-01",
+      "reportPeriod": "2026-11-02/2026-11-08",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "national weekly theatrical gross in euros",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Cinetel",
         "territory": "IT",
         "url": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D"
@@ -136,22 +136,22 @@
           "url": "https://music.apple.com/it/album/nella-borsa-di-anna/6821912847?i=6821912849"
         },
         {
-          "artist": "KAROL G, Judeline & rusowsky",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-          "id": "6796864754",
-          "rank": 4,
-          "releaseDate": "2026-08-05",
-          "title": "BbY WOW",
-          "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
-        },
-        {
           "artist": "Sfera Ebbasta",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c0/d3/94c0d342-d77e-7cb4-d03d-a1ef144f660c/26UM1IM21073.rgb.jpg/100x100bb.jpg",
           "id": "6813811430",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-09-20",
           "title": "Lontano",
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 5,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
         },
         {
           "artist": "Geolier",
@@ -172,22 +172,22 @@
           "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
         },
         {
-          "artist": "Tony Boy",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/42/24/49422414-e9bf-ed3a-be7b-d40a73b79d56/1200220330348.jpg/100x100bb.jpg",
-          "id": "6823684391",
-          "rank": 8,
-          "releaseDate": "2026-11-03",
-          "title": "Sparisci",
-          "url": "https://music.apple.com/it/album/sparisci/6823684389?i=6823684391"
-        },
-        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
           "id": "1861451990",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-01-16",
           "title": "CANZONE D'AMORE",
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
+        },
+        {
+          "artist": "Tony Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/42/24/49422414-e9bf-ed3a-be7b-d40a73b79d56/1200220330348.jpg/100x100bb.jpg",
+          "id": "6823684391",
+          "rank": 9,
+          "releaseDate": "2026-11-03",
+          "title": "Sparisci",
+          "url": "https://music.apple.com/it/album/sparisci/6823684389?i=6823684391"
         },
         {
           "artist": "Shiva & Geolier",
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 8 Nov 2026 10:18:29 +0000",
+        "observedAt": "Mon, 9 Nov 2026 11:28:02 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-08T10:14:46Z",
+        "observedAt": "2026-11-09T11:25:19Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "90618025bd33c7185e5fc14307de03d470590fedc0da84e38eb00195e3e1a947",
+  "contentHash": "71ba99cd07acef42c8cd71f4628bc4d667cd529c3200b1ceb9e3858a1ef889c8",
   "country": "IT",
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T10:14:46Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T11:25:19Z",
   "schemaVersion": 1
 }

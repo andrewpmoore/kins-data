@@ -292,12 +292,22 @@
             }
           ],
           "startDate": "2026-11-01"
+        },
+        {
+          "endDate": "2026-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Godzilla Minus Zero"
+            }
+          ],
+          "startDate": "2026-11-08"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "US",
         "url": "https://www.boxofficemojo.com/weekend/by-year/"
@@ -539,7 +549,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1c9518a3b9190423f6c785c35d192e5d5555900633150508ed3967f9cb41e896",
+  "contentHash": "047517de8966eb6d63476141d3ea8799218f9db6a9e7be2e47ef9aae11314028",
   "country": "us",
   "schemaVersion": 1,
   "year": 2026

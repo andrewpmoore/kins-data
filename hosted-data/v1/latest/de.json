@@ -67,22 +67,22 @@
           "url": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
+          "rank": 3,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/de/album/stop-the-wedding/6805240956?i=6805240960"
+        },
+        {
           "artist": "Sido",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/95/ae/d695ae05-8bf2-1106-b3b1-5c6ae308caa3/26UM1IM04650.rgb.jpg/100x100bb.jpg",
           "id": "6801468864",
-          "rank": 3,
+          "rank": 4,
           "releaseDate": "2026-08-20",
           "title": "ISSA",
           "url": "https://music.apple.com/de/album/issa/6801468850?i=6801468864"
-        },
-        {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
-          "rank": 4,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/de/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
           "artist": "The Killers",
@@ -112,19 +112,10 @@
           "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
         },
         {
-          "artist": "KAROL G, Judeline & rusowsky",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-          "id": "6796864754",
-          "rank": 8,
-          "releaseDate": "2026-08-05",
-          "title": "BbY WOW",
-          "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
-        },
-        {
           "artist": "Taylor Swift",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
           "id": "6814997425",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-09-24",
           "title": "Patient Zero",
           "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
@@ -133,16 +124,25 @@
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992123",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-05-22",
           "title": "the cure",
           "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 10,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 8 Nov 2026 10:18:26 +0000",
+        "observedAt": "Mon, 9 Nov 2026 11:28:00 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -296,7 +296,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-11-08T10:14:46Z",
+        "observedAt": "2026-11-09T11:25:19Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -305,9 +305,9 @@
       "year": 2025
     }
   },
-  "contentHash": "16e5b65cfa624a61206488505cfd43550bac13614459bc559b78c6c7a3fd7110",
+  "contentHash": "4c5e51f89f6009df7a09e7dabf19da41847ccbf717d160000853df5dd6ec0448",
   "country": "DE",
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T10:14:46Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T11:25:19Z",
   "schemaVersion": 1
 }

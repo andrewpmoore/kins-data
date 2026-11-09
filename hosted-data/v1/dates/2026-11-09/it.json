@@ -1,0 +1,393 @@
+{
+  "charts": {
+    "movies": {
+      "id": "cinetel-national-week-2026-11-08",
+      "items": [
+        {
+          "admissions": 289360,
+          "countryOfOrigin": "ITA",
+          "distributor": "NOTORIOUS PICTURES",
+          "rank": 1,
+          "releaseDate": "2026-11-05",
+          "title": "SE DOMANI NON TORNO",
+          "weekendGrossEUR": 1921282.91
+        },
+        {
+          "admissions": 218939,
+          "countryOfOrigin": "ITA",
+          "distributor": "PIPER FILM",
+          "rank": 2,
+          "releaseDate": "2026-10-29",
+          "title": "DIO RIDE",
+          "weekendGrossEUR": 1528955.08
+        },
+        {
+          "admissions": 118286,
+          "countryOfOrigin": "USA",
+          "distributor": "WALT DISNEY S.M.P. ITALIA",
+          "rank": 3,
+          "releaseDate": "2026-11-05",
+          "title": "WILD HORSE NINE",
+          "weekendGrossEUR": 887227.9
+        },
+        {
+          "admissions": 114805,
+          "countryOfOrigin": "ITA",
+          "distributor": "01 DISTRIBUTION",
+          "rank": 4,
+          "releaseDate": "2026-10-29",
+          "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
+          "weekendGrossEUR": 846087.0
+        },
+        {
+          "admissions": 107093,
+          "countryOfOrigin": "GBR",
+          "distributor": "WARNER BROS. ITALIA",
+          "rank": 5,
+          "releaseDate": "2026-11-05",
+          "title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
+          "weekendGrossEUR": 797658.1
+        },
+        {
+          "admissions": 23617,
+          "countryOfOrigin": "KOR",
+          "distributor": "NEXO DIGITAL S.R.L.",
+          "rank": 6,
+          "releaseDate": "2026-11-07",
+          "title": "STRAY KIDS WORLD TOUR LIVE VIEWING",
+          "weekendGrossEUR": 502405.6
+        },
+        {
+          "admissions": 42339,
+          "countryOfOrigin": "KOR",
+          "distributor": "MUBI",
+          "rank": 7,
+          "releaseDate": "2026-11-05",
+          "title": "HOPE",
+          "weekendGrossEUR": 360341.66
+        },
+        {
+          "admissions": 42655,
+          "countryOfOrigin": "GBR",
+          "distributor": "UNIVERSAL",
+          "rank": 8,
+          "releaseDate": "2026-10-22",
+          "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
+          "weekendGrossEUR": 314111.19
+        },
+        {
+          "admissions": 37278,
+          "countryOfOrigin": "GBR",
+          "distributor": "WARNER BROS. ITALIA",
+          "rank": 9,
+          "releaseDate": "2026-10-22",
+          "title": "CLAYFACE",
+          "weekendGrossEUR": 300401.98
+        },
+        {
+          "admissions": 39003,
+          "countryOfOrigin": "GBR",
+          "distributor": "LUCKY RED DISTRIBUZIONE",
+          "rank": 10,
+          "releaseDate": "2026-10-28",
+          "title": "SHAUN VITA DA PECORA - OPERAZIONE Z.U.C.C.A",
+          "weekendGrossEUR": 283338.36
+        }
+      ],
+      "reportPeriod": "2026-11-02/2026-11-08",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "national weekly theatrical gross in euros",
+        "observedAt": "2026-11-08",
+        "provider": "Cinetel",
+        "territory": "IT",
+        "url": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D"
+      },
+      "title": "Italy national weekly theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Kid Yugi",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/25/18/1925183b-b2f0-3c52-45bc-cecef1c3f04f/26UM1IM26049.rgb.jpg/100x100bb.jpg",
+          "id": "6826288477",
+          "rank": 1,
+          "releaseDate": "2026-10-30",
+          "title": "Sentire La Musica",
+          "url": "https://music.apple.com/it/album/sentire-la-musica/6826288271?i=6826288477"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
+          "id": "6820922795",
+          "rank": 2,
+          "releaseDate": "2026-01-16",
+          "title": "NON SEI PIÙ TU (feat. Lazza)",
+          "url": "https://music.apple.com/it/album/non-sei-pi%C3%B9-tu-feat-lazza/6820922785?i=6820922795"
+        },
+        {
+          "artist": "Pinguini Tattici Nucleari",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/a0/cf/13a0cf3a-1d81-8b9c-0019-f3f302699034/196874869017.jpg/100x100bb.jpg",
+          "id": "6821912849",
+          "rank": 3,
+          "releaseDate": "2026-11-05",
+          "title": "Nella Borsa Di Anna",
+          "url": "https://music.apple.com/it/album/nella-borsa-di-anna/6821912847?i=6821912849"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c0/d3/94c0d342-d77e-7cb4-d03d-a1ef144f660c/26UM1IM21073.rgb.jpg/100x100bb.jpg",
+          "id": "6813811430",
+          "rank": 4,
+          "releaseDate": "2026-09-20",
+          "title": "Lontano",
+          "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 5,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
+          "id": "6807790374",
+          "rank": 6,
+          "releaseDate": "2026-01-16",
+          "title": "PER NOI (feat. Achille Lauro)",
+          "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
+        },
+        {
+          "artist": "Alfa",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/db/10/79db10bf-8be8-36ca-210d-c0999234776a/8057715138025.jpg/100x100bb.jpg",
+          "id": "6820638803",
+          "rank": 7,
+          "releaseDate": "2026-10-30",
+          "title": "Eri solo da incontrare",
+          "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451990",
+          "rank": 8,
+          "releaseDate": "2026-01-16",
+          "title": "CANZONE D'AMORE",
+          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
+        },
+        {
+          "artist": "Tony Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/42/24/49422414-e9bf-ed3a-be7b-d40a73b79d56/1200220330348.jpg/100x100bb.jpg",
+          "id": "6823684391",
+          "rank": 9,
+          "releaseDate": "2026-11-03",
+          "title": "Sparisci",
+          "url": "https://music.apple.com/it/album/sparisci/6823684389?i=6823684391"
+        },
+        {
+          "artist": "Shiva & Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ea/96/98ea96e6-0491-53e6-d04a-91159127bd2f/196874139097.jpg/100x100bb.jpg",
+          "id": "1891320360",
+          "rank": 10,
+          "releaseDate": "2026-04-09",
+          "title": "Bad Bad Bad",
+          "url": "https://music.apple.com/it/album/bad-bad-bad/1891320348?i=1891320360"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Mon, 9 Nov 2026 11:28:02 +0000",
+        "provider": "Apple Music",
+        "territory": "IT",
+        "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
+      },
+      "title": "Top brani"
+    },
+    "names": {
+      "id": "istat-italy-baby-names",
+      "items": [
+        {
+          "category": "boy",
+          "count": 5895,
+          "name": "Leonardo",
+          "rank": 1,
+          "rankGroup": "boy",
+          "sharePercent": 3.231
+        },
+        {
+          "category": "boy",
+          "count": 5485,
+          "name": "Edoardo",
+          "rank": 2,
+          "rankGroup": "boy",
+          "sharePercent": 3.0063
+        },
+        {
+          "category": "boy",
+          "count": 4237,
+          "name": "Tommaso",
+          "rank": 3,
+          "rankGroup": "boy",
+          "sharePercent": 2.3223
+        },
+        {
+          "category": "boy",
+          "count": 4082,
+          "name": "Alessandro",
+          "rank": 4,
+          "rankGroup": "boy",
+          "sharePercent": 2.2373
+        },
+        {
+          "category": "boy",
+          "count": 4010,
+          "name": "Francesco",
+          "rank": 5,
+          "rankGroup": "boy",
+          "sharePercent": 2.1979
+        },
+        {
+          "category": "boy",
+          "count": 3798,
+          "name": "Lorenzo",
+          "rank": 6,
+          "rankGroup": "boy",
+          "sharePercent": 2.0817
+        },
+        {
+          "category": "boy",
+          "count": 3719,
+          "name": "Mattia",
+          "rank": 7,
+          "rankGroup": "boy",
+          "sharePercent": 2.0384
+        },
+        {
+          "category": "boy",
+          "count": 3671,
+          "name": "Gabriele",
+          "rank": 8,
+          "rankGroup": "boy",
+          "sharePercent": 2.012
+        },
+        {
+          "category": "boy",
+          "count": 3497,
+          "name": "Riccardo",
+          "rank": 9,
+          "rankGroup": "boy",
+          "sharePercent": 1.9167
+        },
+        {
+          "category": "boy",
+          "count": 2735,
+          "name": "Andrea",
+          "rank": 10,
+          "rankGroup": "boy",
+          "sharePercent": 1.499
+        },
+        {
+          "category": "girl",
+          "count": 4389,
+          "name": "Sofia",
+          "rank": 1,
+          "rankGroup": "girl",
+          "sharePercent": 2.541
+        },
+        {
+          "category": "girl",
+          "count": 3956,
+          "name": "Aurora",
+          "rank": 2,
+          "rankGroup": "girl",
+          "sharePercent": 2.2903
+        },
+        {
+          "category": "girl",
+          "count": 3686,
+          "name": "Ginevra",
+          "rank": 3,
+          "rankGroup": "girl",
+          "sharePercent": 2.134
+        },
+        {
+          "category": "girl",
+          "count": 3626,
+          "name": "Vittoria",
+          "rank": 4,
+          "rankGroup": "girl",
+          "sharePercent": 2.0993
+        },
+        {
+          "category": "girl",
+          "count": 3325,
+          "name": "Beatrice",
+          "rank": 5,
+          "rankGroup": "girl",
+          "sharePercent": 1.925
+        },
+        {
+          "category": "girl",
+          "count": 3074,
+          "name": "Giulia",
+          "rank": 6,
+          "rankGroup": "girl",
+          "sharePercent": 1.7797
+        },
+        {
+          "category": "girl",
+          "count": 3006,
+          "name": "Matilde",
+          "rank": 7,
+          "rankGroup": "girl",
+          "sharePercent": 1.7403
+        },
+        {
+          "category": "girl",
+          "count": 3001,
+          "name": "Ludovica",
+          "rank": 8,
+          "rankGroup": "girl",
+          "sharePercent": 1.7374
+        },
+        {
+          "category": "girl",
+          "count": 2745,
+          "name": "Alice",
+          "rank": 9,
+          "rankGroup": "girl",
+          "sharePercent": 1.5892
+        },
+        {
+          "category": "girl",
+          "count": 2407,
+          "name": "Camilla",
+          "rank": 10,
+          "rankGroup": "girl",
+          "sharePercent": 1.3935
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national registered baby-name rank, count and sex share",
+        "observedAt": "2026-11-09T11:25:19Z",
+        "provider": "Istat",
+        "territory": "IT",
+        "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "71ba99cd07acef42c8cd71f4628bc4d667cd529c3200b1ceb9e3858a1ef889c8",
+  "country": "IT",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T11:25:19Z",
+  "schemaVersion": 1
+}

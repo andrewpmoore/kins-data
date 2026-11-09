@@ -202,22 +202,22 @@
           "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 4,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 5,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Olivia Dean",
@@ -229,22 +229,22 @@
           "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
-          "rank": 7,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992115",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 8,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -256,19 +256,19 @@
           "url": "https://music.apple.com/au/album/the-cure/1889992111?i=1889992123"
         },
         {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
           "rank": 10,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/au/album/stop-the-wedding/6805240956?i=6805240960"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 8 Nov 2026 10:17:55 +0000",
+        "observedAt": "Mon, 9 Nov 2026 11:26:40 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "f22a12cb1bf764f170b357e1ec7f70e95b7598e0a13fe2ffa45ace85944dcb89",
+  "contentHash": "65f8f5c09c12ab15e63409520de021a00b17e5026dc2f3dae55175f0f7f0be0c",
   "country": "AU",
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T10:14:46Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T11:25:19Z",
   "schemaVersion": 1
 }

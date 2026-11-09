@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-08",
+      "id": "bookhub-nielsen-indie-2026-11-09",
       "items": [
         {
           "category": "Fiction",
@@ -23,52 +23,52 @@
           "title": "The Starving Bride"
         },
         {
+          "category": "Fantasy",
+          "isbn13": "9781037200083",
+          "rank": 4,
+          "title": "A Court of Splintered Harmony (ACOTAR #6)"
+        },
+        {
           "category": "Children & Young Adult",
           "isbn13": "9781037408724",
-          "rank": 4,
+          "rank": 5,
           "title": "Gruffalo Granny"
         },
         {
           "category": "Crime & Thrillers",
           "isbn13": "9781911754251",
-          "rank": 5,
+          "rank": 6,
           "title": "Chain Reaction: (Jack Reacher 31)"
         },
         {
           "category": "International Fiction",
           "isbn13": "9780241745953",
-          "rank": 6,
+          "rank": 7,
           "title": "In One Brief Moment All Eternity"
         },
         {
           "category": "Children & Young Adult",
           "isbn13": "9781761351365",
-          "rank": 7,
-          "title": "Fight or Flight: Diary of a Wimpy Kid (21)"
-        },
-        {
-          "category": "Children & Young Adult",
-          "isbn13": "9781444974881",
           "rank": 8,
-          "title": "Heartstopper 6"
-        },
-        {
-          "category": "History",
-          "isbn13": "9780241753569",
-          "rank": 9,
-          "title": "Redwood: The Untold Story of the Cold War's Most Extraordinary Spy"
+          "title": "Fight or Flight: Diary of a Wimpy Kid (21)"
         },
         {
           "category": "NZ Non-fiction",
           "isbn13": "9781988550916",
-          "rank": 10,
+          "rank": 9,
           "title": "Dirty Work: The Taxpayers' Union and New Zealand's Hard Right"
+        },
+        {
+          "category": "Biography & Memoir",
+          "isbn13": "9781991142153",
+          "rank": 10,
+          "title": "Beyond the Gates of Gloriavale"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-09",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -175,10 +175,19 @@
       "id": "apple-music-most-played",
       "items": [
         {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 1,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
+        },
+        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 1,
+          "rank": 2,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
@@ -187,19 +196,10 @@
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 3,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "ADÉLA",
@@ -211,64 +211,64 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609507",
-          "rank": 5,
-          "releaseDate": "2026-09-26",
-          "title": "So Easy (To Fall In Love)",
-          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 7,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609507",
+          "rank": 6,
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
           "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
-          "rank": 8,
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
+          "id": "6805240960",
+          "rank": 7,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
+          "url": "https://music.apple.com/nz/album/stop-the-wedding/6805240956?i=6805240960"
         },
         {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992123",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-05-22",
           "title": "the cure",
           "url": "https://music.apple.com/nz/album/the-cure/1889992111?i=1889992123"
         },
         {
-          "artist": "STELLA LEFTY",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
-          "id": "1884403093",
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 9,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "SIENNA SPIRO",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
+          "id": "6769552411",
           "rank": 10,
-          "releaseDate": "2026-03-27",
-          "title": "Boston",
-          "url": "https://music.apple.com/nz/album/boston/1884403092?i=1884403093"
+          "releaseDate": "2026-07-02",
+          "title": "Great Expectation",
+          "url": "https://music.apple.com/nz/album/great-expectation/6769552402?i=6769552411"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 8 Nov 2026 10:17:59 +0000",
+        "observedAt": "Mon, 9 Nov 2026 11:27:59 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -431,9 +431,9 @@
       "year": 2025
     }
   },
-  "contentHash": "d07b922ecaddc7a13c5c822d095f06fa106eef85b2facd96a02e4eebcab8a5db",
+  "contentHash": "36ed1c0c1a006873bb9e168f1888b4d7d517e69523cd864694e2b87ac5db543d",
   "country": "NZ",
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T10:14:46Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T11:25:19Z",
   "schemaVersion": 1
 }

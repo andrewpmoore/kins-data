@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "publishers-weekly-adult-2026-11-02",
+      "id": "publishers-weekly-adult-2026-11-09",
       "items": [
         {
           "creator": "Sarah J Maas",
@@ -71,7 +71,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "Circana BookScan Top 10 Overall",
-        "observedAt": "2026-11-02",
+        "observedAt": "2026-11-09",
         "provider": "Publishers Weekly / Circana BookScan",
         "territory": "US",
         "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
@@ -80,7 +80,7 @@
     },
     "childrensBooks": {
       "audience": "children",
-      "id": "publishers-weekly-children-2026-11-02",
+      "id": "publishers-weekly-children-2026-11-09",
       "items": [
         {
           "creator": "Jeff Kinney",
@@ -149,33 +149,105 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "Circana BookScan Children's Frontlist Fiction",
-        "observedAt": "2026-11-02",
+        "observedAt": "2026-11-09",
         "provider": "Publishers Weekly / Circana BookScan",
         "territory": "US",
         "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
       },
       "title": "Circana BookScan Children's Frontlist Fiction"
     },
+    "movies": {
+      "id": "the-numbers-us-2026-11-06",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Godzilla Minus Zero",
+          "totalGross": "$31,610,000",
+          "url": "https://www.the-numbers.com/movie/Godzilla-Minus-Zero-(2026-Japan)",
+          "weekendGross": "$31,610,000"
+        },
+        {
+          "rank": 2,
+          "title": "The Cat in the Hat",
+          "totalGross": "$20,500,000",
+          "url": "https://www.the-numbers.com/movie/Cat-in-the-Hat-The-(2026)",
+          "weekendGross": "$20,500,000"
+        },
+        {
+          "rank": 3,
+          "title": "Drummer Boy",
+          "totalGross": "$9,312,551",
+          "url": "https://www.the-numbers.com/movie/Drummer-Boy-(2026)",
+          "weekendGross": "$9,312,551"
+        },
+        {
+          "rank": 4,
+          "title": "You Can See Everything",
+          "totalGross": "$79,797,396",
+          "url": "https://www.the-numbers.com/movie/You-Can-See-Everything-(2026)",
+          "weekendGross": "$8,862,846"
+        },
+        {
+          "rank": 5,
+          "title": "Ramayana: Rise of a Legend",
+          "totalGross": "$12,156,000",
+          "url": "https://www.the-numbers.com/movie/Ramayana-Part-1-(2026-India)",
+          "weekendGross": "$8,650,000"
+        },
+        {
+          "rank": 6,
+          "title": "Wildwood",
+          "totalGross": "$39,818,198",
+          "url": "https://www.the-numbers.com/movie/Wildwood-(2026)",
+          "weekendGross": "$7,000,000"
+        },
+        {
+          "rank": 7,
+          "title": "Clayface",
+          "totalGross": "$56,608,000",
+          "url": "https://www.the-numbers.com/movie/Clayface-(2026)",
+          "weekendGross": "$6,675,000"
+        },
+        {
+          "rank": 8,
+          "title": "Wild Horse Nine",
+          "totalGross": "$6,000,000",
+          "url": "https://www.the-numbers.com/movie/Wild-Horse-Nine-(2026-United-Kingdom)",
+          "weekendGross": "$6,000,000"
+        }
+      ],
+      "reportPeriod": "2026-11-06/2026-11-08",
+      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/11/06",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "US theatrical weekend gross",
+        "observedAt": "2026-11-08",
+        "provider": "The Numbers",
+        "territory": "US",
+        "url": "https://www.the-numbers.com/box-office"
+      },
+      "title": "US weekend theatrical box office"
+    },
     "music": {
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Lil Baby",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
-          "id": "6823820066",
-          "rank": 1,
-          "releaseDate": "2026-11-06",
-          "title": "Mr. Do Something",
-          "url": "https://music.apple.com/us/album/mr-do-something/6823820064?i=6823820066"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+          "id": "6823820066",
+          "rank": 2,
+          "releaseDate": "2026-11-06",
+          "title": "Mr. Do Something",
+          "url": "https://music.apple.com/us/album/mr-do-something/6823820064?i=6823820066"
         },
         {
           "artist": "Lil Baby",
@@ -187,40 +259,40 @@
           "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
         },
         {
-          "artist": "Lil Baby",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
-          "id": "6823820065",
-          "rank": 4,
-          "releaseDate": "2026-11-06",
-          "title": "Top Uh It",
-          "url": "https://music.apple.com/us/album/top-uh-it/6823820064?i=6823820065"
-        },
-        {
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
         },
         {
-          "artist": "Lil Baby, Young Thug & Rylo Rodriguez",
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+          "id": "6823820065",
+          "rank": 5,
+          "releaseDate": "2026-11-06",
+          "title": "Top Uh It",
+          "url": "https://music.apple.com/us/album/top-uh-it/6823820064?i=6823820065"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 6,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Lil Baby, Rylo Rodriguez & Young Thug",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
           "id": "6823820072",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2026-11-06",
           "title": "All My Partnas (feat. Future)",
           "url": "https://music.apple.com/us/album/all-my-partnas-feat-future/6823820064?i=6823820072"
-        },
-        {
-          "artist": "Lil Baby",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
-          "id": "6823820067",
-          "rank": 7,
-          "releaseDate": "2026-11-06",
-          "title": "Burnt Shit",
-          "url": "https://music.apple.com/us/album/burnt-shit/6823820064?i=6823820067"
         },
         {
           "artist": "Drake",
@@ -232,28 +304,28 @@
           "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
         },
         {
-          "artist": "Future",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/7c/cb/5f7ccb13-1490-5b92-f78b-d1a0f665a07e/196874972953.jpg/100x100bb.jpg",
-          "id": "6831506154",
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+          "id": "6792676860",
           "rank": 9,
-          "releaseDate": "2026-11-06",
-          "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
-          "url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154"
+          "releaseDate": "2026-07-24",
+          "title": "Been By Now",
+          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
         },
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+          "id": "6823820067",
           "rank": 10,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+          "releaseDate": "2026-11-06",
+          "title": "Burnt Shit",
+          "url": "https://music.apple.com/us/album/burnt-shit/6823820064?i=6823820067"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 8 Nov 2026 10:16:08 +0000",
+        "observedAt": "Mon, 9 Nov 2026 11:26:12 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -387,7 +459,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-08T10:14:46Z",
+        "observedAt": "2026-11-09T11:25:19Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -396,9 +468,9 @@
       "year": 2025
     }
   },
-  "contentHash": "03d7e5cd93b5e181c6781daa69db7c822957171816716983ea5b2525cd1a55df",
+  "contentHash": "9ed107d9762dad049be63246eb580c57e6a9be8d81713bccb51cbfeb4f092bcd",
   "country": "US",
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T10:14:46Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T11:25:19Z",
   "schemaVersion": 1
 }

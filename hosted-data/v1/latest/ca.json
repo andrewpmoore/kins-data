@@ -31,49 +31,49 @@
           "url": "https://music.apple.com/ca/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         },
         {
-          "artist": "Drake",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
-          "id": "6769568596",
-          "rank": 4,
-          "releaseDate": "2026-05-15",
-          "title": "Janice STFU",
-          "url": "https://music.apple.com/ca/album/janice-stfu/6769568449?i=6769568596"
-        },
-        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
         },
         {
-          "artist": "Future",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/7c/cb/5f7ccb13-1490-5b92-f78b-d1a0f665a07e/196874972953.jpg/100x100bb.jpg",
-          "id": "6831506154",
-          "rank": 6,
-          "releaseDate": "2026-11-06",
-          "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
-          "url": "https://music.apple.com/ca/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154"
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
+          "rank": 5,
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/ca/album/janice-stfu/6769568449?i=6769568596"
         },
         {
           "artist": "Cameron Whitcomb",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/33/73/7e337333-0802-d7b5-8848-d20fdbdf993c/075679584731.jpg/100x100bb.jpg",
-          "id": "1887606227",
-          "rank": 7,
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/99/18/1e99186e-2a64-183c-3fea-cb6a596918d0/075679563217.jpg/100x100bb.jpg",
+          "id": "6797988616",
+          "rank": 6,
           "releaseDate": "2026-03-27",
           "title": "Kingdom of Fear",
-          "url": "https://music.apple.com/ca/album/kingdom-of-fear/1887606218?i=1887606227"
+          "url": "https://music.apple.com/ca/album/kingdom-of-fear/6797988041?i=6797988616"
         },
         {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/ca/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Future",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/7c/cb/5f7ccb13-1490-5b92-f78b-d1a0f665a07e/196874972953.jpg/100x100bb.jpg",
+          "id": "6831506154",
+          "rank": 8,
+          "releaseDate": "2026-11-06",
+          "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+          "url": "https://music.apple.com/ca/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154"
         },
         {
           "artist": "STELLA LEFTY",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 8 Nov 2026 10:17:27 +0000",
+        "observedAt": "Mon, 9 Nov 2026 11:26:39 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-11-08T10:14:46Z",
+        "observedAt": "2026-11-09T11:25:19Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "20915189acd373266977779a463746768605a6967ace3a0f35b0902f62799412",
+  "contentHash": "f88c9b47726aef56021d729f3c2b36b91bbac4c22c16124b12889d92aec7f401",
   "country": "CA",
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T10:14:46Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T11:25:19Z",
   "schemaVersion": 1
 }
