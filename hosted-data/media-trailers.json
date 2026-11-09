@@ -1,17 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T13:34:58Z",
+  "generatedAt": "2026-11-09T13:58:21Z",
   "targets": [
-    {
-      "kind": "games",
-      "title": "Astro Bot",
-      "chartYear": 2025
-    },
-    {
-      "kind": "games",
-      "title": "Clair Obscur: Expedition 33",
-      "chartYear": 2026
-    },
     {
       "kind": "movies",
       "title": "Ali G: Who Iz I?",
@@ -79,12 +69,12 @@
     },
     {
       "kind": "movies",
-      "title": "CLAYFACE",
+      "title": "Clayface",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Clayface",
+      "title": "CLAYFACE",
       "chartYear": 2026
     },
     {
@@ -134,6 +124,11 @@
     },
     {
       "kind": "movies",
+      "title": "Drummer Boy",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "FAST & FURIOUS – 25TH ANNIVERSARY",
       "chartYear": 2026
     },
@@ -159,6 +154,11 @@
     },
     {
       "kind": "movies",
+      "title": "Godzilla Minus Zero",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Hadestown: The Musical",
       "chartYear": 2026
     },
@@ -174,12 +174,12 @@
     },
     {
       "kind": "movies",
-      "title": "Heart Of The Beast",
+      "title": "Heart of the Beast",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Heart of the Beast",
+      "title": "Heart Of The Beast",
       "chartYear": 2026
     },
     {
@@ -194,17 +194,27 @@
     },
     {
       "kind": "movies",
+      "title": "HOPE",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "ICE CREAM MAN",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Insidious: Out of the Further",
+      "title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
       "chartYear": 2026
     },
     {
       "kind": "movies",
       "title": "Insidious: Out Of The Further",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Insidious: Out of the Further",
       "chartYear": 2026
     },
     {
@@ -314,12 +324,12 @@
     },
     {
       "kind": "movies",
-      "title": "PRIMETIME",
+      "title": "Primetime",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Primetime",
+      "title": "PRIMETIME",
       "chartYear": 2026
     },
     {
@@ -330,6 +340,11 @@
     {
       "kind": "movies",
       "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Ramayana: Rise of a Legend",
       "chartYear": 2026
     },
     {
@@ -349,7 +364,7 @@
     },
     {
       "kind": "movies",
-      "title": "Sense and Sensibility",
+      "title": "SE DOMANI NON TORNO",
       "chartYear": 2026
     },
     {
@@ -359,17 +374,22 @@
     },
     {
       "kind": "movies",
+      "title": "Sense and Sensibility",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "SERPENTI",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Shaun The Sheep: The Beast Of Mossy Bottom",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "title": "Shaun The Sheep: The Beast Of Mossy Bottom",
       "chartYear": 2026
     },
     {
@@ -394,12 +414,17 @@
     },
     {
       "kind": "movies",
-      "title": "Street Fighter",
+      "title": "STRAY KIDS WORLD TOUR LIVE VIEWING",
       "chartYear": 2026
     },
     {
       "kind": "movies",
       "title": "STREET FIGHTER",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Street Fighter",
       "chartYear": 2026
     },
     {
@@ -410,6 +435,11 @@
     {
       "kind": "movies",
       "title": "THE BIBI FILES",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "The Cat in the Hat",
       "chartYear": 2026
     },
     {
@@ -524,6 +554,16 @@
     },
     {
       "kind": "movies",
+      "title": "WILD HORSE NINE",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Wild Horse Nine",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Wildwood",
       "chartYear": 2026
     },
@@ -546,9 +586,9 @@
   "coverage": {
     "startYear": 2017,
     "endYear": 2026,
-    "targetCount": 108,
-    "recordCount": 27,
-    "matchedTrailerCount": 25
+    "targetCount": 116,
+    "recordCount": 25,
+    "matchedTrailerCount": 23
   },
   "source": "Wikidata (CC0), YouTube Data API, and manual curation",
   "attribution": "Wikidata contributors; YouTube data refreshed weekly",
@@ -584,16 +624,6 @@
     },
     {
       "kind": "movies",
-      "title": "Clayface",
-      "chartYear": 2026,
-      "releaseYear": 2026,
-      "trailerURL": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
-      "wikidataSources": [
-        "http://www.wikidata.org/entity/Q131460936"
-      ]
-    },
-    {
-      "kind": "movies",
       "title": "Digger",
       "chartYear": 2026,
       "releaseYear": 2026,
@@ -620,16 +650,6 @@
       "trailerURL": "https://www.youtube.com/watch?v=a8RHqN93qfo",
       "wikidataSources": [
         "http://www.wikidata.org/entity/Q138335503"
-      ]
-    },
-    {
-      "kind": "movies",
-      "title": "Heart of the Beast",
-      "chartYear": 2026,
-      "releaseYear": 2026,
-      "trailerURL": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
-      "wikidataSources": [
-        "http://www.wikidata.org/entity/Q131900904"
       ]
     },
     {
@@ -714,6 +734,16 @@
     },
     {
       "kind": "movies",
+      "title": "Ramayana: Rise of a Legend",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=lNaSdnz2I8g",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q135196186"
+      ]
+    },
+    {
+      "kind": "movies",
       "title": "Sense and Sensibility",
       "chartYear": 2026,
       "releaseYear": 2026,
@@ -730,6 +760,16 @@
       "trailerURL": "https://www.youtube.com/watch?v=Xt4X4FvXk2A",
       "wikidataSources": [
         "http://www.wikidata.org/entity/Q130345436"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "The Cat in the Hat",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=jz8pLlPhSeY",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q122932991"
       ]
     },
     {
@@ -764,16 +804,6 @@
     },
     {
       "kind": "movies",
-      "title": "The Odyssey",
-      "chartYear": 2026,
-      "releaseYear": 2026,
-      "trailerURL": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
-      "wikidataSources": [
-        "http://www.wikidata.org/entity/Q131547207"
-      ]
-    },
-    {
-      "kind": "movies",
       "title": "The Social Reckoning",
       "chartYear": 2026,
       "releaseYear": 2026,
@@ -790,16 +820,6 @@
       "trailerURL": "https://www.youtube.com/watch?v=ZVkrhHebz1Q",
       "wikidataSources": [
         "http://www.wikidata.org/entity/Q135103999"
-      ]
-    },
-    {
-      "kind": "movies",
-      "title": "Toy Story 5",
-      "chartYear": 2026,
-      "releaseYear": 2026,
-      "trailerURL": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
-      "wikidataSources": [
-        "http://www.wikidata.org/entity/Q113641997"
       ]
     },
     {
