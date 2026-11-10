@@ -987,7 +987,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1240,7 +1240,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "6eff92e10537b2be3a6b8f00656e407085b9300fbde1f18830e78b0c620549d3",
+  "contentHash": "4597bd425969683dd9a5eecd3c687ad7f6d972577f65ef9249e52cf01142b6be",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1986

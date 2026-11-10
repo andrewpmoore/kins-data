@@ -58,22 +58,22 @@
           "url": "https://music.apple.com/de/album/housewife/6822497770?i=6822497774"
         },
         {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
+          "rank": 2,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/de/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
           "artist": "HUGEL, Imael Angel & Ultra Naté",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
           "id": "6769070199",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2026-05-22",
           "title": "Movin' To The Sun",
           "url": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199"
-        },
-        {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-          "id": "6805240960",
-          "rank": 3,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/de/album/stop-the-wedding/6805240956?i=6805240960"
         },
         {
           "artist": "Sido",
@@ -103,46 +103,46 @@
           "url": "https://music.apple.com/de/album/aint-in-la/6792883860?i=6792884101"
         },
         {
-          "artist": "Shakira & Burna Boy",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
-          "id": "6768469976",
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
           "rank": 7,
-          "releaseDate": "2026-05-14",
-          "title": "Dai Dai",
-          "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
-        },
-        {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 8,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
         },
         {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992123",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-05-22",
           "title": "the cure",
           "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
         },
         {
-          "artist": "KAROL G, Judeline & rusowsky",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-          "id": "6796864754",
+          "artist": "Taylor Swift",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+          "id": "6814997425",
+          "rank": 9,
+          "releaseDate": "2026-09-24",
+          "title": "Patient Zero",
+          "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
+        },
+        {
+          "artist": "Shakira & Burna Boy",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
+          "id": "6768469976",
           "rank": 10,
-          "releaseDate": "2026-08-05",
-          "title": "BbY WOW",
-          "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
+          "releaseDate": "2026-05-14",
+          "title": "Dai Dai",
+          "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 9 Nov 2026 11:28:00 +0000",
+        "observedAt": "Tue, 10 Nov 2026 11:08:49 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -296,7 +296,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-11-09T11:25:19Z",
+        "observedAt": "2026-11-10T11:05:41Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -305,9 +305,9 @@
       "year": 2025
     }
   },
-  "contentHash": "4c5e51f89f6009df7a09e7dabf19da41847ccbf717d160000853df5dd6ec0448",
+  "contentHash": "fcbba5b64e44a5979abff75c621d95686f946a0e3b884acce371bc102b10f369",
   "country": "DE",
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T11:25:19Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T11:05:41Z",
   "schemaVersion": 1
 }

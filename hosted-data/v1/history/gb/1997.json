@@ -1407,7 +1407,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1979,7 +1979,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "23549de92a0fcae076d30fb97e61228847ea3c00545eddc4beccf6629ccd5b65",
+  "contentHash": "1cbb470f2a408c401c10706e96bb2b8a49ca61e6b1b86d5e458fef69cdb6bbb1",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1997

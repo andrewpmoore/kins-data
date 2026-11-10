@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-09",
+      "id": "bookhub-nielsen-indie-2026-11-10",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-09",
+        "observedAt": "2026-11-10",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -76,95 +76,55 @@
       "title": "Official Nielsen Indie Top 10"
     },
     "movies": {
-      "id": "box-office-mojo-nz-2026-10-25",
+      "id": "box-office-mojo-nz-2026-11-08",
       "items": [
         {
-          "distributor": "Warner Bros.",
+          "distributor": "Walt Disney Pictures",
           "rank": 1,
-          "title": "Clayface",
-          "url": "https://www.boxofficemojo.com/release/rl828276993/?ref_=bo_we_table_1",
-          "weekendGross": "$92,039",
-          "weeksOnRelease": "1"
-        },
-        {
-          "distributor": "Paramount Pictures International",
-          "rank": 2,
-          "title": "Street Fighter",
-          "url": "https://www.boxofficemojo.com/release/rl2061795329/?ref_=bo_we_table_2",
-          "weekendGross": "$79,827",
-          "weeksOnRelease": "2"
-        },
-        {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 3,
-          "title": "Sense and Sensibility",
-          "url": "https://www.boxofficemojo.com/release/rl2153152769/?ref_=bo_we_table_3",
-          "weekendGross": "$71,991",
-          "weeksOnRelease": "2"
-        },
-        {
-          "distributor": "Paramount Pictures International",
-          "rank": 4,
-          "title": "Heart of the Beast",
-          "url": "https://www.boxofficemojo.com/release/rl145588225/?ref_=bo_we_table_4",
-          "weekendGross": "$66,545",
-          "weeksOnRelease": "5"
-        },
-        {
-          "distributor": "Kismet Movies",
-          "rank": 5,
-          "title": "Wildwood",
-          "url": "https://www.boxofficemojo.com/release/rl3546251521/?ref_=bo_we_table_5",
-          "weekendGross": "$54,994",
-          "weeksOnRelease": "1"
-        },
-        {
-          "distributor": "Sony Pictures Releasing",
-          "rank": 6,
-          "title": "Klara and the Sun",
-          "url": "https://www.boxofficemojo.com/release/rl845054209/?ref_=bo_we_table_6",
-          "weekendGross": "$44,938",
+          "title": "Wild Horse Nine",
+          "url": "https://www.boxofficemojo.com/release/rl2724364545/?ref_=bo_we_table_1",
+          "weekendGross": "$74,707",
           "weeksOnRelease": "1"
         },
         {
           "distributor": "Amazon MGM Studios",
-          "rank": 7,
-          "title": "Verity",
-          "url": "https://www.boxofficemojo.com/release/rl2992013569/?ref_=bo_we_table_7",
-          "weekendGross": "$43,501",
+          "rank": 2,
+          "title": "Ali G: Who Iz I?",
+          "url": "https://www.boxofficemojo.com/release/rl861831425/?ref_=bo_we_table_2",
+          "weekendGross": "$27,574",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 3,
+          "title": "Everest: The Other Side",
+          "url": "https://www.boxofficemojo.com/release/rl1080131841/?ref_=bo_we_table_3",
+          "weekendGross": "$884",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 4,
+          "title": "Whalefall",
+          "url": "https://www.boxofficemojo.com/release/rl3193798913/?ref_=bo_we_table_4",
+          "weekendGross": "$876",
           "weeksOnRelease": "4"
         },
         {
-          "distributor": "Amazon MGM Studios",
-          "rank": 8,
-          "title": "Ali G: Who Iz I?",
-          "url": "https://www.boxofficemojo.com/release/rl861831425/?ref_=bo_we_table_8",
-          "weekendGross": "$27,280",
-          "weeksOnRelease": "1"
-        },
-        {
-          "distributor": "-",
-          "rank": 9,
-          "title": "Tenzing",
-          "url": "https://www.boxofficemojo.com/release/rl4217209089/?ref_=bo_we_table_9",
-          "weekendGross": "$17,238",
-          "weeksOnRelease": "2"
-        },
-        {
-          "distributor": "Wanderlust Films",
-          "rank": 10,
-          "title": "Jailer 2",
-          "url": "https://www.boxofficemojo.com/release/rl4183654657/?ref_=bo_we_table_10",
-          "weekendGross": "$13,084",
-          "weeksOnRelease": "2"
+          "distributor": "Walt Disney Pictures",
+          "rank": 5,
+          "title": "Cars",
+          "url": "https://www.boxofficemojo.com/release/rl1313767681/?ref_=bo_we_table_5",
+          "weekendGross": "$7",
+          "weeksOnRelease": "10"
         }
       ],
-      "reportPeriod": "October 22-25, 2026",
-      "reportURL": "https://www.boxofficemojo.com/weekend/2026W43/?area=NZ&ref_=bo_wey_table_2",
+      "reportPeriod": "November 5-8, 2026",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W45/?area=NZ&ref_=bo_wey_table_1",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "country weekend theatrical gross in local currency",
-        "observedAt": "2026-10-25",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo",
         "territory": "NZ",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=NZ"
@@ -175,31 +135,31 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 1,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 2,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
+          "id": "1817609507",
           "rank": 3,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
           "artist": "ADÉLA",
@@ -211,49 +171,49 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 5,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609507",
-          "rank": 6,
-          "releaseDate": "2026-09-26",
-          "title": "So Easy (To Fall In Love)",
-          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
           "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-          "id": "6805240960",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
           "rank": 7,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/nz/album/stop-the-wedding/6805240956?i=6805240960"
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
-          "rank": 8,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/nz/album/the-cure/1889992111?i=1889992123"
+          "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992115",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 9,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/nz/album/the-cure/1889992111?i=1889992123"
         },
         {
           "artist": "SIENNA SPIRO",
@@ -268,7 +228,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 9 Nov 2026 11:27:59 +0000",
+        "observedAt": "Tue, 10 Nov 2026 11:08:48 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -431,9 +391,9 @@
       "year": 2025
     }
   },
-  "contentHash": "36ed1c0c1a006873bb9e168f1888b4d7d517e69523cd864694e2b87ac5db543d",
+  "contentHash": "5d897bef2c1c7d8708b19e08791614b7a20595aa972b1217b72d5082167a0261",
   "country": "NZ",
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T11:25:19Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T11:05:41Z",
   "schemaVersion": 1
 }

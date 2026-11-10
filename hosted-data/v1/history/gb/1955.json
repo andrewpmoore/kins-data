@@ -297,7 +297,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -517,7 +517,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "60b8618bd2dcaf9775f21d72861420cc81e87cee237b466582d76949e96dba90",
+  "contentHash": "0b12a323321214ff7cb6735684b815b93f4497536b0c9925e8376b60371c51b2",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1955

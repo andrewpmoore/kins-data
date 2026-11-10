@@ -277,7 +277,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -585,7 +585,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "436090f444b6415a749eeec0294b232be72765f58302a1700cdf41c85fccb9d4",
+  "contentHash": "17d46bbd50e054e2b512370f887cb8e7828e1cf6452fab12c0be2ff63243a807",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1982

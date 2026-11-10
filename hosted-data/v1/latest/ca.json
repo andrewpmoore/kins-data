@@ -31,22 +31,22 @@
           "url": "https://music.apple.com/ca/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         },
         {
-          "artist": "Morgan Wallen",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
-          "id": "6792676860",
-          "rank": 4,
-          "releaseDate": "2026-07-24",
-          "title": "Been By Now",
-          "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
-        },
-        {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/ca/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+          "id": "6792676860",
+          "rank": 5,
+          "releaseDate": "2026-07-24",
+          "title": "Been By Now",
+          "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
         },
         {
           "artist": "Cameron Whitcomb",
@@ -67,19 +67,10 @@
           "url": "https://music.apple.com/ca/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Future",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/7c/cb/5f7ccb13-1490-5b92-f78b-d1a0f665a07e/196874972953.jpg/100x100bb.jpg",
-          "id": "6831506154",
-          "rank": 8,
-          "releaseDate": "2026-11-06",
-          "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
-          "url": "https://music.apple.com/ca/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154"
-        },
-        {
           "artist": "STELLA LEFTY",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
           "id": "1884403093",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-03-27",
           "title": "Boston",
           "url": "https://music.apple.com/ca/album/boston/1884403092?i=1884403093"
@@ -88,16 +79,25 @@
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992115",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/ca/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 10,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/ca/album/the-cure/1889992111?i=1889992123"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 9 Nov 2026 11:26:39 +0000",
+        "observedAt": "Tue, 10 Nov 2026 11:06:08 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-11-09T11:25:19Z",
+        "observedAt": "2026-11-10T11:05:41Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "f88c9b47726aef56021d729f3c2b36b91bbac4c22c16124b12889d92aec7f401",
+  "contentHash": "c725d64d41c6a2e8f4e71186b1cde5e690c98ef184b7f7b3d946158d97b8ecbb",
   "country": "CA",
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T11:25:19Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T11:05:41Z",
   "schemaVersion": 1
 }

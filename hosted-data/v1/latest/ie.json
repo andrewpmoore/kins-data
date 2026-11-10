@@ -14,12 +14,12 @@
         },
         {
           "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-          "id": "6805240960",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
           "rank": 2,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/ie/album/stop-the-wedding/6805240956?i=6805240960"
+          "url": "https://music.apple.com/ie/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -67,37 +67,37 @@
           "url": "https://music.apple.com/ie/album/babydoll/6794168372?i=6794168373"
         },
         {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 8,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/ie/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
           "id": "6792085543",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2026-10-16",
           "title": "Japan",
           "url": "https://music.apple.com/ie/album/japan/6792085051?i=6792085543"
         },
         {
-          "artist": "Kingfishr",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/a4/5a/cda45a15-63a6-12c7-cb2c-2a5cc366600e/075679623171.jpg/100x100bb.jpg",
-          "id": "1786262002",
-          "rank": 9,
-          "releaseDate": "2024-12-06",
-          "title": "Killeagh",
-          "url": "https://music.apple.com/ie/album/killeagh/1786262000?i=1786262002"
-        },
-        {
-          "artist": "Ella Langley",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-          "id": "1844932150",
+          "artist": "Zach Bryan & Lana Del Rey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944296",
           "rank": 10,
-          "releaseDate": "2025-10-17",
-          "title": "Choosin' Texas",
-          "url": "https://music.apple.com/ie/album/choosin-texas/1844932149?i=1844932150"
+          "releaseDate": "2026-10-15",
+          "title": "Lies (feat. Lana Del Rey)",
+          "url": "https://music.apple.com/ie/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 9 Nov 2026 11:26:41 +0000",
+        "observedAt": "Tue, 10 Nov 2026 11:08:22 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-11-09T11:25:19Z",
+        "observedAt": "2026-11-10T11:05:41Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "54f4f3f4dfcc4f84d13b66cd1f1be972344f9012c57e1025c480be78594ae99d",
+  "contentHash": "2a29c1dc848050dd4a2cc91a290fbec0d203fb6de264d653e125ea3bcb37c33d",
   "country": "IE",
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T11:25:19Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T11:05:41Z",
   "schemaVersion": 1
 }

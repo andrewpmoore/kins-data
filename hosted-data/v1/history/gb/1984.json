@@ -277,7 +277,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -530,7 +530,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "eaebaef585bc09e4c6336a19917e73c3949abb7ebef39eb0944cf901038c09a5",
+  "contentHash": "04c643a37ab5701c65ccdbb5bccb553e47516d702d8e36a6e7d1653aa31f8a37",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1984

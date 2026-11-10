@@ -227,7 +227,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "IT",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
@@ -546,7 +546,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "bb02c718e059ffbcfe310a9b384206e6159d2a4503b86dfe611822b9a3350471",
+  "contentHash": "1d50cc865b8a18c4952d957c97a8c3aeac246048ad94c704e0d6498ff7656254",
   "country": "it",
   "schemaVersion": 1,
   "year": 2000

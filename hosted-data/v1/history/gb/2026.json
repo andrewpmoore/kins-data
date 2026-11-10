@@ -292,12 +292,22 @@
             }
           ],
           "startDate": "2026-11-01"
+        },
+        {
+          "endDate": "2026-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Wild Horse Nine"
+            }
+          ],
+          "startDate": "2026-11-08"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -528,7 +538,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "52a58f645880178edf7f705e9553f00722f8c10db2cec3414dc642a803174aed",
+  "contentHash": "59b4f75ab5c852fdebda1a7d16a63e40ffaf48994809a8a60b328df2a9464496",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2026

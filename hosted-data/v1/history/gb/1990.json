@@ -1267,7 +1267,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1553,7 +1553,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "7b28271d790b906d9189c6dfe0a7da46d5cb8a64f54a8f657bbc5f153727013b",
+  "contentHash": "040ba42ec1fd33eddbe061b68ec44de0bb8a695befa603412bd2ac74c23eb62b",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1990

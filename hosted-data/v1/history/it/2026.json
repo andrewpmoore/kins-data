@@ -262,12 +262,22 @@
             }
           ],
           "startDate": "2026-11-01"
+        },
+        {
+          "endDate": "2026-11-14",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Se domani non torno"
+            }
+          ],
+          "startDate": "2026-11-08"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-01",
+        "observedAt": "2026-11-08",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "IT",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
@@ -487,7 +497,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "278b35a7939a6d39a50581aa61f43cb7ca7372f9b52ba7cd457de0c93e2ec8eb",
+  "contentHash": "3273466bc0ab2cd01b2e5083a7b0f97267d1553750cac3996f783dc4df7b403c",
   "country": "it",
   "schemaVersion": 1,
   "year": 2026
