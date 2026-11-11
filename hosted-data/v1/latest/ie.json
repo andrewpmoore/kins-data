@@ -31,10 +31,19 @@
           "url": "https://music.apple.com/ie/album/the-cure/1889992111?i=1889992123"
         },
         {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 4,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/ie/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
           "artist": "Fontaines D.C.",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
           "id": "6792085056",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-08-18",
           "title": "Marianne",
           "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
@@ -43,46 +52,37 @@
           "artist": "Kingfishr",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/a7/0b71a77c-c647-8c58-ed0a-21beadc44a4d/075679579034.jpg/100x100bb.jpg",
           "id": "6768830564",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-05-26",
           "title": "The Sun Will Never Settle",
           "url": "https://music.apple.com/ie/album/the-sun-will-never-settle/6768830561?i=6768830564"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 6,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/ie/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
-          "artist": "Jamie Miller",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
-          "id": "6794168373",
-          "rank": 7,
-          "releaseDate": "2026-08-07",
-          "title": "Babydoll",
-          "url": "https://music.apple.com/ie/album/babydoll/6794168372?i=6794168373"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/ie/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085543",
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
+          "rank": 8,
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/ie/album/babydoll/6794168372?i=6794168373"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
           "rank": 9,
-          "releaseDate": "2026-10-16",
-          "title": "Japan",
-          "url": "https://music.apple.com/ie/album/japan/6792085051?i=6792085543"
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/ie/album/rein-me-in/1820918466?i=1820918468"
         },
         {
           "artist": "Zach Bryan & Lana Del Rey",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 10 Nov 2026 11:08:22 +0000",
+        "observedAt": "Wed, 11 Nov 2026 10:51:24 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-11-10T11:05:41Z",
+        "observedAt": "2026-11-11T10:50:53Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "2a29c1dc848050dd4a2cc91a290fbec0d203fb6de264d653e125ea3bcb37c33d",
+  "contentHash": "e26c99524fd8cb3e6b48cd63b7c76c57f90cc3000fbd28d26816e54ab17c7a19",
   "country": "IE",
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T11:05:41Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T10:50:53Z",
   "schemaVersion": 1
 }

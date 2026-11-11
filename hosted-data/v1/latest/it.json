@@ -4,94 +4,94 @@
       "id": "cinetel-national-week-2026-11-08",
       "items": [
         {
-          "admissions": 291477,
+          "admissions": 291994,
           "countryOfOrigin": "ITA",
           "distributor": "NOTORIOUS PICTURES",
           "rank": 1,
           "releaseDate": "2026-11-05",
           "title": "SE DOMANI NON TORNO",
-          "weekendGrossEUR": 1934751.31
+          "weekendGrossEUR": 1938228.51
         },
         {
-          "admissions": 220358,
+          "admissions": 220784,
           "countryOfOrigin": "ITA",
           "distributor": "PIPER FILM",
           "rank": 2,
           "releaseDate": "2026-10-29",
           "title": "DIO RIDE",
-          "weekendGrossEUR": 1538902.39
+          "weekendGrossEUR": 1541609.19
         },
         {
-          "admissions": 119463,
+          "admissions": 119778,
           "countryOfOrigin": "USA",
           "distributor": "WALT DISNEY S.M.P. ITALIA",
           "rank": 3,
           "releaseDate": "2026-11-05",
           "title": "WILD HORSE NINE",
-          "weekendGrossEUR": 896492.09
+          "weekendGrossEUR": 898824.09
         },
         {
-          "admissions": 115589,
+          "admissions": 115933,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
           "rank": 4,
           "releaseDate": "2026-10-29",
           "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-          "weekendGrossEUR": 851906.94
+          "weekendGrossEUR": 853918.14
         },
         {
-          "admissions": 108203,
+          "admissions": 108646,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
           "rank": 5,
           "releaseDate": "2026-11-05",
           "title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
-          "weekendGrossEUR": 806268.15
+          "weekendGrossEUR": 808675.85
         },
         {
-          "admissions": 23617,
+          "admissions": 23658,
           "countryOfOrigin": "KOR",
           "distributor": "NEXO DIGITAL S.R.L.",
           "rank": 6,
           "releaseDate": "2026-11-07",
           "title": "STRAY KIDS WORLD TOUR LIVE VIEWING",
-          "weekendGrossEUR": 502405.6
+          "weekendGrossEUR": 503225.6
         },
         {
-          "admissions": 42395,
+          "admissions": 42535,
           "countryOfOrigin": "KOR",
           "distributor": "MUBI",
           "rank": 7,
           "releaseDate": "2026-11-05",
           "title": "HOPE",
-          "weekendGrossEUR": 360762.16
+          "weekendGrossEUR": 361714.46
         },
         {
-          "admissions": 42688,
+          "admissions": 42900,
           "countryOfOrigin": "GBR",
           "distributor": "UNIVERSAL",
           "rank": 8,
           "releaseDate": "2026-10-22",
           "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
-          "weekendGrossEUR": 314381.26
+          "weekendGrossEUR": 315734.46
         },
         {
-          "admissions": 37490,
+          "admissions": 37573,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
           "rank": 9,
           "releaseDate": "2026-10-22",
           "title": "CLAYFACE",
-          "weekendGrossEUR": 302194.57
+          "weekendGrossEUR": 302817.47
         },
         {
-          "admissions": 39292,
+          "admissions": 39407,
           "countryOfOrigin": "GBR",
           "distributor": "LUCKY RED DISTRIBUZIONE",
           "rank": 10,
           "releaseDate": "2026-10-28",
           "title": "SHAUN VITA DA PECORA - OPERAZIONE Z.U.C.C.A",
-          "weekendGrossEUR": 285478.21
+          "weekendGrossEUR": 286178.51
         }
       ],
       "reportPeriod": "2026-11-02/2026-11-08",
@@ -154,22 +154,22 @@
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
-          "id": "6807790374",
-          "rank": 6,
-          "releaseDate": "2026-01-16",
-          "title": "PER NOI (feat. Achille Lauro)",
-          "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
-        },
-        {
           "artist": "Alfa",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/db/10/79db10bf-8be8-36ca-210d-c0999234776a/8057715138025.jpg/100x100bb.jpg",
           "id": "6820638803",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-30",
           "title": "Eri solo da incontrare",
           "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
+          "id": "6807790374",
+          "rank": 7,
+          "releaseDate": "2026-01-16",
+          "title": "PER NOI (feat. Achille Lauro)",
+          "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
         },
         {
           "artist": "Geolier",
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 10 Nov 2026 11:09:42 +0000",
+        "observedAt": "Wed, 11 Nov 2026 10:53:11 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-10T11:05:41Z",
+        "observedAt": "2026-11-11T10:50:53Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "43176cadea9d47d30fb0b9332566eb6775ddd49e096aab56866d1ee1c6a1e226",
+  "contentHash": "f28d7633779b0e7ecb62384d7546aae1ed7109a2607e89869561d17b86449705",
   "country": "IT",
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T11:05:41Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T10:50:53Z",
   "schemaVersion": 1
 }

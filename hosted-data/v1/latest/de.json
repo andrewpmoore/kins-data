@@ -112,37 +112,37 @@
           "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
-          "rank": 8,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
-        },
-        {
           "artist": "Taylor Swift",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
           "id": "6814997425",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-09-24",
           "title": "Patient Zero",
           "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
         },
         {
-          "artist": "Shakira & Burna Boy",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
-          "id": "6768469976",
+          "artist": "Season 25",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/6a/24/de6a24ad-61f6-0e9b-9b55-4a1b837cd173/859747113777.jpg/100x100bb.jpg",
+          "id": "6828537514",
+          "rank": 9,
+          "releaseDate": "2026-09-20",
+          "title": "Shotta's.",
+          "url": "https://music.apple.com/de/album/shottas/6828537513?i=6828537514"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
           "rank": 10,
-          "releaseDate": "2026-05-14",
-          "title": "Dai Dai",
-          "url": "https://music.apple.com/de/album/dai-dai/6768469975?i=6768469976"
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/de/album/the-cure/1889992111?i=1889992123"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 10 Nov 2026 11:08:49 +0000",
+        "observedAt": "Wed, 11 Nov 2026 10:51:27 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -296,7 +296,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-11-10T11:05:41Z",
+        "observedAt": "2026-11-11T10:50:53Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -305,9 +305,9 @@
       "year": 2025
     }
   },
-  "contentHash": "fcbba5b64e44a5979abff75c621d95686f946a0e3b884acce371bc102b10f369",
+  "contentHash": "c263dbf23fcb89a6f845568f5202f6a810591f8a6d168c1256ef0be96e21112f",
   "country": "DE",
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T11:05:41Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T10:50:53Z",
   "schemaVersion": 1
 }
