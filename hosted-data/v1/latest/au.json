@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "aba-buying-group-2026-10-31",
+      "id": "aba-buying-group-2026-11-07",
       "items": [
         {
           "creator": "Sarah J. Maas",
@@ -11,34 +11,34 @@
           "url": "https://loveyourbookshop.org.au/bestsellers/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i"
         },
         {
-          "creator": "Pip Williams",
+          "creator": "Julia Baird",
           "rank": 2,
-          "title": "The German Ward",
-          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
-        },
-        {
-          "creator": "Sarah J. Maas",
-          "rank": 3,
-          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I",
-          "url": "https://loveyourbookshop.org.au/bestsellers/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i"
+          "title": "Becoming a Man",
+          "url": "https://loveyourbookshop.org.au/bestsellers/becoming-a-man"
         },
         {
           "creator": "Jeff Kinney",
-          "rank": 4,
+          "rank": 3,
           "title": "Fight or Flight: Diary of a Wimpy Kid (21)",
           "url": "https://loveyourbookshop.org.au/bestsellers/fight-or-flight-diary-of-a-wimpy-kid-21"
         },
         {
-          "creator": "Rob Hirst",
-          "rank": 5,
-          "title": "World is Almost at Peace",
-          "url": "https://loveyourbookshop.org.au/bestsellers/world-is-almost-at-peace"
+          "creator": "Pip Williams",
+          "rank": 4,
+          "title": "The German Ward",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
         },
         {
           "creator": "Bonnie Garmus",
-          "rank": 6,
+          "rank": 5,
           "title": "Peck & Peck",
           "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
+        },
+        {
+          "creator": "Josh Silver",
+          "rank": 6,
+          "title": "Fruit Fly",
+          "url": "https://loveyourbookshop.org.au/bestsellers/fruit-fly"
         },
         {
           "creator": "Barbara Kingsolver",
@@ -47,28 +47,28 @@
           "url": "https://loveyourbookshop.org.au/bestsellers/partita"
         },
         {
-          "creator": "Rebecca Yarros",
-          "rank": 8,
-          "title": "Threshing Day",
-          "url": "https://loveyourbookshop.org.au/bestsellers/threshing-day"
-        },
-        {
           "creator": "Elizabeth Strout",
-          "rank": 9,
+          "rank": 8,
           "title": "The Things We Never Say",
           "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
         },
         {
-          "creator": "Elif Shafak",
+          "creator": "Katrina Nannestad",
+          "rank": 9,
+          "title": "All of Us",
+          "url": "https://loveyourbookshop.org.au/bestsellers/all-of-us"
+        },
+        {
+          "creator": "Niall Williams",
           "rank": 10,
-          "title": "In One Brief Moment All Eternity",
-          "url": "https://loveyourbookshop.org.au/bestsellers/in-one-brief-moment-all-eternity"
+          "title": "O Now!: From the award-winning, internationally bestselling author of FOUR LETTERS OF LOVE and THIS IS HAPPINESS",
+          "url": "https://loveyourbookshop.org.au/bestsellers/o-now-from-the-award-winning-internationally-bestselling-author-of-four-letters-of-love-and-this-is-happiness"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "bestsellers in ABA Buying Group stores",
-        "observedAt": "2026-10-31",
+        "observedAt": "2026-11-07",
         "provider": "Australian Booksellers Association / NielsenIQ BookScan",
         "territory": "AU",
         "url": "https://loveyourbookshop.org.au/aba-top-10/"
@@ -137,7 +137,7 @@
         {
           "distributor": "Amazon MGM Studios",
           "rank": 8,
-          "title": "Ali G: Who Iz I?",
+          "title": "Ali G: Who Iz I? (Limited release)",
           "url": "https://www.boxofficemojo.com/release/rl56525057/?ref_=bo_we_table_8",
           "weekendGross": "$304,885",
           "weeksOnRelease": "3"
@@ -193,19 +193,10 @@
           "url": "https://music.apple.com/au/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609507",
-          "rank": 3,
-          "releaseDate": "2026-09-26",
-          "title": "So Easy (To Fall In Love)",
-          "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992115",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
@@ -214,10 +205,19 @@
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609507",
+          "rank": 5,
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
           "artist": "STELLA LEFTY",
@@ -256,19 +256,19 @@
           "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
           "rank": 10,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/au/album/the-cure/1889992111?i=1889992123"
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 11 Nov 2026 10:51:23 +0000",
+        "observedAt": "Thu, 12 Nov 2026 11:00:56 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "9359a7ae2d66d5a17998e2749ee5c7ac5643aca6f2407c70776667d6b2e7dbff",
+  "contentHash": "b95a0bfad32730aa8dea008de9539f8fb836a78d146d2a6ae1c8d0b89607b44b",
   "country": "AU",
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T10:50:53Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T10:59:33Z",
   "schemaVersion": 1
 }

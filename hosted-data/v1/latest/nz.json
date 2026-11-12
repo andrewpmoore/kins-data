@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-11",
+      "id": "bookhub-nielsen-indie-2026-11-12",
       "items": [
         {
           "category": "Fiction",
@@ -68,12 +68,57 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-11",
+        "observedAt": "2026-11-12",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
       },
       "title": "Official Nielsen Indie Top 10"
+    },
+    "childrensBooks": {
+      "audience": "children",
+      "id": "booksellers-nz-children-2026-11-12",
+      "items": [
+        {
+          "creator": "Deano Yipadee & Bruce Potter",
+          "isbn13": "9781775439295",
+          "rank": 1,
+          "title": "Nee Naw's Cracker Christmas"
+        },
+        {
+          "creator": "Lynley Dodd",
+          "isbn13": "9780143504450",
+          "rank": 2,
+          "title": "Hairy Maclary from Donaldson's Dairy"
+        },
+        {
+          "creator": "Blair Cooper & Cheryl Smith",
+          "isbn13": "9780473295462",
+          "rank": 3,
+          "title": "Pee Wee the Lonely Kiwi Finds a New Friend"
+        },
+        {
+          "creator": "Lynley Dodd",
+          "isbn13": "9781776957477",
+          "rank": 4,
+          "title": "Hairy Maclary and Friends Christmas Fun"
+        },
+        {
+          "creator": "Merryn Jones & Isobel Joy Te Aho-White",
+          "isbn13": "9781990042966",
+          "rank": 5,
+          "title": "Mauri"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "NZ Children and Teens",
+        "observedAt": "2026-11-12",
+        "provider": "Booksellers Aotearoa / Nielsen BookScan",
+        "territory": "NZ",
+        "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
+      },
+      "title": "NZ Children and Teens"
     },
     "movies": {
       "id": "box-office-mojo-nz-2026-11-08",
@@ -89,7 +134,7 @@
         {
           "distributor": "Amazon MGM Studios",
           "rank": 2,
-          "title": "Ali G: Who Iz I?",
+          "title": "Ali G: Who Iz I? (Limited release)",
           "url": "https://www.boxofficemojo.com/release/rl861831425/?ref_=bo_we_table_2",
           "weekendGross": "$27,574",
           "weeksOnRelease": "3"
@@ -103,50 +148,58 @@
           "weeksOnRelease": "4"
         },
         {
-          "distributor": "Universal Pictures International (UPI)",
+          "distributor": "Amazon MGM Studios",
           "rank": 4,
+          "title": "Verity",
+          "url": "https://www.boxofficemojo.com/release/rl2992013569/?ref_=bo_we_table_4",
+          "weekendGross": "$11,447",
+          "weeksOnRelease": "6"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 5,
           "title": "Forgotten Island",
-          "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_4",
+          "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_5",
           "weekendGross": "$7,006",
           "weeksOnRelease": "8"
         },
         {
           "distributor": "Universal Pictures International (UPI)",
-          "rank": 5,
+          "rank": 6,
           "title": "Other Mommy",
-          "url": "https://www.boxofficemojo.com/release/rl341475585/?ref_=bo_we_table_5",
+          "url": "https://www.boxofficemojo.com/release/rl341475585/?ref_=bo_we_table_6",
           "weekendGross": "$1,036",
           "weeksOnRelease": "5"
         },
         {
           "distributor": "Walt Disney Pictures",
-          "rank": 6,
+          "rank": 7,
           "title": "Everest: The Other Side",
-          "url": "https://www.boxofficemojo.com/release/rl1080131841/?ref_=bo_we_table_6",
+          "url": "https://www.boxofficemojo.com/release/rl1080131841/?ref_=bo_we_table_7",
           "weekendGross": "$884",
           "weeksOnRelease": "2"
         },
         {
           "distributor": "Walt Disney Pictures",
-          "rank": 7,
+          "rank": 8,
           "title": "Whalefall",
-          "url": "https://www.boxofficemojo.com/release/rl3193798913/?ref_=bo_we_table_7",
+          "url": "https://www.boxofficemojo.com/release/rl3193798913/?ref_=bo_we_table_8",
           "weekendGross": "$876",
           "weeksOnRelease": "4"
         },
         {
           "distributor": "Universal Pictures International (UPI)",
-          "rank": 8,
+          "rank": 9,
           "title": "The Odyssey",
-          "url": "https://www.boxofficemojo.com/release/rl4165042433/?ref_=bo_we_table_8",
+          "url": "https://www.boxofficemojo.com/release/rl4165042433/?ref_=bo_we_table_9",
           "weekendGross": "$798",
           "weeksOnRelease": "17"
         },
         {
           "distributor": "Walt Disney Pictures",
-          "rank": 9,
+          "rank": 10,
           "title": "Cars",
-          "url": "https://www.boxofficemojo.com/release/rl1313767681/?ref_=bo_we_table_9",
+          "url": "https://www.boxofficemojo.com/release/rl1313767681/?ref_=bo_we_table_10",
           "weekendGross": "$7",
           "weeksOnRelease": "10"
         }
@@ -185,40 +238,40 @@
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 3,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 5,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 4,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 6,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -260,7 +313,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 11 Nov 2026 10:51:26 +0000",
+        "observedAt": "Thu, 12 Nov 2026 11:00:57 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -423,9 +476,9 @@
       "year": 2025
     }
   },
-  "contentHash": "7730ccc96c9f627242dee6e5d7d3541d7e9dff82894567d15e40125581b6d78c",
+  "contentHash": "29299b49a42761d1a0b5be0a22d0ea19907ae73dae76dc980d23241b5c85c8f0",
   "country": "NZ",
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T10:50:53Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T10:59:33Z",
   "schemaVersion": 1
 }

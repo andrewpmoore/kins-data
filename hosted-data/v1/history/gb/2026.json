@@ -516,7 +516,7 @@
           "startDate": "2026-10-08"
         },
         {
-          "endDate": "2026-11-11",
+          "endDate": "2026-11-18",
           "items": [
             {
               "artist": "Jamie Miller",
@@ -530,7 +530,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-05",
+        "observedAt": "2026-11-12",
         "provider": "Wikipedia contributors",
         "territory": "GB",
         "url": "https://en.wikipedia.org/wiki/Lists_of_UK_Singles_Chart_number_ones"
@@ -538,7 +538,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "59b4f75ab5c852fdebda1a7d16a63e40ffaf48994809a8a60b328df2a9464496",
+  "contentHash": "bcfc19519224419b41352eef9e1597bc84948ffcbb8700741dac4a3b7d39594b",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2026

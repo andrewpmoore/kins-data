@@ -85,19 +85,19 @@
           "url": "https://music.apple.com/ca/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
           "rank": 10,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/ca/album/stop-the-wedding/6795697684?i=6795697687"
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/ca/album/the-cure/1889992111?i=1889992123"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 11 Nov 2026 10:51:22 +0000",
+        "observedAt": "Thu, 12 Nov 2026 11:00:55 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-11-11T10:50:53Z",
+        "observedAt": "2026-11-12T10:59:33Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "5cd46247be8097affd77c82d36c28ffee42428a54bf09a2b1978d0138a06a2b2",
+  "contentHash": "ac735d617de48d1a8be6af007031f70ae833133b4d594f235b876b62ea559abb",
   "country": "CA",
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T10:50:53Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T10:59:33Z",
   "schemaVersion": 1
 }

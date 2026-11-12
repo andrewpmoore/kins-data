@@ -142,7 +142,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 11 Nov 2026 10:51:27 +0000",
+        "observedAt": "Thu, 12 Nov 2026 11:00:57 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -305,9 +305,9 @@
       "year": 2025
     }
   },
-  "contentHash": "c263dbf23fcb89a6f845568f5202f6a810591f8a6d168c1256ef0be96e21112f",
+  "contentHash": "ce9e93746b532ff6e1f8d16e97e946b5d2c44e81ff52b0fcfb51d52ceed2a86e",
   "country": "DE",
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T10:50:53Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T10:59:33Z",
   "schemaVersion": 1
 }
