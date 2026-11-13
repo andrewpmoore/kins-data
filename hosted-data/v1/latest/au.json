@@ -131,7 +131,7 @@
           "rank": 7,
           "title": "Wildwood",
           "url": "https://www.boxofficemojo.com/release/rl1482653953/?ref_=bo_we_table_7",
-          "weekendGross": "$362,532",
+          "weekendGross": "$367,770",
           "weeksOnRelease": "3"
         },
         {
@@ -193,22 +193,22 @@
           "url": "https://music.apple.com/au/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 3,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 4,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "Olivia Dean",
@@ -229,22 +229,22 @@
           "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
         },
         {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 7,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 8,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
           "artist": "Taylor Swift",
@@ -268,7 +268,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 12 Nov 2026 11:00:56 +0000",
+        "observedAt": "Fri, 13 Nov 2026 10:54:34 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "b95a0bfad32730aa8dea008de9539f8fb836a78d146d2a6ae1c8d0b89607b44b",
+  "contentHash": "3bb6ee6fe42015928864765ee54c50c6f379657c221c163450f1860520a3d719",
   "country": "AU",
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T10:59:33Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T10:54:04Z",
   "schemaVersion": 1
 }

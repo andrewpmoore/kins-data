@@ -129,7 +129,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-11-12T10:59:33Z",
+        "observedAt": "2026-11-13T10:54:04Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -233,7 +233,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 12 Nov 2026 10:59:59 +0000",
+        "observedAt": "Fri, 13 Nov 2026 10:54:05 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -387,7 +387,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-11-12T10:59:33Z",
+        "observedAt": "2026-11-13T10:54:04Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -396,9 +396,9 @@
       "year": 2025
     }
   },
-  "contentHash": "872fc04a7ac7d09a53e1f11b37a53ac71ec1b88e9546cec799ee56bed9aac858",
+  "contentHash": "ae517d6954efde57c265ec2aa625797def8a52c1ac4559195160d4ae1221b636",
   "country": "GB",
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T10:59:33Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T10:54:04Z",
   "schemaVersion": 1
 }

@@ -67,13 +67,13 @@
           "url": "https://music.apple.com/ca/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "STELLA LEFTY",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
-          "id": "1884403093",
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
           "rank": 8,
-          "releaseDate": "2026-03-27",
-          "title": "Boston",
-          "url": "https://music.apple.com/ca/album/boston/1884403092?i=1884403093"
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/ca/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -85,19 +85,19 @@
           "url": "https://music.apple.com/ca/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
+          "artist": "STELLA LEFTY",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
+          "id": "1884403093",
           "rank": 10,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/ca/album/the-cure/1889992111?i=1889992123"
+          "releaseDate": "2026-03-27",
+          "title": "Boston",
+          "url": "https://music.apple.com/ca/album/boston/1884403092?i=1884403093"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 12 Nov 2026 11:00:55 +0000",
+        "observedAt": "Fri, 13 Nov 2026 10:54:34 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-11-12T10:59:33Z",
+        "observedAt": "2026-11-13T10:54:04Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "ac735d617de48d1a8be6af007031f70ae833133b4d594f235b876b62ea559abb",
+  "contentHash": "ed04215db6ff5ce8855a4f1c6dba8ee74291b47b87c69fa4673a068fdddd26cf",
   "country": "CA",
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T10:59:33Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T10:54:04Z",
   "schemaVersion": 1
 }

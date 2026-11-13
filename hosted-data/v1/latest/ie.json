@@ -40,13 +40,13 @@
           "url": "https://music.apple.com/ie/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085056",
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
           "rank": 5,
-          "releaseDate": "2026-08-18",
-          "title": "Marianne",
-          "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/ie/album/babydoll/6794168372?i=6794168373"
         },
         {
           "artist": "Ella Langley",
@@ -58,13 +58,13 @@
           "url": "https://music.apple.com/ie/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Jamie Miller",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
-          "id": "6794168373",
+          "artist": "Fontaines D.C.",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+          "id": "6792085056",
           "rank": 7,
-          "releaseDate": "2026-08-07",
-          "title": "Babydoll",
-          "url": "https://music.apple.com/ie/album/babydoll/6794168372?i=6794168373"
+          "releaseDate": "2026-08-18",
+          "title": "Marianne",
+          "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
         },
         {
           "artist": "Kingfishr",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 12 Nov 2026 11:00:56 +0000",
+        "observedAt": "Fri, 13 Nov 2026 10:54:35 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-11-12T10:59:33Z",
+        "observedAt": "2026-11-13T10:54:04Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "318c6bc5f28c651445643e2ae64fc9af5f414bc21adde2e98bea06c196dfbbd1",
+  "contentHash": "e175b520349384b5c01d527bf2a61554a2bc4b8d951ec96f45e8e5aa73c99013",
   "country": "IE",
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T10:59:33Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T10:54:04Z",
   "schemaVersion": 1
 }

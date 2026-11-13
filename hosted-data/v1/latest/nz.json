@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-12",
+      "id": "bookhub-nielsen-indie-2026-11-13",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-12",
+        "observedAt": "2026-11-13",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -124,84 +124,84 @@
       "id": "box-office-mojo-nz-2026-11-08",
       "items": [
         {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "Sony Pictures Releasing",
           "rank": 1,
+          "title": "Ramayana",
+          "url": "https://www.boxofficemojo.com/release/rl3865411841/?ref_=bo_we_table_1",
+          "weekendGross": "$194,170",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "STX International",
+          "rank": 2,
+          "title": "Wicker",
+          "url": "https://www.boxofficemojo.com/release/rl3882189057/?ref_=bo_we_table_2",
+          "weekendGross": "$147,920",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Sugoi Co",
+          "rank": 3,
+          "title": "Godzilla Minus Zero",
+          "url": "https://www.boxofficemojo.com/release/rl3630530817/?ref_=bo_we_table_3",
+          "weekendGross": "$86,048",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 4,
           "title": "Wild Horse Nine",
-          "url": "https://www.boxofficemojo.com/release/rl2724364545/?ref_=bo_we_table_1",
+          "url": "https://www.boxofficemojo.com/release/rl2724364545/?ref_=bo_we_table_4",
           "weekendGross": "$74,707",
           "weeksOnRelease": "1"
         },
         {
-          "distributor": "Amazon MGM Studios",
-          "rank": 2,
-          "title": "Ali G: Who Iz I? (Limited release)",
-          "url": "https://www.boxofficemojo.com/release/rl861831425/?ref_=bo_we_table_2",
-          "weekendGross": "$27,574",
-          "weeksOnRelease": "3"
-        },
-        {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 3,
-          "title": "Sense and Sensibility",
-          "url": "https://www.boxofficemojo.com/release/rl2153152769/?ref_=bo_we_table_3",
-          "weekendGross": "$20,207",
-          "weeksOnRelease": "4"
-        },
-        {
-          "distributor": "Amazon MGM Studios",
-          "rank": 4,
-          "title": "Verity",
-          "url": "https://www.boxofficemojo.com/release/rl2992013569/?ref_=bo_we_table_4",
-          "weekendGross": "$11,447",
-          "weeksOnRelease": "6"
-        },
-        {
-          "distributor": "Universal Pictures International (UPI)",
+          "distributor": "A24",
           "rank": 5,
-          "title": "Forgotten Island",
-          "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_5",
-          "weekendGross": "$7,006",
-          "weeksOnRelease": "8"
-        },
-        {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 6,
-          "title": "Other Mommy",
-          "url": "https://www.boxofficemojo.com/release/rl341475585/?ref_=bo_we_table_6",
-          "weekendGross": "$1,036",
-          "weeksOnRelease": "5"
-        },
-        {
-          "distributor": "Walt Disney Pictures",
-          "rank": 7,
-          "title": "Everest: The Other Side",
-          "url": "https://www.boxofficemojo.com/release/rl1080131841/?ref_=bo_we_table_7",
-          "weekendGross": "$884",
+          "title": "Primetime",
+          "url": "https://www.boxofficemojo.com/release/rl3831595265/?ref_=bo_we_table_5",
+          "weekendGross": "$47,688",
           "weeksOnRelease": "2"
         },
         {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "Kismet Movies",
+          "rank": 6,
+          "title": "Wildwood",
+          "url": "https://www.boxofficemojo.com/release/rl3546251521/?ref_=bo_we_table_6",
+          "weekendGross": "$45,272",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "StudioCanal",
+          "rank": 7,
+          "title": "Pressure",
+          "url": "https://www.boxofficemojo.com/release/rl3848372481/?ref_=bo_we_table_7",
+          "weekendGross": "$35,377",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Paramount Pictures International",
           "rank": 8,
-          "title": "Whalefall",
-          "url": "https://www.boxofficemojo.com/release/rl3193798913/?ref_=bo_we_table_8",
-          "weekendGross": "$876",
-          "weeksOnRelease": "4"
+          "title": "Heart of the Beast",
+          "url": "https://www.boxofficemojo.com/release/rl145588225/?ref_=bo_we_table_8",
+          "weekendGross": "$34,835",
+          "weeksOnRelease": "7"
         },
         {
-          "distributor": "Universal Pictures International (UPI)",
+          "distributor": "Warner Bros.",
           "rank": 9,
-          "title": "The Odyssey",
-          "url": "https://www.boxofficemojo.com/release/rl4165042433/?ref_=bo_we_table_9",
-          "weekendGross": "$798",
-          "weeksOnRelease": "17"
+          "title": "Clayface",
+          "url": "https://www.boxofficemojo.com/release/rl828276993/?ref_=bo_we_table_9",
+          "weekendGross": "$34,713",
+          "weeksOnRelease": "3"
         },
         {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "Amazon MGM Studios",
           "rank": 10,
-          "title": "Cars",
-          "url": "https://www.boxofficemojo.com/release/rl1313767681/?ref_=bo_we_table_10",
-          "weekendGross": "$7",
-          "weeksOnRelease": "10"
+          "title": "Ali G: Who Iz I? (Limited release)",
+          "url": "https://www.boxofficemojo.com/release/rl861831425/?ref_=bo_we_table_10",
+          "weekendGross": "$27,574",
+          "weeksOnRelease": "3"
         }
       ],
       "reportPeriod": "November 5-8, 2026",
@@ -231,20 +231,20 @@
         {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609507",
+          "id": "1817609509",
           "rank": 2,
-          "releaseDate": "2026-09-26",
-          "title": "So Easy (To Fall In Love)",
-          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
+          "id": "1817609507",
           "rank": 3,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
           "artist": "Tate McRae",
@@ -274,19 +274,10 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 7,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
@@ -294,26 +285,35 @@
         {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
-          "rank": 9,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/nz/album/the-cure/1889992111?i=1889992123"
+          "id": "1889992115",
+          "rank": 8,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
           "id": "1814620247",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2025-05-30",
           "title": "Nice To Each Other",
           "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992123",
+          "rank": 10,
+          "releaseDate": "2026-05-22",
+          "title": "the cure",
+          "url": "https://music.apple.com/nz/album/the-cure/1889992111?i=1889992123"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 12 Nov 2026 11:00:57 +0000",
+        "observedAt": "Fri, 13 Nov 2026 10:54:36 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -476,9 +476,9 @@
       "year": 2025
     }
   },
-  "contentHash": "29299b49a42761d1a0b5be0a22d0ea19907ae73dae76dc980d23241b5c85c8f0",
+  "contentHash": "db3454758df6b6d5df0aa1787081f047e448e338b52e385d3d1c14c8271c7f44",
   "country": "NZ",
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T10:59:33Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T10:54:04Z",
   "schemaVersion": 1
 }
