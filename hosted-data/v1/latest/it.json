@@ -31,13 +31,13 @@
           "weekendGrossEUR": 898824.09
         },
         {
-          "admissions": 115933,
+          "admissions": 115855,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
           "rank": 4,
           "releaseDate": "2026-10-29",
           "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-          "weekendGrossEUR": 853918.14
+          "weekendGrossEUR": 853500.14
         },
         {
           "admissions": 108646,
@@ -181,28 +181,28 @@
           "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         },
         {
+          "artist": "Gazzelle",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/97/d5/3e97d52b-7cda-ee97-dc0f-d69427315474/1200220424696.jpg/100x100bb.jpg",
+          "id": "6830255079",
+          "rank": 9,
+          "releaseDate": "2026-11-13",
+          "title": "Ogni volta che sei qui",
+          "url": "https://music.apple.com/it/album/ogni-volta-che-sei-qui/6830255078?i=6830255079"
+        },
+        {
           "artist": "Shiva & Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ea/96/98ea96e6-0491-53e6-d04a-91159127bd2f/196874139097.jpg/100x100bb.jpg",
           "id": "1891320360",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-04-09",
           "title": "Bad Bad Bad",
           "url": "https://music.apple.com/it/album/bad-bad-bad/1891320348?i=1891320360"
-        },
-        {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
-          "id": "1861451640",
-          "rank": 10,
-          "releaseDate": "2026-01-16",
-          "title": "2 GIORNI DI FILA (feat. Sfera Ebbasta, Anna)",
-          "url": "https://music.apple.com/it/album/2-giorni-di-fila-feat-sfera-ebbasta-anna/1861451633?i=1861451640"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 13 Nov 2026 10:55:32 +0000",
+        "observedAt": "Sat, 14 Nov 2026 10:20:42 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-13T10:54:04Z",
+        "observedAt": "2026-11-14T10:18:22Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "a72f4b8166b412517e4fc86cbb9cbba72c8bfea3026da91ec66d9609a83ed832",
+  "contentHash": "562ec894e2e19c3ad4084516bdf45705af9a07ac63631c5eb138d237fb42832c",
   "country": "IT",
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T10:54:04Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T10:18:22Z",
   "schemaVersion": 1
 }

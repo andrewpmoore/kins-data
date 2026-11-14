@@ -76,28 +76,28 @@
           "url": "https://music.apple.com/ca/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 9,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/ca/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
           "artist": "STELLA LEFTY",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
           "id": "1884403093",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-03-27",
           "title": "Boston",
           "url": "https://music.apple.com/ca/album/boston/1884403092?i=1884403093"
+        },
+        {
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
+          "rank": 10,
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/ca/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 13 Nov 2026 10:54:34 +0000",
+        "observedAt": "Sat, 14 Nov 2026 10:18:27 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-11-13T10:54:04Z",
+        "observedAt": "2026-11-14T10:18:22Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "ed04215db6ff5ce8855a4f1c6dba8ee74291b47b87c69fa4673a068fdddd26cf",
+  "contentHash": "22ecf6f5cdd5c221b222d871ac36f3109565707b9d2755e2f1d18e56c284f453",
   "country": "CA",
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T10:54:04Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T10:18:22Z",
   "schemaVersion": 1
 }

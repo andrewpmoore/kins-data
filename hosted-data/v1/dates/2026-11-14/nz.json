@@ -1,0 +1,484 @@
+{
+  "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "bookhub-nielsen-indie-2026-11-14",
+      "items": [
+        {
+          "category": "Fiction",
+          "isbn13": "9781786588821",
+          "rank": 1,
+          "title": "Peck & Peck"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9780571404728",
+          "rank": 2,
+          "title": "Partita"
+        },
+        {
+          "category": "NZ Fiction",
+          "isbn13": "9781776923199",
+          "rank": 3,
+          "title": "The Starving Bride"
+        },
+        {
+          "category": "Fantasy",
+          "isbn13": "9781037200083",
+          "rank": 4,
+          "title": "A Court of Splintered Harmony (ACOTAR #6)"
+        },
+        {
+          "category": "Children & Young Adult",
+          "isbn13": "9781037408724",
+          "rank": 5,
+          "title": "Gruffalo Granny"
+        },
+        {
+          "category": "Crime & Thrillers",
+          "isbn13": "9781911754251",
+          "rank": 6,
+          "title": "Chain Reaction: (Jack Reacher 31)"
+        },
+        {
+          "category": "International Fiction",
+          "isbn13": "9780241745953",
+          "rank": 7,
+          "title": "In One Brief Moment All Eternity"
+        },
+        {
+          "category": "Children & Young Adult",
+          "isbn13": "9781761351365",
+          "rank": 8,
+          "title": "Fight or Flight: Diary of a Wimpy Kid (21)"
+        },
+        {
+          "category": "NZ Non-fiction",
+          "isbn13": "9781988550916",
+          "rank": 9,
+          "title": "Dirty Work: The Taxpayers' Union and New Zealand's Hard Right"
+        },
+        {
+          "category": "Biography & Memoir",
+          "isbn13": "9781991142153",
+          "rank": 10,
+          "title": "Beyond the Gates of Gloriavale"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "weekly sales through participating independent booksellers",
+        "observedAt": "2026-11-14",
+        "provider": "Booksellers Aotearoa / Nielsen BookScan",
+        "territory": "NZ",
+        "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
+      },
+      "title": "Official Nielsen Indie Top 10"
+    },
+    "childrensBooks": {
+      "audience": "children",
+      "id": "booksellers-nz-children-2026-11-12",
+      "items": [
+        {
+          "creator": "Deano Yipadee & Bruce Potter",
+          "isbn13": "9781775439295",
+          "rank": 1,
+          "title": "Nee Naw's Cracker Christmas"
+        },
+        {
+          "creator": "Lynley Dodd",
+          "isbn13": "9780143504450",
+          "rank": 2,
+          "title": "Hairy Maclary from Donaldson's Dairy"
+        },
+        {
+          "creator": "Blair Cooper & Cheryl Smith",
+          "isbn13": "9780473295462",
+          "rank": 3,
+          "title": "Pee Wee the Lonely Kiwi Finds a New Friend"
+        },
+        {
+          "creator": "Lynley Dodd",
+          "isbn13": "9781776957477",
+          "rank": 4,
+          "title": "Hairy Maclary and Friends Christmas Fun"
+        },
+        {
+          "creator": "Merryn Jones & Isobel Joy Te Aho-White",
+          "isbn13": "9781990042966",
+          "rank": 5,
+          "title": "Mauri"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "NZ Children and Teens",
+        "observedAt": "2026-11-12",
+        "provider": "Booksellers Aotearoa / Nielsen BookScan",
+        "territory": "NZ",
+        "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
+      },
+      "title": "NZ Children and Teens"
+    },
+    "movies": {
+      "id": "box-office-mojo-nz-2026-11-08",
+      "items": [
+        {
+          "distributor": "Sony Pictures Releasing",
+          "rank": 1,
+          "title": "Ramayana",
+          "url": "https://www.boxofficemojo.com/release/rl3865411841/?ref_=bo_we_table_1",
+          "weekendGross": "$194,170",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "STX International",
+          "rank": 2,
+          "title": "Wicker",
+          "url": "https://www.boxofficemojo.com/release/rl3882189057/?ref_=bo_we_table_2",
+          "weekendGross": "$147,920",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Sugoi Co",
+          "rank": 3,
+          "title": "Godzilla Minus Zero",
+          "url": "https://www.boxofficemojo.com/release/rl3630530817/?ref_=bo_we_table_3",
+          "weekendGross": "$86,048",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 4,
+          "title": "Wild Horse Nine",
+          "url": "https://www.boxofficemojo.com/release/rl2724364545/?ref_=bo_we_table_4",
+          "weekendGross": "$74,707",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "A24",
+          "rank": 5,
+          "title": "Primetime",
+          "url": "https://www.boxofficemojo.com/release/rl3831595265/?ref_=bo_we_table_5",
+          "weekendGross": "$47,688",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Kismet Movies",
+          "rank": 6,
+          "title": "Wildwood",
+          "url": "https://www.boxofficemojo.com/release/rl3546251521/?ref_=bo_we_table_6",
+          "weekendGross": "$45,272",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "StudioCanal",
+          "rank": 7,
+          "title": "Pressure",
+          "url": "https://www.boxofficemojo.com/release/rl3848372481/?ref_=bo_we_table_7",
+          "weekendGross": "$35,377",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Paramount Pictures International",
+          "rank": 8,
+          "title": "Heart of the Beast",
+          "url": "https://www.boxofficemojo.com/release/rl145588225/?ref_=bo_we_table_8",
+          "weekendGross": "$34,835",
+          "weeksOnRelease": "7"
+        },
+        {
+          "distributor": "Warner Bros.",
+          "rank": 9,
+          "title": "Clayface",
+          "url": "https://www.boxofficemojo.com/release/rl828276993/?ref_=bo_we_table_9",
+          "weekendGross": "$34,713",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Amazon MGM Studios",
+          "rank": 10,
+          "title": "Ali G: Who Iz I? (Limited release)",
+          "url": "https://www.boxofficemojo.com/release/rl861831425/?ref_=bo_we_table_10",
+          "weekendGross": "$27,574",
+          "weeksOnRelease": "3"
+        }
+      ],
+      "reportPeriod": "November 5-8, 2026",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W45/?area=NZ&ref_=bo_wey_table_1",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "country weekend theatrical gross in local currency",
+        "observedAt": "2026-11-08",
+        "provider": "Box Office Mojo",
+        "territory": "NZ",
+        "url": "https://www.boxofficemojo.com/weekend/by-year/?area=NZ"
+      },
+      "title": "NZ weekend theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 1,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 2,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609507",
+          "rank": 3,
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 4,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 5,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 6,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 7,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
+        },
+        {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
+          "rank": 8,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
+          "rank": 9,
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/nz/album/babydoll/6794168372?i=6794168373"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
+          "id": "1814620247",
+          "rank": 10,
+          "releaseDate": "2025-05-30",
+          "title": "Nice To Each Other",
+          "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Sat, 14 Nov 2026 10:19:46 +0000",
+        "provider": "Apple Music",
+        "territory": "NZ",
+        "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "dia-new-zealand-baby-names",
+      "items": [
+        {
+          "category": "boy",
+          "count": 244,
+          "name": "Noah",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 236,
+          "name": "Luca",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 234,
+          "name": "Oliver",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 178,
+          "name": "George",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 173,
+          "name": "Theodore",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 168,
+          "name": "Leo",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 156,
+          "name": "Charlie",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 156,
+          "name": "Jack",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 151,
+          "name": "Elijah",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 149,
+          "name": "Theo",
+          "rank": 10,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "girl",
+          "count": 179,
+          "name": "Isla",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 178,
+          "name": "Charlotte",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 161,
+          "name": "Amelia",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 157,
+          "name": "Hazel",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 156,
+          "name": "Olivia",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 155,
+          "name": "Lily",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 135,
+          "name": "Lucy",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 131,
+          "name": "Mila",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 125,
+          "name": "Aria",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 125,
+          "name": "Mia",
+          "rank": 10,
+          "rankGroup": "girl"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national registered baby-name count by sex",
+        "observedAt": "2026-10-28T09:35:36Z",
+        "provider": "New Zealand Department of Internal Affairs",
+        "territory": "NZ",
+        "url": "https://smartstart.services.govt.nz/news/baby-names"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "da289de104bb5f9f06f4dc13ae72a963afc1f463f1a3f76b02f184fe00eb59a5",
+  "country": "NZ",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T10:18:22Z",
+  "schemaVersion": 1
+}

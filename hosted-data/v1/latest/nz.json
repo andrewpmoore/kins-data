@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-13",
+      "id": "bookhub-nielsen-indie-2026-11-14",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-13",
+        "observedAt": "2026-11-14",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -274,46 +274,46 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
-          "rank": 7,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992115",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
         },
         {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
+          "rank": 8,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
+          "rank": 9,
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/nz/album/babydoll/6794168372?i=6794168373"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
           "id": "1814620247",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2025-05-30",
           "title": "Nice To Each Other",
           "url": "https://music.apple.com/nz/album/nice-to-each-other/1814620245?i=1814620247"
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
-          "rank": 10,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/nz/album/the-cure/1889992111?i=1889992123"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 13 Nov 2026 10:54:36 +0000",
+        "observedAt": "Sat, 14 Nov 2026 10:19:46 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -476,9 +476,9 @@
       "year": 2025
     }
   },
-  "contentHash": "db3454758df6b6d5df0aa1787081f047e448e338b52e385d3d1c14c8271c7f44",
+  "contentHash": "da289de104bb5f9f06f4dc13ae72a963afc1f463f1a3f76b02f184fe00eb59a5",
   "country": "NZ",
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T10:54:04Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T10:18:22Z",
   "schemaVersion": 1
 }

@@ -211,28 +211,37 @@
           "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609507",
-          "rank": 5,
-          "releaseDate": "2026-09-26",
-          "title": "So Easy (To Fall In Love)",
-          "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
           "artist": "STELLA LEFTY",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
           "id": "1884403093",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-03-27",
           "title": "Boston",
           "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
         },
         {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609507",
+          "rank": 6,
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+        },
+        {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
+          "rank": 7,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
@@ -241,7 +250,7 @@
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
@@ -250,25 +259,16 @@
           "artist": "Taylor Swift",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
           "id": "6814997425",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-09-24",
           "title": "Patient Zero",
           "url": "https://music.apple.com/au/album/patient-zero/6814997249?i=6814997425"
-        },
-        {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
-          "rank": 10,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 13 Nov 2026 10:54:34 +0000",
+        "observedAt": "Sat, 14 Nov 2026 10:18:27 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "3bb6ee6fe42015928864765ee54c50c6f379657c221c163450f1860520a3d719",
+  "contentHash": "1c8445e3c015d1ddee4222276953933dd627a59c620c45b808851ae3b193faa6",
   "country": "AU",
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T10:54:04Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T10:18:22Z",
   "schemaVersion": 1
 }

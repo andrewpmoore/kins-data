@@ -31,22 +31,22 @@
           "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
         },
         {
-          "artist": "La Pantera & Quevedo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
-          "id": "6823633156",
-          "rank": 4,
-          "releaseDate": "2026-10-23",
-          "title": "DOGGY",
-          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338657",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-10-09",
           "title": "RIGHT NOW",
           "url": "https://music.apple.com/es/album/right-now/6817338538?i=6817338657"
+        },
+        {
+          "artist": "La Pantera & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
+          "id": "6823633156",
+          "rank": 5,
+          "releaseDate": "2026-10-23",
+          "title": "DOGGY",
+          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
         },
         {
           "artist": "Lucho RK",
@@ -67,13 +67,13 @@
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338666",
+          "artist": "Myke Towers",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/01/e0/5e01e0f6-91a6-d923-2495-855a4610485f/1200220330331.jpg/100x100bb.jpg",
+          "id": "6823686094",
           "rank": 8,
-          "releaseDate": "2026-10-09",
-          "title": "SORDO DE UN PIE (interludio)",
-          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
+          "releaseDate": "2026-10-21",
+          "title": "Te Imagino",
+          "url": "https://music.apple.com/es/album/te-imagino/6823686091?i=6823686094"
         },
         {
           "artist": "Lucho RK",
@@ -85,19 +85,19 @@
           "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
         },
         {
-          "artist": "La Pantera",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/20/cb/7c20cb3d-bc04-11d8-7279-bdbd64f65c9b/1200220406135.jpg/100x100bb.jpg",
-          "id": "6830310930",
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338666",
           "rank": 10,
-          "releaseDate": "2026-11-06",
-          "title": "SHARINGAN",
-          "url": "https://music.apple.com/es/album/sharingan/6830310676?i=6830310930"
+          "releaseDate": "2026-10-09",
+          "title": "SORDO DE UN PIE (interludio)",
+          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 13 Nov 2026 10:55:30 +0000",
+        "observedAt": "Sat, 14 Nov 2026 10:20:16 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-13T10:54:04Z",
+        "observedAt": "2026-11-14T10:18:22Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -260,9 +260,9 @@
       "year": 2024
     }
   },
-  "contentHash": "a2e8802b73aca2dd13ac3b00554941c01c0fda5d3b36d5fb927ec8afaa412462",
+  "contentHash": "497d6e7aa067a5f362f10ef8b52e5e7b71870278060bc90230ecda16f90dc102",
   "country": "ES",
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T10:54:04Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T10:18:22Z",
   "schemaVersion": 1
 }

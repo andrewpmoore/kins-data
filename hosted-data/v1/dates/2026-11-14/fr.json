@@ -1,0 +1,268 @@
+{
+  "charts": {
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "SDM & Ninho",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216698",
+          "rank": 1,
+          "releaseDate": "2026-11-13",
+          "title": "BANTU MENTALITÉ",
+          "url": "https://music.apple.com/fr/album/bantu-mentalit%C3%A9/6816215989?i=6816216698"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216709",
+          "rank": 2,
+          "releaseDate": "2026-11-13",
+          "title": "ÇA CHAUFFE",
+          "url": "https://music.apple.com/fr/album/%C3%A7a-chauffe/6816215989?i=6816216709"
+        },
+        {
+          "artist": "SDM & SCH",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216707",
+          "rank": 3,
+          "releaseDate": "2026-11-13",
+          "title": "6.35",
+          "url": "https://music.apple.com/fr/album/6-35/6816215989?i=6816216707"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216702",
+          "rank": 4,
+          "releaseDate": "2026-11-13",
+          "title": "GRAND PALACE",
+          "url": "https://music.apple.com/fr/album/grand-palace/6816215989?i=6816216702"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216434",
+          "rank": 5,
+          "releaseDate": "2026-11-13",
+          "title": "I.G",
+          "url": "https://music.apple.com/fr/album/i-g/6816215989?i=6816216434"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216006",
+          "rank": 6,
+          "releaseDate": "2026-11-13",
+          "title": "RÉEL",
+          "url": "https://music.apple.com/fr/album/r%C3%A9el/6816215989?i=6816216006"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216414",
+          "rank": 7,
+          "releaseDate": "2026-11-13",
+          "title": "QUAND LE SOLEIL SE LÈVE",
+          "url": "https://music.apple.com/fr/album/quand-le-soleil-se-l%C3%A8ve/6816215989?i=6816216414"
+        },
+        {
+          "artist": "Vacra & La Rvfleuze",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/50/f0/8350f0d2-eb4f-c247-5294-b5bdcb550c7e/cover.jpg/100x100bb.jpg",
+          "id": "6809781929",
+          "rank": 8,
+          "releaseDate": "2026-09-18",
+          "title": "Fille à Papa",
+          "url": "https://music.apple.com/fr/album/fille-a-papa/6809781922?i=6809781929"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216719",
+          "rank": 9,
+          "releaseDate": "2026-11-13",
+          "title": "LE MSG",
+          "url": "https://music.apple.com/fr/album/le-msg/6816215989?i=6816216719"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216912",
+          "rank": 10,
+          "releaseDate": "2026-11-13",
+          "title": "LE NINE",
+          "url": "https://music.apple.com/fr/album/le-nine/6816215989?i=6816216912"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Sat, 14 Nov 2026 10:20:13 +0000",
+        "provider": "Apple Music",
+        "territory": "FR",
+        "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
+      },
+      "title": "Classement des morceaux"
+    },
+    "names": {
+      "id": "insee-prenoms-national",
+      "items": [
+        {
+          "category": "boy",
+          "count": 4625,
+          "name": "Gabriel",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3465,
+          "name": "Noah",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3420,
+          "name": "Léo",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3285,
+          "name": "Raphaël",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3260,
+          "name": "Louis",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 3040,
+          "name": "Jules",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2875,
+          "name": "Arthur",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2835,
+          "name": "Léon",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2810,
+          "name": "Adam",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2700,
+          "name": "Maël",
+          "rank": 10,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "girl",
+          "count": 3070,
+          "name": "Louise",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2925,
+          "name": "Jade",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2805,
+          "name": "Ambre",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2500,
+          "name": "Alma",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2360,
+          "name": "Alba",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2320,
+          "name": "Rose",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2310,
+          "name": "Emma",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2245,
+          "name": "Romy",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2225,
+          "name": "Adèle",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2130,
+          "name": "Alice",
+          "rank": 10,
+          "rankGroup": "girl"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national birth-name rank by sex; counts rounded to nearest five",
+        "observedAt": "2026-11-14T10:18:22Z",
+        "provider": "INSEE",
+        "territory": "FR",
+        "url": "https://www.insee.fr/fr/statistiques/8595130"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "bba702bc678c12f21b9d37790344c132262140f022e55bd3a41dad03e306fa54",
+  "country": "FR",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T10:18:22Z",
+  "schemaVersion": 1
+}

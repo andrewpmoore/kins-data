@@ -487,7 +487,7 @@
           "startDate": "2026-10-02"
         },
         {
-          "endDate": "2026-11-12",
+          "endDate": "2026-11-19",
           "items": [
             {
               "artist": "Tate McRae",
@@ -501,7 +501,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-06",
+        "observedAt": "2026-11-13",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -509,7 +509,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "45f3c27a3f6d6d983d42fe8657c84d17b4aa5ac7e39714aa3ef039bb0a8be5df",
+  "contentHash": "96646432f03b628cde1039e3cad029a007777388d05962a833c202b05be095c2",
   "country": "de",
   "schemaVersion": 1,
   "year": 2026

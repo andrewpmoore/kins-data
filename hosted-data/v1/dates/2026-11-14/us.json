@@ -1,0 +1,474 @@
+{
+  "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "publishers-weekly-adult-2026-11-09",
+      "items": [
+        {
+          "creator": "Dav Pilkey, Dav Pilkey",
+          "isbn13": "9781546199359",
+          "rank": 1,
+          "title": "Dog Man: A Sprinkle in Time: A Graphic Novel (Dog Man #15): From the Creator of Captain Underpants: Volume 15"
+        },
+        {
+          "creator": "Sarah J Maas",
+          "isbn13": "9781639739134",
+          "rank": 2,
+          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "isbn13": "9781419782701",
+          "rank": 3,
+          "title": "Fight or Flight (Diary of a Wimpy Kid #21): Volume 21"
+        },
+        {
+          "creator": "Tini Younger",
+          "isbn13": "9798217035410",
+          "rank": 4,
+          "title": "Today We Are Cooking . . .: Recipes That Teach You to Think Like a Chef"
+        },
+        {
+          "creator": "Allen Levi",
+          "isbn13": "9781668236512",
+          "rank": 5,
+          "title": "Theo of Golden"
+        },
+        {
+          "creator": "Cassandra Clare",
+          "isbn13": "9780593903476",
+          "rank": 6,
+          "title": "The Last King of Faerie: A Shadowhunters Novel",
+          "url": "https://www.publishersweekly.com/9780593903476"
+        },
+        {
+          "creator": "Philip Anthony Mitchell",
+          "isbn13": "9781400356829",
+          "rank": 7,
+          "title": "Contend: Standing Boldly for Biblical Truth in an Age of Compromise"
+        },
+        {
+          "creator": "Holly Black",
+          "isbn13": "9780316592642",
+          "rank": 8,
+          "title": "A Conspiracy of Charming Monsters: Illustrated Tales from Elfhame"
+        },
+        {
+          "creator": "Jennifer Lynn Barnes",
+          "isbn13": "9780316606172",
+          "rank": 9,
+          "title": "Dangerous Impulses (Deluxe Limited Edition) (Special)"
+        },
+        {
+          "creator": "Caroline Peckham, Susanne Valenti",
+          "isbn13": "9781916926868",
+          "rank": 10,
+          "title": "Lightwing (Book 2 in the Crown of Hearts & Chaos Series)"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Top 10 Overall",
+        "observedAt": "2026-11-09",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
+      },
+      "title": "Circana BookScan Top 10 Overall"
+    },
+    "childrensBooks": {
+      "audience": "children",
+      "id": "publishers-weekly-children-2026-11-09",
+      "items": [
+        {
+          "creator": "Dav Pilkey, Dav Pilkey",
+          "isbn13": "9781546199359",
+          "rank": 1,
+          "title": "Dog Man: A Sprinkle in Time: A Graphic Novel (Dog Man #15): From the Creator of Captain Underpants: Volume 15"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "isbn13": "9781419782701",
+          "rank": 2,
+          "title": "Fight or Flight (Diary of a Wimpy Kid #21): Volume 21"
+        },
+        {
+          "creator": "Cassandra Clare",
+          "isbn13": "9780593903476",
+          "rank": 3,
+          "title": "The Last King of Faerie: A Shadowhunters Novel",
+          "url": "https://www.publishersweekly.com/9780593903476"
+        },
+        {
+          "creator": "Holly Black",
+          "isbn13": "9780316592642",
+          "rank": 4,
+          "title": "A Conspiracy of Charming Monsters: Illustrated Tales from Elfhame"
+        },
+        {
+          "creator": "Jennifer Lynn Barnes",
+          "isbn13": "9780316606172",
+          "rank": 5,
+          "title": "Dangerous Impulses (Deluxe Limited Edition) (Special)"
+        },
+        {
+          "creator": "Suzanne Collins",
+          "isbn13": "9781546171461",
+          "rank": 6,
+          "title": "Sunrise on the Reaping (the Hunger Games)",
+          "url": "https://www.publishersweekly.com/9781546171461"
+        },
+        {
+          "creator": "Suzanne Collins",
+          "isbn13": "9798225044473",
+          "rank": 7,
+          "title": "Sunrise on the Reaping (a Hunger Games Novel): Movie Tie-In Edition"
+        },
+        {
+          "creator": "Raina Telgemeier, Adapted by, Raina Telgemeier, Gale Galligan, Adapted by, Gale Galligan, Ann M Martin",
+          "isbn13": "9781546174363",
+          "rank": 8,
+          "title": "Baby-Sitters on Board!: A Graphic Novel (the Baby-Sitters Club Super Special #1)"
+        },
+        {
+          "creator": "Lynn Painter",
+          "isbn13": "9798347100217",
+          "rank": 9,
+          "title": "Trust Fall",
+          "url": "https://www.publishersweekly.com/9798347100217"
+        },
+        {
+          "creator": "Misty Wilson",
+          "isbn13": "9781665989824",
+          "rank": 10,
+          "title": "Falling Like Snow"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Children's Frontlist Fiction",
+        "observedAt": "2026-11-09",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
+      },
+      "title": "Circana BookScan Children's Frontlist Fiction"
+    },
+    "movies": {
+      "id": "the-numbers-us-2026-11-06",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Godzilla Minus Zero",
+          "totalGross": "$30,637,997",
+          "url": "https://www.the-numbers.com/movie/Godzilla-Minus-Zero-(2026-Japan)",
+          "weekendGross": "$30,637,997"
+        },
+        {
+          "rank": 2,
+          "title": "The Cat in the Hat",
+          "totalGross": "$20,002,705",
+          "url": "https://www.the-numbers.com/movie/Cat-in-the-Hat-The-(2026)",
+          "weekendGross": "$20,002,705"
+        },
+        {
+          "rank": 3,
+          "title": "Drummer Boy",
+          "totalGross": "$9,421,843",
+          "url": "https://www.the-numbers.com/movie/Drummer-Boy-(2026)",
+          "weekendGross": "$9,421,843"
+        },
+        {
+          "rank": 4,
+          "title": "Ramayana: Rise of a Legend",
+          "totalGross": "$12,445,187",
+          "url": "https://www.the-numbers.com/movie/Ramayana-Part-1-(2026-India)",
+          "weekendGross": "$8,939,505"
+        },
+        {
+          "rank": 5,
+          "title": "You Can See Everything",
+          "totalGross": "$79,377,012",
+          "url": "https://www.the-numbers.com/movie/You-Can-See-Everything-(2026)",
+          "weekendGross": "$8,442,462"
+        },
+        {
+          "rank": 6,
+          "title": "Wildwood",
+          "totalGross": "$40,081,665",
+          "url": "https://www.the-numbers.com/movie/Wildwood-(2026)",
+          "weekendGross": "$7,245,718"
+        },
+        {
+          "rank": 7,
+          "title": "Clayface",
+          "totalGross": "$56,660,568",
+          "url": "https://www.the-numbers.com/movie/Clayface-(2026)",
+          "weekendGross": "$6,728,001"
+        },
+        {
+          "rank": 8,
+          "title": "Wild Horse Nine",
+          "totalGross": "$5,906,410",
+          "url": "https://www.the-numbers.com/movie/Wild-Horse-Nine-(2026-United-Kingdom)",
+          "weekendGross": "$5,906,410"
+        }
+      ],
+      "reportPeriod": "2026-11-06/2026-11-08",
+      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/11/06",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "US theatrical weekend gross",
+        "observedAt": "2026-11-08",
+        "provider": "The Numbers",
+        "territory": "US",
+        "url": "https://www.the-numbers.com/box-office"
+      },
+      "title": "US weekend theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 1,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 2,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 3,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+          "id": "6792676860",
+          "rank": 4,
+          "releaseDate": "2026-07-24",
+          "title": "Been By Now",
+          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/100x100bb.jpg",
+          "id": "6790569133",
+          "rank": 5,
+          "releaseDate": "2026-07-17",
+          "title": "Dead Fresh",
+          "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+        },
+        {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
+          "rank": 6,
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Future",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/7c/cb/5f7ccb13-1490-5b92-f78b-d1a0f665a07e/196874972953.jpg/100x100bb.jpg",
+          "id": "6831506154",
+          "rank": 7,
+          "releaseDate": "2026-11-06",
+          "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+          "url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154"
+        },
+        {
+          "artist": "Drake & Don Toliver",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209989",
+          "rank": 8,
+          "releaseDate": "2026-10-02",
+          "title": "Solar Eclipse",
+          "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
+        },
+        {
+          "artist": "Zach Bryan & Lana Del Rey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+          "id": "6822944296",
+          "rank": 9,
+          "releaseDate": "2026-10-15",
+          "title": "Lies (feat. Lana Del Rey)",
+          "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+          "id": "6812477290",
+          "rank": 10,
+          "releaseDate": "2026-09-17",
+          "title": "Last Thing You Need",
+          "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Sat, 14 Nov 2026 10:18:26 +0000",
+        "provider": "Apple Music",
+        "territory": "US",
+        "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "ssa-national-baby-names",
+      "items": [
+        {
+          "category": "girl",
+          "name": "Olivia",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Charlotte",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Emma",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Amelia",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sophia",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Mia",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Isabella",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Evelyn",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sofia",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Eliana",
+          "rank": 10,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "boy",
+          "name": "Liam",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Noah",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Oliver",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Theodore",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Henry",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "James",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Elijah",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Mateo",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "William",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Lucas",
+          "rank": 10,
+          "rankGroup": "boy"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
+        "observedAt": "2026-11-14T10:18:22Z",
+        "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
+        "territory": "US",
+        "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "9e08893f8254779af28f3fde9b6d995b6daf6f046e85790c6deb40f6c86f8288",
+  "country": "US",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T10:18:22Z",
+  "schemaVersion": 1
+}
