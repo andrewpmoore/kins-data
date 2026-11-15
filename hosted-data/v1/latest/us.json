@@ -154,78 +154,6 @@
       },
       "title": "Circana BookScan Children's Frontlist Fiction"
     },
-    "movies": {
-      "id": "the-numbers-us-2026-11-06",
-      "items": [
-        {
-          "rank": 1,
-          "title": "Godzilla Minus Zero",
-          "totalGross": "$30,637,997",
-          "url": "https://www.the-numbers.com/movie/Godzilla-Minus-Zero-(2026-Japan)",
-          "weekendGross": "$30,637,997"
-        },
-        {
-          "rank": 2,
-          "title": "The Cat in the Hat",
-          "totalGross": "$20,002,705",
-          "url": "https://www.the-numbers.com/movie/Cat-in-the-Hat-The-(2026)",
-          "weekendGross": "$20,002,705"
-        },
-        {
-          "rank": 3,
-          "title": "Drummer Boy",
-          "totalGross": "$9,421,843",
-          "url": "https://www.the-numbers.com/movie/Drummer-Boy-(2026)",
-          "weekendGross": "$9,421,843"
-        },
-        {
-          "rank": 4,
-          "title": "Ramayana: Rise of a Legend",
-          "totalGross": "$12,445,187",
-          "url": "https://www.the-numbers.com/movie/Ramayana-Part-1-(2026-India)",
-          "weekendGross": "$8,939,505"
-        },
-        {
-          "rank": 5,
-          "title": "You Can See Everything",
-          "totalGross": "$79,377,012",
-          "url": "https://www.the-numbers.com/movie/You-Can-See-Everything-(2026)",
-          "weekendGross": "$8,442,462"
-        },
-        {
-          "rank": 6,
-          "title": "Wildwood",
-          "totalGross": "$40,081,665",
-          "url": "https://www.the-numbers.com/movie/Wildwood-(2026)",
-          "weekendGross": "$7,245,718"
-        },
-        {
-          "rank": 7,
-          "title": "Clayface",
-          "totalGross": "$56,660,568",
-          "url": "https://www.the-numbers.com/movie/Clayface-(2026)",
-          "weekendGross": "$6,728,001"
-        },
-        {
-          "rank": 8,
-          "title": "Wild Horse Nine",
-          "totalGross": "$5,906,410",
-          "url": "https://www.the-numbers.com/movie/Wild-Horse-Nine-(2026-United-Kingdom)",
-          "weekendGross": "$5,906,410"
-        }
-      ],
-      "reportPeriod": "2026-11-06/2026-11-08",
-      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/11/06",
-      "source": {
-        "kind": "theatricalBoxOffice",
-        "metric": "US theatrical weekend gross",
-        "observedAt": "2026-11-08",
-        "provider": "The Numbers",
-        "territory": "US",
-        "url": "https://www.the-numbers.com/box-office"
-      },
-      "title": "US weekend theatrical box office"
-    },
     "music": {
       "id": "apple-music-most-played",
       "items": [
@@ -266,31 +194,31 @@
           "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
         },
         {
-          "artist": "Lil Baby",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/100x100bb.jpg",
-          "id": "6790569133",
-          "rank": 5,
-          "releaseDate": "2026-07-17",
-          "title": "Dead Fresh",
-          "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
-        },
-        {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
         },
         {
-          "artist": "Future",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/7c/cb/5f7ccb13-1490-5b92-f78b-d1a0f665a07e/196874972953.jpg/100x100bb.jpg",
-          "id": "6831506154",
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/100x100bb.jpg",
+          "id": "6790569133",
+          "rank": 6,
+          "releaseDate": "2026-07-17",
+          "title": "Dead Fresh",
+          "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+        },
+        {
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
           "rank": 7,
-          "releaseDate": "2026-11-06",
-          "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
-          "url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154"
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
         },
         {
           "artist": "Drake & Don Toliver",
@@ -302,28 +230,28 @@
           "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
         },
         {
-          "artist": "Zach Bryan & Lana Del Rey",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-          "id": "6822944296",
-          "rank": 9,
-          "releaseDate": "2026-10-15",
-          "title": "Lies (feat. Lana Del Rey)",
-          "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
-        },
-        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
           "id": "6812477290",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-09-17",
           "title": "Last Thing You Need",
           "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+        },
+        {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
+          "id": "1648587330",
+          "rank": 10,
+          "releaseDate": "2022-04-08",
+          "title": "In A Minute",
+          "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 14 Nov 2026 10:18:26 +0000",
+        "observedAt": "Sun, 15 Nov 2026 10:47:58 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -457,7 +385,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-14T10:18:22Z",
+        "observedAt": "2026-11-15T10:47:06Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -466,9 +394,9 @@
       "year": 2025
     }
   },
-  "contentHash": "9e08893f8254779af28f3fde9b6d995b6daf6f046e85790c6deb40f6c86f8288",
+  "contentHash": "5476b3316f338625fadeafb2b4a6d2e254129f2d5f15d17cc355c6023b1b4245",
   "country": "US",
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T10:18:22Z",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T10:47:06Z",
   "schemaVersion": 1
 }

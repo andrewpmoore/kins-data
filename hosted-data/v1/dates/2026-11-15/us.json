@@ -1,0 +1,402 @@
+{
+  "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "publishers-weekly-adult-2026-11-09",
+      "items": [
+        {
+          "creator": "Dav Pilkey, Dav Pilkey",
+          "isbn13": "9781546199359",
+          "rank": 1,
+          "title": "Dog Man: A Sprinkle in Time: A Graphic Novel (Dog Man #15): From the Creator of Captain Underpants: Volume 15"
+        },
+        {
+          "creator": "Sarah J Maas",
+          "isbn13": "9781639739134",
+          "rank": 2,
+          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "isbn13": "9781419782701",
+          "rank": 3,
+          "title": "Fight or Flight (Diary of a Wimpy Kid #21): Volume 21"
+        },
+        {
+          "creator": "Tini Younger",
+          "isbn13": "9798217035410",
+          "rank": 4,
+          "title": "Today We Are Cooking . . .: Recipes That Teach You to Think Like a Chef"
+        },
+        {
+          "creator": "Allen Levi",
+          "isbn13": "9781668236512",
+          "rank": 5,
+          "title": "Theo of Golden"
+        },
+        {
+          "creator": "Cassandra Clare",
+          "isbn13": "9780593903476",
+          "rank": 6,
+          "title": "The Last King of Faerie: A Shadowhunters Novel",
+          "url": "https://www.publishersweekly.com/9780593903476"
+        },
+        {
+          "creator": "Philip Anthony Mitchell",
+          "isbn13": "9781400356829",
+          "rank": 7,
+          "title": "Contend: Standing Boldly for Biblical Truth in an Age of Compromise"
+        },
+        {
+          "creator": "Holly Black",
+          "isbn13": "9780316592642",
+          "rank": 8,
+          "title": "A Conspiracy of Charming Monsters: Illustrated Tales from Elfhame"
+        },
+        {
+          "creator": "Jennifer Lynn Barnes",
+          "isbn13": "9780316606172",
+          "rank": 9,
+          "title": "Dangerous Impulses (Deluxe Limited Edition) (Special)"
+        },
+        {
+          "creator": "Caroline Peckham, Susanne Valenti",
+          "isbn13": "9781916926868",
+          "rank": 10,
+          "title": "Lightwing (Book 2 in the Crown of Hearts & Chaos Series)"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Top 10 Overall",
+        "observedAt": "2026-11-09",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
+      },
+      "title": "Circana BookScan Top 10 Overall"
+    },
+    "childrensBooks": {
+      "audience": "children",
+      "id": "publishers-weekly-children-2026-11-09",
+      "items": [
+        {
+          "creator": "Dav Pilkey, Dav Pilkey",
+          "isbn13": "9781546199359",
+          "rank": 1,
+          "title": "Dog Man: A Sprinkle in Time: A Graphic Novel (Dog Man #15): From the Creator of Captain Underpants: Volume 15"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "isbn13": "9781419782701",
+          "rank": 2,
+          "title": "Fight or Flight (Diary of a Wimpy Kid #21): Volume 21"
+        },
+        {
+          "creator": "Cassandra Clare",
+          "isbn13": "9780593903476",
+          "rank": 3,
+          "title": "The Last King of Faerie: A Shadowhunters Novel",
+          "url": "https://www.publishersweekly.com/9780593903476"
+        },
+        {
+          "creator": "Holly Black",
+          "isbn13": "9780316592642",
+          "rank": 4,
+          "title": "A Conspiracy of Charming Monsters: Illustrated Tales from Elfhame"
+        },
+        {
+          "creator": "Jennifer Lynn Barnes",
+          "isbn13": "9780316606172",
+          "rank": 5,
+          "title": "Dangerous Impulses (Deluxe Limited Edition) (Special)"
+        },
+        {
+          "creator": "Suzanne Collins",
+          "isbn13": "9781546171461",
+          "rank": 6,
+          "title": "Sunrise on the Reaping (the Hunger Games)",
+          "url": "https://www.publishersweekly.com/9781546171461"
+        },
+        {
+          "creator": "Suzanne Collins",
+          "isbn13": "9798225044473",
+          "rank": 7,
+          "title": "Sunrise on the Reaping (a Hunger Games Novel): Movie Tie-In Edition"
+        },
+        {
+          "creator": "Raina Telgemeier, Adapted by, Raina Telgemeier, Gale Galligan, Adapted by, Gale Galligan, Ann M Martin",
+          "isbn13": "9781546174363",
+          "rank": 8,
+          "title": "Baby-Sitters on Board!: A Graphic Novel (the Baby-Sitters Club Super Special #1)"
+        },
+        {
+          "creator": "Lynn Painter",
+          "isbn13": "9798347100217",
+          "rank": 9,
+          "title": "Trust Fall",
+          "url": "https://www.publishersweekly.com/9798347100217"
+        },
+        {
+          "creator": "Misty Wilson",
+          "isbn13": "9781665989824",
+          "rank": 10,
+          "title": "Falling Like Snow"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "Circana BookScan Children's Frontlist Fiction",
+        "observedAt": "2026-11-09",
+        "provider": "Publishers Weekly / Circana BookScan",
+        "territory": "US",
+        "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
+      },
+      "title": "Circana BookScan Children's Frontlist Fiction"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Ella Langley",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+          "id": "1844932150",
+          "rank": 1,
+          "releaseDate": "2025-10-17",
+          "title": "Choosin' Texas",
+          "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 2,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 3,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+          "id": "6792676860",
+          "rank": 4,
+          "releaseDate": "2026-07-24",
+          "title": "Been By Now",
+          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
+          "artist": "Drake",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+          "id": "6769568596",
+          "rank": 5,
+          "releaseDate": "2026-05-15",
+          "title": "Janice STFU",
+          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/100x100bb.jpg",
+          "id": "6790569133",
+          "rank": 6,
+          "releaseDate": "2026-07-17",
+          "title": "Dead Fresh",
+          "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+        },
+        {
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
+          "rank": 7,
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+        },
+        {
+          "artist": "Drake & Don Toliver",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+          "id": "6818209989",
+          "rank": 8,
+          "releaseDate": "2026-10-02",
+          "title": "Solar Eclipse",
+          "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+          "id": "6812477290",
+          "rank": 9,
+          "releaseDate": "2026-09-17",
+          "title": "Last Thing You Need",
+          "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+        },
+        {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
+          "id": "1648587330",
+          "rank": 10,
+          "releaseDate": "2022-04-08",
+          "title": "In A Minute",
+          "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Sun, 15 Nov 2026 10:47:58 +0000",
+        "provider": "Apple Music",
+        "territory": "US",
+        "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
+      },
+      "title": "Top Songs"
+    },
+    "names": {
+      "id": "ssa-national-baby-names",
+      "items": [
+        {
+          "category": "girl",
+          "name": "Olivia",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Charlotte",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Emma",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Amelia",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sophia",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Mia",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Isabella",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Evelyn",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Sofia",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "name": "Eliana",
+          "rank": 10,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "boy",
+          "name": "Liam",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Noah",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Oliver",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Theodore",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Henry",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "James",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Elijah",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Mateo",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "William",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "name": "Lucas",
+          "rank": 10,
+          "rankGroup": "boy"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
+        "observedAt": "2026-11-15T10:47:06Z",
+        "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
+        "territory": "US",
+        "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "5476b3316f338625fadeafb2b4a6d2e254129f2d5f15d17cc355c6023b1b4245",
+  "country": "US",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T10:47:06Z",
+  "schemaVersion": 1
+}

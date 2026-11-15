@@ -129,7 +129,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-11-14T10:18:22Z",
+        "observedAt": "2026-11-15T10:47:06Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -176,10 +176,19 @@
           "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411"
         },
         {
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
+          "rank": 5,
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
+        },
+        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
@@ -188,19 +197,10 @@
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
-          "artist": "HUGEL, Imael Angel & Ultra Naté",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
-          "id": "6769070199",
-          "rank": 7,
-          "releaseDate": "2026-05-22",
-          "title": "Movin' To The Sun",
-          "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
           "artist": "Ella Langley",
@@ -221,19 +221,19 @@
           "url": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
+          "artist": "Wham!",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/100x100bb.jpg",
+          "id": "202117984",
           "rank": 10,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/gb/album/the-cure/1889992111?i=1889992123"
+          "releaseDate": "1984-12-01",
+          "title": "Last Christmas (Single Version)",
+          "url": "https://music.apple.com/gb/album/last-christmas-single-version/202117886?i=202117984"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 14 Nov 2026 10:18:24 +0000",
+        "observedAt": "Sun, 15 Nov 2026 10:47:32 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -387,7 +387,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-11-14T10:18:22Z",
+        "observedAt": "2026-11-15T10:47:06Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -396,9 +396,9 @@
       "year": 2025
     }
   },
-  "contentHash": "9aba1fbe7dec3e24023945367da9d8ed4e71a9d0a961c42e127d8ad52c4083ed",
+  "contentHash": "7e37652c66c3d7080ac18012e5dee820b258de58e138465a47b0ce6dd8fe69b6",
   "country": "GB",
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T10:18:22Z",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T10:47:06Z",
   "schemaVersion": 1
 }

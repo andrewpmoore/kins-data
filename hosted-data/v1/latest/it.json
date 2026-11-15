@@ -145,22 +145,22 @@
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
         },
         {
-          "artist": "Pinguini Tattici Nucleari",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/a0/cf/13a0cf3a-1d81-8b9c-0019-f3f302699034/196874869017.jpg/100x100bb.jpg",
-          "id": "6821912849",
-          "rank": 5,
-          "releaseDate": "2026-11-05",
-          "title": "Nella Borsa Di Anna",
-          "url": "https://music.apple.com/it/album/nella-borsa-di-anna/6821912847?i=6821912849"
-        },
-        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
           "id": "6807790374",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-01-16",
           "title": "PER NOI (feat. Achille Lauro)",
           "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
+        },
+        {
+          "artist": "Pinguini Tattici Nucleari",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/a0/cf/13a0cf3a-1d81-8b9c-0019-f3f302699034/196874869017.jpg/100x100bb.jpg",
+          "id": "6821912849",
+          "rank": 6,
+          "releaseDate": "2026-11-05",
+          "title": "Nella Borsa Di Anna",
+          "url": "https://music.apple.com/it/album/nella-borsa-di-anna/6821912847?i=6821912849"
         },
         {
           "artist": "Alfa",
@@ -172,22 +172,22 @@
           "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
-          "id": "1861451990",
-          "rank": 8,
-          "releaseDate": "2026-01-16",
-          "title": "CANZONE D'AMORE",
-          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
-        },
-        {
           "artist": "Gazzelle",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/97/d5/3e97d52b-7cda-ee97-dc0f-d69427315474/1200220424696.jpg/100x100bb.jpg",
           "id": "6830255079",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-11-13",
           "title": "Ogni volta che sei qui",
           "url": "https://music.apple.com/it/album/ogni-volta-che-sei-qui/6830255078?i=6830255079"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/2e/d6/072ed60d-2f1c-8ddf-2cf4-ea6a600c5b60/5026854336220.jpg/100x100bb.jpg",
+          "id": "1861451990",
+          "rank": 9,
+          "releaseDate": "2026-01-16",
+          "title": "CANZONE D'AMORE",
+          "url": "https://music.apple.com/it/album/canzone-damore/1861451633?i=1861451990"
         },
         {
           "artist": "Shiva & Geolier",
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 14 Nov 2026 10:20:42 +0000",
+        "observedAt": "Sun, 15 Nov 2026 10:48:59 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-14T10:18:22Z",
+        "observedAt": "2026-11-15T10:47:06Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "562ec894e2e19c3ad4084516bdf45705af9a07ac63631c5eb138d237fb42832c",
+  "contentHash": "f9ed9dfabd4aa55c670311ffab5ca6d44a66ae708681a6a6563b79f5b61aaba7",
   "country": "IT",
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T10:18:22Z",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T10:47:06Z",
   "schemaVersion": 1
 }

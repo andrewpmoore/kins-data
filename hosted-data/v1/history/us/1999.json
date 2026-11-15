@@ -17,7 +17,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "US",
         "url": "https://www.boxofficemojo.com/weekend/by-year/"
@@ -204,7 +204,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "a6feb9442637377bb13c1187adc32b2e9a8836a89d535034feeb843fe0f7b611",
+  "contentHash": "28fe45ffce19ba4218ef003b1037867b2c37c3c0a4bc02223951fb6bdb77910b",
   "country": "us",
   "schemaVersion": 1,
   "year": 1999

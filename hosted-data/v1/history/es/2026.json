@@ -400,12 +400,23 @@
             }
           ],
           "startDate": "2026-10-23"
+        },
+        {
+          "endDate": "2026-11-05",
+          "items": [
+            {
+              "artist": "Lucho RK",
+              "rank": 1,
+              "title": "Retrica"
+            }
+          ],
+          "startDate": "2026-10-30"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-10-23",
+        "observedAt": "2026-10-30",
         "provider": "Wikipedia contributors",
         "territory": "ES",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Spain)"
@@ -413,7 +424,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "a489a59c4a116fd9d0e38e04737b771fe2e365241dd3256f6697868b460920d6",
+  "contentHash": "c4e2a899386b9c5b4f577e2290add1e2de0b53fd31b3a069230400c783851546",
   "country": "es",
   "schemaVersion": 1,
   "year": 2026
