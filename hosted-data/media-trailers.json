@@ -1,10 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T13:58:21Z",
+  "generatedAt": "2026-11-16T13:43:42Z",
   "targets": [
     {
       "kind": "movies",
       "title": "Ali G: Who Iz I?",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Ali G: Who Iz I? (Limited release)",
       "chartYear": 2026
     },
     {
@@ -99,12 +104,12 @@
     },
     {
       "kind": "movies",
-      "title": "DIGGER",
+      "title": "Digger",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Digger",
+      "title": "DIGGER",
       "chartYear": 2026
     },
     {
@@ -129,6 +134,16 @@
     },
     {
       "kind": "movies",
+      "title": "Ebenezer",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Everest: The Other Side",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "FAST & FURIOUS – 25TH ANNIVERSARY",
       "chartYear": 2026
     },
@@ -149,7 +164,22 @@
     },
     {
       "kind": "movies",
+      "title": "George Michael: The Faith Tour (Concert)",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Ghost Soldier",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Ghosts: The Possession Of Button House",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "GODZILLA MINUS ZERO",
       "chartYear": 2026
     },
     {
@@ -189,12 +219,22 @@
     },
     {
       "kind": "movies",
+      "title": "HOPE",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Hope",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "HOPE",
+      "title": "How to Rob a Bank",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "I Play Rocky",
       "chartYear": 2026
     },
     {
@@ -209,12 +249,17 @@
     },
     {
       "kind": "movies",
-      "title": "Insidious: Out Of The Further",
+      "title": "IL RUMORE DELLE COSE NUOVE",
       "chartYear": 2026
     },
     {
       "kind": "movies",
       "title": "Insidious: Out of the Further",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Insidious: Out Of The Further",
       "chartYear": 2026
     },
     {
@@ -344,6 +389,16 @@
     },
     {
       "kind": "movies",
+      "title": "Ramayana",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Ramayana: Rise Of A Legend",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "Ramayana: Rise of a Legend",
       "chartYear": 2026
     },
@@ -360,6 +415,11 @@
     {
       "kind": "movies",
       "title": "Runner",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "SCROOGE E GLI SPIRITI DEL NATALE (EBENEZER)",
       "chartYear": 2026
     },
     {
@@ -399,12 +459,12 @@
     },
     {
       "kind": "movies",
-      "title": "SPIDER-MAN: BRAND NEW DAY",
+      "title": "Spider-Man: Brand New Day",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Spider-Man: Brand New Day",
+      "title": "SPIDER-MAN: BRAND NEW DAY",
       "chartYear": 2026
     },
     {
@@ -414,17 +474,27 @@
     },
     {
       "kind": "movies",
+      "title": "Stray Kids World Tour 'Run It' Live Viewing",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING (Concert)",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
       "title": "STRAY KIDS WORLD TOUR LIVE VIEWING",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "STREET FIGHTER",
+      "title": "Street Fighter",
       "chartYear": 2026
     },
     {
       "kind": "movies",
-      "title": "Street Fighter",
+      "title": "STREET FIGHTER",
       "chartYear": 2026
     },
     {
@@ -529,12 +599,17 @@
     },
     {
       "kind": "movies",
-      "title": "Verity",
+      "title": "UN WEEKEND ARTIFICIALE",
       "chartYear": 2026
     },
     {
       "kind": "movies",
       "title": "VERITY",
+      "chartYear": 2026
+    },
+    {
+      "kind": "movies",
+      "title": "Verity",
       "chartYear": 2026
     },
     {
@@ -586,9 +661,9 @@
   "coverage": {
     "startYear": 2017,
     "endYear": 2026,
-    "targetCount": 116,
-    "recordCount": 25,
-    "matchedTrailerCount": 23
+    "targetCount": 131,
+    "recordCount": 27,
+    "matchedTrailerCount": 25
   },
   "source": "Wikidata (CC0), YouTube Data API, and manual curation",
   "attribution": "Wikidata contributors; YouTube data refreshed weekly",
@@ -650,6 +725,26 @@
       "trailerURL": "https://www.youtube.com/watch?v=a8RHqN93qfo",
       "wikidataSources": [
         "http://www.wikidata.org/entity/Q138335503"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "Heart of the Beast",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q131900904"
+      ]
+    },
+    {
+      "kind": "movies",
+      "title": "I Play Rocky",
+      "chartYear": 2026,
+      "releaseYear": 2026,
+      "trailerURL": "https://www.youtube.com/watch?v=V_g_Ut0jO-0",
+      "wikidataSources": [
+        "http://www.wikidata.org/entity/Q136524973"
       ]
     },
     {
