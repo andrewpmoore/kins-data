@@ -1,104 +1,104 @@
 {
   "charts": {
     "movies": {
-      "id": "cinetel-national-week-2026-11-08",
+      "id": "cinetel-national-week-2026-11-15",
       "items": [
         {
-          "admissions": 291994,
+          "admissions": 301703,
           "countryOfOrigin": "ITA",
           "distributor": "NOTORIOUS PICTURES",
           "rank": 1,
           "releaseDate": "2026-11-05",
           "title": "SE DOMANI NON TORNO",
-          "weekendGrossEUR": 1938228.51
+          "weekendGrossEUR": 2155274.66
         },
         {
-          "admissions": 220784,
+          "admissions": 241032,
+          "countryOfOrigin": "USA",
+          "distributor": "EAGLE PICTURES",
+          "rank": 2,
+          "releaseDate": "2026-11-12",
+          "title": "SCROOGE E GLI SPIRITI DEL NATALE (EBENEZER)",
+          "weekendGrossEUR": 1931643.86
+        },
+        {
+          "admissions": 155887,
           "countryOfOrigin": "ITA",
           "distributor": "PIPER FILM",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2026-10-29",
           "title": "DIO RIDE",
-          "weekendGrossEUR": 1541609.19
+          "weekendGrossEUR": 1092483.18
         },
         {
-          "admissions": 119778,
+          "admissions": 132605,
+          "countryOfOrigin": "ITA",
+          "distributor": "VISION DISTRIBUTION",
+          "rank": 4,
+          "releaseDate": "2026-11-12",
+          "title": "UN WEEKEND ARTIFICIALE",
+          "weekendGrossEUR": 1067654.65
+        },
+        {
+          "admissions": 140277,
           "countryOfOrigin": "USA",
           "distributor": "WALT DISNEY S.M.P. ITALIA",
-          "rank": 3,
-          "releaseDate": "2026-11-05",
-          "title": "WILD HORSE NINE",
-          "weekendGrossEUR": 898824.09
-        },
-        {
-          "admissions": 115855,
-          "countryOfOrigin": "ITA",
-          "distributor": "01 DISTRIBUTION",
-          "rank": 4,
-          "releaseDate": "2026-10-29",
-          "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-          "weekendGrossEUR": 853500.14
-        },
-        {
-          "admissions": 108646,
-          "countryOfOrigin": "GBR",
-          "distributor": "WARNER BROS. ITALIA",
           "rank": 5,
           "releaseDate": "2026-11-05",
-          "title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
-          "weekendGrossEUR": 808675.85
+          "title": "WILD HORSE NINE",
+          "weekendGrossEUR": 1027447.81
         },
         {
-          "admissions": 23658,
-          "countryOfOrigin": "KOR",
-          "distributor": "NEXO DIGITAL S.R.L.",
+          "admissions": 133413,
+          "countryOfOrigin": "ITA",
+          "distributor": "01 DISTRIBUTION",
           "rank": 6,
-          "releaseDate": "2026-11-07",
-          "title": "STRAY KIDS WORLD TOUR LIVE VIEWING",
-          "weekendGrossEUR": 503225.6
+          "releaseDate": "2026-11-12",
+          "title": "IL RUMORE DELLE COSE NUOVE",
+          "weekendGrossEUR": 1022966.26
         },
         {
-          "admissions": 42535,
-          "countryOfOrigin": "KOR",
-          "distributor": "MUBI",
-          "rank": 7,
-          "releaseDate": "2026-11-05",
-          "title": "HOPE",
-          "weekendGrossEUR": 361714.46
-        },
-        {
-          "admissions": 42990,
-          "countryOfOrigin": "GBR",
-          "distributor": "UNIVERSAL",
-          "rank": 8,
-          "releaseDate": "2026-10-22",
-          "title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
-          "weekendGrossEUR": 316300.46
-        },
-        {
-          "admissions": 37573,
+          "admissions": 95209,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
-          "rank": 9,
-          "releaseDate": "2026-10-22",
-          "title": "CLAYFACE",
-          "weekendGrossEUR": 302817.47
+          "rank": 7,
+          "releaseDate": "2026-11-05",
+          "title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
+          "weekendGrossEUR": 698173.78
         },
         {
-          "admissions": 39407,
-          "countryOfOrigin": "GBR",
-          "distributor": "LUCKY RED DISTRIBUZIONE",
+          "admissions": 74266,
+          "countryOfOrigin": "JPN",
+          "distributor": "PLAION PICTURES",
+          "rank": 8,
+          "releaseDate": "2026-11-12",
+          "title": "GODZILLA MINUS ZERO",
+          "weekendGrossEUR": 647472.0
+        },
+        {
+          "admissions": 48913,
+          "countryOfOrigin": "ITA",
+          "distributor": "01 DISTRIBUTION",
+          "rank": 9,
+          "releaseDate": "2026-10-29",
+          "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
+          "weekendGrossEUR": 358995.17
+        },
+        {
+          "admissions": 28647,
+          "countryOfOrigin": "KOR",
+          "distributor": "MUBI",
           "rank": 10,
-          "releaseDate": "2026-10-28",
-          "title": "SHAUN VITA DA PECORA - OPERAZIONE Z.U.C.C.A",
-          "weekendGrossEUR": 286178.51
+          "releaseDate": "2026-11-05",
+          "title": "HOPE",
+          "weekendGrossEUR": 224941.69
         }
       ],
-      "reportPeriod": "2026-11-02/2026-11-08",
+      "reportPeriod": "2026-11-09/2026-11-15",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "national weekly theatrical gross in euros",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Cinetel",
         "territory": "IT",
         "url": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D"
@@ -118,22 +118,22 @@
           "url": "https://music.apple.com/it/album/sentire-la-musica/6826288271?i=6826288477"
         },
         {
-          "artist": "Geolier",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
-          "id": "6820922795",
-          "rank": 2,
-          "releaseDate": "2026-01-16",
-          "title": "NON SEI PIÙ TU (feat. Lazza)",
-          "url": "https://music.apple.com/it/album/non-sei-pi%C3%B9-tu-feat-lazza/6820922785?i=6820922795"
-        },
-        {
           "artist": "KAROL G, Judeline & rusowsky",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
           "id": "6796864754",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-08-05",
           "title": "BbY WOW",
           "url": "https://music.apple.com/it/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Geolier",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/db/4129db59-05e9-1866-0acf-afa33ccaa66b/1200220278626.jpg/100x100bb.jpg",
+          "id": "6820922795",
+          "rank": 3,
+          "releaseDate": "2026-01-16",
+          "title": "NON SEI PIÙ TU (feat. Lazza)",
+          "url": "https://music.apple.com/it/album/non-sei-pi%C3%B9-tu-feat-lazza/6820922785?i=6820922795"
         },
         {
           "artist": "Sfera Ebbasta",
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 15 Nov 2026 10:48:59 +0000",
+        "observedAt": "Mon, 16 Nov 2026 11:10:40 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-15T10:47:06Z",
+        "observedAt": "2026-11-16T11:07:57Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "f9ed9dfabd4aa55c670311ffab5ca6d44a66ae708681a6a6563b79f5b61aaba7",
+  "contentHash": "54f68b71752398cc3b5f5a2ccc0bd96843c63a56bc2ec7d424f255b5368dc8b1",
   "country": "IT",
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T10:47:06Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T11:07:57Z",
   "schemaVersion": 1
 }

@@ -40,19 +40,10 @@
           "url": "https://music.apple.com/fr/album/grand-palace/6816215989?i=6816216702"
         },
         {
-          "artist": "SDM",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
-          "id": "6816216434",
-          "rank": 5,
-          "releaseDate": "2026-11-13",
-          "title": "I.G",
-          "url": "https://music.apple.com/fr/album/i-g/6816215989?i=6816216434"
-        },
-        {
           "artist": "Vacra & La Rvfleuze",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/50/f0/8350f0d2-eb4f-c247-5294-b5bdcb550c7e/cover.jpg/100x100bb.jpg",
           "id": "6809781929",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-09-18",
           "title": "Fille à Papa",
           "url": "https://music.apple.com/fr/album/fille-a-papa/6809781922?i=6809781929"
@@ -60,44 +51,53 @@
         {
           "artist": "SDM",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
-          "id": "6816216006",
-          "rank": 7,
+          "id": "6816216434",
+          "rank": 6,
           "releaseDate": "2026-11-13",
-          "title": "RÉEL",
-          "url": "https://music.apple.com/fr/album/r%C3%A9el/6816215989?i=6816216006"
+          "title": "I.G",
+          "url": "https://music.apple.com/fr/album/i-g/6816215989?i=6816216434"
         },
         {
-          "artist": "Mauvais Djo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/37/f43c3795-a208-9f15-759e-35742017484f/26UM1IM07939.rgb.jpg/100x100bb.jpg",
-          "id": "6803864930",
+          "artist": "L2B",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f2/00/b8f2009f-6bb9-cf31-769e-655689770532/26UM1IM40473.rgb.jpg/100x100bb.jpg",
+          "id": "6829004300",
+          "rank": 7,
+          "releaseDate": "2026-11-06",
+          "title": "Dedans",
+          "url": "https://music.apple.com/fr/album/dedans/6829004154?i=6829004300"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816217185",
           "rank": 8,
-          "releaseDate": "2026-09-04",
-          "title": "12",
-          "url": "https://music.apple.com/fr/album/12/6803864921?i=6803864930"
-        },
-        {
-          "artist": "Mauvais Djo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/af/e5/10afe5ad-0520-3991-2590-6039b2d4e412/26UM1IM20129.rgb.jpg/100x100bb.jpg",
-          "id": "6813131762",
-          "rank": 9,
-          "releaseDate": "2026-09-21",
-          "title": "4",
-          "url": "https://music.apple.com/fr/album/4/6813131391?i=6813131762"
+          "releaseDate": "2026-11-13",
+          "title": "DES PHOTOS DE TOI",
+          "url": "https://music.apple.com/fr/album/des-photos-de-toi/6816215989?i=6816217185"
         },
         {
           "artist": "SDM",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
           "id": "6816216719",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-11-13",
           "title": "LE MSG",
           "url": "https://music.apple.com/fr/album/le-msg/6816215989?i=6816216719"
+        },
+        {
+          "artist": "Mauvais Djo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/37/f43c3795-a208-9f15-759e-35742017484f/26UM1IM07939.rgb.jpg/100x100bb.jpg",
+          "id": "6803864930",
+          "rank": 10,
+          "releaseDate": "2026-09-04",
+          "title": "12",
+          "url": "https://music.apple.com/fr/album/12/6803864921?i=6803864930"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 15 Nov 2026 10:48:32 +0000",
+        "observedAt": "Mon, 16 Nov 2026 11:10:14 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-11-15T10:47:06Z",
+        "observedAt": "2026-11-16T11:07:57Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "d5f9de5c1f70a9e0a45f3121f0ea16fc715477ea0cc86a1db3d259757d809b56",
+  "contentHash": "5a257a82731c4de79c70cc0d9ae370cab262c5fa67e3668cc38befa9031bbe60",
   "country": "FR",
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T10:47:06Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T11:07:57Z",
   "schemaVersion": 1
 }

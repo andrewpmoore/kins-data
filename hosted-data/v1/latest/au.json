@@ -193,28 +193,37 @@
           "url": "https://music.apple.com/au/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 3,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992115",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-06-12",
           "title": "stupid song",
           "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
         },
         {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 4,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
+          "rank": 5,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
           "artist": "STELLA LEFTY",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
           "id": "1884403093",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-03-27",
           "title": "Boston",
           "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
@@ -223,19 +232,10 @@
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609507",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2026-09-26",
           "title": "So Easy (To Fall In Love)",
           "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
-          "rank": 7,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
@@ -268,7 +268,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 15 Nov 2026 10:48:00 +0000",
+        "observedAt": "Mon, 16 Nov 2026 11:09:44 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "977924539acdc0e11a17afd7e560ce46e9e0809466bc75aad76ef32039679bf2",
+  "contentHash": "7ad0559740dc434d38f2081a395c8c2a570c3de7fda37df88826917ca51ced6a",
   "country": "AU",
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T10:47:06Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T11:07:57Z",
   "schemaVersion": 1
 }

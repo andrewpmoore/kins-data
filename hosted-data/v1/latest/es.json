@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 15 Nov 2026 10:48:32 +0000",
+        "observedAt": "Mon, 16 Nov 2026 11:10:40 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-15T10:47:06Z",
+        "observedAt": "2026-11-16T11:07:57Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -260,9 +260,9 @@
       "year": 2024
     }
   },
-  "contentHash": "c5476a399ad4e33da3d92cfb5c0c04c1bc702d6f1ac642f9f290e0b0be34a12d",
+  "contentHash": "9fbc1aacbed7bc7d37f8bd67c7157a65d9673745159e3e2c15bb174f6c8ddfd4",
   "country": "ES",
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T10:47:06Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T11:07:57Z",
   "schemaVersion": 1
 }
