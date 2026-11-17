@@ -937,7 +937,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1113,7 +1113,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "b2a6e7385d0c19b97a91cab748ccb57a01506d7f926a767bc21b5be73961746a",
+  "contentHash": "8fe49125143ccb05724d46f6f2008ad1cedc96d0c18687c130dfcce4a21c7a3c",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1992

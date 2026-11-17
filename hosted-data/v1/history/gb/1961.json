@@ -267,7 +267,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1224,7 +1224,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "397d0f29d722eccd072e951a68822f9594e019ec9717cf777a91aa12d89ee1b9",
+  "contentHash": "4a44a28d957556c18e6f54348e156acd7475ccee67ab10b4e1c50697d2b612b5",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1961

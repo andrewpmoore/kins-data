@@ -4,22 +4,22 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "KAROL G, Judeline & rusowsky",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-          "id": "6796864754",
-          "rank": 1,
-          "releaseDate": "2026-08-05",
-          "title": "BbY WOW",
-          "url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338561",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2026-10-09",
           "title": "RETRICA",
           "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 2,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754"
         },
         {
           "artist": "Lucho RK",
@@ -40,19 +40,10 @@
           "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
         },
         {
-          "artist": "Quevedo & Elvis Crespo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
-          "id": "1894272112",
-          "rank": 5,
-          "releaseDate": "2026-04-23",
-          "title": "LA GRACIOSA",
-          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
-        },
-        {
           "artist": "La Pantera & Quevedo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
           "id": "6823633156",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-10-23",
           "title": "DOGGY",
           "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
@@ -61,10 +52,19 @@
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338555",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-09",
           "title": "SUMISA",
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
+        },
+        {
+          "artist": "Quevedo & Elvis Crespo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
+          "id": "1894272112",
+          "rank": 7,
+          "releaseDate": "2026-04-23",
+          "title": "LA GRACIOSA",
+          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
           "artist": "Myke Towers",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 16 Nov 2026 11:10:40 +0000",
+        "observedAt": "Tue, 17 Nov 2026 11:48:31 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-16T11:07:57Z",
+        "observedAt": "2026-11-17T11:45:51Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -260,9 +260,9 @@
       "year": 2024
     }
   },
-  "contentHash": "9fbc1aacbed7bc7d37f8bd67c7157a65d9673745159e3e2c15bb174f6c8ddfd4",
+  "contentHash": "a8edd45434c2646e1396972dce7b372d45f2c06b4e0205d5bc071fec519aed59",
   "country": "ES",
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T11:07:57Z",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T11:45:51Z",
   "schemaVersion": 1
 }

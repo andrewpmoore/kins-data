@@ -1917,7 +1917,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -2214,7 +2214,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "fe918312f7cd89be9b22a464717c3cde8ef5f10d36272f2b13327b0ae02ea250",
+  "contentHash": "d15eca4bd1634dfa84af486a67cd26dc17b3462599ce56b04e1994b9d33b8d9d",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1994

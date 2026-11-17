@@ -317,7 +317,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "FR",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
@@ -592,7 +592,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "aab8910f1949d78062ed3f885c484ef9e9e6e040eaf7c04c326178ec59b02d69",
+  "contentHash": "a651debf1966759b88874ce02b7d79370562c21d57e8a71fe2769cd84496e4c0",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2007

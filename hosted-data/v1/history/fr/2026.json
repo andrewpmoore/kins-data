@@ -242,12 +242,22 @@
             }
           ],
           "startDate": "2026-11-08"
+        },
+        {
+          "endDate": "2026-11-21",
+          "items": [
+            {
+              "rank": 1,
+              "title": "Ebenezer"
+            }
+          ],
+          "startDate": "2026-11-15"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "FR",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
@@ -368,7 +378,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "8ab4f1b451e843f3fc5f59bebeff8c56fe76c50ac4cb2bcaee75a6dd0cb1c852",
+  "contentHash": "1e2c68e4855ef29e46d29f0c74ea5f7a34dac5f62882f6456c4298e647bf391a",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2026

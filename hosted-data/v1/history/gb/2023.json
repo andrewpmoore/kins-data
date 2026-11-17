@@ -337,7 +337,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -568,7 +568,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "d7829271219941f325b9c699ab4dd3550e38f7e4aa6278fe1736680cd2ab8ab3",
+  "contentHash": "ca489b4ca2576cf1e5310e0a223b0ca3cb4080267169eaabaf9f9cd974d4f3ab",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2023

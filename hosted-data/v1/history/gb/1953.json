@@ -247,7 +247,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -478,7 +478,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "0dfe1107760906a7424ff9a448be70e96efbe48c15dabf8485b2ab60c844e775",
+  "contentHash": "462d872208bab699b78b00c6a316b339041850bf76bf266a3f255754e62217a9",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1953

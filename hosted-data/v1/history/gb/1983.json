@@ -277,7 +277,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -552,7 +552,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "406951465a9054c2f87a007093801e37a8f25287a1d6fafcbf7ee8ff1d5c16ae",
+  "contentHash": "0d4876fd4f482e8caa23ea1338a5e612fb2138787ac773bda2bdc2fb71001e91",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1983

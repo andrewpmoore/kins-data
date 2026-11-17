@@ -327,7 +327,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -335,7 +335,7 @@
       "title": "Historical number-one box office film"
     }
   },
-  "contentHash": "99de37be05030194201866e55f0ff9c46f2ed7998150a6510d8498ed95a882f8",
+  "contentHash": "232d34d396db3b36b4444bae4d883f75be0363386a82f64bf0ad13e2b2849d1f",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1948

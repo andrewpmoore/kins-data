@@ -357,7 +357,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -742,7 +742,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1c2f8eb998768f7e5edb2f37531cdf745438da07fb21bdbc7f2d8955caf880b1",
+  "contentHash": "93748214162cc2472af6449e7f8361fb6dc6650f42cac854bae2f6cefd52c9f6",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2011

@@ -327,7 +327,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1042,7 +1042,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "92484df298f0a335c99bc14dd2c0d166ff8ca925314a0aab5f23dfe9ad169eb7",
+  "contentHash": "e1fad9865fdfc5f273877224fc82bba5451de80ef39acb321a5be319e1865a8f",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1973

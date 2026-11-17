@@ -2017,7 +2017,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -2380,7 +2380,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "75584c5d307e2a20024af406c6a619b77b0efdf444d20874cc06ae9138eab105",
+  "contentHash": "b66c69e04d7f5cf58ce1858eeed65562535be0c86d86b4786e3af0850b0523c7",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1995

@@ -237,7 +237,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -842,7 +842,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "2ee0d627fcabf2fa5e4dc1d990c2ac9f1162b6d4bb0304d90f33bb901434507b",
+  "contentHash": "e39874700c9d7036566ff408aa1336348c3326c2920a24beca7ec4a4aac967a9",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1958

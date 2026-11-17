@@ -337,7 +337,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -645,7 +645,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1ab85400893c5e2c6f047516078deb9c6320cd508d8a65197e7cb1f0df2add6a",
+  "contentHash": "6a363cd70c9ff8804c827123806f1965e04a9d52e3d5a6833fd3527a0ce6c89d",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2006

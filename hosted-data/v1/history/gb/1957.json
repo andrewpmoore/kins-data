@@ -217,7 +217,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -657,7 +657,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "10dcc5ffe5d9c1d49169b5dd2c2d122d9e78162fb03c75cc4e47f06980a1eb74",
+  "contentHash": "08f274539dd49db610e7e8feae41417b6ddcf6457a0f8d75a05dea045166015e",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1957

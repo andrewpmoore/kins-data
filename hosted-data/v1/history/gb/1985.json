@@ -947,7 +947,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1211,7 +1211,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "df564a4e105303882c3b139ded90030aebf289cb5a24c05cdd6d99d8d84a94ad",
+  "contentHash": "d027ac89977dc9e5551d5fde5abe0f2887fb35e8a1628ad682b04e326d0b1172",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1985

@@ -327,7 +327,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "ES",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
@@ -536,7 +536,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "86d9fc227b756c58f8779a9c8fe0e38e42ed0ff5dce0ae5309112aec91d09618",
+  "contentHash": "383352401d9f5b5376851fe82b589e88bf507ba04eeb688e030987532cc46614",
   "country": "es",
   "schemaVersion": 1,
   "year": 2003

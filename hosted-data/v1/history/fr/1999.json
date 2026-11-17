@@ -17,7 +17,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "FR",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
@@ -25,7 +25,7 @@
       "title": "Historical number-one box office film"
     }
   },
-  "contentHash": "c0e0e367fca24dc40c73e46d5eaa2f4d827686b9ffeb137fc33511935f0d6fc7",
+  "contentHash": "3612128ab03c9c6df3069f8a5879a2a7d953428a77ba7e56dba672885d99d3a7",
   "country": "fr",
   "schemaVersion": 1,
   "year": 1999

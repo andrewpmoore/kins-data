@@ -177,7 +177,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -185,7 +185,7 @@
       "title": "Historical number-one box office film"
     }
   },
-  "contentHash": "c671b6f0b32a8626434b5b61344159739379ba380f7136b2519fb33d3e65b515",
+  "contentHash": "8772d7f0511d328c8207ffcf4a9b1b963287d0d607121f41082217381c6a7722",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1951

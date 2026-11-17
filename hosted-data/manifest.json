@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-11-16T11:07:57Z",
-  "latestDate": "2026-11-16",
+  "generatedAt": "2026-11-17T11:45:51Z",
+  "latestDate": "2026-11-17",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -105,8 +105,9 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10: HTTP Error 403: Forbidden",
       "source": "publicBooks/adultBooks/NZ",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "publicBooks/childrensBooks/NZ",

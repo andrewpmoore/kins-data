@@ -40,40 +40,40 @@
           "url": "https://music.apple.com/fr/album/grand-palace/6816215989?i=6816216702"
         },
         {
-          "artist": "Vacra & La Rvfleuze",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/50/f0/8350f0d2-eb4f-c247-5294-b5bdcb550c7e/cover.jpg/100x100bb.jpg",
-          "id": "6809781929",
-          "rank": 5,
-          "releaseDate": "2026-09-18",
-          "title": "Fille à Papa",
-          "url": "https://music.apple.com/fr/album/fille-a-papa/6809781922?i=6809781929"
-        },
-        {
           "artist": "SDM",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
           "id": "6816216434",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-11-13",
           "title": "I.G",
           "url": "https://music.apple.com/fr/album/i-g/6816215989?i=6816216434"
         },
         {
-          "artist": "L2B",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f2/00/b8f2009f-6bb9-cf31-769e-655689770532/26UM1IM40473.rgb.jpg/100x100bb.jpg",
-          "id": "6829004300",
-          "rank": 7,
-          "releaseDate": "2026-11-06",
-          "title": "Dedans",
-          "url": "https://music.apple.com/fr/album/dedans/6829004154?i=6829004300"
-        },
-        {
           "artist": "SDM",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
           "id": "6816217185",
-          "rank": 8,
+          "rank": 6,
           "releaseDate": "2026-11-13",
           "title": "DES PHOTOS DE TOI",
           "url": "https://music.apple.com/fr/album/des-photos-de-toi/6816215989?i=6816217185"
+        },
+        {
+          "artist": "Vacra & La Rvfleuze",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/50/f0/8350f0d2-eb4f-c247-5294-b5bdcb550c7e/cover.jpg/100x100bb.jpg",
+          "id": "6809781929",
+          "rank": 7,
+          "releaseDate": "2026-09-18",
+          "title": "Fille à Papa",
+          "url": "https://music.apple.com/fr/album/fille-a-papa/6809781922?i=6809781929"
+        },
+        {
+          "artist": "L2B",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f2/00/b8f2009f-6bb9-cf31-769e-655689770532/26UM1IM40473.rgb.jpg/100x100bb.jpg",
+          "id": "6829004300",
+          "rank": 8,
+          "releaseDate": "2026-11-06",
+          "title": "Dedans",
+          "url": "https://music.apple.com/fr/album/dedans/6829004154?i=6829004300"
         },
         {
           "artist": "SDM",
@@ -85,19 +85,19 @@
           "url": "https://music.apple.com/fr/album/le-msg/6816215989?i=6816216719"
         },
         {
-          "artist": "Mauvais Djo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/37/f43c3795-a208-9f15-759e-35742017484f/26UM1IM07939.rgb.jpg/100x100bb.jpg",
-          "id": "6803864930",
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216414",
           "rank": 10,
-          "releaseDate": "2026-09-04",
-          "title": "12",
-          "url": "https://music.apple.com/fr/album/12/6803864921?i=6803864930"
+          "releaseDate": "2026-11-13",
+          "title": "QUAND LE SOLEIL SE LÈVE",
+          "url": "https://music.apple.com/fr/album/quand-le-soleil-se-l%C3%A8ve/6816215989?i=6816216414"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 16 Nov 2026 11:10:14 +0000",
+        "observedAt": "Tue, 17 Nov 2026 11:48:04 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-11-16T11:07:57Z",
+        "observedAt": "2026-11-17T11:45:51Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "5a257a82731c4de79c70cc0d9ae370cab262c5fa67e3668cc38befa9031bbe60",
+  "contentHash": "d1a879f3764fa7fe71487beb437294b364c570c524a7fbf3e16df51aee3f4218",
   "country": "FR",
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T11:07:57Z",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T11:45:51Z",
   "schemaVersion": 1
 }

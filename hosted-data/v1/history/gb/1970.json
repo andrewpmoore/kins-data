@@ -387,7 +387,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1091,7 +1091,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "8e723564f74739022882ded01b55a515f10628e409b46a86a0a30047a675d598",
+  "contentHash": "53328d7c6044adf35e25a842651b209a112bc05686a01343f389fefcaee8ad3f",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1970

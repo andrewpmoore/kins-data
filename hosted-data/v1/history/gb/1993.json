@@ -1787,7 +1787,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -2073,7 +2073,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "dd3d857e4acce0bab005469ba3994fbf221d4c160cfe3787693825759f0b100d",
+  "contentHash": "290ad5b2310c72c6aef316c609b619ff8b748985359b2e6d63325225f932e990",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1993

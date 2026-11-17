@@ -227,7 +227,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-08",
+        "observedAt": "2026-11-15",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -733,7 +733,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "37d4124d2d84f3b97ff4fbdab715b039962878d01dfb8b707649cbc63f95f32a",
+  "contentHash": "4c9fed29558a1fd696e923839886f44891ae0c1f9a6466a903ea6883161f05fb",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1975
