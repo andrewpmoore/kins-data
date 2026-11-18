@@ -40,22 +40,22 @@
           "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
         },
         {
-          "artist": "La Pantera & Quevedo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
-          "id": "6823633156",
-          "rank": 5,
-          "releaseDate": "2026-10-23",
-          "title": "DOGGY",
-          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338555",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-10-09",
           "title": "SUMISA",
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
+        },
+        {
+          "artist": "La Pantera & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
+          "id": "6823633156",
+          "rank": 6,
+          "releaseDate": "2026-10-23",
+          "title": "DOGGY",
+          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
         },
         {
           "artist": "Quevedo & Elvis Crespo",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 17 Nov 2026 11:48:31 +0000",
+        "observedAt": "Wed, 18 Nov 2026 11:36:27 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -109,141 +109,141 @@
       "items": [
         {
           "category": "boy",
-          "count": 3289,
+          "count": 3142,
           "name": "Mateo",
           "rank": 1,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 2734,
+          "count": 2653,
           "name": "Hugo",
           "rank": 2,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 2693,
+          "count": 2620,
           "name": "Martin",
           "rank": 3,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 2550,
+          "count": 2318,
           "name": "Leo",
           "rank": 4,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 2411,
+          "count": 2289,
           "name": "Manuel",
           "rank": 5,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 2228,
+          "count": 2211,
           "name": "Lucas",
           "rank": 6,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 2158,
+          "count": 2129,
           "name": "Pablo",
           "rank": 7,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 2136,
+          "count": 2048,
           "name": "Alejandro",
           "rank": 8,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 2028,
+          "count": 1909,
           "name": "Enzo",
           "rank": 9,
           "rankGroup": "boy"
         },
         {
           "category": "boy",
-          "count": 1949,
+          "count": 1901,
           "name": "Alvaro",
           "rank": 10,
           "rankGroup": "boy"
         },
         {
           "category": "girl",
-          "count": 3325,
+          "count": 3569,
           "name": "Sofia",
           "rank": 1,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 2830,
+          "count": 2771,
           "name": "Lucia",
           "rank": 2,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 2364,
-          "name": "Martina",
+          "count": 2287,
+          "name": "Julia",
           "rank": 3,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 2189,
-          "name": "Maria",
+          "count": 2286,
+          "name": "Martina",
           "rank": 4,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 2129,
-          "name": "Vega",
+          "count": 2208,
+          "name": "Maria",
           "rank": 5,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 2071,
-          "name": "Julia",
+          "count": 2018,
+          "name": "Olivia",
           "rank": 6,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 1896,
-          "name": "Olivia",
+          "count": 2013,
+          "name": "Vega",
           "rank": 7,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 1792,
-          "name": "Valeria",
+          "count": 1643,
+          "name": "Carmen",
           "rank": 8,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 1646,
-          "name": "Mia",
+          "count": 1636,
+          "name": "Emma",
           "rank": 9,
           "rankGroup": "girl"
         },
         {
           "category": "girl",
-          "count": 1618,
-          "name": "Emma",
+          "count": 1590,
+          "name": "Valeria",
           "rank": 10,
           "rankGroup": "girl"
         }
@@ -251,18 +251,18 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-17T11:45:51Z",
+        "observedAt": "2026-11-18T11:34:34Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
       },
-      "title": "Popular baby names for 2024 births",
-      "year": 2024
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
     }
   },
-  "contentHash": "a8edd45434c2646e1396972dce7b372d45f2c06b4e0205d5bc071fec519aed59",
+  "contentHash": "a3af3b2033871c37e85e762cfb62adf8197406f79a37851737bf7a89fd7d86fa",
   "country": "ES",
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T11:45:51Z",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T11:34:34Z",
   "schemaVersion": 1
 }

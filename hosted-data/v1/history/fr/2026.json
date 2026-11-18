@@ -356,7 +356,7 @@
           "startDate": "2026-09-11"
         },
         {
-          "endDate": "2026-11-12",
+          "endDate": "2026-11-19",
           "items": [
             {
               "artist": "Vacra, La Rvfleuze",
@@ -370,7 +370,7 @@
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-06",
+        "observedAt": "2026-11-13",
         "provider": "Wikipedia contributors",
         "territory": "FR",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_singles_in_France"
@@ -378,7 +378,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1e2c68e4855ef29e46d29f0c74ea5f7a34dac5f62882f6456c4298e647bf391a",
+  "contentHash": "96cd17ff06a1b6d9408a79d3f3bcb04a4375de6e15d2edc24ee32fdc705f7c05",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2026

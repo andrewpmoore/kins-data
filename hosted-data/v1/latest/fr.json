@@ -22,46 +22,28 @@
           "url": "https://music.apple.com/fr/album/%C3%A7a-chauffe/6816215989?i=6816216709"
         },
         {
-          "artist": "SDM & SCH",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
-          "id": "6816216707",
-          "rank": 3,
-          "releaseDate": "2026-11-13",
-          "title": "6.35",
-          "url": "https://music.apple.com/fr/album/6-35/6816215989?i=6816216707"
-        },
-        {
           "artist": "SDM",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
           "id": "6816216702",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-11-13",
           "title": "GRAND PALACE",
           "url": "https://music.apple.com/fr/album/grand-palace/6816215989?i=6816216702"
         },
         {
-          "artist": "SDM",
+          "artist": "SDM & SCH",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
-          "id": "6816216434",
-          "rank": 5,
+          "id": "6816216707",
+          "rank": 4,
           "releaseDate": "2026-11-13",
-          "title": "I.G",
-          "url": "https://music.apple.com/fr/album/i-g/6816215989?i=6816216434"
-        },
-        {
-          "artist": "SDM",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
-          "id": "6816217185",
-          "rank": 6,
-          "releaseDate": "2026-11-13",
-          "title": "DES PHOTOS DE TOI",
-          "url": "https://music.apple.com/fr/album/des-photos-de-toi/6816215989?i=6816217185"
+          "title": "6.35",
+          "url": "https://music.apple.com/fr/album/6-35/6816215989?i=6816216707"
         },
         {
           "artist": "Vacra & La Rvfleuze",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/50/f0/8350f0d2-eb4f-c247-5294-b5bdcb550c7e/cover.jpg/100x100bb.jpg",
           "id": "6809781929",
-          "rank": 7,
+          "rank": 5,
           "releaseDate": "2026-09-18",
           "title": "Fille à Papa",
           "url": "https://music.apple.com/fr/album/fille-a-papa/6809781922?i=6809781929"
@@ -70,10 +52,28 @@
           "artist": "L2B",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f2/00/b8f2009f-6bb9-cf31-769e-655689770532/26UM1IM40473.rgb.jpg/100x100bb.jpg",
           "id": "6829004300",
-          "rank": 8,
+          "rank": 6,
           "releaseDate": "2026-11-06",
           "title": "Dedans",
           "url": "https://music.apple.com/fr/album/dedans/6829004154?i=6829004300"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816217185",
+          "rank": 7,
+          "releaseDate": "2026-11-13",
+          "title": "DES PHOTOS DE TOI",
+          "url": "https://music.apple.com/fr/album/des-photos-de-toi/6816215989?i=6816217185"
+        },
+        {
+          "artist": "SDM",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216434",
+          "rank": 8,
+          "releaseDate": "2026-11-13",
+          "title": "I.G",
+          "url": "https://music.apple.com/fr/album/i-g/6816215989?i=6816216434"
         },
         {
           "artist": "SDM",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 17 Nov 2026 11:48:04 +0000",
+        "observedAt": "Wed, 18 Nov 2026 11:36:01 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-11-17T11:45:51Z",
+        "observedAt": "2026-11-18T11:34:34Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "d1a879f3764fa7fe71487beb437294b364c570c524a7fbf3e16df51aee3f4218",
+  "contentHash": "5607413f0bd127208475196387f7a23f2edd0c603527806a10404cfacdbe7774",
   "country": "FR",
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T11:45:51Z",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T11:34:34Z",
   "schemaVersion": 1
 }

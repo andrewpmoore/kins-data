@@ -79,28 +79,84 @@
       "id": "box-office-mojo-au-2026-11-15",
       "items": [
         {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "A24",
           "rank": 1,
-          "title": "Wild Horse Nine",
-          "url": "https://www.boxofficemojo.com/release/rl2875359489/?ref_=bo_we_table_1",
-          "weekendGross": "$290,064",
+          "title": "You Can See Everything",
+          "url": "https://www.boxofficemojo.com/release/rl3647242497/?ref_=bo_we_table_1",
+          "weekendGross": "$1,743,786",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Sony Pictures Releasing",
+          "rank": 2,
+          "title": "Ramayana",
+          "url": "https://www.boxofficemojo.com/release/rl1734705409/?ref_=bo_we_table_2",
+          "weekendGross": "$1,337,852",
           "weeksOnRelease": "2"
         },
         {
-          "distributor": "Walt Disney Pictures",
-          "rank": 2,
-          "title": "Everest: The Other Side",
-          "url": "https://www.boxofficemojo.com/release/rl1264681217/?ref_=bo_we_table_2",
-          "weekendGross": "$8,427",
+          "distributor": "Paramount Pictures International",
+          "rank": 3,
+          "title": "Ebenezer",
+          "url": "https://www.boxofficemojo.com/release/rl670203905/?ref_=bo_we_table_3",
+          "weekendGross": "$619,956",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Roadshow Entertainment",
+          "rank": 4,
+          "title": "Wicker",
+          "url": "https://www.boxofficemojo.com/release/rl1281523969/?ref_=bo_we_table_4",
+          "weekendGross": "$510,593",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Sugoi Co",
+          "rank": 5,
+          "title": "Godzilla Minus Zero",
+          "url": "https://www.boxofficemojo.com/release/rl1483047169/?ref_=bo_we_table_5",
+          "weekendGross": "$497,960",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Sony Pictures Releasing",
+          "rank": 6,
+          "title": "How to Rob a Bank",
+          "url": "https://www.boxofficemojo.com/release/rl3664019713/?ref_=bo_we_table_6",
+          "weekendGross": "$379,228",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "A24",
+          "rank": 7,
+          "title": "Primetime",
+          "url": "https://www.boxofficemojo.com/release/rl3043066113/?ref_=bo_we_table_7",
+          "weekendGross": "$291,176",
           "weeksOnRelease": "3"
         },
         {
           "distributor": "Walt Disney Pictures",
-          "rank": 3,
-          "title": "Whalefall",
-          "url": "https://www.boxofficemojo.com/release/rl1297973505/?ref_=bo_we_table_3",
-          "weekendGross": "$1,815",
-          "weeksOnRelease": "5"
+          "rank": 8,
+          "title": "Wild Horse Nine",
+          "url": "https://www.boxofficemojo.com/release/rl2875359489/?ref_=bo_we_table_8",
+          "weekendGross": "$290,064",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 9,
+          "title": "George Michael: The Faith Tour",
+          "url": "https://www.boxofficemojo.com/release/rl3680796929/?ref_=bo_we_table_9",
+          "weekendGross": "$266,890",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "Warner Bros.",
+          "rank": 10,
+          "title": "Clayface",
+          "url": "https://www.boxofficemojo.com/release/rl1717534977/?ref_=bo_we_table_10",
+          "weekendGross": "$250,753",
+          "weeksOnRelease": "4"
         }
       ],
       "reportPeriod": "November 12-15, 2026",
@@ -137,19 +193,10 @@
           "url": "https://music.apple.com/au/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 3,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
@@ -158,10 +205,19 @@
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 5,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "STELLA LEFTY",
@@ -212,7 +268,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 17 Nov 2026 11:46:44 +0000",
+        "observedAt": "Wed, 18 Nov 2026 11:34:39 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -220,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "b7a3630b78fe301d869ae034b873920749108e2efd0530687cd725f7190761ce",
+  "contentHash": "1f156d1d0a85d142839c6785dafe7bd36449309abf00c11248a80b339f14ee64",
   "country": "AU",
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T11:45:51Z",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T11:34:34Z",
   "schemaVersion": 1
 }

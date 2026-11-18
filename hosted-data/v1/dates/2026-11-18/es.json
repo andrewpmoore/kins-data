@@ -1,0 +1,268 @@
+{
+  "charts": {
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338561",
+          "rank": 1,
+          "releaseDate": "2026-10-09",
+          "title": "RETRICA",
+          "url": "https://music.apple.com/es/album/retrica/6817338538?i=6817338561"
+        },
+        {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 2,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338657",
+          "rank": 3,
+          "releaseDate": "2026-10-09",
+          "title": "RIGHT NOW",
+          "url": "https://music.apple.com/es/album/right-now/6817338538?i=6817338657"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338546",
+          "rank": 4,
+          "releaseDate": "2026-10-09",
+          "title": "CONTIGO",
+          "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338555",
+          "rank": 5,
+          "releaseDate": "2026-10-09",
+          "title": "SUMISA",
+          "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
+        },
+        {
+          "artist": "La Pantera & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
+          "id": "6823633156",
+          "rank": 6,
+          "releaseDate": "2026-10-23",
+          "title": "DOGGY",
+          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
+        },
+        {
+          "artist": "Quevedo & Elvis Crespo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
+          "id": "1894272112",
+          "rank": 7,
+          "releaseDate": "2026-04-23",
+          "title": "LA GRACIOSA",
+          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
+        },
+        {
+          "artist": "Myke Towers",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/01/e0/5e01e0f6-91a6-d923-2495-855a4610485f/1200220330331.jpg/100x100bb.jpg",
+          "id": "6823686094",
+          "rank": 8,
+          "releaseDate": "2026-10-21",
+          "title": "Te Imagino",
+          "url": "https://music.apple.com/es/album/te-imagino/6823686091?i=6823686094"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2b/6e/c82b6e99-a746-7810-02f8-d73432853f83/1200214432867.jpg/100x100bb.jpg",
+          "id": "6784833437",
+          "rank": 9,
+          "releaseDate": "2026-07-08",
+          "title": "AIRE",
+          "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338666",
+          "rank": 10,
+          "releaseDate": "2026-10-09",
+          "title": "SORDO DE UN PIE (interludio)",
+          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Wed, 18 Nov 2026 11:36:27 +0000",
+        "provider": "Apple Music",
+        "territory": "ES",
+        "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
+      },
+      "title": "Top canciones"
+    },
+    "names": {
+      "id": "ine-spain-newborn-names",
+      "items": [
+        {
+          "category": "boy",
+          "count": 3142,
+          "name": "Mateo",
+          "rank": 1,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2653,
+          "name": "Hugo",
+          "rank": 2,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2620,
+          "name": "Martin",
+          "rank": 3,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2318,
+          "name": "Leo",
+          "rank": 4,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2289,
+          "name": "Manuel",
+          "rank": 5,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2211,
+          "name": "Lucas",
+          "rank": 6,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2129,
+          "name": "Pablo",
+          "rank": 7,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 2048,
+          "name": "Alejandro",
+          "rank": 8,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 1909,
+          "name": "Enzo",
+          "rank": 9,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "boy",
+          "count": 1901,
+          "name": "Alvaro",
+          "rank": 10,
+          "rankGroup": "boy"
+        },
+        {
+          "category": "girl",
+          "count": 3569,
+          "name": "Sofia",
+          "rank": 1,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2771,
+          "name": "Lucia",
+          "rank": 2,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2287,
+          "name": "Julia",
+          "rank": 3,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2286,
+          "name": "Martina",
+          "rank": 4,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2208,
+          "name": "Maria",
+          "rank": 5,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2018,
+          "name": "Olivia",
+          "rank": 6,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 2013,
+          "name": "Vega",
+          "rank": 7,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1643,
+          "name": "Carmen",
+          "rank": 8,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1636,
+          "name": "Emma",
+          "rank": 9,
+          "rankGroup": "girl"
+        },
+        {
+          "category": "girl",
+          "count": 1590,
+          "name": "Valeria",
+          "rank": 10,
+          "rankGroup": "girl"
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national newborn-name rank and count by sex",
+        "observedAt": "2026-11-18T11:34:34Z",
+        "provider": "Instituto Nacional de Estadística",
+        "territory": "ES",
+        "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "a3af3b2033871c37e85e762cfb62adf8197406f79a37851737bf7a89fd7d86fa",
+  "country": "ES",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T11:34:34Z",
+  "schemaVersion": 1
+}
