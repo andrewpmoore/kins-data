@@ -2,49 +2,49 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "aba-buying-group-2026-11-07",
+      "id": "aba-buying-group-2026-11-14",
       "items": [
         {
-          "creator": "Sarah J. Maas",
+          "creator": "Tim Winton",
           "rank": 1,
-          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I",
-          "url": "https://loveyourbookshop.org.au/bestsellers/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i"
-        },
-        {
-          "creator": "Julia Baird",
-          "rank": 2,
-          "title": "Becoming a Man",
-          "url": "https://loveyourbookshop.org.au/bestsellers/becoming-a-man"
-        },
-        {
-          "creator": "Jeff Kinney",
-          "rank": 3,
-          "title": "Fight or Flight: Diary of a Wimpy Kid (21)",
-          "url": "https://loveyourbookshop.org.au/bestsellers/fight-or-flight-diary-of-a-wimpy-kid-21"
+          "title": "Songs from the Firefront",
+          "url": "https://loveyourbookshop.org.au/bestsellers/songs-from-the-firefront"
         },
         {
           "creator": "Pip Williams",
-          "rank": 4,
+          "rank": 2,
           "title": "The German Ward",
           "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
         },
         {
-          "creator": "Bonnie Garmus",
+          "creator": "M. John Harrison",
+          "rank": 3,
+          "title": "The End of Everything: Winner of the 2026 Booker Prize",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-end-of-everything-winner-of-the-2026-booker-prize"
+        },
+        {
+          "creator": "Niall Williams",
+          "rank": 4,
+          "title": "O Now!: From the award-winning, internationally bestselling author of FOUR LETTERS OF LOVE and THIS IS HAPPINESS",
+          "url": "https://loveyourbookshop.org.au/bestsellers/o-now-from-the-award-winning-internationally-bestselling-author-of-four-letters-of-love-and-this-is-happiness"
+        },
+        {
+          "creator": "Usman Khawaja",
           "rank": 5,
+          "title": "Sabr",
+          "url": "https://loveyourbookshop.org.au/bestsellers/sabr"
+        },
+        {
+          "creator": "Bonnie Garmus",
+          "rank": 6,
           "title": "Peck & Peck",
           "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
         },
         {
-          "creator": "Josh Silver",
-          "rank": 6,
-          "title": "Fruit Fly",
-          "url": "https://loveyourbookshop.org.au/bestsellers/fruit-fly"
-        },
-        {
-          "creator": "Barbara Kingsolver",
+          "creator": "Sarah J. Maas",
           "rank": 7,
-          "title": "Partita",
-          "url": "https://loveyourbookshop.org.au/bestsellers/partita"
+          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I",
+          "url": "https://loveyourbookshop.org.au/bestsellers/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i"
         },
         {
           "creator": "Elizabeth Strout",
@@ -53,22 +53,22 @@
           "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
         },
         {
-          "creator": "Katrina Nannestad",
+          "creator": "Taylor Walker",
           "rank": 9,
-          "title": "All of Us",
-          "url": "https://loveyourbookshop.org.au/bestsellers/all-of-us"
+          "title": "TEX",
+          "url": "https://loveyourbookshop.org.au/bestsellers/tex"
         },
         {
-          "creator": "Niall Williams",
+          "creator": "Barbara Kingsolver",
           "rank": 10,
-          "title": "O Now!: From the award-winning, internationally bestselling author of FOUR LETTERS OF LOVE and THIS IS HAPPINESS",
-          "url": "https://loveyourbookshop.org.au/bestsellers/o-now-from-the-award-winning-internationally-bestselling-author-of-four-letters-of-love-and-this-is-happiness"
+          "title": "Partita",
+          "url": "https://loveyourbookshop.org.au/bestsellers/partita"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "bestsellers in ABA Buying Group stores",
-        "observedAt": "2026-11-07",
+        "observedAt": "2026-11-14",
         "provider": "Australian Booksellers Association / NielsenIQ BookScan",
         "territory": "AU",
         "url": "https://loveyourbookshop.org.au/aba-top-10/"
@@ -83,7 +83,7 @@
           "rank": 1,
           "title": "You Can See Everything",
           "url": "https://www.boxofficemojo.com/release/rl3647242497/?ref_=bo_we_table_1",
-          "weekendGross": "$1,743,786",
+          "weekendGross": "$2,333,937",
           "weeksOnRelease": "1"
         },
         {
@@ -123,7 +123,7 @@
           "rank": 6,
           "title": "How to Rob a Bank",
           "url": "https://www.boxofficemojo.com/release/rl3664019713/?ref_=bo_we_table_6",
-          "weekendGross": "$379,228",
+          "weekendGross": "$380,219",
           "weeksOnRelease": "1"
         },
         {
@@ -131,7 +131,7 @@
           "rank": 7,
           "title": "Primetime",
           "url": "https://www.boxofficemojo.com/release/rl3043066113/?ref_=bo_we_table_7",
-          "weekendGross": "$291,176",
+          "weekendGross": "$312,294",
           "weeksOnRelease": "3"
         },
         {
@@ -229,19 +229,10 @@
           "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609507",
-          "rank": 7,
-          "releaseDate": "2026-09-26",
-          "title": "So Easy (To Fall In Love)",
-          "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
@@ -250,10 +241,19 @@
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609507",
+          "rank": 9,
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/au/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
           "artist": "Taylor Swift",
@@ -268,7 +268,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 18 Nov 2026 11:34:39 +0000",
+        "observedAt": "Thu, 19 Nov 2026 11:34:25 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "1f156d1d0a85d142839c6785dafe7bd36449309abf00c11248a80b339f14ee64",
+  "contentHash": "2518540053b68b55e8268346f0f11cb56958f63aa6543b14dc3ce0496204bc87",
   "country": "AU",
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T11:34:34Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T11:33:08Z",
   "schemaVersion": 1
 }

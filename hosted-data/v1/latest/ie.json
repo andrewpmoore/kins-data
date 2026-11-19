@@ -67,13 +67,13 @@
           "url": "https://music.apple.com/ie/album/the-sun-will-never-settle/6768830561?i=6768830564"
         },
         {
-          "artist": "Fontaines D.C.",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-          "id": "6792085056",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+          "id": "6819802968",
           "rank": 8,
-          "releaseDate": "2026-08-18",
-          "title": "Marianne",
-          "url": "https://music.apple.com/ie/album/marianne/6792085051?i=6792085056"
+          "releaseDate": "2026-10-15",
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "url": "https://music.apple.com/ie/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         },
         {
           "artist": "Mariah Carey",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 18 Nov 2026 11:34:40 +0000",
+        "observedAt": "Thu, 19 Nov 2026 11:34:25 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-11-18T11:34:34Z",
+        "observedAt": "2026-11-19T11:33:08Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "eb7772e1d233408d3591403acba6a845fc3ad2be4619165efab8f8b88215f5da",
+  "contentHash": "a907836e0ec473da874728ebc82258f7ab2dcf56424f0b3d70d1d780647635fb",
   "country": "IE",
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T11:34:34Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T11:33:08Z",
   "schemaVersion": 1
 }

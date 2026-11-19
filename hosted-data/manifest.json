@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-11-18T11:34:34Z",
-  "latestDate": "2026-11-18",
+  "generatedAt": "2026-11-19T11:33:08Z",
+  "latestDate": "2026-11-19",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -85,8 +85,9 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://mc-charts-de-stage.azurewebsites.net/kino-charts/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://mc-charts-de-stage.azurewebsites.net/kino-charts/']' returned non-zero exit status 6.",
       "source": "theatricalBoxOffice/DE",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "theatricalBoxOffice/US",
@@ -122,9 +123,8 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://www150.statcan.gc.ca/n1/en/tbl/csv/17100147-eng.zip: HTTP Error 403: Forbidden",
       "source": "governmentNames/CA",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "governmentNames/FR",
@@ -150,11 +150,6 @@
     {
       "source": "governmentNames/IT",
       "status": "ok"
-    },
-    {
-      "detail": "latest published annual chart retained until its official replacement",
-      "source": "namesFallback/CA",
-      "status": "carried"
     },
     {
       "detail": "latest published annual chart retained until its official replacement",

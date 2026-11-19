@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-18",
+      "id": "bookhub-nielsen-indie-2026-11-19",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-18",
+        "observedAt": "2026-11-19",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -77,7 +77,7 @@
     },
     "childrensBooks": {
       "audience": "children",
-      "id": "booksellers-nz-children-2026-11-12",
+      "id": "booksellers-nz-children-2026-11-19",
       "items": [
         {
           "creator": "Deano Yipadee & Bruce Potter",
@@ -86,34 +86,34 @@
           "title": "Nee Naw's Cracker Christmas"
         },
         {
+          "creator": "Blair Cooper & Cheryl Smith",
+          "isbn13": "9781067027100",
+          "rank": 2,
+          "title": "Pee Wee the Kiwi's Christmas Adventure"
+        },
+        {
           "creator": "Lynley Dodd",
           "isbn13": "9780143504450",
-          "rank": 2,
+          "rank": 3,
           "title": "Hairy Maclary from Donaldson's Dairy"
         },
         {
-          "creator": "Blair Cooper & Cheryl Smith",
-          "isbn13": "9780473295462",
-          "rank": 3,
-          "title": "Pee Wee the Lonely Kiwi Finds a New Friend"
-        },
-        {
-          "creator": "Lynley Dodd",
-          "isbn13": "9781776957477",
+          "creator": "Kat Quin",
+          "isbn13": "9781067079307",
           "rank": 4,
-          "title": "Hairy Maclary and Friends Christmas Fun"
+          "title": "Who, Who? Ruru? (Kuwi & Friends)"
         },
         {
-          "creator": "Merryn Jones & Isobel Joy Te Aho-White",
-          "isbn13": "9781990042966",
+          "creator": "Ruth Shaw",
+          "isbn13": "9781991142504",
           "rank": 5,
-          "title": "Mauri"
+          "title": "Millie from Milford"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "NZ Children and Teens",
-        "observedAt": "2026-11-12",
+        "observedAt": "2026-11-19",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
@@ -176,7 +176,7 @@
           "rank": 7,
           "title": "Wildwood",
           "url": "https://www.boxofficemojo.com/release/rl3546251521/?ref_=bo_we_table_7",
-          "weekendGross": "$30,306",
+          "weekendGross": "$30,638",
           "weeksOnRelease": "4"
         },
         {
@@ -184,7 +184,7 @@
           "rank": 8,
           "title": "How to Rob a Bank",
           "url": "https://www.boxofficemojo.com/release/rl2271510785/?ref_=bo_we_table_8",
-          "weekendGross": "$28,937",
+          "weekendGross": "$29,054",
           "weeksOnRelease": "1"
         },
         {
@@ -229,22 +229,22 @@
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 2,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
-        },
-        {
           "artist": "Tate McRae",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-10-15",
           "title": "Housewife",
           "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 3,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Ashe",
@@ -274,13 +274,13 @@
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
           "rank": 7,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/nz/album/babydoll/6794168372?i=6794168373"
         },
         {
           "artist": "ADÉLA",
@@ -292,13 +292,13 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Jamie Miller",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
-          "id": "6794168373",
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
           "rank": 9,
-          "releaseDate": "2026-08-07",
-          "title": "Babydoll",
-          "url": "https://music.apple.com/nz/album/babydoll/6794168372?i=6794168373"
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -313,7 +313,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 18 Nov 2026 11:35:07 +0000",
+        "observedAt": "Thu, 19 Nov 2026 11:34:27 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -476,9 +476,9 @@
       "year": 2025
     }
   },
-  "contentHash": "2e173820e46c9e7c5061c016ff01e3403a43f61376230e9c63e869a7f22f9c26",
+  "contentHash": "6dc121744c8709758b1467a1fd7590c8176000124b48e431866cf56d2ad122c4",
   "country": "NZ",
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T11:34:34Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T11:33:08Z",
   "schemaVersion": 1
 }

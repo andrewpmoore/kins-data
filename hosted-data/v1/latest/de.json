@@ -1,50 +1,5 @@
 {
   "charts": {
-    "movies": {
-      "id": "media-control-germany-2026-08-30",
-      "items": [
-        {
-          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/unveraendert.png",
-          "genre": "Actionfilm",
-          "rank": 1,
-          "title": "Spider-Man: Brand New Day"
-        },
-        {
-          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/gestiegen.png",
-          "genre": "Actionfilm",
-          "rank": 2,
-          "title": "Die Odyssee"
-        },
-        {
-          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/gefallen.png",
-          "genre": "Komödie",
-          "rank": 3,
-          "title": "Steckerlfischfiasko"
-        },
-        {
-          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/unveraendert.png",
-          "genre": "Kinderfilm",
-          "rank": 4,
-          "title": "PAW Patrol: Der Dino Film"
-        },
-        {
-          "artworkURL": "https://mc-charts-de-stage.azurewebsites.net/wp-content/uploads/2015/07/unveraendert.png",
-          "genre": "Horrorfilm",
-          "rank": 5,
-          "title": "Insidious: Out of the Further"
-        }
-      ],
-      "reportPeriod": "2026-08-27/2026-08-30",
-      "source": {
-        "kind": "theatricalBoxOffice",
-        "metric": "official national weekly cinema chart based on representative admissions",
-        "observedAt": "2026-08-30",
-        "provider": "Media Control",
-        "territory": "DE",
-        "url": "https://mc-charts-de-stage.azurewebsites.net/kino-charts/"
-      },
-      "title": "Official German cinema chart"
-    },
     "music": {
       "id": "apple-music-most-played",
       "items": [
@@ -67,40 +22,40 @@
           "url": "https://music.apple.com/de/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         },
         {
-          "artist": "Bantu Nation, Nu51, G-Mac, Des, Jazeek, Luciano, reezy & THIZZY52",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/09/71/a3097114-db9a-b9c5-2c27-79594cd16235/26UM1IM43318.rgb.jpg/100x100bb.jpg",
-          "id": "6832621534",
-          "rank": 3,
-          "releaseDate": "2026-11-12",
-          "title": "BLACK",
-          "url": "https://music.apple.com/de/album/black/6832621527?i=6832621534"
-        },
-        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/de/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
-          "artist": "HUGEL, Imael Angel & Ultra Naté",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
-          "id": "6769070199",
-          "rank": 5,
-          "releaseDate": "2026-05-22",
-          "title": "Movin' To The Sun",
-          "url": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199"
+          "artist": "Bantu Nation, Nu51, G-Mac, Des, Jazeek, Luciano, reezy & THIZZY52",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/09/71/a3097114-db9a-b9c5-2c27-79594cd16235/26UM1IM43318.rgb.jpg/100x100bb.jpg",
+          "id": "6832621534",
+          "rank": 4,
+          "releaseDate": "2026-11-12",
+          "title": "BLACK",
+          "url": "https://music.apple.com/de/album/black/6832621527?i=6832621534"
         },
         {
           "artist": "Mariah Carey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
           "id": "585972803",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "1994-10-28",
           "title": "All I Want for Christmas Is You",
           "url": "https://music.apple.com/de/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+        },
+        {
+          "artist": "HUGEL, Imael Angel & Ultra Naté",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+          "id": "6769070199",
+          "rank": 6,
+          "releaseDate": "2026-05-22",
+          "title": "Movin' To The Sun",
+          "url": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
@@ -142,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 18 Nov 2026 11:35:07 +0000",
+        "observedAt": "Thu, 19 Nov 2026 11:34:27 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -296,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-11-18T11:34:34Z",
+        "observedAt": "2026-11-19T11:33:08Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -305,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "4ba8167ec09fbb10309508301485d58bffd91fa9421c4c2ef9a2cdf90069c0e4",
+  "contentHash": "feb0bb4dbeedd7da23a655836f34987197680a56fa001e583b4622da9e15a0ee",
   "country": "DE",
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T11:34:34Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T11:33:08Z",
   "schemaVersion": 1
 }

@@ -4,13 +4,13 @@
       "id": "cinetel-national-week-2026-11-15",
       "items": [
         {
-          "admissions": 303418,
+          "admissions": 303639,
           "countryOfOrigin": "ITA",
           "distributor": "NOTORIOUS PICTURES",
           "rank": 1,
           "releaseDate": "2026-11-05",
           "title": "SE DOMANI NON TORNO",
-          "weekendGrossEUR": 2167883.65
+          "weekendGrossEUR": 2169376.65
         },
         {
           "admissions": 244355,
@@ -22,13 +22,13 @@
           "weekendGrossEUR": 1958421.88
         },
         {
-          "admissions": 156986,
+          "admissions": 157037,
           "countryOfOrigin": "ITA",
           "distributor": "PIPER FILM",
           "rank": 3,
           "releaseDate": "2026-10-29",
           "title": "DIO RIDE",
-          "weekendGrossEUR": 1100533.44
+          "weekendGrossEUR": 1100881.44
         },
         {
           "admissions": 134385,
@@ -145,22 +145,22 @@
           "url": "https://music.apple.com/it/album/lontano/6813811429?i=6813811430"
         },
         {
-          "artist": "Alfa",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/db/10/79db10bf-8be8-36ca-210d-c0999234776a/8057715138025.jpg/100x100bb.jpg",
-          "id": "6820638803",
-          "rank": 5,
-          "releaseDate": "2026-10-30",
-          "title": "Eri solo da incontrare",
-          "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
-        },
-        {
           "artist": "Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/17/72/be177275-8027-1800-92bf-9b823f9c478e/1200220044351.jpg/100x100bb.jpg",
           "id": "6807790374",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-01-16",
           "title": "PER NOI (feat. Achille Lauro)",
           "url": "https://music.apple.com/it/album/per-noi-feat-achille-lauro/6807790372?i=6807790374"
+        },
+        {
+          "artist": "Alfa",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/db/10/79db10bf-8be8-36ca-210d-c0999234776a/8057715138025.jpg/100x100bb.jpg",
+          "id": "6820638803",
+          "rank": 6,
+          "releaseDate": "2026-10-30",
+          "title": "Eri solo da incontrare",
+          "url": "https://music.apple.com/it/album/eri-solo-da-incontrare/6820638645?i=6820638803"
         },
         {
           "artist": "Pinguini Tattici Nucleari",
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 18 Nov 2026 11:36:57 +0000",
+        "observedAt": "Thu, 19 Nov 2026 11:34:56 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-18T11:34:34Z",
+        "observedAt": "2026-11-19T11:33:08Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "2ad07da6b049a2f37fbfbe48f899b7885aabbf33c78be73ba022e0c7434bdf7d",
+  "contentHash": "e064835cbf35ac77cc569cc91782e7d03ce0dbcdfb36a3e69aac046293155e9b",
   "country": "IT",
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T11:34:34Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T11:33:08Z",
   "schemaVersion": 1
 }

@@ -216,9 +216,9 @@
         {
           "rank": 9,
           "title": "Wildwood",
-          "totalGross": "$48,361,856",
+          "totalGross": "$48,383,083",
           "url": "https://www.the-numbers.com/movie/Wildwood-(2026)",
-          "weekendGross": "$4,428,692"
+          "weekendGross": "$4,449,919"
         },
         {
           "rank": 10,
@@ -272,39 +272,39 @@
         },
         {
           "artist": "Morgan Wallen",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
-          "id": "6792676860",
-          "rank": 4,
-          "releaseDate": "2026-07-24",
-          "title": "Been By Now",
-          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
-        },
-        {
-          "artist": "Mariah Carey",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
-          "id": "585972803",
-          "rank": 5,
-          "releaseDate": "1994-10-28",
-          "title": "All I Want for Christmas Is You",
-          "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
-        },
-        {
-          "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
           "id": "6812477290",
-          "rank": 6,
+          "rank": 4,
           "releaseDate": "2026-09-17",
           "title": "Last Thing You Need",
           "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
         },
         {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+          "id": "6792676860",
+          "rank": 5,
+          "releaseDate": "2026-07-24",
+          "title": "Been By Now",
+          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+        },
+        {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
+          "rank": 7,
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -337,7 +337,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 18 Nov 2026 11:34:36 +0000",
+        "observedAt": "Thu, 19 Nov 2026 11:33:09 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -471,7 +471,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-18T11:34:34Z",
+        "observedAt": "2026-11-19T11:33:08Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -480,9 +480,9 @@
       "year": 2025
     }
   },
-  "contentHash": "02aba66e7836d2119c209d652b358cbd5e984a44d2c73cbfc8bd5ef100dcc661",
+  "contentHash": "6f21a0e187a0c8181c0de365d22c6022c8a5c3eea34b9dcd789170cf980c671f",
   "country": "US",
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T11:34:34Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T11:33:08Z",
   "schemaVersion": 1
 }
