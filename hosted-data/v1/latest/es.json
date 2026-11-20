@@ -49,19 +49,10 @@
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
-          "artist": "La Pantera & Quevedo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
-          "id": "6823633156",
-          "rank": 6,
-          "releaseDate": "2026-10-23",
-          "title": "DOGGY",
-          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
-        },
-        {
           "artist": "Quevedo & Elvis Crespo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
           "id": "1894272112",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-04-23",
           "title": "LA GRACIOSA",
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
@@ -70,10 +61,19 @@
           "artist": "Myke Towers",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/01/e0/5e01e0f6-91a6-d923-2495-855a4610485f/1200220330331.jpg/100x100bb.jpg",
           "id": "6823686094",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-10-21",
           "title": "Te Imagino",
           "url": "https://music.apple.com/es/album/te-imagino/6823686091?i=6823686094"
+        },
+        {
+          "artist": "La Pantera & Quevedo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
+          "id": "6823633156",
+          "rank": 8,
+          "releaseDate": "2026-10-23",
+          "title": "DOGGY",
+          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
         },
         {
           "artist": "Lucho RK",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 19 Nov 2026 11:34:54 +0000",
+        "observedAt": "Fri, 20 Nov 2026 11:33:01 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-19T11:33:08Z",
+        "observedAt": "2026-11-20T11:29:28Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "70966294c2301c5779a8eacd81d47e8126884590acc408bd643aee29e73ac901",
+  "contentHash": "f79f5a3c52d73460214e3ad7b429aca80cf95981d5aa29a182bce165c1f44a5e",
   "country": "ES",
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T11:33:08Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T11:29:28Z",
   "schemaVersion": 1
 }

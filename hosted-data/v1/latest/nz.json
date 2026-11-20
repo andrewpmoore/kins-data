@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-19",
+      "id": "bookhub-nielsen-indie-2026-11-20",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-19",
+        "observedAt": "2026-11-20",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -200,7 +200,7 @@
           "rank": 10,
           "title": "George Michael: The Faith Tour",
           "url": "https://www.boxofficemojo.com/release/rl4167336193/?ref_=bo_we_table_10",
-          "weekendGross": "$17,615",
+          "weekendGross": "$17,749",
           "weeksOnRelease": "1"
         }
       ],
@@ -229,22 +229,22 @@
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 2,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 3,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "Ashe",
@@ -256,19 +256,10 @@
           "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609507",
-          "rank": 5,
-          "releaseDate": "2026-09-26",
-          "title": "So Easy (To Fall In Love)",
-          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
@@ -277,7 +268,7 @@
           "artist": "Jamie Miller",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
           "id": "6794168373",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-08-07",
           "title": "Babydoll",
           "url": "https://music.apple.com/nz/album/babydoll/6794168372?i=6794168373"
@@ -286,10 +277,19 @@
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609507",
+          "rank": 8,
+          "releaseDate": "2026-09-26",
+          "title": "So Easy (To Fall In Love)",
+          "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -301,19 +301,19 @@
           "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992123",
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+          "id": "6819802968",
           "rank": 10,
-          "releaseDate": "2026-05-22",
-          "title": "the cure",
-          "url": "https://music.apple.com/nz/album/the-cure/1889992111?i=1889992123"
+          "releaseDate": "2026-10-15",
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "url": "https://music.apple.com/nz/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 19 Nov 2026 11:34:27 +0000",
+        "observedAt": "Fri, 20 Nov 2026 11:32:59 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -476,9 +476,9 @@
       "year": 2025
     }
   },
-  "contentHash": "6dc121744c8709758b1467a1fd7590c8176000124b48e431866cf56d2ad122c4",
+  "contentHash": "26436dbc3e140999098f39ce53d5b54435b011cd3c302ff6df56cf21bdddfda7",
   "country": "NZ",
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T11:33:08Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T11:29:28Z",
   "schemaVersion": 1
 }

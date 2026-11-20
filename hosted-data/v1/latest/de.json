@@ -4,22 +4,22 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 1,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/de/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
           "id": "6819802968",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2026-10-15",
           "title": "Flower In A Hurricane [From GTAVI: Original Score]",
           "url": "https://music.apple.com/de/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 2,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/de/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "Ashe",
@@ -31,22 +31,22 @@
           "url": "https://music.apple.com/de/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
-          "artist": "Bantu Nation, Nu51, G-Mac, Des, Jazeek, Luciano, reezy & THIZZY52",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/09/71/a3097114-db9a-b9c5-2c27-79594cd16235/26UM1IM43318.rgb.jpg/100x100bb.jpg",
-          "id": "6832621534",
-          "rank": 4,
-          "releaseDate": "2026-11-12",
-          "title": "BLACK",
-          "url": "https://music.apple.com/de/album/black/6832621527?i=6832621534"
-        },
-        {
           "artist": "Mariah Carey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
           "id": "585972803",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "1994-10-28",
           "title": "All I Want for Christmas Is You",
           "url": "https://music.apple.com/de/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+        },
+        {
+          "artist": "Bantu Nation, Nu51, G-Mac, Des, Jazeek, Luciano, reezy & THIZZY52",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/09/71/a3097114-db9a-b9c5-2c27-79594cd16235/26UM1IM43318.rgb.jpg/100x100bb.jpg",
+          "id": "6832621534",
+          "rank": 5,
+          "releaseDate": "2026-11-12",
+          "title": "BLACK",
+          "url": "https://music.apple.com/de/album/black/6832621527?i=6832621534"
         },
         {
           "artist": "HUGEL, Imael Angel & Ultra Naté",
@@ -58,46 +58,46 @@
           "url": "https://music.apple.com/de/album/movin-to-the-sun/6769069923?i=6769070199"
         },
         {
-          "artist": "KAROL G, Judeline & rusowsky",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-          "id": "6796864754",
-          "rank": 7,
-          "releaseDate": "2026-08-05",
-          "title": "BbY WOW",
-          "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
-        },
-        {
           "artist": "The Killers",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/100x100bb.jpg",
           "id": "1526194192",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2003-09-29",
           "title": "Mr. Brightside",
           "url": "https://music.apple.com/de/album/mr-brightside/1526194184?i=1526194192"
         },
         {
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 8,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/de/album/bby-wow/6796864741?i=6796864754"
+        },
+        {
+          "artist": "Sido",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/95/ae/d695ae05-8bf2-1106-b3b1-5c6ae308caa3/26UM1IM04650.rgb.jpg/100x100bb.jpg",
+          "id": "6801468864",
+          "rank": 9,
+          "releaseDate": "2026-08-20",
+          "title": "ISSA",
+          "url": "https://music.apple.com/de/album/issa/6801468850?i=6801468864"
+        },
+        {
           "artist": "Season 25",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/6a/24/de6a24ad-61f6-0e9b-9b55-4a1b837cd173/859747113777.jpg/100x100bb.jpg",
           "id": "6828537514",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-09-20",
           "title": "Shotta's.",
           "url": "https://music.apple.com/de/album/shottas/6828537513?i=6828537514"
-        },
-        {
-          "artist": "Taylor Swift",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
-          "id": "6814997425",
-          "rank": 10,
-          "releaseDate": "2026-09-24",
-          "title": "Patient Zero",
-          "url": "https://music.apple.com/de/album/patient-zero/6814997249?i=6814997425"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 19 Nov 2026 11:34:27 +0000",
+        "observedAt": "Fri, 20 Nov 2026 11:33:00 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-11-19T11:33:08Z",
+        "observedAt": "2026-11-20T11:29:28Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "feb0bb4dbeedd7da23a655836f34987197680a56fa001e583b4622da9e15a0ee",
+  "contentHash": "10547a0be2ed0d527066521699868d44774433b0fb68d94cb2737b30e67939a1",
   "country": "DE",
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T11:33:08Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T11:29:28Z",
   "schemaVersion": 1
 }

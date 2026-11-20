@@ -129,7 +129,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "Friday-to-Sunday theatrical box-office gross in pounds sterling",
-        "observedAt": "2026-11-19T11:33:08Z",
+        "observedAt": "2026-11-20T11:29:28Z",
         "provider": "British Film Institute",
         "territory": "GB",
         "url": "https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures"
@@ -176,22 +176,22 @@
           "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411"
         },
         {
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+          "id": "6819802968",
+          "rank": 5,
+          "releaseDate": "2026-10-15",
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "url": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+        },
+        {
           "artist": "HUGEL, Imael Angel & Ultra Naté",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
           "id": "6769070199",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-05-22",
           "title": "Movin' To The Sun",
           "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
-        },
-        {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 6,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Sam Fender & Olivia Dean",
@@ -203,22 +203,22 @@
           "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
         },
         {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 8,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
-        },
-        {
-          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
-          "id": "6819802968",
-          "rank": 9,
-          "releaseDate": "2026-10-15",
-          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
-          "url": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         },
         {
           "artist": "sombr",
@@ -233,7 +233,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 19 Nov 2026 11:33:08 +0000",
+        "observedAt": "Fri, 20 Nov 2026 11:29:50 +0000",
         "provider": "Apple Music",
         "territory": "GB",
         "url": "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/10/songs.json"
@@ -387,7 +387,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "England and Wales birth-name rank by sex; counts below three suppressed",
-        "observedAt": "2026-11-19T11:33:08Z",
+        "observedAt": "2026-11-20T11:29:28Z",
         "provider": "Office for National Statistics",
         "territory": "GB",
         "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996"
@@ -396,9 +396,9 @@
       "year": 2025
     }
   },
-  "contentHash": "28c915516325bdf7e3ac9a4e565a3fad7515a727ec7fdc984ec508f55fed1835",
+  "contentHash": "e9c88e52d5a500e3eb0d2d57e307d39facfff7c300c5166c750728094659f496",
   "country": "GB",
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T11:33:08Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T11:29:28Z",
   "schemaVersion": 1
 }
