@@ -40,19 +40,10 @@
           "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
         },
         {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338555",
-          "rank": 5,
-          "releaseDate": "2026-10-09",
-          "title": "SUMISA",
-          "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
-        },
-        {
           "artist": "Quevedo & Elvis Crespo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
           "id": "1894272112",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-04-23",
           "title": "LA GRACIOSA",
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
@@ -61,10 +52,19 @@
           "artist": "Myke Towers",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/01/e0/5e01e0f6-91a6-d923-2495-855a4610485f/1200220330331.jpg/100x100bb.jpg",
           "id": "6823686094",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-21",
           "title": "Te Imagino",
           "url": "https://music.apple.com/es/album/te-imagino/6823686091?i=6823686094"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338555",
+          "rank": 7,
+          "releaseDate": "2026-10-09",
+          "title": "SUMISA",
+          "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
           "artist": "La Pantera & Quevedo",
@@ -85,19 +85,19 @@
           "url": "https://music.apple.com/es/album/aire/6784833436?i=6784833437"
         },
         {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338666",
+          "artist": "Bad Bunny",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/100x100bb.jpg",
+          "id": "1570323056",
           "rank": 10,
-          "releaseDate": "2026-10-09",
-          "title": "SORDO DE UN PIE (interludio)",
-          "url": "https://music.apple.com/es/album/sordo-de-un-pie-interludio/6817338538?i=6817338666"
+          "releaseDate": "2021-06-04",
+          "title": "Yonaguni",
+          "url": "https://music.apple.com/es/album/yonaguni/1570323047?i=1570323056"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 20 Nov 2026 11:33:01 +0000",
+        "observedAt": "Sat, 21 Nov 2026 11:00:24 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-20T11:29:28Z",
+        "observedAt": "2026-11-21T10:56:19Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "f79f5a3c52d73460214e3ad7b429aca80cf95981d5aa29a182bce165c1f44a5e",
+  "contentHash": "0a9d3aad530fee9a089aef55f5fd3f6403536956c1c7af95c0a979a0455240a1",
   "country": "ES",
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-20T11:29:28Z",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T10:56:19Z",
   "schemaVersion": 1
 }

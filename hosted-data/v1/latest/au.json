@@ -211,22 +211,22 @@
           "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
-          "artist": "STELLA LEFTY",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
-          "id": "1884403093",
-          "rank": 5,
-          "releaseDate": "2026-03-27",
-          "title": "Boston",
-          "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
-        },
-        {
           "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
           "id": "6819802968",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-10-15",
           "title": "Flower In A Hurricane [From GTAVI: Original Score]",
           "url": "https://music.apple.com/au/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+        },
+        {
+          "artist": "STELLA LEFTY",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
+          "id": "1884403093",
+          "rank": 6,
+          "releaseDate": "2026-03-27",
+          "title": "Boston",
+          "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -268,7 +268,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 20 Nov 2026 11:32:06 +0000",
+        "observedAt": "Sat, 21 Nov 2026 10:57:15 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "a0164bb87f9539123d18ad3208b50d4aa568fc492ead59854cc4ff66919394e7",
+  "contentHash": "dc8f95717da9d3b7e2a961f819ab18b5965aed05e000c58906df98577cea008e",
   "country": "AU",
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-20T11:29:28Z",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T10:56:19Z",
   "schemaVersion": 1
 }

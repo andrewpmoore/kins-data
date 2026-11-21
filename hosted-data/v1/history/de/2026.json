@@ -496,12 +496,23 @@
             }
           ],
           "startDate": "2026-10-23"
+        },
+        {
+          "endDate": "2026-11-26",
+          "items": [
+            {
+              "artist": "Ski Aggu and Ericson",
+              "rank": 1,
+              "title": "Verschwommen"
+            }
+          ],
+          "startDate": "2026-11-20"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-13",
+        "observedAt": "2026-11-20",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -509,7 +520,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "0d779aaeaa5b8c47aaf9bf4e8236d78ac08f0d6c726c73679624cde85cfd4064",
+  "contentHash": "89e6126138c186790d27e0a3ce3d6ab24a42e80116aa34c9c86e2f06ea9a5c65",
   "country": "de",
   "schemaVersion": 1,
   "year": 2026

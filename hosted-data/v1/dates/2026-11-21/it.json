@@ -1,0 +1,393 @@
+{
+  "charts": {
+    "movies": {
+      "id": "cinetel-national-week-2026-11-15",
+      "items": [
+        {
+          "admissions": 303617,
+          "countryOfOrigin": "ITA",
+          "distributor": "NOTORIOUS PICTURES",
+          "rank": 1,
+          "releaseDate": "2026-11-05",
+          "title": "SE DOMANI NON TORNO",
+          "weekendGrossEUR": 2169254.65
+        },
+        {
+          "admissions": 244355,
+          "countryOfOrigin": "USA",
+          "distributor": "EAGLE PICTURES",
+          "rank": 2,
+          "releaseDate": "2026-11-12",
+          "title": "SCROOGE E GLI SPIRITI DEL NATALE (EBENEZER)",
+          "weekendGrossEUR": 1958421.88
+        },
+        {
+          "admissions": 157174,
+          "countryOfOrigin": "ITA",
+          "distributor": "PIPER FILM",
+          "rank": 3,
+          "releaseDate": "2026-10-29",
+          "title": "DIO RIDE",
+          "weekendGrossEUR": 1101707.94
+        },
+        {
+          "admissions": 134385,
+          "countryOfOrigin": "ITA",
+          "distributor": "VISION DISTRIBUTION",
+          "rank": 4,
+          "releaseDate": "2026-11-12",
+          "title": "UN WEEKEND ARTIFICIALE",
+          "weekendGrossEUR": 1081364.94
+        },
+        {
+          "admissions": 141207,
+          "countryOfOrigin": "USA",
+          "distributor": "WALT DISNEY S.M.P. ITALIA",
+          "rank": 5,
+          "releaseDate": "2026-11-05",
+          "title": "WILD HORSE NINE",
+          "weekendGrossEUR": 1033979.32
+        },
+        {
+          "admissions": 134568,
+          "countryOfOrigin": "ITA",
+          "distributor": "01 DISTRIBUTION",
+          "rank": 6,
+          "releaseDate": "2026-11-12",
+          "title": "IL RUMORE DELLE COSE NUOVE",
+          "weekendGrossEUR": 1031913.3
+        },
+        {
+          "admissions": 96380,
+          "countryOfOrigin": "GBR",
+          "distributor": "WARNER BROS. ITALIA",
+          "rank": 7,
+          "releaseDate": "2026-11-05",
+          "title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
+          "weekendGrossEUR": 707459.76
+        },
+        {
+          "admissions": 74851,
+          "countryOfOrigin": "JPN",
+          "distributor": "PLAION PICTURES",
+          "rank": 8,
+          "releaseDate": "2026-11-12",
+          "title": "GODZILLA MINUS ZERO",
+          "weekendGrossEUR": 652340.95
+        },
+        {
+          "admissions": 49320,
+          "countryOfOrigin": "ITA",
+          "distributor": "01 DISTRIBUTION",
+          "rank": 9,
+          "releaseDate": "2026-10-29",
+          "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
+          "weekendGrossEUR": 362022.38
+        },
+        {
+          "admissions": 28812,
+          "countryOfOrigin": "KOR",
+          "distributor": "MUBI",
+          "rank": 10,
+          "releaseDate": "2026-11-05",
+          "title": "HOPE",
+          "weekendGrossEUR": 226329.79
+        }
+      ],
+      "reportPeriod": "2026-11-09/2026-11-15",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "national weekly theatrical gross in euros",
+        "observedAt": "2026-11-15",
+        "provider": "Cinetel",
+        "territory": "IT",
+        "url": "https://tamburino.cinetel.it/pages/boxoffice.php?edperiodo=c2NvcnNhc2V0dGltYW5hbGU%3D"
+      },
+      "title": "Italy national weekly theatrical box office"
+    },
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545164",
+          "rank": 1,
+          "releaseDate": "2026-11-20",
+          "title": "800 cv",
+          "url": "https://music.apple.com/it/album/800-cv/6835544984?i=6835545164"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545002",
+          "rank": 2,
+          "releaseDate": "2026-11-20",
+          "title": "Purosangue",
+          "url": "https://music.apple.com/it/album/purosangue/6835544984?i=6835545002"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545188",
+          "rank": 3,
+          "releaseDate": "2026-11-20",
+          "title": "Victory Lap",
+          "url": "https://music.apple.com/it/album/victory-lap/6835544984?i=6835545188"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545167",
+          "rank": 4,
+          "releaseDate": "2026-11-20",
+          "title": "Non guardarmi così",
+          "url": "https://music.apple.com/it/album/non-guardarmi-cos%C3%AC/6835544984?i=6835545167"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545172",
+          "rank": 5,
+          "releaseDate": "2026-11-20",
+          "title": "Account",
+          "url": "https://music.apple.com/it/album/account/6835544984?i=6835545172"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545174",
+          "rank": 6,
+          "releaseDate": "2026-11-20",
+          "title": "Moonlight",
+          "url": "https://music.apple.com/it/album/moonlight/6835544984?i=6835545174"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545173",
+          "rank": 7,
+          "releaseDate": "2026-11-20",
+          "title": "Ti soffro",
+          "url": "https://music.apple.com/it/album/ti-soffro/6835544984?i=6835545173"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545180",
+          "rank": 8,
+          "releaseDate": "2026-11-20",
+          "title": "Ti ricordi",
+          "url": "https://music.apple.com/it/album/ti-ricordi/6835544984?i=6835545180"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545184",
+          "rank": 9,
+          "releaseDate": "2026-11-20",
+          "title": "Comethe",
+          "url": "https://music.apple.com/it/album/comethe/6835544984?i=6835545184"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545283",
+          "rank": 10,
+          "releaseDate": "2026-11-20",
+          "title": "Cose Nostalgiche",
+          "url": "https://music.apple.com/it/album/cose-nostalgiche/6835544984?i=6835545283"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Sat, 21 Nov 2026 11:00:51 +0000",
+        "provider": "Apple Music",
+        "territory": "IT",
+        "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
+      },
+      "title": "Top brani"
+    },
+    "names": {
+      "id": "istat-italy-baby-names",
+      "items": [
+        {
+          "category": "boy",
+          "count": 5895,
+          "name": "Leonardo",
+          "rank": 1,
+          "rankGroup": "boy",
+          "sharePercent": 3.231
+        },
+        {
+          "category": "boy",
+          "count": 5485,
+          "name": "Edoardo",
+          "rank": 2,
+          "rankGroup": "boy",
+          "sharePercent": 3.0063
+        },
+        {
+          "category": "boy",
+          "count": 4237,
+          "name": "Tommaso",
+          "rank": 3,
+          "rankGroup": "boy",
+          "sharePercent": 2.3223
+        },
+        {
+          "category": "boy",
+          "count": 4082,
+          "name": "Alessandro",
+          "rank": 4,
+          "rankGroup": "boy",
+          "sharePercent": 2.2373
+        },
+        {
+          "category": "boy",
+          "count": 4010,
+          "name": "Francesco",
+          "rank": 5,
+          "rankGroup": "boy",
+          "sharePercent": 2.1979
+        },
+        {
+          "category": "boy",
+          "count": 3798,
+          "name": "Lorenzo",
+          "rank": 6,
+          "rankGroup": "boy",
+          "sharePercent": 2.0817
+        },
+        {
+          "category": "boy",
+          "count": 3719,
+          "name": "Mattia",
+          "rank": 7,
+          "rankGroup": "boy",
+          "sharePercent": 2.0384
+        },
+        {
+          "category": "boy",
+          "count": 3671,
+          "name": "Gabriele",
+          "rank": 8,
+          "rankGroup": "boy",
+          "sharePercent": 2.012
+        },
+        {
+          "category": "boy",
+          "count": 3497,
+          "name": "Riccardo",
+          "rank": 9,
+          "rankGroup": "boy",
+          "sharePercent": 1.9167
+        },
+        {
+          "category": "boy",
+          "count": 2735,
+          "name": "Andrea",
+          "rank": 10,
+          "rankGroup": "boy",
+          "sharePercent": 1.499
+        },
+        {
+          "category": "girl",
+          "count": 4389,
+          "name": "Sofia",
+          "rank": 1,
+          "rankGroup": "girl",
+          "sharePercent": 2.541
+        },
+        {
+          "category": "girl",
+          "count": 3956,
+          "name": "Aurora",
+          "rank": 2,
+          "rankGroup": "girl",
+          "sharePercent": 2.2903
+        },
+        {
+          "category": "girl",
+          "count": 3686,
+          "name": "Ginevra",
+          "rank": 3,
+          "rankGroup": "girl",
+          "sharePercent": 2.134
+        },
+        {
+          "category": "girl",
+          "count": 3626,
+          "name": "Vittoria",
+          "rank": 4,
+          "rankGroup": "girl",
+          "sharePercent": 2.0993
+        },
+        {
+          "category": "girl",
+          "count": 3325,
+          "name": "Beatrice",
+          "rank": 5,
+          "rankGroup": "girl",
+          "sharePercent": 1.925
+        },
+        {
+          "category": "girl",
+          "count": 3074,
+          "name": "Giulia",
+          "rank": 6,
+          "rankGroup": "girl",
+          "sharePercent": 1.7797
+        },
+        {
+          "category": "girl",
+          "count": 3006,
+          "name": "Matilde",
+          "rank": 7,
+          "rankGroup": "girl",
+          "sharePercent": 1.7403
+        },
+        {
+          "category": "girl",
+          "count": 3001,
+          "name": "Ludovica",
+          "rank": 8,
+          "rankGroup": "girl",
+          "sharePercent": 1.7374
+        },
+        {
+          "category": "girl",
+          "count": 2745,
+          "name": "Alice",
+          "rank": 9,
+          "rankGroup": "girl",
+          "sharePercent": 1.5892
+        },
+        {
+          "category": "girl",
+          "count": 2407,
+          "name": "Camilla",
+          "rank": 10,
+          "rankGroup": "girl",
+          "sharePercent": 1.3935
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national registered baby-name rank, count and sex share",
+        "observedAt": "2026-11-21T10:56:19Z",
+        "provider": "Istat",
+        "territory": "IT",
+        "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "c9086a23b9fdb652c21d6d977ee6b45bcd53cd33bc69fcf53b14aaeac4983090",
+  "country": "IT",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T10:56:19Z",
+  "schemaVersion": 1
+}
