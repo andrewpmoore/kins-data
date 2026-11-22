@@ -111,8 +111,17 @@
         {
           "artist": "Sfera Ebbasta",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
-          "id": "6835545164",
+          "id": "6835545188",
           "rank": 1,
+          "releaseDate": "2026-11-20",
+          "title": "Victory Lap",
+          "url": "https://music.apple.com/it/album/victory-lap/6835544984?i=6835545188"
+        },
+        {
+          "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545164",
+          "rank": 2,
           "releaseDate": "2026-11-20",
           "title": "800 cv",
           "url": "https://music.apple.com/it/album/800-cv/6835544984?i=6835545164"
@@ -121,19 +130,10 @@
           "artist": "Sfera Ebbasta",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
           "id": "6835545002",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2026-11-20",
           "title": "Purosangue",
           "url": "https://music.apple.com/it/album/purosangue/6835544984?i=6835545002"
-        },
-        {
-          "artist": "Sfera Ebbasta",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
-          "id": "6835545188",
-          "rank": 3,
-          "releaseDate": "2026-11-20",
-          "title": "Victory Lap",
-          "url": "https://music.apple.com/it/album/victory-lap/6835544984?i=6835545188"
         },
         {
           "artist": "Sfera Ebbasta",
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 21 Nov 2026 11:00:51 +0000",
+        "observedAt": "Sun, 22 Nov 2026 11:16:50 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-21T10:56:19Z",
+        "observedAt": "2026-11-22T11:15:00Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "c9086a23b9fdb652c21d6d977ee6b45bcd53cd33bc69fcf53b14aaeac4983090",
+  "contentHash": "ce981866e3d0a068f337766e8d211823ef66c4477278cd759f1eaba8f45a1cde",
   "country": "IT",
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T10:56:19Z",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T11:15:00Z",
   "schemaVersion": 1
 }

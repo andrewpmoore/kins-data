@@ -152,92 +152,6 @@
       },
       "title": "Circana BookScan Children's Frontlist Fiction"
     },
-    "movies": {
-      "id": "the-numbers-us-2026-11-13",
-      "items": [
-        {
-          "rank": 1,
-          "title": "Ebenezer",
-          "totalGross": "$19,012,017",
-          "url": "https://www.the-numbers.com/movie/Ebenezer-(2026)",
-          "weekendGross": "$19,012,017"
-        },
-        {
-          "rank": 2,
-          "title": "The Cat in the Hat",
-          "totalGross": "$38,065,886",
-          "url": "https://www.the-numbers.com/movie/Cat-in-the-Hat-The-(2026)",
-          "weekendGross": "$11,300,531"
-        },
-        {
-          "rank": 3,
-          "title": "Godzilla Minus Zero",
-          "totalGross": "$49,104,329",
-          "url": "https://www.the-numbers.com/movie/Godzilla-Minus-Zero-(2026-Japan)",
-          "weekendGross": "$8,531,067"
-        },
-        {
-          "rank": 4,
-          "title": "Ramayana: Rise of a Legend",
-          "totalGross": "$24,434,121",
-          "url": "https://www.the-numbers.com/movie/Ramayana-Part-1-(2026-India)",
-          "weekendGross": "$5,802,929"
-        },
-        {
-          "rank": 5,
-          "title": "You Can See Everything",
-          "totalGross": "$88,896,289",
-          "url": "https://www.the-numbers.com/movie/You-Can-See-Everything-(2026)",
-          "weekendGross": "$5,357,520"
-        },
-        {
-          "rank": 6,
-          "title": "How to Rob a Bank",
-          "totalGross": "$5,186,118",
-          "url": "https://www.the-numbers.com/movie/How-to-Rob-a-Bank-(2026)",
-          "weekendGross": "$5,186,118"
-        },
-        {
-          "rank": 7,
-          "title": "Ghost Soldier",
-          "totalGross": "$8,212,392",
-          "url": "https://www.the-numbers.com/movie/Ghost-Soldier-(2026)",
-          "weekendGross": "$5,103,780"
-        },
-        {
-          "rank": 8,
-          "title": "Wild Horse Nine",
-          "totalGross": "$13,249,797",
-          "url": "https://www.the-numbers.com/movie/Wild-Horse-Nine-(2026-United-Kingdom)",
-          "weekendGross": "$4,525,465"
-        },
-        {
-          "rank": 9,
-          "title": "Wildwood",
-          "totalGross": "$48,383,083",
-          "url": "https://www.the-numbers.com/movie/Wildwood-(2026)",
-          "weekendGross": "$4,449,919"
-        },
-        {
-          "rank": 10,
-          "title": "Clayface",
-          "totalGross": "$63,609,435",
-          "url": "https://www.the-numbers.com/movie/Clayface-(2026)",
-          "weekendGross": "$3,700,314"
-        }
-      ],
-      "reportPeriod": "2026-11-13/2026-11-15",
-      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/11/13",
-      "source": {
-        "kind": "theatricalBoxOffice",
-        "metric": "US theatrical weekend gross",
-        "observedAt": "2026-11-15",
-        "provider": "The Numbers",
-        "territory": "US",
-        "url": "https://www.the-numbers.com/box-office"
-      },
-      "title": "US weekend theatrical box office"
-    },
     "music": {
       "id": "apple-music-most-played",
       "items": [
@@ -269,10 +183,19 @@
           "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
         },
         {
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
+          "rank": 4,
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+        },
+        {
           "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
           "id": "6819802968",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-10-15",
           "title": "Flower In A Hurricane [From GTAVI: Original Score]",
           "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
@@ -281,7 +204,7 @@
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
@@ -290,19 +213,10 @@
           "artist": "Tate McRae",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2026-10-15",
           "title": "Housewife",
           "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
-        },
-        {
-          "artist": "Mariah Carey",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
-          "id": "585972803",
-          "rank": 7,
-          "releaseDate": "1994-10-28",
-          "title": "All I Want for Christmas Is You",
-          "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
         },
         {
           "artist": "Drake",
@@ -335,7 +249,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 21 Nov 2026 10:56:47 +0000",
+        "observedAt": "Sun, 22 Nov 2026 11:15:01 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -469,7 +383,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-21T10:56:19Z",
+        "observedAt": "2026-11-22T11:15:00Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -478,9 +392,9 @@
       "year": 2025
     }
   },
-  "contentHash": "53472858dbc27783204dda1545486a235b17ab85943b0c629a4c09f3d12329bc",
+  "contentHash": "005607b3b0691ba4727deeec48f04dc8ddfedf246b19e2a1186e9e6402664908",
   "country": "US",
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T10:56:19Z",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T11:15:00Z",
   "schemaVersion": 1
 }

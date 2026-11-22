@@ -193,10 +193,19 @@
           "url": "https://music.apple.com/au/album/housewife/6822497770?i=6822497774"
         },
         {
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+          "id": "6819802968",
+          "rank": 3,
+          "releaseDate": "2026-10-15",
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "url": "https://music.apple.com/au/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+        },
+        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 3,
+          "rank": 4,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
@@ -205,19 +214,10 @@
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
-        },
-        {
-          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
-          "id": "6819802968",
-          "rank": 5,
-          "releaseDate": "2026-10-15",
-          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
-          "url": "https://music.apple.com/au/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         },
         {
           "artist": "STELLA LEFTY",
@@ -238,10 +238,19 @@
           "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
         },
         {
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
+          "rank": 8,
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/au/album/babydoll/6794168372?i=6794168373"
+        },
+        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 8,
+          "rank": 9,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
@@ -250,25 +259,16 @@
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
-          "artist": "Jamie Miller",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
-          "id": "6794168373",
-          "rank": 10,
-          "releaseDate": "2026-08-07",
-          "title": "Babydoll",
-          "url": "https://music.apple.com/au/album/babydoll/6794168372?i=6794168373"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sat, 21 Nov 2026 10:57:15 +0000",
+        "observedAt": "Sun, 22 Nov 2026 11:16:22 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "dc8f95717da9d3b7e2a961f819ab18b5965aed05e000c58906df98577cea008e",
+  "contentHash": "7ef7ef7f807194f6429b6e6310641bebee81806f71f831a11a069bcb88627e4d",
   "country": "AU",
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T10:56:19Z",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T11:15:00Z",
   "schemaVersion": 1
 }
