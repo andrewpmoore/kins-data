@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "publishers-weekly-adult-2026-11-16",
+      "id": "publishers-weekly-adult-2026-11-23",
       "items": [
         {
           "creator": "Dav Pilkey, Dav Pilkey",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "Circana BookScan Top 10 Overall",
-        "observedAt": "2026-11-16",
+        "observedAt": "2026-11-23",
         "provider": "Publishers Weekly / Circana BookScan",
         "territory": "US",
         "url": "https://www.publishersweekly.com/pw/nielsen/top100.html"
@@ -77,7 +77,7 @@
     },
     "childrensBooks": {
       "audience": "children",
-      "id": "publishers-weekly-children-2026-11-16",
+      "id": "publishers-weekly-children-2026-11-23",
       "items": [
         {
           "creator": "Dav Pilkey, Dav Pilkey",
@@ -145,12 +145,98 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "Circana BookScan Children's Frontlist Fiction",
-        "observedAt": "2026-11-16",
+        "observedAt": "2026-11-23",
         "provider": "Publishers Weekly / Circana BookScan",
         "territory": "US",
         "url": "https://www.publishersweekly.com/pw/nielsen/kidsfiction.html"
       },
       "title": "Circana BookScan Children's Frontlist Fiction"
+    },
+    "movies": {
+      "id": "the-numbers-us-2026-11-20",
+      "items": [
+        {
+          "rank": 1,
+          "title": "The Hunger Games: Sunrise on the Reaping",
+          "totalGross": "$120,000,000",
+          "url": "https://www.the-numbers.com/movie/Hunger-Games-The-Sunrise-on-the-Reaping-(2026)",
+          "weekendGross": "$120,000,000"
+        },
+        {
+          "rank": 2,
+          "title": "I Play Rocky",
+          "totalGross": "$10,423,000",
+          "url": "https://www.the-numbers.com/movie/I-Play-Rocky-(2026)",
+          "weekendGross": "$9,328,000"
+        },
+        {
+          "rank": 3,
+          "title": "Ebenezer",
+          "totalGross": "$32,547,000",
+          "url": "https://www.the-numbers.com/movie/Ebenezer-(2026)",
+          "weekendGross": "$7,700,000"
+        },
+        {
+          "rank": 4,
+          "title": "The Cat in the Hat",
+          "totalGross": "$47,119,000",
+          "url": "https://www.the-numbers.com/movie/Cat-in-the-Hat-The-(2026)",
+          "weekendGross": "$6,850,000"
+        },
+        {
+          "rank": 5,
+          "title": "Godzilla Minus Zero",
+          "totalGross": "$54,559,000",
+          "url": "https://www.the-numbers.com/movie/Godzilla-Minus-Zero-(2026-Japan)",
+          "weekendGross": "$2,695,000"
+        },
+        {
+          "rank": 6,
+          "title": "You Can See Everything",
+          "totalGross": "$93,470,381",
+          "url": "https://www.the-numbers.com/movie/You-Can-See-Everything-(2026)",
+          "weekendGross": "$2,524,733"
+        },
+        {
+          "rank": 7,
+          "title": "Wild Horse Nine",
+          "totalGross": "$17,964,466",
+          "url": "https://www.the-numbers.com/movie/Wild-Horse-Nine-(2026-United-Kingdom)",
+          "weekendGross": "$2,500,000"
+        },
+        {
+          "rank": 8,
+          "title": "Ghost Soldier",
+          "totalGross": "$12,491,000",
+          "url": "https://www.the-numbers.com/movie/Ghost-Soldier-(2026)",
+          "weekendGross": "$2,350,000"
+        },
+        {
+          "rank": 9,
+          "title": "Wildwood",
+          "totalGross": "$52,395,000",
+          "url": "https://www.the-numbers.com/movie/Wildwood-(2026)",
+          "weekendGross": "$2,300,000"
+        },
+        {
+          "rank": 10,
+          "title": "Ramayana: Rise of a Legend",
+          "totalGross": "$28,409,000",
+          "url": "https://www.the-numbers.com/movie/Ramayana-Part-1-(2026-India)",
+          "weekendGross": "$2,065,000"
+        }
+      ],
+      "reportPeriod": "2026-11-20/2026-11-22",
+      "reportURL": "https://www.the-numbers.com/box-office-chart/weekend/2026/11/20",
+      "source": {
+        "kind": "theatricalBoxOffice",
+        "metric": "US theatrical weekend gross",
+        "observedAt": "2026-11-22",
+        "provider": "The Numbers",
+        "territory": "US",
+        "url": "https://www.the-numbers.com/box-office"
+      },
+      "title": "US weekend theatrical box office"
     },
     "music": {
       "id": "apple-music-most-played",
@@ -165,76 +251,76 @@
           "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Morgan Wallen",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
-          "id": "6812477290",
-          "rank": 2,
-          "releaseDate": "2026-09-17",
-          "title": "Last Thing You Need",
-          "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
-        },
-        {
-          "artist": "KAROL G, Judeline & rusowsky",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-          "id": "6796864754",
-          "rank": 3,
-          "releaseDate": "2026-08-05",
-          "title": "BbY WOW",
-          "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
-        },
-        {
           "artist": "Mariah Carey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
           "id": "585972803",
-          "rank": 4,
+          "rank": 2,
           "releaseDate": "1994-10-28",
           "title": "All I Want for Christmas Is You",
           "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
         },
         {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+          "id": "6812477290",
+          "rank": 3,
+          "releaseDate": "2026-09-17",
+          "title": "Last Thing You Need",
+          "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+        },
+        {
           "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
           "id": "6819802968",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-10-15",
           "title": "Flower In A Hurricane [From GTAVI: Original Score]",
           "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         },
         {
-          "artist": "Morgan Wallen",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
-          "id": "6792676860",
-          "rank": 6,
-          "releaseDate": "2026-07-24",
-          "title": "Been By Now",
-          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+          "artist": "KAROL G, Judeline & rusowsky",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+          "id": "6796864754",
+          "rank": 5,
+          "releaseDate": "2026-08-05",
+          "title": "BbY WOW",
+          "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
         },
         {
           "artist": "Tate McRae",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-10-15",
           "title": "Housewife",
           "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Drake",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
-          "id": "6769568596",
-          "rank": 8,
-          "releaseDate": "2026-05-15",
-          "title": "Janice STFU",
-          "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+          "id": "6792676860",
+          "rank": 7,
+          "releaseDate": "2026-07-24",
+          "title": "Been By Now",
+          "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
         },
         {
           "artist": "Lil Baby",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
           "id": "1648587330",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2022-04-08",
           "title": "In A Minute",
           "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+        },
+        {
+          "artist": "Kelly Clarkson",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/40/2d/ee402d50-4a55-bcbe-b71c-6690784d4d37/886444201209.jpg/100x99bb.jpg",
+          "id": "720861445",
+          "rank": 9,
+          "releaseDate": "2013-10-25",
+          "title": "Underneath the Tree",
+          "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445"
         },
         {
           "artist": "Lil Baby",
@@ -249,7 +335,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 22 Nov 2026 11:15:01 +0000",
+        "observedAt": "Mon, 23 Nov 2026 12:26:53 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -383,7 +469,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-22T11:15:00Z",
+        "observedAt": "2026-11-23T12:26:26Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -392,9 +478,9 @@
       "year": 2025
     }
   },
-  "contentHash": "005607b3b0691ba4727deeec48f04dc8ddfedf246b19e2a1186e9e6402664908",
+  "contentHash": "ec7d60f7ebd535c42ede746b28facc1fede0d87a3acb81770377937b3e541b3d",
   "country": "US",
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T11:15:00Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T12:26:26Z",
   "schemaVersion": 1
 }

@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-22",
+      "id": "bookhub-nielsen-indie-2026-11-23",
       "items": [
         {
           "category": "Fiction",
@@ -17,16 +17,16 @@
           "title": "Partita"
         },
         {
-          "category": "Fantasy",
-          "isbn13": "9781037200083",
+          "category": "NZ Fiction",
+          "isbn13": "9781776923199",
           "rank": 3,
-          "title": "A Court of Splintered Harmony (ACOTAR #6; Valkyrie Cycle, Movement I)"
+          "title": "The Starving Bride"
         },
         {
-          "category": "Crime & Thrillers",
-          "isbn13": "9781911754251",
+          "category": "Fiction",
+          "isbn13": "9780241814307",
           "rank": 4,
-          "title": "Chain Reaction: (Jack Reacher 31)"
+          "title": "The Things We Never Say"
         },
         {
           "category": "Fiction",
@@ -35,10 +35,10 @@
           "title": "The Flying Girls"
         },
         {
-          "category": "Children & Young Adult",
-          "isbn13": "9781761351365",
+          "category": "NZ Fiction",
+          "isbn13": "9781037405556",
           "rank": 6,
-          "title": "Fight or Flight: Diary of a Wimpy Kid (21)"
+          "title": "Orlando: an epic, spellbinding mystery set in Lucinda Riley's Seven Sisters universe"
         },
         {
           "category": "NZ Flora & Fauna",
@@ -47,28 +47,28 @@
           "title": "Butterflies and Moths of Aotearoa"
         },
         {
-          "category": "Biography",
-          "isbn13": "9781991006349",
-          "rank": 8,
-          "title": "That Woman"
-        },
-        {
-          "category": "Not a Book",
-          "isbn13": "9781991142979",
-          "rank": 9,
-          "title": "People Watching"
-        },
-        {
           "category": "Biography & Memoir",
-          "isbn13": "9781991142153",
+          "isbn13": "9781775543169",
+          "rank": 8,
+          "title": "The Bare Margins: An Autobiography (HB)"
+        },
+        {
+          "category": "NZ Children & Young Adult",
+          "isbn13": "9781869718862",
+          "rank": 9,
+          "title": "Footrot Flats: Here's to the Good Times!"
+        },
+        {
+          "category": "Fiction",
+          "isbn13": "9781806493753",
           "rank": 10,
-          "title": "Beyond the Gates of Gloriavale"
+          "title": "The End of Everything 2026 Booker Prize Winner"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-22",
+        "observedAt": "2026-11-23",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -152,7 +152,7 @@
           "rank": 4,
           "title": "Ebenezer",
           "url": "https://www.boxofficemojo.com/release/rl418545665/?ref_=bo_we_table_4",
-          "weekendGross": "$65,673",
+          "weekendGross": "$70,677",
           "weeksOnRelease": "1"
         },
         {
@@ -220,22 +220,22 @@
       "id": "apple-music-most-played",
       "items": [
         {
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+          "id": "6819802968",
+          "rank": 1,
+          "releaseDate": "2026-10-15",
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "url": "https://music.apple.com/nz/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+        },
+        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 1,
+          "rank": 2,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
-        },
-        {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 2,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "Tate McRae",
@@ -247,40 +247,40 @@
           "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
         },
         {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 4,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
-          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
-          "id": "6819802968",
-          "rank": 5,
-          "releaseDate": "2026-10-15",
-          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
-          "url": "https://music.apple.com/nz/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 6,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609507",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2026-09-26",
           "title": "So Easy (To Fall In Love)",
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
-          "rank": 7,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
           "artist": "ADÉLA",
@@ -292,28 +292,28 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 9,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
           "artist": "Jamie Miller",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
           "id": "6794168373",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-08-07",
           "title": "Babydoll",
           "url": "https://music.apple.com/nz/album/babydoll/6794168372?i=6794168373"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 10,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 22 Nov 2026 11:16:22 +0000",
+        "observedAt": "Mon, 23 Nov 2026 12:27:22 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -476,9 +476,9 @@
       "year": 2025
     }
   },
-  "contentHash": "03251d2c68d3a8e3f7a37287e3e51337664c1578f6c532d86477cfb7e942a6b3",
+  "contentHash": "416c717de12ee76564f033e4beaa25bbfe1a1fe9f525c4002b2ab8b0afeeb746",
   "country": "NZ",
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T11:15:00Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T12:26:26Z",
   "schemaVersion": 1
 }

@@ -99,7 +99,7 @@
           "rank": 3,
           "title": "Ebenezer",
           "url": "https://www.boxofficemojo.com/release/rl670203905/?ref_=bo_we_table_3",
-          "weekendGross": "$619,956",
+          "weekendGross": "$671,932",
           "weeksOnRelease": "1"
         },
         {
@@ -184,40 +184,40 @@
           "url": "https://music.apple.com/au/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 2,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/au/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
           "id": "6819802968",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2026-10-15",
           "title": "Flower In A Hurricane [From GTAVI: Original Score]",
           "url": "https://music.apple.com/au/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         },
         {
-          "artist": "Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-          "id": "1817609509",
-          "rank": 4,
-          "releaseDate": "2025-09-26",
-          "title": "Man I Need",
-          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 3,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/au/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/au/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
+          "artist": "Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+          "id": "1817609509",
+          "rank": 5,
+          "releaseDate": "2025-09-26",
+          "title": "Man I Need",
+          "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
         },
         {
           "artist": "STELLA LEFTY",
@@ -268,7 +268,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Sun, 22 Nov 2026 11:16:22 +0000",
+        "observedAt": "Mon, 23 Nov 2026 12:26:55 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "7ef7ef7f807194f6429b6e6310641bebee81806f71f831a11a069bcb88627e4d",
+  "contentHash": "1ccc2fd12bfc5a1e84d96e35ec7ac6ec4c0ef104747e5fc187f065d6f0840f66",
   "country": "AU",
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T11:15:00Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T12:26:26Z",
   "schemaVersion": 1
 }

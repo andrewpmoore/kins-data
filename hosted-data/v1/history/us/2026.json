@@ -312,12 +312,22 @@
             }
           ],
           "startDate": "2026-11-15"
+        },
+        {
+          "endDate": "2026-11-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "The Hunger Games: Sunrise on the Reaping"
+            }
+          ],
+          "startDate": "2026-11-22"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "US",
         "url": "https://www.boxofficemojo.com/weekend/by-year/"
@@ -559,7 +569,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "60da3686e89de6e4b41da3ee190e3ee0e5700d142468335a5d7829cddaa50178",
+  "contentHash": "aef16662b533e762b5cf4ee7b21be15c8b7ed352157608f5ee1eaa95c0b7a629",
   "country": "us",
   "schemaVersion": 1,
   "year": 2026
