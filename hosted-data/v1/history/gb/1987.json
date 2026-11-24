@@ -67,7 +67,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -331,7 +331,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "b656bc4a7aa58b5f0add35a52e7ecc9de4546bb061cc99e60040a0192952c926",
+  "contentHash": "46971f06cd03b58462d22ac7cb228d3fcbb357b5208edbacd98cc66ff1bbfb48",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1987

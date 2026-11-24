@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-23",
+      "id": "bookhub-nielsen-indie-2026-11-24",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-23",
+        "observedAt": "2026-11-24",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -121,95 +121,31 @@
       "title": "NZ Children and Teens"
     },
     "movies": {
-      "id": "box-office-mojo-nz-2026-11-15",
+      "id": "box-office-mojo-nz-2026-11-22",
       "items": [
         {
-          "distributor": "A24",
-          "rank": 1,
-          "title": "You Can See Everything",
-          "url": "https://www.boxofficemojo.com/release/rl2254733569/?ref_=bo_we_table_1",
-          "weekendGross": "$184,381",
-          "weeksOnRelease": "1"
-        },
-        {
-          "distributor": "Sony Pictures Releasing",
-          "rank": 2,
-          "title": "Ramayana",
-          "url": "https://www.boxofficemojo.com/release/rl3865411841/?ref_=bo_we_table_2",
-          "weekendGross": "$174,025",
-          "weeksOnRelease": "2"
-        },
-        {
-          "distributor": "STX International",
-          "rank": 3,
-          "title": "Wicker",
-          "url": "https://www.boxofficemojo.com/release/rl3882189057/?ref_=bo_we_table_3",
-          "weekendGross": "$107,150",
-          "weeksOnRelease": "2"
-        },
-        {
-          "distributor": "Paramount Pictures International",
-          "rank": 4,
-          "title": "Ebenezer",
-          "url": "https://www.boxofficemojo.com/release/rl418545665/?ref_=bo_we_table_4",
-          "weekendGross": "$70,677",
-          "weeksOnRelease": "1"
-        },
-        {
-          "distributor": "Sugoi Co",
-          "rank": 5,
-          "title": "Godzilla Minus Zero",
-          "url": "https://www.boxofficemojo.com/release/rl3630530817/?ref_=bo_we_table_5",
-          "weekendGross": "$48,125",
-          "weeksOnRelease": "2"
-        },
-        {
           "distributor": "Walt Disney Pictures",
-          "rank": 6,
+          "rank": 1,
           "title": "Wild Horse Nine",
-          "url": "https://www.boxofficemojo.com/release/rl2724364545/?ref_=bo_we_table_6",
-          "weekendGross": "$34,614",
-          "weeksOnRelease": "2"
-        },
-        {
-          "distributor": "Kismet Movies",
-          "rank": 7,
-          "title": "Wildwood",
-          "url": "https://www.boxofficemojo.com/release/rl3546251521/?ref_=bo_we_table_7",
-          "weekendGross": "$30,638",
-          "weeksOnRelease": "4"
-        },
-        {
-          "distributor": "Sony Pictures Releasing",
-          "rank": 8,
-          "title": "How to Rob a Bank",
-          "url": "https://www.boxofficemojo.com/release/rl2271510785/?ref_=bo_we_table_8",
-          "weekendGross": "$29,054",
-          "weeksOnRelease": "1"
-        },
-        {
-          "distributor": "A24",
-          "rank": 9,
-          "title": "Primetime",
-          "url": "https://www.boxofficemojo.com/release/rl3831595265/?ref_=bo_we_table_9",
-          "weekendGross": "$21,218",
+          "url": "https://www.boxofficemojo.com/release/rl2724364545/?ref_=bo_we_table_1",
+          "weekendGross": "$21,930",
           "weeksOnRelease": "3"
         },
         {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 10,
-          "title": "George Michael: The Faith Tour",
-          "url": "https://www.boxofficemojo.com/release/rl4167336193/?ref_=bo_we_table_10",
-          "weekendGross": "$17,749",
-          "weeksOnRelease": "1"
+          "distributor": "Walt Disney Pictures",
+          "rank": 2,
+          "title": "Everest: The Other Side",
+          "url": "https://www.boxofficemojo.com/release/rl1080131841/?ref_=bo_we_table_2",
+          "weekendGross": "$170",
+          "weeksOnRelease": "4"
         }
       ],
-      "reportPeriod": "November 12-15, 2026",
-      "reportURL": "https://www.boxofficemojo.com/weekend/2026W46/?area=NZ&ref_=bo_wey_table_1",
+      "reportPeriod": "November 19-22, 2026",
+      "reportURL": "https://www.boxofficemojo.com/weekend/2026W47/?area=NZ&ref_=bo_wey_table_1",
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "country weekend theatrical gross in local currency",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo",
         "territory": "NZ",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=NZ"
@@ -265,10 +201,28 @@
           "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
+          "rank": 6,
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/nz/album/babydoll/6794168372?i=6794168373"
+        },
+        {
+          "artist": "ADÉLA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+          "id": "6792884088",
+          "rank": 7,
+          "releaseDate": "2026-09-04",
+          "title": "Nicole Kidman",
+          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
+        },
+        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 6,
+          "rank": 8,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
@@ -277,28 +231,10 @@
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609507",
-          "rank": 7,
+          "rank": 9,
           "releaseDate": "2026-09-26",
           "title": "So Easy (To Fall In Love)",
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-        },
-        {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 8,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
-          "artist": "Jamie Miller",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
-          "id": "6794168373",
-          "rank": 9,
-          "releaseDate": "2026-08-07",
-          "title": "Babydoll",
-          "url": "https://music.apple.com/nz/album/babydoll/6794168372?i=6794168373"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -313,7 +249,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 23 Nov 2026 12:27:22 +0000",
+        "observedAt": "Tue, 24 Nov 2026 13:38:22 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -476,9 +412,9 @@
       "year": 2025
     }
   },
-  "contentHash": "416c717de12ee76564f033e4beaa25bbfe1a1fe9f525c4002b2ab8b0afeeb746",
+  "contentHash": "70a979cb19c304aa9e9f1048d35346bd1d39097addd083fdfd7ac21e12402eb5",
   "country": "NZ",
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T12:26:26Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T13:36:59Z",
   "schemaVersion": 1
 }

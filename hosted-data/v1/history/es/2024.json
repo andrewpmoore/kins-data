@@ -367,7 +367,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "ES",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=ES"
@@ -598,7 +598,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "d27c9b20027bc7218bed29b43abea82366a2dc1b984209141e1e46cfce6cee11",
+  "contentHash": "a8401ad6c7db4ccab874d001b01a87ae1c39ea6ffbbfa0e137611ec690f742df",
   "country": "es",
   "schemaVersion": 1,
   "year": 2024

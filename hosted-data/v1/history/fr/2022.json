@@ -257,7 +257,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "FR",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
@@ -532,7 +532,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "73b3ed26542313119c34364fd92cc0f8d15348619924e44b40d6d0e38c6b14b2",
+  "contentHash": "456c5303e04aeea291153f802df73416cdf42d9b9caa30b62e80a207a778aa5c",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2022

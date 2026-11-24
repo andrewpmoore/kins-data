@@ -217,7 +217,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "DE",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=DE"
@@ -426,7 +426,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1afd09cbcb0c48241d7b25f16d97f4cfeaae306a331e5228cf6727df6b678e30",
+  "contentHash": "540e6c80d624e1839f05a3265b2c24dcf2c7b696301e5adb17392fb16236e4be",
   "country": "de",
   "schemaVersion": 1,
   "year": 2010

@@ -302,12 +302,22 @@
             }
           ],
           "startDate": "2026-11-08"
+        },
+        {
+          "endDate": "2026-11-28",
+          "items": [
+            {
+              "rank": 1,
+              "title": "You Can See Everything"
+            }
+          ],
+          "startDate": "2026-11-22"
         }
       ],
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -538,7 +548,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "31cdd831afcbb0c5b8fa084936b0f9d81be18c4bf66f24fbd289be4a73aad3d4",
+  "contentHash": "aefc38ac655ccab8509f922e979d03f571c6b8a4430942ad6aa1880729987155",
   "country": "gb",
   "schemaVersion": 1,
   "year": 2026

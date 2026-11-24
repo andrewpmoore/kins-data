@@ -4,94 +4,94 @@
       "id": "cinetel-national-week-2026-11-22",
       "items": [
         {
-          "admissions": 390267,
+          "admissions": 390823,
           "countryOfOrigin": "USA",
           "distributor": "NOTORIOUS PICTURES",
           "rank": 1,
           "releaseDate": "2026-11-19",
           "title": "HUNGER GAMES L'ALBA SULLA MIETITURA",
-          "weekendGrossEUR": 3374067.57
+          "weekendGrossEUR": 3378414.87
         },
         {
-          "admissions": 298274,
+          "admissions": 298656,
           "countryOfOrigin": "USA",
           "distributor": "EAGLE PICTURES",
           "rank": 2,
           "releaseDate": "2026-11-12",
           "title": "SCROOGE E GLI SPIRITI DEL NATALE (EBENEZER)",
-          "weekendGrossEUR": 2287023.24
+          "weekendGrossEUR": 2289795.84
         },
         {
-          "admissions": 228294,
+          "admissions": 228702,
           "countryOfOrigin": "ITA",
           "distributor": "NOTORIOUS PICTURES",
           "rank": 3,
           "releaseDate": "2026-11-05",
           "title": "SE DOMANI NON TORNO",
-          "weekendGrossEUR": 1582385.62
+          "weekendGrossEUR": 1585375.62
         },
         {
-          "admissions": 119639,
+          "admissions": 119984,
           "countryOfOrigin": "ITA",
           "distributor": "01 DISTRIBUTION",
           "rank": 4,
           "releaseDate": "2026-11-12",
           "title": "IL RUMORE DELLE COSE NUOVE",
-          "weekendGrossEUR": 864179.81
+          "weekendGrossEUR": 866552.81
         },
         {
-          "admissions": 100416,
+          "admissions": 100532,
           "countryOfOrigin": "ITA",
           "distributor": "VISION DISTRIBUTION",
           "rank": 5,
           "releaseDate": "2026-11-12",
           "title": "UN WEEKEND ARTIFICIALE",
-          "weekendGrossEUR": 777446.9
+          "weekendGrossEUR": 778293.4
         },
         {
-          "admissions": 80990,
+          "admissions": 81147,
           "countryOfOrigin": "USA",
           "distributor": "WALT DISNEY S.M.P. ITALIA",
           "rank": 6,
           "releaseDate": "2026-11-05",
           "title": "WILD HORSE NINE",
-          "weekendGrossEUR": 599188.07
+          "weekendGrossEUR": 600454.57
         },
         {
-          "admissions": 83790,
+          "admissions": 84050,
           "countryOfOrigin": "ITA",
           "distributor": "PIPER FILM",
           "rank": 7,
           "releaseDate": "2026-10-29",
           "title": "DIO RIDE",
-          "weekendGrossEUR": 580644.47
+          "weekendGrossEUR": 582217.47
         },
         {
-          "admissions": 62899,
+          "admissions": 63047,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
           "rank": 8,
           "releaseDate": "2026-11-05",
           "title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
-          "weekendGrossEUR": 457165.16
+          "weekendGrossEUR": 458205.66
         },
         {
-          "admissions": 39070,
+          "admissions": 39274,
           "countryOfOrigin": "USA",
           "distributor": "NEXO DIGITAL S.R.L.",
           "rank": 9,
           "releaseDate": "2026-11-16",
           "title": "2001: ODISSEA NELLO SPAZIO 4K",
-          "weekendGrossEUR": 352613.56
+          "weekendGrossEUR": 354513.56
         },
         {
-          "admissions": 49469,
+          "admissions": 49966,
           "countryOfOrigin": "DNK",
           "distributor": "BIM DISTRIBUZIONE",
           "rank": 10,
           "releaseDate": "2026-11-19",
           "title": "FJORD",
-          "weekendGrossEUR": 346460.87
+          "weekendGrossEUR": 350195.37
         }
       ],
       "reportPeriod": "2026-11-16/2026-11-22",
@@ -192,17 +192,17 @@
         {
           "artist": "Sfera Ebbasta",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
-          "id": "6835545283",
+          "id": "6835545171",
           "rank": 10,
           "releaseDate": "2026-11-20",
-          "title": "Cose Nostalgiche",
-          "url": "https://music.apple.com/it/album/cose-nostalgiche/6835544984?i=6835545283"
+          "title": "Lontano",
+          "url": "https://music.apple.com/it/album/lontano/6835544984?i=6835545171"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 23 Nov 2026 12:27:29 +0000",
+        "observedAt": "Tue, 24 Nov 2026 13:39:44 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-23T12:26:26Z",
+        "observedAt": "2026-11-24T13:36:59Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "4fa01e986aed0e2dacc7e9dc45953a5b61c4cc97123d9a36c6adf09f4aa370f3",
+  "contentHash": "06a1e84ccba4e4fecfd431022f8c183409efeec1cef496684fb872afb5c383d8",
   "country": "IT",
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T12:26:26Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T13:36:59Z",
   "schemaVersion": 1
 }

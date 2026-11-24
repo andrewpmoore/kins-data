@@ -267,7 +267,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -652,7 +652,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "19ef62b51e29ca66bcd7cc2d31eee7d815c0b7097cee4cda5f6e499116237017",
+  "contentHash": "6d87df946ccf7f2bd5536aa3f8764951ab7215a58b4fbb6bc15c27f2ed6c276c",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1974

@@ -1377,7 +1377,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "GB",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=GB"
@@ -1641,7 +1641,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "48440ab9cb9d28c45d66317921f9dc519d47a3ea7615d29e089a46c556bdcbcf",
+  "contentHash": "89efc12fd6aa819599d22b6bfde3cd91be181180a049ba3d3118bbec745c74fb",
   "country": "gb",
   "schemaVersion": 1,
   "year": 1991

@@ -22,19 +22,10 @@
           "url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754"
         },
         {
-          "artist": "Quevedo & Elvis Crespo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
-          "id": "1894272112",
-          "rank": 3,
-          "releaseDate": "2026-04-23",
-          "title": "LA GRACIOSA",
-          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338657",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-10-09",
           "title": "RIGHT NOW",
           "url": "https://music.apple.com/es/album/right-now/6817338538?i=6817338657"
@@ -43,10 +34,19 @@
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338546",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-10-09",
           "title": "CONTIGO",
           "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
+        },
+        {
+          "artist": "Quevedo & Elvis Crespo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
+          "id": "1894272112",
+          "rank": 5,
+          "releaseDate": "2026-04-23",
+          "title": "LA GRACIOSA",
+          "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
           "artist": "Myke Towers",
@@ -67,22 +67,22 @@
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
         },
         {
-          "artist": "Anuel AA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/27/5b/fe275bab-32ec-164e-2cb6-82b32c74ffac/711641173960.jpg/100x100bb.jpg",
-          "id": "6831254316",
-          "rank": 8,
-          "releaseDate": "2026-11-19",
-          "title": "Se Toco El T#tito Con Mi Gl*ck",
-          "url": "https://music.apple.com/es/album/se-toco-el-t-tito-con-mi-gl-ck/6831254309?i=6831254316"
-        },
-        {
           "artist": "Kristina, Quevedo & Came Beats",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/f6/ff/e0f6ff90-b0f0-7ac4-731b-a6dead6c8fa8/823375587026_Cover.jpg/100x100bb.jpg",
           "id": "6832586470",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-11-19",
           "title": "SOY MEJOR 2.0",
           "url": "https://music.apple.com/es/album/soy-mejor-2-0/6832586454?i=6832586470"
+        },
+        {
+          "artist": "Anuel AA",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/27/5b/fe275bab-32ec-164e-2cb6-82b32c74ffac/711641173960.jpg/100x100bb.jpg",
+          "id": "6831254316",
+          "rank": 9,
+          "releaseDate": "2026-11-19",
+          "title": "Se Toco El T#tito Con Mi Gl*ck",
+          "url": "https://music.apple.com/es/album/se-toco-el-t-tito-con-mi-gl-ck/6831254309?i=6831254316"
         },
         {
           "artist": "La Pantera & Quevedo",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Mon, 23 Nov 2026 12:27:27 +0000",
+        "observedAt": "Tue, 24 Nov 2026 13:38:53 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-23T12:26:26Z",
+        "observedAt": "2026-11-24T13:36:59Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "b85edbe24cd766a8f1e0857ae3a32989dd3257483a4bca67483a68074930e753",
+  "contentHash": "5e294d9123fddb90ea8abf4fa64edf4b4687c1d1b76810a6b593c66271dd1240",
   "country": "ES",
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T12:26:26Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T13:36:59Z",
   "schemaVersion": 1
 }

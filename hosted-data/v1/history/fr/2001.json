@@ -327,7 +327,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "FR",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=FR"
@@ -481,7 +481,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "1d908e98357707d0a1c022405310b581c7fd000f606058d49758a82cd0016828",
+  "contentHash": "b2682c165b6e40ee0fe2925c259b5b43d914f91ded8f14d8da6f2292838a0ce0",
   "country": "fr",
   "schemaVersion": 1,
   "year": 2001

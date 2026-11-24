@@ -327,7 +327,7 @@
       "source": {
         "kind": "theatricalBoxOffice",
         "metric": "historical weekly theatrical box-office number-one film; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-15",
+        "observedAt": "2026-11-22",
         "provider": "Box Office Mojo / Wikipedia contributors",
         "territory": "IT",
         "url": "https://www.boxofficemojo.com/weekend/by-year/?area=IT"
@@ -624,7 +624,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "8accf34bdafc0b1b0bb76622924c75419a80da7db6c5d00810ac08d34b412b5e",
+  "contentHash": "c7865eb841820c847c75cb334e1d60c5eb036cf7106691ee2cab79904f32a0ee",
   "country": "it",
   "schemaVersion": 1,
   "year": 2002
