@@ -22,22 +22,22 @@
           "url": "https://music.apple.com/fr/album/dedans/6829004154?i=6829004300"
         },
         {
-          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
-          "id": "6819802968",
-          "rank": 3,
-          "releaseDate": "2026-10-15",
-          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
-          "url": "https://music.apple.com/fr/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
-        },
-        {
           "artist": "SDM",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
           "id": "6816216709",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-11-13",
           "title": "ÇA CHAUFFE",
           "url": "https://music.apple.com/fr/album/%C3%A7a-chauffe/6816215989?i=6816216709"
+        },
+        {
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+          "id": "6819802968",
+          "rank": 4,
+          "releaseDate": "2026-10-15",
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "url": "https://music.apple.com/fr/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         },
         {
           "artist": "Vacra & La Rvfleuze",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 24 Nov 2026 13:38:52 +0000",
+        "observedAt": "Wed, 25 Nov 2026 12:48:45 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-11-24T13:36:59Z",
+        "observedAt": "2026-11-25T12:46:34Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "9267b5b46d90b17409740b1eb1a481f41778d7e776075f07e335e083ac86bf06",
+  "contentHash": "c603a6455351c8570018e9ed0491310978c8937911eb40f4703b665777ede548",
   "country": "FR",
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T13:36:59Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:46:34Z",
   "schemaVersion": 1
 }

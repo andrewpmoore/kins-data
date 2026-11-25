@@ -251,10 +251,19 @@
           "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
         },
         {
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
+          "rank": 2,
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+        },
+        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
           "id": "6812477290",
-          "rank": 2,
+          "rank": 3,
           "releaseDate": "2026-09-17",
           "title": "Last Thing You Need",
           "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
@@ -263,19 +272,10 @@
           "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
           "id": "6819802968",
-          "rank": 3,
+          "rank": 4,
           "releaseDate": "2026-10-15",
           "title": "Flower In A Hurricane [From GTAVI: Original Score]",
           "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
-        },
-        {
-          "artist": "Mariah Carey",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
-          "id": "585972803",
-          "rank": 4,
-          "releaseDate": "1994-10-28",
-          "title": "All I Want for Christmas Is You",
-          "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
         },
         {
           "artist": "KAROL G, Judeline & rusowsky",
@@ -287,40 +287,40 @@
           "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
         },
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 6,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Morgan Wallen",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
           "id": "6792676860",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-07-24",
           "title": "Been By Now",
           "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
         },
         {
-          "artist": "Lil Baby",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
-          "id": "1648587330",
-          "rank": 8,
-          "releaseDate": "2022-04-08",
-          "title": "In A Minute",
-          "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 7,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+        },
+        {
+          "artist": "Lil Baby",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
+          "id": "1648587330",
+          "rank": 9,
+          "releaseDate": "2022-04-08",
+          "title": "In A Minute",
+          "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
         },
         {
           "artist": "Kelly Clarkson",
@@ -335,7 +335,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 24 Nov 2026 13:37:02 +0000",
+        "observedAt": "Wed, 25 Nov 2026 12:47:03 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -469,7 +469,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-24T13:36:59Z",
+        "observedAt": "2026-11-25T12:46:34Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -478,9 +478,9 @@
       "year": 2025
     }
   },
-  "contentHash": "6a9952b9a663423714cbeb271f3e7c6a71213c9d190b8540c8aacb07a3551a2c",
+  "contentHash": "8a637e6edceb7bc9cb50b1f54a842e18b01fbd69f8e6ae78cb35adf31a73c66d",
   "country": "US",
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T13:36:59Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:46:34Z",
   "schemaVersion": 1
 }

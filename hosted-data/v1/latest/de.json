@@ -40,10 +40,19 @@
           "url": "https://music.apple.com/de/album/merry-christmas-everyone/347010666?i=347010852"
         },
         {
+          "artist": "Sampagne",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/6c/d9/726cd997-3d85-e3cc-cb0e-977047dead29/26UM1IM42605.rgb.jpg/100x100bb.jpg",
+          "id": "6831647702",
+          "rank": 5,
+          "releaseDate": "2026-11-12",
+          "title": "365",
+          "url": "https://music.apple.com/de/album/365/6831647401?i=6831647702"
+        },
+        {
           "artist": "Wham!",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/55/0c/47550cd6-7ef5-bf86-c194-c7695d63c759/dj.xuditatj.jpg/100x100bb.jpg",
           "id": "282658482",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "1984-01-01",
           "title": "Last Christmas",
           "url": "https://music.apple.com/de/album/last-christmas/282658449?i=282658482"
@@ -52,7 +61,7 @@
           "artist": "Sia",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/100x100bb.jpg",
           "id": "1440098017",
-          "rank": 6,
+          "rank": 7,
           "releaseDate": "2017-11-09",
           "title": "Snowman",
           "url": "https://music.apple.com/de/album/snowman/1440098012?i=1440098017"
@@ -61,43 +70,34 @@
           "artist": "Ariana Grande",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/100x100bb.jpg",
           "id": "1444319982",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2013-12-13",
           "title": "Santa Tell Me",
           "url": "https://music.apple.com/de/album/santa-tell-me/1444319981?i=1444319982"
         },
         {
-          "artist": "Helene Fischer",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/06/cb/a206cbe6-dc24-51d8-cee1-595e1404e0c6/26UM1IM36082.rgb.jpg/100x100bb.jpg",
-          "id": "6824513842",
-          "rank": 8,
-          "releaseDate": null,
-          "title": "WAS HAST DU MIT MIR GEMACHT",
-          "url": "https://music.apple.com/de/album/was-hast-du-mit-mir-gemacht/6824513570?i=6824513842"
-        },
-        {
-          "artist": "Sampagne",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/6c/d9/726cd997-3d85-e3cc-cb0e-977047dead29/26UM1IM42605.rgb.jpg/100x100bb.jpg",
-          "id": "6831647702",
-          "rank": 9,
-          "releaseDate": "2026-11-12",
-          "title": "365",
-          "url": "https://music.apple.com/de/album/365/6831647401?i=6831647702"
-        },
-        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/de/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
+          "artist": "Helene Fischer",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/06/cb/a206cbe6-dc24-51d8-cee1-595e1404e0c6/26UM1IM36082.rgb.jpg/100x100bb.jpg",
+          "id": "6824513842",
+          "rank": 10,
+          "releaseDate": null,
+          "title": "WAS HAST DU MIT MIR GEMACHT",
+          "url": "https://music.apple.com/de/album/was-hast-du-mit-mir-gemacht/6824513570?i=6824513842"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 24 Nov 2026 13:38:51 +0000",
+        "observedAt": "Wed, 25 Nov 2026 12:48:45 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-11-24T13:36:59Z",
+        "observedAt": "2026-11-25T12:46:34Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "e5296d0733b94259ced233a848763f03b868ed2c013f7eceb7a9deb44c0cf0bb",
+  "contentHash": "7ddd318830969b948def33a0530ff23be69199c3ff697709c6be4bf0706c2ab9",
   "country": "DE",
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T13:36:59Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:46:34Z",
   "schemaVersion": 1
 }

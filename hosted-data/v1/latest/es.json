@@ -31,10 +31,19 @@
           "url": "https://music.apple.com/es/album/right-now/6817338538?i=6817338657"
         },
         {
+          "artist": "Myke Towers",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/01/e0/5e01e0f6-91a6-d923-2495-855a4610485f/1200220330331.jpg/100x100bb.jpg",
+          "id": "6823686094",
+          "rank": 4,
+          "releaseDate": "2026-10-21",
+          "title": "Te Imagino",
+          "url": "https://music.apple.com/es/album/te-imagino/6823686091?i=6823686094"
+        },
+        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338546",
-          "rank": 4,
+          "rank": 5,
           "releaseDate": "2026-10-09",
           "title": "CONTIGO",
           "url": "https://music.apple.com/es/album/contigo/6817338538?i=6817338546"
@@ -43,37 +52,28 @@
           "artist": "Quevedo & Elvis Crespo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/100x100bb.jpg",
           "id": "1894272112",
-          "rank": 5,
+          "rank": 6,
           "releaseDate": "2026-04-23",
           "title": "LA GRACIOSA",
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
-          "artist": "Myke Towers",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/01/e0/5e01e0f6-91a6-d923-2495-855a4610485f/1200220330331.jpg/100x100bb.jpg",
-          "id": "6823686094",
-          "rank": 6,
-          "releaseDate": "2026-10-21",
-          "title": "Te Imagino",
-          "url": "https://music.apple.com/es/album/te-imagino/6823686091?i=6823686094"
+          "artist": "Kristina, Quevedo & Came Beats",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/f6/ff/e0f6ff90-b0f0-7ac4-731b-a6dead6c8fa8/823375587026_Cover.jpg/100x100bb.jpg",
+          "id": "6832586470",
+          "rank": 7,
+          "releaseDate": "2026-11-19",
+          "title": "SOY MEJOR 2.0",
+          "url": "https://music.apple.com/es/album/soy-mejor-2-0/6832586454?i=6832586470"
         },
         {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338555",
-          "rank": 7,
+          "rank": 8,
           "releaseDate": "2026-10-09",
           "title": "SUMISA",
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
-        },
-        {
-          "artist": "Kristina, Quevedo & Came Beats",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/f6/ff/e0f6ff90-b0f0-7ac4-731b-a6dead6c8fa8/823375587026_Cover.jpg/100x100bb.jpg",
-          "id": "6832586470",
-          "rank": 8,
-          "releaseDate": "2026-11-19",
-          "title": "SOY MEJOR 2.0",
-          "url": "https://music.apple.com/es/album/soy-mejor-2-0/6832586454?i=6832586470"
         },
         {
           "artist": "Anuel AA",
@@ -85,19 +85,19 @@
           "url": "https://music.apple.com/es/album/se-toco-el-t-tito-con-mi-gl-ck/6831254309?i=6831254316"
         },
         {
-          "artist": "La Pantera & Quevedo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/58/e1c65854-eff4-38eb-c184-e4a14bf8e646/1200220328826.jpg/100x100bb.jpg",
-          "id": "6823633156",
+          "artist": "Myke Towers & Rauw Alejandro",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/31/d3/ca31d35f-0410-5d0b-2bf8-5ffb92d261c4/1200220489558.jpg/100x100bb.jpg",
+          "id": "6834112504",
           "rank": 10,
-          "releaseDate": "2026-10-23",
-          "title": "DOGGY",
-          "url": "https://music.apple.com/es/album/doggy/6823633149?i=6823633156"
+          "releaseDate": "2026-11-19",
+          "title": "Tremendo Desastre",
+          "url": "https://music.apple.com/es/album/tremendo-desastre/6834112503?i=6834112504"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 24 Nov 2026 13:38:53 +0000",
+        "observedAt": "Wed, 25 Nov 2026 12:48:45 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-24T13:36:59Z",
+        "observedAt": "2026-11-25T12:46:34Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "5e294d9123fddb90ea8abf4fa64edf4b4687c1d1b76810a6b593c66271dd1240",
+  "contentHash": "7789b215e5c6c274e555198ff255645417ef6f2b5139021c5aae7b83e47b22b8",
   "country": "ES",
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T13:36:59Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:46:34Z",
   "schemaVersion": 1
 }

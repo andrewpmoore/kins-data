@@ -109,7 +109,7 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Sfera Ebbasta",
+          "artist": "Sfera Ebbasta, Shiva & Geolier",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
           "id": "6835545188",
           "rank": 1,
@@ -154,7 +154,7 @@
           "url": "https://music.apple.com/it/album/account/6835544984?i=6835545172"
         },
         {
-          "artist": "Sfera Ebbasta",
+          "artist": "Sfera Ebbasta & Tony Boy",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
           "id": "6835545174",
           "rank": 6,
@@ -163,25 +163,25 @@
           "url": "https://music.apple.com/it/album/moonlight/6835544984?i=6835545174"
         },
         {
-          "artist": "Sfera Ebbasta",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
-          "id": "6835545173",
-          "rank": 7,
-          "releaseDate": "2026-11-20",
-          "title": "Ti soffro",
-          "url": "https://music.apple.com/it/album/ti-soffro/6835544984?i=6835545173"
-        },
-        {
-          "artist": "Sfera Ebbasta",
+          "artist": "Sfera Ebbasta & Ghali",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
           "id": "6835545180",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-11-20",
           "title": "Ti ricordi",
           "url": "https://music.apple.com/it/album/ti-ricordi/6835544984?i=6835545180"
         },
         {
           "artist": "Sfera Ebbasta",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+          "id": "6835545173",
+          "rank": 8,
+          "releaseDate": "2026-11-20",
+          "title": "Ti soffro",
+          "url": "https://music.apple.com/it/album/ti-soffro/6835544984?i=6835545173"
+        },
+        {
+          "artist": "Sfera Ebbasta & Pyrex",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
           "id": "6835545184",
           "rank": 9,
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 24 Nov 2026 13:39:44 +0000",
+        "observedAt": "Wed, 25 Nov 2026 12:48:46 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-24T13:36:59Z",
+        "observedAt": "2026-11-25T12:46:34Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "06a1e84ccba4e4fecfd431022f8c183409efeec1cef496684fb872afb5c383d8",
+  "contentHash": "c41d3df29e9a0fe0d9c3e67cfec2c1c99d431c647bf25045e97a1c643581ffd6",
   "country": "IT",
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T13:36:59Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:46:34Z",
   "schemaVersion": 1
 }

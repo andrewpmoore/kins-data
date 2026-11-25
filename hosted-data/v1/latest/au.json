@@ -1,5 +1,80 @@
 {
   "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "aba-buying-group-2026-11-14",
+      "items": [
+        {
+          "creator": "Tim Winton",
+          "rank": 1,
+          "title": "Songs from the Firefront",
+          "url": "https://loveyourbookshop.org.au/bestsellers/songs-from-the-firefront"
+        },
+        {
+          "creator": "Pip Williams",
+          "rank": 2,
+          "title": "The German Ward",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
+        },
+        {
+          "creator": "M. John Harrison",
+          "rank": 3,
+          "title": "The End of Everything: Winner of the 2026 Booker Prize",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-end-of-everything-winner-of-the-2026-booker-prize"
+        },
+        {
+          "creator": "Niall Williams",
+          "rank": 4,
+          "title": "O Now!: From the award-winning, internationally bestselling author of FOUR LETTERS OF LOVE and THIS IS HAPPINESS",
+          "url": "https://loveyourbookshop.org.au/bestsellers/o-now-from-the-award-winning-internationally-bestselling-author-of-four-letters-of-love-and-this-is-happiness"
+        },
+        {
+          "creator": "Usman Khawaja",
+          "rank": 5,
+          "title": "Sabr",
+          "url": "https://loveyourbookshop.org.au/bestsellers/sabr"
+        },
+        {
+          "creator": "Bonnie Garmus",
+          "rank": 6,
+          "title": "Peck & Peck",
+          "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
+        },
+        {
+          "creator": "Sarah J. Maas",
+          "rank": 7,
+          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I",
+          "url": "https://loveyourbookshop.org.au/bestsellers/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i"
+        },
+        {
+          "creator": "Elizabeth Strout",
+          "rank": 8,
+          "title": "The Things We Never Say",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
+        },
+        {
+          "creator": "Taylor Walker",
+          "rank": 9,
+          "title": "TEX",
+          "url": "https://loveyourbookshop.org.au/bestsellers/tex"
+        },
+        {
+          "creator": "Barbara Kingsolver",
+          "rank": 10,
+          "title": "Partita",
+          "url": "https://loveyourbookshop.org.au/bestsellers/partita"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "bestsellers in ABA Buying Group stores",
+        "observedAt": "2026-11-14",
+        "provider": "Australian Booksellers Association / NielsenIQ BookScan",
+        "territory": "AU",
+        "url": "https://loveyourbookshop.org.au/aba-top-10/"
+      },
+      "title": "ABA Buying Group Top 10"
+    },
     "movies": {
       "id": "box-office-mojo-au-2026-11-22",
       "items": [
@@ -145,22 +220,22 @@
           "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 6,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
           "artist": "STELLA LEFTY",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
           "id": "1884403093",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2026-03-27",
           "title": "Boston",
           "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
+          "rank": 7,
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
         },
         {
           "artist": "Jamie Miller",
@@ -193,7 +268,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 24 Nov 2026 13:37:29 +0000",
+        "observedAt": "Wed, 25 Nov 2026 12:48:42 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -201,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "63cab63cb20fb8ebb19858863e4b7dbdb186a4fa44632fe417b37e90ae882b82",
+  "contentHash": "08c8ea4a40b68767b13530a94bc11eaaa2ba3ab2d427127b97dfcb5cf4940622",
   "country": "AU",
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T13:36:59Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:46:34Z",
   "schemaVersion": 1
 }

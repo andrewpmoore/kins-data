@@ -40,19 +40,10 @@
           "url": "https://music.apple.com/ie/album/housewife/6822497770?i=6822497774"
         },
         {
-          "artist": "Mariah Carey",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
-          "id": "585972803",
-          "rank": 5,
-          "releaseDate": "1994-10-28",
-          "title": "All I Want for Christmas Is You",
-          "url": "https://music.apple.com/ie/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
-        },
-        {
           "artist": "Jamie Miller",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
           "id": "6794168373",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "2026-08-07",
           "title": "Babydoll",
           "url": "https://music.apple.com/ie/album/babydoll/6794168372?i=6794168373"
@@ -61,10 +52,19 @@
           "artist": "The Pogues",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/8d/a1/148da1d9-e819-325e-f3ff-598e8c6448ac/s06.hbzohdue.jpg/100x100bb.jpg",
           "id": "52576042",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "1987-11-23",
           "title": "Fairytale of New York (feat. Kirsty MacColl)",
           "url": "https://music.apple.com/ie/album/fairytale-of-new-york-feat-kirsty-maccoll/52576005?i=52576042"
+        },
+        {
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
+          "rank": 7,
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/ie/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -76,28 +76,28 @@
           "url": "https://music.apple.com/ie/album/stupid-song/1889992111?i=1889992115"
         },
         {
-          "artist": "Shakin' Stevens",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/1a/fc/7f/mzi.znxgldzx.jpg/100x100bb.jpg",
-          "id": "347010852",
-          "rank": 9,
-          "releaseDate": "1985-01-01",
-          "title": "Merry Christmas Everyone",
-          "url": "https://music.apple.com/ie/album/merry-christmas-everyone/347010666?i=347010852"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
           "id": "1889992123",
-          "rank": 10,
+          "rank": 9,
           "releaseDate": "2026-05-22",
           "title": "the cure",
           "url": "https://music.apple.com/ie/album/the-cure/1889992111?i=1889992123"
+        },
+        {
+          "artist": "Shakin' Stevens",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/1a/fc/7f/mzi.znxgldzx.jpg/100x100bb.jpg",
+          "id": "347010852",
+          "rank": 10,
+          "releaseDate": "1985-01-01",
+          "title": "Merry Christmas Everyone",
+          "url": "https://music.apple.com/ie/album/merry-christmas-everyone/347010666?i=347010852"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 24 Nov 2026 13:38:22 +0000",
+        "observedAt": "Wed, 25 Nov 2026 12:48:43 +0000",
         "provider": "Apple Music",
         "territory": "IE",
         "url": "https://rss.marketingtools.apple.com/api/v2/ie/music/most-played/10/songs.json"
@@ -271,7 +271,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank and count by sex; names with fewer than three occurrences suppressed",
-        "observedAt": "2026-11-24T13:36:59Z",
+        "observedAt": "2026-11-25T12:46:34Z",
         "provider": "Central Statistics Office Ireland",
         "territory": "IE",
         "url": "https://www.cso.ie/en/statistics/birthsdeathsandmarriages/irishbabiesnames/"
@@ -280,9 +280,9 @@
       "year": 2025
     }
   },
-  "contentHash": "e575d4f48d00948eaf286403f4d86c53bfa9aee4d5718676cd725fb68cee2b7f",
+  "contentHash": "2f3b708d24a3955e952d8e2028da1b27d1aa976fff2c952f6960b0da9f44177b",
   "country": "IE",
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T13:36:59Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:46:34Z",
   "schemaVersion": 1
 }

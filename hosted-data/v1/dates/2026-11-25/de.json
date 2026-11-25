@@ -1,0 +1,268 @@
+{
+  "charts": {
+    "music": {
+      "id": "apple-music-most-played",
+      "items": [
+        {
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+          "id": "6819802968",
+          "rank": 1,
+          "releaseDate": "2026-10-15",
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "url": "https://music.apple.com/de/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+        },
+        {
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
+          "rank": 2,
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/de/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 3,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/de/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Shakin' Stevens",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/1a/fc/7f/mzi.znxgldzx.jpg/100x100bb.jpg",
+          "id": "347010852",
+          "rank": 4,
+          "releaseDate": "1985-01-01",
+          "title": "Merry Christmas Everyone",
+          "url": "https://music.apple.com/de/album/merry-christmas-everyone/347010666?i=347010852"
+        },
+        {
+          "artist": "Sampagne",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/6c/d9/726cd997-3d85-e3cc-cb0e-977047dead29/26UM1IM42605.rgb.jpg/100x100bb.jpg",
+          "id": "6831647702",
+          "rank": 5,
+          "releaseDate": "2026-11-12",
+          "title": "365",
+          "url": "https://music.apple.com/de/album/365/6831647401?i=6831647702"
+        },
+        {
+          "artist": "Wham!",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/55/0c/47550cd6-7ef5-bf86-c194-c7695d63c759/dj.xuditatj.jpg/100x100bb.jpg",
+          "id": "282658482",
+          "rank": 6,
+          "releaseDate": "1984-01-01",
+          "title": "Last Christmas",
+          "url": "https://music.apple.com/de/album/last-christmas/282658449?i=282658482"
+        },
+        {
+          "artist": "Sia",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/100x100bb.jpg",
+          "id": "1440098017",
+          "rank": 7,
+          "releaseDate": "2017-11-09",
+          "title": "Snowman",
+          "url": "https://music.apple.com/de/album/snowman/1440098012?i=1440098017"
+        },
+        {
+          "artist": "Ariana Grande",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/100x100bb.jpg",
+          "id": "1444319982",
+          "rank": 8,
+          "releaseDate": "2013-12-13",
+          "title": "Santa Tell Me",
+          "url": "https://music.apple.com/de/album/santa-tell-me/1444319981?i=1444319982"
+        },
+        {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
+          "rank": 9,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/de/album/stop-the-wedding/6795697684?i=6795697687"
+        },
+        {
+          "artist": "Helene Fischer",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/06/cb/a206cbe6-dc24-51d8-cee1-595e1404e0c6/26UM1IM36082.rgb.jpg/100x100bb.jpg",
+          "id": "6824513842",
+          "rank": 10,
+          "releaseDate": null,
+          "title": "WAS HAST DU MIT MIR GEMACHT",
+          "url": "https://music.apple.com/de/album/was-hast-du-mit-mir-gemacht/6824513570?i=6824513842"
+        }
+      ],
+      "source": {
+        "kind": "streamingChart",
+        "metric": "most-played",
+        "observedAt": "Wed, 25 Nov 2026 12:48:45 +0000",
+        "provider": "Apple Music",
+        "territory": "DE",
+        "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
+      },
+      "title": "Top-Titel"
+    },
+    "names": {
+      "id": "gfds-germany-first-names",
+      "items": [
+        {
+          "category": "boy",
+          "name": "Noah",
+          "rank": 1,
+          "rankGroup": "boy",
+          "sharePercent": 1.48
+        },
+        {
+          "category": "boy",
+          "name": "Mat(h)eo/Matt(h)eo",
+          "rank": 2,
+          "rankGroup": "boy",
+          "sharePercent": 1.32
+        },
+        {
+          "category": "boy",
+          "name": "Theo",
+          "rank": 3,
+          "rankGroup": "boy",
+          "sharePercent": 1.08
+        },
+        {
+          "category": "boy",
+          "name": "Leo",
+          "rank": 4,
+          "rankGroup": "boy",
+          "sharePercent": 1.08
+        },
+        {
+          "category": "boy",
+          "name": "Emil",
+          "rank": 5,
+          "rankGroup": "boy",
+          "sharePercent": 1.05
+        },
+        {
+          "category": "boy",
+          "name": "Leon",
+          "rank": 6,
+          "rankGroup": "boy",
+          "sharePercent": 1.03
+        },
+        {
+          "category": "boy",
+          "name": "Elias",
+          "rank": 7,
+          "rankGroup": "boy",
+          "sharePercent": 1.03
+        },
+        {
+          "category": "boy",
+          "name": "Paul",
+          "rank": 8,
+          "rankGroup": "boy",
+          "sharePercent": 1.02
+        },
+        {
+          "category": "boy",
+          "name": "Luca/Luka",
+          "rank": 9,
+          "rankGroup": "boy",
+          "sharePercent": 1.02
+        },
+        {
+          "category": "boy",
+          "name": "Henry/Henri",
+          "rank": 10,
+          "rankGroup": "boy",
+          "sharePercent": 1.0
+        },
+        {
+          "category": "girl",
+          "name": "Sophia/Sofia",
+          "rank": 1,
+          "rankGroup": "girl",
+          "sharePercent": 1.33
+        },
+        {
+          "category": "girl",
+          "name": "Emma",
+          "rank": 2,
+          "rankGroup": "girl",
+          "sharePercent": 1.25
+        },
+        {
+          "category": "girl",
+          "name": "Emilia",
+          "rank": 3,
+          "rankGroup": "girl",
+          "sharePercent": 1.25
+        },
+        {
+          "category": "girl",
+          "name": "Mia",
+          "rank": 4,
+          "rankGroup": "girl",
+          "sharePercent": 1.01
+        },
+        {
+          "category": "girl",
+          "name": "Lina",
+          "rank": 5,
+          "rankGroup": "girl",
+          "sharePercent": 1.0
+        },
+        {
+          "category": "girl",
+          "name": "Ella",
+          "rank": 6,
+          "rankGroup": "girl",
+          "sharePercent": 0.94
+        },
+        {
+          "category": "girl",
+          "name": "Hanna/Hannah",
+          "rank": 7,
+          "rankGroup": "girl",
+          "sharePercent": 0.92
+        },
+        {
+          "category": "girl",
+          "name": "Klara/Clara",
+          "rank": 8,
+          "rankGroup": "girl",
+          "sharePercent": 0.92
+        },
+        {
+          "category": "girl",
+          "name": "Mila",
+          "rank": 9,
+          "rankGroup": "girl",
+          "sharePercent": 0.89
+        },
+        {
+          "category": "girl",
+          "name": "Lia/Liah",
+          "rank": 10,
+          "rankGroup": "girl",
+          "sharePercent": 0.86
+        }
+      ],
+      "source": {
+        "kind": "nameRanking",
+        "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
+        "observedAt": "2026-11-25T12:46:34Z",
+        "provider": "Gesellschaft für deutsche Sprache",
+        "territory": "DE",
+        "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
+      },
+      "title": "Popular baby names for 2025 births",
+      "year": 2025
+    }
+  },
+  "contentHash": "7ddd318830969b948def33a0530ff23be69199c3ff697709c6be4bf0706c2ab9",
+  "country": "DE",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:46:34Z",
+  "schemaVersion": 1
+}

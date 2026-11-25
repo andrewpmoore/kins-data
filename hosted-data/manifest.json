@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-11-24T13:36:59Z",
-  "latestDate": "2026-11-24",
+  "generatedAt": "2026-11-25T12:46:34Z",
+  "latestDate": "2026-11-25",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -102,9 +102,8 @@
       "status": "ok"
     },
     {
-      "detail": "Unable to fetch https://loveyourbookshop.org.au/aba-top-10/: Command '['/usr/bin/curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--max-time', '120', '--user-agent', 'KinsDataHarvester/1.0 (+https://github.com/andrewpmoore/kins-data)', 'https://loveyourbookshop.org.au/aba-top-10/']' timed out after 130 seconds",
       "source": "publicBooks/adultBooks/AU",
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "publicBooks/adultBooks/NZ",

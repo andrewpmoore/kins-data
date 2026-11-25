@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-24",
+      "id": "bookhub-nielsen-indie-2026-11-25",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-24",
+        "observedAt": "2026-11-25",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -132,12 +132,52 @@
           "weeksOnRelease": "3"
         },
         {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "Universal Pictures International (UPI)",
           "rank": 2,
+          "title": "Sense and Sensibility",
+          "url": "https://www.boxofficemojo.com/release/rl2153152769/?ref_=bo_we_table_2",
+          "weekendGross": "$4,266",
+          "weeksOnRelease": "6"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 3,
+          "title": "Forgotten Island",
+          "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_3",
+          "weekendGross": "$3,267",
+          "weeksOnRelease": "10"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 4,
+          "title": "George Michael: The Faith Tour",
+          "url": "https://www.boxofficemojo.com/release/rl4167336193/?ref_=bo_we_table_4",
+          "weekendGross": "$2,023",
+          "weeksOnRelease": "2"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 5,
+          "title": "The Odyssey",
+          "url": "https://www.boxofficemojo.com/release/rl4165042433/?ref_=bo_we_table_5",
+          "weekendGross": "$1,397",
+          "weeksOnRelease": "19"
+        },
+        {
+          "distributor": "Walt Disney Pictures",
+          "rank": 6,
           "title": "Everest: The Other Side",
-          "url": "https://www.boxofficemojo.com/release/rl1080131841/?ref_=bo_we_table_2",
+          "url": "https://www.boxofficemojo.com/release/rl1080131841/?ref_=bo_we_table_6",
           "weekendGross": "$170",
           "weeksOnRelease": "4"
+        },
+        {
+          "distributor": "Universal Pictures International (UPI)",
+          "rank": 7,
+          "title": "Other Mommy",
+          "url": "https://www.boxofficemojo.com/release/rl341475585/?ref_=bo_we_table_7",
+          "weekendGross": "$16",
+          "weeksOnRelease": "7"
         }
       ],
       "reportPeriod": "November 19-22, 2026",
@@ -174,22 +214,22 @@
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
         },
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 3,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 4,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
         },
         {
           "artist": "Ashe",
@@ -219,22 +259,22 @@
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
         },
         {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
-          "rank": 8,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
-        },
-        {
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609507",
-          "rank": 9,
+          "rank": 8,
           "releaseDate": "2026-09-26",
           "title": "So Easy (To Fall In Love)",
           "url": "https://music.apple.com/nz/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+        },
+        {
+          "artist": "Sam Fender & Olivia Dean",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+          "id": "1820918468",
+          "rank": 9,
+          "releaseDate": "2025-10-17",
+          "title": "Rein Me In",
+          "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -249,7 +289,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Tue, 24 Nov 2026 13:38:22 +0000",
+        "observedAt": "Wed, 25 Nov 2026 12:48:44 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -412,9 +452,9 @@
       "year": 2025
     }
   },
-  "contentHash": "70a979cb19c304aa9e9f1048d35346bd1d39097addd083fdfd7ac21e12402eb5",
+  "contentHash": "38e1e87948aa09582eb0b9424c2f88fe2df3266ec399f970933522009746ebd6",
   "country": "NZ",
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T13:36:59Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:46:34Z",
   "schemaVersion": 1
 }
