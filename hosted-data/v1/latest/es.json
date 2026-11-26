@@ -22,22 +22,22 @@
           "url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754"
         },
         {
-          "artist": "Lucho RK",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
-          "id": "6817338657",
-          "rank": 3,
-          "releaseDate": "2026-10-09",
-          "title": "RIGHT NOW",
-          "url": "https://music.apple.com/es/album/right-now/6817338538?i=6817338657"
-        },
-        {
           "artist": "Myke Towers",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/01/e0/5e01e0f6-91a6-d923-2495-855a4610485f/1200220330331.jpg/100x100bb.jpg",
           "id": "6823686094",
-          "rank": 4,
+          "rank": 3,
           "releaseDate": "2026-10-21",
           "title": "Te Imagino",
           "url": "https://music.apple.com/es/album/te-imagino/6823686091?i=6823686094"
+        },
+        {
+          "artist": "Lucho RK",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
+          "id": "6817338657",
+          "rank": 4,
+          "releaseDate": "2026-10-09",
+          "title": "RIGHT NOW",
+          "url": "https://music.apple.com/es/album/right-now/6817338538?i=6817338657"
         },
         {
           "artist": "Lucho RK",
@@ -58,22 +58,22 @@
           "url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112"
         },
         {
-          "artist": "Kristina, Quevedo & Came Beats",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/f6/ff/e0f6ff90-b0f0-7ac4-731b-a6dead6c8fa8/823375587026_Cover.jpg/100x100bb.jpg",
-          "id": "6832586470",
-          "rank": 7,
-          "releaseDate": "2026-11-19",
-          "title": "SOY MEJOR 2.0",
-          "url": "https://music.apple.com/es/album/soy-mejor-2-0/6832586454?i=6832586470"
-        },
-        {
           "artist": "Lucho RK",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ca/0d/1bca0dcb-fa2d-df63-46c5-5accb98d45b3/1200220209156.jpg/100x100bb.jpg",
           "id": "6817338555",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-10-09",
           "title": "SUMISA",
           "url": "https://music.apple.com/es/album/sumisa/6817338538?i=6817338555"
+        },
+        {
+          "artist": "Kristina, Quevedo & Came Beats",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/f6/ff/e0f6ff90-b0f0-7ac4-731b-a6dead6c8fa8/823375587026_Cover.jpg/100x100bb.jpg",
+          "id": "6832586470",
+          "rank": 8,
+          "releaseDate": "2026-11-19",
+          "title": "SOY MEJOR 2.0",
+          "url": "https://music.apple.com/es/album/soy-mejor-2-0/6832586454?i=6832586470"
         },
         {
           "artist": "Anuel AA",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 25 Nov 2026 12:48:45 +0000",
+        "observedAt": "Thu, 26 Nov 2026 12:24:28 +0000",
         "provider": "Apple Music",
         "territory": "ES",
         "url": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national newborn-name rank and count by sex",
-        "observedAt": "2026-11-25T12:46:34Z",
+        "observedAt": "2026-11-26T12:23:04Z",
         "provider": "Instituto Nacional de Estadística",
         "territory": "ES",
         "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177009&idp=1254735572981&menu=resultados"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "7789b215e5c6c274e555198ff255645417ef6f2b5139021c5aae7b83e47b22b8",
+  "contentHash": "f9df0f74586f343919b74343c7dea71cbcec2ff8226ee9934e6f8a46eafadd76",
   "country": "ES",
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T12:46:34Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T12:23:04Z",
   "schemaVersion": 1
 }

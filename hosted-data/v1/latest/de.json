@@ -49,22 +49,22 @@
           "url": "https://music.apple.com/de/album/365/6831647401?i=6831647702"
         },
         {
-          "artist": "Wham!",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/55/0c/47550cd6-7ef5-bf86-c194-c7695d63c759/dj.xuditatj.jpg/100x100bb.jpg",
-          "id": "282658482",
-          "rank": 6,
-          "releaseDate": "1984-01-01",
-          "title": "Last Christmas",
-          "url": "https://music.apple.com/de/album/last-christmas/282658449?i=282658482"
-        },
-        {
           "artist": "Sia",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/100x100bb.jpg",
           "id": "1440098017",
-          "rank": 7,
+          "rank": 6,
           "releaseDate": "2017-11-09",
           "title": "Snowman",
           "url": "https://music.apple.com/de/album/snowman/1440098012?i=1440098017"
+        },
+        {
+          "artist": "Wham!",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/55/0c/47550cd6-7ef5-bf86-c194-c7695d63c759/dj.xuditatj.jpg/100x100bb.jpg",
+          "id": "282658482",
+          "rank": 7,
+          "releaseDate": "1984-01-01",
+          "title": "Last Christmas",
+          "url": "https://music.apple.com/de/album/last-christmas/282658449?i=282658482"
         },
         {
           "artist": "Ariana Grande",
@@ -76,13 +76,13 @@
           "url": "https://music.apple.com/de/album/santa-tell-me/1444319981?i=1444319982"
         },
         {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
+          "artist": "Michael Bublé",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/100x100bb.jpg",
+          "id": "669854831",
           "rank": 9,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/de/album/stop-the-wedding/6795697684?i=6795697687"
+          "releaseDate": "2011-10-14",
+          "title": "It's Beginning To Look a Lot Like Christmas",
+          "url": "https://music.apple.com/de/album/its-beginning-to-look-a-lot-like-christmas/669854820?i=669854831"
         },
         {
           "artist": "Helene Fischer",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 25 Nov 2026 12:48:45 +0000",
+        "observedAt": "Thu, 26 Nov 2026 12:23:35 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-11-25T12:46:34Z",
+        "observedAt": "2026-11-26T12:23:04Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "7ddd318830969b948def33a0530ff23be69199c3ff697709c6be4bf0706c2ab9",
+  "contentHash": "46b7140d2a0d06841e31b3f03aa8ad5aed862ba01a4955c920d1fb8e1cbc0261",
   "country": "DE",
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T12:46:34Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T12:23:04Z",
   "schemaVersion": 1
 }

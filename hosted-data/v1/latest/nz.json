@@ -2,7 +2,7 @@
   "charts": {
     "adultBooks": {
       "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-25",
+      "id": "bookhub-nielsen-indie-2026-11-26",
       "items": [
         {
           "category": "Fiction",
@@ -68,7 +68,7 @@
       "source": {
         "kind": "publicBookChart",
         "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-25",
+        "observedAt": "2026-11-26",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
@@ -77,7 +77,7 @@
     },
     "childrensBooks": {
       "audience": "children",
-      "id": "booksellers-nz-children-2026-11-19",
+      "id": "booksellers-nz-children-2026-11-26",
       "items": [
         {
           "creator": "Deano Yipadee & Bruce Potter",
@@ -98,22 +98,22 @@
           "title": "Hairy Maclary from Donaldson's Dairy"
         },
         {
-          "creator": "Kat Quin",
-          "isbn13": "9781067079307",
+          "creator": "Lynley Dodd",
+          "isbn13": "9781776957477",
           "rank": 4,
-          "title": "Who, Who? Ruru? (Kuwi & Friends)"
+          "title": "Hairy Maclary and Friends Christmas Fun"
         },
         {
-          "creator": "Ruth Shaw",
-          "isbn13": "9781991142504",
+          "creator": "Kat Quin",
+          "isbn13": "9781067079307",
           "rank": 5,
-          "title": "Millie from Milford"
+          "title": "Who, Who? Ruru? (Kuwi & Friends)"
         }
       ],
       "source": {
         "kind": "publicBookChart",
         "metric": "NZ Children and Teens",
-        "observedAt": "2026-11-19",
+        "observedAt": "2026-11-26",
         "provider": "Booksellers Aotearoa / Nielsen BookScan",
         "territory": "NZ",
         "url": "https://www.booksellers.co.nz/news/nielsen-bookscan"
@@ -124,60 +124,84 @@
       "id": "box-office-mojo-nz-2026-11-22",
       "items": [
         {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "STX International",
           "rank": 1,
-          "title": "Wild Horse Nine",
-          "url": "https://www.boxofficemojo.com/release/rl2724364545/?ref_=bo_we_table_1",
-          "weekendGross": "$21,930",
-          "weeksOnRelease": "3"
+          "title": "The Hunger Games: Sunrise on the Reaping",
+          "url": "https://www.boxofficemojo.com/release/rl3043590401/?ref_=bo_we_table_1",
+          "weekendGross": "$911,955",
+          "weeksOnRelease": "1"
         },
         {
-          "distributor": "Universal Pictures International (UPI)",
+          "distributor": "A24",
           "rank": 2,
-          "title": "Sense and Sensibility",
-          "url": "https://www.boxofficemojo.com/release/rl2153152769/?ref_=bo_we_table_2",
-          "weekendGross": "$4,266",
-          "weeksOnRelease": "6"
-        },
-        {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 3,
-          "title": "Forgotten Island",
-          "url": "https://www.boxofficemojo.com/release/rl4182999297/?ref_=bo_we_table_3",
-          "weekendGross": "$3,267",
-          "weeksOnRelease": "10"
-        },
-        {
-          "distributor": "Universal Pictures International (UPI)",
-          "rank": 4,
-          "title": "George Michael: The Faith Tour",
-          "url": "https://www.boxofficemojo.com/release/rl4167336193/?ref_=bo_we_table_4",
-          "weekendGross": "$2,023",
+          "title": "You Can See Everything",
+          "url": "https://www.boxofficemojo.com/release/rl2254733569/?ref_=bo_we_table_2",
+          "weekendGross": "$94,651",
           "weeksOnRelease": "2"
         },
         {
-          "distributor": "Universal Pictures International (UPI)",
+          "distributor": "STX International",
+          "rank": 3,
+          "title": "Wicker",
+          "url": "https://www.boxofficemojo.com/release/rl3882189057/?ref_=bo_we_table_3",
+          "weekendGross": "$66,727",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Sony Pictures Releasing",
+          "rank": 4,
+          "title": "Ramayana",
+          "url": "https://www.boxofficemojo.com/release/rl3865411841/?ref_=bo_we_table_4",
+          "weekendGross": "$58,489",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Paramount Pictures International",
           "rank": 5,
-          "title": "The Odyssey",
-          "url": "https://www.boxofficemojo.com/release/rl4165042433/?ref_=bo_we_table_5",
-          "weekendGross": "$1,397",
-          "weeksOnRelease": "19"
+          "title": "Ebenezer",
+          "url": "https://www.boxofficemojo.com/release/rl418545665/?ref_=bo_we_table_5",
+          "weekendGross": "$35,193",
+          "weeksOnRelease": "2"
         },
         {
           "distributor": "Walt Disney Pictures",
           "rank": 6,
-          "title": "Everest: The Other Side",
-          "url": "https://www.boxofficemojo.com/release/rl1080131841/?ref_=bo_we_table_6",
-          "weekendGross": "$170",
-          "weeksOnRelease": "4"
+          "title": "Wild Horse Nine",
+          "url": "https://www.boxofficemojo.com/release/rl2724364545/?ref_=bo_we_table_6",
+          "weekendGross": "$21,930",
+          "weeksOnRelease": "3"
         },
         {
-          "distributor": "Universal Pictures International (UPI)",
+          "distributor": "Sugoi Co",
           "rank": 7,
-          "title": "Other Mommy",
-          "url": "https://www.boxofficemojo.com/release/rl341475585/?ref_=bo_we_table_7",
-          "weekendGross": "$16",
-          "weeksOnRelease": "7"
+          "title": "Godzilla Minus Zero",
+          "url": "https://www.boxofficemojo.com/release/rl3630530817/?ref_=bo_we_table_7",
+          "weekendGross": "$20,110",
+          "weeksOnRelease": "3"
+        },
+        {
+          "distributor": "Kismet Movies",
+          "rank": 8,
+          "title": "Wildwood",
+          "url": "https://www.boxofficemojo.com/release/rl3546251521/?ref_=bo_we_table_8",
+          "weekendGross": "$16,331",
+          "weeksOnRelease": "5"
+        },
+        {
+          "distributor": "Rialto Distribution",
+          "rank": 9,
+          "title": "Drummer Boy",
+          "url": "https://www.boxofficemojo.com/release/rl3060367617/?ref_=bo_we_table_9",
+          "weekendGross": "$13,121",
+          "weeksOnRelease": "1"
+        },
+        {
+          "distributor": "-",
+          "rank": 10,
+          "title": "O.M: Operation Mole",
+          "url": "https://www.boxofficemojo.com/release/rl3077144833/?ref_=bo_we_table_10",
+          "weekendGross": "$12,391",
+          "weeksOnRelease": "1"
         }
       ],
       "reportPeriod": "November 19-22, 2026",
@@ -289,7 +313,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 25 Nov 2026 12:48:44 +0000",
+        "observedAt": "Thu, 26 Nov 2026 12:23:34 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -452,9 +476,9 @@
       "year": 2025
     }
   },
-  "contentHash": "38e1e87948aa09582eb0b9424c2f88fe2df3266ec399f970933522009746ebd6",
+  "contentHash": "449c351f0a1a4c6013ce900d77c2aad5d439d5356591f8cbe4786f5e6bd0b8d9",
   "country": "NZ",
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T12:46:34Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T12:23:04Z",
   "schemaVersion": 1
 }

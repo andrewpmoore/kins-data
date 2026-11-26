@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-11-25T12:46:34Z",
-  "latestDate": "2026-11-25",
+  "generatedAt": "2026-11-26T12:23:04Z",
+  "latestDate": "2026-11-26",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -102,8 +102,9 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://loveyourbookshop.org.au/aba-top-10/: HTTP Error 403: Forbidden",
       "source": "publicBooks/adultBooks/AU",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "publicBooks/adultBooks/NZ",

@@ -221,9 +221,9 @@
         {
           "rank": 10,
           "title": "Wildwood",
-          "totalGross": "$52,206,703",
+          "totalGross": "$52,223,694",
           "url": "https://www.the-numbers.com/movie/Wildwood-(2026)",
-          "weekendGross": "$2,111,703"
+          "weekendGross": "$2,127,405"
         }
       ],
       "reportPeriod": "2026-11-20/2026-11-22",
@@ -296,46 +296,46 @@
           "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
         },
         {
-          "artist": "Tate McRae",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
-          "id": "6822497774",
-          "rank": 7,
-          "releaseDate": "2026-10-15",
-          "title": "Housewife",
-          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
-        },
-        {
           "artist": "Drake",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
           "id": "6769568596",
-          "rank": 8,
+          "rank": 7,
           "releaseDate": "2026-05-15",
           "title": "Janice STFU",
           "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
         },
         {
-          "artist": "Lil Baby",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
-          "id": "1648587330",
-          "rank": 9,
-          "releaseDate": "2022-04-08",
-          "title": "In A Minute",
-          "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
-        },
-        {
           "artist": "Kelly Clarkson",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/40/2d/ee402d50-4a55-bcbe-b71c-6690784d4d37/886444201209.jpg/100x99bb.jpg",
           "id": "720861445",
-          "rank": 10,
+          "rank": 8,
           "releaseDate": "2013-10-25",
           "title": "Underneath the Tree",
           "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445"
+        },
+        {
+          "artist": "Tate McRae",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+          "id": "6822497774",
+          "rank": 9,
+          "releaseDate": "2026-10-15",
+          "title": "Housewife",
+          "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Bobby Helms",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/100x100bb.jpg",
+          "id": "1358462132",
+          "rank": 10,
+          "releaseDate": "1957-12-02",
+          "title": "Jingle Bell Rock",
+          "url": "https://music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 25 Nov 2026 12:47:03 +0000",
+        "observedAt": "Thu, 26 Nov 2026 12:23:31 +0000",
         "provider": "Apple Music",
         "territory": "US",
         "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json"
@@ -469,7 +469,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; exact spellings; counts omitted by mirror",
-        "observedAt": "2026-11-25T12:46:34Z",
+        "observedAt": "2026-11-26T12:23:04Z",
         "provider": "U.S. Social Security Administration (via aruljohn/popular-baby-names mirror)",
         "territory": "US",
         "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.json"
@@ -478,9 +478,9 @@
       "year": 2025
     }
   },
-  "contentHash": "8a637e6edceb7bc9cb50b1f54a842e18b01fbd69f8e6ae78cb35adf31a73c66d",
+  "contentHash": "9f54a95d7bfd12b5b5702e470212d43248c274026b5ec905d802fd39a766dcb1",
   "country": "US",
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T12:46:34Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T12:23:04Z",
   "schemaVersion": 1
 }

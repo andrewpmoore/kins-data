@@ -40,22 +40,22 @@
           "url": "https://music.apple.com/ca/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
         },
         {
-          "artist": "Morgan Wallen",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
-          "id": "6812477290",
-          "rank": 5,
-          "releaseDate": "2026-09-17",
-          "title": "Last Thing You Need",
-          "url": "https://music.apple.com/ca/album/last-thing-you-need/6812476961?i=6812477290"
-        },
-        {
           "artist": "Mariah Carey",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
           "id": "585972803",
-          "rank": 6,
+          "rank": 5,
           "releaseDate": "1994-10-28",
           "title": "All I Want for Christmas Is You",
           "url": "https://music.apple.com/ca/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+          "id": "6812477290",
+          "rank": 6,
+          "releaseDate": "2026-09-17",
+          "title": "Last Thing You Need",
+          "url": "https://music.apple.com/ca/album/last-thing-you-need/6812476961?i=6812477290"
         },
         {
           "artist": "Drake",
@@ -76,28 +76,28 @@
           "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
         },
         {
+          "artist": "Noah Kahan",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/100x100bb.jpg",
+          "id": "6762757738",
+          "rank": 9,
+          "releaseDate": "2026-04-24",
+          "title": "Willing and Able",
+          "url": "https://music.apple.com/ca/album/willing-and-able/1894997820?i=6762757738"
+        },
+        {
           "artist": "Ashe",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
           "id": "6795697687",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-08-07",
           "title": "Stop The Wedding!",
           "url": "https://music.apple.com/ca/album/stop-the-wedding/6795697684?i=6795697687"
-        },
-        {
-          "artist": "Wham!",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/100x100bb.jpg",
-          "id": "202117984",
-          "rank": 10,
-          "releaseDate": "1984-12-01",
-          "title": "Last Christmas (Single Version)",
-          "url": "https://music.apple.com/ca/album/last-christmas-single-version/202117886?i=202117984"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 25 Nov 2026 12:47:49 +0000",
+        "observedAt": "Thu, 26 Nov 2026 12:23:32 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-11-25T12:46:34Z",
+        "observedAt": "2026-11-26T12:23:04Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "361c3a3d7d51c07dfdb5da5d8071330f8989a869aa55ab1ed5dd3c8545f2f723",
+  "contentHash": "a97033cb362d1bdbc47f6a794e096b2539a208535bdc703f9266fe1586a9f67d",
   "country": "CA",
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T12:46:34Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T12:23:04Z",
   "schemaVersion": 1
 }

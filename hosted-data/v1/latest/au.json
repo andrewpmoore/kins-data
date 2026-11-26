@@ -1,80 +1,5 @@
 {
   "charts": {
-    "adultBooks": {
-      "audience": "adult",
-      "id": "aba-buying-group-2026-11-14",
-      "items": [
-        {
-          "creator": "Tim Winton",
-          "rank": 1,
-          "title": "Songs from the Firefront",
-          "url": "https://loveyourbookshop.org.au/bestsellers/songs-from-the-firefront"
-        },
-        {
-          "creator": "Pip Williams",
-          "rank": 2,
-          "title": "The German Ward",
-          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
-        },
-        {
-          "creator": "M. John Harrison",
-          "rank": 3,
-          "title": "The End of Everything: Winner of the 2026 Booker Prize",
-          "url": "https://loveyourbookshop.org.au/bestsellers/the-end-of-everything-winner-of-the-2026-booker-prize"
-        },
-        {
-          "creator": "Niall Williams",
-          "rank": 4,
-          "title": "O Now!: From the award-winning, internationally bestselling author of FOUR LETTERS OF LOVE and THIS IS HAPPINESS",
-          "url": "https://loveyourbookshop.org.au/bestsellers/o-now-from-the-award-winning-internationally-bestselling-author-of-four-letters-of-love-and-this-is-happiness"
-        },
-        {
-          "creator": "Usman Khawaja",
-          "rank": 5,
-          "title": "Sabr",
-          "url": "https://loveyourbookshop.org.au/bestsellers/sabr"
-        },
-        {
-          "creator": "Bonnie Garmus",
-          "rank": 6,
-          "title": "Peck & Peck",
-          "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
-        },
-        {
-          "creator": "Sarah J. Maas",
-          "rank": 7,
-          "title": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I",
-          "url": "https://loveyourbookshop.org.au/bestsellers/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i"
-        },
-        {
-          "creator": "Elizabeth Strout",
-          "rank": 8,
-          "title": "The Things We Never Say",
-          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
-        },
-        {
-          "creator": "Taylor Walker",
-          "rank": 9,
-          "title": "TEX",
-          "url": "https://loveyourbookshop.org.au/bestsellers/tex"
-        },
-        {
-          "creator": "Barbara Kingsolver",
-          "rank": 10,
-          "title": "Partita",
-          "url": "https://loveyourbookshop.org.au/bestsellers/partita"
-        }
-      ],
-      "source": {
-        "kind": "publicBookChart",
-        "metric": "bestsellers in ABA Buying Group stores",
-        "observedAt": "2026-11-14",
-        "provider": "Australian Booksellers Association / NielsenIQ BookScan",
-        "territory": "AU",
-        "url": "https://loveyourbookshop.org.au/aba-top-10/"
-      },
-      "title": "ABA Buying Group Top 10"
-    },
     "movies": {
       "id": "box-office-mojo-au-2026-11-22",
       "items": [
@@ -91,7 +16,7 @@
           "rank": 2,
           "title": "You Can See Everything",
           "url": "https://www.boxofficemojo.com/release/rl3647242497/?ref_=bo_we_table_2",
-          "weekendGross": "$856,165",
+          "weekendGross": "$951,507",
           "weeksOnRelease": "2"
         },
         {
@@ -127,20 +52,20 @@
           "weeksOnRelease": "3"
         },
         {
-          "distributor": "Walt Disney Pictures",
+          "distributor": "A24",
           "rank": 7,
-          "title": "Wild Horse Nine",
-          "url": "https://www.boxofficemojo.com/release/rl2875359489/?ref_=bo_we_table_7",
-          "weekendGross": "$146,883",
-          "weeksOnRelease": "3"
+          "title": "Primetime",
+          "url": "https://www.boxofficemojo.com/release/rl3043066113/?ref_=bo_we_table_7",
+          "weekendGross": "$147,365",
+          "weeksOnRelease": "4"
         },
         {
-          "distributor": "A24",
+          "distributor": "Walt Disney Pictures",
           "rank": 8,
-          "title": "Primetime",
-          "url": "https://www.boxofficemojo.com/release/rl3043066113/?ref_=bo_we_table_8",
-          "weekendGross": "$129,426",
-          "weeksOnRelease": "4"
+          "title": "Wild Horse Nine",
+          "url": "https://www.boxofficemojo.com/release/rl2875359489/?ref_=bo_we_table_8",
+          "weekendGross": "$146,883",
+          "weeksOnRelease": "3"
         },
         {
           "distributor": "-",
@@ -175,22 +100,22 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
-          "id": "6819802968",
-          "rank": 1,
-          "releaseDate": "2026-10-15",
-          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
-          "url": "https://music.apple.com/au/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/au/album/choosin-texas/1844932149?i=1844932150"
+        },
+        {
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+          "id": "6819802968",
+          "rank": 2,
+          "releaseDate": "2026-10-15",
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "url": "https://music.apple.com/au/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         },
         {
           "artist": "Tate McRae",
@@ -268,7 +193,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 25 Nov 2026 12:48:42 +0000",
+        "observedAt": "Thu, 26 Nov 2026 12:23:33 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +201,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "08c8ea4a40b68767b13530a94bc11eaaa2ba3ab2d427127b97dfcb5cf4940622",
+  "contentHash": "fe3062bca695a840fefa28b90ac36a15988d251bc67752602ab1d110a09cb02f",
   "country": "AU",
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T12:46:34Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T12:23:04Z",
   "schemaVersion": 1
 }

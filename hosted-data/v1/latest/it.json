@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Wed, 25 Nov 2026 12:48:46 +0000",
+        "observedAt": "Thu, 26 Nov 2026 12:24:54 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-25T12:46:34Z",
+        "observedAt": "2026-11-26T12:23:04Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "c41d3df29e9a0fe0d9c3e67cfec2c1c99d431c647bf25045e97a1c643581ffd6",
+  "contentHash": "0c6494969d238e76ed51f205a6ce932a86e1c6a49f79ecc901c62efdfb595d73",
   "country": "IT",
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T12:46:34Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T12:23:04Z",
   "schemaVersion": 1
 }
