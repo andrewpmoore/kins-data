@@ -76,28 +76,28 @@
           "url": "https://music.apple.com/ca/album/been-by-now/6792676858?i=6792676860"
         },
         {
+          "artist": "Wham!",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/100x100bb.jpg",
+          "id": "202117984",
+          "rank": 9,
+          "releaseDate": "1984-12-01",
+          "title": "Last Christmas (Single Version)",
+          "url": "https://music.apple.com/ca/album/last-christmas-single-version/202117886?i=202117984"
+        },
+        {
           "artist": "Noah Kahan",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/100x100bb.jpg",
           "id": "6762757738",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-04-24",
           "title": "Willing and Able",
           "url": "https://music.apple.com/ca/album/willing-and-able/1894997820?i=6762757738"
-        },
-        {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
-          "rank": 10,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/ca/album/stop-the-wedding/6795697684?i=6795697687"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 26 Nov 2026 12:23:32 +0000",
+        "observedAt": "Fri, 27 Nov 2026 12:09:21 +0000",
         "provider": "Apple Music",
         "territory": "CA",
         "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first names at birth; exact source ranks; frequencies below five excluded",
-        "observedAt": "2026-11-26T12:23:04Z",
+        "observedAt": "2026-11-27T12:09:17Z",
         "provider": "Statistics Canada",
         "territory": "CA",
         "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014701"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "a97033cb362d1bdbc47f6a794e096b2539a208535bdc703f9266fe1586a9f67d",
+  "contentHash": "176d96140005b1600abb4f8c35c32437f7a3935d834febcffb0b2bd476c964da",
   "country": "CA",
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T12:23:04Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T12:09:17Z",
   "schemaVersion": 1
 }

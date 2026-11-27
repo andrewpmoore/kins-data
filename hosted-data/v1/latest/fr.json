@@ -4,22 +4,22 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "SDM & Ninho",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
-          "id": "6816216698",
-          "rank": 1,
-          "releaseDate": "2026-11-13",
-          "title": "BANTU MENTALITÉ",
-          "url": "https://music.apple.com/fr/album/bantu-mentalit%C3%A9/6816215989?i=6816216698"
-        },
-        {
           "artist": "L2B",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f2/00/b8f2009f-6bb9-cf31-769e-655689770532/26UM1IM40473.rgb.jpg/100x100bb.jpg",
           "id": "6829004300",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2026-11-06",
           "title": "Dedans",
           "url": "https://music.apple.com/fr/album/dedans/6829004154?i=6829004300"
+        },
+        {
+          "artist": "SDM & Ninho",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/93/ade493dc-b63b-61ec-cac2-b2fe4d9108a7/cover.jpg/100x100bb.jpg",
+          "id": "6816216698",
+          "rank": 2,
+          "releaseDate": "2026-11-13",
+          "title": "BANTU MENTALITÉ",
+          "url": "https://music.apple.com/fr/album/bantu-mentalit%C3%A9/6816215989?i=6816216698"
         },
         {
           "artist": "SDM",
@@ -49,13 +49,13 @@
           "url": "https://music.apple.com/fr/album/fille-a-papa/6809781922?i=6809781929"
         },
         {
-          "artist": "Ninho",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/93/f1/4993f1e8-a25a-24d4-2aea-c96084ef38da/1200220348640.jpg/100x100bb.jpg",
-          "id": "6830738481",
+          "artist": "Mauvais Djo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/37/f43c3795-a208-9f15-759e-35742017484f/26UM1IM07939.rgb.jpg/100x100bb.jpg",
+          "id": "6803864930",
           "rank": 6,
-          "releaseDate": "2026-01-09",
-          "title": "OCÉAN DE PROBLÈMES",
-          "url": "https://music.apple.com/fr/album/oc%C3%A9an-de-probl%C3%A8mes/6830737440?i=6830738481"
+          "releaseDate": "2026-09-04",
+          "title": "12",
+          "url": "https://music.apple.com/fr/album/12/6803864921?i=6803864930"
         },
         {
           "artist": "Tiakola",
@@ -76,13 +76,13 @@
           "url": "https://music.apple.com/fr/album/jet-lag/6809754889?i=6809755256"
         },
         {
-          "artist": "Mauvais Djo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/37/f43c3795-a208-9f15-759e-35742017484f/26UM1IM07939.rgb.jpg/100x100bb.jpg",
-          "id": "6803864930",
+          "artist": "Ninho",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/93/f1/4993f1e8-a25a-24d4-2aea-c96084ef38da/1200220348640.jpg/100x100bb.jpg",
+          "id": "6830738481",
           "rank": 9,
-          "releaseDate": "2026-09-04",
-          "title": "12",
-          "url": "https://music.apple.com/fr/album/12/6803864921?i=6803864930"
+          "releaseDate": "2026-01-09",
+          "title": "OCÉAN DE PROBLÈMES",
+          "url": "https://music.apple.com/fr/album/oc%C3%A9an-de-probl%C3%A8mes/6830737440?i=6830738481"
         },
         {
           "artist": "Mauvais Djo",
@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 26 Nov 2026 12:23:35 +0000",
+        "observedAt": "Fri, 27 Nov 2026 12:09:50 +0000",
         "provider": "Apple Music",
         "territory": "FR",
         "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national birth-name rank by sex; counts rounded to nearest five",
-        "observedAt": "2026-11-26T12:23:04Z",
+        "observedAt": "2026-11-27T12:09:17Z",
         "provider": "INSEE",
         "territory": "FR",
         "url": "https://www.insee.fr/fr/statistiques/8595130"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "83e3ddf790537fb5f0e855bd17396341511740604e05eac5fdfc2185e7a989ac",
+  "contentHash": "9cd209f284d8d5999aa2670e28692df5d739343f5444d9766c2e5568741d6103",
   "country": "FR",
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T12:23:04Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T12:09:17Z",
   "schemaVersion": 1
 }

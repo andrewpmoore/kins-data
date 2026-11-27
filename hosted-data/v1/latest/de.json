@@ -97,7 +97,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 26 Nov 2026 12:23:35 +0000",
+        "observedAt": "Fri, 27 Nov 2026 12:09:49 +0000",
         "provider": "Apple Music",
         "territory": "DE",
         "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/10/songs.json"
@@ -251,7 +251,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national first-name rank by sex; same-sounding spelling variants grouped; approximately 91% coverage in 2025",
-        "observedAt": "2026-11-26T12:23:04Z",
+        "observedAt": "2026-11-27T12:09:17Z",
         "provider": "Gesellschaft für deutsche Sprache",
         "territory": "DE",
         "url": "https://gfds.de/vornamen/beliebteste-vornamen/"
@@ -260,9 +260,9 @@
       "year": 2025
     }
   },
-  "contentHash": "46b7140d2a0d06841e31b3f03aa8ad5aed862ba01a4955c920d1fb8e1cbc0261",
+  "contentHash": "40ed8cc1e91c435d8095d065dde162ed88060cfed00019258aac8dd73b9d6e5b",
   "country": "DE",
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T12:23:04Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T12:09:17Z",
   "schemaVersion": 1
 }

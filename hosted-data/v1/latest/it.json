@@ -67,13 +67,13 @@
           "weekendGrossEUR": 582217.47
         },
         {
-          "admissions": 63047,
+          "admissions": 63119,
           "countryOfOrigin": "GBR",
           "distributor": "WARNER BROS. ITALIA",
           "rank": 8,
           "releaseDate": "2026-11-05",
           "title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
-          "weekendGrossEUR": 458205.66
+          "weekendGrossEUR": 458579.66
         },
         {
           "admissions": 39274,
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 26 Nov 2026 12:24:54 +0000",
+        "observedAt": "Fri, 27 Nov 2026 12:09:50 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-26T12:23:04Z",
+        "observedAt": "2026-11-27T12:09:17Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "0c6494969d238e76ed51f205a6ce932a86e1c6a49f79ecc901c62efdfb595d73",
+  "contentHash": "5c67a4034c13d163fe9c216112aa69ad6727773aba1d53548f1423fe583ed9d2",
   "country": "IT",
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T12:23:04Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T12:09:17Z",
   "schemaVersion": 1
 }

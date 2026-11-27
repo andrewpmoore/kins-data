@@ -1,5 +1,80 @@
 {
   "charts": {
+    "adultBooks": {
+      "audience": "adult",
+      "id": "aba-buying-group-2026-11-21",
+      "items": [
+        {
+          "creator": "Tim Winton",
+          "rank": 1,
+          "title": "Songs from the Firefront",
+          "url": "https://loveyourbookshop.org.au/bestsellers/songs-from-the-firefront"
+        },
+        {
+          "creator": "Pip Williams",
+          "rank": 2,
+          "title": "The German Ward",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
+        },
+        {
+          "creator": "Niall Williams",
+          "rank": 3,
+          "title": "O Now!: From the award-winning, internationally bestselling author of FOUR LETTERS OF LOVE and THIS IS HAPPINESS",
+          "url": "https://loveyourbookshop.org.au/bestsellers/o-now-from-the-award-winning-internationally-bestselling-author-of-four-letters-of-love-and-this-is-happiness"
+        },
+        {
+          "creator": "Elizabeth Strout",
+          "rank": 4,
+          "title": "The Things We Never Say",
+          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
+        },
+        {
+          "creator": "Barbara Kingsolver",
+          "rank": 5,
+          "title": "Partita",
+          "url": "https://loveyourbookshop.org.au/bestsellers/partita"
+        },
+        {
+          "creator": "Bonnie Garmus",
+          "rank": 6,
+          "title": "Peck & Peck",
+          "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
+        },
+        {
+          "creator": "Pilkey,Dav",
+          "rank": 7,
+          "title": "Sprinkle in Time: A Graphic Novel (Dog Man #15)",
+          "url": "https://loveyourbookshop.org.au/bestsellers/sprinkle-in-time-a-graphic-novel-dog-man-15"
+        },
+        {
+          "creator": "Usman Khawaja",
+          "rank": 8,
+          "title": "Sabr",
+          "url": "https://loveyourbookshop.org.au/bestsellers/sabr"
+        },
+        {
+          "creator": "Josh Silver",
+          "rank": 9,
+          "title": "Fruit Fly",
+          "url": "https://loveyourbookshop.org.au/bestsellers/fruit-fly"
+        },
+        {
+          "creator": "Jeff Kinney",
+          "rank": 10,
+          "title": "Fight or Flight: Diary of a Wimpy Kid (21)",
+          "url": "https://loveyourbookshop.org.au/bestsellers/fight-or-flight-diary-of-a-wimpy-kid-21"
+        }
+      ],
+      "source": {
+        "kind": "publicBookChart",
+        "metric": "bestsellers in ABA Buying Group stores",
+        "observedAt": "2026-11-21",
+        "provider": "Australian Booksellers Association / NielsenIQ BookScan",
+        "territory": "AU",
+        "url": "https://loveyourbookshop.org.au/aba-top-10/"
+      },
+      "title": "ABA Buying Group Top 10"
+    },
     "movies": {
       "id": "box-office-mojo-au-2026-11-22",
       "items": [
@@ -72,7 +147,7 @@
           "rank": 9,
           "title": "Wildwood",
           "url": "https://www.boxofficemojo.com/release/rl1482653953/?ref_=bo_we_table_9",
-          "weekendGross": "$126,779",
+          "weekendGross": "$128,729",
           "weeksOnRelease": "5"
         },
         {
@@ -172,28 +247,28 @@
           "url": "https://music.apple.com/au/album/babydoll/6794168372?i=6794168373"
         },
         {
+          "artist": "Harry Styles",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/100x100bb.jpg",
+          "id": "1870984036",
+          "rank": 9,
+          "releaseDate": "2026-03-06",
+          "title": "American Girls",
+          "url": "https://music.apple.com/au/album/american-girls/1870984032?i=1870984036"
+        },
+        {
           "artist": "Sam Fender & Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
           "id": "1820918468",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2025-10-17",
           "title": "Rein Me In",
           "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
-        },
-        {
-          "artist": "ADÉLA",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-          "id": "6792884088",
-          "rank": 10,
-          "releaseDate": "2026-09-04",
-          "title": "Nicole Kidman",
-          "url": "https://music.apple.com/au/album/nicole-kidman/6792883860?i=6792884088"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Thu, 26 Nov 2026 12:23:33 +0000",
+        "observedAt": "Fri, 27 Nov 2026 12:09:21 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -201,9 +276,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "fe3062bca695a840fefa28b90ac36a15988d251bc67752602ab1d110a09cb02f",
+  "contentHash": "67077ed6c48a3e90fb5f5b2173c5df91440dd64684fe7e415f4569c9808ebc1b",
   "country": "AU",
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T12:23:04Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T12:09:17Z",
   "schemaVersion": 1
 }
