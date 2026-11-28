@@ -494,12 +494,23 @@
             }
           ],
           "startDate": "2026-11-05"
+        },
+        {
+          "endDate": "2026-12-02",
+          "items": [
+            {
+              "artist": "Sfera Ebbasta, Shiva and Geolier",
+              "rank": 1,
+              "title": "Victory Lap"
+            }
+          ],
+          "startDate": "2026-11-26"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-19",
+        "observedAt": "2026-11-26",
         "provider": "Wikipedia contributors",
         "territory": "IT",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Italy)"
@@ -507,7 +518,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "a9cfda412c7525908d226452cd998730d9b7b27d98092820c99324e3a5e7d5d4",
+  "contentHash": "2c0a88ffb50b0dd90fd9c0e1973deea2932ba2fb52d86213b174d6a600894166",
   "country": "it",
   "schemaVersion": 1,
   "year": 2026

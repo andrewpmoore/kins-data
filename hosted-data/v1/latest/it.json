@@ -19,16 +19,16 @@
           "rank": 2,
           "releaseDate": "2026-11-12",
           "title": "SCROOGE E GLI SPIRITI DEL NATALE (EBENEZER)",
-          "weekendGrossEUR": 2289795.84
+          "weekendGrossEUR": 2289794.84
         },
         {
-          "admissions": 228702,
+          "admissions": 228830,
           "countryOfOrigin": "ITA",
           "distributor": "NOTORIOUS PICTURES",
           "rank": 3,
           "releaseDate": "2026-11-05",
           "title": "SE DOMANI NON TORNO",
-          "weekendGrossEUR": 1585375.62
+          "weekendGrossEUR": 1586143.12
         },
         {
           "admissions": 119984,
@@ -202,7 +202,7 @@
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 27 Nov 2026 12:09:50 +0000",
+        "observedAt": "Sat, 28 Nov 2026 11:43:33 +0000",
         "provider": "Apple Music",
         "territory": "IT",
         "url": "https://rss.marketingtools.apple.com/api/v2/it/music/most-played/10/songs.json"
@@ -376,7 +376,7 @@
       "source": {
         "kind": "nameRanking",
         "metric": "national registered baby-name rank, count and sex share",
-        "observedAt": "2026-11-27T12:09:17Z",
+        "observedAt": "2026-11-28T11:39:55Z",
         "provider": "Istat",
         "territory": "IT",
         "url": "https://www.istat.it/en/data/interactive-contents/baby-names/"
@@ -385,9 +385,9 @@
       "year": 2025
     }
   },
-  "contentHash": "5c67a4034c13d163fe9c216112aa69ad6727773aba1d53548f1423fe583ed9d2",
+  "contentHash": "f92b5525cd342358840f347676e6e685422676a51daefb23e242442151bc317e",
   "country": "IT",
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T12:09:17Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T11:39:55Z",
   "schemaVersion": 1
 }

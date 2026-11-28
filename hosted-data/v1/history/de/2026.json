@@ -507,12 +507,23 @@
             }
           ],
           "startDate": "2026-11-20"
+        },
+        {
+          "endDate": "2026-12-03",
+          "items": [
+            {
+              "artist": "Wham!",
+              "rank": 1,
+              "title": "Last Christmas"
+            }
+          ],
+          "startDate": "2026-11-27"
         }
       ],
       "source": {
         "kind": "nationalSinglesChart",
         "metric": "historical number-one singles chart; legacy rows with conflicting dates omitted",
-        "observedAt": "2026-11-20",
+        "observedAt": "2026-11-27",
         "provider": "Wikipedia contributors",
         "territory": "DE",
         "url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_(Germany)"
@@ -520,7 +531,7 @@
       "title": "Historical number-one single"
     }
   },
-  "contentHash": "0f01593bfd4612bcb039a6ae21c76b45d95096085ca980d502a121f3f18931a7",
+  "contentHash": "a47092d484c4f24794ab79e30ab37b73c35893281da6817ec90a121aad1f1ac5",
   "country": "de",
   "schemaVersion": 1,
   "year": 2026

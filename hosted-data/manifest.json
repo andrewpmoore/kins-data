@@ -20,8 +20,8 @@
     "nameMeaningShard": "v1/editorial/name-meanings/{initial}.json",
     "nameMeanings": "v1/editorial/name-meanings.json"
   },
-  "generatedAt": "2026-11-27T12:09:17Z",
-  "latestDate": "2026-11-27",
+  "generatedAt": "2026-11-28T11:39:55Z",
+  "latestDate": "2026-11-28",
   "runStatus": [
     {
       "source": "appleMusic/GB",
@@ -102,12 +102,14 @@
       "status": "ok"
     },
     {
+      "detail": "Unable to fetch https://loveyourbookshop.org.au/aba-top-10/: HTTP Error 403: Forbidden",
       "source": "publicBooks/adultBooks/AU",
-      "status": "ok"
+      "status": "error"
     },
     {
+      "detail": "Unable to fetch https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10: HTTP Error 403: Forbidden",
       "source": "publicBooks/adultBooks/NZ",
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "publicBooks/childrensBooks/NZ",

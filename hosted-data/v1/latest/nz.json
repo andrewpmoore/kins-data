@@ -1,80 +1,5 @@
 {
   "charts": {
-    "adultBooks": {
-      "audience": "adult",
-      "id": "bookhub-nielsen-indie-2026-11-27",
-      "items": [
-        {
-          "category": "Fiction",
-          "isbn13": "9781786588821",
-          "rank": 1,
-          "title": "Peck & Peck"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9780571404728",
-          "rank": 2,
-          "title": "Partita"
-        },
-        {
-          "category": "NZ Fiction",
-          "isbn13": "9781776923199",
-          "rank": 3,
-          "title": "The Starving Bride"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9780241814307",
-          "rank": 4,
-          "title": "The Things We Never Say"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9781869718534",
-          "rank": 5,
-          "title": "The Flying Girls"
-        },
-        {
-          "category": "NZ Fiction",
-          "isbn13": "9781037405556",
-          "rank": 6,
-          "title": "Orlando: an epic, spellbinding mystery set in Lucinda Riley's Seven Sisters universe"
-        },
-        {
-          "category": "NZ Flora & Fauna",
-          "isbn13": "9781776951369",
-          "rank": 7,
-          "title": "Butterflies and Moths of Aotearoa"
-        },
-        {
-          "category": "Biography & Memoir",
-          "isbn13": "9781775543169",
-          "rank": 8,
-          "title": "The Bare Margins: An Autobiography (HB)"
-        },
-        {
-          "category": "NZ Children & Young Adult",
-          "isbn13": "9781869718862",
-          "rank": 9,
-          "title": "Footrot Flats: Here's to the Good Times!"
-        },
-        {
-          "category": "Fiction",
-          "isbn13": "9781806493753",
-          "rank": 10,
-          "title": "The End of Everything 2026 Booker Prize Winner"
-        }
-      ],
-      "source": {
-        "kind": "publicBookChart",
-        "metric": "weekly sales through participating independent booksellers",
-        "observedAt": "2026-11-27",
-        "provider": "Booksellers Aotearoa / Nielsen BookScan",
-        "territory": "NZ",
-        "url": "https://bookhub.co.nz/c/this-week-s-official-nielsen-indie-top-10"
-      },
-      "title": "Official Nielsen Indie Top 10"
-    },
     "childrensBooks": {
       "audience": "children",
       "id": "booksellers-nz-children-2026-11-26",
@@ -220,19 +145,10 @@
       "id": "apple-music-most-played",
       "items": [
         {
-          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
-          "id": "6819802968",
-          "rank": 1,
-          "releaseDate": "2026-10-15",
-          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
-          "url": "https://music.apple.com/nz/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
-        },
-        {
           "artist": "Ella Langley",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
           "id": "1844932150",
-          "rank": 2,
+          "rank": 1,
           "releaseDate": "2025-10-17",
           "title": "Choosin' Texas",
           "url": "https://music.apple.com/nz/album/choosin-texas/1844932149?i=1844932150"
@@ -241,28 +157,37 @@
           "artist": "Olivia Dean",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
           "id": "1817609509",
-          "rank": 3,
+          "rank": 2,
           "releaseDate": "2025-09-26",
           "title": "Man I Need",
           "url": "https://music.apple.com/nz/album/man-i-need/1817609404?i=1817609509"
         },
         {
-          "artist": "Ashe",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
-          "id": "6795697687",
-          "rank": 4,
-          "releaseDate": "2026-08-07",
-          "title": "Stop The Wedding!",
-          "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
+          "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+          "id": "6819802968",
+          "rank": 3,
+          "releaseDate": "2026-10-15",
+          "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+          "url": "https://music.apple.com/nz/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
         },
         {
           "artist": "Tate McRae",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
           "id": "6822497774",
-          "rank": 5,
+          "rank": 4,
           "releaseDate": "2026-10-15",
           "title": "Housewife",
           "url": "https://music.apple.com/nz/album/housewife/6822497770?i=6822497774"
+        },
+        {
+          "artist": "Ashe",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+          "id": "6795697687",
+          "rank": 5,
+          "releaseDate": "2026-08-07",
+          "title": "Stop The Wedding!",
+          "url": "https://music.apple.com/nz/album/stop-the-wedding/6795697684?i=6795697687"
         },
         {
           "artist": "Jamie Miller",
@@ -292,28 +217,28 @@
           "url": "https://music.apple.com/nz/album/rein-me-in/1820918466?i=1820918468"
         },
         {
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
+          "rank": 9,
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/nz/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+        },
+        {
           "artist": "ADÉLA",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
           "id": "6792884088",
-          "rank": 9,
+          "rank": 10,
           "releaseDate": "2026-09-04",
           "title": "Nicole Kidman",
           "url": "https://music.apple.com/nz/album/nicole-kidman/6792883860?i=6792884088"
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 10,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/nz/album/stupid-song/1889992111?i=1889992115"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 27 Nov 2026 12:09:49 +0000",
+        "observedAt": "Sat, 28 Nov 2026 11:41:42 +0000",
         "provider": "Apple Music",
         "territory": "NZ",
         "url": "https://rss.marketingtools.apple.com/api/v2/nz/music/most-played/10/songs.json"
@@ -476,9 +401,9 @@
       "year": 2025
     }
   },
-  "contentHash": "ed3031e3c646210cbf5d5676ef65e6bac46ce20622f7dee80c07761ebadaefba",
+  "contentHash": "907975616323e097219c2c2a61ebdd7c3c537e8913ac908c5ee02b6bc36f3f67",
   "country": "NZ",
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T12:09:17Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T11:39:55Z",
   "schemaVersion": 1
 }

@@ -1,80 +1,5 @@
 {
   "charts": {
-    "adultBooks": {
-      "audience": "adult",
-      "id": "aba-buying-group-2026-11-21",
-      "items": [
-        {
-          "creator": "Tim Winton",
-          "rank": 1,
-          "title": "Songs from the Firefront",
-          "url": "https://loveyourbookshop.org.au/bestsellers/songs-from-the-firefront"
-        },
-        {
-          "creator": "Pip Williams",
-          "rank": 2,
-          "title": "The German Ward",
-          "url": "https://loveyourbookshop.org.au/bestsellers/the-german-ward"
-        },
-        {
-          "creator": "Niall Williams",
-          "rank": 3,
-          "title": "O Now!: From the award-winning, internationally bestselling author of FOUR LETTERS OF LOVE and THIS IS HAPPINESS",
-          "url": "https://loveyourbookshop.org.au/bestsellers/o-now-from-the-award-winning-internationally-bestselling-author-of-four-letters-of-love-and-this-is-happiness"
-        },
-        {
-          "creator": "Elizabeth Strout",
-          "rank": 4,
-          "title": "The Things We Never Say",
-          "url": "https://loveyourbookshop.org.au/bestsellers/the-things-we-never-say"
-        },
-        {
-          "creator": "Barbara Kingsolver",
-          "rank": 5,
-          "title": "Partita",
-          "url": "https://loveyourbookshop.org.au/bestsellers/partita"
-        },
-        {
-          "creator": "Bonnie Garmus",
-          "rank": 6,
-          "title": "Peck & Peck",
-          "url": "https://loveyourbookshop.org.au/bestsellers/peck-peck"
-        },
-        {
-          "creator": "Pilkey,Dav",
-          "rank": 7,
-          "title": "Sprinkle in Time: A Graphic Novel (Dog Man #15)",
-          "url": "https://loveyourbookshop.org.au/bestsellers/sprinkle-in-time-a-graphic-novel-dog-man-15"
-        },
-        {
-          "creator": "Usman Khawaja",
-          "rank": 8,
-          "title": "Sabr",
-          "url": "https://loveyourbookshop.org.au/bestsellers/sabr"
-        },
-        {
-          "creator": "Josh Silver",
-          "rank": 9,
-          "title": "Fruit Fly",
-          "url": "https://loveyourbookshop.org.au/bestsellers/fruit-fly"
-        },
-        {
-          "creator": "Jeff Kinney",
-          "rank": 10,
-          "title": "Fight or Flight: Diary of a Wimpy Kid (21)",
-          "url": "https://loveyourbookshop.org.au/bestsellers/fight-or-flight-diary-of-a-wimpy-kid-21"
-        }
-      ],
-      "source": {
-        "kind": "publicBookChart",
-        "metric": "bestsellers in ABA Buying Group stores",
-        "observedAt": "2026-11-21",
-        "provider": "Australian Booksellers Association / NielsenIQ BookScan",
-        "territory": "AU",
-        "url": "https://loveyourbookshop.org.au/aba-top-10/"
-      },
-      "title": "ABA Buying Group Top 10"
-    },
     "movies": {
       "id": "box-office-mojo-au-2026-11-22",
       "items": [
@@ -220,55 +145,55 @@
           "url": "https://music.apple.com/au/album/man-i-need/1817609404?i=1817609509"
         },
         {
-          "artist": "STELLA LEFTY",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
-          "id": "1884403093",
+          "artist": "Mariah Carey",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+          "id": "585972803",
           "rank": 6,
-          "releaseDate": "2026-03-27",
-          "title": "Boston",
-          "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
-          "id": "1889992115",
-          "rank": 7,
-          "releaseDate": "2026-06-12",
-          "title": "stupid song",
-          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
-        },
-        {
-          "artist": "Jamie Miller",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
-          "id": "6794168373",
-          "rank": 8,
-          "releaseDate": "2026-08-07",
-          "title": "Babydoll",
-          "url": "https://music.apple.com/au/album/babydoll/6794168372?i=6794168373"
+          "releaseDate": "1994-10-28",
+          "title": "All I Want for Christmas Is You",
+          "url": "https://music.apple.com/au/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
         },
         {
           "artist": "Harry Styles",
           "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/100x100bb.jpg",
           "id": "1870984036",
-          "rank": 9,
+          "rank": 7,
           "releaseDate": "2026-03-06",
           "title": "American Girls",
           "url": "https://music.apple.com/au/album/american-girls/1870984032?i=1870984036"
         },
         {
-          "artist": "Sam Fender & Olivia Dean",
-          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-          "id": "1820918468",
+          "artist": "STELLA LEFTY",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/100x100bb.jpg",
+          "id": "1884403093",
+          "rank": 8,
+          "releaseDate": "2026-03-27",
+          "title": "Boston",
+          "url": "https://music.apple.com/au/album/boston/1884403092?i=1884403093"
+        },
+        {
+          "artist": "Jamie Miller",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+          "id": "6794168373",
+          "rank": 9,
+          "releaseDate": "2026-08-07",
+          "title": "Babydoll",
+          "url": "https://music.apple.com/au/album/babydoll/6794168372?i=6794168373"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+          "id": "1889992115",
           "rank": 10,
-          "releaseDate": "2025-10-17",
-          "title": "Rein Me In",
-          "url": "https://music.apple.com/au/album/rein-me-in/1820918466?i=1820918468"
+          "releaseDate": "2026-06-12",
+          "title": "stupid song",
+          "url": "https://music.apple.com/au/album/stupid-song/1889992111?i=1889992115"
         }
       ],
       "source": {
         "kind": "streamingChart",
         "metric": "most-played",
-        "observedAt": "Fri, 27 Nov 2026 12:09:21 +0000",
+        "observedAt": "Sat, 28 Nov 2026 11:41:39 +0000",
         "provider": "Apple Music",
         "territory": "AU",
         "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/10/songs.json"
@@ -276,9 +201,9 @@
       "title": "Top Songs"
     }
   },
-  "contentHash": "67077ed6c48a3e90fb5f5b2173c5df91440dd64684fe7e415f4569c9808ebc1b",
+  "contentHash": "bcac5faffd56f94e97fdca2abfadd8cdda31fa06f6d8cb70efd3f940a455c5d0",
   "country": "AU",
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T12:09:17Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T11:39:55Z",
   "schemaVersion": 1
 }
